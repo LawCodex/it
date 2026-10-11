@@ -1,0 +1,69 @@
+---
+title: "REGIO DECRETO 22 febbraio 1930, n. 275 — Soppressione della Cassa di previdenza per le pensioni agli impiegati degli archivi notarili e passaggio del suo patrimonio e del suo debito vitalizio all'Amministrazione degli archivi."
+identifier: "urn:nir:stato:regio.decreto:1930-02-22;275"
+eli: "https://www.normattiva.it/eli/id/1930/04/08/030U0275/CONSOLIDATED/20091214"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1930-02-22
+last_amended: 2009-12-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 83 del 1930-04-08"
+codice_redazionale: "030U0275"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-02-22;275"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 22 febbraio 1930, n. 275
+
+**Soppressione della Cassa di previdenza per le pensioni agli impiegati degli archivi notarili e passaggio del suo patrimonio e del suo debito vitalizio all'Amministrazione degli archivi.**
+
+*Entrata in vigore del provvedimento: 23/04/1930*
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la legge 31 gennaio 1926, n. 100;
+
+Sentito il Consiglio di Stato;
+
+Udito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per la giustizia e gli affari di culto, di concerto con il Ministro per le finanze;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+La Cassa di previdenza per le pensioni agli impiegati degli archivi notarili, istituita presso la Cassa depositi e prestiti con la legge 12 dicembre 1907, n. 755, e' soppressa col 1° gennaio 1930 e il relativo patrimonio al 31 dicembre 1929 sara' trasferito al conto corrente esistente presso l'anzidetta Cassa depositi e prestiti denominato «Fondo dei sopravanzi degli archivi notarili del Regno».
+
+Al fondo medesimo saranno devolute le ritenute per pensione mensilmente eseguite sugli stipendi degli impiegati nella misura del 6 per cento, nonche' i proventi delle pene pecuniarie applicate per contravvenzioni previste dalla legge 16 febbraio 1913, n. 89, e dal relativo regolamento approvato col R. decreto 10 settembre 1914, n. 1326.
+
+## Art. 2
+
+Le pensioni vigenti al 31 dicembre 1929, le indennita' che non risultassero corrisposte a detta data, nonche' i capitali riservati, conferiti in base alle disposizioni della legge 12 dicembre 1907, n. 755, saranno pagati a carico del bilancio degli archivi notarili.
+
+## Art. 3
+
+Il Ministro per la giustizia, con proprio decreto, potra' disporre che le somme esistenti nel conto corrente «Fondo dei sopravanzi degli archivi notarili» siano investite in titoli di Stato o in altri impieghi fruttiferi.
+
+## Art. 4
+
+Con decreto del Ministro per la giustizia, di concerto con il Ministro per le finanze, saranno dettate le norme eventualmente occorrenti per l'esecuzione del presente decreto.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 febbraio 1930 - Anno VIII
+
+VITTORIO EMANUELE.
+
+Mussolini - Rocco - Mosconi.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 5 aprile 1930 - Anno VIII
+
+Atti del Governo, registro 295, foglio 25. - Mancini.

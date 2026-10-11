@@ -1,0 +1,56 @@
+---
+title: "REGIO DECRETO 23 ottobre 1925, n. 2026 — Riunione dei comuni di Roversano e di Cesena nell'unico comune di Cesena."
+identifier: "urn:nir:stato:regio.decreto:1925-10-23;2026"
+eli: "https://www.normattiva.it/eli/id/1925/11/28/025U2026/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1925-10-23
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 277 del 1925-11-28"
+codice_redazionale: "025U2026"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2026"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 23 ottobre 1925, n. 2026
+
+**Riunione dei comuni di Roversano e di Cesena nell'unico comune di Cesena.**
+
+*Entrata in vigore del provvedimento: 13/12/1925*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno;
+
+Vista l'istanza in data 20 aprile 1925 con cui i sindaci di Roversano e di Cesena chiedono l'unione dei due Comuni nell'unico comune di Cesena, in conformita' delle deliberazioni 9 dicembre 1924 e 19 febbraio 1925 dei rispettivi Consigli comunali;
+
+Visto il parere favorevole espresso dal Consiglio provinciale di Forli' in adunanza 10 agosto 1925;
+
+Sentito il parere del Consiglio di Stato, le cui considerazioni si intendono nel presente decreto riportate;
+
+Visti la legge comunale e provinciale, il relativo regolamento nonche' il R. decreto 30 dicembre 1923, n. 2839;
+
+Abbiamo decretato e decretiamo:
+
+I comuni di Roversano e Cesena sono uniti nell'unico comune di Cesena, alle condizioni fissate dai Consigli comunali con le succitate deliberazioni.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a San Rossore, addi' 23 ottobre 1925.
+
+VITTORIO EMANUELE.
+
+Federzoni.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 26 novembre 1925.
+
+Atti del Governo, registro 242, foglio 180. - Granata.

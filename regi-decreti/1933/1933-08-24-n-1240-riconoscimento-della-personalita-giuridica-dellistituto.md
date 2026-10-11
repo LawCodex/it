@@ -1,0 +1,42 @@
+---
+title: "REGIO DECRETO 24 agosto 1933, n. 1240 — Riconoscimento della personalita' giuridica dell'Istituto delle Suore Serve di Maria SS. Addolorata, con Casa madre in Firenze."
+identifier: "urn:nir:stato:regio.decreto:1933-08-24;1240"
+eli: "https://www.normattiva.it/eli/id/1933/10/02/033U1240/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1933-08-24
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 229 del 1933-10-02"
+codice_redazionale: "033U1240"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-24;1240"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 24 agosto 1933, n. 1240
+
+**Riconoscimento della personalita' giuridica dell'Istituto delle Suore Serve di Maria SS. Addolorata, con Casa madre in Firenze.**
+
+*Entrata in vigore del provvedimento: 17/10/1933*
+
+## Art. 1
+
+N. 1240. R. decreto 24 agosto 1933, col quale, su proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Istituto delle Suore Serve di Maria Santissima Addolorata, con Casa madre in Firenze, via Faentina n. 181, e viene autorizzato il trasferimento a favore dell'Istituto medesimo dei seguenti immobili, gia' in suo possesso da tempo anteriore al Concordato:
+
+1° casa in Firenze, via Faentina 181, intestata a Del Buono Antonietta e Bardi Paolina;
+
+2° appezzamenti di terreno, con fabbricato, in Firenze, intestati. a Zanini Giulia, Cavrini Rita, Dolfi Angelina, Gabbiani Gina e Caiani Rosa;
+
+3° casa in Barberino di Mugello ed orto annesso, intestati a Del Buono Antonietta e Raggioli Faustina;
+
+4° case in Campi Bisenzio, via del Bisbiglio 1 e via del Cipresso 18, e appezzamento di terreno intestati a Pinzanti Teresa, Ugolini Giuseppina, Pagni Paola e Tarli Armida;
+
+5° fabbricato in Pelago, via Principale 87, e terreno, intestati a Del Rosso Emma;
+
+6° fabbricato in Dicomano, via della Pieve 86, e terreno, intestati a Mazzetti Luisa, Del Rosso Emma e Bardi Paolina;
+
+7° appezzamento di terreno con fabbricato in Roma, via Cassia Antica, intestati a Giorgi Angiolina, Ceri Maria, Cei Vittoria, Caiani Rosa, Zanini Giulia e Cavrini Rita.
+
+Visto, il Guardasigilli: De Francisci.
+
+Registrato alla Corte dei conti, addi' 22 settembre 1933 - Anno XI

@@ -1,0 +1,56 @@
+---
+title: "REGIO DECRETO 30 ottobre 1924, n. 1988 — Autorizzazione al comune di Abano Bagni a cambiare la sua denominazione in quella di «Abano Terme»."
+identifier: "urn:nir:stato:regio.decreto:1924-10-30;1988"
+eli: "https://www.normattiva.it/eli/id/1924/12/13/024U1988/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1924-10-30
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 290 del 1924-12-13"
+codice_redazionale: "024U1988"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-30;1988"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 30 ottobre 1924, n. 1988
+
+**Autorizzazione al comune di Abano Bagni a cambiare la sua denominazione in quella di «Abano Terme».**
+
+*Entrata in vigore del provvedimento: 28/12/1924*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista l'istanza 10 maggio 1924, con la quale il sindaco di Abano Bagni (Padova), in esecuzione della deliberazione 27 marzo detto di quel Consiglio comunale, chiede che venga autorizzato il cambiamento della denominazione del comune in quella di «Abano Terme»;
+
+Vista la deliberazione 7 giugno successivo, con la quale la Commissione Reale per la straordinaria amministrazione della Provincia ha espresso parere favorevole all'accoglimento dell'istanza;
+
+Vista la lettera 11 ottobre 1924, n. 218384, del Ministero delle comunicazioni con la quale esso dichiara che nulla osta all'invocato provvedimento, per quanto riguarda i servizi dipendenti dall'Amministrazione delle poste e telegrafi;
+
+Vista la legge comunale e provinciale;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno;
+
+Abbiamo decretato e decretiamo:
+
+Il comune di Abano Bagni e' autorizzato al cambiamento della sua denominazione in quella di «Abano Terme».
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a San Rossore, addi' 30 ottobre 1924.
+
+VITTORIO EMANUELE.
+
+Federzoni.
+
+Visto, il Guardasigilli: Oviglio.
+
+Registrato alla Corte dei conti, addi' 11 dicembre 1924.
+
+Atti del Governo, registro 231, foglio 77. - Granata.

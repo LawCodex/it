@@ -1,0 +1,56 @@
+---
+title: "REGIO DECRETO 07 marzo 1929, n. 442 — Aggregazione del comune di Perloz, nonche' di parte del territorio dei comuni di Donnaz e Carema, al comune di Pont-Saint-Martin, che assume la denominazione di «Ponte San Martino»."
+identifier: "urn:nir:stato:regio.decreto:1929-03-07;442"
+eli: "https://www.normattiva.it/eli/id/1929/04/18/029U0442/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1929-03-07
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 91 del 1929-04-18"
+codice_redazionale: "029U0442"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-07;442"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 07 marzo 1929, n. 442
+
+**Aggregazione del comune di Perloz, nonche' di parte del territorio dei comuni di Donnaz e Carema, al comune di Pont-Saint-Martin, che assume la denominazione di «Ponte San Martino».**
+
+*Entrata in vigore del provvedimento: 03/05/1929*
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+In virtu' dei poteri conferiti al Governo col R. decreto-legge 17 marzo 1927, n. 383, convertito nella legge 7 giugno 1928, n. 1382;
+
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+Il comune di Perloz, nonche' le parti di territorio dei comuni di Donnaz e Carema, delimitate giusta le piante planimetriche vistate dall'ingegnere capo dell'ufficio del Genio civile di Torino rispettivamente in data 7 maggio e 22 settembre 1928, sono aggregati al comune di Pont-Saint-Martin, che assume la denominazione di «Ponte San Martino».
+
+Le piante anzidette, vidimate, d'ordine Nostro, dal Ministro proponente, faranno parte integrante del presente decreto.
+
+## Art. 2
+
+Il prefetto di Aosta, sentita la Giunta provinciale amministrativa, determinera', ai sensi e agli effetti dell'art. 118 della legge comunale e provinciale, testo unico 4 febbraio 1915, n. 148, le condizioni dell'aggregazione del comune di Perloz al comune di Ponte San Martino e provvedera' altresi' al regolamento dei rapporti patrimoniali e finanziari fra quest'ultimo ed i comuni di Donnaz e Carema in dipendenza delle variazioni di circoscrizione disposte dal precedente articolo.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 7 marzo 1929 - Anno VII.
+
+VITTORIO EMANUELE.
+
+MUSSOLINI.
+
+Visto, il Guardasigilli: ROCCO.
+
+Registrato alla Corte dei conti, addi' 10 aprile 1929 - Anno VII
+
+Atti del Governo, registro 283, foglio 63. - SIROVICH.

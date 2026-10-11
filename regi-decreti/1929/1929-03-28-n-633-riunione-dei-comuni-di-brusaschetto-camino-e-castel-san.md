@@ -1,0 +1,60 @@
+---
+title: "REGIO DECRETO 28 marzo 1929, n. 633 — Riunione dei comuni di Brusaschetto, Camino e Castel San Pietro, nonche' di parte della frazione Isolengo, in un unico Comune con denominazione «Camino» e capoluogo nella localita' Castello di Camino."
+identifier: "urn:nir:stato:regio.decreto:1929-03-28;633"
+eli: "https://www.normattiva.it/eli/id/1929/05/08/029U0633/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1929-03-28
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 108 del 1929-05-08"
+codice_redazionale: "029U0633"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;633"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 28 marzo 1929, n. 633
+
+**Riunione dei comuni di Brusaschetto, Camino e Castel San Pietro, nonche' di parte della frazione Isolengo, in un unico Comune con denominazione «Camino» e capoluogo nella localita' Castello di Camino.**
+
+*Entrata in vigore del provvedimento: 23/05/1929*
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+In virtu' dei poteri conferiti al Governo col R. decreto-legge 17 marzo 1927, n. 383, convertito nella legge 7 giugno 1928, n. 1382;
+
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+I comuni di Brusaschetto, Camino e Castel San Pietro, nonche' la parte della frazione Isolengo, attualmente appartenente a Mombello Monferrato, sono riuniti in unico Comune con denominazione «Camino» e capoluogo nella localita' Castello di Camino.
+
+## Art. 2
+
+La linea di confine del comune ampliato di Camino, in dipendenza dell'aggregazione della frazione Isolengo, e' stabilita in conformita' della pianta planimetrica vistata in data 13 marzo 1929 dall'ingegnere capo del Genio civile di Alessandria.
+
+Tale pianta, vidimata d'ordine Nostro dal Ministro proponente, fara' parte integrante del presente decreto.
+
+## Art. 3
+
+Al prefetto di Alessandria e' demandato di provvedere, sentita la Giunta provinciale amministrativa, alla determinazione, ai sensi ed agli effetti dell'art. 118 della legge comunale e provinciale, testo unico 4 febbraio 1915, n. 148, delle condizioni della riunione dei comuni di Brusaschetto, Camino, Castel San Pietro, e della frazione Isolengo, nonche' alla sistemazione dei rapporti patrimoniali e finanziari fra il comune ampliato di Camino e quello di Mombello Monferrato, in dipendenza della modificazione di circoscrizione disposta con l'art. 1.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a San Rossore, addi' 28 marzo 1929 - Anno VII
+
+VITTORIO EMANUELE.
+
+Mussolini.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 6 maggio 1929 - Anno VII
+
+Atti del Governo, registro 284, foglio 19. - Mancini.

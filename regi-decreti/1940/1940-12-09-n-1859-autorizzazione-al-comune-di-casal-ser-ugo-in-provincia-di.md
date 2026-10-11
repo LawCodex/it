@@ -1,0 +1,56 @@
+---
+title: "REGIO DECRETO 09 dicembre 1940, n. 1859 — Autorizzazione al comune di Casal Ser Ugo, in provincia di Padova, a modificare la grafia della propria denominazione in «Casalserugo»."
+identifier: "urn:nir:stato:regio.decreto:1940-12-09;1859"
+eli: "https://www.normattiva.it/eli/id/1941/01/23/040U1859/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1940-12-09
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 18 del 1941-01-23"
+codice_redazionale: "040U1859"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-12-09;1859"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 09 dicembre 1940, n. 1859
+
+**Autorizzazione al comune di Casal Ser Ugo, in provincia di Padova, a modificare la grafia della propria denominazione in «Casalserugo».**
+
+*Entrata in vigore del provvedimento: 07/02/1941*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Veduta la domanda con la quale il podesta' del comune di Casal Ser Ugo, in provincia di Padova, chiede, in esecuzione della propria deliberazione 13 gennaio 1940-XVIII, l'autorizzazione a modificare la grafia della denominazione di quel comune in «Casalserugo»;
+
+Veduto il parere favorevole espresso dal Rettorato della provincia di Padova, in seduta 9 marzo 1940-XVIII;
+
+Veduto l'art. 266 del testo unico della legge comunale e provinciale, approvato con Nostro decreto 3 marzo 1934-XII, n. 383;
+
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno;
+
+Abbiamo decretato e decretiamo:
+
+Il comune di Casal Ser Ugo, in provincia di Padova, e' autorizzato a modificare la grafia della propria denominazione in «Casalserugo»
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 9 dicembre 1940-XIX
+
+VITTORIO EMANUELE
+
+MUSSOLINI
+
+Visto, il Guardasigilli: GRANDI
+
+Registrato alla Corte dei conti, addi' 19 gennaio 1941-XIX
+
+Atti del Governo, registro 429, foglio 91. - MANCINI

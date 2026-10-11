@@ -1,0 +1,56 @@
+---
+title: "REGIO DECRETO 14 febbraio 1926, n. 553 — Dichiarazione di pubblica utilita' della espropriazione di parte delle costruzioni addossate al palazzo del Banco di San Giorgio, in Genova."
+identifier: "urn:nir:stato:regio.decreto:1926-02-14;553"
+eli: "https://www.normattiva.it/eli/id/1926/04/13/026U0553/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1926-02-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 86 del 1926-04-13"
+codice_redazionale: "026U0553"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-02-14;553"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 14 febbraio 1926, n. 553
+
+**Dichiarazione di pubblica utilita' della espropriazione di parte delle costruzioni addossate al palazzo del Banco di San Giorgio, in Genova.**
+
+*Entrata in vigore del provvedimento: 28/04/1926*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Considerata l'opportunita' di procedere in via di espropriazione forzata per causa di pubblica utilita' all'abbattimento di una serie di basse costruzioni, adibite a botteghe, addossate al monumentale palazzo del Banco di San Giorgio in Genova e prospicienti la piazza, del Banco di San Giorgio, gia' piazza del Caricamento, al fine di restituire lo storico predetto palazzo al suo primitivo splendido isolamento;
+
+Ritenuto che il Consorzio autonomo del porto di Genova ha preso formale impegno di accollarsi tutto il carico della spesa occorrente;
+
+Viste le leggi 25 giugno 1866, n. 2359; 18 dicembre 1879, n. 5188, e 20 giugno 1909, n. 364;
+
+Sentito il parere del Consiglio di Stato;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzione;
+
+Abbiamo decretato e decretiamo:
+
+Il Governo del Re, e per esso il Ministero della pubblica istruzione, e' autorizzato ad acquistare in via di espropriazione per causa di pubblica utilita' le basse costruzioni addossate al palazzo del Banco di San Giorgio e prospicienti la piazza del Banco di San Giorgio, gia' piazza del Caricamento, e di procedere, quindi, all'abbattimento delle medesime nel termine di anni due, a decorrere dalla data del presente decreto.
+
+Ordiniamo che il presente decreto, munito del sigillo della Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 febbraio 1926.
+
+VITTORIO EMANUELE.
+
+Fedele.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 11 aprile 1926.
+
+Atti del Governo, registro 247, foglio 48. - Coop

@@ -1,0 +1,78 @@
+---
+title: "REGIO DECRETO 01 febbraio 1922, n. 228 — Che istituisce in Palmi un Ente autonomo di bonifica."
+identifier: "urn:nir:stato:regio.decreto:1922-02-01;228"
+eli: "https://www.normattiva.it/eli/id/1922/04/08/022U0228/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1922-02-01
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 83 del 1922-04-08"
+codice_redazionale: "022U0228"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-02-01;228"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 01 febbraio 1922, n. 228
+
+**Che istituisce in Palmi un Ente autonomo di bonifica.**
+
+*Entrata in vigore del provvedimento: 23/04/1922*
+
+VITTORIO EMANUELE III
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto l'art. 3 della legge 20 agosto 1921, n. 1177, e il relativo regolamento approvato con Nostro decreto del 22 dicembre 1921, n. 2046;
+
+Sulla proposta del ministro segretario di Stato per i lavori pubblici di concerto coi ministri segretari di Stato per l'agricoltura e per il lavoro e la previdenza sociale;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+E' istituito un Ente autonomo con sede in Palmi per l'esecuzione della bonifica del comprensorio della Piana di Rosarno, la cui delimitazione territoriale risulta dal tipo firmato d'ordine Nostro dai ministri proponenti, salve le variazioni che potranno essere apportate dopo la compilazione del progetto di massima delle opere.
+
+Oltre alle opere di bonifica idraulica, l'Ente dovra' provvedere alle sistemazioni idrauliche e forestali connesse col bonificamento e, in luogo dei Comuni e della Provincia, anche alla viabilita' ordinaria in quanto e' necessaria per la messa in valore del territorio da bonificare.
+
+Spettera' pure all'Ente di eseguire le opere occorrenti alla provvista di acqua potabile nei limiti del proprio territorio nonche' quelle di miglioramento agrario e di difesa antimalarica nella zona bonificata.
+
+## Art. 2
+
+L'Ente sara' amministrato da un Consiglio composto nel modo indicato degli articoli 2 e seguenti del citato regolamento 22 dicembre 1921.
+
+## Art. 3
+
+Il rappresentante della Provincia e dei Comuni potra' essere scelto anche all'infuori dei componenti il Consiglio provinciale e comunale.
+
+Il Ministero dei lavori pubblici prescrivera' il termine entro il quale dovra' procedersi dalla Provincia e dai comuni alla designazione del loro rappresentante, provvedendo direttamente alla nomina quando non sia fatta nel tempo prescritto.
+
+## Art. 4
+
+Il Consiglio presentera' entro un mese dalla sua costituzione al Ministero dei lavori pubblici il regolamento interno dell'Ente ed entro quattro mesi dalla stessa data il progetto di massima delle opere da eseguire ed il piano di svolgimento dei lavori.
+
+## Art. 5
+
+Tutti i proventi di qualunque specie ricavabili a termini dell'art. 15 del testo unico 22 marzo 1900, n. 195, andranno a profitto del bilancio dell'Ente.
+
+## Art. 6
+
+L'Ufficio del Genio civile di Reggio Calabria e' incaricato di stabilire con la rappresentanza dell'Ente le modalita' di consegna dei progetti compilati o in corso di compilazione nonche' di trapasso della gestione delle opere in corso che rientrano nel compito affidato all'Ente medesimo.
+
+## Art. 7
+
+A bonifica compiuta, l'Ente provvedera' alla consegna delle opere agli Enti o proprietari interessati, a norma delle vigenti leggi, e cessera' da ogni funzione.
+
+Le operazioni di liquidazione e di stralcio della gestione ed il servizio dei prestiti eventualmente contratti saranno assunti, secondo la rispettiva competenza, dai Ministeri dei lavori pubblici e dell'agricoltura.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1° febbraio 1922.
+
+VITTORIO EMANUELE.
+
+MICHELI - MAURI - BENEDUCE.
+
+Visto, il guardasigilli: RODINO'.

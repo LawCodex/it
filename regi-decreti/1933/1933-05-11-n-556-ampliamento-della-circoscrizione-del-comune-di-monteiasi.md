@@ -1,0 +1,58 @@
+---
+title: "REGIO DECRETO 11 maggio 1933, n. 556 — Ampliamento della circoscrizione del comune di Monteiasi."
+identifier: "urn:nir:stato:regio.decreto:1933-05-11;556"
+eli: "https://www.normattiva.it/eli/id/1933/06/08/033U0556/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1933-05-11
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 133 del 1933-06-08"
+codice_redazionale: "033U0556"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-05-11;556"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 11 maggio 1933, n. 556
+
+**Ampliamento della circoscrizione del comune di Monteiasi.**
+
+*Entrata in vigore del provvedimento: 23/06/1933*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduta la domanda con la quale il podesta' di Monteiasi chiede che in esecuzione delle proprie deliberazioni 21 luglio 1932 e 18 marzo 1933, e di quelle 6 dicembre 1932 e 18 marzo 1933, rispettivamente del commissario prefettizio e del podesta' di Taranto, sieno aggregati al comune di Monteiasi ett. 751.46.70 del territorio del comune di Taranto, giusta il progetto di delimitazione predisposto dalla Sezione tecnica catastale di Taranto e vistato dall'Ufficio del genio civile in data 13 marzo 1933;
+
+Veduti i pareri espressi dal Rettorato della provincia di Taranto nella seduta del 23 gennaio e dalla Giunta provinciale amministrativa in quella del 22 marzo 1933;
+
+Udito il Consiglio di stato - sezione prima - il cui parere in data 25 aprile 1933 si intende nel presente decreto riportato;
+
+Veduti il testo unico della legge comunale e provinciale approvato con R. decreto 4 febbraio 1915, n. 148, il R. decreto 30 dicembre 1923, n. 2839, la legge 4 febbraio 1926, n. 237, il R. decreto-legge 3 settembre 1926, n. 1910, convertito nella legge 2 giugno 1927, n. 957, e la legge 27 dicembre 1928, n. 2962;
+
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno;
+
+Abbiamo decretato e decretiamo:
+
+Le parti del territorio del comune di Taranto, delimitate in conformita' della pianta planimetrica vistata in data 13 marzo 1933 dall'Ufficio del genio civile di Taranto, sono aggregate ai comune di Monteiasi.
+
+La pianta planimetrica anzidetta, vidimata, d'ordine Nostro, dal Ministro proponente, fara' parte integrante del presente decreto.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 maggio 1933 - Anno XI
+
+VITTORIO EMANUELE
+
+Mussolini
+
+Visto, il Guardasigilli: De Francisci.
+
+Registrato alla Corte dei conti, addi' 5 giugno 1933 - Anno XI.
+
+Atti del Governo, registro 333, foglio 13. - Mancini.

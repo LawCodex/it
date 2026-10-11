@@ -1,0 +1,28 @@
+---
+title: "REGIO DECRETO 27 febbraio 1939, n. 463 — Espropriazione per pubblica utilita' di alcuni terreni in territorio di Lucera per la sistemazione dell'Anfiteatro Romano."
+identifier: "urn:nir:stato:regio.decreto:1939-02-27;463"
+eli: "https://www.normattiva.it/eli/id/1939/03/17/039U0463/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1939-02-27
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 65 del 1939-03-17"
+codice_redazionale: "039U0463"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-02-27;463"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 27 febbraio 1939, n. 463
+
+**Espropriazione per pubblica utilita' di alcuni terreni in territorio di Lucera per la sistemazione dell'Anfiteatro Romano.**
+
+*Entrata in vigore del provvedimento: 01/04/1939*
+
+## Art. 1
+
+N. 463. R. decreto 27 febbraio 1939, col quale, sulla proposta del Ministro per l'educazione nazionale, viene dichiarata di pubblica utilita' l'espropriazione a favore dello Stato di alcuni terreni siti in territorio di Lucera per la sistemazione dell'Anfiteatro Romano di quella citta':
+
+Visto, il Guardasigilli: Solmi.
+
+Registrato alla Corte dei conti, addi' 15 marzo 1939-XVII

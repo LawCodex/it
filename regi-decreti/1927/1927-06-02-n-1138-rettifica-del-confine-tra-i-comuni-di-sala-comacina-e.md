@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 02 giugno 1927, n. 1138 — Rettifica del confine tra i comuni di Sala Comacina e Colonno."
+identifier: "urn:nir:stato:regio.decreto:1927-06-02;1138"
+eli: "https://www.normattiva.it/eli/id/1927/07/12/027U1138/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1927-06-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 159 del 1927-07-12"
+codice_redazionale: "027U1138"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-06-02;1138"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 02 giugno 1927, n. 1138
+
+**Rettifica del confine tra i comuni di Sala Comacina e Colonno.**
+
+*Entrata in vigore del provvedimento: 27/07/1927*
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+In virtu' dei poteri conferiti al Governo dal R. decreto-legge 17 marzo 1927, n. 383;
+
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per gli affari dell'interno;
+
+Veduto il R. decreto 13 dicembre 1925, n. 2472, con cui la frazione San Bartolomeo fu staccata dal comune di Sala Comacina ed aggregata a quello di Colonno;
+
+Vedute le deliberazioni 30 maggio 1926 del Consiglio comunale di Sala Comacina e 15 febbraio 1927 del podesta' di Colonno, con cui si propone la rettifica del confine, stabilito dal decreto suddetto, in conformita' del progetto vistato dall'ufficio del Genio civile di Como;
+
+Veduti i pareri favorevoli espressi dalla Commissione Reale per la straordinaria amministrazione della provincia di Como, con i poteri del Consiglio provinciale, nonche' dalla Giunta provinciale amministrativa, rispettivamente nelle adunanze del 31 marzo e 19 aprile 1927;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+Il confine tra i comuni di Sala Comacina e Colonno e' rettificato in conformita' della pianta planimetrica vistata dall'ingegnere capo dell'ufficio del Genio civile di Como.
+
+Tale pianta, vidimata, d'ordine Nostro, dal Ministro proponente, fara' parte integrante del presente decreto.
+
+## Art. 2
+
+Al prefetto di Como e' demandato di provvedere, sentita la Giunta provinciale amministrativa, all'approvazione del progetto di separazione patrimoniale tra i comuni di Sala Comacina e Colonno, da predisporsi d'accordo tra le rispettive amministrazioni comunali o, in caso di dissenso, d'ufficio.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 giugno 1927 - Anno V
+
+VITTORIO EMANUELE.
+
+Mussolini.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 11 luglio 1927 - Anno V
+
+Atti del Governo, registro 262, foglio 22. - Ferretti.

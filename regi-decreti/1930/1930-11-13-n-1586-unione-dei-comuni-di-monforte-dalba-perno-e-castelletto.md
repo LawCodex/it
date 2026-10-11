@@ -1,0 +1,56 @@
+---
+title: "REGIO DECRETO 13 novembre 1930, n. 1586 — Unione dei comuni di Monforte d'Alba, Perno e Castelletto Monforte in un unico comune denominato «Monforte d'Alba»."
+identifier: "urn:nir:stato:regio.decreto:1930-11-13;1586"
+eli: "https://www.normattiva.it/eli/id/1930/12/17/030U1586/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1930-11-13
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 292 del 1930-12-17"
+codice_redazionale: "030U1586"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-13;1586"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 13 novembre 1930, n. 1586
+
+**Unione dei comuni di Monforte d'Alba, Perno e Castelletto Monforte in un unico comune denominato «Monforte d'Alba».**
+
+*Entrata in vigore del provvedimento: 01/01/1931*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vedute le deliberazioni 5 ottobre 1929 con le quali il podesta' dei comuni di Monforte d'Alba, Perno e Castelletto Monforte ha invocato l'unione di essi in unico Comune con denominazione e capoluogo «Monforte d'Alba»;
+
+Veduto il parere favorevole espresso dal Rettorato della provincia di Cuneo con deliberazione 27 dicembre 1929;
+
+Udito il parere del Consiglio di Stato, sezione prima, in adunanza 21 ottobre 1930, il quale parere si intende nel presente decreto riportato;
+
+Veduti il testo unico della legge comunale e provinciale, approvato con R. decreto 4 febbraio 1915, n. 148, il R. decreto 30 dicembre 1923, n. 2839, la legge 4 febbraio 1926, n. 237, il R. decreto-legge 3 settembre 1926, n. 1910, convertito nella legge 2 giugno 1927, n. 957, e la legge 27 dicembre 1928, n. 2962;
+
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro segretario di Stato per gli affari dell'interno;
+
+Abbiamo decretato e decretiamo:
+
+I comuni di Monforte d'Alba, Perno e Castelletto Monforte sono uniti in unico Comune con denominazione e capoluogo «Monforte d'Alba».
+
+Tale unione sara' attuata con decorrenza dal 1° gennaio 1931-Anno IX, senza far luogo alla separazione delle rendite patrimoniali e delle passivita' dei tre Comuni, nonche' delle spese indicate nell'art. 118, ultimo comma, del testo unico della legge comunale e provinciale, approvato con R. decreto 4 febbraio 1915, n. 148.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a San Rossore, addi' 13 novembre 1930 - Anno IX
+
+VITTORIO EMANUELE.
+
+Mussolini.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 12 dicembre 1930 - Anno IX Atti del Governo, registro 303, foglio 80. - Mancini.

@@ -1,0 +1,56 @@
+---
+title: "REGIO DECRETO 02 giugno 1930, n. 794 — Autorizzazione al comune di Ortodonico a modificare la propria denominazione in «Montecorice»."
+identifier: "urn:nir:stato:regio.decreto:1930-06-02;794"
+eli: "https://www.normattiva.it/eli/id/1930/06/25/030U0794/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1930-06-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 147 del 1930-06-25"
+codice_redazionale: "030U0794"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-06-02;794"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 02 giugno 1930, n. 794
+
+**Autorizzazione al comune di Ortodonico a modificare la propria denominazione in «Montecorice».**
+
+*Entrata in vigore del provvedimento: 10/07/1930*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il Nostro decreto 9 dicembre 1929, n. 2192, con il quale il comune di Ortodonico, in provincia di Salerno, e' stato autorizzato a trasferire la sede municipale alla frazione Montecorice;
+
+Veduta la domanda con cui il podesta' di Ortodonico, in esecuzione della deliberazione 29 marzo 1930, chiede l'autorizzazione a modificare, in seguito al trasferimento della sede municipale alla frazione Montecorice, la denominazione del comune in «Montecorice»;
+
+Veduto il parere favorevole espresso dal commissario straordinario per l'Amministrazione provinciale di Salerno con deliberazione 10 maggio 1930, ratificata dal prefetto il 13 dello stesso mese;
+
+Veduti il testo unico della legge comunale e provinciale approvato con R. decreto 4 febbraio 1915, n. 148, il R. decreto 30 dicembre 1923, n. 2839, nonche' le leggi 4 febbraio 1926, n. 237, e 27 dicembre 1928, n. 2962;
+
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno;
+
+Abbiamo decretato e decretiamo:
+
+Il comune di Ortodonico e' autorizzato a modificare la propria denominazione in «Montecorice».
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 giugno 1930 - Anno VIII
+
+VITTORIO EMANUELE.
+
+Mussolini.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 21 giugno 1930 - Anno VIII
+
+Atti del Governo, registro 297, foglio 77. - Mancini.

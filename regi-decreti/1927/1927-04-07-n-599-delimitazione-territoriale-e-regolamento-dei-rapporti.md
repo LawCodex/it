@@ -1,0 +1,70 @@
+---
+title: "REGIO DECRETO 07 aprile 1927, n. 599 — Delimitazione territoriale e regolamento dei rapporti patrimoniali fra i comuni di Bagni della Porretta e Castel di Casio, nonche' fra i comuni di Bagni della Porretta e Granaglione."
+identifier: "urn:nir:stato:regio.decreto:1927-04-07;599"
+eli: "https://www.normattiva.it/eli/id/1927/05/04/027U0599/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1927-04-07
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 103 del 1927-05-04"
+codice_redazionale: "027U0599"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-07;599"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 07 aprile 1927, n. 599
+
+**Delimitazione territoriale e regolamento dei rapporti patrimoniali fra i comuni di Bagni della Porretta e Castel di Casio, nonche' fra i comuni di Bagni della Porretta e Granaglione.**
+
+*Entrata in vigore del provvedimento: 19/05/1927*
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per gli affari dell'interno;
+
+Veduto il R. decreto 29 novembre 1925, n. 2311, con il quale e' stato provveduto all'ampliamento del territorio del comune di Bagni della Porretta;
+
+Veduto il progetto di delimitazione dei confini fra Bagni della Porretta e Castel di Casio, approvato dal Consiglio di quest'ultimo Comune con deliberazione 5 aprile 1926, e dal podesta' di Bagni della Porretta con deliberazione 29 maggio 1926;
+
+Veduta la deliberazione 2 maggio 1926 del Consiglio provinciale di Bologna;
+
+Vedute le convenzioni stipulate fra i rappresentanti di Bagni della Porretta e quelli di Castel di Casio e Granaglione rispettivamente in data 16 marzo e 24 aprile 1926 per il regolamento dei rapporti patrimoniali e finanziari fra i Comuni medesimi;
+
+Vedute le deliberazioni 5 aprile 1926 del Consiglio comunale di Castel di Casio, 11 aprile 1926 del Consiglio comunale di Bagni della Porretta, 4 maggio 1926 del podesta' di Granaglione, 2 giugno 1926 del podesta' di Bagni della Porretta e 23 dicembre 1926 del podesta' di Castel di Casio, che approvano le convenzioni surriferite;
+
+Veduto il parere espresso dalla Giunta provinciale amministrativa in adunanza 23 giugno 1926;
+
+Udito il parere del Consiglio di Stato, le cui considerazioni si intendono nel presente decreto riportate;
+
+Veduti il testo unico della legge comunale e provinciale, il relativo regolamento, nonche' il R. decreto 30 dicembre 1923, n. 2839;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+I confini tra i comuni di Bagni della Porretta e Castel di Casio sono stabiliti in conformita' della pianta planimetrica vistata in data 15 maggio 1926 dall'ingegnere capo dell'ufficio del Genio civile di Bologna.
+
+Tale pianta, vidimata, d'ordine Nostro, dal Ministro proponente, fara' parte integrante del presente decreto.
+
+## Art. 2
+
+Sono approvate le convenzioni stipulate tra i rappresentanti di Bagni della Porretta e quelli di Castel di Casio e Granaglione rispettivamente in data 16 marzo e 24 aprile 1926 per il regolamento dei rapporti patrimoniali e finanziari fra i Comuni medesimi.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 7 aprile 1927 - Anno V
+
+VITTORIO EMANUELE.
+
+Mussolini.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 2 maggio 1927 - Anno V
+
+Atti del Governo, registro 260, foglio 7. - Ferretti.

@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 17 giugno 1937, n. 1390 — Rettifica di confine tra le provincie di Venezia e di Rovigo ed i comuni di Chioggia e di Loreo."
+identifier: "urn:nir:stato:regio.decreto:1937-06-17;1390"
+eli: "https://www.normattiva.it/eli/id/1937/08/19/037U1390/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1937-06-17
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 192 del 1937-08-19"
+codice_redazionale: "037U1390"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-06-17;1390"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 17 giugno 1937, n. 1390
+
+**Rettifica di confine tra le provincie di Venezia e di Rovigo ed i comuni di Chioggia e di Loreo.**
+
+*Entrata in vigore del provvedimento: 03/09/1937*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+IMPERATORE D'ETIOPIA
+
+Ritenuto che le Sezioni tecniche catastali di Rovigo e di Venezia, in occasione dei rilevamenti eseguiti nel delta dell'Adige, hanno riscontrato un lieve spostamento verso nord della linea mediana di quel fiume in localita' Porto Fossone, a partire dall'isolotto distinto col mappale n. 20 nel catasto del comune di Chioggia e precisamente nel tratto in cui detta linea segnava il confine fra le provincie di Venezia e di Rovigo e fra i comuni di Chioggia e di Loreo;
+
+Considerata l'opportunita' di rettificare tale confine in modo da farlo coincidere con la nuova linea mediana del fiume Adige;
+
+Veduto il relativo progetto redatto dall'Ufficio tecnico del comune di Chioggia e vistato dall'ingegnere capo del Genio civile di Venezia e da quello del Genio civile di Rovigo;
+
+Vedute le deliberazioni 16 novembre 1934-XIII del commissario prefettizio per la temporanea amministrazione del comune di Chioggia, 19 novembre stesso anno e 3 dicembre 1930-XV del podesta' di Loreo, 4 dicembre 1934-XIII e 12 febbraio 1937-XV del Rettorato provinciale di Rovigo e 1° ottobre 1935-XIII del Rettorato provinciale di Venezia;
+
+Udito il Consiglio di Stato, sezione prima, il cui parere, in data 18 maggio corrente anno, s'intende nel presente decreto integralmente riportato;
+
+Veduto il testo unico della legge comunale e provinciale, approvato con Nostro decreto 3 marzo 1934-XII, n. 383;
+
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno;
+
+Abbiamo decretato e decretiamo:
+
+Il confine fra le provincie di Venezia e di Rovigo ed i comuni di Chioggia e di Loreo, in localita' di Porto Possone, a partire dall'isolotto distinto col mappale n. 26 nel catasto del comune di Chioggia, e' rettificato in conformita' del progetto surriferito, che, vidimato, d'ordine Nostro, dal Ministro proponente, fara' parte integrante del presente decreto.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a San Rossore, addi' 17 giugno 1937 - Anno XV
+
+VITTORIO EMANUELE
+
+Mussolini.
+
+Visto, il Guardasigilli: Solmi.
+
+Registrato alla Corte dei conti, addi' 14 agosto 1937 - Anno XV
+
+Atti del Governo, registro 388. foglio 87 - Mancini.

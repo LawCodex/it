@@ -1,0 +1,56 @@
+---
+title: "REGIO DECRETO 27 novembre 1924, n. 2019 — Autorizzazione al comune di Piano del Voglio a cambiare la sua denominazione in quella di «San Benedetto Val di Sambro»."
+identifier: "urn:nir:stato:regio.decreto:1924-11-27;2019"
+eli: "https://www.normattiva.it/eli/id/1924/12/17/024U2019/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1924-11-27
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 293 del 1924-12-17"
+codice_redazionale: "024U2019"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-27;2019"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 27 novembre 1924, n. 2019
+
+**Autorizzazione al comune di Piano del Voglio a cambiare la sua denominazione in quella di «San Benedetto Val di Sambro».**
+
+*Entrata in vigore del provvedimento: 01/01/1925*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno;
+
+Vista l'istanza con la quale il sindaco di Piano del Voglio (Bologna), in esecuzione della deliberazione 30 aprile 1924 di quel Consiglio comunale, chiede che venga autorizzato il cambiamento della denominazione del comune in San Benedetto Val di Sambro;
+
+Vista la deliberazione 16 luglio successivo, con la quale il Consiglio provinciale di Bologna ha espresso parere favorevole all'accoglimento dell'istanza;
+
+Vista la lettera 14 novembre 1924, n. 121 M. F., con la quale il Ministero delle comunicazioni dichiara che nulla osta all'invocato provvedimento per quanto riguarda i servizi dipendenti da quell'Amministrazione;
+
+Vista la legge comunale e provinciale;
+
+Abbiamo decretato e decretiamo:
+
+Il comune di Piano del Voglio e' autorizzato al cambiamento della sua denominazione in quella di «San Benedetto Val di Sambro».
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 27 novembre 1924.
+
+VITTORIO EMANUELE.
+
+Federzoni.
+
+Visto, il Guardasigilli: Oviglio.
+
+Registrato alla Corte dei conti, addi' 15 dicembre 1924.
+
+Atti del Governo, registro 231, foglio 112. - Granata.

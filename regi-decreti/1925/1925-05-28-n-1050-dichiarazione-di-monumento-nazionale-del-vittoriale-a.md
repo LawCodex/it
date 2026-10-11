@@ -1,0 +1,52 @@
+---
+title: "REGIO DECRETO 28 maggio 1925, n. 1050 — Dichiarazione di monumento nazionale del «Vittoriale» a Gardone Riviera."
+identifier: "urn:nir:stato:regio.decreto:1925-05-28;1050"
+eli: "https://www.normattiva.it/eli/id/1925/07/02/025U1050/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1925-05-28
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 151 del 1925-07-02"
+codice_redazionale: "025U1050"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-28;1050"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 28 maggio 1925, n. 1050
+
+**Dichiarazione di monumento nazionale del «Vittoriale» a Gardone Riviera.**
+
+*Entrata in vigore del provvedimento: 17/07/1925*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Volendo che il «Vittoriale» a Gardone Riviera, donato da Gabriele d'Annunzio allo Stato, sia conservato al devoto ossequio degli italiani e rispettato come edificio di interesse storico;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per gli affari esteri, di concerto col Ministro per la pubblica istruzione;
+
+Abbiamo decretato e decretiamo:
+
+Il «Vittoriale» a Gardone Riviera e' dichiarato monumento nazionale.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 maggio 1925.
+
+VITTORIO EMANUELE.
+
+Mussolini - Fedele.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 30 giugno 1925.
+
+Atti del Governo, registro 237, foglio 244. - Granata.

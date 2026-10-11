@@ -1,0 +1,54 @@
+---
+title: "REGIO DECRETO 19 novembre 1925, n. 2185 — Autorizzazione al comune di Macerata Marcianise a cambiare la propria denominazione in «Macerata Campania»."
+identifier: "urn:nir:stato:regio.decreto:1925-11-19;2185"
+eli: "https://www.normattiva.it/eli/id/1925/12/18/025U2185/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1925-11-19
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 293 del 1925-12-18"
+codice_redazionale: "025U2185"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-11-19;2185"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 19 novembre 1925, n. 2185
+
+**Autorizzazione al comune di Macerata Marcianise a cambiare la propria denominazione in «Macerata Campania».**
+
+*Entrata in vigore del provvedimento: 02/01/1926*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno;
+
+Veduta la domanda con cui il sindaco di Macerata Marcianise, in esecuzione della deliberazione consigliare 7 novembre 1924, chiede che la denominazione del Comune sia mutata in «Macerata Campania»;
+
+Veduto il parere favorevole espresso dal Consiglio provinciale di Caserta nella tornata del 4 aprile 1925;
+
+Veduta la lettera 31 agosto 1925, n. 514410, con cui il Ministero delle comunicazioni (Direzione generale delle poste e dei telegrafi) dichiara che da parte di quell'Amministrazione nulla osta al richiesto cambiamento di denominazione;
+
+Abbiamo decretato e decretiamo:
+
+Il comune di Macerata Marcianise e' autorizzato a mutare la propria denominazione in «Macerata Campania».
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 19 novembre 1925.
+
+VITTORIO EMANUELE.
+
+Federzoni.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 16 dicembre 1925.
+
+Atti del Governo, registro 243, foglio 105. - Granata.

@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 14 ottobre 1926, n. 1892 — Distacco della frazione Castel Giuliano dal comune di Cerveteri e sua aggregazione a quello di Bracciano."
+identifier: "urn:nir:stato:regio.decreto:1926-10-14;1892"
+eli: "https://www.normattiva.it/eli/id/1926/11/15/026U1892/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1926-10-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 263 del 1926-11-15"
+codice_redazionale: "026U1892"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;1892"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 14 ottobre 1926, n. 1892
+
+**Distacco della frazione Castel Giuliano dal comune di Cerveteri e sua aggregazione a quello di Bracciano.**
+
+*Entrata in vigore del provvedimento: 30/11/1926*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno;
+
+Veduta l'istanza in data 1° marzo 1925, con cui la maggioranza degli elettori residenti nella frazione Castel Giuliano chiede il distacco dal comune di Cerveteri e l'aggregazione a quello di Bracciano della frazione medesima;
+
+Veduta la deliberazione 10 gennaio 1925 con cui il Consiglio comunale di Bracciano aderisce all'aggregazione della frazione Castel Giuliano;
+
+Vedute le deliberazioni 29 marzo e 20 giugno 1925 del Consiglio comunale di Cerveteri;
+
+Veduto il parere favorevole all'accoglimento dell'istanza suddetta, espresso dalla Commissione Reale per la straordinaria amministrazione della provincia di Roma, con i poteri del Consiglio provinciale, in adunanza 8 aprile 1926;
+
+Udito il parere del Consiglio di Stato, le cui considerazioni si intendono nel presente decreto riportate;
+
+Veduti il testo unico della legge comunale e provinciale approvato con R. decreto 4 febbraio 1915, n. 148, il relativo regolamento, nonche' il R. decreto 30 dicembre 1923, n. 2839;
+
+Abbiamo decretato e decretiamo:
+
+La frazione Castel Giuliano e' staccata dal comune di Cerveteri ed aggregata a quello di Bracciano.
+
+Con successivo decreto sara' provveduto alla delimitazione territoriale ed alla separazione patrimoniale fra i detti Comuni.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a San Rossore, addi' 14 ottobre 1926.
+
+VITTORIO EMANUELE.
+
+Federzoni.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 12 novembre 1926.
+
+Atti del Governo, registro 254, foglio 84. - Coop

@@ -1,0 +1,160 @@
+---
+title: "REGIO DECRETO 20 marzo 1924, n. 580 — Approvazione della Convenzione relativa al riposo settimanale negli stabilimenti industriali adottata dalla Conferenza generale della Organizzazione internazionale del lavoro della Societa' delle Nazioni."
+identifier: "urn:nir:stato:regio.decreto:1924-03-20;580"
+eli: "https://www.normattiva.it/eli/id/1924/05/05/024U0580/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1924-03-20
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 106 del 1924-05-05"
+codice_redazionale: "024U0580"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-03-20;580"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 20 marzo 1924, n. 580
+
+**Approvazione della Convenzione relativa al riposo settimanale negli stabilimenti industriali adottata dalla Conferenza generale della Organizzazione internazionale del lavoro della Societa' delle Nazioni.**
+
+*Entrata in vigore del provvedimento: 20/05/1925*
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'art. 5 dello Statuto fondamentale del Regno;
+
+Udito il Consiglio dei Ministri;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari esteri, di concerto coi Ministri per l'economia nazionale, per l'interno e per le colonie;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+Piena ed intera esecuzione e' data alla Convenzione relativa al riposo settimanale negli stabilimenti industriali adottata dalla Conferenza generale dell'Organizzazione internazionale del lavoro della Societa' delle Nazioni nella terza sessione (25 ottobre-19 novembre 1921) tenuta a Ginevra e di cui e' qui annesso il testo nella traduzione italiana.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 20 marzo 1924.
+
+VITTORIO EMANUELE.
+
+Mussolini - Corbino - Federzoni.
+
+Visto, Il Guardasigilli: Oviglio.
+
+Registrato alla Corte dei conti, addi' 1° maggio 1924.
+
+Atti del Governo, registro 224, foglio 5. - Granata.
+
+## Allegati
+
+Convenzione riguardante l'applicazione del riposo settimanale nelle industrie.
+
+La Conferenza generale dell'Organizzazione internazionale del lavoro della Societa' delle Nazioni,
+
+convocata a Ginevra dal Consiglio di amministrazione dell'Ufficio internazionale del lavoro, e riunitasi il 25 ottobre 1921 nella sua terza sessione.
+
+Dopo di aver deciso di adottare diverse proposte relative al riposo settimanale nell'industria, questione compresa nel settimo comma dell'ordine del giorno della sessione, e
+
+dopo di aver deciso che queste proposte debbano essere redatte sotto forma di un progetto di Convenzione internazionale,
+
+adotta il seguente progetto di convenzione da ratificarsi dai membri dell'Organizzazione internazionale del lavoro in conformita' alle disposizioni della parte XIII del Trattato di Versailles e delle parti corrispondenti degli altri Trattati di pace:
+
+## Art. 1
+
+Agli effetti della presente Convenzione saranno considerate come «aziende industriali»:
+
+a) le miniere, le cave di pietra e le industrie estrattive di qualsiasi natura;
+
+b) le industrie nelle quali i prodotti sono manifatturati, modificati, ripuliti, riparati, decorati, rifiniti, preparati per la vendita, ovvero le materie subiscono una trasformazione, compresa la costruzione delle navi, le industrie di demolizione di materiale, come pure le industrie per la produzione, la trasformazione e la trasmissione della elettricita' e della forza motrice di qualsiasi genere;
+
+c) la costruzione, la ricostruzione, la manutenzione, la riparazione, la modificazione o la demolizione di costruzioni ed edifici di ogni specie, ferrovie, tramvais, porti, docks, banchine, canali, impianti per la navigazione interna, strade, gallerie, ponti, viadotti, fogne, opere di drenaggio, pozzi, impianti telefonici o telegrafici, officine per gas, impianti per la distribuzione di acqua od altri lavori di costruzione, come pure le opere di preparazione e di fondazione che precedono i lavori summenzionati;
+
+d) il trasporto di persone o di merci per strada ordinaria, per via ferrata o per via d'acqua interna, compreso il carico e lo scarico delle merci nei bacini commerciali, sulle calate, sulle banchine e nei magazzini, ad eccezione del trasporto a mano.
+
+L'enumerazione di cui sopra e' fatta sotto riserva delle eccezioni speciali di ordine nazionale previste dalla Convenzione di Washington che tende a limitare a otto ore al giorno ed a quarantotto ore la settimana il numero delle ore di lavoro negli stabilimenti industriali, nella misura in cui queste eccezioni sono applicabili alla presente Convenzione.
+
+Oltre alla precedente enumerazione, se e' riconosciuto necessario, ogni membro potra' determinare la linea di distinzione tra l'industria da una parte, ed il commercio e l'agricoltura dall'altra.
+
+## Art. 2
+
+Tutto il personale occupato in ogni stabilimento industriale, pubblico o privato, o nelle sue dipendenze, dovra', con la riserva delle eccezioni previste negli articoli seguenti, godere durante ogni periodo di sette giorni di un riposo che comprenda al minimo ventiquattro ore consecutive.
+
+Questo riposo sara' concesso, per quanto e' possibile, contemporaneamente a tutto il personale di ciascuno stabilimento.
+
+Esso coincidera', per quanto e' possibile, con il giorno consacrato dalla tradizione o dagli usi del paese o della regione.
+
+## Art. 3
+
+Ciascun membro potra' eccettuare dall'applicazione delle disposizioni dell'art. 2 le persone occupate negli stabilimenti industriali in cui sono impiegati solamente i membri di una stessa famiglia.
+
+## Art. 4
+
+Ciascun membro puo' autorizzare eccezioni totali o parziali (comprese sospensioni e diminuzioni del riposo) alle disposizioni dell'art. 2 tenendo conto specialmente di ogni considerazione economica ed umanitaria del caso, e dopo aver sentito le Associazioni interessate degli imprenditori e degli operai, la' dove queste esistano.
+
+Questo parere non sara' necessario nel caso di eccezioni che siano gia' state concesse in applicazione della legislazione vigente.
+
+## Art. 5
+
+Ciascun membro dovra', per quanto possibile, stabilire delle norme che prevedano periodi di riposo in compenso delle sospensioni o delle diminuzioni concesse in virtu' dell'art. 4, salvo nei casi in cui gli accordi o gli usi locali abbiano gia' previsto tali riposi.
+
+## Art. 6
+
+Ciascun membro stabilira' una lista delle eccezioni concesse in conformita' degli articoli 3 e 4 della presente Convenzione, e la comunichera' all'Ufficio internazionale del lavoro e comunichera' in seguito, ogni due anni, tutte le modificazioni che avra' apportato a questa lista.
+
+L'Ufficio internazionale del lavoro presentera' alla Conferenza generale dell'Organizzazione internazionale del lavoro una relazione a tale riguardo.
+
+## Art. 7
+
+Allo scopo di facilitare l'applicazione delle disposizioni della presente Convenzione, ogni proprietario, direttore o gerente sara' sottoposto agli obblighi seguenti:
+
+a) far conoscere, nel caso in cui il riposo settimanale sia dato collettivamente all'insieme del personale, i giorni e le ore di riposo collettivo, a mezzo di avvisi affissi in modo manifesto nello stabilimento, oppure in qualsiasi altro posto conveniente ovvero in qualsiasi altra maniera approvata dal Governo;
+
+b) allorche' il riposo non e' concesso collettivamente a tutto il personale, far conoscere per mezzo di un registro tenuto secondo il modo approvato dalla legislazione nazionale, o da un regolamento dell'autorita' competente, gli operai o impiegati che sono sottoposti a un regime speciale di riposo ed indicare tal regime.
+
+## Art. 8
+
+Le ratifiche ufficiali della presente Convenzione nelle condizioni previste dalla Parte XIII del Trattato di Versailles e dalle parti corrispondenti degli altri trattati di pace saranno comunicate al segretario generale della Societa' delle Nazioni per essere registrate.
+
+## Art. 9
+
+La presente convenzione entrera' in vigore appena le ratifiche di due membri dell'Organizzazione internazionale del lavoro saranno state registrate dal segretario generale.
+
+Essa non vincolera' che i membri la cui ratifica sara' stata registrata presso il Segretariato.
+
+Successivamente la presente Convenzione entrera' in vigore nei riguardi ad ogni altro alla data nella quale ne sara' stata registrata la ratifica presso il segretariato.
+
+## Art. 10
+
+Non appena le ratifiche di due membri dell'Organizzazione internazionale del lavoro saranno state registrate al Segretariato, il segretario generale della Societa' delle Nazioni ne fara' notificazione a tutti i membri dell'Organizzazione internazionale del lavoro. Egli notifichera' loro parimenti la registrazione delle ratifiche che gli saranno ulteriormente comunicate dagli altri membri dell'Organizzazione.
+
+## Art. 11
+
+Ogni membro che ratifica la presente Convenzione s'impegna ad applicare le disposizioni degli articoli 1, 2, 3, 4, 5, 6 e 7 non piu' tardi del 1° gennaio 1924 ed a prendere quelle misure che saranno necessarie per assicurarne la esecuzione.
+
+## Art. 12
+
+Ogni membro dell'Organizzazione internazionale del lavoro che ratifica la presente Convenzione s'impegna ad applicarla alle proprie Colonie, Possedimenti e Protettorati, conformemente alle disposizioni dell'art. 421 del Trattato di Versailles e degli articoli corrispondenti degli altri trattati di pace.
+
+## Art. 13
+
+Ogni membro che abbia ratificato la presente Convenzione puo' denunciarla al termine di un periodo di dieci anni dalla data da cui la Convenzione e' entrata inizialmente in vigore, mediante un atto comunicato al segretario generale della Societa' delle Nazioni e da questi registrato. La denunzia non avra' effetto che un anno dopo la sua registrazione presso il Segretariato.
+
+## Art. 14
+
+Il Consiglio di amministrazione dell'Ufficio internazionale del lavoro presentera', almeno una volta ogni dieci anni, alla Conferenza generale un rapporto sull'applicazione della presente Convenzione e deliberera' sulla opportunita' di iscrivere all'ordine del giorno della Conferenza la questione della revisione o della modificazione della Convenzione.
+
+## Art. 15
+
+I testi francese ed inglese della presente Convenzione faranno entrambi fede.
+
+Visto, d'ordine di Sua Maesta' il Re:
+
+Il Ministro per gli affari esteri:
+
+Mussolini.

@@ -1,0 +1,28 @@
+---
+title: "REGIO DECRETO 26 novembre 1925, n. 2512 — Erezione in Ente morale dell'Asilo infantile di Caldiero."
+identifier: "urn:nir:stato:regio.decreto:1925-11-26;2512"
+eli: "https://www.normattiva.it/eli/id/1926/02/09/025U2512/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1925-11-26
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 32 del 1926-02-09"
+codice_redazionale: "025U2512"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-11-26;2512"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 26 novembre 1925, n. 2512
+
+**Erezione in Ente morale dell'Asilo infantile di Caldiero.**
+
+*Entrata in vigore del provvedimento: 24/02/1926*
+
+## Art. 1
+
+N. 2512. R. decreto 26 novembre 1925, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile di Caldiero viene eretto in Ente morale e ne e' approvato lo statuto organico.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 4 febbraio 1926.

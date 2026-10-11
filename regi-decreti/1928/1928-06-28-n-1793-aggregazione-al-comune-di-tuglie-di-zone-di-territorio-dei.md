@@ -1,0 +1,58 @@
+---
+title: "REGIO DECRETO 28 giugno 1928, n. 1793 — Aggregazione al comune di Tuglie di zone di territorio dei comuni di Alezio, Sannicola, Neviano e Parabita, ed aggregazione al comune di Sannicola della parte della frazione San Simone compresa nel comune di Alezio."
+identifier: "urn:nir:stato:regio.decreto:1928-06-28;1793"
+eli: "https://www.normattiva.it/eli/id/1928/08/09/028U1793/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1928-06-28
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 185 del 1928-08-09"
+codice_redazionale: "028U1793"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-28;1793"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 28 giugno 1928, n. 1793
+
+**Aggregazione al comune di Tuglie di zone di territorio dei comuni di Alezio, Sannicola, Neviano e Parabita, ed aggregazione al comune di Sannicola della parte della frazione San Simone compresa nel comune di Alezio.**
+
+*Entrata in vigore del provvedimento: 24/08/1928*
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+In virtu' dei poteri conferiti al Governo col R. decreto-legge 17 marzo 1927, n. 383;
+
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+Le zone di territorio dei comuni di Alezio, Sannicola, Neviano e Parabita, indicate nella pianta planimetrica vistata in data 24 aprile 1928 dall'ingegnere capo dell'ufficio del Genio civile di Lecce, sono aggregate al comune di Tuglie.
+
+La parte della frazione San Simone, ora appartenente al comune di Alezio e delimitata nella pianta anzidetta, e' aggregata a quello di Sannicola.
+
+La pianta planimetrica sopra richiamata, vidimata, d'ordine Nostro, dal Ministro proponente, fara' parte integrante del presente decreto.
+
+## Art. 2
+
+Al prefetto di Lecce e' demandato di provvedere, sentita la Giunta provinciale amministrativa, al regolamento dei rapporti patrimoniali fra i Comuni le cui circoscrizioni vengono modificate col presente decreto.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a San Rossore, addi' 28 giugno 1928 - Anno VI
+
+VITTORIO EMANUELE.
+
+Mussolini.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 7 agosto 1928 - Anno VI
+
+Atti del Governo, registro 275, foglio 16. - Sirovich.

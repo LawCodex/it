@@ -1,0 +1,58 @@
+---
+title: "REGIO DECRETO 20 settembre 1922, n. 1412 — Che modifica l'art. 62 del regolamento 14 agosto 1920, n. 1285, sulla derivazione di acque pubbliche."
+identifier: "urn:nir:stato:regio.decreto:1922-09-20;1412"
+eli: "https://www.normattiva.it/eli/id/1922/11/13/022U1412/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1922-09-20
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 265 del 1922-11-13"
+codice_redazionale: "022U1412"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-09-20;1412"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 20 settembre 1922, n. 1412
+
+**Che modifica l'art. 62 del regolamento 14 agosto 1920, n. 1285, sulla derivazione di acque pubbliche.**
+
+*Entrata in vigore del provvedimento: 28/11/1922*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il decreto-legge 9 ottobre 1919, n. 2161;
+
+Visto il regolamento approvato con R. decreto 14 agosto 1920, n. 1285;
+
+Udito il Consiglio di Stato;
+
+Udito il Consiglio dei ministri;
+
+Sulla proposta del ministro dei lavori pubblici, di concerto con il presidente del Consiglio dei ministri, e con i ministri delle finanze, del tesoro, dell'agricoltura, dell'industria e commercio e dell'interno;
+
+Abbiamo decretato e decretiamo:
+
+L'art. 62 del regolamento approvato con R. decreto 14 agosto 1920, n. 1285, e' modificato come segue:
+
+«La sovvenzione verra' corrisposta ad annualita' posticipate, secondo il progresso dei lavori e a decorrere dalla data dei relativi certificati d'avanzamento, che saranno rilasciati dall'ufficio del Genio civile ed approvati dal Ministero dei lavori pubblici».
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Racconigi, addi' 20 settembre 1922.
+
+VITTORIO EMANUELE.
+
+FACTA - RICCIO - BERTONE -
+
+PARATORE - BERTINI -
+
+TEOFILO ROSSI - TADDEI.
+
+Visto, il guardasigilli: OVIGLIO.

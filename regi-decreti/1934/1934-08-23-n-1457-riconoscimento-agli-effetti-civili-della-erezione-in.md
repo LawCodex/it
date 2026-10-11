@@ -1,0 +1,28 @@
+---
+title: "REGIO DECRETO 23 agosto 1934, n. 1457 — Riconoscimento, agli effetti civili, della erezione in parrocchia della Chiesa della B. V. SS. Maria di Porto Salvo, in Mangano."
+identifier: "urn:nir:stato:regio.decreto:1934-08-23;1457"
+eli: "https://www.normattiva.it/eli/id/1934/09/17/034U1457/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1934-08-23
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 218 del 1934-09-17"
+codice_redazionale: "034U1457"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-08-23;1457"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 23 agosto 1934, n. 1457
+
+**Riconoscimento, agli effetti civili, della erezione in parrocchia della Chiesa della B. V. SS. Maria di Porto Salvo, in Mangano.**
+
+*Entrata in vigore del provvedimento: 02/10/2014*
+
+## Art. 1
+
+N. 1457. decreto 23 agosto 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuto, agli effetti civili, con decorrenza dal 10 febbraio 1923, il decreto del Vescovo di Acireale in data 20 luglio 1925 relativo alla erezione in parrocchia della Chiesa della B. V. SS. Maria di Porto Salvo, in Mangano.
+
+Visto, il Guardasigilli: De Francisci.
+
+Registrato alla Corte dei conti, addi' 14 settembre 1934 - Anno XII

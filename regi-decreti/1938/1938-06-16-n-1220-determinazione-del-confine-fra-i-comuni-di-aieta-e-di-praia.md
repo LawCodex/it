@@ -1,0 +1,64 @@
+---
+title: "REGIO DECRETO 16 giugno 1938, n. 1220 — Determinazione del confine fra i comuni di Aieta e di Praia a Mare in provincia di Cosenza."
+identifier: "urn:nir:stato:regio.decreto:1938-06-16;1220"
+eli: "https://www.normattiva.it/eli/id/1938/08/13/038U1220/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1938-06-16
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 184 del 1938-08-13"
+codice_redazionale: "038U1220"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-16;1220"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 16 giugno 1938, n. 1220
+
+**Determinazione del confine fra i comuni di Aieta e di Praia a Mare in provincia di Cosenza.**
+
+*Entrata in vigore del provvedimento: 28/08/1938*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+IMPERATORE D'ETIOPIA
+
+Veduta la legge 10 giugno 1937-XV, n. 965, concernente la ricostituzione di sedici Comuni in provincia di Cosenza;
+
+Veduto l'art. 3, n. 1, della legge 31 gennaio 1926-IV, numero 100;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli altari dell'interno;
+
+Abbiamo decretato e decretiamo:
+
+Il confine fra i comuni di Aieta e di Praia a Mare e' determinato in conformita' del progetto di delimitazione, predisposto dall'Ufficio del Genio civile di Cosenza, che, vidimato, d'ordine Nostro, dal Ministro proponente, fa parte integrante del presente decreto.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a San Rossore, addi' 16 giugno 1938 - Anno XVI
+
+VITTORIO EMANUELE
+
+Mussolini
+
+Visto, il Guardasigilli: Solmi.
+
+Registrato alla Corte dei conti, addi' 29 luglio 1938 - Anno XVI
+
+Atti dei Governo, registro 399, foglio 174. - Mancini.
+
+## Allegati
+
+## Allegato
+
+COMUNE DI PRAIA A MARE
+
+Parte di provvedimento in formato grafico

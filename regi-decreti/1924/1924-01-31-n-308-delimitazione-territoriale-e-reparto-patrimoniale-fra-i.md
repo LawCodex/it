@@ -1,0 +1,72 @@
+---
+title: "REGIO DECRETO 31 gennaio 1924, n. 308 — Delimitazione territoriale e reparto patrimoniale fra i comuni di Lumezzane San Sebastiano e Lumezzane Sant'Apollonio, in esecuzione della legge 14 aprile 1921, n. 497."
+identifier: "urn:nir:stato:regio.decreto:1924-01-31;308"
+eli: "https://www.normattiva.it/eli/id/1924/03/17/024U0308/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1924-01-31
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 65 del 1924-03-17"
+codice_redazionale: "024U0308"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-01-31;308"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 31 gennaio 1924, n. 308
+
+**Delimitazione territoriale e reparto patrimoniale fra i comuni di Lumezzane San Sebastiano e Lumezzane Sant'Apollonio, in esecuzione della legge 14 aprile 1921, n. 497.**
+
+*Entrata in vigore del provvedimento: 01/04/1924*
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno, Presidente del Consiglio dei Ministri;
+
+Veduta la legge 14 aprile 1921, n. 497, che costitui' in Comune autonomo la frazione San Sebastiano del comune di Lumezzane Sant'Apollonio ed autorizzo' il Governo del Re a dare le disposizioni occorrenti per l'esecuzione della stessa;
+
+Veduto il progetto di delimitazione territoriale, compilato in data 7 settembre 1922 dal geometra Marsiglio Vaglia e vistato dall'ingegnere capo del Genio civile di Brescia;
+
+Visto il certificato comprovante l'eseguita regolare pubblicazione del detto progetto;
+
+Viste le deliberazioni 7 marzo 1923 del Consiglio provinciale di Brescia e 7 luglio 1923 della Giunta provinciale amministrativa, con la quale i due consessi hanno dato pareri favorevoli sull'esposto progetto;
+
+Visto il progetto di reparto delle attivita' e passivita', compilato in data 18 aprile 1923 dal ragioniere Mario Nasta, gia' concordato con le rappresentanze dei due Comuni nella riunione avvenuta il 13 gennaio 1923, sul quale ha dato parere favorevole la Giunta provinciale amministrativa con la deliberazione 7 luglio 1923;
+
+Visto il verbale in data 7 febbraio 1923, dal quale risulta che i due progetti precitati sono stati accettati dalle parti interessate;
+
+Visto il parere emesso dal Consiglio di Stato, sezione 1ª, in data 7 gennaio 1924, n. 35, le cui considerazioni si intendono qui integralmente riportate;
+
+Vista la legge comunale e provinciale ed il relativo regolamento;
+
+Udito il Consiglio dei Ministri;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+La delimitazione territoriale fra i due comuni di Lumezzane Sant'Apollonio e Lumezzane San Sebastiano e' stabilita in conformita' della pianta topografica redatta in data 7 dicembre 1922 dal geometra Marsiglio Vaglia vistata dal Genio civile di Brescia.
+
+La pianta anzidetta, vidimata d'ordine Nostro dal Ministro proponente, fara' parte integrante del presente decreto.
+
+## Art. 2
+
+Il reparto delle attivita' e passivita' patrimoniali fra i Comuni indicati nell'articolo precedente e' stabilita in conformita' al progetto compilato in data 18 aprile 1923 dal ragioniere Mario Nasta.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 gennaio 1924.
+
+VITTORIO EMANUELE.
+
+Mussolini.
+
+Visto, il Guardasigilli: Oviglio.
+
+Registrato alla Corte dei conti, addi' 14 marzo 1924.
+
+Atti del Governo, registro 222, foglio 83. - Granata.

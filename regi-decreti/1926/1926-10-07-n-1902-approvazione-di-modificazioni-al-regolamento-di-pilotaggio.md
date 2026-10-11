@@ -1,0 +1,80 @@
+---
+title: "REGIO DECRETO 07 ottobre 1926, n. 1902 — Approvazione di modificazioni al regolamento di pilotaggio."
+identifier: "urn:nir:stato:regio.decreto:1926-10-07;1902"
+eli: "https://www.normattiva.it/eli/id/1926/11/19/026U1902/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1926-10-07
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 267 del 1926-11-19"
+codice_redazionale: "026U1902"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;1902"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 07 ottobre 1926, n. 1902
+
+**Approvazione di modificazioni al regolamento di pilotaggio.**
+
+*Entrata in vigore del provvedimento: 19/11/1926*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visti gli articoli 192 e seguenti del Codice per la marina mercantile;
+
+Visto il regolamento per la esecuzione del Codice medesimo approvato con R. decreto 20 novembre 1879, n. 5166, serie 2ª, e successive modificazioni;
+
+Visto il R. decreto 29 aprile 1926, n. 778, che approva il regolamento per il servizio di pilotaggio nei porti del Regno;
+
+Udito il Consiglio di Stato;
+
+Udito il Consiglio dei Ministri;
+
+Sulla proposta del Nostro Ministro per le comunicazioni, di concerto con quello per le finanze;
+
+Abbiamo decretato e decretiamo:
+
+E' approvata l'unita modifica all'art. 27 del regolamento generale per il servizio di pilotaggio nei porti del Regno, firmata, d'ordine Nostro, dal Ministro per le comunicazioni.
+
+Il Ministro per le comunicazioni e' autorizzato a disporre che, a partire dalla scadenza del termine di sei mesi previsto dall'art. 39 del regolamento generale per il servizio di pilotaggio, approvato con R. decreto 29 aprile 1926, n. 778, il Commissario straordinario per il corpo dei piloti di Venezia continui nello stesso incarico con le funzioni stabilite dall'art. 27 del regolamento suddetto modificato come sopra.
+
+Il presente decreto entrera' in vigore dal giorno della sua pubblicazione.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti dei Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a San Rossore, addi' 7 ottobre 1926.
+
+VITTORIO EMANUELE.
+
+Mussolini - Ciano - Volpi.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 17 novembre 1926.
+
+Atti del Governo, registro 254, foglio 94. - Coop
+
+## Allegati
+
+## Modifica
+
+Modifica al regolamento generale di pilotaggio approvato con R. decreto 29 aprile 1926, n. 778.
+
+L'ultimo comma dell'art. 27 e' cosi' modificato:
+
+« Qualora al termine della gestione del Commissario straordinario non vi fosse fra i piloti alcuno che possedesse requisiti per essere nominato capo pilota, il Ministro per le comunicazioni con suo decreto potra' presceglierlo al di fuori del corpo e quando neppure siavi questa possibilita' potra' eccezionalmente prorogare i poteri del Commissario fino a quando non siavi modo di procedere al conferimento in uno dei modi sopradetti ».
+
+Roma, addi' 7 ottobre 1926.
+
+Visto, d'ordine di Sua Maesta' il Re:
+
+Il Ministro per le comunicazioni:
+
+Ciano.

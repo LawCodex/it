@@ -1,0 +1,28 @@
+---
+title: "REGIO DECRETO 29 novembre 1928, n. 3404 — Erezione in ente morale della Fondazione scolastica «Borsa di studio Toto Cezzi» istituita presso la Regia scuola complementare di Maglie."
+identifier: "urn:nir:stato:regio.decreto:1928-11-29;3404"
+eli: "https://www.normattiva.it/eli/id/1929/02/23/028U3404/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1928-11-29
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 46 del 1929-02-23"
+codice_redazionale: "028U3404"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-11-29;3404"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 29 novembre 1928, n. 3404
+
+**Erezione in ente morale della Fondazione scolastica «Borsa di studio Toto Cezzi» istituita presso la Regia scuola complementare di Maglie.**
+
+*Entrata in vigore del provvedimento: 10/03/1929*
+
+## Art. 1
+
+N. 3404. R. decreto 29 novembre 1928, col quale, sulla proposta del Ministro per la pubblica istruzione, la Fondazione scolastica «Borsa di studio Toto Cezzi», istituita presso la Regia scuola complementare di Maglie, viene eretta in ente morale e n'e' approvato lo statuto.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 9 febbraio 1929 - Anno VII

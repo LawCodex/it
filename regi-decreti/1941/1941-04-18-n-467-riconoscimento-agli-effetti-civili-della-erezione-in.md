@@ -1,0 +1,30 @@
+---
+title: "REGIO DECRETO 18 aprile 1941, n. 467 — Riconoscimento, agli effetti civili, della erezione in parrocchia della Chiesa di Cristo Re, in Ventimiglia (Imperia) ed autorizzazione alla detta Chiesa ad accettare alcune donazioni."
+identifier: "urn:nir:stato:regio.decreto:1941-04-18;467"
+eli: "https://www.normattiva.it/eli/id/1941/06/10/041U0467/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1941-04-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 135 del 1941-06-10"
+codice_redazionale: "041U0467"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-04-18;467"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 18 aprile 1941, n. 467
+
+**Riconoscimento, agli effetti civili, della erezione in parrocchia della Chiesa di Cristo Re, in Ventimiglia (Imperia) ed autorizzazione alla detta Chiesa ad accettare alcune donazioni.**
+
+*Entrata in vigore del provvedimento: 25/06/1941*
+
+## Art. 1
+
+N. 467. R. decreto 18 aprile 1941, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Ventimiglia in data 19 giugno 1936, relativo alla erezione in parrocchia della Chiesa di Cristo Re, in Ventimiglia (Imperia).
+
+L'anzidetta Chiesa parrocchiale di Cristo Re viene autorizzata ad accettare le donazioni disposte a suo favore da Semeria Pier Giovanni fu Pier Giovanni e dalla Chiesa parrocchiale di S. Agostino, in Ventimiglia, donazioni consistenti nel terreno sul quale fu costruita la Chiesa stessa, nell'edificio sacro e in un piccolo piazzale antistante, il tutto descritto e valutato L. 315.000. Il Beneficio parrocchiale di Cristo Re, in Ventimiglia, viene autorizzato ad accettare le donazioni disposte a suo favore da Moldotti Libero fu Giuseppe e dalla Chiesa parrocchiale di S. Agostino in Ventimiglia, donazioni consistenti in un fabbricato in Ventimiglia, localita' Nervia, adibito a casa canonica, descritto e valutato L. 52.000.
+
+Visto, il Guardasigilli: Grandi
+
+Registrato alla Corte dei conti, addi' 2 giugno 1941-XIX

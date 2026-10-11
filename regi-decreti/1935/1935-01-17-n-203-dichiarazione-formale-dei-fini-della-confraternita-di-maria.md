@@ -1,0 +1,30 @@
+---
+title: "REGIO DECRETO 17 gennaio 1935, n. 203 — Dichiarazione formale dei fini della Confraternita di Maria SS. Annunziata e S. Antonio Abate, in Prizzi (Palermo)."
+identifier: "urn:nir:stato:regio.decreto:1935-01-17;203"
+eli: "https://www.normattiva.it/eli/id/1935/03/21/035U0203/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1935-01-17
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 67 del 1935-03-21"
+codice_redazionale: "035U0203"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-01-17;203"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 17 gennaio 1935, n. 203
+
+**Dichiarazione formale dei fini della Confraternita di Maria SS. Annunziata e S. Antonio Abate, in Prizzi (Palermo).**
+
+*Entrata in vigore del provvedimento: 05/04/1935*
+
+## Art. 1
+
+N. 203. R. decreto 17 gennaio 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo esclusivo di culto nei riguardi della Confraternita di Maria SS. Annunziata e S.
+
+Antonio Abate, in Prizzi (Palermo).
+
+Visto, il Guardasigilli: Solmi.
+
+Registrato alla Corte dei conti, addi' 1° marzo 1935 - Anno XIII

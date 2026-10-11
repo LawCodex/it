@@ -1,0 +1,111 @@
+---
+title: "REGIO DECRETO 11 gennaio 1923, n. 167 — Che apporta modificazioni al vigente regolamento sulla sanita' marittima."
+identifier: "urn:nir:stato:regio.decreto:1923-01-11;167"
+eli: "https://www.normattiva.it/eli/id/1923/02/12/023U0167/CONSOLIDATED/19261123"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1923-01-11
+last_amended: 1926-11-23
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 35 del 1923-02-12"
+codice_redazionale: "023U0167"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-11;167"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 11 gennaio 1923, n. 167
+
+**Che apporta modificazioni al vigente regolamento sulla sanita' marittima.**
+
+*Entrata in vigore del provvedimento: 27/02/1923*
+
+VITTORIO EMANUELE III
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduto il R. decreto 7 luglio 1910, n. 573;
+
+Veduto il parere del Consiglio superiore di sanita';
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei ministri;
+
+Sulla proposta del Nostro Ministro segretario di Stato per gli affari dell'interno, presidente del Consiglio dei ministri e del Nostro Ministro segretario di Stato per la marina;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+Agli articoli 28, 29 e 33 del regolamento, approvato con R. decreto 29 settembre 1895, n. 636, modificato con R. decreto 7 luglio 1910, n. 573, sono sostituiti i seguenti:
+
+Art. 28. - Nessuno puo' imbarcare come medico di bordo se non sia fornito dell'autorizzazione a viaggiare con tale qualifica e se abbia superato il 65° anno di eta'.
+
+L'autorizzazione e' concessa dal Ministero dell'interno ai medici i quali abbiano sostenuto con esito favorevole gli speciali esami di idoneita' che saranno indetti, in apposita sessione, a cura del Ministero stesso, ogni tre anni o entro un minor termine quando cio' sia richiesto dalle esigenze del servizio sanitario della marina mercantile.
+
+Art. 29. Per l'ammissione agii esami anzidetti gli aspiranti all'autorizzazione per medico di bordo dovranno presentare, nei modi e termini che verranno indicati per ciascuna sessione, i documenti che seguono:
+
+1° atto di nascita dal quale risulti che il candidato non
+
+ha superato, alla data nella quale l'esame viene bandito,
+
+il 35° anno di eta';
+
+2° certificato di cittadinanza italiana;
+
+3° diploma di laurea in medicina e chirurgia, conseguito da
+
+non meno di due anni compiuti, in una Universita' del Regno;
+
+4° certificato di buona condotta rilasciato dal sindaco del
+
+Comune di residenza, di data non anteriore a tre mesi;
+
+5° certificato penale di data non anteriore a tre mesi;
+
+6° certificato di sana e robusta costituzione di data recente.
+
+Potranno presentarsi altresi' titoli di studio e di servizio e pubblicazioni scientifiche.
+
+Art. 33. - I medici di bordo debbono prestare gratuitamente l'assistenza medica e chirurgica a tutte le persone imbarcate sulla nave.
+
+Essi hanno, inoltre, qualita' e competenza di ufficiale sanitario governativo, per la tutela dell'igiene e sanita' a bordo durante l'intiera durata del viaggio, comprese le soste nei porti esteri di scalo e di destinazione.
+
+## Art. 2
+
+Sono estese alle nuove Provincie le disposizioni relative ai medici di bordo contenute nel capo IV del regolamento per la Sanita' marittima approvato con R. decreto 29 settembre 1895, n. 636, modificato dal regolamento che stabilisce le condizioni speciali richiesta nelle navi addette al trasporto dei passeggeri approvato con RR. decreti 20 maggio 1897, n. 178, e 19 ottobre 1898, n. 454, dal R. decreto 7 luglio 1910, n. 573, e dal precedente articolo.
+
+## Art. 3
+
+Entro il 30 giugno 1923 sara' provveduto alla revisione degli elenchi dei medici delle nuove Provincie forniti di matricola d'imbarco presso le Capitanerie della Venezia Giulia per eliminare tutti coloro che per eta' e per condizioni fisiche non si trovino piu' in grado di compiere in modo soddisfacente le relative funzioni, coloro che non abbiano piu' preso imbarco da almeno dieci anni, e coloro che non abbiano la cittadinanza italiana.
+
+A tutti i rimanenti sara' provvisoriamente consentito \`di continuare nell'esercizio delle funzioni; ma e' fatto obbligo ad essi di ottenere entro un biennio, una nuova autorizzazione nel modo stabilito dall'art. 1 del presente decreto.((1))
+
+Il biennio decorrera' dalla pubblicazione degli elenchi riveduti; ed a cura del Ministero dell'interno sara' provveduto, durante il biennio stesso, a bandire una o piu' sessioni di esami, a seconda del bisogno.((1))
+
+La autorizzazione potra' anche, durante il biennio, essere concessa, con dispensa dalle prove di esame e sul conforme parere di una Commissione nominata dal Consiglio superiore di sanita', a tutti quelli, fra i medici indicati nel secondo comma del presente articolo che fossero in servizio anteriormente alla data dell'armistizio, che posseggano titoli sufficienti di studio e di servizio per la idoneita' alla funzione.
+
+---------------
+
+AGGIORNAMENTO (1)
+
+Il Regio Decreto 2 novembre 1925, n. 2287 ha disposto (con l'art. 1, comma 1) che "Sono prorogati di un anno a far tempo dal 4 luglio 1925, i termini indicati al 2° ed al 3° comma dell'art. 3 del R. decreto 11 gennaio 1923, n. 167".
+
+Ha inoltre disposto (con l'art. 2, comma 1) che "Alle sessioni di esami di idoneita', previste nel 3° comma dell'art. 3 del R. decreto 11 gennaio 1923, n. 167, che potranno essere bandite prima della scadenza del 4 luglio 1926, i sanitari della Venezia Giulia, autorizzati provvisoriamente a continuare nell'esercizio delle funzioni di medico di bordo, potranno partecipare, indipendentemente dal limite di eta' di anni 35, fissato per l'ammissione agli esami di che trattasi, dall'art. 1 del R. decreto 11 gennaio 1923, n. 167".
+
+## Art. 4
+
+Per la prima sessione che verra' indetta dopo la pubblicazione del presente decreto, il limite massimo di eta' stabilito dall'art. 1 per l'ammissione agli esami e' elevato al 39° anno.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 gennaio 1923.
+
+VITTORIO EMANUELE.
+
+MUSSOLINI - THAON DI REVEL.
+
+Visto, il guardasigilli: OVIGLIO.

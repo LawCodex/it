@@ -1,0 +1,54 @@
+---
+title: "REGIO DECRETO 15 agosto 1930, n. 1261 — Autorizzazione al comune di Velate Milanese a trasferire la sede municipale alla frazione Usmate e a modificare la propria denominazione in «Usmate Velate»."
+identifier: "urn:nir:stato:regio.decreto:1930-08-15;1261"
+eli: "https://www.normattiva.it/eli/id/1930/09/15/030U1261/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1930-08-15
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 216 del 1930-09-15"
+codice_redazionale: "030U1261"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-08-15;1261"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 15 agosto 1930, n. 1261
+
+**Autorizzazione al comune di Velate Milanese a trasferire la sede municipale alla frazione Usmate e a modificare la propria denominazione in «Usmate Velate».**
+
+*Entrata in vigore del provvedimento: 30/09/1930*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduta l'istanza 29 aprile 1930, con cui il commissario prefettizio di Velate Milanese, in esecuzione delle proprie deliberazioni 21 dicembre 1929 e 12 aprile 1930, chiede l'autorizzazione a trasferire la sede municipale nella frazione Usmate ed a modificare la denominazione del comune in «Usmate Velate»;
+
+Veduto il parere favorevole espresso dal Rettorato della provincia di Milano con la deliberazione 26 febbraio 1930;
+
+Veduti il testo unico della legge comunale e provinciale, approvato con R. decreto 4 febbraio 1915, n. 148, il R. decreto 30 dicembre 1923, n. 2839, la legge 4 febbraio 1926, n. 237, il R. decreto-legge 3 settembre 1926, n. 1910, convertito nella legge 2 giugno 1927, n. 957, e la legge 27 dicembre 1928, numero 2962;
+
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno;
+
+Abbiamo decretato e decretiamo:
+
+Il comune di Velate Milanese, in provincia di Milano, e' autorizzato a trasferire la sede municipale alla frazione Usmate ed a modificare la propria denominazione in «Usmate Velate».
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a S. Anna di Valdieri, addi' 15 agosto 1930 - Anno VIII
+
+VITTORIO EMANUELE.
+
+Mussolini.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 11 settembre 1930 - Anno VIII
+
+Atti del Governo, registro 300, foglio 32. - Mancini.

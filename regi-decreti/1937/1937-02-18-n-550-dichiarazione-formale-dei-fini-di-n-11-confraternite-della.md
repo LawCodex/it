@@ -1,0 +1,50 @@
+---
+title: "REGIO DECRETO 18 febbraio 1937, n. 550 — Dichiarazione formale dei fini di n. 11 Confraternite della provincia di Benevento."
+identifier: "urn:nir:stato:regio.decreto:1937-02-18;550"
+eli: "https://www.normattiva.it/eli/id/1937/05/05/037U0550/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1937-02-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 104 del 1937-05-05"
+codice_redazionale: "037U0550"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-02-18;550"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 18 febbraio 1937, n. 550
+
+**Dichiarazione formale dei fini di n. 11 Confraternite della provincia di Benevento.**
+
+*Entrata in vigore del provvedimento: 20/05/1937*
+
+## Art. 1
+
+N. 550. R. decreto 18 febbraio 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo esclusivo di culto nei riguardi delle seguenti Confraternite in provincia di Benevento:
+
+1\. Confraternita del SS.mo Sacramento ed Immacolata Concezione, in Apice;
+
+2\. Confraternita della SS.ma Vergine della Addolorata, in Castel Campagnano;
+
+3\. Confraternita di S. Gaetano, in Varoni di Montesarchio;
+
+4\. Confraternita di S. Nicola di Bari, in Villa S. Croce di Piana di Caiazzo;
+
+5\. Confraternita di S. Maria del Suffragio, in Piana di Caiazzo;
+
+6\. Confraternita detta Congrega del Preziosissimo Sangue di Gesu' Cristo e S. Diodoro Martire, in S. Marco dei Cavoti;
+
+7\. Confraternita del SS. Sacramento, in S. Nicola Manfredi;
+
+8\. Confraternita del SS.mo Rosario e Corpo di Cristo, in S. Leucio del Sannio;
+
+9\. Confraternita della SS.ma Vergine delle Grazie, in Sassinoro;
+
+10\. Confraternita del SS.mo Corpo di Cristo, in Torrecuso;
+
+11\. Confraternita di Maria SS.ma Addolorata, in Valle Agricola.
+
+Visto, il Guardasigilli: SOLMI.
+
+Registrato alla Corte dei conti, addi' 15 aprile 1937 - Anno XV

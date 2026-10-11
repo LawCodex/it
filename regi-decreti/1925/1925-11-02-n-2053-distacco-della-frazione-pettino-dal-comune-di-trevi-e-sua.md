@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 02 novembre 1925, n. 2053 — Distacco della frazione Pettino dal comune di Trevi e sua aggregazione a quello di Campello."
+identifier: "urn:nir:stato:regio.decreto:1925-11-02;2053"
+eli: "https://www.normattiva.it/eli/id/1925/12/02/025U2053/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1925-11-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 280 del 1925-12-02"
+codice_redazionale: "025U2053"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-11-02;2053"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 02 novembre 1925, n. 2053
+
+**Distacco della frazione Pettino dal comune di Trevi e sua aggregazione a quello di Campello.**
+
+*Entrata in vigore del provvedimento: 17/12/1925*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno;
+
+Viste le domande in data 19 febbraio e 2 luglio 1922, con cui la maggioranza degli elettori amministrativi residenti nella frazione Pettino ha chiesto il distacco della frazione stessa dal comune di Trevi e l'aggregazione di essa al comune di Campello;
+
+Vista la deliberazione 23 aprile 1922, con la quale il Consiglio comunale di Campello ha aderito a tale richiesta;
+
+Viste le deliberazioni 15 marzo 1923 del Commissario prefettizio per la temporanea amministrazione del comune di Trevi, e 18 luglio 1925 di quel Consiglio comunale;
+
+Visto il parere favorevole espresso dal Consiglio provinciale dell'Umbria in adunanza 5 febbraio 1924;
+
+Udito il parere del Consiglio di Stato le cui considerazioni si intendono nel presente decreto riportate;
+
+Visti la legge comunale e provinciale, il relativo regolamento nonche' il R. decreto 30 dicembre 1923, n. 2839;
+
+Abbiamo decretato e decretiamo:
+
+La frazione Pettino e' staccata dal comune di Trevi ed aggregata a quello di Campello.
+
+Con successivo decreto sara' provveduto alla delimitazione territoriale ed alla separazione patrimoniale fra i due Comuni.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a San Rossore, addi' 2 novembre 1925.
+
+VITTORIO EMANUELE.
+
+Federzoni.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 30 novembre 1925.
+
+Atti del Governo, registro 242, foglio 206. - Granata.

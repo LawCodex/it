@@ -1,0 +1,54 @@
+---
+title: "REGIO DECRETO 04 giugno 1925, n. 1099 — Autorizzazione al comune di Maserada (Treviso) a cambiare la propria denominazione in quella di «Maserada sul Piave»."
+identifier: "urn:nir:stato:regio.decreto:1925-06-04;1099"
+eli: "https://www.normattiva.it/eli/id/1925/07/08/025U1099/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1925-06-04
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 156 del 1925-07-08"
+codice_redazionale: "025U1099"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-04;1099"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 04 giugno 1925, n. 1099
+
+**Autorizzazione al comune di Maserada (Treviso) a cambiare la propria denominazione in quella di «Maserada sul Piave».**
+
+*Entrata in vigore del provvedimento: 23/07/1925*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno;
+
+Vista la domanda prodotta dal sindaco di Maserada (Treviso), in esecuzione della deliberazione 10 dicembre 1924 del Consiglio comunale, con la quale si chiede che, a perenne ricordo della gloriosa difesa del Piave, il Comune sia denominato «Maserada sul Piave»;
+
+Visto il parere favorevole espresso dal Consiglio provinciale di Treviso in adunanza 21 febbraio 1925;
+
+Vista la lettera 25 maggio 1925, n. 508780, con cui il Ministero delle comunicazioni (Direzione generale dei servizi postali) dichiara che nei riguardi dei servizi postali e telegrafici nulla osta al proposto cambiamento di denominazione;
+
+Abbiamo decretato e decretiamo:
+
+Il comune di Maserada e' autorizzato a cambiare la propria denominazione in quella di «Maserada sul Piave».
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 giugno 1925.
+
+VITTORIO EMANUELE.
+
+Federzoni.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 4 luglio 1925.
+
+Atti del Governo, registro 238, foglio 34. - Granata.

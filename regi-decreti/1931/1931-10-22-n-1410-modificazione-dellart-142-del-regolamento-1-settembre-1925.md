@@ -1,0 +1,74 @@
+---
+title: "REGIO DECRETO 22 ottobre 1931, n. 1410 — Modificazione dell'art. 142 del regolamento 1° settembre 1925, n. 2009, per i convitti nazionali."
+identifier: "urn:nir:stato:regio.decreto:1931-10-22;1410"
+eli: "https://www.normattiva.it/eli/id/1931/11/25/031U1410/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1931-10-22
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 272 del 1931-11-25"
+codice_redazionale: "031U1410"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-22;1410"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 22 ottobre 1931, n. 1410
+
+**Modificazione dell'art. 142 del regolamento 1° settembre 1925, n. 2009, per i convitti nazionali.**
+
+*Entrata in vigore del provvedimento: 10/12/1931*
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto l'art. 51 del regolamento 4 maggio 1925, n. 653, sugli alunni, gli esami e le tasse negli Istituti medi d'istruzione;
+
+Veduto il regolamento 1° settembre 1925, n. 2009, per i Convitti nazionali;
+
+Riconosciuta la opportunita' di modificare l'art. 142 di quest'ultimo regolamento;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+L'art. 142 del regolamento 1° settembre 1925, n. 2009, per i Convitti nazionali e' sostituito dal seguente:
+
+«Nei Convitti nazionali possono istituirsi classi o corsi completi d'istruzione media classica, tecnica, scientifica e magistrale.
+
+«Alle classi e ai corsi suddetti, se funzionino secondo l'ordinamento stabilito per le corrispondenti scuole Regie, e' concesso il riconoscimento della validita' degli studi e degli esami previsto dall'art. 51 del regolamento 4 maggio 1925, n. 653.
+
+«La istituzione delle classi o dei corsi deve essere deliberata dai Consigli di amministrazione dei Convitti, ed e' subordinata all'approvazione del Ministero dell'educazione nazionale, sentito il parere della competente Giunta per l'istruzione media.
+
+«Le classi o i corsi saranno a totale carico delle amministrazioni dei Convitti e gl'insegnamenti saranno affidati per incarico.
+
+«Le famiglie che chiedano l'inscrizione degli alunni alle scuole interne del Convitto nazionale sono tenute a versare alla Cassa del Convitto un contributo da fissarsi dal Consiglio di amministrazione, in misura non inferiore all'ammontare delle corrispondenti tasse governative.
+
+«La vigilanza immediata e continua sulle classi o sui corsi costituiti nel modo anzidetto e' affidata al rettore.
+
+«Il Ministero dell'educazione nazionale puo' ordinare ispezioni ogni qualvolta lo ritenga opportuno e sospendere l'applicazione del citato art. 51 quando risulti un funzionamento non regolare delle classi o dei corsi suddetti.
+
+«Le spese per le ispezioni sono a carico dei Convitti».
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a San Rossore, addi' 22 ottobre 1931 - Anno IX
+
+VITTORIO EMANUELE
+
+Mussolini - Giuliano - Mosconi.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 21 novembre 1931 - Anno X
+
+Atti del Governo, registro 314, foglio 97. - Mancini.

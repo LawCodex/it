@@ -1,0 +1,84 @@
+---
+title: "REGIO DECRETO 18 febbraio 1935, n. 521 — Dichiarazione formale dei fini di n. 28 Confraternite della provincia di Trapani."
+identifier: "urn:nir:stato:regio.decreto:1935-02-18;521"
+eli: "https://www.normattiva.it/eli/id/1935/05/07/035U0521/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1935-02-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 107 del 1935-05-07"
+codice_redazionale: "035U0521"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-02-18;521"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 18 febbraio 1935, n. 521
+
+**Dichiarazione formale dei fini di n. 28 Confraternite della provincia di Trapani.**
+
+*Entrata in vigore del provvedimento: 22/05/1935*
+
+## Art. 1
+
+N. 521. R. decreto 18 febbraio 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo esclusivo di culto nei riguardi delle seguenti Confraternite della provincia di Trapani:
+
+1\. Partanna - Confraternita di Gesu' e Maria;
+
+2\. Calatafimi - Confraternita degli Agonizzanti;
+
+3\. Calatafimi - Confraternita del SS. Sacramento;
+
+4\. Trapani - Confraternita della via Crucis e di N.S.G.C.;
+
+5\. Monte S. Giuliano - Confraternita di S. Giovanni Battista;
+
+6\. Monte S. Giuliano - Confraternita di S. Orsola;
+
+7\. Castelvetrano - Confraternita di S. Giovanni Battista;
+
+8\. Castelvetrano - Confraternita di S. Crispino e Crispiniano;
+
+9\. Calatafimi - Confraternita della Disciplina;
+
+10\. Calatafimi - Confraternita del SS. Rosario;
+
+11\. Calatafimi - Confraternita della Sciabica e Mattinata;
+
+12\. Calatafimi - Confraternita delle Anime Sante del Purgatorio;
+
+13\. Castelvetrano - Confraternita di Maria SS. Addolorata e del Pianto;
+
+14\. Mazara del Vallo - Confraternita del Purgatorio;
+
+15\. Mazara del Vallo - Confraternita della Buona Morte;
+
+16\. Mazara del Vallo - Confraternita dell'Opera Pia San Vito;
+
+17\. Alcamo - Confraternita dell'Opera Pia S. Onofrio;
+
+18\. Alcamo - Confraternita della SS. Trinita';
+
+19\. Alcamo - Confraternita' dell'Opera Santa di Misericordia;
+
+20\. Alcamo - Confraternita della SS. Trinita' e del Soccorso;
+
+21\. Alcamo - Confraternita di Maria SS. dello Stellario;
+
+22\. Alcamo - Confraternita di S. Maria della Concezione;
+
+23\. Alcamo - Confraternita di Maria SS. della Annunziata;
+
+24\. Alcamo - Confraternita di Maria SS. della Addolorata;
+
+25\. Alcamo - Confraternita di Maria SS. del Miracolo;
+
+26\. Alcamo - Confraternita di Maria SS. del Soccorso;
+
+27\. Salemi - Confraternita di Santo Stefano;
+
+28\. Salemi - Confraternita del Purgatorio.
+
+Visto, il Guardasigilli: Solmi.
+
+Registrato alla Corte dei conti, addi' 29 aprile 1935 - Anno XIII

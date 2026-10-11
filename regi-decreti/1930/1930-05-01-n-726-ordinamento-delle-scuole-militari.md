@@ -1,0 +1,131 @@
+---
+title: "REGIO DECRETO 01 maggio 1930, n. 726 — Ordinamento delle scuole militari."
+identifier: "urn:nir:stato:regio.decreto:1930-05-01;726"
+eli: "https://www.normattiva.it/eli/id/1930/06/11/030U0726/CONSOLIDATED/20101215"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1930-05-01
+last_amended: 2010-12-15
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 136 del 1930-06-11"
+codice_redazionale: "030U0726"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-01;726"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 01 maggio 1930, n. 726
+
+**Ordinamento delle scuole militari.**
+
+*Entrata in vigore del provvedimento: 11/06/1930*
+
+## Scuole militari.
+
+## Art. 1
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 2
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 3
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Ordinamento delle Accademie delle Scuole di applicazione.
+
+## Art. 4
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 5
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 6
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 7
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 8
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 9
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 10
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 11
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 12
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 13
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 14
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Allievi.
+
+## Art. 15
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 16
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 17
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 18
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 18-bis
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 19
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 20
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 21
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 22
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 23
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 24
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)
+
+## Art. 25
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)

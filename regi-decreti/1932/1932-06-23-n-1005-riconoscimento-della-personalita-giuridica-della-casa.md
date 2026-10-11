@@ -1,0 +1,28 @@
+---
+title: "REGIO DECRETO 23 giugno 1932, n. 1005 — Riconoscimento della personalita' giuridica della Casa - denominata Residenza di San Bartolomeo - della Compagnia di Gesu', sita in Modena."
+identifier: "urn:nir:stato:regio.decreto:1932-06-23;1005"
+eli: "https://www.normattiva.it/eli/id/1932/08/27/032U1005/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1932-06-23
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 198 del 1932-08-27"
+codice_redazionale: "032U1005"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-23;1005"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 23 giugno 1932, n. 1005
+
+**Riconoscimento della personalita' giuridica della Casa - denominata Residenza di San Bartolomeo - della Compagnia di Gesu', sita in Modena.**
+
+*Entrata in vigore del provvedimento: 11/09/1932*
+
+## Art. 1
+
+N. 1005. R. decreto 23 giugno 1932, col quale, sulla proposta del Guardasigilli, Ministro per la giustizia e gli affari di culto, viene riconosciuta la personalita' giuridica Casa - denominata Residenza di San Bartolomeo - sita in Modena, via Servi 11, della compagnia di Gesu', ed e' autorizzato il trasferimento alla Casa medesima degli immobili dei quali essa e' in possesso da epoca anteriore al Concordato, intestati a Lina Rivasi.
+
+Visto, il Guardasigilli: Rocco.
+
+Registrato alla Corte dei conti, addi' 11 agosto 1932 - Anno X
