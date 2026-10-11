@@ -1,0 +1,58 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1973, n. 1029 — Proroga della durata e modificazione allo statuto del consorzio regionale fra cooperative di produzione e lavoro \"CO.RE.PRO.L.\", con sede in Palermo."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1973-01-16;1029"
+eli: "https://www.normattiva.it/eli/id/1974/03/14/073U1029/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1973-01-16
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 70 del 1974-03-14"
+codice_redazionale: "073U1029"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-01-16;1029"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1973, n. 1029
+
+**Proroga della durata e modificazione allo statuto del consorzio regionale fra cooperative di produzione e lavoro "CO.RE.PRO.L.", con sede in Palermo.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 25 giugno 1909, n. 422 ed il regolamento, approvato con regio decreto 12 febbraio 1911, n. 278, emanato in esecuzione di essa;
+
+Visto il decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577, modificato dalle leggi 2 aprile 1951, n. 302 e 17 febbraio 1971, n. 127;
+
+Visto il decreto del Presidente della Repubblica 25 luglio 1952, n. 1393, pubblicato nella Gazzetta Ufficiale n. 265 del 15 novembre 1952 con il quale fu costituito, per la durata di anni venti, il consorzio regionale fra cooperative di produzione e lavoro "CO.RE.PRO.L." con sede in Palermo, e ne fu approvato il relativo statuto;
+
+Visto il verbale dell'assemblea straordinaria dei delegati del consorzio, tenutasi il 21 dicembre 1971, nella quale e' stata deliberata la proroga della durata dell'ente fino al 12 novembre 1992 (dodici novembre millenovecentonovantadue), nonche' la modifica dell'art. 13, lettera a), dello statuto consortile;
+
+Vista l'istanza con la quale l'ente citato chiede l'approvazione delle modifiche suddette;
+
+Udito, in via d'urgenza, il comitato costituito in seno alla commissione centrale per le cooperative, ai sensi dell'art. 19, lettera b), del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577;
+
+Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per i lavori pubblici;
+
+Decreta:
+
+E' approvata la proroga, al 12 novembre 1992, della durata del consorzio regionale fra cooperative di produzione e lavoro "CO.RE.PRO.L." con sede in Palermo, nonche' la modifica dell'art. 13, lettera a), dello statuto consortile, il cui nuovo testo risulta del seguente tenore:
+
+Art. 13, lettera a). - Dalle quote di partecipazione del valore nominale ciascuna non inferiore a L. 50.000 (cinquantamila); se la cooperativa ha piu' di cento soci la quota dovra' essere in proporzione al numero di essi e precisamente in ragione di L. 20.000 (ventimila) per ogni cento soci o frazione di cento soci, sempre con un minimo non inferiore a L. 50.000 per ogni cooperativa consorziata.
+
+A tale titolo dovra' inoltre la cooperativa versare una percentuale del 2% (due per cento) sul capitale a lei sottoscritto da ciascun socio; invariato il resto dello articolo.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 16 gennaio 1973
+
+LEONE
+
+COPPO - GULLOTTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato alla Corte dei conti, addi' 7 marzo 1974
+
+Atti di Governo, registro n. 2, foglio n. 17. - SCIARRETTA

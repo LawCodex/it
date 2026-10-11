@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1974, n. 863 — Trasformazione in \"Area di sviluppo industriale\" e modificazioni allo statuto del Consorzio per il nucleo di industrializzazione di Benevento."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1974-11-13;863"
+eli: "https://www.normattiva.it/eli/id/1975/03/04/074U0863/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1974-11-13
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 60 del 1975-03-04"
+codice_redazionale: "074U0863"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-11-13;863"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1974, n. 863
+
+**Trasformazione in "Area di sviluppo industriale" e modificazioni allo statuto del Consorzio per il nucleo di industrializzazione di Benevento.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il proprio decreto del 2 aprile 1968, n. 657, con il quale e' stato approvato lo statuto del Consorzio per il nucleo di industrializzazione di Benevento;
+
+Visto l'art. 145 del testo unico 30 giugno 1967, n. 1523;
+
+Vista la legge 6 ottobre 1971, n. 853;
+
+Vista la deliberazione n. 8 del 15 maggio 1974 del consiglio generale del Consorzio per il nucleo di industrializzazione di Benevento, con la quale si e' provveduto ad ampliare il comprensorio del Consorzio estendendolo all'intero territorio della provincia di Benevento; a richiedere il riconoscimento della trasformazione del "Nucleo di industrializzazione" in "Area di sviluppo industriale"; alla modifica della intestazione dello statuto, nonche' alla modifica degli articoli 1 e 3 dello statuto stesso;
+
+Vista la deliberazione n. 2756 del 24 maggio 1974 della giunta regionale della Campania;
+
+Vista la nota della giunta regionale della Campania, assessorato per l'industria, artigianato, acque minerali e termali, cave e torbiere, caccia e pesca n. 3837/ II del 10 ottobre 1974;
+
+Sulla proposta del Presidente del Consiglio dei Ministri;
+
+Decreta:
+
+E' approvata la trasformazione in "Area di sviluppo industriale" del Consorzio per il nucleo di industrializzazione di Benevento, nonche' la modifica apportata alla intestazione dello statuto ed agli articoli 1 e 3 dello statuto del Consorzio per il nucleo di industrializzazione di Benevento nei termini indicati nella delibera n. 8 del 15 maggio 1974 del consiglio generale del Consorzio per il nucleo di industrializzazione di Benevento, di cui alla planimetria ed al testo allegati.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 13 novembre 1974
+
+LEONE
+
+RUMOR
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 25 febbraio 1975
+
+Atti di Governo, registro n. 8, foglio n. 144

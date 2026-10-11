@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1975, n. 788 — Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1975-10-20;788"
+eli: "https://www.normattiva.it/eli/id/1976/01/22/075U0788/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1975-10-20
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 19 del 1976-01-22"
+codice_redazionale: "075U0788"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-10-20;788"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1975, n. 788
+
+**Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.**
+
+## Art. 1
+
+N. 788. Decreto del Presidente della Repubblica 20 ottobre 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, per il prezzo di lire 37.000.000, una porzione di immobile rappresentata da un appartamento al piano terra dello stabile sito in Venezia Dorsoduro, civ. 3880, di proprieta' dei signori Mario Ziliotto e Archis Silvia Ziliotto, censito in catasto al foglio n. 14, mappale 677/1, come da rogito per notaio Angelo Sandi del 5 marzo 1974, n. 31266 di repertorio, destinato a sede dell'ente.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 17 gennaio 1976
+
+Atti di Governo, registro n. 1, foglio n. 40

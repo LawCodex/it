@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1975, n. 326 — Modifica dell'art. 39 del regolamento di esecuzione della legge istitutiva dell'Ente nazionale per la protezione e la assistenza dei sordomuti, approvato con decreto del Presidente della Repubblica 3 luglio 1957, n. 826."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1975-06-11;326"
+eli: "https://www.normattiva.it/eli/id/1975/08/04/075U0326/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1975-06-11
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 206 del 1975-08-04"
+codice_redazionale: "075U0326"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-06-11;326"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1975, n. 326
+
+**Modifica dell'art. 39 del regolamento di esecuzione della legge istitutiva dell'Ente nazionale per la protezione e la assistenza dei sordomuti, approvato con decreto del Presidente della Repubblica 3 luglio 1957, n. 826.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87 della Costituzione;
+
+Vista la legge 21 agosto 1950, n. 698, recante norme per la protezione e l'assistenza dei sordomuti;
+
+Visto il regolamento per la esecuzione della predetta legge, approvato con decreto del Presidente della Repubblica 3 luglio 1957, n. 826, con le successive modifiche ed integrazioni;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+Decreta:
+
+Il primo e il secondo comma dell'art. 39 del regolamento di esecuzione della legge 21 agosto 1950, n. 698, approvato con decreto del Presidente della Repubblica 3 luglio 1957, n. 826, sono soppressi.
+
+Di conseguenza detto art. 39 assume la seguente nuova formulazione: "Il presidente dell'Ente, i componenti del consiglio di amministrazione ed il direttore generale possono intervenire all'assemblea provinciale senza diritto di voto".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 giugno 1975
+
+LEONE
+
+MORO - GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 30 luglio 1975
+
+Atti di Governo, registro n. 11, foglio n. 35

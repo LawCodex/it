@@ -1,0 +1,118 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977, n. 1269 — Modificazione allo statuto dell'Universita' degli studi di Trieste."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1977-10-07;1269"
+eli: "https://www.normattiva.it/eli/id/1978/11/09/077U1269/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1977-10-07
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 314 del 1978-11-09"
+codice_redazionale: "077U1269"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-10-07;1269"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977, n. 1269
+
+**Modificazione allo statuto dell'Universita' degli studi di Trieste.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' di Trieste, approvato con decreto del Presidente della Repubblica 31 ottobre 1961, n. 1832 e modificato con decreto del Presidente della Repubblica 7 settembre 1962, n. 1540, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 46 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti: dialettologia italiana;
+
+fonetica;
+
+geografia linguistica;
+
+geografia politica ed economica;
+
+istituzioni economiche e commerciali;
+
+istituzioni politiche comparate;
+
+letteratura anglo-americana;
+
+letteratura ibero-americana;
+
+letteratura italiana contemporanea;
+
+lingua e letteratura portoghese;
+
+lingua e letteratura romena;
+
+lingua e letteratura ungherese;
+
+linguistica ladina;
+
+linguistica generale;
+
+linguistica matematica;
+
+organizzazioni internazionali;
+
+pedagogia;
+
+psicologia;
+
+sociologia;
+
+storia comparata delle letterature europee;
+
+storia della critica letteraria;
+
+storia delle dottrine politiche;
+
+storia della geografia e delle esplorazioni;
+
+storia della lingua francese;
+
+storia della lingua inglese;
+
+storia della lingua italiana;
+
+storia della lingua russa; - storia della lingua tedesca;
+
+storia del teatro;
+
+storia delle Venezie;
+
+storia medioevale;
+
+teoria dell'informazione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 7 ottobre 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato alla Corte dei conti, addi' 30 ottobre 1978
+
+Registro n. 117 Istruzione, foglio n. 210

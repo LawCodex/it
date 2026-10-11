@@ -1,0 +1,30 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1974, n. 630 — Autorizzazione all'Associazione nazionale per il controllo della combustione, in Roma, ad acquistare un immobile."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1974-04-24;630"
+eli: "https://www.normattiva.it/eli/id/1974/12/05/074U0630/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1974-04-24
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 318 del 1974-12-05"
+codice_redazionale: "074U0630"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-04-24;630"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1974, n. 630
+
+**Autorizzazione all'Associazione nazionale per il controllo della combustione, in Roma, ad acquistare un immobile.**
+
+## Art. 1
+
+N. 630. Decreto del Presidente della Repubblica 24 aprile 1974, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale e del Ministro per l'industria, il commercio e l'artigianato, l'Associazione nazionale per il controllo della combustione, in Roma, viene autorizzata ad acquistare dalla ditta Gemignani, per il prezzo complessivo di L. 55.000.000, il fabbricato sito in Lucca, via Buonamici, 9, intestato al vigente catasto urbano di Lucca alla partita n. 31060 al regolare conto del sig. Gemignani Filippo fu Modesto e cosi' rappresentato nel foglio 125: mappale 896 sub. 1 cat. A/2 (vani 9); mappale 896 sub. 2 cat.
+
+A/2 (vani 9).
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato alla Corte dei conti, addi' 30 novembre 1974
+
+Atti di Governo, registro n. 7, foglio n. 45. - SCIARRETTA

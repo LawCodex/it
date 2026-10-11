@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 gennaio 1973, n. 54 — Estinzione delle fondazioni \"Capitano Enea Cavalieri\" \"1° capitano Vladimiro Tosgobbi\", \"Mario Faino\", \"Guide\", \"La Vittoria\" e \"Colonnello Rutilio De Marchi\"."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1973-01-04;54"
+eli: "https://www.normattiva.it/eli/id/1973/04/04/073U0054/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1973-01-04
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 87 del 1973-04-04"
+codice_redazionale: "073U0054"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-01-04;54"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 gennaio 1973, n. 54
+
+**Estinzione delle fondazioni "Capitano Enea Cavalieri" "1° capitano Vladimiro Tosgobbi", "Mario Faino", "Guide", "La Vittoria" e "Colonnello Rutilio De Marchi".**
+
+## Art. 1
+
+N. 54. Decreto del Presidente della Repubblica 4 gennaio 1973, col quale, sulla proposta del Ministro per la difesa, le fondazioni "Capitano Enea Cavalieri", "1° capitano Vladimiro Tosgobbi", "Mario Faino", Guide", "La Vittoria" e "Colonnello Rutilio De Marchi" vengono dichiarate estinte. I beni che residueranno dopo la loro liquidazione vengono devoluti alla fondazione "Colonnello Giorgio Gervasoni".
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei Conti, addi' 13 marzo 1973
+
+Atti di Governo, registro n. 256, foglio n. 82. - VALENTINI

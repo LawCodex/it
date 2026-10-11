@@ -1,0 +1,30 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 settembre 1976, n. 1161 — Istituzione di un istituto tecnico per geometri in Ancona."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1976-09-30;1161"
+eli: "https://www.normattiva.it/eli/id/1978/04/21/076U1161/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1976-09-30
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 111 del 1978-04-21"
+codice_redazionale: "076U1161"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-09-30;1161"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 settembre 1976, n. 1161
+
+**Istituzione di un istituto tecnico per geometri in Ancona.**
+
+## Art. 1
+
+N. 1161. Decreto del Presidente della Repubblica 30 settembre 1976, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno e del tesoro, viene istituito in Ancona, a decorrere dal 1 ottobre 1976, un istituto tecnico per geometri e ne viene approvata la tabella organica.
+
+Con la stessa decorrenza viene soppressa la sezione per geometri presso l'istituto tecnico commerciale per periti aziendali e corrispondenti in lingue estere e per geometri "Benincasa" di Ancona, del quale viene approvata la nuova tabella organica.
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato alla Corte dei conti, addi' 30 marzo 1978
+
+Registro n. 35 Istruzione, foglio n. 19

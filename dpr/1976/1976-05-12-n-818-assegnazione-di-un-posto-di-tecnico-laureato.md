@@ -1,0 +1,62 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976, n. 818 — Assegnazione di un posto di tecnico laureato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1976-05-12;818"
+eli: "https://www.normattiva.it/eli/id/1976/12/16/076U0818/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1976-05-12
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 334 del 1976-12-16"
+codice_redazionale: "076U0818"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-05-12;818"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976, n. 818
+
+**Assegnazione di un posto di tecnico laureato.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduta la legge 3 novembre 1961, n. 1255, ed in particolare la tabella B annessa alla legge stessa;
+
+Veduta la legge 3 giugno 1970, n. 380;
+
+Veduto il decreto-legge 1 ottobre 1973, n. 580, convertito, con modificazioni, in legge 30 novembre 1973, n. 766, ed in particolare l'art. 8;
+
+Considerato che con decreto ministeriale in data 10 dicembre 1975 si e' provveduto, tra l'altro, a determinare per l'anno 1976 l'incremento dei posti della carriera direttiva dei tecnici laureati degli istituti scientifici delle universita' e degli istituti di istruzione universitaria, conformemente a quanto previsto dal citato art. 8;
+
+Considerato, altresi', che per l'anno 1976 l'incremento dei posti di tecnico laureato ammonta complessivamente a duecentotredici unita' e che, operata la riserva di cui al quinto comma dell'art. 8 del suddetto decreto-legge n. 580/1973, i posti di tecnico laureato da conferire per pubblici concorsi risultano essere centosei unita';
+
+Valutato ogni opportuno elemento in ordine alle esigenze di funzionamento e alle necessita' scientifico-didattiche del sottoindicato istituto;
+
+Ritenuta l'opportunita' di provvedere ad assegnare uno dei suddetti centosei posti di tecnico laureato;
+
+Sulla proposta motivata del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Uno dei centosei posti di tecnico laureato indicati nelle premesse, e' assegnato come segue:
+
+UNIVERSITA' DI ROMA
+
+Facolta' di architettura:
+
+Istituto di pianificazione territoriale . . . . . . . .posti n. 1
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 12 maggio 1976
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato alla Corte dei conti, addi' 6 dicembre 1976
+
+Registro n. 99 Istruzione, foglio n. 68

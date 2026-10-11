@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1973, n. 466 — Autorizzazione alla fondazione \"Pro juventute Don Carlo Gnocchi\", con sede in Roma, ad accettare un legato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1973-06-18;466"
+eli: "https://www.normattiva.it/eli/id/1973/08/03/073U0466/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1973-06-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 200 del 1973-08-03"
+codice_redazionale: "073U0466"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-06-18;466"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1973, n. 466
+
+**Autorizzazione alla fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, ad accettare un legato.**
+
+## Art. 1
+
+N. 466. Decreto del Presidente della Repubblica 18 giugno 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato, disposto dalla signora Maria Bruni, vedova Maspero, con testamento olografo del 22 gennaio 1970, pubblicato in data 31 luglio 1970 per rogito avv. Aldo Gazzone, notaio in Genova, con n. 10025 di repertorio e n. 4254 di raccolta, registrato a Genova il 24 agosto 1970 al n. 7822, Vol. 1250, consistente in un magazzino sito in Genova, via della Liberta', 14 rosso, gravato d'usufrutto in favore della signora Papaleo Palmira, del valore presunto di lire 8.000.000.
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 20 luglio 1973
+
+Atti di Governo, registro n. 259, foglio n. 30. - VALENTINI

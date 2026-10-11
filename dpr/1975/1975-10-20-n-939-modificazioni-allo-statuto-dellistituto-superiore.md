@@ -1,0 +1,60 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1975, n. 939 — Modificazioni allo statuto dell'Istituto superiore pareggiato di educazione fisica di Bologna."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1975-10-20;939"
+eli: "https://www.normattiva.it/eli/id/1976/04/05/075U0939/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1975-10-20
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 89 del 1976-04-05"
+codice_redazionale: "075U0939"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-10-20;939"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1975, n. 939
+
+**Modificazioni allo statuto dell'Istituto superiore pareggiato di educazione fisica di Bologna.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Istituto superiore pareggiato di educazione fisica, approvato con decreto del Presidente della Repubblica 31 ottobre 1960, n. 1891, e modificato con decreto del Presidente della Repubblica del 16 ottobre 1973, n. 973;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+
+Veduta la legge 7 febbraio 1958, n. 88;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici dell'Istituto superiore pareggiato di educazione fisica e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Istituto superiore pareggiato di educazione fisica di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 6, relativo al consiglio di amministrazione, e' modificato nel senso che il disposto della lettera d) e' abrogato e sostituito dal seguente: "delibera su proposta del direttore la nomina del dirigente tecnico scelto fra gli insegnanti di ruolo di educazione fisica";
+
+L'art. 10, relativo al consiglio direttivo, e' modificato nel senso che il disposto della lettera e) e' soppresso e sostituito dal seguente: "esprime il proprio parere al direttore in ordine alla nomina del dirigente tecnico scelto fra gli insegnanti di ruolo di educazione fisica".
+
+L'art. 11, relativo al consiglio dei professori, e' modificato nel senso che il disposto della lettera b) e' soppresso e sostituito dal seguente: "elegge i professori che devono far parte del consiglio direttivo, secondo quanto disposto dall'art. 9, lettera c)".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 20 ottobre 1975
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato alla Corte dei conti, addi' 30 marzo 1976
+
+Atti di Governo, registro n. 4, foglio n. 50

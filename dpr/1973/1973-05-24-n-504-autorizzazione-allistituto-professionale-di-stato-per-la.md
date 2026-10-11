@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1973, n. 504 — Autorizzazione all'istituto professionale di Stato per la agricoltura \"C. Grimaldi\" di Modica ad accettare una donazione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1973-05-24;504"
+eli: "https://www.normattiva.it/eli/id/1973/08/22/073U0504/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1973-05-24
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 216 del 1973-08-22"
+codice_redazionale: "073U0504"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-05-24;504"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1973, n. 504
+
+**Autorizzazione all'istituto professionale di Stato per la agricoltura "C. Grimaldi" di Modica ad accettare una donazione.**
+
+## Art. 1
+
+N. 504. Decreto del Presidente della Repubblica 24 maggio 1973, col quale, sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, l'istituto professionale di Stato per l'agricoltura "C. Grimaldi" di Modica e' autorizzato ad accettare la donazione, disposta dalla amministrazione provinciale di Ragusa, con atto in data 13 marzo 1968, dei seguenti immobili del valore complessivo di lire 57.800.000: fondo rustico sito in contrada Recupero, denominato "Fondo Scaro", di ha. 29.15.65, con accessioni e pertinenze, scorte vive e morte, contraddistinto in catasto alle partite 584 e 1942, foglio 7, particelle 20, 63, 90, 92, 93, 190 e 219 del nuovo catasto terreni del comune di Pozzallo; fondo rustico, sito nella medesima contrada, attiguo al precedente, di ha. 3.34.10, con accessioni e pertinenze, contraddistinto in catasto alla partita 1941, foglio 7, particelle 423, 424, 35 e 422 del nuovo catasto terreni del comune di Pozzallo.
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 10 agosto 1973
+
+Atti di Governo, registro n. 259, foglio n. 73. - VALENTINI

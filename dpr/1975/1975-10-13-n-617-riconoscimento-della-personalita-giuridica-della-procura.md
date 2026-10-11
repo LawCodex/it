@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1975, n. 617 — Riconoscimento della personalita' giuridica della procura generalizia della congregazione delle suore eucaristiche, in Roma, ed autorizzazione alla stessa ad accettare una donazione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1975-10-13;617"
+eli: "https://www.normattiva.it/eli/id/1975/12/11/075U0617/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1975-10-13
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 326 del 1975-12-11"
+codice_redazionale: "075U0617"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-10-13;617"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1975, n. 617
+
+**Riconoscimento della personalita' giuridica della procura generalizia della congregazione delle suore eucaristiche, in Roma, ed autorizzazione alla stessa ad accettare una donazione.**
+
+## Art. 1
+
+N. 617. Decreto del Presidente della Repubblica 13 ottobre 1975, col quale, sulla proposta del Ministro per interno, viene riconosciuta la personalita' giuridica della procura generalizia della congregazione delle suore eucaristiche, in Roma. L'ente stesso viene, altresi' autorizzato ad accettare una donazione, consistente in un immobile sito in Maddaloni (Caserta), descritto e valutato in L. 40.887.000 nella perizia giurata 28 febbraio-3 marzo 1975 del geometra Domenico Ulini, disposta dalla religiosa Carolina Sardiello con atto pubblico 22 febbraio 1975, n. 167424/15763 di repertorio, a rogito dott. Umberto Caporaso, notaio in S. Maria Capua Vetere (Caserta).
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 26 novembre 1975
+
+Atti di Governo, registro n. 14, foglio n. 52

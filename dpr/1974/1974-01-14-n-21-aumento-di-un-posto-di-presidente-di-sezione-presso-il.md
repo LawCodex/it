@@ -1,0 +1,60 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1974, n. 21 — Aumento di un posto di presidente di sezione presso il tribunale di Trieste."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1974-01-14;21"
+eli: "https://www.normattiva.it/eli/id/1974/02/26/074U0021/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1974-01-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 54 del 1974-02-26"
+codice_redazionale: "074U0021"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-01-14;21"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1974, n. 21
+
+**Aumento di un posto di presidente di sezione presso il tribunale di Trieste.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la tabella C, allegata al decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185, e successive variazioni, relativa alle piante organiche dei magistrati giudicanti e requirenti addetti ai tribunali;
+
+Riconosciuta la necessita' di aumentare di una unita' la pianta organica dei presidenti di sezione del tribunale di Trieste, per accresciute esigenze di servizio, previa soppressione di un posto di giudice nell'organico dello stesso tribunale;
+
+Visto il conforme parere espresso al riguardo dal Consiglio superiore della magistratura nella seduta dell'11 luglio 1973;
+
+Visto l'art. 1, ultimo comma, della legge 4 gennaio 1963, n. 1;
+
+Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia;
+
+Decreta:
+
+La tabella C allegata al decreto presidenziale 31 dicembre 1966, n. 1185, e successive variazioni, contenente le piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali e' modificata, per la parte relativa al tribunale di Trieste, come dalla tabella A allegata al presente decreto, vistata dal Ministro proponente.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 gennaio 1974
+
+LEONE
+
+ZAGARI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato alla Corte dei conti, addi' 23 febbraio 1974
+
+Atti di Governo, registro n. 2, foglio n. 1. - SCIARRETTA
+
+## Allegati
+
+## Tabella A
+
+TABELLA A
+
+MAGISTRATI GIUDICANTI ADDETTI AI TRIBUNALI
+
+Parte di provvedimento in formato grafico

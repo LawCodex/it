@@ -1,0 +1,30 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1977, n. 400 — Autorizzazione all'associazione \"Casa di carita' arti e mestieri\", in Torino, ad accettare una donazione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1977-04-01;400"
+eli: "https://www.normattiva.it/eli/id/1977/07/14/077U0400/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1977-04-01
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 191 del 1977-07-14"
+codice_redazionale: "077U0400"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-04-01;400"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1977, n. 400
+
+**Autorizzazione all'associazione "Casa di carita' arti e mestieri", in Torino, ad accettare una donazione.**
+
+## Art. 1
+
+N. 400. Decreto del presidente della Repubblica 1 aprile 1977, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'associazione "Casa di carita' arti e mestieri", in Torino, viene autorizzata ad accettare la donazione, da parte dell'"Unione catechisti del SS. Crocefisso e di Maria SS.
+
+Immacolata", di Torino, dell'immobile sito in Torino, via Bernardino Galliari, 2, angolo via Saluzzo, censito al nuovo catasto edilizio urbano alla partita 62614, foglio 189, n. 183, comprendente quattordici unita' immobiliari per vani accatastati 42, mq 274, con atto rogato per notar Billia di Torino in data 28 gennaio 1976, n. 61190/28483 di repertorio, registrato in Torino, ufficio atti pubblici il 13 febbraio 1976, al n. 5850, vol. 1313, allo scopo di destinarlo al raggiungimento dei fini istituzionali.
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato alla Corte dei conti, addi' 7 luglio 1977
+
+Registro n. 1 Lavoro, foglio n. 26

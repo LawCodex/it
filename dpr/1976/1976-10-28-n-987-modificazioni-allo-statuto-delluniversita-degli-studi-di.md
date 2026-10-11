@@ -1,0 +1,58 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976, n. 987 — Modificazioni allo statuto dell'Universita' degli studi di Catania."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1976-10-28;987"
+eli: "https://www.normattiva.it/eli/id/1977/02/16/076U0987/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1976-10-28
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 43 del 1977-02-16"
+codice_redazionale: "076U0987"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-10-28;987"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976, n. 987
+
+**Modificazioni allo statuto dell'Universita' degli studi di Catania.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' di Catania, approvato con regio decreto 20 aprile 1939, n. 1073 e modificato con regio decreto 16 ottobre 1940, n. 1527, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933 n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071 convertito nella legge 2 gennaio 1936, 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652 e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita', anzi detta;
+
+Riconosciuta l'opportunita' di apportare la rettifica al decreto del Presidente della Repubblica 31 ottobre 1975, n. 1030, relativo all'inclusione e soppressione di insegnamenti complementari nei corsi di laurea della facolta' di scienze matematiche, fisiche e naturali;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 64, relativo all'elenco degli insegnamenti complementari del corso di laurea in matematica, e' rettificato nel senso che, per l'indirizzo applicativo, l'insegnamento complementare di complementi di algebra del 2° gruppo sostituisce l'insegnamento complementare di teoria ed applicazione delle macchine calcolatrici (2° gruppo) che e' soppresso.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 ottobre 1976
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato alla Corte dei conti, addi' 31 gennaio 1977
+
+Registro n. 8 istruzione, foglio n. 120

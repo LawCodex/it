@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1975, n. 496 — Autorizzazione alla fondazione \"Carlo e Dirce Callerio\", in Trieste, ad accettare alcune donazioni."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1975-03-11;496"
+eli: "https://www.normattiva.it/eli/id/1975/10/20/075U0496/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1975-03-11
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 278 del 1975-10-20"
+codice_redazionale: "075U0496"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-03-11;496"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1975, n. 496
+
+**Autorizzazione alla fondazione "Carlo e Dirce Callerio", in Trieste, ad accettare alcune donazioni.**
+
+## Art. 1
+
+N. 496. Decreto del Presidente della Repubblica 11 marzo 1975, col quale, sulla proposta del Ministro per la pubblica istruzione, la fondazione "Carlo e Dirce Callerio", in Trieste, viene autorizzata ad accettare le seguenti donazioni di immobili, tutti siti in Trieste, predisposte dai coniugi Callerio per incrementare il patrimonio della fondazione stessa: donazione di un terreno contraddistinto con la particella catastale nuova 274 di mq 974, effettuata con atto notarile 20 gennaio 1970, a rogito dott. Mario Froglia, n. 71810 di repertorio; donazione di un terreno contraddistinto con le particelle catastali nuove 294, 295, 296, 297, 298, 284, di mq 1821, effettuata con atto notarile 4 maggio 1971, a rogito dott. Mario Froglia, n. 74437 di repertorio; donazione di un alloggio sito al sottotetto della casa di via Giulia n. 92, e di una parte della unita' condominiale sita al piano seminterrato di via Giulia, 86, non ancora censito nel nuovo catasto edilizio urbano, effettuata con atto notarile 5 gennaio 1971, a rogito dott. Mario Froglia n. 73809 di Repertorio; donazione di un alloggio sito al terzo piano della casa di via dei Porta n. 9, non ancora censito nel nuovo catasto edilizio urbano, effettuata con atto notarile 19 giugno 1972, a rogito dott. Mario Froglia, n. 76963 di repertorio.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 9 ottobre 1975
+
+Atti di Governo, registro n. 12, foglio n. 31

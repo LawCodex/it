@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1975, n. 65 — Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acquistare un immobile."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1975-02-10;65"
+eli: "https://www.normattiva.it/eli/id/1975/04/01/075U0065/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1975-02-10
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 86 del 1975-04-01"
+codice_redazionale: "075U0065"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-02-10;65"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1975, n. 65
+
+**Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acquistare un immobile.**
+
+## Art. 1
+
+N. 65. Decreto del Presidente della Repubblica 10 febbraio 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare al complessivo convenuto prezzo di lire 5.900.000 dalla sig.ra Manchiaro Ines un appartamento sito in Lignano Pineta del comune di Lignano Sabbiadoro (Udine), viale Centrale n. 14, facente parte della torre A del condominio "Las Vegas", distinto al nuovo catasto edilizio urbano del comune di Lignano Sabbiadoro alla partita n. 2955, foglio 52, mappale 183/19, da destinare a casa per ex combattenti bisognosi di cure marine.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 21 marzo 1975
+
+Atti di Governo, registro n. 9, foglio n. 26

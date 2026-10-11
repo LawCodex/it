@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975, n. 661 — Approvazione del nuovo statuto dell'Istituto del nastro azzurro fra combattenti decorati al valor militare, in Roma."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1975-10-24;661"
+eli: "https://www.normattiva.it/eli/id/1975/12/24/075U0661/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1975-10-24
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 338 del 1975-12-24"
+codice_redazionale: "075U0661"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-10-24;661"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975, n. 661
+
+**Approvazione del nuovo statuto dell'Istituto del nastro azzurro fra combattenti decorati al valor militare, in Roma.**
+
+## Art. 1
+
+N. 661. Decreto del Presidente della Repubblica 24 ottobre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene approvato il nuovo statuto, composto di trentaquattro articoli, dell'Istituto del nastro azzurro fra combattenti decorati al valor militare, quale risulta dalla deliberazione del XV congresso nazionale dell'Istituto adottata nella riunione del 27 novembre 1970, ulteriormente modificato dal XVI congresso nazionale del sodalizio nella seduta del 28 ottobre 1973.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 15 dicembre 1975
+
+Atti di Governo, registro n. 15, foglio n. 33

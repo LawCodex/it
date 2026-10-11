@@ -1,0 +1,56 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973, n. 155 — Delega al prefetto di Viterbo dell'esercizio delle facolta' riservate dal codice civile all'autorita' governativa."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1973-02-02;155"
+eli: "https://www.normattiva.it/eli/id/1973/05/02/073U0155/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1973-02-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 111 del 1973-05-02"
+codice_redazionale: "073U0155"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-02-02;155"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973, n. 155
+
+**Delega al prefetto di Viterbo dell'esercizio delle facolta' riservate dal codice civile all'autorita' governativa.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Viste le disposizioni del titolo II del libro I del codice civile;
+
+Visto l'art. 1 delle disposizioni di attuazione del codice civile;
+
+Visto l'atto costitutivo e lo statuto dell'associazione "Societa' Tarquiniese d'Arte e Storia", con sede in Tarquinia, piazza Cavour n. 21;
+
+Vista l'istanza, in data 21 luglio 1971 del Cardinale Sergio Guerri, nella sua qualita' di presidente dell'associazione stessa, intesa ad ottenere il riconoscimento della personalita' giuridica, ai sensi dell'art. 12 del codice civile;
+
+Considerato che l'associazione in parola, ai sensi del citato statuto, svolge la propria attivita' nell'ambito della provincia di Viterbo e che, pertanto, si ravvisa l'opportunita' di delegare al prefetto della provincia di Viterbo l'esercizio delle facolta' riservate dal codice civile all'autorita' governativa sia per quanto concerne gli atti inerenti la personalita' giuridica dell'associazione medesima, sia per quanto concerne l'accettazione di eredita', donazioni, rendite, legati;
+
+Visti gli articoli 12 e 17 del codice civile;
+
+Udito il parere del Consiglio di Stato;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+## Articolo unico
+
+E' delegato al prefetto della provincia di Viterbo lo esercizio delle facolta' riservate dal codice civile alla autorita' governativa sia per quanto concerne gli atti inerenti la personalita' giuridica dell'associazione di cui alle premesse, sia per quanto concerne l'accettazione di eredita', donazioni, rendite e legati.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 febbraio 1973
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 24 aprile 1973
+
+Atti di Governo, registro n. 257, foglio n. 114. - VALENTINI

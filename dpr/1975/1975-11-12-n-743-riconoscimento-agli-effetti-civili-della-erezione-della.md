@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 novembre 1975, n. 743 — Riconoscimento, agli effetti civili, della erezione della parrocchia della Sacra Famiglia, in Palestrina."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1975-11-12;743"
+eli: "https://www.normattiva.it/eli/id/1976/01/07/075U0743/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1975-11-12
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 4 del 1976-01-07"
+codice_redazionale: "075U0743"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-11-12;743"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 novembre 1975, n. 743
+
+**Riconoscimento, agli effetti civili, della erezione della parrocchia della Sacra Famiglia, in Palestrina.**
+
+## Art. 1
+
+N. 743. Decreto del Presidente della Repubblica 12 novembre 1975, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Palestrina 28 ottobre 1973, integrato con tre dichiarazioni di cui due in data 3 novembre 1973 e l'altra del 27 febbraio 1975, relativo alla erezione della parrocchia della Sacra Famiglia, in contrada Colle Girello del comune di Palestrina (Roma).
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 22 dicembre 1975
+
+Atti di Governo, registro n. 15, foglio n. 73

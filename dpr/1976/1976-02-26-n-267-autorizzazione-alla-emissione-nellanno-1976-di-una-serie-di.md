@@ -1,0 +1,56 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1976, n. 267 — Autorizzazione alla emissione nell'anno 1976 di una serie di carte valori celebrative della esposizione filatelica internazionale \"Italia '76\"."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1976-02-26;267"
+eli: "https://www.normattiva.it/eli/id/1976/05/19/076U0267/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1976-02-26
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 131 del 1976-05-19"
+codice_redazionale: "076U0267"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-02-26;267"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1976, n. 267
+
+**Autorizzazione alla emissione nell'anno 1976 di una serie di carte valori celebrative della esposizione filatelica internazionale "Italia '76".**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 32 del codice postale e delle telecomunicazioni, approvato con decreto del Presidente della Repubblica 29 marzo 1973, n. 156;
+
+Visto l'art. 2 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156;
+
+Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima), approvato con regio decreto 18 aprile 1940, n. 689;
+
+Riconosciuta l'opportunita' di integrare il programma di emissione di francobolli per l'anno 1976 con una serie di francobolli nonche' di una cartolina postale e di un aerogramma celebrativi della esposizione filatelica internazionale "Italia '76";
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le poste e le telecomunicazioni;
+
+Decreta:
+
+## Art. 1
+
+E' autorizzata l'emissione nell'anno 1976 di una serie di francobolli nonche' di una cartolina postale e di un aerogramma celebrativi della esposizione filatelica internazionale "Italia '76".
+
+## Art. 2
+
+Con decreto del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro, verranno indicati i valori e le caratteristiche tecniche dei francobolli, della cartolina postale e dell'aerogramma di cui al precedente art. 1.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 26 febbraio 1976
+
+LEONE
+
+MORO - ORLANDO
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato alla Corte dei conti, addi' 12 maggio 1976
+
+Atti di Governo, registro n. 5, foglio n. 88

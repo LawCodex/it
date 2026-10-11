@@ -1,0 +1,72 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 agosto 1973, n. 1188 — Modificazioni allo statuto dell'Accademia navale."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1973-08-18;1188"
+eli: "https://www.normattiva.it/eli/id/1974/11/25/073U1188/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1973-08-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 306 del 1974-11-25"
+codice_redazionale: "073U1188"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-08-18;1188"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 agosto 1973, n. 1188
+
+**Modificazioni allo statuto dell'Accademia navale.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 8 luglio 1926, n. 1178, e successive modificazioni, sull'ordinamento della Marina militare;
+
+Visto il testo unico delle disposizioni legislativa riguardanti gli ufficiali di complemento della Marina militare, approvato con regio decreto 16 maggio 1932, numero 819, e successive modificazioni;
+
+Visto lo statuto dell'Accademia navale, approvato con decreto del Presidente della Repubblica 11 marzo 1953, n. 412, e successive modificazioni;
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Udito il parere del Consiglio superiore delle forze armate;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per la difesa, di concerto con i Ministri per il tesoro e per la pubblica istruzione;
+
+Decreta:
+
+## Articolo unico
+
+L'art. 28 dello statuto dell'Accademia navale, approvato con decreto del Presidente della Repubblica 11 marzo 1953, n. 412, e successive modificazioni, e' sostituito dal seguente:
+
+"Art. 28 - Corsi per laureati e per diplomati. - I corsi per allievi ufficiali di complemento per laureati e per diplomati provvedono alla formazione di ufficiali di complemento dei vari corpi della Marina militare.
+
+La durata dei corsi per allievi ufficiali di complemento laureati e quella dei corsi per allievi ufficiali di complemento diplomati e' stabilita dal capo di stato maggiore della Marina, in relazione alle esigenze di formazione dei suindicati allievi.
+
+Al termine dei rispettivi corsi, gli allievi idonei sono nominati aspiranti guardiamarina di complemento nei corpi di appartenenza e con tale grado compiono un tirocinio pratico di quattro mesi a bordo o a terra.
+
+Al termine del tirocinio pratico i comandi assegnano agli aspiranti dipendenti un punto di attitudine professionale per determinare l'idoneita' al grado di ufficiale.
+
+Il giudizio definitivo e' pronunciato dal consiglio di disciplina dell'Accademia navale presieduto dall'ammiraglio comandante.
+
+Gli aspiranti non idonei alla nomina a guardiamarina, sono rinviati nel Corpo equipaggi militari marittimi, secondo quanto previsto dalle disposizioni di legge in merito.
+
+Le materie e i programmi di insegnamento sono stabiliti dallo stato maggiore della Marina".
+
+L'art. 29 dello statuto dell'Accademia navale, di cui al precedente primo comma, e' abrogato.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 agosto 1973
+
+LEONE
+
+RUMOR - TANASSI - LA MALFA - MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Visto e registrato alla Corte dei conti, addi' 18 novembre 1974
+
+Atti di Governo, registro n. 6, foglio n. 129. - CARUSO

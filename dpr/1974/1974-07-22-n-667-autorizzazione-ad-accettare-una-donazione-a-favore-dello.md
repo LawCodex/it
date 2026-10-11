@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974, n. 667 — Autorizzazione ad accettare una donazione a favore dello Stato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1974-07-22;667"
+eli: "https://www.normattiva.it/eli/id/1974/12/19/074U0667/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1974-07-22
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 332 del 1974-12-19"
+codice_redazionale: "074U0667"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-07-22;667"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974, n. 667
+
+**Autorizzazione ad accettare una donazione a favore dello Stato.**
+
+## Art. 1
+
+N. 667. Decreto del Presidente della Repubblica 22 luglio 1974, col quale, sulla proposta del Ministro per le finanze, di concerto con il Ministro per il lavoro e la previdenza sociale, viene autorizzata, per la minor superficie di mq 540 circa, l'accettazione della donazione a favore dello Stato disposta dal comune di Avezzano (L'Aquila) con atto 7 dicembre 1957, a rogito notaio Giovanni Stornelli, n. 8720 di repertorio, del terreno edificatorio, della superficie di mq 801, sito in detto comune alla via Orazio Mattei, catastalmente indicato in tale atto e sul quale e' gia' stato realizzato dal Ministero del lavoro e della previdenza sociale, mediante cantiere di lavoro, un edificio adibito a sede dell'ufficio comunale del lavoro.
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato alla Corte dei conti, addi' 7 dicembre 1974
+
+Atti di Governo, registro n. 7, foglio n. 84. - SCIARRETTA
