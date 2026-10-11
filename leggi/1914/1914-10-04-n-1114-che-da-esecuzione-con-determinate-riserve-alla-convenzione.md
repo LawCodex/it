@@ -1,0 +1,495 @@
+---
+title: "LEGGE 04 ottobre 1914, n. 1114 — Che da' esecuzione, con determinate riserve, alla Convenzione firmata a Berlino il 13 novembre 1908, fra l'Italia e altri Stati, per la protezione della proprieta' letteraria e artistica."
+identifier: "urn:nir:stato:legge:1914-10-04;1114"
+eli: "https://www.normattiva.it/eli/id/1914/10/22/014U1114/CONSOLIDATED/20090619"
+type: act
+jurisdiction: it
+language: it
+date: 1914-10-04
+last_amended: 2009-06-19
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 253 del 1914-10-22"
+codice_redazionale: "014U1114"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-10-04;1114"
+retrieved: 2026-10-11
+---
+
+# LEGGE 04 ottobre 1914, n. 1114
+
+**Che da' esecuzione, con determinate riserve, alla Convenzione firmata a Berlino il 13 novembre 1908, fra l'Italia e altri Stati, per la protezione della proprieta' letteraria e artistica.**
+
+*Entrata in vigore del provvedimento: 06/11/1914*
+
+VITTORIO EMANUELE III
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Il Senato e la Camera dei deputati hanno approvato;
+
+Noi abbiamo sanzionato e promulghiamo quanto segue:
+
+## Art. 1
+
+E' approvata la convenzione, firmata a Berlino il 13 novembre 1908 dall'Italia e da altri Stati, ed allegata alla presente legge nel testo e nella traduzione italiana, la quale modifica la Convenzione per la tutela delle opere letterarie ed artistiche, firmata a Berna il 9 settembre 1886 e approvata con R. decreto 6 novembre 1887, n. 5024, e l'atto addizionale e la dichiarazione interpretativa firmata a Parigi il 4 maggio 1896, approvata con R. decreto 21 novembre 1897, n. 517. Tale approvazione comporta tuttavia le riserve, di cui all'articolo seguente, basato sulla disposizione dell'articolo 27 della stessa Convenzione.
+
+((1))
+
+---------------
+
+AGGIORNAMENTO (1)
+
+La L. 12 giugno 1931, n. 774 ha disposto (con l'art. 2, comma 1) che "Le riserve di cui agli articoli 1 e 2 della legge 4 ottobre 1911, n. 1114, che approva la Convenzione firmata a Berlino il 13 novembre 1908 fra l'Italia ed altri Stati per la protezione delle opere letterarie ed artistiche, cesseranno di avere effetto dalla data dell'entrata in vigore della Convenzione di cui al precedente articolo".
+
+## Art. 2
+
+Il diritto esclusivo degli autori di fare o di autorizzare la traduzione delle loro opere restera' regolato, anziche' dall'articolo 8 della Convenzione allegata, dall'articolo 5 della Convenzione di Berna del 9 settembre 1886, modificata dall'articolo 1°, III, dell'atto addizionale di Parigi.
+
+Il diritto esclusivo di autorizzare la rappresentazione pubblica di opere tradotte restera' regolato, anziche' dall'articolo 11, comma 2°, della Convenzione allegata, dall'articolo 9 della Convenzione di Berna del 9 settembre 1886.
+
+((1))
+
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 4 ottobre 1914.
+
+VITTORIO EMANUELE.
+
+Di San Giuliano - Cavasola.
+
+Visto, Il guardasigilli: Dari.
+
+---------------
+
+AGGIORNAMENTO (1)
+
+La L. 12 giugno 1931, n. 774 ha disposto (con l'art. 2, comma 1) che "Le riserve di cui agli articoli 1 e 2 della legge 4 ottobre 1911, n. 1114, che approva la Convenzione firmata a Berlino il 13 novembre 1908 fra l'Italia ed altri Stati per la protezione delle opere letterarie ed artistiche, cesseranno di avere effetto dalla data dell'entrata in vigore della Convenzione di cui al precedente articolo".
+
+## Allegati
+
+## Convention
+
+CONVENTION DE BERNE REVISEE pour la protection des oeuvres litteraires et artistiques.
+
+Parte di provvedimento in formato grafico
+
+## art. 1
+
+CONVENZIONE DI BERNA RIVEDUTA per la protezione delle opere letterarie ed artistiche
+
+Sua Maesta' l'Imperatore di Germania, Re di Prussia, in nome dell'impero germanico; Sua Maesta' il Re dei belgi; Sua Maesta' il Re di Danimarca; Sua Maesta' il Re di Spagna; il Presidente della Repubblica francese; Sua Maesta' il Re del Regno Unito della Gran Bretagna e d'Irlanda, Imperatore delle Indie; Sua Maesta' il Re d'Italia; Sua Maesta' l'Imperatore del Giappone; il Presidente della Repubblica di Liberia; Sua Altezza Reale il Gran Duca di Lussemburgo, Duca di Nassau; Sua Altezza serenissima il Principe di Monaco; Sua Maesta' il Re di Norvegia; Sua Maesta' il Re di Svezia; il Consiglio federale della Confederazione Svizzera; Sua Altezza il Bey di Tunisi;
+
+Egualmente animati dal desiderio di proteggere nel modo piu' efficace ed uniforme che sia possibile i diritti degli autori sulle loro opere letterarie ed artistiche,
+
+Hanno deciso di concludere una Convenzione allo scopo di rivedere la Convenzione di Berna del 9 settembre l886, l'articolo addizionale ed il Protocollo di chiusura aggiunti alla stessa Convenzione, come pure l'atto addizionale e la dichiarazione interpretativa di Parigi, del 4 maggio 1896.
+
+Hanno, percio', nominato a loro plenipotenziari:
+
+Sua Maesta' l'Imperatore di Germania, Re di Prussia:
+
+Sua Eccellenza il dottor von Studt, ministro di Stato reale prussiano;
+
+Sua Eccellenza il dottor von Koerner, consigliere intimo effettivo, direttore al dicastero degli affari esteri;
+
+Il signor dottor Dungs, consigliere intimo superiore di governo, consigliere relatore al dicastero della giustizia;
+
+Il signor dottor Goebel von Harrant, consigliere intimo di legazione, consigliere relatore al dicastero degli affari esteri;
+
+Il signor Robolski, consigliere intimo superiore di governo, consigliere relatore al dicastero dell'interno:
+
+Il signor dottor Kohler, consigliere intimo di giustizia, professore alla facolta' di diritto dell'Universita' di Berlino;
+
+Il signor dottor Osterrieth, professore, segretario generale dell'Associazione per la protezione della proprieta' industriale.
+
+Sua Maesta' il Re dei Belgi:
+
+Il signor conte Della Faille de Leverghem, consigliere di legazione a Berlino;
+
+Il signor J. De Borchgrave, avvocato presso la corte di appello di Bruxelles, gia' membro della Camera dei rappresentanti;
+
+Il signor P. Wauwermans, avvocato presso la Corte d'appello di Bruxelles, membro della Camera dei rappresentanti.
+
+Sua Maesta' il Re di Danimarca:
+
+Il signor J. H. De Hegermann Lindencrone, inviato straordinario e ministro plenipotenziario di Sua Maesta' il Re di Danimarca a Berlino.
+
+Sua Maesta' il Re di Spagna:
+
+Sua Eccellenza il signor Luis Polo De Bernabe', ambasciatore straordinario e plenipotenziario di Sua Maesta' il Re di Spagna a Berlino;
+
+Il signor Eugenio Ferraz y Alcala Galiano, consigliere d'ambasciata a Berlino.
+
+Il presidente della Repubblica francese:
+
+Sua Eccellenza il signor Giulio Cambon, ambasciatore straordinario e plenipotenziario della Repubblica francese a Berlino;
+
+Il signor Ernesto Lavisse, membro dell'Accademia francese, professore alla Facolta' di lettere di Parigi, direttore della scuola normale superiore;
+
+Il signor Paolo Hervieu, membro dell'Accademia francese, presidente della Societa' degli autori e compositori drammatici;
+
+Il signor Luigi Renault, membro dell'Istituto, ministro plenipotenziario onorario, professore alla Facolta' di diritto di Parigi;
+
+Il signor Fernando Gavarry, ministro plenipoteziario di prima classe, direttore degli affari amministrativi e tecnici al Ministero degli affari esteri;
+
+Il signor Breton, direttore dell'Ufficio nazionale della proprieta' industriale;
+
+Il signor Giorgio Lecomte, presidente della Societa' dei letterati.
+
+Sua Maesta' il Re del Regno Unito della Gran Bretagna e d'Irlanda, Imperatore delle Indie:
+
+Sir Henri Bergne, gia' capo del dipartimento commerciale al Ministero degli affari esteri;
+
+Il signor Giorgio Ranken Askwith, del consiglio del Re, assistente segretario al ministero del commercio;
+
+Il signor conte De Salis, consigliere d'ambasciata a Berlino.
+
+Sua Maesta' il Re d'Italia:
+
+Sua Eccellenza il comm. Alberto Pansa, ambasciatore straordinario e plenipotenziario di Sua Maesta' il Re d'Italia a Berlino;
+
+Il signor comm. Luigi Roux, avvocato, senatore:
+
+Il signor comm. Samuele Ottolenghi, direttore della divisione per la proprieta' intellettuale;
+
+Il cav. Emilio Venezian, ingegnere, ispettore dell'insegnamento industriale;
+
+Il signor Augusto Ferrari, avvocato, vice presidente della Societa' italiana degli autori
+
+Sua Maesta' l'Imperatore del Giappone:
+
+Il signor dott. Misuno Rentaro, consigliere relatore al Ministero dell'interno;
+
+Il signor Horiguchi Kumaichi, secondo segretario di legazione a Stoccolma.
+
+Il Presidente della Repubblica di Liberia:
+
+La delegazione dell'Impero germanico e, in nome di questa, Sua Eccellenza il dottor Von Koerner, consigliere intimo effettivo, direttore al dicastero degli affari esteri.
+
+Sua Altezza Reale il Gran Duca di Lussemburgo Duca di Nassau:
+
+Il signor dottor conte Ippolito De Villers, incaricato d'affari del Lussemburgo a Berlino.
+
+Sua Altezza serenissima il Principe di Monaco:
+
+Il signor barone De Rolland, presidente del tribunale superiore.
+
+Sua Maesta' il Re di Norvegia:
+
+Il signor Klaus Hoel, capo divisione al dicastero dei culti e della pubblica istruzione.
+
+Sua Maesta' il Re di Svezia:
+
+Il signor conte Taube, inviato straordinario e ministro plenipotenziario di Sua Maesta' il Re di Svezia a Berlino;
+
+Il signor barone Peder-Magnus de Ugglas, referendario alla Corte suprema.
+
+Il Consiglio federale della Confederazione Svizzera:
+
+Il signor dottor Alfredo De Claparede, inviato straordinario e ministro plenipotenziario della Confederazione svizzera a Berlino;
+
+Il signor W. Kraft, aggiunto dell'ufficio federale per la proprieta' intellettuale.
+
+Sua Altezza il bey di Tunisi:
+
+Il sig. Giovanni Gout, console generale al Ministero degli affari esteri a Parigi.
+
+I quali, dopo essersi comunicati i loro rispettivi pieni poteri, trovati in buona e debita forma, convennero negli articoli seguenti:
+
+Art. 1.
+
+I paesi contraenti sono costituiti in unione per la protezione dei diritti degli autori sulle loro opere letterarie ed artistiche.
+
+## Art. 2
+
+L'espressione «opere letterarie ed artistiche» comprende ogni produzione del dominio letterario scientifico od artistico, qualunque sia il modo o la forma della riproduzione, come: i libri, opuscoli ed altri scritti; le opere drammatiche o drammatico-musicali, le opere coreografiche e le pantomime, la cui messa in scena e' fissata per iscritto od altrimenti; le composizioni musicali, con o senza parole; le opere di disegno, pittura, architettura, scultura, incisione e litografia; le illustrazioni, le carte geografiche; i piani, schizzi e lavori plastici relativi alla geografia, alla topografia, all'architettura od alle scienze.
+
+Sono protetti come opere originali, senza pregiudizio dei diritti dell'autore dell'opera originale: traduzioni, adattamenti, riduzioni di musica ed altre riproduzioni trasformate di un'opera letteraria od artistica, come pure le raccolte di differenti opere.
+
+I paesi contraenti sono tenuti ad assicurare la protezione delle opere qui sopra menzionate.
+
+Le opere d'arte applicata all'industria sono protette in quanto permetta di farlo la legislazione interna di ciascun paese.
+
+## Art. 3
+
+La presente convenzione si applica alle opere fotografiche ed alle opere ottenute con un processo analogo alla fotografia. I paesi contraenti sono tenuti ad assicurarne la protezione.
+
+## Art. 4
+
+Gli autori che appartengono ad uno dei paesi dell'Unione godono nei paesi diversi da quello d'origine dell'opera, per le loro opere non pubblicate, o pubblicate per la prima volta in un paese dell'Unione, i diritti che le leggi rispettive concedono attualmente o concederanno in seguito ai nazionali, e cosi' pure i diritti specialmente concessi dalla presente Convenzione.
+
+Il godimento e l'esercizio di questi diritti non sono subordinati ad alcuna formalita'; questo godimento e questo esercizio sono indipendenti dalla esistenza della protezione nel paese d'origine dell'opera. Per conseguenza, all'infuori delle stipulazioni della presente Convenzione, l'estensione della protezione, e cosi' pure i mezzi di ricorso garantiti all'autore per salvaguardare i propri diritti, si regolano esclusivamente secondo la legislazione del paese dove e' reclamata la protezione.
+
+Si considera come paese d'origine dell'opera: per le opere non pubblicate, quello cui appartiene l'autore; per le opere pubblicate, quello della prima pubblicazione, e per lo opere pubblicate simultaneamente in vari paesi dell'Unione, quello fra essi la cui legislazione concede la durata di protezione piu' breve. Per le opere pubblicate contemporaneamente in un paese estraneo all'Unione ed in un paese dell'Unione, sara' considerato esclusivamente quest'ultimo came il paese d'origine.
+
+Per opere pubblicate vanno intese, nel senso della presente Convenzione, le opere edite. La rappresentazione di un'opera drammatica o drammatico-musicale, l'esecuzione di un'opera musicale, l'esposizione di un'opera d'arte o la costruzione di un'opera di architettura non costituiscono pubblicazione.
+
+## Art. 5
+
+Gli appartenenti ad uno dei paesi dell'Unione, i quali pubblichino per la prima volta le proprie opere in un altro paese dell'Unione, hanno, in quest'ultimo paese, gli stessi diritti degli autori nazionali.
+
+## Art. 6
+
+Gli autori non appartenenti ad uno dei paesi dell'Unione, i quali pubblichino per la prima volta le proprie opere in uno di questi paesi, godono in questo paese i medesimi diritti degli autori nazionali, e negli altri paesi dell'Unione i diritti concessi dalla presente Convenzione.
+
+## Art. 7
+
+La durata della protezione concessa dalla presente Convenzione comprende la vita dell'autore e cinquanta anni dopo la morte di lui.
+
+Tuttavia, nel caso in cui questa durata non fosse uniformemente adottata da tutti i paesi dell'Unione, la durata sara' regolata dalla legge del paese in cui si reclama la protezione, e non potra' eccedere la durata fissata nel paese d'origine dell'opera. I paesi contraenti non saranno, per conseguenza, tenuti ad applicare la disposizione del comma precedente se non nella misura in cui essa sia conciliabile col loro diritto interno.
+
+Per le opere fotografiche e per le opere ottenute con un processo analogo alla fotografia, per le opere postume, per le opere anonime o pseudonime, la durata della protezione e' regolata dalla legge del paese in cui si reclama la protezione, senza che questa durata possa eccedere quella fissata nel paese d'origine dell'opera.
+
+## Art. 8
+
+Gli autori di opere non pubblicate che appartengono ad uno dei paesi dell'Unione, e gli autori di opere pubblicate per la prima volta in uno di questi paesi, godono, negli altri paesi dell'Unione, per tutta la durata del diritto sull'opera originale, del diritto esclusivo di fare o di autorizzare la traduzione delle loro opere.
+
+## Art. 9
+
+I romanzi d'appendice, le novelle ed ogni altra opera, sia letteraria, sia scientifica, sia artistica, qualunque ne sia l'oggetto, pubblicati nei giornali o nelle raccolte periodiche d'uno dei paesi dell'Unione non possono riprodursi negli altri paesi senza il consenso degli autori.
+
+Esclusi i romanzi d'appendice e le novelle, qualunque articolo di giornale puo' essere riprodotto da un altro giornale se non ne sia espressamente vietata la riproduzione. Tuttavia dovra' indicarsi la fonte; la sanzione di questo obbligo e' determinata dalla legislazione del paese dove e' reclamata la protezione.
+
+La protezione della presente Convenzione non si applica alle notizie del giorno od ai fatti vari che hanno il carattere di semplici informazioni di stampa.
+
+## Art. 10
+
+Per quanto concerne la facolta' di fare lecitamente degli estratti da opere letterarie od artistiche per pubblicazioni destinate all'insegnamento od aventi carattere scientifico, o per antologie, restano riservati gli effetti della legislazione dei paesi dell'Unione e degli accordi particolari stipulati o da stipularsi fra essi.
+
+## Art. 11
+
+Le stipulazioni della presente Convenzione si applicano alla rappresentazione pubblica delle opere drammatiche o drammatico-musicali, ed all'esecuzione pubblica delle opere musicali, siano tali opere pubblicate o no.
+
+Gli autori di opere drammatiche o drammatico-musicali sono protetti, per la durata del loro diritto sull'opera originale, contro la rappresentazione pubblica, non autorizzata, della traduzione delle opere loro.
+
+Per godere la protezione del presente articolo gli autori non sono tenuti, nel pubblicare le loro opere, a vietarne la rappresentazione o l'esecuzione pubblica.
+
+## Art. 12
+
+Fra le riproduzioni illecite alle quali si applica la presente Convenzione sono specialmente comprese le appropriazioni indirette, non autorizzate, di un'opera letteraria od artistica, come adattamenti, riduzioni musicali, trasformazioni di un romanzo, di una novella, o di una poesia in opera teatrale e viceversa, ecc., quando esse non sono che la riproduzione di quell'opera, nella stessa o sotto diversa forma, con variazioni, aggiunte o tagli, non essenziali, o senza presentare il carattere di una nuova opera originale.
+
+## Art. 13
+
+Gli autori di opere musicali hanno il diritto esclusivo di autorizzare: 1° l'adattamento di opere ad istrumenti che servono a riprodurle meccanicamente; 2° l'esecuzione pubblica delle opere stesse per mezzo di detti strumenti.
+
+La legislazione interna di ogni paese potra', in quanto lo concerne, determinare riserve e condizioni relative all'applicazione di questo articolo; ma tutte le riserve e le condizioni di questa specie avranno effetto strettamente limitato al paese che le avesse stabilite.
+
+La disposizione del primo comma non ha effetto retroattivo, e per conseguenza, non e' applicabile, in un paese dell'Unione, alle opere che nello stesso paese saranno state lecitamente adattate agli strumenti meccanici prima che entri in vigore la presente Convenzione.
+
+Gli adattamenti fatti in virtu' dei comma due e tre del presente articolo ed importati, senza autorizzazione delle parti interessate, in un paese dove non fossero leciti, potranno esservi sequestrati.
+
+## Art. 14
+
+Gli autori di opere letterarie, scientifiche od artistiche hanno il diritto esclusivo di autorizzare la riproduzione e la rappresentazione pubblica delle opere loro per mezzo della cinematografia.
+
+Sono protette come opere letterarie od artistiche le produzioni cinematografiche, quando con le disposizioni della messa in scena, o con le combinazioni degli incidenti rappresentati, l'autore abbia dato all'opera un carattere personale ed originale.
+
+Senza pregiudizio dei diritti dell'opera originale, la riproduzione cinematografica di un'opera letteraria, scientifica od artistica e' protetta come un'opera originale.
+
+Le disposizioni che precedono si applicano alla riproduzione od alla produzione ottenuta con qualsiasi altro processo analogo alla cinematografia.
+
+## Art. 15
+
+Perche' gli autori delle opere protette dalla presente Convenzione sieno considerati, fino a prova contraria, come tali, e percio' ammessi, dinanzi ai tribunali dei vari paesi dell'Unione, ad esercitare azioni contro i contraffattori, basta che il loro nome sia indicato sull'opera nel modo consueto.
+
+Per le opere anonime o pseudonime, l'editore il cui nome sia indicato sull'opera e' autorizzato a salvaguardare i diritti spettanti all'autore. Egli sara' reputato, senz'altra prova, come un avente causa dall'autore anonimo o pseudonimo.
+
+## Art. 16
+
+Ogni opera contraffatta puo' essere sequestrata dalle autorita' competenti dei paesi dell'Unione dove l'opera originale ha diritto alla protezione legale.
+
+Negli stessi paesi il sequestro puo' pure applicarsi alle riproduzioni provenienti da un paese ove l'opera non e' protetta od ha cessato di esserlo.
+
+Il sequestro e' fatto in conformita' della legge interna di ciascun paese.
+
+## Art. 17
+
+Le disposizioni della presente Convenzione non possono portare pregiudizio di sorta al diritto spettante al governo di ciascuno dei paesi dell'Unione di permettere, sorvegliare, vietare con misure legislative o di polizia interna, la circolazione, la rappresentazione, l'esposizione di qualsiasi opera o produzione rispetto alla quale l'autorita' competente abbia ad esercitare tale diritto.
+
+## Art. 18
+
+La presente Convenzione si applica a tutte le opere le quali al momento in cui essa entra in vigore non sono ancora divenute di pubblico dominio, nel loro paese d'origine, per lo spirare della durata della protezione.
+
+Tuttavia se un'opera, per lo spirare della durata di protezione che le era anteriormente riconosciuta, e' caduta nel dominio pubblico del paese dove si reclama la protezione, quest'opera non vi sara' nuovamente protetta.
+
+L'applicazione di questo principio si fara' secondo le stipulazioni contenute nelle Convenzioni speciali esistenti o da concludersi a tale effetto fra paesi dell'Unione. Quando manchino tali stipulazioni, i paesi rispettivi regoleranno, ciascuno per quanto lo concerne, le modalita' relative a detta applicazione.
+
+Le disposizioni che precedono si applicano ugualmente in caso di nuove accessioni all'Unione e nel caso in cui la durata della protezione fosse estesa in applicazione dell'art. 7.
+
+## Art. 19
+
+Le disposizioni della presente Convenzione non impediscono di reclamare l'applicazione di disposizioni piu' larghe che fossero emanate dalla legislazione d'un paese dell'Unione in favore degli stranieri in generale.
+
+## Art. 20
+
+I Governi dei paesi dell'Unione si riservano il diritto di stipulare fra loro accordi particolari, in quanto questi accordi conferiscano agli autori diritti piu' estesi di quelli concessi dall'Unione, o contengano altre stipulazioni non contrarie alla presente Convenzione. Restano applicabili le disposizioni degli accordi esistenti che rispondono alle condizioni precitate.
+
+## Art. 21
+
+E' conservato l'ufficio internazionale istituito sotto il nome di «Ufficio internazionale per la protezione delle opere letterarie ed artistiche».
+
+Quest'Ufficio e' posto sotto l'alta autorita' del Governo della Confederazione Svizzera, che ne regola l'organizzazione e ne sorveglia il funzionamento.
+
+La lingua ufficiale dell'Ufficio e' la francese.
+
+## Art. 22
+
+L'Ufficio internazionale accentra le informazioni di qualunque sorta relative alla protezione dei diritti degli autori sulle loro opere letterarie ed artistiche. Esso le coordina e le pubblica.
+
+Procede agli studi di comune utilita' interessanti l'Unione e redige, sulla scorta dei documenti messi a sua disposizione dalle varie amministrazioni, un foglio periodico, in lingua francese, sulle questioni concernenti l'oggetto dell'Unione. I Governi dei paesi dell'Unione si riservano di autorizzare, di comune accordo, l'Ufficio a pubblicare un'edizione in una o piu' lingue, per il caso in cui l'esperienza ne avesse dimostrato il bisogno.
+
+L'Ufficio internazionale deve sempre tenersi a disposizione dei membri dell'Unione per fornire loro, sulle questioni relative alla protezione delle opere letterarie e artistiche, le informazioni speciali di cui potessero abbisognare.
+
+Il direttore dell'Ufficio internazionale fa un rapporto annuale della sua gestione, il quale e' comunicato a tutti i membri dell'Unione.
+
+## Art. 23
+
+Le spese dell'Ufficio dell'Unione internazionale sono sostenute in comune dai paesi contraenti. Fino a nuova decisione, non potranno superare la somma di 60 mila franchi all'anno. Questa somma potra' essere aumentata, quando occorra, con semplice decisione di una delle Conferenze, prevedute all'art. 24.
+
+Per determinare il contributo di ciascun paese alla somma totale delle spese, i paesi contraenti e quelli che ulteriormente aderiranno all'Unione sono divisi in sei classi, ciascuna delle quali contribuira' in proporzioni d'un certo numero d'unita', cioe':
+
+1ª classe . . . 25 unita'
+
+2ª » . . . 20 »
+
+3ª » . . . 15 »
+
+4ª » . . . 10 »
+
+5ª » . . . 5 »
+
+6ª » . . . 3 »
+
+Questi coefficienti sono moltiplicati pel numero dei paesi di ciascuna classe e la somma dei prodotti cosi' ottenuti da' il numero di unita' per il quale deve essere divisa la spesa totale. Il quoziente da' l'ammontare dell'unita' di spesa.
+
+Ogni paese, al momento della sua accessione, dichiarera' in quale delle dette classi chiede di essere inscritto.
+
+L'Amministrazione elvetica prepara il bilancio dell'Ufficio e ne sorveglia le spese, fa le anticipazioni necessarie e stabilisce il conto annuale che sara' comunicato a tutte le altre Amministrazioni.
+
+## Art. 24
+
+La presente Convenzione puo' essere sottoposta a revisioni allo scopo d'introdurvi miglioramenti atti a perfezionare il sistema dell'Unione.
+
+Le questioni di tale natura, come pure quelle che interessano da altri punti di vista lo sviluppo dell'Unione, sono trattate in Conferenze che avranno luogo successivamente nei paesi dell'Unione fra i delegati dei paesi stessi.
+
+L'amministrazione del paese ove una Conferenza deve adunarsi ne prepara, col concorso dell'Ufficio internazionale, i lavori. Il direttore dell'Ufficio assiste alle sedute delle Conferenze e prende parte alle discussioni senza voto deliberativo.
+
+Non e' valida per l'Unione alcuna modificazione alla presente Convenzione se non vi sia l'assenso unanime dei paesi che la compongono.
+
+## Art. 25
+
+Gli Stati estranei all'Unione, che assicurano la protezione legale dei diritti formanti oggetto della presente Convenzione, possono accedervi a loro domanda.
+
+Questa accessione sara' notificata per iscritto al Governo della Confederazione elvetica e da questo a tutti gli altri.
+
+Essa importera', di pieno diritto, adesione a tutte le clausole ed ammissione a tutti i vantaggi stipulati nella presente Convenzione.
+
+Tuttavia potra' contenere l'indicazione delle disposizioni della Convenzione 9 settembre 1886 o dell'atto addizionale 4 maggio 1896, che essi ritenessero necessario di sostituire, provvisoriamente almeno, alle corrispondenti disposizioni della presente Convenzione.
+
+## Art. 26
+
+I paesi contraenti hanno il diritto di accedere in qualunque tempo alla presente Convenzione per le loro colonie o pei loro possedimenti all'estero.
+
+Possono a tale effetto o fare una dichiarazione generale con cui tutte le loro colonie o possedimenti sono compresi nell'accessione o designare espressamente quelle o quelli che vi sono compresi, ovvero limitarsi ad indicare quelle o quelli che ne sono esclusi.
+
+Tale dichiarazione sara' notificata per iscritto al Governo della Confederazione elvetica, e da questo a tutti gli altri.
+
+## Art. 27
+
+La presente Convenzione sostituira', nei rapporti fra gli Stati contraenti, la Convenzione di Berna del 9 settembre 1886, compresovi l'articolo addizionale ed il protocollo di chiusura dello stesso giorno, come pure l'atto addizionale e la dichiarazione interpretativa del 4 maggio 1896. Gli atti convenzionali precitati resteranno in vigore nei rapporti cogli Stati che non ratificassero la presente Convenzione.
+
+Gli Stati firmatari della presente Convenzione potranno, all'atto dello scambio delle ratifiche, dichiarare che intendono restare ancora vincolati, su questo o quel punto, dalle disposizioni delle convenzioni da essi anteriormente stipulate.
+
+## Art. 28
+
+La presente Convenzione sara' ratificata, e le ratifiche saranno scambiate a Berlino al piu' tardi il 1° luglio 1910.
+
+Ognuna delle parti contraenti rimettera', per lo scambio delle ratifiche, un solo istrumento, che sara' depositato, con quelli degli altri paesi, negli archivi del Governo della Confederazione Svizzera.
+
+Ognuna delle parti ricevera' in cambio un esemplare del processo verbale di scambio delle ratifiche sottoscritto dai plenipotenziari che vi avranno preso parte.
+
+## Art. 29
+
+La presente Convenzione entrera' in vigore tre mesi dopo lo scambio delle ratifiche e restera' in vigore per un tempo indeterminato, fino a che sia spirato un anno dal giorno in cui ne sara' stata fatta denunzia.
+
+Questa denunzia sara' diretta al Governo della Confederazione Svizzera. Essa non avra' effetto che relativamente al paese che l'avra' fatta, restando la Convenzione in vigore per gli altri paesi dell'Unione.
+
+## Art. 30
+
+Gli Stati che introdurranno nella loro legislazione la durata di protezione di cinquanta anni, prevista dall'articolo 7, primo comma, della presente Convenzione ne daranno partecipazione al Governo della Confederazione Svizzera con una notificazione scritta che sara' tosto comunicata da quel Governo a tutti gli altri Stati dell'Unione.
+
+Lo stesso avverra' per gli Stati che rinuncieranno alle riserve da essi fatte in virtu' degli articoli 25, 26, 27.
+
+In fede di che, i rispettivi plenipotenziari hanno sottoscritto la presente Convenzione e vi hanno apposto i loro sigilli.
+
+Fatto a Berlino il 13 novembre 1908 in un solo esemplare, che sara' depositato negli archivi del Governo della Confederazione Svizzera, copia del quale, certificata conforme, sara' rimessa, per la via diplomatica, ai paesi contraenti.
+
+Per la Germania: Per la Danimarca:
+
+(L. S.) D.r K. Von Studt. (L. S.) J. Hegermann Linden-crone.
+
+» Von Koerner.
+
+» Dungs.
+
+» Goebel Von Harrant. Per la Spagna:
+
+» Robolski. (L. S.) Luis Polo De Bernabe'
+
+» Josef Kohler. » Eugenio Ferraz.
+
+» Osterrieth.
+
+Per il Belgio: Per la Francia:
+
+(L. S.) Jules Cambon.
+
+(L. S.) Comte Della Faille
+
+de Leverghem. » E. Lavisse.
+
+» Paul Hervien.
+
+» Jules De Borchgrave » L. Renault.
+
+» Wauwermans.
+
+(L. S) Gavarry. Per il Lussemburgo:
+
+» G. Breton.
+
+» Georges Lecomte. (L. S.) Comte de Villers.
+
+Per la Gran Bretagna: Per Monaco:
+
+(L. S.) A. G. Bergne. (L. S.) Baron de Rolland.
+
+» George R. Askwith.
+
+Per la Norvegia.
+
+» J. de Salis.
+
+(L. S.) Klaus Hoel.
+
+Per L'Italia:
+
+(L. S.) Pansa. Per la Svezia:
+
+» Luigi Roux. (L. S.) Taube.
+
+» Samuele Ottolenghi. » P. M. Af Ugglas.
+
+» Emilio Venezian.
+
+» Avv. Augusto Ferrari. Per la Svizzera:
+
+Per il Giappone: (L. S.) Alfred von Claparede.
+
+(L. S.) Misuno Rentaro. » W. Kraft.
+
+Horiguchi Kumaichi. Per Tunisi:
+
+Per la Repubblica di Liberia: (L. S.) Jean Gout.
+
+(L. S.) Von Koerner.

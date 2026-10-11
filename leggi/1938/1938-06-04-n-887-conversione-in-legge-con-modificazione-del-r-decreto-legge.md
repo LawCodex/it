@@ -1,0 +1,51 @@
+---
+title: "LEGGE 04 giugno 1938, n. 887 — Conversione in legge, con modificazione, del R. decreto-legge 17 marzo 1938-XVI, n. 193, concernente l'acquisto, mediante espropriazione, della casa ove Alessandro Manzoni abito' in Milano."
+identifier: "urn:nir:stato:legge:1938-06-04;887"
+eli: "https://www.normattiva.it/eli/id/1938/07/06/038U0887/CONSOLIDATED/20091214"
+type: act
+jurisdiction: it
+language: it
+date: 1938-06-04
+last_amended: 2009-12-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 151 del 1938-07-06"
+codice_redazionale: "038U0887"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-06-04;887"
+retrieved: 2026-10-11
+---
+
+# LEGGE 04 giugno 1938, n. 887
+
+**Conversione in legge, con modificazione, del R. decreto-legge 17 marzo 1938-XVI, n. 193, concernente l'acquisto, mediante espropriazione, della casa ove Alessandro Manzoni abito' in Milano.**
+
+*Entrata in vigore del provvedimento: 06/07/1938*
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+IMPERATORE D'ETIOPIA
+
+Il Senato e la Camera dei deputati hanno approvato;
+
+Noi abbiamo sanzionato e promulghiamo quanto segue:
+
+## Articolo unico
+
+E' convertito in legge il Regio decreto-legge 17 marzo 1938 - Anno XVI, n. 193, concernente l'acquisto, mediante espropriazione, della casa ove Alessandro Manzoni abito' in Milano, con la seguente modificazione:
+
+Dopo l'art. 3 e' aggiunto il seguente articolo 3-bis:
+
+«Gli atti relativi all'esproprio od all'acquisto, da parte della Cassa di risparmio delle Provincie Lombarde, della casa di Alessandro Manzoni, in adempimento del presente decreto-legge, come pure l'atto di assegnazione in perpetuo, della casa stessa, al Centro nazionale per gli studi Manzoniani, saranno registrati con l'imposta fissa di registro di lire venti e trascritti con l'imposta fissa ipotecaria, di lire venti».
+
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 4 giugno 1938 - Anno XVI
+
+VITTORIO EMANUELE
+
+Mussolini - Solmi - Bottai
+
+Visto, il Guardasigilli: Solmi.

@@ -1,0 +1,49 @@
+---
+title: "LEGGE 04 aprile 1935, n. 808 — Conversione in legge con modificazione del R. decreto-legge 20 luglio 1934, n. 1302, che approva le norme sulle indennita' da corrispondere al personale militare e civile della Regia aeronautica."
+identifier: "urn:nir:stato:legge:1935-04-04;808"
+eli: "https://www.normattiva.it/eli/id/1935/06/10/035U0808/CONSOLIDATED/20130125"
+type: act
+jurisdiction: it
+language: it
+date: 1935-04-04
+last_amended: 2013-01-25
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 135 del 1935-06-10"
+codice_redazionale: "035U0808"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;808"
+retrieved: 2026-10-11
+---
+
+# LEGGE 04 aprile 1935, n. 808
+
+**Conversione in legge con modificazione del R. decreto-legge 20 luglio 1934, n. 1302, che approva le norme sulle indennita' da corrispondere al personale militare e civile della Regia aeronautica.**
+
+*Entrata in vigore del provvedimento: 10/06/1935*
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Il Senato e la Camera dei deputati hanno approvato:
+
+Noi abbiamo sanzionato e promulghiamo quanto segue:
+
+## Articolo unico
+
+E' convertito in legge il R. decreto-legge 20 luglio 1934-XII, n. 1302, che approva le norme sulle indennita' da corrispondere al personale militare e civile della Regia aeronautica, con la seguente modificazione:
+
+Nella tabella III, alla colonna « servizi per incarichi speciali » sostituita ai nn. 6 e 12 la seguente dizione:
+
+« Collaudo in volo di aeromobili nuovi presso centri sperimentali; collaudo in volo di aeromobili che hanno subito grandi riparazioni quando il collaudo non sia stato eseguito da una ditta: compenso spettante per ogni collaudo (4) ».
+
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 4 aprile 1935 - Anno XIII
+
+VITTORIO EMANUELE
+
+Mussolini - Di Revel.
+
+Visto, il Guardasigilli: Solmi.

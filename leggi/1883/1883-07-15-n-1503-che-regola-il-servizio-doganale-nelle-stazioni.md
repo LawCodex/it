@@ -1,0 +1,231 @@
+---
+title: "LEGGE 15 luglio 1883, n. 1503 — Che regola il servizio doganale nelle stazioni internazionali sulla linea della ferrovia del Gottardo."
+identifier: "urn:nir:stato:legge:1883-07-15;1503"
+eli: "https://www.normattiva.it/eli/id/1883/07/27/083U1503/CONSOLIDATED/20091214"
+type: act
+jurisdiction: it
+language: it
+date: 1883-07-15
+last_amended: 2009-12-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 175 del 1883-07-27"
+codice_redazionale: "083U1503"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1883-07-15;1503"
+retrieved: 2026-10-11
+---
+
+# LEGGE 15 luglio 1883, n. 1503
+
+**Che regola il servizio doganale nelle stazioni internazionali sulla linea della ferrovia del Gottardo.**
+
+*Entrata in vigore del provvedimento: 27/07/1883*
+
+UMBERTO I
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Il Senato e la Camera dei deputati hanno approvato;
+
+Noi abbiamo sanzionato e promulghiamo quanto segue:
+
+## Articolo unico
+
+Il Governo del Re e' autorizzato a dare piena ed intera esecuzione alla convenzione conchiusa tra l'Italia e la Svizzera, e firmata a Berna il 15 dicembre 1882, per regolare il servizio dei rispettivi uffici doganali e daziari riuniti nelle stazioni internazionali di Chiasso e di Luino, ed in quelle intermedie di Maccagno e di Pino sulla strada ferrata del Gottardo, le cui ratifiche furono scambiate a Berna il 9 luglio 1883.
+
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Monza, addi' 15 luglio 1883.
+
+UMBERTO.
+
+Mancini.
+
+Visto, Il Guardasigilli: Savelli.
+
+## Allegati
+
+Convenzione fra l'Italia e la Svizzera per regolare il servizio dei rispettivi uffici doganali e daziari riuniti nelle stazioni internazionali di Chiasso e di Luino, ed in quelle intermedie di Maccagno e di Pino, sulla strada ferrata del Gottardo, in esecuzione della convenzione del 23 dicembre 1873, articolo 10.
+
+Sua Maesta' il Re d'Italia ed il Consiglio federale della Confederazione Svizzera, nell'intento di regolare con una speciale convenzione, a tenore dell'articolo 10 della convenzione 23 dicembre 1873, il servizio degli uffici doganali o daziari dei rispettivi Stati, riuniti nelle stazioni internazionali di Chiasso e di Luino, ed in quelle intermedie di Maccagno e di Pino, sulla strada ferrata del Gottardo,
+
+Hanno nominato per loro plenipotenziari a questo fine:
+
+Sua Maesta' il Re d'Italia,
+
+Il signor conte Alessandro Fe' d'Ostiani, Suo Inviato straordinario e Ministro plenipotenziario presso la Confederazione Svizzera;
+
+Il Consiglio federale della Confederazione Svizzera,
+
+Il signor colonnello Bernardo Hammer, consigliere federale, capo del dipartimento federale delle finanze e dei dazi,
+
+i quali, comunicatisi i rispettivi pieni poteri, e trovatili in buona e debita forma, sono addivenuti alla stipulazione degli articoli seguenti:
+
+## Art. 1
+
+La strada ferrata internazionale del Gottardo tra l'Italia e la Svizzera nei punti in cui attraversa il confine sara' considerata come strada doganale.
+
+Tutti i convogli di viaggiatori e di merci potranno, sotto l'osservanza delle discipline prescritte nei due Stati, liberamente circolare sulla detta strada, tanto di notte quanto di giorno, e tanto nei giorni festivi quanto nei feriali, salvo i divieti in vigore, in ciascuno dei due Stati, rispetto all'importazione, all'esportazione od al transito di determinate categorie di merci.
+
+## Art. 2
+
+Le stazioni internazionali di Chiasso e Luino e quelle intermedie di Maccagno e Pino, come pure i tronchi di strada ferrata fra le stesse ed il confine, sono soggetti alla sorveglianza delle autorita' doganali dello Stato sul cui territorio sono situati.
+
+## Art. 3
+
+Gli uffici doganali o daziari dei due Stati, riuniti nelle predette stazioni internazionali principali ed intermedie, ed in quelle intermedie fra esse stazioni e il confine, si comunicheranno vicendevolmente, nel modo piu' breve, i rilievi sopra i fatti che avessero pregiudicato o potessero pregiudicare gli interessi reciproci, o che portassero violazione ai divieti d'importazione, di esportazione o di transito, congiungendo i loro sforzi allo scopo d'impedire il contrabbando.
+
+## Art. 4
+
+Gli impiegati superiori di ciascuno degli uffici riuniti, e quelli che saranno a cio' delegati appositamente dalle rispettive autorita', potranno prendere cognizione dei registri, bollettari e analoghi documenti dell'altro ufficio, concernenti il movimento delle merci, e levarne copie ed estratti.
+
+## Art. 5
+
+Per effetto dell'applicazione dei regolamenti doganali e della competenza e procedura per le contravvenzioni, le stazioni ove si trovano gli uffici doganali riuniti, come pure il tronco di strada ferrata fra esse stazioni e il confine, si considerano come esistenti nello Stato dal quale dipendono gli uffici doganali o daziari.
+
+## Art. 6
+
+Gli uffici doganali riuniti saranno fregiati esternamente degli stemmi dei rispettivi Stati e delle corrispondenti iscrizioni.
+
+Il personale dei medesimi potra' portare la divisa e l'armamento prescritti dai rispettivi regolamenti, eccettuato il moschetto, del quale non potranno andare armati se non per la scorta dei convogli, ovvero, in tempo di notte, per la sorveglianza delle merci e della cassa.
+
+## Art. 7
+
+Il personale stesso, oltre a sorvegliare i magazzini e luoghi di deposito per le merci destinate ad entrare nel proprio Stato, avra' il diritto di accesso in tutti gli altri magazzini e luoghi di deposito di merci nel circuito della stazione durante il servizio giornaliero, e potra' assistere alle operazioni di scarico, carico e pesatura che si eseguiscono dagli agenti della strada ferrata.
+
+## Art. 8
+
+Gli uffici doganali riuniti sono autorizzati a disimpegnare il rispettivo servizio ed a procedere alle operazioni doganali per le merci, gli invii postali e gli effetti dei viaggiatori, a norma delle leggi e dei regolamenti del proprio Stato, accordando specialmente pel transito, tutte le facilitazioni conciliabili con l'osservanza delle dette leggi e dei detti regolamenti.
+
+## Art. 9
+
+Gli uffici doganali riuniti hanno il diritto di procedere in via penale, nei casi e modi stabiliti nel rispettivo Stato, contro ogni violazione delle prescrizioni doganali che venga commessa nelle stazioni o sul tronco di strada ferrata fra queste e il confine.
+
+Le competenti autorita' dello Stato cui l'ufficio appartiene hanno il diritto di procedere ad inchieste per l'accertamento di tali contravvenzioni, di confermare i sequestri operati dal detto ufficio e di giudicare le contravvenzioni stesse giusta le rispettive leggi penali.
+
+## Art. 10
+
+Sopra istanza delle predette autorita', le autorita' dello Stato in cui e' situata la stazione internazionale dovranno, nei casi di contravvenzione alle prescrizioni doganali dell'altro Stato:
+
+1\. Procedere all'audizione dei testimoni e periti;
+
+2\. Praticare visite d'ufficio e perquisizioni e certificarne il risultato;
+
+3\. Intimare agli incolpati le citazioni e le sentenze delle autorita' dell'altro Stato.
+
+## Art. 11
+
+Nello scopo di agevolare agli impiegati ed agli agenti dell'ufficio doganale dello Stato vicino l'adempimento del loro mandato, l'ufficio doganale dello Stato in cui e' situata la stazione dovra', ogniqualvolta ne sia richiesto, ordinare immediatamente alle sue guardie di prestare aiuto ai detti impiegati ed agenti, senza che possano addebitarsi spese di sorta all'Amministrazione dell'altro Stato.
+
+## Art. 12
+
+Le competenze e facolta' degli uffici doganali riuniti saranno, rispettivamente, quelle di cui godono in Italia gli uffici doganali di prima classe del secondo ordine, in Isvizzera gli uffici doganali principali, salvo a ciascuna Amministrazione il diritto di conferir loro piu' estese facolta', qualora lo creda conveniente.
+
+Gli uffici doganali o daziari intermedi di Maccagno e Pino, riuniti nelle stazioni esistenti fra le stazioni internazionali ed il confine, avranno le attribuzioni che in Italia spettano agli uffici doganali di ultimo ordine ed ultima classe, ed in Isvizzera agli uffici daziari secondari.
+
+Il trasporto delle merci fra le stazioni intermedie e quelle principali internazionali sara' legittimato con bolletta di circolazione o di accompagnamento, per assicurare loro la esenzione dal dazio.
+
+## Art. 13
+
+La visita dei bagagli, compresovi il piccolo bagaglio a mano dei viaggiatori e le relative operazioni doganali, saranno eseguite simultaneamente dai due uffici nella sala comune a cio' destinata, e subito dopo l'arrivo dei convogli, affinche' sia possibile il pronto proseguimento dei suddetti oggetti e viaggiatori colla medesima corsa.
+
+## Art. 14
+
+Le merci dovranno passare, dall'una all'altra Amministrazione doganale, direttamente e senza intermediari, salvo l'opera necessaria degli agenti della strada ferrata.
+
+## Art. 15
+
+La visita e verificazione delle merci sara' fatta prima dagli impiegati dello Stato da cui esse escono, e poscia da quelli dello Stato in cui devono entrare. Sempreche' sia possibile, le dette visite e verificazioni saranno fatte simultaneamente dagli impiegati dei due Stati.
+
+## Art. 16
+
+Agli impiegati di ciascuno degli uffici riuniti e' data facolta' di assistere, vicendevolmente, alle operazioni eseguite dagli agenti dell'altro Stato.
+
+## Art. 17
+
+Gli uffici riuniti potranno rilasciarsi reciprocamente dei certificati di entrata e di uscita delle merci.
+
+Nessuno dei due uffici potra' accordare lo svincolo delle garanzie che sieno state fornite per l'uscita dal proprio Stato delle merci in transito, o per la riesportazione dei depositi doganali (entrepots), ne' le restituzioni di dazio od altre agevolezze concesse dalle rispettive leggi alla esportazione, prima che siagli provato dall'ufficio dell'altro Stato che la merce e' stata presentata a quest'ultimo ufficio.
+
+I detti certificati saranno rilasciati in forma sommaria, cioe' per mezzo di semplici annotazioni sui documenti di scorta dell'altro ufficio.
+
+## Art. 18
+
+I piombi, i suggelli ed i lucchetti a chiave doganali apposti ai vagoni od ai singoli colli non saranno levati dagli impiegati dell'ufficio doganale d'uscita se non in presenza degli impiegati dell'altro Stato, i quali vi apporranno immediatamente i loro, se ne sara' il caso.
+
+## Art. 19
+
+In conformita' dell'articolo 11 della convenzione di Berna del 23 dicembre 1873, le due Amministrazioni doganali potranno fare accompagnare dal loro personale i convogli dalla stazione internazionale alla prima stazione al di la' del confine e viceversa.
+
+## Art. 20
+
+Tutti i convogli che arrivano nelle stazioni internazionali di Chiasso e di Luino, con merci destinate per l'altro Stato, devono essere accompagnati da liste di carico indicanti tutte le merci ed oggetti portati dai convogli medesimi, ad eccezione dei bagagli dei viaggiatori.
+
+Le dette liste dovranno consegnarsi, subito dopo l'arrivo del convoglio, all'ufficio doganale o daziario, rispettivamente, con tutti i documenti di scorta prescritti, e saranno stese nel modo e nel numero stabilito dalle rispettive Amministrazioni, che sara', possibilmente, uniforme per ambedue gli uffici.
+
+## Art. 21
+
+Dall'arrivo nella rispettiva stazione sino alla partenza, le merci sono soggette per il riscontro, scarico, carico e sorveglianza, alle disposizioni dell'ufficio doganale dello Stato nel cui territorio le merci devono entrare, tenuto conto delle legittime esigenze dell'ufficio dell'altro Stato.
+
+## art. 22
+
+Art. 22. La sorveglianza di ciascuno degli uffici riuniti sui magazzini, luoghi di deposito, ecc., per le merci destinate ad entrare nel rispettivo Stato, ha per oggetto la tutela dell'interesse finanziario, e non menoma la responsabilita' dell'Amministrazione della strada ferrata rispetto alla custodia di esse merci verso proprietari e destinatari.
+
+## Art. 23
+
+L'Amministrazione della strada ferrata ha l'obbligo di prendere tutte le precauzioni necessarie affinche' le merci, i viaggiatori ed i loro effetti, sottoposti alle discipline doganali, non entrino nelle stazioni e non escano, senonche' pei passaggi che verranno all'uopo stabiliti nell'interesse del servizio dei rispettivi uffici doganali.
+
+## Art. 24
+
+L'Amministrazione della strada ferrata dovra' prevenire, in tempo utile, gli uffici doganali riuniti delle ordinarie o straordinarie variazioni negli orari dei treni di viaggiatori e di merci, nonche' dell'eventuale straordinaria spedizione di convogli.
+
+## Art. 25
+
+Le Amministrazioni della ferrovia del Gottardo e dell'Alta Italia, e per esse i loro uffici nelle stazioni internazionali, devono impedire, sotto la loro responsabilita', che qualsiasi mercanzia abbandoni la stazione senza che le relative formalita' doganali, italiane o svizzere, siano state
+
+adempiute.
+
+Le due Compagnie sono responsabili dell'inosservanza di questa prescrizione, in base alle disposizioni penali della legislazione doganale o daziaria dei due Stati contraenti.
+
+Le due Compagnie dovranno parimenti invigilare, sotto la loro responsabilita', a che i colli che saranno stati deposti nei locali destinati a ricevere le mercanzie arrivate in transito dall'uno degli Stati a destinazione dell'altro, non possano essere ritirati dai detti locali per ricevere un'altra destinazione, senza il consenso espresso degli uffici doganali, o daziari, dei due Stati.
+
+## Art. 26
+
+Le autorita' dello Stato, nel territorio del quale si trova la stazione internazionale, presteranno agli impiegati doganali o daziari dell'altro Stato, nelle operazioni del loro servizio, la stessa protezione ed assistenza che accordano agli impiegati del proprio Stato.
+
+Gli impiegati degli uffici doganali o daziari, ferroviari, postali, telegrafici e di polizia dello Stato vicino, situati sul territorio ove si trova la stazione internazionale, come pure le loro famiglie dimoranti con essi, godranno, da parte dello Stato sul cui territorio dimorano, della medesima protezione, da esso accordata ai propri cittadini.
+
+## Art. 27
+
+I detti impiegati dipenderanno, in materia di servizio e di disciplina, esclusivamente dalle autorita' dello Stato a cui appartengono.
+
+Essi dovranno pero' osservare le leggi penali ed i regolamenti di polizia dello Stato sul cui territorio dimorano, e saranno, per tale riguardo, sottomessi alla giurisdizione di questo Stato.
+
+Nel caso di arresto di un impiegato od agente per contravvenzione a dette leggi, se ne dara' immediato avviso all'autorita' da cui dipende.
+
+## Art. 28
+
+Gli impiegati predetti od i membri delle loro famiglie saranno esenti da ogni specie di servizio militare e da qualsiasi altra prestazione personale per conto dello Stato sul cui territorio dimorano.
+
+## Art. 29
+
+Gli impiegati e le loro famiglie, nell'occasione del primo stabilimento, godranno, per parte dello Stato in cui e' situata la stazione internazionale, della franchigia da qualsiasi diritto di dogana o daziario per i mobili ed effetti d'uso ed usati, e per le uniformi ed armi, destinati ad esclusivo loro uso.
+
+Saranno pure esenti da ogni diritto d'entrata o d'uscita, i mobili, attrezzi, utensili, registri, formulari, ecc., occorrenti agli uffici suddetti.
+
+## Art. 30
+
+La presente convenzione entrera' in vigore dalla data della sua pubblicazione, e durera' fino al 31 dicembre 1884, ma continuera' ad essere in vigore di anno in anno, salvo disdetta o domanda di revisione dell'una o dell'altra delle parti contraenti, da notificarsi almeno sei mesi prima della fine dell'anno.
+
+In forza della medesima restano abrogate le norme provvisorie di servizio adottate con protocollo dell'8 settembre 1876 riguardo alla dogana internazionale di Chiasso.
+
+## Art. 31
+
+I Governi contraenti si riservano la ratificazione della presente convenzione.
+
+In fede di che i plenipotenziari rispettivi hanno qui apposto le loro firme ed i loro sigilli.
+
+Fatto a Berna, il 15 dicembre 1882.
+
+(L. S.) Firmato: Fe'. (L. S.) Firmato: Hammer.
