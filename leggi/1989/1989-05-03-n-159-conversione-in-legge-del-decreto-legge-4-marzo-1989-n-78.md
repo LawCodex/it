@@ -1,0 +1,52 @@
+---
+title: "LEGGE 03 maggio 1989, n. 159 — Conversione in legge del decreto-legge 4 marzo 1989, n. 78, recante interpretazione autentica dell'articolo 6, commi 3 e 4, della legge 15 ottobre 1986, n. 664, concernente la ristrutturazione dei servizi amministrativi dell'Avvocatura dello Stato."
+identifier: "urn:nir:stato:legge:1989-05-03;159"
+eli: "https://www.normattiva.it/eli/id/1989/05/05/089G0192/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1989-05-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 103 del 1989-05-05"
+codice_redazionale: "089G0192"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-03;159"
+retrieved: 2026-10-11
+---
+
+# LEGGE 03 maggio 1989, n. 159
+
+**Conversione in legge del decreto-legge 4 marzo 1989, n. 78, recante interpretazione autentica dell'articolo 6, commi 3 e 4, della legge 15 ottobre 1986, n. 664, concernente la ristrutturazione dei servizi amministrativi dell'Avvocatura dello Stato.**
+
+*Entrata in vigore della legge: 6/5/1989*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+1\. E' convertito in legge il decreto-legge 4 marzo 1989, n. 78, recante interpretazione autentica dell'articolo 6, commi 3 e 4, della legge 15 ottobre 1986, n. 664, concernente la ristrutturazione dei servizi amministrativi dell'Avvocatura dello Stato.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 3 maggio 1989
+
+COSSIGA
+
+DE MITA, Presidente del
+
+Consiglio dei Ministri
+
+Visto, il Guardasigilli: VASSALLI
+
+-------------------------------------------------------
+
+AVVERTENZA:
+
+Il decreto-legge 4 marzo 1989, n. 78, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 54 del 6 marzo 1989 ed e' stato successivamente rettificato con avviso di rettifica pubblicato nella Gazzetta Ufficiale - serie generale - n. 57 del 9 marzo 1989.
+
+-------------------------------------------------------

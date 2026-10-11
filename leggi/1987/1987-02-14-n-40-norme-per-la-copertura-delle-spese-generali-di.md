@@ -1,0 +1,71 @@
+---
+title: "LEGGE 14 febbraio 1987, n. 40 — Norme per la copertura delle spese generali di amministrazione degli enti privati gestori di attivita' formative."
+identifier: "urn:nir:stato:legge:1987-02-14;40"
+eli: "https://www.normattiva.it/eli/id/1987/02/24/087U0040/CONSOLIDATED/20180101"
+type: act
+jurisdiction: it
+language: it
+date: 1987-02-14
+last_amended: 2018-01-01
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 45 del 1987-02-24"
+codice_redazionale: "087U0040"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-14;40"
+retrieved: 2026-10-11
+---
+
+# LEGGE 14 febbraio 1987, n. 40
+
+**Norme per la copertura delle spese generali di amministrazione degli enti privati gestori di attivita' formative.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+1\. Il Ministero del lavoro e della previdenza sociale concede agli enti privati, che svolgono attivita' rientranti nell'ambito delle competenze statali ((come definite dall'articolo 117, secondo comma, lettera m), della Costituzione e dalle vigenti normative in materia)), contributi per le spese generali di amministrazione relative al coordinamento operativo a livello nazionale degli enti medesimi, non coperte da contributo regionale.
+
+2\. Possono usufruire degli interventi di cui al comma 1 gli enti privati che ((...)) applichino per il personale il contratto nazionale di lavoro di categoria, rendano pubblico il bilancio annuale per ciascun centro di attivita'; non perseguano scopi di lucro; abbiano carattere nazionale; operino in piu' di una regione; siano dotati di struttura tecnica ed organizzativa idonea allo svolgimento delle attivita' di cui al comma 1.
+
+3\. Gli enti di cui ai commi precedenti aventi personalita' giuridica provvedono, entro sei mesi dalla data di entrata in vigore della presente legge, ad apportare ai propri statuti le necessarie modifiche, prevedendo, qualora mancante tra i propri organi, la costituzione di un collegio di sindaci del quale fanno parte due funzionari in rappresentanza, rispettivamente, del Ministero del lavoro e della previdenza sociale e del Ministero del tesoro - Ragioneria generale dello Stato.
+
+## Art. 2
+
+1\. L'erogazione dei contributi previsti dalla presente legge e' effettuata, nell'ambito delle disponibilita' di cui al successivo articolo 4, sulla base di richieste presentate dagli enti entro il ((15 febbraio)) di ogni anno. In sede di prima applicazione della presente legge, le predette richieste devono essere presentate entro sessanta giorni dall'entrata in vigore della legge medesima.
+
+((2. Con decreto del Ministro del lavoro e delle politiche sociali, da emanare entro novanta giorni dalla data di entrata in vigore della presente disposizione, sono stabiliti criteri e modalita' per la determinazione dell'entita' dei contributi)).
+
+## Art. 3
+
+1\. Gli enti di cui all'articolo 1 sono tenuti a presentare appositi rendiconti al Ministero del lavoro e della previdenza sociale entro il mese di marzo dell'anno successivo a quello cui si riferisce il contributo.
+
+2\. Il controllo in ordine all'utilizzo dei contributi erogati e' effettuato sulla base dei rendiconti di cui al precedente comma nonche' delle risultanze di visite ispettive che il Ministero del lavoro e della previdenza sociale puo' disporre presso le sedi centrali dei predetti enti.
+
+## Art. 4
+
+((ARTICOLO ABROGATO DAL D.L. 20 MAGGIO 1993, N. 148, CONVERTITO, CON MODIFICAZIONI, DALLA L. 19 LUGLIO 1993, N. 236)).
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 14 febbraio 1987
+
+COSSIGA
+
+CRAXI, Presidente del Consiglio dei
+
+Ministri
+
+DE MICHELIS, Ministro del lavoro e
+
+della previdenza sociale
+
+Visto, il Guardasigilli: Rognoni
+
+## Art. 4-bis
+
+((1. Agli oneri derivanti dall'attuazione della presente legge, quantificati in 13 milioni di euro annui a decorrere dall'anno 2018, si provvede a valere sulle risorse finanziarie del Fondo sociale per occupazione e formazione di cui all'articolo 18, comma 1, lettera a), del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, commi da 1 a 10, del decreto-legge 6 marzo 2006, n. 68, convertito, con modificazioni, dalla legge 24 marzo 2006, n. 127, iscritta sul medesimo Fondo)).

@@ -1,0 +1,73 @@
+---
+title: "LEGGE 10 febbraio 1992, n. 67 — Istituzione di contributi per le associazioni di promozione sociale."
+identifier: "urn:nir:stato:legge:1992-02-10;67"
+eli: "https://www.normattiva.it/eli/id/1992/02/11/092G0114/CONSOLIDATED/19930321"
+type: act
+jurisdiction: it
+language: it
+date: 1992-02-10
+last_amended: 1993-03-21
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 34 del 1992-02-11"
+codice_redazionale: "092G0114"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;67"
+retrieved: 2026-10-11
+---
+
+# LEGGE 10 febbraio 1992, n. 67
+
+**Istituzione di contributi per le associazioni di promozione sociale.**
+
+*Entrata in vigore della legge: 12-2-1992*
+
+La Camera dei deputati ed il Senato della Repubblica hanno
+
+approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+1\. Le associazioni di promozione sociale (( di cui agli articoli 1 e 2 della legge 19 novembre 1987, n. 476 )), godono di un contributo per le attivita' di promozione sociale svolte in ottemperanza agli articoli 3 e 38 della Costituzione.
+
+## Art. 2
+
+1\. Per l'anno 1992 le domande per usufruire del contributo di cui all'articolo 1 devono essere presentate alla Presidenza del Consiglio dei Ministri entro novanta giorni dalla data di entrata in vigore della presente legge, corredate da una relazione che e' trasmessa alle Camere.
+
+2\. Per gli anni 1993 e 1994 le domande, corredate dalla relazione, sono presentate entro il 31 marzo di ciascun anno.
+
+## Art. 3
+
+1\. Nelle relazioni di cui all'articolo 2, le associazioni interessate devono dimostrare il concreto perseguimento delle loro finalita' istituzionali. A tale scopo alle relazioni sono allegati i preventivi e i consuntivi dell'attivita' svolta, nonche' le relazioni sull'attivita' svolta nell'esercizio precedente.
+
+## Art. 4
+
+1\. Per le finalita' della presente legge e' autorizzata la spesa di lire 5 miliardi per ciascuno degli anni 1992, 1993 e 1994. Al relativo onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1992-1994, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1992, all'uopo utilizzando l'accantonamento "Interventi vari nel campo sociale (Associazioni di promozione sociale)". ((1))
+
+2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+-------------------
+
+AGGIORNAMENTO (1)
+
+Il D.L. 18 gennaio 1993, n. 9, convertito con modificazioni dalla L. 18 marzo 1993, n. 67, ha disposto (con l'art. 6, comma 2) che "Il contributo di cui alla legge 10 febbraio 1992, n. 67, e' aumentato per l'anno 1993 della somma di lire 5 miliardi."
+
+## Art. 5
+
+1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 10 febbraio 1992
+
+COSSIGA
+
+ANDREOTTI, Presidente del
+
+Consiglio dei Ministri
+
+Visto, il Guardasigilli: MARTELLI

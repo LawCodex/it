@@ -1,0 +1,53 @@
+---
+title: "LEGGE 31 dicembre 1996, n. 671 — Celebrazione nazionale del bicentenario della prima bandiera nazionale."
+identifier: "urn:nir:stato:legge:1996-12-31;671"
+eli: "https://www.normattiva.it/eli/id/1997/01/02/096G0696/CONSOLIDATED/19980812"
+type: act
+jurisdiction: it
+language: it
+date: 1996-12-31
+last_amended: 1998-08-12
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 1 del 1997-01-02"
+codice_redazionale: "096G0696"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;671"
+retrieved: 2026-10-11
+---
+
+# LEGGE 31 dicembre 1996, n. 671
+
+**Celebrazione nazionale del bicentenario della prima bandiera nazionale.**
+
+*Entrata in vigore della legge: 17/1/1997*
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+1\. Il giorno 7 gennaio, anniversario della nascita del primo tricolore d'Italia, e' dichiarato giornata nazionale della bandiera.
+
+Con decreto del Presidente del Consiglio dei Ministri sono fissate le modalita' delle celebrazioni annuali che devono, comunque, prevedere il carattere non festivo del giorno stesso.
+
+2\. E' istituito un Comitato nazionale, del quale possono fare parte i Presidenti delle Camere, composto da venti membri con il compito di preparare e organizzare, d'intesa con la Presidenza del Consiglio dei Ministri, con il Ministero degli affari esteri, con il Ministero della pubblica istruzione, con il Ministero dell'interno e con il Ministero della difesa, manifestazioni celebrative ed iniziative storico-culturali sul piano internazionale e nazionale per il bicentenario della bandiera nazionale. I membri del Comitato, nominati con il decreto di cui al comma 1, sono scelti tra esponenti delle istituzioni e della cultura a livello nazionale, tra cui rappresentanti di istituti storici a carattere nazionale.
+
+## Art. 2
+
+1\. All'onere derivante dall'attuazione della presente legge, pari a (( L. 1.347.885.830 )) per il 1997, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, all'uopo parzialmente utilizzando la proiezione per il 1997 dell'accantonamento relativo al Ministero degli affari esteri.
+
+2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 31 dicembre 1996
+
+SCALFARO
+
+PRODI, Presidente del Consiglio dei
+
+Ministri
+
+Visto, il Guardasigilli: FLICK

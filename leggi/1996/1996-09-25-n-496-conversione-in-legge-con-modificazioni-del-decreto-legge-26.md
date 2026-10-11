@@ -1,0 +1,104 @@
+---
+title: "LEGGE 25 settembre 1996, n. 496 — Conversione in legge, con modificazioni, del decreto-legge 26 luglio 1996, n. 393, recante interventi urgenti di protezione civile."
+identifier: "urn:nir:stato:legge:1996-09-25;496"
+eli: "https://www.normattiva.it/eli/id/1996/09/25/096G0523/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1996-09-25
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 225 del 1996-09-25"
+codice_redazionale: "096G0523"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-09-25;496"
+retrieved: 2026-10-11
+---
+
+# LEGGE 25 settembre 1996, n. 496
+
+**Conversione in legge, con modificazioni, del decreto-legge 26 luglio 1996, n. 393, recante interventi urgenti di protezione civile.**
+
+*Entrata in vigore della legge: 26-9-1996*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+1\. Il decreto-legge 26 luglio 1996, n. 393, recante interventi urgenti di protezione civile, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+
+2\. Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici e di lavoro sorti sulla base dei decreti-legge 25 marzo 1996, n. 162, e 27 maggio 1996, n. 292.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 25 settembre 1996
+
+SCALFARO
+
+PRODI, Presidente del Consiglio dei Ministri
+
+NAPOLITANO, Ministro dell'interno e per il coordinamento della protezione civile
+
+Visto, il Guardasigilli: FLICK
+
+AVVERTENZA:
+
+Il decreto-legge 26 luglio 1996, n. 393, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 175 del 27 luglio 1996.
+
+A norma dell'art. 15, comma 5, della legge 23 agosto 1988, n. 400 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione.
+
+Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 20. Detto testo sara' ripubblicato, corredato delle relative note, nella Gazzetta Ufficiale del giorno 18 ottobre 1996.
+
+## Allegati
+
+## Allegato
+
+ALLEGATO
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 26
+
+LUGLIO 1996, N. 393.
+
+All'articolo 1:
+
+il comma 3 e' sostituito dal seguente:
+
+"3. All'attuazione degli interventi si provvede, avvalendosi delle competenti strutture tecniche delle amministrazioni statali e regionali, con ordinanze di cui all'articolo 5 della legge 24 febbraio 1992, n. 225, anche in deroga ad ogni disposizione vigente e nel rispetto dei principi generali dell'ordinamento giuridico. I commissari individuati nelle ordinanze sono tenuti a riferire sull'attuazione degli interventi con separate relazioni al competente ufficio della Corte dei conti, dando conto, in particolare, delle deroghe poste in essere e dei relativi effetti";
+
+al comma 5, sono aggiunte, in fine, le parole: ", che si avvale delle competenti strutture tecniche delle amministrazioni statali e regionali. Nella programmazione delle risorse comunitarie si dovranno altres/' ricomprendere prioritariamente, nell'ambito del medesimo quadro comunitario di sostegno 1994-1999 obiettivo 1, gli interventi necessari per la bonifica dei siti degradati per l'emergenza rifiuti e per l'inquinamento dei sistemi idrici predisposti dal Ministero dell'ambiente";
+
+al comma 6, e' aggiunto, in fine, il seguente periodo: "I commissari individuati nelle ordinanze sono tenuti a riferire sull'attuazione dei singoli interventi ai competenti uffici dell'Unione europea e della Corte dei conti, dando conto, in particolare, dell'efficacia delle deroghe relative all'accelerazione delle procedure".
+
+All'articolo 2:
+
+al comma 2, le parole: "con ordinanza" sono sostituite dalle seguenti: "con ordinanze".
+
+All'articolo 3:
+
+al comma 2, il secondo periodo e' sostituito dal seguente: "I predetti componenti possono delegare un qualificato rappresentante delle strutture di appartenenza in caso di impedimento e partecipano alle conferenze di servizi per l'approvazione dei progetti degli interventi, convocate ai sensi e per gli effetti di cui all'articolo 14 della legge 7 agosto 1990, n. 241, e successive modificazioni".
+
+All'articolo 4:
+
+al comma 1, capoverso 2-bis, dopo le parole: della citta' di Firenze," sono inserite le seguenti: "nonche' per la costituzione di una struttura operativa per il controllo e la gestione delle emergenze,".
+
+All'articolo 6:
+
+al comma 1, le parole: "il Ministro per la protezione civile" sono sostituite dalle seguenti: "il Dipartimento della protezione civile";
+
+ed e' aggiunto, in fine, il seguente periodo: "I commissari individuati nelle ordinanze sono tenuti a riferire sull'attuazione degli interventi con separate relazioni al competente ufficio della Corte dei conti, dando conto, in particolare, delle deroghe poste in essere e dei relativi effetti".
+
+Dopo l'articolo 7 sono inseriti i seguenti:
+
+"Art. 7-bis (Disposizioni in favore delle zone alluvionate nel novembre 1994). - 1. Per le finalita' di cui all'articolo 3-bis del decreto-legge 19 dicembre 1994, n. 691, convertito, con modificazioni, dalla legge 16 febbraio 1995, n. 35, e successive modificazioni, il Mediocredito centrale e' autorizzato ad utilizzare nel limite di lire 19 miliardi le disponibilita' finanziarie assegnategli per l'anno 1996 ai sensi dell'articolo 2 del medesimo decreto-legge n. 691 del 1994.
+
+2\. La regione Piemonte e' autorizzata a trasformare in contratti a tempo indeterminato i contratti a termine per l'assunzione del personale tecnico laureato di cui all'articolo 7, comma 3-ter, del decreto-legge 19 dicembre 1994, n. 691, convertito, con modificazioni, dalla legge 16 febbraio 1995, n. 35, e all'articolo 5, comma 1, del decreto-legge 28 agosto 1995, n. 364, convertito, con modificazioni, dalla legge 27 ottobre 1995, n. 438.
+
+Art. 7-ter (Modifica all'articolo 5-ter del decreto-legge 3 maggio 1995, n. 154, convertito, con modificazioni, dalla legge 30 giugno 1995, n. 265). - 1. Al comma 1 dell'articolo 5-ter del decreto-legge 3 maggio 1995, n. 154, convertito, con modificazioni, dalla legge 30 giugno 1995, n. 265, le parole: '31 dicembre 1996' sono sostituite dalle seguenti: '31 dicembre 1997'".
+
+All'articolo 12:
+
+al comma 1, lettera e) , le parole: "31 dicembre 1996" sono sostituite dalle seguenti: "31 dicembre 1997".

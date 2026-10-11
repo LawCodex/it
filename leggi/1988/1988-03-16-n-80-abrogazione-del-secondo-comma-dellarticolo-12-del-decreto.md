@@ -1,0 +1,56 @@
+---
+title: "LEGGE 16 marzo 1988, n. 80 — Abrogazione del secondo comma dell'articolo 12 del decreto del Presidente della Repubblica 18 novembre 1965, n. 1479, in materia di funzioni assegnate ai dirigenti generali tecnici del Ministero della difesa."
+identifier: "urn:nir:stato:legge:1988-03-16;80"
+eli: "https://www.normattiva.it/eli/id/1988/03/19/088G0130/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1988-03-16
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 66 del 1988-03-19"
+codice_redazionale: "088G0130"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-16;80"
+retrieved: 2026-10-11
+---
+
+# LEGGE 16 marzo 1988, n. 80
+
+**Abrogazione del secondo comma dell'articolo 12 del decreto del Presidente della Repubblica 18 novembre 1965, n. 1479, in materia di funzioni assegnate ai dirigenti generali tecnici del Ministero della difesa.**
+
+*Entrata in vigore della legge: 3/4/1988*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+E' abrogato il secondo comma dell'articolo 12 del decreto del Presidente della Repubblica 18 novembre 1965, n. 1479.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 16 marzo 1988
+
+COSSIGA
+
+GORIA, Presidente del Consiglio dei Ministri
+
+ZANONE, Ministro della
+
+difesa
+
+Visto, il Guardasigilli: VASSALLI
+
+> AVVERTENZA:
+
+> Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura della disposizione di legge modificata della quale restano invariati il valore e l'efficacia.
+
+> Nota all'art. 1:
+
+> Il testo dell'art. 12 del D.P.R. n. 1479/1965 (Riordinamento delle carriere e revisione degli organici degli impiegati civili del Ministero della difesa) cosi' come modificato dalla presente legge, e' il seguente:
+
+> "Art. 12. - Gli ispettori generali tecnici capi, di cui alla tabella n. 14 annessa al presente decreto, sono nominati con decreto del Presidente della Repubblica, su deliberazione del Consiglio dei Ministri, tra gli impiegati appartenenti ai ruoli delle carriere direttive tecniche di cui alle tabelle numero 7, 8, 9, 10, 11, 12 e 13 annesse al presente decreto".

@@ -1,0 +1,48 @@
+---
+title: "LEGGE 29 dicembre 1995, n. 563 — Conversione in legge del decreto-legge 30 ottobre 1995, n. 451, recante disposizioni urgenti per l'ulteriore impiego del personale delle Forze armate in attivita' di controllo della frontiera marittima nella regione Puglia."
+identifier: "urn:nir:stato:legge:1995-12-29;563"
+eli: "https://www.normattiva.it/eli/id/1995/12/30/095G0603/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1995-12-29
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 303 del 1995-12-30"
+codice_redazionale: "095G0603"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-29;563"
+retrieved: 2026-10-11
+---
+
+# LEGGE 29 dicembre 1995, n. 563
+
+**Conversione in legge del decreto-legge 30 ottobre 1995, n. 451, recante disposizioni urgenti per l'ulteriore impiego del personale delle Forze armate in attivita' di controllo della frontiera marittima nella regione Puglia.**
+
+*Entrata in vigore della legge: 31/12/1995*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+1\. E' convertito in legge il decreto-legge 30 ottobre 1995, n. 451, recante disposizioni urgenti per l'ulteriore impiego del personale delle Forze armate in attivita' di controllo della frontiera marittima nella regione Puglia.
+
+2\. Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei decreti-legge 30 giugno 1995, n. 266, e 28 agosto 1995, n. 365.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 29 dicembre 1995
+
+SCALFARO
+
+DINI, Presidente del Consiglio dei Ministri
+
+CORONAS, Ministro dell'interno
+
+CORCIONE, Ministro della difesa
+
+Visto, il Guardasigilli: DINI

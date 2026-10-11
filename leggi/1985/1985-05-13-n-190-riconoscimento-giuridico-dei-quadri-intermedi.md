@@ -1,0 +1,69 @@
+---
+title: "LEGGE 13 maggio 1985, n. 190 — Riconoscimento giuridico dei quadri intermedi."
+identifier: "urn:nir:stato:legge:1985-05-13;190"
+eli: "https://www.normattiva.it/eli/id/1985/05/17/085U0190/CONSOLIDATED/20150625"
+type: act
+jurisdiction: it
+language: it
+date: 1985-05-13
+last_amended: 2015-06-25
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 115 del 1985-05-17"
+codice_redazionale: "085U0190"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-13;190"
+retrieved: 2026-10-11
+---
+
+# LEGGE 13 maggio 1985, n. 190
+
+**Riconoscimento giuridico dei quadri intermedi.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+Il primo comma dell'articolo 2095 del codice civile e' sostituito dal seguente:
+
+"I prestatori di lavoro subordinato si distinguono in dirigenti, quadri, impiegati e operai".
+
+## Art. 2
+
+1\. La categoria dei quadri e' costituita dai prestatori di lavoro subordinato che, pur non appartenendo alla categoria dei dirigenti, svolgano funzioni con carattere continuativo di rilevante importanza ai fini dello sviluppo e dell'attuazione degli obiettivi dell'impresa.
+
+2\. I requisiti di appartenenza alla categoria dei quadri sono stabiliti dalla contrattazione collettiva nazionale o aziendale in relazione a ciascun ramo di produzione e alla particolare struttura organizzativa dell'impresa.
+
+3\. Salvo diversa espressa disposizione, ai lavoratori di cui al comma 1 si applicano le norme riguardanti la categoria degli impiegati.
+
+## Art. 3
+
+In sede di prima applicazione, entro un anno dall'entrata in vigore della presente legge, le imprese provvederanno a definire attraverso la contrattazione collettiva l'attribuzione della qualifica di quadro, cosi' come previsto e con le modalita' stabilite dall'articolo 2, comma 2, della presente legge.
+
+## Art. 4
+
+Ferme restando le disposizioni di cui al libro V, titolo IX, del codice civile e le leggi speciali vigenti in materia, i contratti collettivi possono definire le modalita' tecniche di valutazione e l'entita' del corrispettivo economico della utilizzazione, da parte dell'impresa, sia delle innovazioni di rilevante importanza nei metodi o nei processi di fabbricazione ovvero nell'organizzazione del lavoro, sia delle invenzioni fatte dai quadri, nei casi in cui le predette innovazioni o invenzioni non costituiscano oggetto della prestazione di lavoro dedotta in contratto.
+
+## Art. 5
+
+Il datore di lavoro e' tenuto ad assicurare il quadro intermedio contro il rischio di responsabilita' civile verso terzi conseguente a colpa nello svolgimento delle proprie mansioni contrattuali. La stessa assicurazione deve essere stipulata dal datore di lavoro in favore di tutti i propri dipendenti che, a causa del tipo di mansioni svolte, sono particolarmente esposti al rischio di responsabilita' civile verso terzi.
+
+## Art. 6
+
+((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 13 maggio 1985
+
+PERTINI
+
+CRAXI, Presidente del Consiglio dei Ministri
+
+DE MICHELIS, Ministro del lavoro e della previdenza sociale
+
+Visto, il Guardasigilli: MARTINAZZOLI

@@ -1,0 +1,80 @@
+---
+title: "LEGGE 20 novembre 1995, n. 490 — Conversione in legge, con modificazioni, del decreto-legge 20 settembre 1995, n. 390, recante provvedimenti urgenti in materia di prezzi di specialita' medicinali, nonche' in materia sanitaria."
+identifier: "urn:nir:stato:legge:1995-11-20;490"
+eli: "https://www.normattiva.it/eli/id/1995/11/20/095G0540/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1995-11-20
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 271 del 1995-11-20"
+codice_redazionale: "095G0540"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-20;490"
+retrieved: 2026-10-11
+---
+
+# LEGGE 20 novembre 1995, n. 490
+
+**Conversione in legge, con modificazioni, del decreto-legge 20 settembre 1995, n. 390, recante provvedimenti urgenti in materia di prezzi di specialita' medicinali, nonche' in materia sanitaria.**
+
+*Entrata in vigore della legge: 21-11-1995*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+1\. Il decreto-legge 20 settembre 1995, n. 390, recante provvedimenti urgenti in materia di prezzi di specialita' medicinali, nonche' in materia sanitaria, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+
+2\. Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei decreti-legge 18 marzo 1994, n. 186, 23 maggio 1994, n. 305, 22 luglio 1994, n. 461, 19 settembre 1994, n. 544, 18 novembre 1994, n. 635, 21 gennaio 1995, n. 20, 22 marzo 1995, n. 86, 19 maggio 1995, n. 184, e 21 luglio 1995, n. 294, nonche' del decreto-legge 6 maggio 1994, n. 273, recante disposizioni in materia sanitaria.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 20 novembre 1995
+
+SCALFARO
+
+DINI, Presidente del Consiglio dei Ministri
+
+GUZZANTI, Ministro della sanita'
+
+Visto, il Guardasigilli: DINI
+
+> AVVERTENZA:
+
+> Il decreto-legge 20 settembre 1995, n. 390, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 221 del 21 settembre 1995.
+
+> A norma dell'art. 15, comma 5, della legge 23 agosto 1988, n. 400 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione.
+
+> Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 47. Detto testo sara' ripubblicato, corredato delle relative note, nella Gazzetta Ufficiale del giorno 18 dicembre 1995.
+
+## Allegati
+
+## Allegato
+
+ALLEGATO
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 20
+
+SETTEMBRE 1995, N. 390.
+
+All'articolo 5, dopo il comma 1 e' aggiunto il seguente:
+
+"1-bis. In deroga a quanto disposto dall'articolo 3, comma 2, del decreto legislativo 30 dicembre 1992, n. 538, la persona responsabile di cui al comma 1, lettera b), dello stesso articolo e' tenuta a sovrintendere alle operazioni concernenti il movimento in entrata e in uscita, la custodia e la conservazione dei medicinali senza obbligo di orario".
+
+All'articolo 7, dopo il comma 1 sono inseriti i seguenti:
+
+"1-bis. All'articolo 4 del decreto del Presidente della Repubblica 31 luglio 1980, n. 613, al primo comma, dopo le parole: 'chiusura di ciascun anno finanziario' sono inserite le seguenti: ', anche per ciascuno dei comitati regionali e provinciali,' e dopo le parole: 'del conto consuntivo' sono inserite le seguenti: 'anche di ciascuno dei comitati regionali e provinciali'.
+
+1-ter. Il Ministro della sanita', entro il 31 marzo di ciascun anno, presenta al Parlamento una relazione sulla gestione finanziaria dell'Associazione italiana della Croce rossa predisposta in base alla documentazione inviata annualmente dalla medesima Associazione ai sensi dell'articolo 4 del decreto del Presidente della Repubblica 31 luglio 1980, n. 613, come modificato dal comma 1-bis del presente articolo.
+
+1-quater. I trasferimenti di risorse finanziarie dallo Stato alla Associazione italiana della Croce rossa sono disposti previa verifica sulla congruita' e sulla trasparenza delle spese sostenute".
+
+L'articolo 8 e' soppresso.
+
+L'articolo 9 e' soppresso.

@@ -1,0 +1,85 @@
+---
+title: "LEGGE 04 gennaio 1994, n. 10 — Istituzione del parco nazionale dell'arcipelago de La Maddalena e altre disposizioni in materia di parchi nazionali."
+identifier: "urn:nir:stato:legge:1994-01-04;10"
+eli: "https://www.normattiva.it/eli/id/1994/01/10/094G0012/CONSOLIDATED/19940721"
+type: act
+jurisdiction: it
+language: it
+date: 1994-01-04
+last_amended: 1994-07-21
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 6 del 1994-01-10"
+codice_redazionale: "094G0012"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-04;10"
+retrieved: 2026-10-11
+---
+
+# LEGGE 04 gennaio 1994, n. 10
+
+**Istituzione del parco nazionale dell'arcipelago de La Maddalena e altre disposizioni in materia di parchi nazionali.**
+
+*Entrata in vigore della legge: 25-1-1994*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+1\. E' istituito, d'intesa con la regione Sardegna ai sensi dell'articolo 2, comma 7, della legge 6 dicembre 1991, n. 394, il parco nazionale dell'arcipelago de La Maddalena, che comprende le isole e gli isolotti appartenenti al territorio del comune de La Maddalena, nonche' le aree marine circostanti per una distanza di almeno un chilometro dalla costa.
+
+2\. Entro centottanta giorni dalla data di entrata in vigore della presente legge, il Ministero dell'ambiente provvede alla delimitazione provvisoria del parco nazionale di cui al comma 1 e, sentiti la regione e gli enti locali interessati, adotta le misure di salvaguardia necessarie per garantire la conservazione dello stato dei luoghi, tenendo altresi' conto dell'istituendo parco marino internazionale delle Bocche di Bonifacio. La gestione provvisoria del parco, fino alla costituzione dell'ente parco previsto dalla legge 6 dicembre 1991, n. 394, e' affidata ad un apposito comitato di gestione.
+
+AVVERTENZA:
+
+Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
+> Nota all'art. 1:
+
+> \- Il testo del comma 7 dell'art. 2 della legge n. 394/1991 (Legge quadro sulle aree protette) e' il seguente:
+
+> "7. La classificazione e l'istituzione dei parchi nazionali e delle riserve naturali statali sono effettuate, qualora rientrino nel territorio delle regioni a statuto speciale e delle province autonome di Trento e di Bolzano, d'intesa con le stesse".
+
+## Art. 2
+
+1\. I fabbricati, le attrezzature e gli impianti di proprieta' dello Stato e non direttamente utilizzati dal comune o da altre amministrazioni pubbliche, ivi compresi quelli dismessi dal Ministero della difesa che si trovano nel territorio del parco di cui all'articolo 1, sono ceduti all'ente parco.
+
+## Art. 3
+
+1\. A decorrere dalla data di entrata in vigore delle norme di salvaguardia di cui all'articolo 1, comma 2, cessano di avere efficacia il decreto del Ministro dell'ambiente di concerto con il Ministro della marina mercantile del 29 luglio 1992, pubblicato nella Gazzetta Ufficiale n. 181 del 3 agosto 1992, e il decreto del Ministro dell'agricoltura e delle foreste di concerto con il Ministro delle finanze dell'8 agosto 1980, pubblicato nella Gazzetta Ufficiale n. 232 del 25 agosto 1980; parimenti cessa di avere efficacia ogni altro vincolo in contrasto con le finalita' della presente legge.
+
+## Art. 4
+
+1\. Entro novanta giorni dalla data di entrata in vigore della presente legge, il Ministro dell'ambiente, con proprio decreto, provvede all'adeguamento della disciplina dei parchi nazionali di cui ai commi 1 e 2 dell'articolo 35 della legge 6 dicembre 1991, n. 394, ai principi della medesima legge. ((1))
+
+---------------
+
+AGGIORNAMENTO (1)
+
+La Corte costituzionale con la sentenza 6-15 luglio 1994 n. 302 (in G.U. 1a s.s. 20/07/1994 n. 30) ha dichiarato:
+
+\- "l'illegittimita' costituzionale dell'art. 4 della legge 4 gennaio 1994, n. 10 (Istituzione del parco nazionale dell'arcipelago de La Maddalena e altre disposizioni in materia di parchi nazionali), nella parte in cui non prevede l'obbligo di intesa con la Regione autonoma Valle d'Aosta da parte del Ministro dell'ambiente prima di provvedere con proprio decreto all'adeguamento della disciplina dei parchi nazionali di cui all'art. 35, primo e secondo comma, della legge 6 dicembre 1991, n. 394;
+
+\- l'illegittimita' costituzionale dell'art. 4 della legge 4 gennaio 1994, n. 10, nella parte in cui non prevede, relativamente al Parco nazionale dello Stelvio, che per l'adeguamento della disciplina dei parchi nazionali di cui all'art. 35, primo e secondo comma, della legge 6 dicembre 1991, n. 394 si provveda in base a quanto stabilito dalle norme di attuazione dello statuto speciale per la Regione Trentino-Alto Adige emanate con d.P.R. 22 marzo 1974, n. 279."
+
+## Art. 5
+
+1\. Agli oneri derivanti dall'attuazione della presente legge si provvede a carico della previsione di spesa della legge 6 dicembre 1991, n. 394. Al parco nazionale dell'arcipelago de La Maddalena si applicano le disposizioni della citata legge 6 dicembre 1991, n. 394, in quanto compatibili.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 4 gennaio 1994
+
+SCALFARO
+
+CIAMPI, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: CONSO
+
+> Nota all'art. 5:
+
+> \- Per il titolo della gia' citata legge n. 394/1991 si veda la nota all'art. 1.

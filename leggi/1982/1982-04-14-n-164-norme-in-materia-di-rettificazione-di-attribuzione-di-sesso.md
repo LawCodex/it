@@ -1,0 +1,115 @@
+---
+title: "LEGGE 14 aprile 1982, n. 164 — Norme in materia di rettificazione di attribuzione di sesso."
+identifier: "urn:nir:stato:legge:1982-04-14;164"
+eli: "https://www.normattiva.it/eli/id/1982/04/19/082U0164/CONSOLIDATED/20140619"
+type: act
+jurisdiction: it
+language: it
+date: 1982-04-14
+last_amended: 2014-06-19
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 106 del 1982-04-19"
+codice_redazionale: "082U0164"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-14;164"
+retrieved: 2026-10-11
+---
+
+# LEGGE 14 aprile 1982, n. 164
+
+**Norme in materia di rettificazione di attribuzione di sesso.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno
+
+approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+La rettificazione si fa in forza di sentenza del tribunale passata in giudicato che attribuisca ad una persona sesso diverso da quello enunciato nell'atto di nascita a seguito di intervenute modificazioni dei suoi caratteri sessuali.
+
+((Le controversie di cui al primo comma sono disciplinate dall'articolo 31 del decreto legislativo 1° settembre 2011, n.150.)) ((2))
+
+--------------
+
+AGGIORNAMENTO (2)
+
+Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso.
+
+2\. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
+
+## Art. 2
+
+ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150 (2) ((3))
+
+--------------
+
+AGGIORNAMENTO (2)
+
+Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso.
+
+2\. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
+
+--------------
+
+AGGIORNAMENTO (3)
+
+La Corte Costituzionale, con sentenza 11 giugno 2014, n. 170 (in G.U. 1a s.s. 18/06/2014, n. 26) ha dichiarato "l'illegittimita' costituzionale degli artt. 2 e 4 della legge 14 aprile 1982, n. 164 (Norme in materia di rettificazione di attribuzione di sesso), nella parte in cui non prevedono che la sentenza di rettificazione dell'attribuzione di sesso di uno dei coniugi, che provoca lo scioglimento del matrimonio o la cessazione degli effetti civili conseguenti alla trascrizione del matrimonio, consenta, comunque, ove entrambi lo richiedano, di mantenere in vita un rapporto di coppia giuridicamente regolato con altra forma di convivenza registrata, che tuteli adeguatamente i diritti ed obblighi della coppia medesima, con le modalita' da statuirsi dal legislatore".
+
+## Art. 3
+
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150)) ((2))
+
+--------------
+
+AGGIORNAMENTO (2)
+
+Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso.
+
+2\. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
+
+## Art. 4
+
+La sentenza di rettificazione di attribuzione di sesso non ha effetto retroattivo. Essa provoca lo scioglimento del matrimonio o la cessazione degli effetti civili conseguenti alla trascrizione del matrimonio celebrato con rito religioso. Si applicano le disposizioni del codice civile e della legge 1 dicembre 1970, n. 898, e successive modificazioni. ((3))
+
+--------------
+
+AGGIORNAMENTO (3)
+
+La Corte Costituzionale, con sentenza 11 giugno 2014, n. 170 (in G.U. 1a s.s. 18/06/2014, n. 26) ha dichiarato "l'illegittimita' costituzionale degli artt. 2 e 4 della legge 14 aprile 1982, n. 164 (Norme in materia di rettificazione di attribuzione di sesso), nella parte in cui non prevedono che la sentenza di rettificazione dell'attribuzione di sesso di uno dei coniugi, che provoca lo scioglimento del matrimonio o la cessazione degli effetti civili conseguenti alla trascrizione del matrimonio, consenta, comunque, ove entrambi lo richiedano, di mantenere in vita un rapporto di coppia giuridicamente regolato con altra forma di convivenza registrata, che tuteli adeguatamente i diritti ed obblighi della coppia medesima, con le modalita' da statuirsi dal legislatore".
+
+## Art. 5
+
+Le attestazioni di stato civile riferite a persona della quale sia stata giudizialmente rettificata l'attribuzione di sesso sono rilasciate con la sola indicazione del nuovo sesso e nome.
+
+## Art. 6
+
+Nel caso che alla data di entrata in vigore della presente legge l'attore si sia gia' sottoposto a trattamento medico-chirurgico di adeguamento del sesso, ((la domanda di rettificazione di attribuzione di sesso deve essere proposta)) entro il termine di un anno dalla data suddetta. ((2))
+
+((COMMA ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150)). ((2))
+
+--------------
+
+AGGIORNAMENTO (2)
+
+Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso.
+
+2\. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
+
+## Art. 7
+
+L'accoglimento della domanda di rettificazione di attribuzione di sesso estingue i reati cui abbia eventualmente dato luogo il trattamento medico-chirurgico di cui all'articolo precedente.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Ventimiglia, addi' 14 aprile 1982
+
+PERTINI
+
+SPADOLINI - DARIDA - ROGNONI
+
+Visto, il Guardasigilli: DARIDA

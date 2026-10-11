@@ -1,0 +1,98 @@
+---
+title: "LEGGE 21 aprile 1999, n. 109 — Conversione in legge, con modificazioni, del decreto-legge 22 febbraio 1999, n. 29, recante nuove disposizioni in materia di competenza della corte di assise e di interrogatorio di garanzia."
+identifier: "urn:nir:stato:legge:1999-04-21;109"
+eli: "https://www.normattiva.it/eli/id/1999/04/23/099G0180/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1999-04-21
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 94 del 1999-04-23"
+codice_redazionale: "099G0180"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-21;109"
+retrieved: 2026-10-11
+---
+
+# LEGGE 21 aprile 1999, n. 109
+
+**Conversione in legge, con modificazioni, del decreto-legge 22 febbraio 1999, n. 29, recante nuove disposizioni in materia di competenza della corte di assise e di interrogatorio di garanzia.**
+
+*Entrata in vigore della legge: 24-4-1999*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Promulga
+
+la seguente legge:
+
+## Art. 1
+
+1\. Il decreto-legge 22 febbraio 1999, n. 29, recante nuove disposizioni in materia di competenza della corte di assise e di interrogatorio di garanzia, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+
+2\. Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti, fino alla data di entrata in vigore della presente legge, sulla base del decreto-legge 22 febbraio 1999, n. 29.
+
+3\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 21 aprile 1999
+
+SCALFARO
+
+D'Alema, Presidente del Consiglio
+
+dei Ministri
+
+Diliberto, Ministro di grazia e
+
+giustizia
+
+Visto, il Guardasigilli: Diliberto
+
+> Avvertenza:
+
+> Il decreto-legge 22 febbraio 1999, n. 29, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 43 del 22 febbraio 1999.
+
+> A norma dell'art. 15, comma 5, della legge 23 agosto 1988, n. 400 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione.
+
+> Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 53. Detto testo sara' ripubblicato, corredato delle relative note, nella Gazzetta Ufficiale del giorno 3 maggio 1999.
+
+## Allegati
+
+## Allegato
+
+Allegato
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 22 FEBBRAIO 1999, N. 29.
+
+All'articolo 1:
+
+la rubrica e' sostituita dalla seguente: "Modifica all'articolo 5 del codice di procedura penale in materia di competenza della corte di assise";
+
+al comma 1, capoverso, le parole: "comma 1" sono sostituite dalle seguenti: "primo comma".
+
+All'articolo 2:
+
+la rubrica e' sostituita dalla seguente: "Modifiche all'articolo 294 del codice di procedura penale concernente l'interrogatorio della persona sottoposta a misura cautelare personale";
+
+al comma 1, lettera a), le parole: "competente a provvedere sulle misure cautelari" sono sostituite dalle seguenti: "che ha deciso in ordine all'applicazione della misura cautelare";
+
+al comma 1, lettera b), capoverso, le parole: "Quando competente a provvedere sulla misura cautelare e' la corte di assise o il tribunale" sono sostituite dalle seguenti: "Quando la misura cautelare e' stata disposta dalla corte di assise o dal tribunale"; al comma 1, lettera c), le parole: "il giudice" sono sostituite dalle seguenti: "altro tribunale, il giudice".
+
+All'articolo 3:
+
+al comma 3, sono soppresse le parole: "o di annullamento per incompetenza per materia del tribunale";
+
+dopo il comma 3 sono inseriti i seguenti:
+
+"3-bis. Per le impugnazioni presentate prima del 23 febbraio 1999, proposte per il solo motivo della incompetenza per materia, le parti possono disporre di ulteriori termini per presentare nuovi motivi. La stessa facolta' e' riconosciuta nel caso di sentenza di annullamento pronunciata a seguito di impugnazione proposta per il solo motivo della incompetenza per materia del tribunale.
+
+3-ter. Nei casi previsti dal comma 3-bis, il termine per la presentazione di nuovi motivi, ai sensi dell'articolo 582 del codice di procedura penale, e' di sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto.
+
+3-quater. Nei casi previsti dal comma 3-bis, il giudice, su richiesta dell'imputato che ha proposto nuovi motivi, dispone la rinnovazione dell'istruzione dibattimentale, nei limiti previsti dall'articolo 495, comma 1, del codice di procedura penale";
+
+al comma 4, le parole: "nel comma 3" sono sostituite dalle seguenti: "nei commi 3 e 3-bis "; le parole: "sui restanti motivi" sono sostituite dalle seguenti: "sugli altri motivi" e dopo la parola: "impugnazione" sono aggiunte le seguenti: ", presentati originariamente ovvero nel termine ulteriore di cui al comma 3-ter".
+
+All'articolo 4, comma 1, le parole: "dello stesso codice" sono sostituite dalle seguenti: "del codice di procedura penale".

@@ -1,0 +1,104 @@
+---
+title: "LEGGE 07 novembre 1986, n. 743 — Modifiche alla disciplina della custodia cautelare."
+identifier: "urn:nir:stato:legge:1986-11-07;743"
+eli: "https://www.normattiva.it/eli/id/1986/11/07/086U0743/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1986-11-07
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 259 del 1986-11-07"
+codice_redazionale: "086U0743"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-11-07;743"
+retrieved: 2026-10-11
+---
+
+# LEGGE 07 novembre 1986, n. 743
+
+**Modifiche alla disciplina della custodia cautelare.**
+
+La Camera dei deputati ed il Senato della Repubblica
+
+hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+1\. Il numero 5), terzo comma, dell'articolo 272 del codice di procedura penale e' sostituito dal seguente:
+
+"5) un anno e sei mesi se la legge prevede la pena della reclusione non inferiore nel massimo a venti anni o la pena dell'ergastolo ovvero se si tratta dei delitti di cui agli articoli 416-bis del codice penale, 75 della legge 22 dicembre 1975, n. 685, nonche' dei delitti commessi per finalita' di terrorismo o di eversione dell'ordinamento costituzionale puniti con pena non inferiore nel massimo a quindici anni di reclusione".
+
+> NOTE
+
+> Nota all'art. 1:
+
+> Il terzo comma dell'art. 272 del codice di procedura penale, sulla durata della custodia cautelare, come sostituito dall'art. 3 della legge 28 luglio 1984, n. 398, poi modificato dalla legge qui pubblicata, cosi' dispone:
+
+> "L'imputato deve essere inoltre scarcerato se dal deposito in cancelleria dell'ordinanza di rinvio a giudizio o dalla richiesta di emissione del decreto di citazione a giudizio ovvero, nei procedimenti di competenza del pretore, dalla emissione del decreto di citazione a giudizio sono decorsi i termini di custodia cautelare sottoindicati, senza che sia stata pronunciata sentenza di condanna di primo grado:
+
+> 1\) trenta giorni nei casi di cui al n. 1) del primo comma;
+
+> 2\) tre mesi nei casi di cui al n. 2) del primo comma;
+
+> 3\) sei mesi nei casi di cui al n. 3) del primo comma;
+
+> 4\) un anno nei casi di cui al n. 4), lettera b), del primo comma;
+
+> 5\) un anno e sei mesi se la legge prevede la pena della reclusione non inferiore nel massimo a venti anni o la pena dell'ergastolo ovvero se si tratta dei delitti di cui agli articoli 416-bis del codice penale, 75 della legge 22 dicembre 1975, n. 685, nonche' dei delitti commessi per finalita' di terrorismo o di eversione dell'ordinamento costituzionale puniti con pena non inferiore nel massimo a quindici anni di reclusione".
+
+> Il testo dell'art. 416-bis del codice penale, richiamato nel n. 5) soprariportato, aggiunto dall'art. 1 della legge 13 settembre 1982, n. 646, e' il seguente:
+
+> "Art. 416-bis. (Associazione di tipo mafioso). - Chiunque fa parte di un'associazione di tipo mafioso formata da tre o piu' persone, e' punito con la reclusione da tre a sei anni.
+
+> Coloro che promuovono, dirigono o organizzano l'associazione sono puniti, per cio' solo; con la reclusione da quattro a nove anni.
+
+> L'associazione e' di tipo mafioso quando coloro che ne fanno parte si avvalgono della forza di intimidazione del vincolo associativo e della condizione di assoggettamento e di omerta' che ne deriva per commettere delitti, per acquisire in modo diretto o indiretto la gestione o comunque il controllo di attivita' economiche, di concessioni, di autorizzazioni, appalti e servizi pubblici o per realizzare profitti o vantaggi ingiusti per se' o per altri.
+
+> Se l'associazione e' armata si applica la pena della reclusione da quattro a dieci anni nei casi previsti dal primo comma e da cinque a quindici anni nei casi previsti dal secondo comma.
+
+> L'associazione si considera armata quando i partecipanti hanno la disponibilita', per il conseguimento della finalita' dell'associazione, di armi o materie esplodenti, anche se occultate o tenute in luogo di deposito.
+
+> Se le attivita' economiche di cui gli associati intendono assumere o mantenere il controllo sono finanziate in tutto o in parte con il prezzo, il prodotto, o il profitto di delitti, le pene stabilite nei commi precedenti sono aumentate da un terzo alla meta'.
+
+> Nei confronti del condannato e' sempre obbligatoria la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono il prezzo, il prodotto, il profitto o che ne costituiscono l'impiego.
+
+> Decadono inoltre di diritto le licenze di polizia, di commercio, di commissionario astatore presso i mercati annonari all'ingrosso, le concessioni di acque pubbliche e i diritti ad esse inerenti nonche' le iscrizioni agli albi di appaltatori di opere o di forniture pubbliche di cui il condannato fosse titolare.
+
+> Le disposizioni del presente articolo si applicano anche alla camorra e alle altre associazioni, comunque localmente denominate, che valendosi della forza intimidatrice del vincolo associativo perseguono scopi corrispondenti a quelli delle associazioni di tipo mafioso".
+
+> Il testo dell'art. 75 della legge n. 685/1975, recante: "Disciplina degli stupefacenti e sostanze psicotrope.
+
+> Prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza", richiamato nel n. 5) soprariportato, e' il seguente:
+
+> "Art. 75. (Associazione per delinquere). - Quando tre o piu' persone si associano allo scopo di commettere piu' delitti tra quelli previsti dagli articoli 71, 72 e 73, coloro che promuovono, costituiscono, organizzano o finanziano l'associazione sono puniti, per cio' solo, con la reclusione non inferiore a quindici anni e con la multa da lire 50 milioni a lire 200 milioni.
+
+> Per il solo fatto di partecipare all'associazione, la pena e' della reclusione da tre a quindici anni e della multa da lire 10 milioni a lire 50 milioni.
+
+> I capi soggiacciono alla stessa pena stabilita per i promotori.
+
+> La pena e' aumentata se il numero degli associati e' di dieci o piu' o se tra i partecipanti vi sono persone dedite all'uso di sostanze stupefacenti o psicotrope.
+
+> Se l'associazione e' armata la pena, nei casi indicati dal primo e dal terzo comma del presente articolo, non puo' essere inferiore a 20 anni di reclusione e, nel caso previsto dal secondo comma, a 5 anni di reclusione.
+
+> L'associazione si considera armata quando tre o piu' partecipanti possiedono armi, o anche quando le armi sono occultate o tenute in luogo di deposito".
+
+> A norma dell'art. 113, quarto comma, della legge 24 novembre 1981, n. 689, recante modifiche al sistema penale, la misura delle pene pecuniarie previste nell'art. 75 della legge n. 685/1975 soprariportato e' raddoppiata.
+
+## Art. 2
+
+1\. La presente legge entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Genova, addi' 7 novembre 1986
+
+COSSIGA
+
+CRAXI, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: ROGNONI

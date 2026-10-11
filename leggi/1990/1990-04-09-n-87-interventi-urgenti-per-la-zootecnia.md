@@ -1,0 +1,121 @@
+---
+title: "LEGGE 09 aprile 1990, n. 87 — Interventi urgenti per la zootecnia."
+identifier: "urn:nir:stato:legge:1990-04-09;87"
+eli: "https://www.normattiva.it/eli/id/1990/04/28/090G0118/CONSOLIDATED/19910814"
+type: act
+jurisdiction: it
+language: it
+date: 1990-04-09
+last_amended: 1991-08-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 98 del 1990-04-28"
+codice_redazionale: "090G0118"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-09;87"
+retrieved: 2026-10-11
+---
+
+# LEGGE 09 aprile 1990, n. 87
+
+**Interventi urgenti per la zootecnia.**
+
+*Entrata in vigore della legge: 13/5/1990*
+
+La Camera dei deputati ed il Senato della Repubblica hanno
+
+approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+## Art. 1
+
+(( 1. Per un intervento straordinario nella zootecnia da realizzarsi attraverso progetti integrati di rilevanza nazionale, e' autorizzata la spesa di lire 200 miliardi per l'anno 1991.
+
+2\. I progetti sono predisposti da societa' cooperative e da altre societa' che assicurino una significativa presenza sui mercati e devono rispondere alle linee strategiche e ai criteri stabiliti in apposito programma straordinario, approvato dal CIPE su proposta del Ministro dell'agricoltura e delle foreste con le procedure di cui all'articolo 2 della legge 8 novembre 1986, n. 752.
+
+3\. Per la predisposizione del programma straordinario, la definizione delle linee strategiche e dei criteri di intervento e il finanziamento dei progetti, e' costituito presso il Ministero dell'agricoltura e delle foreste il comitato per l'intervento straordinario nel settore zootecnico.
+
+4\. Il comitato di cui al comma 3 esercita la propria attivita' osservando, in quanto compatibili, le norme e le procedure stabilite dal programma approvato dal CIPE ai sensi del comma 2 e quelle stabilite dal Ministero dell'agricoltura e delle foreste in materia di provvidenze contributive e creditizie per gli organismi cooperativi di rilevanza nazionale. ))
+
+## Art. 2
+
+((ARTICOLO ABROGATO DALLA L. 8 AGOSTO 1991, N. 252))
+
+## Art. 3
+
+(( 1. Il comitato e' presieduto dal Ministro dell'agricoltura e
+
+delle foreste o, per sua delega, da uno dei suoi componenti, ed e' composto di otto membri dei quali uno designato dal Ministro dell'industria, del commercio e dell'artigianato, uno dal Ministro della sanita', uno dal Ministro del tesoro ed uno dal Ministro del bilancio e della programmazione economica, nominati, su proposta dello stesso Ministro dell'agricoltura e delle foreste, con decreto del Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri; gli altri tre membri sono nominati in rappresentanza delle regioni secondo quanto previsto dall'articolo 4 del decreto legislativo 16 dicembre 1989, n. 418 )).
+
+2\. (( COMMA ABROGATO DALLA L. 8 AGOSTO 1991, N. 252 )).
+
+3\. I membri del Comitato sono posti, se dipendenti da
+
+amministrazioni dello Stato, fuori dal ruolo per il tempo necessario all'esercizio del loro mandato.
+
+4\. Il Comitato si avvale delle strutture amministrative e tecniche del Ministero dell'agricoltura e delle foreste, nonche', per la valutazione e il monitoraggio dei progetti, di un gruppo di tre esperti di analisi di bilancio e di investimenti aziendali, nominati con decreto del Ministro dell'agricoltura e delle foreste. Presso lo stesso Comitato puo' essere comandato personale dipendente dallo Stato, da enti pubblici, anche economici, o da societa' a prevalente partecipazione pubblica, in numero non superiore a dieci unita' complessive.
+
+---------------
+
+AGGIORNAMENTO (1)
+
+La Corte costituzionale, con sentenza 27 febbraio-15 marzo 1991, n. 116 (in G.U. 1a s.s. 20/03/1991, n. 12) ha dichiarato l'illegittimita' costituzionale dell'art. 3, secondo comma, della L. 9 aprile 1990, n. 87 nella parte in cui prevede che il Comitato "attua i suoi interventi sia direttamente che per il tramite della societa' per azioni costituita ai sensi dell'art. 5
+
+## Art. 4
+
+1\. (( COMMA ABROGATO DALLA L. 8 AGOSTO 1991, N. 252 )).
+
+2\. Il Comitato riserva a soggetti operanti nel Mezzogiorno una
+
+quota non inferiore al venti per cento dei contributi e dei finanziamenti erogati.
+
+2\. (( COMMA ABROGATO DALLA L. 8 AGOSTO 1991, N. 252 )).
+
+## Art. 5
+
+(( 1. Il comitato promuove, entro tre mesi dalla sua istituzione, la costituzione di una societa' per azioni con capitale sottoscritto per almeno il 51 per cento dal Ministero dell'agricoltura e delle foreste con le risorse di cui all'articolo 1, comma 1, e, per la quota restante, da istituti di credito di diritto pubblico, privati o cooperativi, da enti pubblici, anche territoriali, o da societa' il cui capitale sia per la maggioranza detenuto da imprenditori agricoli o loro organismi associativi.
+
+2\. La societa' svolge nel settore zootecnico i compiti previsti dal programma di cui all'articolo 1 approvato dal CIPE. In particolare:
+
+a) accorda fidejussioni a fronte di operazioni creditizie;
+
+b) effettua, previa autorizzazione accordata con decreto del Ministro del tesoro, di concerto con il Ministro dell'agricoltura e delle foreste, operazioni di provvista mediante ricorso al mercato, anche estero, assistite da garanzia pubblica sul rischio di cambio entro i limiti previsti dall'articolo 2, comma 9, della legge 29 dicembre 1990, n. 405, recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1991), da destinare ad operazioni creditizie di investimento;
+
+c) concede finanziamenti, previo parere di ammissibilita' del gruppo di esperti di cui al comma 4 dell'articolo 3, per interventi relativi alle azioni di risanamento e liquidazione di societa';
+
+d) acquisisce quote di partecipazione di societa' i cui progetti, previsti dalla presente legge, siano stati approvati dal comitato )).
+
+---------------
+
+AGGIORNAMENTO (1)
+
+La Corte costituzionale, con sentenza 27 febbraio-15 marzo 1991, n. 116 (in G.U. 1a s.s. 20/03/1991, n. 12) ha dichiarato l'illegittimita' costituzionale dell'art. 5, secondo comma della L. 9 aprile 1990, n. 87, nella parte in cui prevede che la societa' per azioni svolge a favore dei beneficiari degli interventi previsti dalla legge "i compiti affidatile dal Comitato di cui all'art. 1.
+
+## Art. 6
+
+1\. La societa' e' amministrata da un consiglio di amministrazione composto da cinque membri, del quale il Presidente e' nominato dal Ministro dell'agricoltura e delle foreste, di concerto con il Ministro dell'industria, del commercio e dell'artigianato, mentre ciascuno dei restanti membri e' rispettivamente nominato dal Ministro dell'agricoltura e delle foreste, dal Ministro dell'industria, del commercio e dell'artigianato e, in numero di due, dai soggetti che hanno sottoscritto la quota di minoranza del capitale sociale.
+
+## Art. 7
+
+1\. Gli emolumenti spettanti ai membri del Comitato e agli esperti sono stabiliti con decreto del Ministro dell'agricoltura e delle foreste, di concerto con il Ministro del tesoro e con il Ministro dell'industria, del commercio e dell'artigianato.
+
+2\. Il Ministro dell'agricoltura e delle foreste, ogni anno, a decorrere da quello successivo alla data di entrata in vigore della presente legge, presenta al Parlamento ed al CIPE, entro il 30 giugno, una relazione sull'attivita' del Comitato di cui alla presente legge e cura il coordinamento dell'attivita' dello stesso con gli obiettivi del piano agricolo nazionale.
+
+## Art. 8
+
+((ARTICOLO ABROGATO DALLA L. 8 AGOSTO 1991, N. 252))
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 9 aprile 1990
+
+COSSIGA
+
+ANDREOTTI, Presidente del
+
+Consiglio dei Ministri
+
+MANNINO, Ministro dell'agricoltura e delle foreste Visto, il
+
+Guardasigilli: VASSALLI

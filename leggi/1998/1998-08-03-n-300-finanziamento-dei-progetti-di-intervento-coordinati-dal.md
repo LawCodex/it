@@ -1,0 +1,105 @@
+---
+title: "LEGGE 03 agosto 1998, n. 300 — Finanziamento dei progetti di intervento coordinati dal commissario straordinario del Governo per la prosecuzione del processo di ricostruzione dell'Albania."
+identifier: "urn:nir:stato:legge:1998-08-03;300"
+eli: "https://www.normattiva.it/eli/id/1998/08/21/098G0352/CONSOLIDATED/19990424"
+type: act
+jurisdiction: it
+language: it
+date: 1998-08-03
+last_amended: 1999-04-24
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 194 del 1998-08-21"
+codice_redazionale: "098G0352"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-08-03;300"
+retrieved: 2026-10-11
+---
+
+# LEGGE 03 agosto 1998, n. 300
+
+**Finanziamento dei progetti di intervento coordinati dal commissario straordinario del Governo per la prosecuzione del processo di ricostruzione dell'Albania.**
+
+*Entrata in vigore della legge: 22-8-1998*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Promulga
+
+la seguente legge:
+
+## Art. 1
+
+1\. E' autorizzata la spesa nel limite di lire 60.000 milioni per consentire la realizzazione dei progetti d'intervento, predisposti dai Ministeri competenti e coordinati dal commissario straordinario del Governo, volti a proseguire il processo di ricostruzione sociale ed economica dell'Albania.
+
+2\. La somma di cui al comma 1 e' attribuita quanto a lire 13.000 milioni al Ministero dell'interno per la consulenza, l'assistenza e l'addestramento delle forze dell'ordine; quanto a lire 14.000 milioni al Ministero di grazia e giustizia per la organizzazione del sistema penitenziario, la costruzione e il funzionamento delle relative strutture edilizie e la formazione del personale; quanto a lire 6.000 milioni al Ministero delle finanze per la riorganizzazione dell'Amministrazione delle dogane; quanto a lire 2.000 milioni al Ministero della pubblica istruzione e quanto a lire 2.000 milioni al Ministero dell'universita' e della ricerca scientifica e tecnologica per gli interventi nei distretti scolastici e per la cooperazione con le universita' albanesi; quanto a lire 1.000 milioni al Ministero dei lavori pubblici per la predisposizione del progetto di fattibilita' del programma, dei sopralluoghi, dei rilievi e delle indagini tecniche propedeutici ai progetti esecutivi relativi agli interventi nelle strutture penitenziarie; quanto a lire 7.000 milioni al Ministero della sanita' per la predisposizione del piano sanitario nazionale; quanto a lire 2.500 milioni al Ministero per le politiche agricole per la realizzazione di un laboratorio chimico di analisi dei prodotti alimentari e connessa assistenza tecnica, riqualificazione e formazione del personale; quanto a lire 2.500 milioni al Ministero dei trasporti e della navigazione per la fornitura di materiale rotabile ed apparecchiature. La residua somma, pari a lire 10.000 milioni, e' assegnata alla Presidenza del Consiglio dei Ministri per la successiva ripartizione ed assegnazione a vari Ministeri sulla base di progetti inerenti alla riorganizzazione delle amministrazioni statali, agli eventuali interventi strutturali, nonche' alla fornitura di attrezzature.
+
+3\. Il funzionario delegato che gestisce i fondi trasferiti in Albania ai sensi dell'articolo 2, comma 1, del decreto-legge 27 ottobre 1997, n. 362, convertito, con modificazioni, dalla legge 19 dicembre 1997, n. 437, e' autorizzato a derogare alle disposizioni vigenti sulla contabilita' generale dello Stato in materia di contratti.
+
+> Avvertenza:
+
+> Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n.1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+
+> Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
+> Nota all'art. 1:
+
+> \- Il testo dell'art. 2, comma 1, del decreto-legge 27 ottobre 1997, n. 362, convertito, con modificazioni, dalla legge 19 dicembre 1997, n. 437 (Finanziamento della missione italiana in Albania per riorganizzare le Forze di polizia albanesi e dell'assistenza ai profughi della ex Jugoslavia), e' il seguente:
+
+> "Art. 2 (Regime degli interventi a carattere umanitario). - 1. Per consentire la tempestiva attuazione delle iniziative del presente decreto, nonche' delle altre analoghe iniziative di carattere umanitario da attuarsi all'estero, comprese quelle di cui all'art. 5 del decreto-legge 24 aprile 1997, n. 108, convertito, con modificazioni, dalla legge 20 giugno 1997, n. 174, si applicano le disposizioni della legge 6 febbraio 1985, n. 15".
+
+## Art. 2
+
+1\. Alla ripartizione della somma di lire 10.000 milioni di cui al comma 2 dell'articolo 1 si provvede, con decreto del Presidente del Consiglio dei Ministri, sulla base dei progetti presentati dai Ministeri ed approvati dal comitato di cui all'articolo 2 del decreto del Presidente della Repubblica 30 dicembre 1997, pubblicato nella Gazzetta Ufficiale n. 50 del 2 marzo 1998.
+
+2\. Il commissario straordinario del Governo, accertato e valutato lo stato di avanzamento di tutti i progetti finanziati con la presente legge, sentito il comitato di cui all'articolo 2 del citato decreto del Presidente della Repubblica 30 dicembre 1997, puo' proporre al Presidente del Consiglio dei Ministri la revoca, parziale o totale, dei relativi stanziamenti, al fine di finanziare altri progetti d'intervento individuati in collaborazione con le autorita' albanesi e ritenuti comunque prioritari.
+
+3\. Le risorse provenienti dalle revoche di cui al comma 2 sono versate all'entrata del bilancio dello Stato per essere riassegnate ad apposita unita' previsionale di base dello stato di previsione dei Ministeri interessati.
+
+> Nota all'art. 2:
+
+> \- Il testo dell'art. 2 del decreto del Presidente della Repubblica 30 dicembre 1997 (Conferma del generale di corpo d'armata in ausiliaria Franco Angioni a commissario straordinario del Governo per le iniziative italiane di supporto all'Albania), e' il seguente:
+
+> "Art. 2. - Il comitato previsto all'art. 2 del decreto del Presidente della Repubblica 2 giugno 1997, costituito con decreto del Presidente del Consiglio dei Ministri in data 13 giugno 1997, puo' essere integrato, su richiesta del commissario straordinario, sentito il Ministro competente, con un rappresentante dei Ministeri non compresi nell'elenco dello stesso art. 2.
+
+> Il contingente di personale previsto all'art. 3 del decreto del Presidente della Repubblica 2 giugno 1997, determinato con decreto del Presidente del Consiglio dei Ministri in data 5 agosto 1997, e' assegnato all'ufficio del commissario straordinario fino al 30 giugno 1998".
+
+## Art. 3
+
+1\. Per favorire la prosecuzione del processo di ricostruzione sociale ed economica dell'Albania, le amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29, in relazione alle effettive disponibilita', sono autorizzate, sino al 31 dicembre 1998, a cedere a titolo gratuito alle autorita' governative albanesi, sulla base delle richieste dalle stesse formulate, previo coordinamento del commissario straordinario del Governo, sentito il Ministero del tesoro, del bilancio e della programmazione economica, i mezzi dismessi dal patrimonio dello Stato, eventuali materiali di consumo connessi non altrimenti utilizzabili e il relativo supporto logistico. ((1))
+
+-------------------
+
+AGGIORNAMENTO (1)
+
+Il D. L. 21 aprile 1999, n. 110, convertito con modificazioni dalla L. 18 giugno 1999, n. 186 ha disposto (con l'art. 5, comma 3) che il termine di cui al suddetto articolo e' differito al 31 dicembre 1999.
+
+## Art. 4
+
+1\. Al personale utilizzato per la consulenza, l'assistenza e l'addestramento delle forze di polizia albanesi, di cui all'articolo 1 del decreto-legge 27 ottobre 1997, n. 362, convertito, con modificazioni, dalla legge 19 dicembre 1997, n. 437, si applicano, a decorrere dal 17 aprile 1998, il trattamento economico previsto dalla legge 8 luglio 1961, n. 642, e l'indennita' speciale di cui all'articolo 3 della medesima legge, nella misura del 140 per cento dell'assegno di lungo servizio all'estero. ((1))
+
+-------------------
+
+AGGIORNAMENTO (1)
+
+Il D. L. 21 aprile 1999, n. 110, convertito con modificazioni dalla L. 18 giugno 1999, n. 186 ha disposto (con l'art. 5, comma 3) che le disposizioni di cui al suddetto articolo continuano ad applicarsi per l'anno 1999 in favore del personale delle amministrazioni dello Stato impegnato in Albania.
+
+## Art. 5
+
+1\. All'onere finanziario derivante dall'applicazione della presente legge, pari a lire 60.000 milioni per l'anno 1998, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1998-2000, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 1998, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
+
+2\. In applicazione della presente legge, il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+## Art. 6
+
+1\. La presente legge, entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 3 agosto 1998
+
+SCALFARO
+
+Prodi, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: Flick

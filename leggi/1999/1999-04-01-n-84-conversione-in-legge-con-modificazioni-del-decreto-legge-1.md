@@ -1,0 +1,80 @@
+---
+title: "LEGGE 01 aprile 1999, n. 84 — Conversione in legge, con modificazioni, del decreto-legge 1 febbraio 1999, n. 16, recante disposizioni urgenti per la modifica della legge 21 novembre 1991, n. 374, in tema di conferma dell'esercizio delle funzioni di giudice di pace, nonche' proroga dell'esercizio delle funzioni medesime."
+identifier: "urn:nir:stato:legge:1999-04-01;84"
+eli: "https://www.normattiva.it/eli/id/1999/04/02/099G0146/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1999-04-01
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 77 del 1999-04-02"
+codice_redazionale: "099G0146"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-01;84"
+retrieved: 2026-10-11
+---
+
+# LEGGE 01 aprile 1999, n. 84
+
+**Conversione in legge, con modificazioni, del decreto-legge 1 febbraio 1999, n. 16, recante disposizioni urgenti per la modifica della legge 21 novembre 1991, n. 374, in tema di conferma dell'esercizio delle funzioni di giudice di pace, nonche' proroga dell'esercizio delle funzioni medesime.**
+
+*Entrata in vigore della legge: 3-4-1999*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Promulga
+
+la seguente legge:
+
+## Art. 1
+
+1\. Il decreto-legge 1 febbraio 1999, n. 16, recante disposizioni urgenti per la conferma e la proroga dell'esercizio delle funzioni di giudice di pace, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+
+2\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 1 aprile 1999
+
+SCALFARO
+
+D'Alema, Presidente del Consiglio dei Ministri
+
+Diliberto, Ministro di grazia e giustizia
+
+Visto, il Guardasigilli: Diliberto
+
+\_\_\_\_\_\_\_\_\_\_\_\_
+
+> Avvertenza:
+
+> Il decreto-legge 1 febbraio 1999, n. 16, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 25 del 1 febbraio 1999.
+
+> A norma dell'art. 15, comma 5, della legge 23 agosto 1988, n. 400 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione.
+
+> Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 69.
+
+## Allegati
+
+## Allegato
+
+Allegato
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE
+
+AL DECRETO-LEGGE 1 FEBBRAIO 1999, N. 16.
+
+All'articolo 1:
+
+al comma 1, dopo la parola: "Conferma" sono inserite le seguenti:
+
+". Ulteriore nomina";
+
+al comma 2, e' aggiunta la seguente lettera:
+
+"b -bis) al comma 2, le parole: ''Fermo restando il limite di eta' di cui al comma 1,'' sono soppresse".
+
+All'articolo 2, al comma 1, dopo le parole: "3 dicembre 1998," sono inserite le seguenti: "recante disposizioni per la copertura di posti di giudice di pace,".
+
+Il titolo del decreto-legge e' sostituito dal seguente: "Disposizioni urgenti per la modifica della legge 21 novembre 1991, n. 374, in tema di conferma dell'esercizio delle funzioni di giudice di pace, nonche' proroga dell'esercizio delle funzioni medesime".

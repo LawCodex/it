@@ -1,0 +1,58 @@
+---
+title: "LEGGE 20 dicembre 1996, n. 640 — Conversione in legge, con modificazioni, del decreto-legge 23 ottobre 1996, n. 546, recante interventi urgenti di carattere previdenziale per il personale del Gruppo Alitalia."
+identifier: "urn:nir:stato:legge:1996-12-20;640"
+eli: "https://www.normattiva.it/eli/id/1996/12/21/096G0673/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1996-12-20
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 299 del 1996-12-21"
+codice_redazionale: "096G0673"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;640"
+retrieved: 2026-10-11
+---
+
+# LEGGE 20 dicembre 1996, n. 640
+
+**Conversione in legge, con modificazioni, del decreto-legge 23 ottobre 1996, n. 546, recante interventi urgenti di carattere previdenziale per il personale del Gruppo Alitalia.**
+
+*Entrata in vigore della legge: 22/12/1996*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+1\. Il decreto-legge 23 ottobre 1996, n. 546, recante interventi urgenti di carattere previdenziale per il personale del Gruppo Alitalia, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+
+2\. Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei decreti-legge 30 ottobre 1995, n. 450, 29 dicembre 1995, n. 555, 26 febbraio 1996, n. 85, 26 aprile 1996, n. 220, 29 giugno 1996, n. 340, e 30 agosto 1996, n. 448.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 20 dicembre 1996
+
+SCALFARO
+
+PRODI, Presidente del Consiglio dei Ministri
+
+TREU, Ministro del lavoro e della previdenza sociale
+
+BURLANDO, Ministro dei trasporti e della navigazione
+
+Visto, il Guardasigilli: FLICK
+
+## Allegati
+
+## Allegato
+
+ALLEGATO
+
+All'articolo 1, dopo il comma 6, e' aggiunto il seguente:
+
+"6-bis. Entro quattro mesi dalla data di entrata in vigore della legge di conversione del presente decreto il Governo riferisce al Parlamento in merito alle modalita' con cui il Gruppo Alitalia ha dato seguito ai prepensionamenti, agli effetti sulle imprese del Gruppo medesimo in termini di nuova organizzazione e di efficienza nonche' al rispetto delle finalita' del presente decreto".

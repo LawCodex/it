@@ -1,0 +1,73 @@
+---
+title: "LEGGE 21 dicembre 1984, n. 867 — Misure urgenti per assicurare la continuita' della riscossione delle imposte dirette."
+identifier: "urn:nir:stato:legge:1984-12-21;867"
+eli: "https://www.normattiva.it/eli/id/1984/12/24/084U0867/CONSOLIDATED/19880121"
+type: act
+jurisdiction: it
+language: it
+date: 1984-12-21
+last_amended: 1988-01-21
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 352 del 1984-12-24"
+codice_redazionale: "084U0867"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-21;867"
+retrieved: 2026-10-11
+---
+
+# LEGGE 21 dicembre 1984, n. 867
+
+**Misure urgenti per assicurare la continuita' della riscossione delle imposte dirette.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA.
+
+la seguente legge:
+
+## Art. 1
+
+Al fine di assicurare la continuita' della riscossione delle imposte dirette:
+
+a) le esattorie e le ricevitorie per le quali il titolare ha notificato atto di rinuncia entro il 20 novembre 1984 ai sensi del decreto-legge 15 novembre 1984, n. 771, e che non sono conferite d'ufficio, sono conferite alla Societa' esattorie vacanti di cui alla legge 4 agosto 1977, n. 524. Alla stessa societa' sono conferite le esattorie comunque vacanti alla predetta data o che si rendono vacanti fino al 31 dicembre 1985 e per le quali non e' effettuato il collocamento nei modi previsti dal decreto del Presidente della Repubblica 15 maggio 1963, n. 858;
+
+b) le gestioni delle esattorie comunali e consorziali e delle ricevitorie provinciali delle imposte dirette nonche' delle tesorerie comunali e provinciali i cui titolari non hanno notificato atto di rinuncia alla gestione, continuano ad effettuare il servizio della riscossione, alle medesime condizioni previste dal decreto-legge 18 ottobre 1983, n. 568, convertito in legge, con modificazioni, dalla legge 9 dicembre 1983, n. 681, fino al 31 dicembre 1985. Fino alla stessa data continuano ad avere efficacia le patenti di nomina degli esattori, collettori, ufficiali esattoriali e messi notificatori e si applicano le disposizioni del predetto decreto-legge n. 568, ivi comprese quelle relative alla convenzione richiamata dall'articolo 3 dello stesso decreto, intendendosi posticipato annualmente il riferimento agli anni 1983 e 1984; tuttavia ai fini del calcolo della indennita' prevista dall'articolo 3 del decreto del Presidente della Repubblica 23 dicembre 1977, n. 954, la maggiore somma di cui alla lettera a) del primo comma del medesimo articolo deve intendersi riferita al costo del personale effettivamente in servizio al 30 settembre 1983. ((1))
+
+Il limite di lire cinquanta milioni previsto nel secondo comma dell'articolo 133 del decreto del Presidente della Repubblica 15 maggio 1963, n. 858, e' elevato a lire duecentocinquanta milioni.
+
+Fino al 31 dicembre 1985 restano salve le disposizioni emanate dalla regione siciliana con legge regionale 21 agosto 1984, n. 55, avente ad oggetto: "Nuove norme per la gestione del servizio di riscossione delle imposte dirette in Sicilia".
+
+Le disposizioni del primo comma, lettera b), non si applicano qualora risulti che a carico dell'esattore o del ricevitore provinciale o degli amministratori delle societa' che gestiscono esattorie o ricevitorie sussistono procedimenti o provvedimenti di cui alla legge 31 maggio 1965, n. 575, e successive modificazioni, o procedimenti penali per i delitti previsti dagli articoli 416 e 416-bis del codice penale contestati con ordine o mandato di comparizione o di cattura. Le competenti prefetture devono comunicare al Ministero delle finanze entro il 31 dicembre 1984 la sussistenza o meno dei suddetti procedimenti o provvedimenti; l'autorita' giudiziaria che ha emesso ordine o mandato di comparizione o di cattura per i predetti delitti e' tenuta a dare analoga comunicazione alla prefettura e al Ministero delle finanze. Alle gestioni esattoriali cessate dal servizio si applicano le vigenti disposizioni per il collocamento delle esattorie; in tal caso l'aggio non puo' essere superiore a quello spettante al precedente titolare.
+
+A decorrere dal 1 gennaio 1985 e fino al 31 dicembre 1985 le disposizioni dell'articolo 3 del decreto del Presidente della Repubblica 23 dicembre 1977, n. 954, continuano ad applicarsi, anche in deroga al disposto dell'ultimo comma, lettera c), dello stesso articolo, alle gestioni esattoriali che gia' ne avevano diritto, conferite in societa' a capitale interamente pubblico la cui costituzione e' prevista per legge.
+
+---------------
+
+AGGIORNAMENTO (1)
+
+La Corte Costituzionale, con sentenza 19 - 23 aprile 1985, n. 114 (in G.U. 1a s.s. 30/04/1985 n. 101) ha dichiarato l'illegittimita' costituzionale "dell'art. 1, n. 1, del d.l. 18 ottobre 1983, n. 568, convertito in legge 9 dicembre 1983, n. 681, nonche' (in applicazione dell'art. 27 della legge 1 1 marzo 1953, n. 87) dell'art. 1, lett. c, della legge 21 dicembre 1984, n. 867, nella parte in cui prorogano la gestione delle esattorie comunali relativamente alla Regione Trentino-Alto Adige."
+
+Successivamente la Corte Costituzionale, con ordinanza 26 - 28 giugno 1985, n. 192 (in G.U. 1a s.s. 10/07/1985 n. 161) ha disposto che "nella sentenza n. 114 del 1985 siano corretti i seguenti errori materiali nel modo che segue: [...] nel dispositivo, al rigo 4, deve leggersi "lett. b" in luogo di "lett. c"."
+
+## Art. 2
+
+Conservano efficacia gli atti e i provvedimenti adottati in applicazione del decreto-legge 15 novembre 1984, n. 771, e restano salvi i rapporti giuridici sorti sulla base delle relative disposizioni. ((2))
+
+La presente legge entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 21 dicembre 1984
+
+PERTINI
+
+CRAXI - VISENTINI - GORIA - ROMITA
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+---------------
+
+AGGIORNAMENTO (2)
+
+La Corte Costituzionale, con sentenza 13 - 19 gennaio 1988, n. 1 (in G.U. 1a s.s. 20/01/1988, n. 3), ha dichiarato "l'illegittimita' costituzionale dell'art. 2, primo comma, della legge 21 dicembre 1984, n. 867 ("Misure urgenti per assicurare la continuita' della riscossione delle imposte dirette")."

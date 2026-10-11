@@ -1,0 +1,78 @@
+---
+title: "LEGGE 24 gennaio 1986, n. 31 — Modifiche alla legge 31 marzo 1980, n. 126, e alla legge 13 agosto 1980, n. 463, recanti norme di indirizzo alle regioni in materia di provvidenze a favore degli hanseniani e loro familiari."
+identifier: "urn:nir:stato:legge:1986-01-24;31"
+eli: "https://www.normattiva.it/eli/id/1986/02/21/086U0031/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1986-01-24
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 43 del 1986-02-21"
+codice_redazionale: "086U0031"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-24;31"
+retrieved: 2026-10-11
+---
+
+# LEGGE 24 gennaio 1986, n. 31
+
+**Modifiche alla legge 31 marzo 1980, n. 126, e alla legge 13 agosto 1980, n. 463, recanti norme di indirizzo alle regioni in materia di provvidenze a favore degli hanseniani e loro familiari.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+L'articolo 1 della legge 31 marzo 1980, n. 126, e' sostituito dal seguente:
+
+"A decorrere dal 1 gennaio 1985 i cittadini italiani affetti dal morbo di Hansen, riconosciuti tali da una pubblica autorita' sanitaria individuata dalle regioni, hanno diritto al sussidio nella misura di lire venticinquemila giornaliere e nella misura di lire ventisettemila se assistiti a domicilio. Tali sussidi sono esenti dalla imposta sul reddito delle persone fisiche e dall'imposta locale sui redditi ai sensi del terzo comma dell'articolo 34 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601.
+
+Il sussidio indicato al primo comma e' integrato di lire cinquemila per ogni familiare a carico e per i figli non a carico fino al compimento del trentunesimo anno di eta' e a condizione che siano conviventi e non siano titolari di reddito proprio.
+
+L'integrazione di cui al precedente comma in favore dei familiari a carico viene corrisposta, a domanda degli interessati, da presentarsi al comune di residenza, fino a 18 mesi dopo la morte dell'hanseniano.
+
+In presenza di eventuali altri redditi, i cittadini di cui al primo comma hanno diritto al sussidio nella misura concorrente alla formazione di un reddito annuo netto di lire sedici milioni. Ai fini della determinazione di tale reddito non si tiene conto della integrazione di cui al secondo comma.
+
+Per la determinazione della qualifica di familiare a carico valgono le disposizioni previste dal testo unico delle norme concernenti la concessione degli assegni familiari, approvato con decreto del Presidente della Repubblica 30 maggio 1955, n. 797, e successive modifiche ed integrazioni.
+
+E' abrogato il secondo comma dell'articolo 1 della legge 6 luglio 1962, n. 921, cosi' come modificato dall'articolo 2 della legge 3 giugno 1971 n. 404.
+
+L'erogazione del sussidio di cui al primo comma e temporaneamente sospesa qualora l'hanseniano non si sottoponga almeno ogni trimestre agli accertamenti ed ai trattamenti profilattici e terapeutici prescritti dall'autorita' sanitaria competente presso presidi sanitari individuati dalla regione secondo il disposto del successivo articolo 2.
+
+Gli accertamenti diagnostici ed i farmaci necessari alla profilassi ed alla terapia del morbo di Hansen sono esenti da qualsiasi compartecipazione a carico degli assistiti. Le regioni, secondo l'atto di indirizzo e di coordinamento di cui al successivo articolo 2, provvedono all'acquisto diretto, anche all'estero, dei farmaci specifici non ancora compresi nel prontuario terapeutico.
+
+Qualora gli accertamenti ed i trattamenti profilattici e terapeutici prescritti si svolgano presso presidi sanitari ubicati in regione diversa da quella di residenza degli hanseniani e dei loro familiari, le spese di viaggio sono rimborsate dal comune di residenza degli assistiti, previa presentazione dei documenti comprovanti le spese sostenute. I comuni iscrivono la spesa nel capitolo relativo alle "provvidenze a favore degli hanseniani" nella parte delle entrate e nella parte delle uscite del proprio bilancio di previsione.
+
+Gli atti pubblici e le certificazioni sanitarie rilasciate ai fini del collocamento o di altri usi consentiti dalla legge, riguardanti hanseniani guariti o familiari di hanseniani, non devono contenere riferimenti al morbo di Hansen. Le schede sanitarie e i dati personali riguardanti gli hanseniani ed i loro familiari rientrano nelle materie tutelate dal segreto professionale a norma delle leggi vigenti".
+
+> AVVERTENZA
+
+> La legge qui pubblicata non reca le note contenenti le norme alle quali le sue disposizioni fanno rinvio, previste dall'art. 8 della legge 11 dicembre 1984, n. 839, in quanto le stesse non sono pervenute in tempo utile.
+
+## Art. 2
+
+Entro un anno dalla data di entrata in vigore della presente legge, e' emanato ai sensi dell'articolo 5 della legge 23 dicembre 1978, n. 833, un atto di indirizzo e coordinamento, nel quale, sulla base degli indirizzi dell'Organizzazione mondiale della sanita', sono indicati i protocolli diagnostici, terapeutici e per la sorveglianza attiva del morbo di Hansen.
+
+## Art. 3
+
+L'articolo 1 della legge 13 agosto 1980, n. 463, e' abrogato.
+
+## Art. 4
+
+Al maggior onere recato dalla presente legge nell'anno 1985 ed esercizi successivi, valutato in lire 1.300 milioni annui, si provvede a carico dello stanziamento del Fondo sanitario nazionale di cui al capitolo 5941 dello stato di previsione del Ministero del tesoro per gli anni finanziari medesimi.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 24 gennaio 1986
+
+COSSIGA
+
+CRAXI, Presidente del Consiglio dei Ministri
+
+DEGAN, Ministro della sanita'
+
+Visto, il Guardasigilli: MARTINAZZOLI

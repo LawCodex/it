@@ -1,0 +1,50 @@
+---
+title: "LEGGE 04 febbraio 1985, n. 13 — Conferimento dei posti disponibili in organico ai candidati risultati idonei nei concorsi del Ministero degli affari esteri a sessantaquattro posti di coadiutore in prova (decreto ministeriale n. 3860 del 3 dicembre 1979, modificato con decreto ministeriale n. 1031 del 1 aprile 1980) e a sessantadue posti di coadiutore in prova (decreto ministeriale n. 4860 del 5 novembre 1982)."
+identifier: "urn:nir:stato:legge:1985-02-04;13"
+eli: "https://www.normattiva.it/eli/id/1985/02/09/085U0013/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1985-02-04
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 35 del 1985-02-09"
+codice_redazionale: "085U0013"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-04;13"
+retrieved: 2026-10-11
+---
+
+# LEGGE 04 febbraio 1985, n. 13
+
+**Conferimento dei posti disponibili in organico ai candidati risultati idonei nei concorsi del Ministero degli affari esteri a sessantaquattro posti di coadiutore in prova (decreto ministeriale n. 3860 del 3 dicembre 1979, modificato con decreto ministeriale n. 1031 del 1 aprile 1980) e a sessantadue posti di coadiutore in prova (decreto ministeriale n. 4860 del 5 novembre 1982).**
+
+La Camera dei deputati ed il Senato della Repubblica hanno
+
+approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Articolo unico
+
+Le graduatorie degli idonei nel concorso a sessantaquattro posti di
+
+coadiutore in prova bandito dal Ministero degli affari esteri con decreto ministeriale n. 3860 del 3 dicembre 1979 (pubblicato nella Gazzetta Ufficiale n. 25 del 26 gennaio 1980), modificato con decreto ministeriale n. 1031 del 1 aprile 1980 (pubblicato nella Gazzetta Ufficiale n. 157 del 10 giugno 1980), e nel concorso a sessantadue posti di coadiutore in prova bandito dal Ministero degli affari esteri con decreto ministeriale n. 4860 del 5 novembre 1982 (pubblicato nella Gazzetta Ufficiale n. 116 del 29 aprile 1983), possono essere utilizzate per coprire, secondo l'ordine delle graduatorie stesse, i posti che risulteranno disponibili, alla data di entrata in vigore della presente legge, nella dotazione organica prevista per la carriera esecutiva del predetto Dicastero dall'ordinamento preesistente alla data di entrata in vigore della legge 11 luglio 1980, n. 312.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta
+
+nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 4 febbraio 1985
+
+PERTINI
+
+CRAXI, Presidente del Consiglio dei
+
+Ministri
+
+ANDREOTTI, Ministro degli affari esteri
+
+Visto, il Guardasigilli: MARTINAZZOLI

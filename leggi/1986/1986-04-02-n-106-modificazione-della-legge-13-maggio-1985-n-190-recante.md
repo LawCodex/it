@@ -1,0 +1,58 @@
+---
+title: "LEGGE 02 aprile 1986, n. 106 — Modificazione della legge 13 maggio 1985, n. 190, recante riconoscimento giuridico dei quadri intermedi."
+identifier: "urn:nir:stato:legge:1986-04-02;106"
+eli: "https://www.normattiva.it/eli/id/1986/04/15/086U0106/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1986-04-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 87 del 1986-04-15"
+codice_redazionale: "086U0106"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-04-02;106"
+retrieved: 2026-10-11
+---
+
+# LEGGE 02 aprile 1986, n. 106
+
+**Modificazione della legge 13 maggio 1985, n. 190, recante riconoscimento giuridico dei quadri intermedi.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+1\. L'articolo 6 della legge 13 maggio 1985, n. 190, e' sostituito dal seguente:
+
+"In deroga a quanto previsto dal primo comma dell'articolo 2103 del codice civile, come modificato dall'articolo 13 della legge 20 maggio 1970, n. 300, l'assegnazione del lavoratore alle mansioni superiori di cui all'articolo 2 della presente legge ovvero a mansioni dirigenziali, che non sia avvenuta in sostituzione di lavoratori assenti con diritto alla conservazione del posto, diviene definitiva quando si sia protratta per il periodo di tre mesi o per quello superiore fissato dai contratti collettivi".
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 2 aprile 1986
+
+COSSIGA
+
+CRAXI, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+> NOTE
+
+> Note al nuovo testo dell'art. 6 della legge n. 190/1985:
+
+> \- Il testo vigente dell'art. 2103, primo comma, del codice civile e il seguente:
+
+> "Art. 2103. (Mansioni del lavoratore). - Il prestatore di lavoro deve essere adibito alle mansioni per le quali e' stato assunto o a quelle corrispondenti alla categoria superiore che abbia successivamente acquisito ovvero a mansioni equivalenti alle ultime effettivamente svolte, senza alcuna diminuzione della retribuzione. Nel caso di assegnazione a mansioni superiori il prestatore ha diritto al trattamento corrispondente all'attivita' svolta, e l'assegnazione stessa diviene definitiva, ove la medesima non abbia avuto luogo per sostituzione di lavoratore assente con diritto alla conservazione del posto, dopo un periodo fissato dai contratti collettivi, e comunque non superiore a tre mesi. Egli non puo' essere trasferito da una unita' produttiva ad un'altra se non per comprovate ragioni tecniche, organizzative e produttive".
+
+> \- Il testo dell'art. 2 della legge n. 190/1985 e' il seguente:
+
+> "Art. 2. - 1. La categoria dei quadri e' costituita dai prestatori di lavoro subordinato che, pur non appartenendo alla categoria dei dirigenti, svolgano funzioni con carattere continuativo di rilevante importanza ai fini dello sviluppo e dell'attuazione degli obiettivi dell'impresa.
+
+> 2\. I requisiti di appartenenza alla categoria dei quadri sono stabiliti dalla contrattazione collettiva nazionale o aziendale in relazione a ciascun ramo di produzione e alla particolare struttura organizzativa dell'impresa.
+
+> 3\. Salvo diversa espressa disposizione, ai lavoratori di cui al comma 1 si applicano le norme riguardanti la categoria degli impiegati".

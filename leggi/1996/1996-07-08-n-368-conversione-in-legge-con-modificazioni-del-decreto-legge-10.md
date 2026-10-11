@@ -1,0 +1,80 @@
+---
+title: "LEGGE 08 luglio 1996, n. 368 — Conversione in legge, con modificazioni, del decreto-legge 10 maggio 1996, n. 257, recante disposizioni urgenti sulle modalita' di espressione del voto per le elezioni della Camera dei deputati e del Senato della Repubblica."
+identifier: "urn:nir:stato:legge:1996-07-08;368"
+eli: "https://www.normattiva.it/eli/id/1996/07/12/096G0380/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1996-07-08
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 162 del 1996-07-12"
+codice_redazionale: "096G0380"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-07-08;368"
+retrieved: 2026-10-11
+---
+
+# LEGGE 08 luglio 1996, n. 368
+
+**Conversione in legge, con modificazioni, del decreto-legge 10 maggio 1996, n. 257, recante disposizioni urgenti sulle modalita' di espressione del voto per le elezioni della Camera dei deputati e del Senato della Repubblica.**
+
+*Entrata in vigore della legge: 13-7-1996*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+1\. Il decreto-legge 10 maggio 1996, n. 257, recante disposizioni urgenti sulle modalita' di espressione del voto per le elezioni della Camera dei deputati e del Senato della Repubblica, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+
+2\. Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del decreto-legge 12 marzo 1996, n. 121.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 8 luglio 1996
+
+SCALFARO
+
+PRODI, Presidente del Consiglio dei Ministri
+
+NAPOLITANO, Ministro dell'interno
+
+Visto, il Guardasigilli: FLICK
+
+------------
+
+> AVVERTENZA:
+
+> Il decreto-legge 10 maggio 1996, n. 257, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 110 del 13 maggio 1996.
+
+> A norma 15, comma 5, della legge 23 agosto 1988, n. 400 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione.
+
+> Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 31.
+
+## Allegati
+
+## Allegato
+
+ALLEGATO
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE
+
+AL DECRETO-LEGGE 10 MAGGIO 1996, N. 257
+
+All'articolo 1, dopo il comma 2 e' aggiunto il seguente:
+
+"2-bis. Dopo il comma 4 dell'articolo 11 del testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, approvato con decreto legislativo 20 dicembre 1993, n. 533, e' aggiunto il seguente:
+
+'4-bis. La scheda elettorale per l'elezione uninominale nel collegio della Valle d'Aosta deve recare doppie diciture in lingua italiana ed in lingua francese'".
+
+All'articolo 3, dopo il comma 3 e' aggiunto il seguente:
+
+"3-bis. La tabella G allegata alla legge 13 marzo 1980, n. 70, e' sostituita dalla tabella C-bis allegata al presente decreto".
+
+Dopo la tabella C allegata al decreto-legge e' aggiunta la seguente:
+
+Parte di provvedimento in formato grafico
