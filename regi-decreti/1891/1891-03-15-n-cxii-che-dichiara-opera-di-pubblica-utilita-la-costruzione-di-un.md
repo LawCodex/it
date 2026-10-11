@@ -1,0 +1,60 @@
+---
+title: "REGIO DECRETO 15 marzo 1891, n. CXII — Che dichiara opera di pubblica utilita' la costruzione di un edifizio ad uso di uffici daziari governativi e scuole elementari nel comune di Coriano, in provincia di Forli'. (9100112R)"
+identifier: "urn:nir:stato:regio.decreto:1891-03-15;112"
+eli: "https://www.normattiva.it/eli/id/1891/04/08/9100112R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1891-03-15
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 82 del 1891-04-08"
+codice_redazionale: "9100112R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-03-15;112"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 15 marzo 1891, n. CXII
+
+**Che dichiara opera di pubblica utilita' la costruzione di un edifizio ad uso di uffici daziari governativi e scuole elementari nel comune di Coriano, in provincia di Forli'. (9100112R)**
+
+*Entrata in vigore del provvedimento: 23/04/1891*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la domanda del comune di Coriano in provincia di Forli', diretta ad ottenere la dichiarazione di pubblica utilita' per la costruzione in quell'abitato di un nuovo palazzo per gli ufficii daziari e delle scuole elementari del capoluogo, giusta il piano particolareggiato 10 agosto 1890 del perito comunale Ferri;
+
+Ritenuto che vennero osservate le prescrizioni di legge, senza che sieno insorte opposizioni, e che l'opera progettata e' di evidente pubblica utilita' per lo scopo cui e' diretta;
+
+Vista la legge 25 giugno 1865, n. 2359;
+
+Sentito il consiglio di Stato;
+
+Sulla proposta del Nostro ministro segretario di Stato pei lavori pubblici;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+E' dichiarata opera di pubblica utilita' la costruzione di un edifizio ad uso di uffici daziari governativi e scuole elementari nel comune di Coriano in provincia di Forli', da eseguirsi in conformita' del progetto particolareggiato 10 agosto 1890 del perito comunale A.
+
+Ferri e relativa planimetria pari data, vista d'ordine Nostro dal predetto ministro.
+
+E' assegnato il termine di tre anni a decorrere da oggi, per compiere le espropriazioni ed opere occorrenti.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 15 marzo 1891.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 23 marzo 1891.
+
+Reg. 178. Atti del Governo a f. 128. Mandillo.
+
+Luogo del Sigillo. V. Il Guardasigilli L. Ferraris.
+
+A. Branca.

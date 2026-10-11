@@ -1,0 +1,60 @@
+---
+title: "REGIO DECRETO 27 aprile 1890, n. MMMDCCLV — Che erige in ente morale l'asilo infantile Ciaperoni nella parrocchia dei SS. Egidio e Savino in Monte S. Savino (Arezzo) e l'autorizza ad accettare i beni disposti dal testatore. (9003755R)"
+identifier: "urn:nir:stato:regio.decreto:1890-04-27;3755"
+eli: "https://www.normattiva.it/eli/id/1890/05/23/9003755R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1890-04-27
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 121 del 1890-05-23"
+codice_redazionale: "9003755R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-04-27;3755"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 27 aprile 1890, n. MMMDCCLV
+
+**Che erige in ente morale l'asilo infantile Ciaperoni nella parrocchia dei SS. Egidio e Savino in Monte S. Savino (Arezzo) e l'autorizza ad accettare i beni disposti dal testatore. (9003755R)**
+
+*Entrata in vigore del provvedimento: 07/06/1890*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la istanza presentata dall' arciprete della chiesa dei SS.
+
+Egidio e Savino in Monte San Savino (Arezzo), nella sua qualita' di erede universale del defunto Giovanni Ciaperoni, per conseguire la erezione in ente morale dell'asilo infantile da fondarsi nella parrocchia suddetta, con i beni a tale scopo disposti dal predetto Ciaperoni col testamento pubblico del 12 marzo 1889, nei rogiti del notaio Antonio di Alessandro Brandini;
+
+Visto il testamento stesso e gli altri atti esibiti, dai quali risulta che l'eredita' ammonta ad oltre 200,000 lire:
+
+Vista la deliberazione 30 dicembre 1889 della giunta provinciale amministrativa di Arezzo;
+
+Visto l'art. 25 della legge 3 agosto 1862, n. 753;
+
+Udito il parere del consiglio di Stato;
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+L'asilo infantile Ciaperoni nella parrocchia dei SS. Egidio e Savino di Monte San Savino, e' eretto in ente morale, ed autorizzato ad accettare i beni provenienti dalla eredita' del fu Giovanni Ciaperoni, che costituiscono l'attuale sua dotazione patrimoniale.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo di farlo osservare.
+
+Dato a Roma, addi' 27 aprile 1890.
+
+UMBERTO.
+
+Registrato alla Corte dei conti addi' 10 maggio 1890.
+
+Reg. 173. Atti del Governo a f. 153. Mandillo.
+
+Luogo del Sigillo. V. Il Guardasigilli G. ZANARDELLI.
+
+F. CRISPI.

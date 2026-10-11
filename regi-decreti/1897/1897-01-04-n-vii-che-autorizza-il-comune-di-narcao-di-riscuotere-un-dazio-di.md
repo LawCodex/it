@@ -1,0 +1,82 @@
+---
+title: "REGIO DECRETO 04 gennaio 1897, n. VII — Che autorizza il comune di Narcao di riscuotere un dazio di consumo sugli oggetti di cristallo, di vetro e di terra cotta. (9700007R)"
+identifier: "urn:nir:stato:regio.decreto:1897-01-04;7"
+eli: "https://www.normattiva.it/eli/id/1897/01/25/9700007R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1897-01-04
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 19 del 1897-01-25"
+codice_redazionale: "9700007R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-01-04;7"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 04 gennaio 1897, n. VII
+
+**Che autorizza il comune di Narcao di riscuotere un dazio di consumo sugli oggetti di cristallo, di vetro e di terra cotta. (9700007R)**
+
+*Entrata in vigore del provvedimento: 09/02/1897*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per le finanze;
+
+Vista la deliberazione 15 marzo 1896, con la quale il consiglio comunale di Narcao, ha stabilito d'imporre un dazio di consumo su alcuni generi, non compresi nelle ordinarie categorie, di cui agli articoli 1° della legge 3 luglio 1864, n. 1827, e 6 del decreto legislativo 28 giugno 1866, n. 3018;
+
+Visto l'art. 11 dell'allegato L alla legge 11 agosto 1870, n. 5784;
+
+Sentita la camera di commercio ed arti di Cagliari;
+
+Udito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+Il comune di Narcao, in provincia di Cagliari, e' autorizzato a riscuotere un dazio di consumo sugli oggetti di cristallo, di vetro e di terra cotta, in conformita' dell'annessa tariffa, vista d'ordine Nostro, dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 gennaio 1897.
+
+UMBERTO
+
+Registrato alla Corte dei conti, addi' 20 gennaio 1897.
+
+Reg. 209. Atti del Governo a f. 50. G. Cappiello.
+
+Luogo del Sigillo. V. Il Guardasigilli G. Costa.
+
+Branca.
+
+## Allegati
+
+## Tariffa
+
+TARIFFA.
+
+1\. Oggetti di cristallo e di vetro di qualunque
+
+forma e capacita' al Quintale . . . . . . . . . . . . L. 2,50
+
+2\. Oggetti di terra cotta fina (piatti,
+
+scodelle, ecc.) . . . . . . . . . . . . . . . . . . . » 2,00
+
+3\. Oggetti di terra cotta ordinaria (pentole,
+
+tegami, ecc.) . . . . . . . . . . . . . . . . . . . . » 1,50
+
+Roma, addi' 4 gennaio 1897.
+
+Visto d'ordine di S. M.
+
+Il ministro segretario di Stato per le finanze
+
+Branca.

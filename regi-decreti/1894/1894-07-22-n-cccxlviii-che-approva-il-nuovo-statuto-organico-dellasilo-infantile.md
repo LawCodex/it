@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 22 luglio 1894, n. CCCXLVIII — Che approva il nuovo statuto organico dell'asilo infantile di Oleggio. (9400348R)"
+identifier: "urn:nir:stato:regio.decreto:1894-07-22;348"
+eli: "https://www.normattiva.it/eli/id/1894/08/18/9400348R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1894-07-22
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 194 del 1894-08-18"
+codice_redazionale: "9400348R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-07-22;348"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 22 luglio 1894, n. CCCXLVIII
+
+**Che approva il nuovo statuto organico dell'asilo infantile di Oleggio. (9400348R)**
+
+*Entrata in vigore del provvedimento: 02/09/1894*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il nuovo statuto organico deliberato dall'amministrazione dell'asilo infantile di Oleggio (Novara) e dalla stessa presentato per la nostra approvazione;
+
+Viste le relative deliberazioni dell'amministrazione suddetta e della giunta provinciale amministrativa;
+
+Vista la legge 17 luglio 1890, n. 6972;
+
+Udito il parere del consiglio di Stato;
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+E' approvato il nuovo statuto organico dell'asilo infantile di Oleggio, in data 3 aprile 1894, composto di 24 articoli e di una disposizione transitoria con le seguenti modificazioni.
+
+All'articolo 5, lettera a), alle parole «che sono di loro competenza» sono sostituite quest'altre «non che per quella dei membri stessi, la cui elezione e' deferita dall'art. 8 all'assemblea.
+
+All'articolo 9 secondo alinea, alle parole «nei primi cinque anni» e «nei primi quattro anni sono rispettivamente sostituite le seguenti: «nei primi quattro anni» e «nei primi tre anni. L'alinea stesso e' completato con l'inciso: «in seguito per anzianita'».
+
+Detto statuto sara' munito di visto e sottoscritto d'ordine nostro dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 luglio 1894.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 8 agosto 1894.
+
+Reg. 195. Atti del Governo a f. 368. G. Cappiello.
+
+Luogo del Sigillo. V. Il Guardasigilli V. CALENDA.
+
+F. Crispi.

@@ -1,0 +1,148 @@
+---
+title: "REGIO DECRETO 12 gennaio 1911, n. 42 — Che da' piena ed intera esecuzione al trattato generale di arbitrato fra l'Italia e la Repubblica di Costarica."
+identifier: "urn:nir:stato:regio.decreto:1911-01-12;42"
+eli: "https://www.normattiva.it/eli/id/1911/02/09/011U0042/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1911-01-12
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 33 del 1911-02-09"
+codice_redazionale: "011U0042"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-01-12;42"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 12 gennaio 1911, n. 42
+
+**Che da' piena ed intera esecuzione al trattato generale di arbitrato fra l'Italia e la Repubblica di Costarica.**
+
+*Entrata in vigore del provvedimento: 24/02/1911*
+
+VITTORIO EMANUELE III
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto l'art. 5 dello Statuto fondamentale del Regno;
+
+Udito il Consiglio dei ministri;
+
+Sulla proposta del Nostro ministro, segretario di Stato per gli affari esteri;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+Piena ed intera esecuzione e' data al trattato generale di arbitrato fra l'Italia e la Repubblica di Costarica firmato a Roma l'8 gennaio 1910, le cui ratifiche furono qui scambiate il 3 novembre 1910.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 12 gennaio 1911.
+
+VITTORIO EMANUELE.
+
+Luzzatti - Di San Giuliano.
+
+Visto, il guardasigilli: Fani.
+
+## Allegati
+
+TRATTATO GENERALE DI ARBITRATO fra l'Italia e la Repubblica di Costarica.
+
+Sua Maesta' il Re d'Italia e il Presidente della Repubblica di Costarica, mossi dal desiderio di stringere sempre piu' i vincoli di amicizia che esistono tra i due paesi, ispirandosi ai principi della Convenzione per il regolamento pacifico dei conflitti internazionali, firmata all'Aja il 29 luglio l899, e desiderando di consacrare conformemente allo spirito dell'art. 19 della detta Convenzione, mediante un accordo generale, il principio dell'arbitrato obbligatorio nei loro rapporti reciproci, hanno stabilito di conchiudere una Convenzione a questo fine, ed hanno percio' nominati loro plenipotenziari, e cioe':
+
+Sua Maesta' il Re d'Italia:
+
+Sua Eccellenza il conte Francesco Guicciardini, ministro degli affari esteri,
+
+Il presidente della Repubblica di Costarica:
+
+Il sig. Raffaele Montealegre, inviato straordinario e ministro plenipotenziario presso Sua Maesta' il Re d'Italia;
+
+i quali, dopo essersi comunicati i loro pieni poteri e averli trovati in buona e debita forma, hanno convenuto quanto segue:
+
+## Art. 1
+
+Le alte Parti contraenti si obbligano di sottoporre a giudizio arbitrale tutte le controversie che potessero sorgere tra di loro e che non fosse stato possibile risolvere per le vie diplomatiche.
+
+Ciascuno dei due Stati ha, peraltro, la facolta' di non sottoporre all'arbitrato quelle controversie le quali, secondo il suo apprezzamento, mettono in questione l'indipendenza o l'onore nazionale.
+
+Nelle controversie che fossero di competenza dell'autorita' giudiziaria secondo la legge territoriale, le parti contraenti avranno il diritto di non sottoporre la lite al giudizio arbitrale fino a che la giurisdizione nazionale non si sia pronunciata definitivamente.
+
+## Art. 2
+
+Saranno in ogni caso sottoposte al giudizio arbitrale, senza la riserva di cui all'alinea secondo dell'art. 1°, le controversie relative alle seguenti questioni:
+
+1\. Reclami pecuniari per perdite e danni sofferti da uno degli Stati contraenti o dai suoi nazionali, per effetto di atti illeciti od omissioni dell'altro Stato contraente, delle sue autorita' pubbliche e dei loro funzionari.
+
+2\. Interpretazione e applicazione delle stipulazioni concernenti materie d'indole esclusivamente giuridica, amministrativa, economica, di commercio e di navigazione.
+
+3\. Diniego di giustizia.
+
+La questione, se una data controversia costituisca o no una di quelle espressamente prevedute nei numeri 1, 2 e 3, sara' del pari sottoposta all'arbitrato.
+
+## Art. 3
+
+In ciascun caso particolare, le alte parti contraenti firmeranno un compromesso speciale che determinera' l'oggetto della contesa, e, se ne e' il caso, la sede del tribunale, la lingua di cui esso si servira' e quelle delle quali sara' consentito l'uso davanti al medesimo, la somma che ciascuna parte dovra' depositare come anticipazione di spese, la forma e i termini per la costituzione del tribunale e per lo scambio delle memorie e degli atti, e, in generale, tutte le condizioni fra di loro concordate.
+
+In mancanza di compromesso, gli arbitri, nominati secondo le regole di cui agli articoli 4 e 5 del presente trattato, giudicheranno in base alle pretese che saranno loro sottoposte.
+
+Per tutto il rimanente e in mancanza d'accordo speciale, si serveranno le disposizioni stabilite dalla Convenzione per il regolamento pacifico dei conflitti internazionali firmata all'Aja il 29 luglio 1899, con le modificazioni e le aggiunte contenute nei seguenti articoli.
+
+## Art. 4
+
+Salvo stipulazione in contrario, il tribunale sara' composto di tre membri. Le due parti ne nomineranno uno per ciascuna, e si accorderanno per la scelta del terzo arbitro. Se l'accordo su questo punto non e' possibile, le Parti si rivolgeranno ad una terza potenza perche' ne faccia la designazione, e, in mancanza d'accordo anche su di cio', richiesta a questo scopo sara' fatta a Sua Maesta' la Regina dei Paesi Bassi o ai suoi successori.
+
+Il terzo arbitro sara' scelto nell'elenco dei membri della Corte permanente d'arbitrato stabilita dalla detta convenzione dell'Aja.
+
+Nessuno degli arbitri potra' essere cittadino di una delle Parti, ne' aver domicilio o residenza nel loro territorio.
+
+La stessa persona non potra' funzionare come terzo arbitro in due vertenze successive.
+
+## Art. 5
+
+Quando le Parti non si accordassero per la costituzione del tribunale, le funzioni arbitrali saranno conferite ad un arbitro unico, che, salvo stipulazione in contrario, sara' nominato secondo le regole stabilite nell'articolo precedente per la nomina del terzo arbitro.
+
+Salvo stipulazione in contrario, la questione preveduta nell'ultimo alinea dell'art. 2 sara' parimente decisa da un arbitro unico, da nominarsi secondo le stesse regole, il quale, quando ne sia il caso, continuera' a funzionare, come arbitro unico o come terzo arbitro, per la decisione del merito della contesa.
+
+## Art. 6
+
+La sentenza arbitrale e' pronunciata a maggioranza di voti; e' esclusa ogni menzione del dissenso eventuale di un arbitro.
+
+La sentenza e' sottoscritta dal presidente e dal cancelliere, o dall'arbitro unico.
+
+## Art. 7
+
+La sentenza arbitrale decide definitivamente e senza appello la contestazione.
+
+E' tuttavia ammessa una domanda di revisione, davanti lo stesso tribunale o lo stesso arbitro che pronuncio' la sentenza, e prima che questa sia eseguita nei casi seguenti:
+
+1\. Se e' stato scoperto un fatto nuovo, tale che avrebbe potuto esercitare una influenza decisiva sulla sentenza e che, al momento della chiusura del dibattimento, era ignoto al tribunale o all'arbitro ed ella parte che chiede la revisione.
+
+2\. Se sia stato giudicato sopra documenti falsi od errati.
+
+3\. Se la sentenza sia, in tutto o in parte, viziata da un errore di fatto risultante dagli atti o documenti della causa.
+
+## Art. 8
+
+Qualunque controversia potesse sorgere fra le parti circa l'interpretazione o l'esecuzione della sentenza, sara' sottoposta al giudizio dello stesso tribunale o dello stesso arbitro che la pronunzio'.
+
+## Art. 9
+
+Il presente trattato sara' ratificato, e le ratifiche saranno scambiate a Roma al piu' presto possibile.
+
+Avra' la durata di dieci anni a datare dallo scambio delle ratifiche. Se non sara' denunciato sei mesi prima della scadenza, lo si intendera' rinnovato per un nuovo periodo di dieci anni, e cosi' di seguito.
+
+In fede di che, i plenipotenziari hanno sottoscritto il presente trattato e lo hanno munito dei loro sigilli.
+
+Fatto e sottoscritto a Roma, in doppio esemplare, li 8 gennaio 1910.
+
+(L. S.) Francesco Guicciardini.
+
+## Tratado
+
+Tratado general de arbitraje entre la Republica de Costa Rica y Italia.
+
+Parte di provvedimento in formato grafico

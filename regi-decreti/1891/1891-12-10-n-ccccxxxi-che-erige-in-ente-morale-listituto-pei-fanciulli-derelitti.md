@@ -1,0 +1,74 @@
+---
+title: "REGIO DECRETO 10 dicembre 1891, n. CCCCXXXI — Che erige in ente morale l'istituto pei fanciulli derelitti in Verona e ne approva lo statuto. (9100431R)"
+identifier: "urn:nir:stato:regio.decreto:1891-12-10;431"
+eli: "https://www.normattiva.it/eli/id/1892/01/09/9100431R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1891-12-10
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 6 del 1892-01-09"
+codice_redazionale: "9100431R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-12-10;431"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 10 dicembre 1891, n. CCCCXXXI
+
+**Che erige in ente morale l'istituto pei fanciulli derelitti in Verona e ne approva lo statuto. (9100431R)**
+
+*Entrata in vigore del provvedimento: 24/01/1892*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la deliberazione 11 luglio 1890 del consiglio comunale di Verona, con la quale fu stabilita la fondazione di un istituto pei fanciulli derelitti;
+
+Visti gli atti, dai quali risulta che i mezzi di cui dispone il pio istituto pel suo mantenimento, oltre all'immobile appositamente acquistato dal comune e destinato a sede dell'istituto, sono costituiti:
+
+1.° dal patrimonio della cessata cassa di ricovero in Verona;
+
+2.° dalla terza parte spettante al municipio di Verona sulla sostanza disposta da Sigismondo Zampagna, ora amministrata dalla direzione dei pii luoghi di Verona;
+
+3.° dai beni pervenuti al municipio di Verona per iscopo di beneficenza dal fu Carlo Gandini Morelli Bugna per testamento 23 dicembre 1880;
+
+4.° dal residuo del capitale di lire 6,506.60, proveniente dalla elargizione fatta nel 1880 dalla cassa di risparmio di Verona per l'infanzia abbandonata;
+
+Visto lo statuto organico per l'amministrazione del pio istituto;
+
+Vista la relativa deliberazione 31 marzo 1891 del consiglio comunale di Verona;
+
+Visto il voto della giunta provinciale amministrativa;
+
+Vista la legge 17 luglio 1890, n. 6972;
+
+Udito il parere del consiglio di Stato;
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+L'istituto pei fanciulli derelitti, come sopra fondato in Verona dall'amministrazione di quel comune, e' costituito in ente morale.
+
+## Art. 2
+
+E' approvato lo statuto organico della nuova istituzione di beneficenza in data 2 dicembre 1891, composto di 26 articoli, visto e sottoscritto, d'ordine Nostro, dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 10 dicembre 1891.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 23 dicembre 1891
+
+Reg. 182. Atti del Governo a f. 165. Mandillo.
+
+Luogo del Sigillo. V. Il Guardasigilli L. Ferraris.
+
+G. Nicotera.

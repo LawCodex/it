@@ -1,0 +1,30 @@
+---
+title: "REGIO DECRETO 29 settembre 1900, n. CCLXXXVII — Che erige in ente morale l'asilo infantile Zinelli in Padenghe. (0000287R)"
+identifier: "urn:nir:stato:regio.decreto:1900-09-29;287"
+eli: "https://www.normattiva.it/eli/id/1900/10/18/0000287R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1900-09-29
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 241 del 1900-10-18"
+codice_redazionale: "0000287R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-09-29;287"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 29 settembre 1900, n. CCLXXXVII
+
+**Che erige in ente morale l'asilo infantile Zinelli in Padenghe. (0000287R)**
+
+*Entrata in vigore del provvedimento: 02/11/1900*
+
+## Art. 1
+
+Con cui l'Asilo infantile Zinelli in Padenghe (Brescia) viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato G. Saracco - Visto E.
+
+Gianturco.
+
+Registrato alla Corte dei conti addi' 13 ottobre 1900.
+
+Reg. 225. Atti del Governo a f. 117.

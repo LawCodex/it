@@ -1,0 +1,148 @@
+---
+title: "REGIO DECRETO 05 settembre 1895, n. CCXXVI — Che approva il ruolo organico del conservatorio di musica di Milano. (9500226R)"
+identifier: "urn:nir:stato:regio.decreto:1895-09-05;226"
+eli: "https://www.normattiva.it/eli/id/1895/10/03/9500226R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1895-09-05
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 233 del 1895-10-03"
+codice_redazionale: "9500226R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;226"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 05 settembre 1895, n. CCXXVI
+
+**Che approva il ruolo organico del conservatorio di musica di Milano. (9500226R)**
+
+*Entrata in vigore del provvedimento: 18/10/1895*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il ruolo organico approvato per il conservatorio di musica di Milano con Nostro decreto 20 marzo 1892, n. CXVII (parte supplementare);
+
+Veduta la legge 1° agosto 1895, n. 461, che approva il bilancio di previsione della spesa per l'esercizio 1895-96, pel Ministero della pubblica istruzione;
+
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+Per il conservatorio di musica di Milano e' approvato, a decorrere dal 1° settembre 1895, il ruolo organico annesso al presente decreto e firmato, d'ordine Nostro, dal predetto Nostro ministro.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farlo osservare.
+
+Dato a Monza, addi' 5 settembre 1895.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 28 settembre 1895.
+
+Reg. 200. Atti del Governo a f. 98. G. Cappiello.
+
+Luogo del Sigillo. V. Il Guardasigilli V. CALENDA.
+
+G. Baccelli.
+
+## Allegati
+
+## Ruolo organico
+
+RUOLO ORGANICO degli insegnanti ed impiegati del regio conservatorio di musica di Milano.
+
+1 Presidente (onorario) . . . . . . . . . . . . . . »
+
+1 Direttore (oltre l'alloggio ed il
+
+combustibile) . . . . . . . . . . . . . . . . . . L. 6,000
+
+2 Professori di composizione a L. 3,000 . . . . . . » 6,000
+
+2 » contrappunto e fuga a L. 1,800 . . » 3,600
+
+2 » armonia a L. 1,400 . . . . . . . . » 2,800
+
+2 » elementi di musica e di armonia
+
+a L. 1,400 . . . . . . . . . . . . . . . . . . . » 2,800
+
+3 » canto a L. 2,500 . . . . . . . . . » 7,500
+
+2 » pianoforte a L. 2,000 . . . . . . . » 4,000
+
+1 Professore di organo . . . . . . . . . . . . . . » 1,600
+
+1 » d'arpa . . . . . . . . . . . . . . » 1,500
+
+3 Professori di violino e viola a L. 1,600 . . . . » 4,800
+
+1 Professore di violoncello . . . . . . . . . . . . » 1,600
+
+1 » controbasso . . . . . . . . . . . . » 1,500
+
+1 » flauto e congeneri . . . . . . . . » 1,500
+
+1 » oboe e congeneri . . . . . . . . . » 1,500
+
+1 » clarinetto e congeneri . . . . . . » 1,500
+
+1 » fagotto e congeneri . . . . . . . . » 1,500
+
+1 » corno . . . . . . . . . . . . . . . » 1,500
+
+1 » tromba, trombone e congeneri . . . » 1,500
+
+1 » storia della musica . . . . . . . . » 1,200
+
+1 » letteratura poetica e drammatica. . » 1,200
+
+1 » declamazione e gesto . . . . . . . » 1,200
+
+1 Bibliotecario . . . . . . . . . . . . . . . . . . » 2,200
+
+---------
+
+A riportare L. 58,500
+
+Riporto L. 58,500
+
+1 Segretario della presidenza ed economo
+
+cassiere (con alloggio) . . . . . . . . . . . . . » 2,000
+
+1 Ispettore e segretario della direzione . . . . . » 2,000
+
+1 Ispettrice maggiore (con alloggio) . . . . . . . » 1,000
+
+2 Ispettrici a L. 1,000 . . . . . . . . . . . . . . » 2,000
+
+2 » L. 800 . . . . . . . . . . . . . . . » 1,600
+
+1 Portinaio . . . . . . . . . . . . . . . . . . . . » 700
+
+1 Portinaia all'anticamera delle alunne . . . . . . » 600
+
+4 Serventi a L. 800 . . . . . . . . . . . . . . . . » 3,200
+
+1 Facchino . . . . . . . . . . . . . . . . . . . . » 600
+
+```text
+ ---------
+ Totale L. 72,200
+ ---------
+```
+
+Roma, addi' 5 settembre 1895.
+
+Visto d'ordine di S. M.
+
+Il ministro della pubblica istruzione
+
+G. BACCELLI.

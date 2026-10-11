@@ -1,0 +1,68 @@
+---
+title: "REGIO DECRETO 18 gennaio 1903, n. 18 — Aggregazione della frazione Bringhiera al Comune di Tovo San Giacomo (Genova)."
+identifier: "urn:nir:stato:regio.decreto:1903-01-18;18"
+eli: "https://www.normattiva.it/eli/id/1903/02/10/003U0018/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1903-01-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 33 del 1903-02-10"
+codice_redazionale: "003U0018"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-01-18;18"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 18 gennaio 1903, n. 18
+
+**Aggregazione della frazione Bringhiera al Comune di Tovo San Giacomo (Genova).**
+
+*Entrata in vigore del provvedimento: 25/02/1903*
+
+VITTORIO EMANUELE III
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno;
+
+Veduta la domanda presentata dalla maggioranza degli elettori residenti nella frazione Bringhiera per ottenere che detta frazione sia staccata dal Comune di Giustenice ed aggregata a quello di Tovo San Giacomo;
+
+Viste le deliberazioni in data 23 settembre 1900 e 15 novembre 1902 del Consiglio comunale di Tovo San Giacomo colle quali si esprime voto favorevole per l'accoglimento della suddetta istanza;
+
+Viste le deliberazioni 18 dicembre 1900, 1° agosto 1901 e 15 novembre 1902 colle quali il Consiglio comunale di Giustenice dichiara di opporsi allo stacco della frazione Bringhiera;
+
+Vista la deliberazione 13 febbraio 1902 colla quale il Consiglio provinciale di Genova esprime voto favorevole per l'accoglimento dell'istanza dei frazionisti di Bringhiera;
+
+Vista la relazione e relativa pianta topografica in data 20 luglio 1902 colla quale l'ufficio del Genio civile di Genova determina i confini del territorio della frazione suddetta;
+
+Sentito il parere del Consiglio di Stato;
+
+Vista la legge comunale e provinciale;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+La frazione Bringhiera e' distaccata dal Comune di Giustenice e aggregata al Comune di Tovo San Giacomo.
+
+## Art. 2
+
+I territori dei Comuni di Giustenice e Tovo San Giacomo sono rispettivamente diminuiti ed aumentati della porzione risultante dalla pianta topografica in data 20 luglio 1902 dell'ufficio del Genio civile di Genova, nella quale e' segnato in rosso il territorio della frazione Bringhiera.
+
+Detta pianta sara', d'ordine Nostro, vidimata dal Ministro proponente.
+
+## Art. 3
+
+Fino alla costituzione dei nuovi Consigli comunali di Giustenice e Tovo San Giacomo a cui si procedera' entro il piu' breve termine possibile in base alle liste ultimamente approvate, le attuali rappresentanze dei due Comuni continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione dei futuri Consigli.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 gennaio 1903.
+
+VITTORIO EMANUELE.
+
+GIOLITTI.
+
+Visto, Il Guardasigilli: COCCO-ORTU.

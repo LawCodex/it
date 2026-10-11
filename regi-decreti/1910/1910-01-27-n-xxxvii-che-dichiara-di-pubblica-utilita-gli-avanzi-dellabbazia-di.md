@@ -1,0 +1,50 @@
+---
+title: "REGIO DECRETO 27 gennaio 1910, n. XXXVII — Che dichiara di pubblica utilita' gli avanzi dell'Abbazia di Pomposa e dell'annesso palazzo della Ragione. (1000037R)"
+identifier: "urn:nir:stato:regio.decreto:1910-01-27;37"
+eli: "https://www.normattiva.it/eli/id/1910/03/02/1000037R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1910-01-27
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 50 del 1910-03-02"
+codice_redazionale: "1000037R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-01-27;37"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 27 gennaio 1910, n. XXXVII
+
+**Che dichiara di pubblica utilita' gli avanzi dell'Abbazia di Pomposa e dell'annesso palazzo della Ragione. (1000037R)**
+
+*Entrata in vigore del provvedimento: 17/03/1910*
+
+VITTORIO EMANUELE III
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visti gli articoli 12, 83 e 84 della legge 25 giugno 1865, n. 2359, sulle espropriazioni per causa di utilita' pubblica;
+
+Veduti gli atti della pubblicazione della domanda di espropriazione;
+
+Sentito il Consiglio di Stato;
+
+Sulla proposta del Nostro ministro, segretario di Stato per la pubblica istruzione;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+E' dichiarata di pubblica utilita' l'espropriazione, a favore dello Stato, di quei locali dell'antica Abazia di Pomposa che sono in proprieta' del sig. rag. Vincenzo Spada, comprendendo nell'acquisto le piccole zone di terreno necessarie per l'isolamento dei locali medesimi, allo scopo di togliere dall'abbandono, in cui giace, la celebre Badia con l'annesso palazzo della Ragione.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti dei Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 27 gennaio 1910.
+
+VITTORIO EMANUELE.
+
+Daneo.
+
+Visto, Il guardasigilli: Scialoja.

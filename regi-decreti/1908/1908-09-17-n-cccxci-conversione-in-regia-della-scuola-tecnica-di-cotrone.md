@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 17 settembre 1908, n. CCCXCI — Conversione in Regia della scuola tecnica di Cotrone (0800391R)"
+identifier: "urn:nir:stato:regio.decreto:1908-09-17;391"
+eli: "https://www.normattiva.it/eli/id/1908/10/13/0800391R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1908-09-17
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 239 del 1908-10-13"
+codice_redazionale: "0800391R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-09-17;391"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 17 settembre 1908, n. CCCXCI
+
+**Conversione in Regia della scuola tecnica di Cotrone (0800391R)**
+
+*Entrata in vigore del provvedimento: 28/10/1908*
+
+VITTORIO EMANUELE III
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vedute le leggi 16 luglio 1904, n. 397 e 13 giugno 1907, n. 342;
+
+Veduto il regolamento approvato con il R. decreto 15 settembre 1907, n. 652;
+
+Veduto che la scuola tecnica di Cotrone godette nell'ultimo triennio di sussidi facoltativi sul bilancio del Ministero della pubblica istruzione per un ammontare medio annuo di L. 1500;
+
+Veduta la convenzione stipulata per la conversione in Regia di detta scuola, in conformita' della succitata legge 13 giugno 1907, n. 342, fra il Ministero della pubblica istruzione ed il comune di Cotrone;
+
+Veduti i fondi stanziati ai capitoli 123, 133 e 150 del bilancio passivo del Ministero della pubblica istruzione per l'esercizio 1908-909;
+
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+La scuola tecnica di Cotrone e' convertita per tutti gli effetti di legge in Regia dal 1° ottobre 1908.
+
+## Art. 2
+
+Per tutte le spese concernenti il personale direttivo ed insegnante della detta scuola il comune di Cotrone versera' annualmente all'erario un contributo di L. 11,784.40 garantendo un introito di L. 2000 per tasse scolastiche e provvedendo direttamente a quanto altro gli incombe per legge e a termini della convenzione 18 novembre 1907, per il mantenimento di detta scuola.
+
+## Art. 3
+
+Con altri Nostri decreti sara' provveduto alle variazioni da portarsi alle tabelle organiche delle cattedre nelle RR. scuole medie e degli insegnanti di ginnastica per l'attuazione del presente decreto.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Racconigi, addi' 17 settembre 1908.
+
+VITTORIO EMANUELE.
+
+Rava.
+
+Visto, Il guardasigilli: Orlando.

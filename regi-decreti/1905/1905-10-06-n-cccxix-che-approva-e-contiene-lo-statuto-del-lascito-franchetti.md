@@ -1,0 +1,98 @@
+---
+title: "REGIO DECRETO 06 ottobre 1905, n. CCCXIX — Che approva e contiene lo statuto del lascito «Franchetti» per la R. Accademia Virgiliana di Mantova. (0500319R)"
+identifier: "urn:nir:stato:regio.decreto:1905-10-06;319"
+eli: "https://www.normattiva.it/eli/id/1905/11/09/0500319R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1905-10-06
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 261 del 1905-11-09"
+codice_redazionale: "0500319R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-10-06;319"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 06 ottobre 1905, n. CCCXIX
+
+**Che approva e contiene lo statuto del lascito «Franchetti» per la R. Accademia Virgiliana di Mantova. (0500319R)**
+
+*Entrata in vigore del provvedimento: 24/11/1905*
+
+VITTORIO EMANUELE III
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduto il testamento olografo del comm. Giuseppe Franchetti pubblicato per gli atti del notaio David Viterbi il 9 aprile 1903 con il quale si dispone di un legato di annuo L. 1000 a favore dell'Accademia Virgiliana di Mantova per la istituzione di uno o piu' premi a favore dei mantovani che piu' si distinguono nelle belle arti, nella musica, nella carriera militare, nella nautica od altro;
+
+Veduta l'istanza presentata dalla R. Accademia Virgiliana di Mantova per ottenere l'autorizzazione ad accettare il lascito suddetto e per l'erezione di questo in ente morale;
+
+Veduto lo statuto organico deliberato da1l'Accademia Virgiliana per l'Amministrazione del lascito stesso;
+
+Udito il Consiglio di Stato;
+
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+La R. Accademia Virgiliana di Mantova e' autorizzata ad accettare il lascito disposto in suo favore dal comm. Giuseppe Franchetti.
+
+## Art. 2
+
+Il lascito Franchetti e' eretto in ente morale e ne e' approvato lo statuto organico annesso al presente decreto e firmato d'ordine Nostro dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Racconigi, addi' 6 ottobre 1905.
+
+VITTORIO EMANUELE.
+
+L. Bianchi.
+
+Visto, Il guardasigilli: C. Finocchiaro-Aprile.
+
+## Scopo.
+
+STATUTO organico della «Fondazione Franchetti» presso la R. Accademia Virgiliana di Mantova.
+
+## Art. 1
+
+Presso la R. Accademia Virgiliana di Mantova e' costituita, in base alle vigenti leggi dello Stato, la « Fondazione Franchetti » e cio' di conformita' alle disposizioni del testamento olografo del fa benemerito e compianto comm. Giuseppe Franchetti, pubblicato in atti del notaio dott. Davide Viterbi, il 9 aprile 1933, n. 2780.
+
+## Art. 2
+
+Suo scopo speciale e' di distribuire uno o piu' premi a favore di quei mantovani che piu' si distinguono, nelle belle arti, nella musica, nella carriera militare, nella nautica, ed altro.
+
+## Mezzi.
+
+## Art. 3
+
+I mezzi per provvedere allo scopo di cui all'articolo precedente saranno formati dal legato di L 1000 all'anno istituito dal prefato comm. Franchetti coll'accennato suo testamento olografo.
+
+## Amministrazione.
+
+## Art. 4
+
+Detta Fondazione sara' amministrata dalla R. Accademia Virgiliana di Mantova la quale sara' tenuta a gestirla separatamente dalle altre rendite.
+
+## Art. 5
+
+La R. Accademia Virgiliana nelle sue assemblee annuali e generali dei propri soci stabilira' volta per volta l'erogazione dei proventi del detto legato di conformita' al disposto di cui l'art. 2 e di apposito regolamento da approvarsi dalla superiore autorita'.
+
+## Art. 6
+
+Per la convocazione delle dette assemblee si seguiranno le disposizioni in argomento di cui al vigente statuto organico dell'Accademia.
+
+## Art. 7
+
+Un regolamento da approvarsi dalla superiore autorita', in armonia alle disposizioni testamentarie e al presente statuto stabilira' le norme e le modalita' per il conferimento dei premi.
+
+Visto, d'ordine di Sua Maesta':
+
+Il ministro della pubblica istruzione
+
+BIANCHI.

@@ -1,0 +1,275 @@
+---
+title: "REGIO DECRETO 09 dicembre 1897, n. CCCLXXX — Che approva un nuovo statuto della Societa' geografica italiana con sede in Roma. (9700380R)"
+identifier: "urn:nir:stato:regio.decreto:1897-12-09;380"
+eli: "https://www.normattiva.it/eli/id/1897/12/31/9700380R/CONSOLIDATED/19211210"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1897-12-09
+last_amended: 1921-12-10
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 303 del 1897-12-31"
+codice_redazionale: "9700380R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-12-09;380"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 09 dicembre 1897, n. CCCLXXX
+
+**Che approva un nuovo statuto della Societa' geografica italiana con sede in Roma. (9700380R)**
+
+*Entrata in vigore del provvedimento: 15/01/1898*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il regio decreto del 23 ottobre 1893, che approva lo statuto della Societa' geografica italiana, avente sede in Roma;
+
+Vista la deliberazione del 14 aprile p. p. con la quale la Societa' Geografica italiana deliberava di modificare alcuni articoli del suo statuto;
+
+Visto il nuovo disegno di statuto approvato dalla detta Societa' e presentato alla Nostra approvazione;
+
+Sentito il parere del consiglio di Stato;
+
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione;
+
+Abbiamo decretato e decretiamo:
+
+### Articolo unico
+
+Lo statuto della Societa' geografica italiana, approvato col predetto Nostro decreto del 23 ottobre 1893, e' abrogato ed approvato invece lo statuto annesso al presente decreto e firmato d'ordine Nostro dal Nostro ministro segretario di Stato per la pubblica istruzione.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 9 dicembre 1897.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 23 dicembre 1897.
+
+Reg. 213. Atti del Governo a f. 198. G. Cappiello.
+
+Luogo del Sigillo. V. Il Guardasigilli G. ZANARDELLI.
+
+Codronchi.
+
+## CAPITOLO I. - Scopi della società.
+
+STATUTO
+
+della Societa' Geografica italiana, deliberato nell'adunanza generale del 14 aprile 1897, approvato con decreto reale del 9 dicembre 1897.
+
+### Art. 1
+
+La Societa' Geografica Italiana ha sede in Roma. Puo' anche avere delle sezioni regionali, agli scopi e colle norme che saranno stabilite per regolamento.
+
+### Art. 2
+
+La societa' ha per oggetto il progresso della scienza geografica in qualunque suo ramo, e quindi:
+
+a) promuove esplorazioni geografiche e da' istruzioni ed aiuti a viaggiatori, nell'interesse della scienza e del commercio italiano;
+
+b) procura la diffusione in Italia della cultura delle scienze geografiche;
+
+c) promuove ogni studio specialmente diretto alla migliore conoscenza del territorio nazionale;
+
+d) pubblica i suoi atti, le notizie e gli studi che possono interessare la scienza, promovendo anche all' uopo pubbliche conferenze;
+
+e) si mantiene in relazione colle altre Societa' geografiche;
+
+f) conferisce onorificenze, consistenti in medaglie d'oro e d'argento, e nella nomina a socio d'onore e socio corrispondente.
+
+## CAPITOLO II. - Dei soci.
+
+### Art. 3
+
+La societa' e' composta di soci ordinari, di soci d'onore e di soci corrispondenti.
+
+### Art. 4
+
+Chiunque desidera divenir socio ordinario deve farne domanda al consiglio col mezzo di due soci ordinari, che lo propongono.
+
+Avvenuta l'accettazione da parte del consiglio, la medesima sara' immediatamente partecipata al socio e sara' annunciata nel Bollettino.
+
+### Art. 5
+
+I soci ordinari sono a tempo ed a vita. I primi pagano alla societa' lire 20 all'anno, i secondi lire 300 in una sola volta.
+
+Qualora pero' fra i membri conviventi di una stessa famiglia vi siano piu' soci, uno solo e' tenuto a pagare l'intera quota; per gli altri essa e' ridotta a lire 10 ciascuno, restando intatti i loro diritti, eccetto quello di ricevere gratuitamente le pubblicazioni sociali.
+
+Il capitale di lire 300 pagato dai soci a vita e' posto a frutto, ed i soli interessi sono erogabili per le spese sociali.
+
+Il socio a vita acquista il titolo di socio fondatore.
+
+### Art. 6
+
+I soci a tempo si intendono far parte della societa' dal primo gennaio dell'anno in corso, quando ne facciano domanda prima del mese di ottobre.
+
+La domanda presentata nell'ultimo trimestre ha effetto per l'anno successivo.
+
+I soci a tempo che entro il mese di novembre non abbiano dichiarato per iscritto al consiglio l'intenzione di ritirarsi, sono considerati annuenti per l'anno successivo.
+
+### Art. 7
+
+I soci a tempo che fossero morosi per due anni consecutivi nel pagamento delle loro quote, saranno radiati, in seguito a deliberazione del consiglio, dall'elenco dei soci.
+
+### Art. 8
+
+I soli soci ordinari hanno diritto di voto nelle adunanze e riunioni sociali, e possono essere eletti a membri del consiglio direttivo.
+
+## CAPITOLO III. - Adunanze della società.
+
+### Art. 9
+
+La societa' tiene una adunanza generale ordinaria, dedicata esclusivamente alle elezioni delle cariche sociali, alla presentazione dei bilanci consuntivi ed alla loro approvazione: essa ha luogo nel primo bimestre d'ogni anno.
+
+### Art. 10
+
+Le adunanze generali straordinarie si tengono quando il consiglio creda opportuno di convocarle, ovvero quando siano richieste da venti soci ordinari.
+
+Nelle adunanze generali non puo' essere discusso alcun argomento all' infuori di quelli indicati nell' ordine del giorno, il quale si deve comunicare ai soci nell'avviso di convocazione.
+
+### Art. 11
+
+Nelle adunanze generali le deliberazioni sono valide quando intervengano personalmente almeno 30 soci ordinari.
+
+Occorrendo una seconda convocazione, le deliberazioni per gli oggetti medesimi, sono valide qualunque sia il numero dei soci intervenuti.
+
+### Art. 12
+
+Oltre alle adunanze generali, ordinarie e straordinarie, la presidenza puo' invitare i soci a riunioni sociali per conferenze, letture, presentazione di viaggiatori, esposizione delle loro collezioni, comunicazioni sull'andamento della societa', sul conferimento delle onorificenze sociali e sui progressi della scienza geografica.
+
+Per queste riunioni la presidenza puo' fare inviti anche a persone estranee alla societa' ed autorizzare i soci ad introdurre persone da essi presentate.
+
+## CAPITOLO IV. - Presidenza, consiglio direttivo e revisori.
+
+### Art. 13
+
+La societa' e' diretta da un consiglio, composto di un presidente, di due vice presidenti e di diciotto consiglieri, eletti in adunanza generale fra i soci ordinari.
+
+### Art. 14
+
+Le elezioni del presidente, dei vice presidenti e dei consiglieri hanno luogo, con votazione unica, a schede segrete, nell'adunanza generale del primo bimestre d'ogni anno.
+
+I voti che un candidato abbia riportato per la carica di presidente o di vice presidente, se non sono stati sufficienti a determinare l'elezione a tale carica, andranno cumulati con quelli che lo stesso candidato abbia riportato per la carica di vice presidente o di consigliere.
+
+Per queste elezioni, come per quelle dei revisori dei conti, ogni socio dispone di una scheda, la quale sara' inviata dalla presidenza.
+
+I soci impediti di prendere parte all'adunanza possono partecipare alle elezioni coll'inviare alla presidenza la propria scheda accompagnata da una dichiarazione firmata, con modalita' da stabilirsi nel regolamento, atte a garantire, anche per loro, il segreto del voto.
+
+Per la validita' della elezione e' richiesta la maggioranza assoluta dei voti. Mancando questa, si procede, per ciascun ufficio, alla votazione di ballottaggio fra i due nomi che, non raggiunta la maggioranza, riportarono il maggior numero di voti.
+
+Le votazioni di ballottaggio si faranno seduta stante dai soci presenti, purche' in numero legale.
+
+### Art. 15
+
+Il presidente dura in ufficio due anni e puo' essere rieletto.
+
+I vice presidenti ed i consiglieri durano in ufficio quattro anni.
+
+Gli uni e gli altri sono rinnovati ogni anno per un quarto del loro numero complessivo, uscendo di carica un vice presidente negli anni in cui non vi e' l'elezione presidenziale. Gli uscienti possono essere rieletti.
+
+Nel caso di elezioni generali, il quarto degli uscenti nei primi tre anni sara' stabilito per sorteggio.
+
+In occasione delle elezioni annuali si provvedera' pure a sostituire quei vice presidenti e consiglieri che, per qualsiasi ragione, avessero cessato dall'ufficio senza essere compresi fra gli uscenti di diritto. In tal caso i nuovi eletti resteranno in carica per il tempo, per cui vi sarebbero rimasti i sostituiti. Gli eletti, che avranno raccolto un maggior numero di voti, copriranno i posti pei quali e' riservata una maggiore permanenza in ufficio.
+
+### Art. 16
+
+I componenti il consiglio, che per cinque volte consecutive manchino senza giustificazione alle sedute consigliari, s'intendono dimissionari.
+
+### Art. 17
+
+Spetta al consiglio direttivo:
+
+a) curare l'esecuzione delle deliberazioni delle adunanze generali;
+
+b) deliberare l'erogazione dei fondi sociali, discutere ed approvare i bilanci preventivi e formare i consuntivi da presentarsi all'approvazione dei soci nell'adunanza generale ordinaria;
+
+c) redigere i regolamenti delle adunanze generali, della biblioteca e delle conferenze e quelli di amministrazione e servizio interno;
+
+d) ammettere i nuovi soci ed aggiudicare le onorificenze sociali;
+
+e) prendere tutti quei provvedimenti che saranno ravvisati utili al conseguimento degli scopi sociali.
+
+### Art. 18
+
+Per la validita' delle deliberazioni del consiglio devono intervenire almeno cinque dei suoi componenti, compreso il presidente o chi ne fa le veci.
+
+Per altro le deliberazioni, che importino impegno di spesa per una somma superiore alle lire 1,000, non potranno essere prese che in adunanze, in cui intervengano almeno nove dei componenti il consiglio.
+
+### Art. 19
+
+I revisori dei conti saranno tre, eletti nella adunanza generale ordinaria d'ogni anno. Quando nel corso dell'anno uno di essi venisse a cessare, per qualsiasi causa, dal suo ufficio, gli altri due nomineranno un successore.
+
+### Art. 20
+
+I revisori sorvegliano l'amministrazione contabile della societa' durante l'anno e riferiscono alla adunanza generale ordinaria di ogni anno sul bilancio consuntivo presentato dal consiglio.
+
+Le adunanze del consiglio, nelle quali sia posto in discussione il bilancio consuntivo, devono essere annunciate ai revisori, che potranno intervenirvi e presentarvi le loro osservazioni, ma senza diritto di voto.
+
+## CAPITOLO V. - Rappresentanza delle società.
+
+### Art. 21
+
+In base alle deliberazioni del consiglio, la societa', in tutti i rami della sua attivita', tanto scientifica che civile, e' rappresentata ed amministrata dal presidente; il quale puo' delegare speciali incarichi ad alcuno dei vice presidenti e dei consiglieri, e d'accordo col consiglio, anche ad alcuno dei soci.
+
+### Art. 22
+
+Se il presidente per una causa qualunque cessasse dal suo ufficio, le funzioni del presidente sono assunte da uno dei vice presidenti, od in mancanza di questi da un consigliere, sempre per ordine di anzianita', fino alla prossima adunanza generale.
+
+## CAPO VI. - Ufficio sociale, biblioteca e pubblicazioni.
+
+### Art. 23
+
+Il consiglio nomina per mezzo di concorso, un segretario generale, al quale e' assegnata una retribuzione.
+
+Il segretario generale deve attendere, sotto la direzione della presidenza:
+
+a) all'esecuzione delle deliberazioni del consiglio;
+
+b) alla redazione della corrispondenza e dei processi verbali di tutte le adunanze della societa' e del consiglio;
+
+c) alla compilazione di quella parte delle pubblicazioni della societa', che gli sara' deferita dal consiglio;
+
+d) alla cura della biblioteca sociale;
+
+e) alla direzione e sorveglianza di tutto il personale d' ufficio.
+
+### Art. 24
+
+Il consiglio provvede pure alla nomina degli impiegati che reputera' necessari e ne stabilisce le attribuzioni e la retribuzione.
+
+### Art. 25
+
+I libri e le carte costituenti la biblioteca sociale, o meramente depositati presso la medesima da privati che volessero riservarsene la proprieta', rimangono a disposizione per lo studio di tutti i soci, colle norme che saranno stabilite da apposito regolamento.
+
+### Art. 26
+
+Gli atti della societa' saranno pubblicati in un Bollettino, in serie progressiva di fascicoli, formanti, nell'anno, uno o piu' volumi. Il bollettino sara' messo a disposizione dei soci; e sara' inviato a domicilio a tutti quelli fra essi, che corrispondano la quota stabilita per le spese postali.
+
+## CAPITOLO VII. - Modificazioni dello statuto.
+
+### Art. 27
+
+Qualora si trovassero necessarie modificazioni al presente statuto, la presidenza le proporra' alla votazione d'un'adunanza generale.
+
+Tali modificazioni dovranno specificatamente annunciarsi ai soci nell'avviso di convocazione dell'adunanza, e dovranno essere approvate alla maggioranza di due terzi dei voti dei soci presenti all'adunanza, i quali non potranno essere meno di quaranta, salva poi, per gli effetti di legge, l'approvazione governativa.
+
+## CAPITOLO VIII. - Disposizioni transitorie.
+
+### Art. 28
+
+La riduzione del numero dei vice presidenti da quattro a due, e dei consiglieri da venti a diciotto, si operera' progressivamente nelle prime quattro elezioni parziali che avranno luogo dopo l'approvazione del presente statuto, eleggendosi, coll'ordine stabilito dal primo alinea del precedente art. 15, cinque consiglieri, oppure un vice presidente e quattro consiglieri, in luogo del vice presidente e dei cinque consiglieri uscenti; sempreche' nel frattempo non si debba procedere ad elezioni generali.
+
+### Art. 29
+
+Nella prima adunanza generale ordinaria che si terra' dopo l'approvazione del presente statuto si nomineranno tre revisori, i quali riferiranno sul bilancio dell'anno precedente secondo lo statuto vecchio, e funzioneranno nell'anno in corso, secondo le disposizioni contenute nei precedenti art. 19 e 20.
+
+Visto d'ordine di S. M.
+
+Il ministro della pubblica istruzione
+
+CODRONCHI.

@@ -1,0 +1,38 @@
+---
+title: "REGIO DECRETO 14 febbraio 1895, n. CCCX — Che costituisce in ente morale l'asilo infantile Carcano Grassi del comune di Cormanno (Milano), e ne approva lo statuto. (9500310R)"
+identifier: "urn:nir:stato:regio.decreto:1895-02-14;310"
+eli: "https://www.normattiva.it/eli/id/1895/11/30/9500310R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1895-02-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 282 del 1895-11-30"
+codice_redazionale: "9500310R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-14;310"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 14 febbraio 1895, n. CCCX
+
+**Che costituisce in ente morale l'asilo infantile Carcano Grassi del comune di Cormanno (Milano), e ne approva lo statuto. (9500310R)**
+
+*Entrata in vigore del provvedimento: 15/12/1895*
+
+## Art. 1
+
+Che costituisce in ente morale l'asilo infantile Carcano Grassi del comune di Cormanno (Milano), e ne approva lo statuto organico in data 10 aprile 1894, composto di quattordici articoli, dei quali il quarto viene modificato nel modo seguente:
+
+«Il consiglio di amministrazione si compone:
+
+«a) del parroco pro tempore, e, in sua mancanza, del vicario spirituale della parrocchia di Cormanno;
+
+«b) del presidente della congregazione di carita' di Cormanno;
+
+«c) di una persona nominata da quel consiglio comunale, la quale durera' in carica per un quinquennio, e sara' rieleggibile salvo la interruzione prescritta dalla legge.
+
+«Il parroco pro tempore di Cormanno sara' il presidente del consiglio di amministrazione.» - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.
+
+Registrato alla Corte dei Conti addi' 14 febbraio 1895.
+
+Reg. 201. Atti del Governo a f. 15.

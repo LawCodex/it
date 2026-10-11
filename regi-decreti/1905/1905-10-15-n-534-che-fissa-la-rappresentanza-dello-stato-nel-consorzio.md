@@ -1,0 +1,64 @@
+---
+title: "REGIO DECRETO 15 ottobre 1905, n. 534 — Che fissa la rappresentanza dello Stato nel Consorzio autonomo del porto di Genova."
+identifier: "urn:nir:stato:regio.decreto:1905-10-15;534"
+eli: "https://www.normattiva.it/eli/id/1905/11/11/005U0534/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1905-10-15
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 263 del 1905-11-11"
+codice_redazionale: "005U0534"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-10-15;534"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 15 ottobre 1905, n. 534
+
+**Che fissa la rappresentanza dello Stato nel Consorzio autonomo del porto di Genova.**
+
+*Entrata in vigore del provvedimento: 26/11/1905*
+
+VITTORIO EMANUELE III
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la legge 12 febbraio 1903, n. 50, sull'istituzione di un Consorzio autonomo per l'esecuzione delle opere e l'esercizio del porto di Genova;
+
+Vista la legge 22 aprile 1905, n. 137, per l'esercizio di Stato delle ferrovie non concesse ad imprese private;
+
+Vista la legge 25 giugno 1905, n. 270, che approva lo stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio finanziario 1905-906;
+
+Visti i RR. decreti coi quali furono organizzati l'Amministrazione delle ferrovie di Stato e l'Ufficio speciale delle ferrovie di cui fa parte il R. circolo d'ispezione di Genova;
+
+Ritenuta la necessita' di mettere in armonia la rappresentanza del Consorzio autonomo del Porto di Genova con il nuovo ordinamento ferroviario;
+
+Sentito il Consiglio di Stato;
+
+Udito il Consiglio dei ministri;
+
+Sulla proposta del Nostro ministro segretario di Stato per i lavori pubblici;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+La rappresentanza dello Stato nel Consorzio autonomo del Porto di Genova, di cui al n. 1 dell'art. 3 della legge 12 febbraio 1903, n. 50, gia' affidata a funzionari del R. ispettorato generale delle strade ferrate, e' esercitata da un R. ispettore superiore tecnico o da un funzionario tecnico del R. Circolo d'ispezione di Genova, nominati dal Ministro dei lavori pubblici.
+
+## Art. 2
+
+L'Ente dirigente il servizio ferroviario del porto di Genova, di cui al n. 5 dell'art. 3 della legge 12 febbraio 1903, n. 50, e' rappresentato da due funzionari superiori dell'Amministrazione delle ferrovie dello Stato, designati dal direttore generale delle ferrovie stesse.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Racconigi, addi' 15 ottobre 1905.
+
+VITTORIO EMANUELE
+
+A. Fortis.
+
+C. Ferraris.
+
+Visto, Il guardasigilli: C. Finocchiaro-Aprile.

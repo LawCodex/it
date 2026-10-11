@@ -1,0 +1,66 @@
+---
+title: "REGIO DECRETO 03 aprile 1890, n. MMMDCCXXX — Che erige in ente morale l'asilo infantile Speroni in Villa Cortese, frazione di Busto Garolfo, l'autorizza ad accettare il legato disposto dal testatore e ne approva lo statuto. (9003730R)"
+identifier: "urn:nir:stato:regio.decreto:1890-04-03;3730"
+eli: "https://www.normattiva.it/eli/id/1890/04/23/9003730R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1890-04-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 96 del 1890-04-23"
+codice_redazionale: "9003730R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-04-03;3730"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 03 aprile 1890, n. MMMDCCXXX
+
+**Che erige in ente morale l'asilo infantile Speroni in Villa Cortese, frazione di Busto Garolfo, l'autorizza ad accettare il legato disposto dal testatore e ne approva lo statuto. (9003730R)**
+
+*Entrata in vigore del provvedimento: 08/05/1890*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il testamento in data 24 gennaio 1881, col quale l'ora defunto Benedetto Speroni destinava tutti i suoi beni immobili allo impianto ed al mantenimento di un asilo infantile in Villa Cortese, frazione del comune di Busto Garolfo;
+
+Vista la deliberazione in data 14 marzo 1884, colla quale il consiglio comunale di Busto Garolfo accettava il lascito, e quello in data del 28 ottobre 1888, con cui accoglieva la proposta fatta dalla usufruttuaria di acquistare per la somma di lire 33,000 tutti i beni destinati all' asilo;
+
+Vista la domanda presentata dalla giunta municipale di Busto Garolfo, in esecuzione dell' incarico datole dal consiglio comunale, per ottenere che l'asilo infantile sia eretto in ente morale, ed autorizzato ad accettare il legato suddetto, colla approvazione del relativo statuto organico;
+
+Visto il detto statuto organico e gli altri atti;
+
+Vista la deliberazione in data 28 ottobre 1888, con la quale la deputazione provinciale di Milano ha espresso parere favorevole all'esaudimento della detta domanda;
+
+Viste le leggi 5 giugno 1850, n. 1037 e 3 agosto 1862, n. 753;
+
+Udito il parere del consiglio di Stato;
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell' interno, presidente del consiglio dei ministri;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+L'asilo infantile Speroni in Villa Cortese, frazione di Busto Garolfo, e' eretto in ente morale, ed e' autorizzato ad accettare il legato disposto per la sua costituzione dal fu Benedetto Speroni.
+
+## Art. 2
+
+E' approvato lo statuto organico del pio istituto in data 20 gennaio 1890 composto di 19 articoli, che sara' visto e sottoscritto d'ordine Nostro dal Nostro ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 aprile 1890.
+
+UMBERTO.
+
+Registrato alla Corte dei conti addi' 14 aprile 1890
+
+Reg. 173. Atti del Governo a f. 69. Mandillo.
+
+Luogo del Sigillo. V. Il Guardasigilli G. ZANARDELLI.
+
+F. CRISPI.

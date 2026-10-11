@@ -1,0 +1,56 @@
+---
+title: "REGIO DECRETO 29 settembre 1893, n. CCCCXXIII — Che costituisce in ente morale l'asilo infantile in Valmadonna (Alessandria). (9300423R)"
+identifier: "urn:nir:stato:regio.decreto:1893-09-29;423"
+eli: "https://www.normattiva.it/eli/id/1893/11/24/9300423R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1893-09-29
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 277 del 1893-11-24"
+codice_redazionale: "9300423R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-09-29;423"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 29 settembre 1893, n. CCCCXXIII
+
+**Che costituisce in ente morale l'asilo infantile in Valmadonna (Alessandria). (9300423R)**
+
+*Entrata in vigore del provvedimento: 09/12/1893*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la domanda del municipio di Alessandria per la costituzione in ente morale dell'asilo infantile istituito nella frazione Valmadonna, con assegnazione al medesimo del legato disposto dal fu Luigi Carones con testamento 24 luglio 1882, attualmente ammontante a lire 9,358;
+
+Veduto il voto della giunta provinciale amministrativa;
+
+Veduta la legge 17 luglio 1890, n. 6972;
+
+Udito il parere del consiglio di Stato;
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+L'asilo infantile instituito in Valmadonna, frazione di Alessandria, e' costituito in ente morale, e gli e' assegnato in patrimonio il legato disposto dal fu Luigi Carones col sopracitato testamento 24 luglio 1882.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo o di farlo osservare.
+
+Dato a Monza, addi' 29 settembre 1893.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 17 novembre 1893.
+
+Reg. 193. Atti del Governo a f. 125. Petrecca.
+
+Luogo del Sigillo. V. Il Guardasigilli G. ARMO'.
+
+G. Giolitti.

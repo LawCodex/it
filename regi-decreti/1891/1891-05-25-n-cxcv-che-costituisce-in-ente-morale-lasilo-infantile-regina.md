@@ -1,0 +1,58 @@
+---
+title: "REGIO DECRETO 25 maggio 1891, n. CXCV — Che costituisce in ente morale l'asilo infantile «Regina Margherita» in Montegrosso d'Asti (Alessandria). (9100195R)"
+identifier: "urn:nir:stato:regio.decreto:1891-05-25;195"
+eli: "https://www.normattiva.it/eli/id/1891/06/23/9100195R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1891-05-25
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 145 del 1891-06-23"
+codice_redazionale: "9100195R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-05-25;195"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 25 maggio 1891, n. CXCV
+
+**Che costituisce in ente morale l'asilo infantile «Regina Margherita» in Montegrosso d'Asti (Alessandria). (9100195R)**
+
+*Entrata in vigore del provvedimento: 08/07/1891*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la istanza che il presidente del comitato esecutivo per la istituzione di un asilo infantile in Montegrosso di Asti (Alessandria) ha presentato per la costituzione in ente morale del pio istituto da intitolarsi al nome di S. M. la Regina Margherita;
+
+Visti i relativi atti, dai quali risulta che il detto comitato esecutivo ha assicurato all'asilo infantile per private oblazioni un capitale patrimoniale di lire 7,852.60, per assegni dal comune e dalla provincia complessivamente annue lire 800 e per sottoscrizioni di azioni quinquennali annue L. 202.50;
+
+Vista la deliberazione del consiglio comunale di Montegrosso di Asti 21 ottobre 1888, e quello della giunta provinciale amministrativa di Alessandria 11 settembre 1890;
+
+Vista la legge 17 luglio 1890, n. 6972;
+
+Udito il parere del consiglio di Stato;
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+L'asilo infantile «Regina Margherita» come sopra fondato nel comune di Montegrosso d'Asti e' costituito in ente morale.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Monza, addi' 25 maggio 1891.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 9 giugno 1891.
+
+Reg. 179. Atti del Governo a f. 116. Mandillo.
+
+Luogo del Sigillo. V. Il Guardasigilli L. FERRARIS.
+
+G. Nicotera.

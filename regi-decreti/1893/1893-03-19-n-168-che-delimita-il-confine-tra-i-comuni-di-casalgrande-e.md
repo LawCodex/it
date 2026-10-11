@@ -1,0 +1,46 @@
+---
+title: "REGIO DECRETO 19 marzo 1893, n. 168 — Che delimita il confine tra i comuni di Casalgrande e Castellarano."
+identifier: "urn:nir:stato:regio.decreto:1893-03-19;168"
+eli: "https://www.normattiva.it/eli/id/1893/04/03/093U0168/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1893-03-19
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 78 del 1893-04-03"
+codice_redazionale: "093U0168"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-03-19;168"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 19 marzo 1893, n. 168
+
+**Che delimita il confine tra i comuni di Casalgrande e Castellarano.**
+
+*Entrata in vigore del provvedimento: 18/04/1893*
+
+## Art. 1
+
+UMBERTO I.
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Presidente del Consiglio dei Ministri;
+
+Visto il Nostro decreto 29 gennaio p. p., col quale si e' provveduto alla delimitazione di confine tra i comuni di Casalgrande e Castellarano in base alla pianta topografica 20 novembre 1890 dell'ingegnere Giuseppe Lari;
+
+Abbiamo decretato e decretiamo:
+
+Il confine fra i due comuni suddetti e' quello segnato sulla pianta predetta con le lettere A, B, F, G, H, I.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 19 marzo 1893.
+
+UMBERTO.
+
+Giolitti.
+
+Visto, Il Guardasigilli: Bonacci.

@@ -1,0 +1,269 @@
+---
+title: "REGIO DECRETO 25 luglio 1913, n. 998 — Col quale sono approvate le unite norme per assicurare il buon governo igienico nei cantieri delle grandi opere pubbliche."
+identifier: "urn:nir:stato:regio.decreto:1913-07-25;998"
+eli: "https://www.normattiva.it/eli/id/1913/09/04/013U0998/CONSOLIDATED/20091214"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1913-07-25
+last_amended: 2009-12-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 207 del 1913-09-04"
+codice_redazionale: "013U0998"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-25;998"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 25 luglio 1913, n. 998
+
+**Col quale sono approvate le unite norme per assicurare il buon governo igienico nei cantieri delle grandi opere pubbliche.**
+
+*Entrata in vigore del provvedimento: 19/09/1913*
+
+VITTORIO EMANUELE III
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il testo unico delle leggi sanitarie, approvato con R. decreto 1° agosto 1907, n. 636;
+
+Visto il regolamento generale sanitario, approvato con R. decreto 3 febbraio 1901, n. 45;
+
+Uditi i pareri del Consiglio superiore dei lavori pubblici, del Consiglio superiore di sanita' e del Consiglio di Stato;
+
+Sentito il Consiglio dei ministri;
+
+Sulla proposta del Nostro ministro, segretario di Stato per gli affari dell'interno, presidente del Consiglio dei ministri, e del Nostro ministro segretario di Stato per i lavori pubblici;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+E' approvato l'unito disciplinare, che sara' vidimato, d'ordine Nostro, dai ministri proponenti, contenente le disposizioni per assicurare il buon governo igienico nei cantieri delle opere pubbliche e specialmente per i grandi lavori in galleria.
+
+## Art. 2
+
+Il predetto disciplinare deve applicarsi nei cantieri di opere pubbliche che richiedano la formazione di villaggi, di operai il numero dei quali, comprese le rispettive famiglie, sia maggiore di cinquecento. Ove si tratti di opere da eseguirsi in galleria, o che richiedano escavazioni di gallerie, il disciplinare stesso deve applicarsi sempre quando il numero degli operai, comprese le rispettive famiglie, sia maggiore di trecento.
+
+## Art. 3
+
+Il disciplinare sopra indicato verra' richiamato nei capitolati speciali di appalto, relativi alla assunzione di opere pubbliche.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a San Rossore, addi' 25 luglio 1913
+
+VITTORIO EMANUELE.
+
+Giolitti - Sacchi.
+
+Visto, Il guardasigilli: Finocchiaro-Aprile.
+
+## Baracche di abitazione per gli operai e le loro famiglie
+
+DISCIPLINARE.
+
+## Art. 1
+
+Le baracche di abitazione devono essere ben distribuite, di buona costruzione, con sufficienti aperture per una attiva ventilazione, con idonei mezzi di riscaldamento, ove del caso, e di ampiezza tale da assicurare almeno mc. 9 per ogni adulto.
+
+## Art. 2
+
+Nelle localita' malariche, l'applicazione delle reticelle per la difesa sanitaria contro la penetrazione degli insetti aerei nelle abitazioni e' regolata dallo articolo 162 del testo unico delle leggi sanitarie approvato con R. decreto 1 agosto 1907, num. 636 e dagli articoli 22, 28, 30 e 31 del regolamento per diminuire le cause della malaria approvato con R. decreto 28 febbraio 1907, num. 61
+
+## Acqua potabile
+
+## Art. 3
+
+Dovra' accertarsi la purezza dell'acqua destinata ai cantieri.
+
+Le acque, che non dessero sufficienti garanzie, dovranno essere depurate.
+
+## Art. 4
+
+Le acque di scaturigine dovranno essere protette, dalla sorgente alle bocche di erogazione, con adeguate opere di presa e di conduttura.
+
+## Art. 5
+
+Le acque di pozzo non potranno essere estratte con secchie, ma esclusivamente a mezzo di pompa, ed il pozzo dovra' essere chiuso in guisa che non sia possibile contaminare in alcun modo l'acqua raccolta.
+
+## Art. 6
+
+Ogni qualvolta le condizioni del suolo lo permettano, e tenuto conto delle esigenze del servizio, dovranno impiantarsi pozzi tubolari metallici, a preferenza di quelli a serbatoio.
+
+## Art. 7
+
+Occorrendo l'impianto di cisterne o serbatoi, tanto per le une quanto per gli altri, dovra' assicurarsene la perfetta chiusura; e l'erogazione dell'acqua non potra' farsi, a seconda dei casi, che mediante pompa, o cannello a rubinetto.
+
+## Art. 8
+
+Le scaturigini, o fontanelle, che dessero acqua inquinata dovranno portare la scritta: «non bevibile».
+
+## Art. 9
+
+In galleria, l'acqua potabile, quando non sia fornita da buone sorgenti, messe in luce con l'opera di scavo, dovra' essere provveduta mediante trasporto con carrelli-cisterne ovvero botti, o botticelle portatili, di dimensioni adeguate.
+
+Dai detti recipienti l'acqua non dovra' potersi estrarre che mediante cannula a rubinetto, e questo sara' costruito in guisa che non riesca possibile accostarvi le labbra per bere.
+
+Potra' prescriversi dall'autorita' competente che i recipienti pel trasporto dell'acqua e le tazze per bere siano a foggia determinato.
+
+## Lavatoi
+
+## Art. 10
+
+Ogni gruppo di baracche dovra' essere dotato di un adeguato numero di lavatoi, alimentati da acque pulite.
+
+## Art. 11
+
+L'acqua di rifiuto dei lavatoi dovra' avere libero scarico in un cunicolo, cavo, fossato, burrone ecc,; in guisa che siano evitati, nei pressi del cantiere, o presso altri abitati allagamenti e ristagni.
+
+## Bagni e doccie
+
+## Art. 12
+
+Ogni cantiere per lavori in galleria deve essere dotato di un numero adeguato di bagni a doccia con acqua pulita e riscaldabile.
+
+Siano evitati i bagni in riviere e fossati, ove sboccano fogne.
+
+## Latrine - Smaltimento dei rifiuti - Nettezza dei cantieri
+
+## Art. 13
+
+Le latrine debbono essere bene ubicate nei riguardi della igiene e della decenza.
+
+Dovra' evitarsi che, da esse, possa derivare inquinamento alle acque potabili, ai lavatoi ed alle abitazioni.
+
+## Art. 14
+
+Le latrine debbono essere in numero adeguato alla popolazione operaia.
+
+Giovera', poi, quando non sia possibile altro metodo, adottare il sistema delle trincee, profonde non meno di m. 0,50, da servire per versarvi i vasi fecali delle abitazioni ed i rifiuti domestici.
+
+L'ubicazione di dette trincee dovra' essere guidata da criteri d'igiene e di convenienza.
+
+## Art. 15
+
+In galleria si adotteranno, per norma generale, o latrine a bottini mobili, razionalmente costruiti e. bene adatti per il trasporto, da ubicarsi in punti opportuni; ovvero latrine fisse, per il solo caso in cui fosse riconosciuto preferibile, per speciali, favorevoli condizioni, utilizzare qualche punto asciutto, bene aereato e poco frequentato della galleria.
+
+Potra' prescriversi, dalla autorita' competente, che le latrine a bottini mobili, e quelle fisse siano costruite secondo un dato modello.
+
+## Art. 16
+
+Deve essere assolutamente vietato contaminare, con deiezioni e rifiuti, l'area circostante ai baraccamenti, la platea delle gallerie ed i carrelli del materiale di scarico.
+
+## Art. 17
+
+Tanto le latrine all'aperto quanto le trincee e latrine fisse in galleria debbono essere sistematicamente cosparse, ogni giorno e piu' volte se occorra, con abbondante latte di calce di recente preparazione, ed eventualmente con altra sostanza (torba, acido fenico), se del caso, giusta le disposizioni della Direzione dei lavori.
+
+I bottini mobili delle gallerie debbono essere vuotati nelle trincee scavate all'aperto ed essere, ogni giorno, disinfettati, cosi' come si e' detto per le latrine fisse.
+
+## Ventilazione delle gallerie
+
+## Art. 18
+
+Deve essere assicurato il funzionamento di una attiva ventilazione delle gallerie, in guisa che la corrente penetri e si diffonda in ogni parte, per evitare il ristagno eventuale di miscugli asfissianti in punti non percorsi dalla corrente ventilatrice.
+
+## Servizio medico - Materiale d'assistenza - Medicinali - Disinfettanti
+
+## Art. 19
+
+Si richiamano, per il servizio medico e di pronto soccorso, gli articoli 4, 11 e seguenti della legge 30 marzo 1893, n. 184, sulla polizia delle miniere, cave e torbiere, riguardanti la salubrita' e la sicurezza dell'ambiente di lavoro e l'obbligo, da parte delle imprese di provvedere ai mezzi di soccorso necessari ed ai medicamenti, in ragione del numero degli operai.
+
+Tra le sostanze da tenersi costantemente in deposito, dalle imprese, devonsi annoverare i disinfettanti e precisamente il sublimato corrosivo, l'acido fenico grezzo, la soda e la calce viva.
+
+La quantita' dei disinfettanti sara' determinata dal prefetto sulla proposta del medico provinciale, che stabilira' le norme per l'uso.
+
+I recipienti contenenti il sublimato corrosivo, l'acido fenico e le sostanze medicinali tossiche, debbono essere tenuti sotto chiave e portare le indicazioni di «veleno».
+
+## Locale o baracca di isolamento
+
+## Art. 20
+
+In caso di pericolo di importazione o di diffusione di malattie epidemico-contagiose, potra', dal prefetto, su proposta del medico provinciale, essere reso obbligatorio il pronto allestimento di una baracca di isolamento.
+
+I cantieri di oltre mille persone, tra operai e rispettive famiglie, dovranno essere, senz'altro, provvisti di tale baracca o locale.
+
+## Alimentazione - Venditori ambulanti
+
+## Art. 21
+
+Dovra' sempre invocarsi dall'impresa l'intervento del sindaco, dell'ufficiale sanitario e dell'autorita' locale di pubblica sicurezza del cantiere per i solleciti, opportuni provvedimenti, ogni qualvolta siasi constatata l'introduzione e lo smercio nel cantiere di sostanze alimentari guaste, adulterate, avariate o comunque sospette insalubri, specialmente da parte di venditori ambulanti.
+
+## Denuncia di malattie infettive
+
+## Art. 22
+
+Le imprese, che siano a conoscenza di casi, anche solo sospetti, di ileo-tifo, tifo esantematico, vaiuolo, vaiuoloide, scarlattina, difterite, meningite epidemica, colera, peste bubbonica ed anchilostomiasi od anemia dei minatori, o di altre infezioni, da indicarsi dal prefetto, sviluppatesi fra gli operai, o rispettive famiglie, dimoranti nel cantiere, dovranno farne immediata denuncia all'ingegnere dirigente i lavori od al sindaco.
+
+Tale denuncia non esime il medico dell'impresa dall'obbligo derivante dall'art. 123 del testo unico delle leggi sanitarie 1° agosto 1907, n. 636, e dall'art. 129 del regolamento generale sanitario 3 febbraio 1901, n. 45.
+
+E' obbligatoria anche la denuncia delle malattie infettive diffusive, accertate o sospette e dei casi di morte improvvisa di animali del cantiere, non riferibili a malattia comune gia' accertata.
+
+## Art. 23
+
+Le imprese debbono, nei modi migliori, facilitare all'autorita' sanitaria l'esecuzione delle misure profilattiche.
+
+## Art. 24
+
+I medici, stipendiati dalle imprese, ai fini della esecuzione delle leggi sugli infortuni e sulla polizia delle miniere, debbono concorrere nell'adozione dei provvedimenti profilattici, ma non potranno essere obbligati a prestar servizio permanente in un locale di isolamento per contagiosi, per quanto funzionante nella zona del cantiere.
+
+## Art. 25
+
+All'assistenza dei contagiosi, ricoverati nella baracca o locale di isolamento, deve provvedere l'autorita' sanitaria comunale, salvo ogni questione riguardo alla competenza delle spese.
+
+## Art. 26
+
+I sindaci, che siano a conoscenza di casi di malattia contagiosa in operai di un cantiere di opere pubbliche, o nelle loro famiglie, abitanti fuori del baraccamento, dovranno darne immediata notizia all'impresa, che ne informera' il proprio sanitario.
+
+## Vaccinazione e rivaccinazione
+
+## Art. 27
+
+In caso di pericolo di diffusione del vaiuolo, potra' l'autorita' competente ordinare la vaccinazione degli operai e delle rispettive famiglie, appartenenti al cantiere minacciato dal contagio.
+
+Nell'esecuzione di tale pratica preventiva, potra' riuscire opportuno che l'autorita' procuri di concertare coll'impresa i possibili temperamenti, allo scopo di portare il minor turbamento nel lavoro delle maestranze.
+
+## Somministrazione del chinino
+
+## Art. 28
+
+La somministrazione del chinino, nelle localita' malariche, e' regolata dagli articoli 157 e seguenti del testo unico delle leggi sanitarie approvato con R. decreto 1° agosto 1907, n. 636 e dagli articoli 6, 21 e 22 del citato regolamento 28 febbraio 1907, n. 61.
+
+## Accettazione e congedamento di operai
+
+## Art. 29
+
+Le imprese dovranno curare, qualora intervenga una speciale prescrizione prefettizia, che, nella accettazione degli operai, si tenga conto anche delle esigenze igieniche, escludendo, in caso di epidemia, individui provenienti da localita' infette e previamente non sottoposti ad accurata disinfezione ed alle altre eventuali misure profilattiche del caso.
+
+Dovranno, del pari, essere esclusi dai lavori sotterranei individui, che risultino affetti da anchilostomiasi od anemia dei minatori.
+
+Spettera' al prefetto, su parere del medico provinciale, stabilire le norme per regolare, in maniera pratica e con giusto criterio, le esclusioni predette, in ogni caso in cui queste fossero reclamate dalle circostanze, a tutela della pubblica salute.
+
+## Art. 30
+
+Qualora nel cantiere si verificassero casi di vaiuolo, vaiuoloide, anchilostomiasi o di malattie esotiche, di carattere diffusivo (peste, colera), le imprese, in base a tassativa prescrizione prefettizia, cureranno la segnalazione della partenza dei propri operai al sindaco del Comune, ove ha sode il cantiere ed alla autorita' locale di pubblica sicurezza indicando altresi' il Comune, ove essi sono diretti, accio' possano, dalle predette autorita', essere preavvisati i Comuni di destinazione, per l'adozione delle necessarie misure precauzionali.
+
+Le imprese dovranno coadiuvare l'ufficiale sanitario per le operazioni di pulizia personale degli operai partenti e di disinfezione dei loro effetti, quando del caso, non facendo luogo a pagamenti di mercedi a saldo, se non dopo adottate le misure igieniche suddette, sempre in base a speciale disposizione prefettizia.
+
+## Scuole
+
+## Art. 31
+
+Nei cantieri popolosi, nei quali funzionano scuole ed asili per i figli degli operai, verranno applicate le consuete norme d'igiene scolastica, sotto la direzione dell'ufficiale sanitario, con la cooperazione del medico dell'impresa.
+
+## Disposizioni generali
+
+## Art. 32
+
+Il Ministero dei lavori pubblici curera' di notificare ai prefetti le opere pubbliche appaltate nella rispettiva giurisdizione.
+
+Per l'esecuzione delle diposizioni igieniche contenute nel presente disciplinare provvede la direzione dei lavori sotto l'alta sorveglianza del prefetto.
+
+Visto, d'ordine di Sua Maesta':
+
+Il ministro dell'interno
+
+GIOLITTI.
+
+Il ministro dei lavori pubblici
+
+SACCHI.

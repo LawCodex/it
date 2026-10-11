@@ -1,0 +1,56 @@
+---
+title: "REGIO DECRETO 23 luglio 1893, n. CCCCXLVII — Che concentra nella congregazione di carita' di Pennabilli (Pesaro) l'amministrazione del legato Manduchi. (9300447R)"
+identifier: "urn:nir:stato:regio.decreto:1893-07-23;447"
+eli: "https://www.normattiva.it/eli/id/1893/11/28/9300447R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1893-07-23
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 280 del 1893-11-28"
+codice_redazionale: "9300447R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-07-23;447"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 23 luglio 1893, n. CCCCXLVII
+
+**Che concentra nella congregazione di carita' di Pennabilli (Pesaro) l'amministrazione del legato Manduchi. (9300447R)**
+
+*Entrata in vigore del provvedimento: 13/12/1893*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Viste le deliberazioni della congregazione di carita' e del consiglio comunale di Pennabilli (Pesaro) riflettenti il concentramento nella prima del legato Manduchi che ha scopo elemosiniero a favore dei poveri specialmente infermi delle due parrocchie riunite della cattedrale e di S. Cristoforo nel predetto comune;
+
+Vista la relativa decisione della giunta provinciale amministrativa di Pesaro;
+
+Vista la legge del 17 luglio 1890, n. 6972;
+
+Udito il parere del consiglio di Stato;
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+L'amministrazione del legato Manduchi viene concentrata nella congregazione di carita' di Pennabilli.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 23 luglio 1893.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 21 novembre 1893.
+
+Reg. 193. Atti del Governo a f. 177. E. Angelotti.
+
+Luogo del Sigillo. V. Il Guardasigilli G. Armo'.
+
+G. Giolitti.

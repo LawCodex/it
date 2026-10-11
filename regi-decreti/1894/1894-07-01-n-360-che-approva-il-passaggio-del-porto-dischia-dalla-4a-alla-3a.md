@@ -1,0 +1,68 @@
+---
+title: "REGIO DECRETO 01 luglio 1894, n. 360 — Che approva il passaggio del porto d'Ischia dalla 4a alla 3a classe della 2a categoria."
+identifier: "urn:nir:stato:regio.decreto:1894-07-01;360"
+eli: "https://www.normattiva.it/eli/id/1894/08/03/094U0360/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1894-07-01
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 182 del 1894-08-03"
+codice_redazionale: "094U0360"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-07-01;360"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 01 luglio 1894, n. 360
+
+**Che approva il passaggio del porto d'Ischia dalla 4a alla 3a classe della 2a categoria.**
+
+*Entrata in vigore del provvedimento: 18/08/1894*
+
+## Art. 1
+
+UMBERTO I.
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Viste le istanze 21 giugno 1891, 5 settembre e 4 novembre 1892, rispettivamente presentate dai comuni di Ischia, Forio d'Ischia e Procida, per ottenere il passaggio di quei porti dalla 4a alla 3a classe della 2a categoria;
+
+Ritenuto che il porto di Procida non ha alcuno dei due requisiti richiesti dall'art. 2, terzo capoverso, della legge 2 aprile 1885 n. 3095, non interessando esso una notevole parte della provincia di Napoli, ed il movimento di merci imbarcate e sbarcate non avendo raggiunto il prescritto limite di 10,000 tonnellate nel triennio 1890-92; e che il porto di Forio d'Ischia risponde solamente a quest'ultima condizione;
+
+Considerato, quanto al porto d'Ischia, che esso e' il piu' importante e sicuro dell'isola omonima, e per l'importanza degli stabilimenti termali esistenti in quel comune ed interessanti, non la sola provincia di Napoli, ma tutto il Regno, ed i numerosi stranieri che cola' accorrono, e finalmente pel rifugio volontario o forzoso che offre, e per la quantita' delle merci che vi si sbarcano ed imbarcano, ha le condizioni per essere iscritto nella 3a classe, 2a categoria;
+
+Considerato che, essendosi verificato nel porto d'Ischia in ciascun anno del triennio 1889-91 il movimento di oltre 10,000 tonnellate di merci, il chiesto passaggio di classe deve avere effetto dall'esercizio finanziario posteriore al detto triennio;
+
+Visti gli articoli 2, 3, 7 e 10 della precitata legge;
+
+Sentito il Consiglio provinciale di Napoli e i Consigli dei comuni interessati;
+
+Uditi i pareri del Consiglio Superiore dei Lavori Pubblici, del Consiglio del Commercio, del Consiglio Superiore di Marina, e del Consiglio di Stato;
+
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici;
+
+Abbiamo decretato e decretiamo:
+
+Sono respinte le suddette istanze dei Municipi di Procida e Forio d'Ischia.
+
+E' approvato, con decorrenza 1° luglio 1892, il passaggio del porto d'Ischia dalla 4a alla 3a classe della 2a categoria, ed e' pure approvata la designazione degli enti interessati nel commercio del porto stesso e l'indicazione delle rispettive loro quote di concorso nelle relative spese, come risulta dall'unito elenco, visto d'ordine Nostro, dal Ministro dei Lavori Pubblici.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1° luglio 1894.
+
+UMBERTO.
+
+G. Saracco.
+
+Visto, Il Guardasigilli: V. Calenda di Tavani.
+
+## Allegati
+
+## Elenco
+
+ELENCO delle Provincie e dei Comuni chiamati a concorrere nelle spese del porto d'Ischia, di 3a classe, della 2a categoria, con l'indicazione della quota a ciascun ente assegnato.
+
+Parte di provvedimento in formato grafico
