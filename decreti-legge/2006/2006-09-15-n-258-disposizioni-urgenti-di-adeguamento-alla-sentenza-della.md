@@ -1,0 +1,61 @@
+---
+title: "DECRETO-LEGGE 15 settembre 2006, n. 258 — Disposizioni urgenti di adeguamento alla sentenza della Corte di giustizia delle Comunita' europee in data 14 settembre 2006 nella causa C-228/05, in materia di detraibilita' dell'IVA."
+identifier: "urn:nir:stato:decreto.legge:2006-09-15;258"
+eli: "https://www.normattiva.it/eli/id/2006/09/15/006G0278/CONSOLIDATED/20061115"
+type: decree_law
+jurisdiction: it
+language: it
+date: 2006-09-15
+last_amended: 2006-11-15
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 215 del 2006-09-15"
+codice_redazionale: "006G0278"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-09-15;258"
+retrieved: 2026-10-11
+---
+
+# DECRETO-LEGGE 15 settembre 2006, n. 258
+
+**Disposizioni urgenti di adeguamento alla sentenza della Corte di giustizia delle Comunita' europee in data 14 settembre 2006 nella causa C-228/05, in materia di detraibilita' dell'IVA.**
+
+*Entrata in vigore del decreto: 15-9-2006. Decreto-Legge convertito con modificazioni dalla L. 10 novembre 2006, n. 278 (in G.U. 14/11/2006, n.265).*
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Visti gli articoli 19 e seguenti del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernenti la detrazione dell'imposta sul valore aggiunto (IVA);
+
+Vista la sentenza della Corte di giustizia delle Comunita' europee in data 14 settembre 2006 nella causa C-228/05;
+
+Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per l'adeguamento alla suddetta sentenza della Corte di giustizia;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 15 settembre 2006;
+
+Sulla proposta del Vicepresidente del Consiglio dei Ministri;
+
+Emana
+
+il seguente decreto-legge:
+
+## Art. 1
+
+1\. Ai fini dell'attuazione della sentenza della Corte di giustizia delle Comunita' europee del 14 settembre 2006 nella causa C-228/05, (( in sede di prima applicazione i soggetti passivi che fino alla data del 13 settembre 2006 hanno effettuato nell'esercizio dell'impresa, arte o professione )) acquisti ed importazioni di beni e servizi indicati nell'articolo 19-bis1, comma 1, lettere c) e d), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, presentano in via telematica (( entro il 15 aprile 2007 )) apposita istanza di rimborso, utilizzando uno specifico modello, da approvarsi entro quarantacinque giorni dalla data di entrata in vigore del presente decreto con provvedimento del Direttore dell'Agenzia delle entrate (( , da pubblicare nella Gazzetta Ufficiale. )) Con il medesimo provvedimento sono individuati i dati e i documenti che devono essere indicati o predisposti a fondamento dell'istanza di rimborso. Al fine di evitare ingiustificati arricchimenti, i dati hanno ad oggetto anche gli altri tributi rilevanti ai fini della complessiva determinazione delle somme effettivamente spettanti. (( Con il predetto provvedimento possono essere, inoltre, stabilite le differenti percentuali di detrazione dell'imposta per distinti settori di attivita' in relazione alle quali e' ammesso il rimborso in misura forfetaria. Resta ferma, per i contribuenti che non aderiscono al suddetto rimborso forfetario, ovvero per coloro che non presentano l'istanza entro il predetto termine del 15 aprile 2007, la possibilita' di dimostrare il diritto ad una detrazione in misura superiore presentando apposita istanza ai sensi dell'articolo 21 del decreto legislativo 31 dicembre 1992, n. 546, e successive modificazioni, contenente i dati e gli elementi comprovanti la misura, nell'esercizio dell'impresa, arte o professione, dell'effettivo utilizzo in base a criteri di reale inerenza, stabiliti con il provvedimento di cui al presente comma. ))
+
+2\. Sono in ogni caso escluse le procedure di detrazione e di compensazione dell'imposta sul valore aggiunto di cui agli articoli 19 e seguenti del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, ed all'articolo 17 del decreto legislativo 9 luglio 1997, n. 241.
+
+(( 2-bis. Alla lettera c) del comma 1 dell'articolo 19-bis1 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, le parole: "salvo che per gli agenti o rappresentanti di commercio" sono sostituite dalle seguenti: "a far data dalla pubblicazione nella Gazzetta Ufficiale dell'Unione europea della autorizzazione riconosciuta all'Italia dal Consiglio dell'Unione europea ai sensi della direttiva 77/388/ CEE del Consiglio, del 17 maggio 1977, a stabilire una misura ridotta della percentuale di detrazione dell'imposta sul valore aggiunto assolta per gli acquisti di beni e le relative spese di cui alla presente lettera, nei termini ivi previsti, senza prova contraria, salvo che per gli agenti o rappresentanti di commercio". ))
+
+## Art. 2
+
+1\. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 15 settembre 2006
+
+NAPOLITANO
+
+D'Alema, Vice Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: Mastella

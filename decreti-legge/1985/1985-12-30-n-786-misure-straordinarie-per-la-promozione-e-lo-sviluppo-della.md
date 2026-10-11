@@ -1,0 +1,147 @@
+---
+title: "DECRETO-LEGGE 30 dicembre 1985, n. 786 — Misure straordinarie per la promozione e lo sviluppo della imprenditorialita' giovanile nel Mezzogiorno."
+identifier: "urn:nir:stato:decreto.legge:1985-12-30;786"
+eli: "https://www.normattiva.it/eli/id/1985/12/31/085U0786/CONSOLIDATED/19910911"
+type: decree_law
+jurisdiction: it
+language: it
+date: 1985-12-30
+last_amended: 1991-09-11
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 306 del 1985-12-31"
+codice_redazionale: "085U0786"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-12-30;786"
+retrieved: 2026-10-11
+---
+
+# DECRETO-LEGGE 30 dicembre 1985, n. 786
+
+**Misure straordinarie per la promozione e lo sviluppo della imprenditorialita' giovanile nel Mezzogiorno.**
+
+*Decreto-Legge convertito con modificazioni dalla L. 28 febbraio 1986, n. 44 (in G.U. 01/03/1986, n.50).*
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Ritenuta la straordinaria necessita' ed urgenza di adottare immediate misure per la promozione e lo sviluppo della imprenditorialita' giovanile nel Mezzogiorno;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 dicembre 1985;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per gli interventi straordinari nel Mezzogiorno, di concerto con i Ministri del lavoro e della previdenza sociale, del tesoro, del bilancio e della programmazione economica e delle partecipazioni statali;
+
+EMANA
+
+il seguente decreto:
+
+## Art. 1
+
+1\. Per favorire lo sviluppo di una nuova imprenditorialita' nel Mezzogiorno e per l'ampliamento della base produttiva e occupazionale attraverso la promozione, l'organizzazione e la finalizzazione di energie imprenditoriali, alle cooperative di produzione e di lavoro, nonche' alle societa', costituite prevalentemente da giovani tra i 18 e 29 anni,le cui quote di partecipazione o le cui azioni spettino in maggioranza ai medesimi, ((oppure formate esclusivamente da giovani tra i 18 ed i 35 anni di eta')) aventi sede e operanti nei territori meridionali di cui all'articolo 1 del testo unico approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218, che si impegnano a realizzare progetti, da esse predisposti, per la produzione di beni nei settori dell'agricoltura, dell'artigianato e dell'industria, nonche' per la fornitura di servizi ((...)) a favore delle imprese appartenenti a qualsiasi settore, possono essere concesse le seguenti agevolazioni:
+
+a) contributo in conto capitale per le spese d'impianto e per le attrezzature fino al limite massimo del 60 per cento delle spese stesse;
+
+b) mutui erogati dalla Cassa depositi e prestiti ad un tasso pari al 30 per cento del tasso di riferimento nella misura del 30 per cento delle spese per l'impianto e le attrezzature; la durata e' fissata in dieci anni comprensivi di un periodo di preammortamento di tre anni; tali mutui sono assistiti dalle garanzie previste dal codice civile e da privilegio speciale, da costituire con le stesse modalita' ed avente le stesse caratteristiche del privilegio di cui all'articolo 7 del decreto legislativo luogotenenziale 1 novembre 1944, n. 367, come sostituito dall'articolo 3 del decreto legislativo del Capo provvisorio dello Stato 1 ottobre 1947, n. 1075, acquisibile nell'ambito degli investimenti da realizzare;
+
+c) contributi decrescenti per ((per la durata di un biennio)) per le spese di gestione effettivamente sostenute e documentate nel limite del volume di spesa previsto nel progetto, fino ad un limite massimo del 75 per cento delle spese per il primo anno, del 50 per cento per il secondo anno ((...)) , con possibilita' di parziali anticipazioni limitatamente al primo anno;((...))
+
+d) assistenza tecnica nella fase di progettazione e di avvio delle iniziative avvalendosi dei soggetti pubblici e privati indicati al successivo comma 6;
+
+e) attivita' di formazione e di qualificazione professionale, funzionali alla realizzazione del progetto.
+
+1-bis. Tra le spese di cui alle lettere a) e b) del precedente comma 1 sono comprese le spese di progettazione, di studio di fattibilita' e di analisi di mercato.
+
+1-ter. Le cooperative di cui al precedente comma 1 devono essere iscritte nel registro prefettizio di cui all'articolo 13 del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577, e successive modificazioni, ed i loro statuti devono prevedere espressamente ed inderogabilmente le clausole, di cui al successivo articolo 26 dello stesso decreto, che devono essere osservate in fatto. E' consentita l'ammissione a soci di elementi tecnici ed amministrativi anche in misura superiore a quella fissata dall'articolo 23 dello stesso decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577.
+
+((1-quater. - Nelle societa' di cui al comma 1 e' nullo ogni atto di trasferimento tra vivi di azioni o quote societarie da parte di soci di eta' compresa tra i 18 ed i 29 anni a soggetti che non abbiano tale requisito, ove stipulato entro dieci anni dalla data di presentazione della domanda di ammissione alle agevolazioni.))
+
+2\. Le agevolazioni finanziarie sono concesse ed erogate secondo criteri e modalita' stabiliti con decreto del Ministro per gli interventi straordinari nel Mezzogiorno, di concerto con il Ministro del tesoro, con il Ministro del lavoro e della previdenza sociale e con il Ministro dell'industria, del commercio e dell'artigianato, da emanarsi entro 60 giorni dall'entrata in vigore della legge di conversione del presente decreto. Tali criteri e modalita' tengono conto:
+
+a)(( LETTERA SOPPRESSA DALLA L. 11 AGOSTO 1991, N. 275 ))
+
+b) della residenza nel Mezzogiorno alla data di entrata in vigore del decreto-legge 24 ottobre 1985, n. 561, o a data anteriore, della maggioranza dei giovani partecipanti alle cooperative od alle societa';
+
+c) della necessita' di privilegiare le cooperative nella determinazione del contributo per le spese di gestione;
+
+d) della necessita' di evitare il cumulo delle agevolazioni finanziarie del presente decreto con altre agevolazioni regionali, nazionali e comunitarie;
+
+e) dell'obbligo a carico del soggetto agevolato di non distogliere dall'uso previsto, per un congruo periodo di tempo, i beni strumentali agevolati;
+
+f) della necessita' di prevedere procedure tali da assicurare la massima celerita' nell'erogazione dei contributi;
+
+g) dell'opportunita' di privilegiare le iniziative ubicate nelle zone a piu' alto livello di disoccupazione e, a parita' di condizioni economiche e produttive, le iniziative promosse da cooperative e societa' a prevalente composizione femminile ((e quelle promosse da societa' costituite esclusivamente da giovani)).
+
+3\. (( COMMA SOPPRESSO DALLA L. 11 AGOSTO 1991, N. 275 ))
+
+4\. Presso l'ufficio del Ministro per gli interventi straordinari nel Mezzogiorno e' costituito il comitato per lo sviluppo di nuova imprenditorialita' giovanile, con compiti di assistenza nella fase di progettazione e di avvio delle iniziative, di definizione di progetti-tipo in settori prioritari con particolare riguardo allo sviluppo della cooperazione, di promozione di attivita' di formazione, di proposta di ammissibilita' alle agevolazioni ((e di promozione di cultura imprenditoriale. Il comitato, su direttiva del Ministro per gli interventi straordinari nel Mezzogiorno, e con le proprie procedure, puo' gestire progetti ed interventi relativi alla imprenditorialita' giovanile, alle piccole e medie imprese e allo sviluppo locale utilizzando risorse regionali, nazionali e comunitarie.))
+
+5\. Il comitato e' nominato con decreto del Ministro per gli interventi straordinari nel Mezzogiorno ed e' composto da un esperto designato dal Ministro stesso con funzioni di presidente, da un esperto designato dal Ministro del lavoro e della previdenza sociale con funzioni di vice presidente, nonche' dai presidenti dell'IRI, dell'ENI, dell'EFIM, dell'Unioncamere e dal direttore generale della Cassa depositi e prestiti, o da loro delegati, nonche' da tre rappresentanti delle associazioni del movimento cooperativo maggiormente rappresentative a livello nazionale.((Il comitato dura in carica quattro anni.))
+
+6\. Per l'espletamento dei propri compiti, il comitato si avvale di una apposita segreteria tecnica, che utilizza personale e specifiche strutture posti a disposizione dagli organismi dell'intervento straordinario e dagli enti di gestione delle partecipazioni statali, sulla base delle direttive del Ministro per gli interventi straordinari nel Mezzogiorno impartite d'intesa con il Ministro delle partecipazioni statali. Allo stesso fine il presidente del comitato, previa deliberazione del comitato stesso puo' stipulare convenzioni con Universita', enti e centri di ricerca, enti pubblici anche economici, organizzazioni cooperative ed imprenditoriali ed altri organismi pubblici e privati.((Il periodo trascorso dal personale degli organismi dell'intervento straordinario e degli enti di gestione delle partecipazioni statali e delle societa' partecipate, in servizio presso la segreteria tecnica del comitato per lo sviluppo di nuova imprenditorialita' giovanile, e' considerato valido a tutti gli effetti da parte degli enti e delle societa' di provenienza. Gli organismi dell'intervento straordinario e degli enti di gestione delle partecipazioni statali sono tenuti ad assicurare al personale di cui al presente comma tutti gli sviluppi di carriera e di retribuzione riconosciuti al personale che continua a prestare la propria opera presso gli organismi e gli enti medesimi. In tale ambito dovra' essere adeguatamente considerata la qualita' dell'attivita' svolta dai propri dipendenti presso la segreteria tecnica del comitato per lo sviluppo di nuova imprenditorialita' giovanile, quale risulta anche dagli incarichi e dai livelli di responsabilita' attribuiti dallo stesso comitato.))
+
+7\. Il comitato, di intesa con le singole regioni meridionali, entro tre mesi dall'entrata in vigore della legge di conversione del presente decreto, articola a livello territoriale le attivita' di coordinamento e di sostegno delle iniziative, anche utilizzando personale e strutture degli organismi dell'intervento straordinario, al fine della ricezione delle domande di ammissione alle agevolazioni e della loro trasmissione al comitato medesimo, previo accertamento della regolarita' e completezza delle domande stesse e della relativa documentazione.
+
+7-bis. Le regioni meridionali possono costituire comitati regionali di promozione e di sviluppo dell'imprenditorialita' giovanile composti da rappresentanti della cooperazione, degli imprenditori e dei lavoratori e ne assicurano il funzionamento attraverso apposite segreterie tecniche anche decentrate territorialmente.((Il comitato costituito presso l'Ufficio del Ministro per gli interventi straordinari nel Mezzogiorno, mediante apposite convenzioni, puo' prestare assistenza tecnica alle regioni nella gestione delle leggi regionali per lo sviluppo della imprenditorialita' giovanile e dell'artigianato.))
+
+8\. Le domande delle cooperative e delle societa' di cui al precedente comma 1 volte ad ottenere le agevolazioni finanziarie, dirette al Ministro per gli interventi straordinari nel Mezzogiorno, sono presentate agli organismi periferici all'uopo indicati nel decreto di cui al comma 2 del presente articolo che le trasmettono al Ministro medesimo, il quale delibera l'ammissibilita' dei relativi progetti alle agevolazioni stesse, su proposta del comitato di cui al precedente comma 4. Ai fini della valutazione dei progetti, con particolare riguardo alla loro economicita' e produttivita', il comitato si avvale di un apposito nucleo di valutazione composto da cinque esperti nominati con decreto del Ministro per gli interventi straordinari nel Mezzogiorno, scelti tra persone che abbiano particolare competenza in materia di analisi tecnica e finanziaria di progetti.((Il nucleo di valutazione dura in carica tre anni.))
+
+9\. Le domande sono altresi' trasmesse alla regione competente per territorio, che puo' esprime entro il termine perentorio di trenta giorni dalla ricezione il proprio motivato parere al Ministro per gli interventi straordinari nel Mezzogiorno.
+
+10\. Alla esecuzione del provvedimento di ammissibilita' alle agevolazioni provvedono il comitato di cui al precedente comma 4 e la Cassa depositi e prestiti secondo criteri e modalita' fissati dal decreto di cui al comma 2 del presente articolo.
+
+10-bis. Ferme restando le disposizioni della legge 13 settembre 1982, n. 646, tutte le autorizzazioni e licenze necessarie per la realizzazione dei progetti ammessi alle agevolazioni si intendono rilasciate ove entro novanta giorni dalla regolare richiesta l'autorita' che doveva provvedervi non le abbia esplicitamente rifiutate.
+
+10-ter. Il termine di cui all'articolo 1 del decreto del Ministro dei trasporti 18 gennaio 1986, pubblicato nella Gazzetta Ufficiale n. 29 del 5 febbraio 1986, relativo al rilascio delle autorizzazioni speciali per il trasporto in conto terzi, anche ai fini dei benefici previsti dal presente decreto, e' prorogato al 31 marzo 1987.
+
+11\. Le disponibilita' finanziarie di cui al successivo comma 14 sono versate alla Cassa depositi e prestiti che istituisce apposita contabilita' separata per la erogazione delle agevolazioni di cui al presente decreto.((E' costituito presso la Cassa depositi e prestiti un fondo di garanzia per i finanziamenti ai soggetti di cui al comma 1 da parte del sistema creditizio. La garanzia del fondo puo' essere accordata dalla Cassa depositi e prestiti sotto forma di fidejussione solidale agli istituti di credito su richiesta dei medesimi o delle imprese interessate e su proposta di ammissibilita' del comitato di cui al comma 4. La dotazione del fondo e' costituita dalle somme provenienti dalla restituzione dei mutui agevolati di cui al comma 1, lettera b).))
+
+12\. Periodicamente, e almeno due volte l'anno, il Ministro per gli interventi straordinari nel Mezzogiorno effettua appositi confronti di verifica o di valutazione dello stato di attuazione del presente decreto con le organizzazioni delle categorie interessate maggiormente rappresentative sul piano nazionale e ne riferisce alla Commissione parlamentare per l'esercizio dei poteri di controllo sulla programmazione e l'attuazione degli interventi ordinari e straordinari nel Mezzogiorno.
+
+13\. Il Ministro per gli interventi straordinari nel Mezzogiorno, su proposta del comitato di cui al comma 4 del presente articolo, puo' disporre la revoca immediata del finanziamento dei progetti, per il venir meno dei requisiti soggettivi ed oggettivi in base ai quali le agevolazioni sono state concesse, accertato anche mediante ispezioni e verifiche disposte dal comitato stesso.
+
+14\. All'onere di lire 120 miliardi derivante, per l'anno 1985, dall'attuazione degli interventi di cui al presente articolo - ivi comprese le spese di funzionamento fissate, con i relativi criteri, con decreto del Ministro per gli interventi straordinari nel Mezzogiorno, di concerto con il Ministro del tesoro - si provvede mediante riduzione dello stanziamento iscritto al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1985, all'uopo utilizzando l'accantonamento "Interventi a favore delle imprese del Mezzogiorno diretti ad incrementare l'occupazione giovanile", a titolo di anticipazione degli stessi interventi per il triennio 1986-88. ((3))
+
+14-bis. Con l'entrata in vigore del provvedimento legislativo concernente "Disciplina organica dell'intervento straordinario nel Mezzogiorno" l'autorizzazione di spesa recata dal presente decreto e incrementata di lire 600 miliardi per il 1986, lire 700 miliardi per il 1987 e lire 780 miliardi per il 1988. Alla relativa copertura si provvede nell'ambito degli stanziamenti autorizzati con il predetto provvedimento legislativo concernente: "Disciplina organica dell'intervento straordinario nel Mezzogiorno". ((3))
+
+15\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+---------------
+
+AGGIORNAMENTO (3)
+
+La L. 11 agosto 1991, n.275 ha disposto ( con l'art. 2, comma 1) che "L'autorizzazione di spesa di cui all'articolo 1, commi 14 e 14-bis, del decreto-legge 30 dicembre 1985, n. 786, convertito, con modificazioni, dalla legge 28 febbraio 1986, n. 44, e' incrementata di lire 600 miliardi, in ragione di lire 300 miliardi per ciascuno degli anni 1992 e 1993. All'onere derivante dalla presente legge negli anni 1992 e 1993 si provvede mediante corrispondente riduzione delle proiezioni relative ai medesimi anni dello stanziamento iscritto, ai fini del bilancio triennale 1991-1993, al capitolo 9001 dello stato di previsione del Ministero del tesoro per il 1991, utilizzando l'accantonamento: "Rifinanziamento, per gli anni 1992 e 1993, della legge n. 44 del 1986, recante misure straordinarie per la promozione e lo sviluppo dell'imprenditorialita' giovanile nel Mezzogiorno"".
+
+## Art. 2
+
+1\. Le disposizioni del presente decreto hanno effetto dal 24 dicembre 1985.
+
+2\. (( COMMA SOPPRESSO DALLA L. 28 FEBBRAIO 1986, N.44 ))
+
+## Art. 3
+
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 dicembre 1985
+
+COSSIGA
+
+CRAXI, Presidente del Consiglio dei Ministri
+
+DE VITO, Ministro per gli interventi straordinari nel Mezzogiorno
+
+DE MICHELIS, Ministro del lavoro e della previdenza sociale
+
+GORIA, Ministro del tesoro
+
+ROMITA, Ministro del bilancio e della
+
+programmazione economica
+
+DARIDA, Ministro delle partecipazioni statali
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 31 dicembre 1985
+
+Atti di Governo, registro n. 57, foglio n. 33

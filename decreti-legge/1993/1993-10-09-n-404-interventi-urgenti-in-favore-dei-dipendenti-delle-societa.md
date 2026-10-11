@@ -1,0 +1,73 @@
+---
+title: "DECRETO-LEGGE 09 ottobre 1993, n. 404 — Interventi urgenti in favore dei dipendenti delle societa' della GEPI e dell'INSAR."
+identifier: "urn:nir:stato:decreto.legge:1993-10-09;404"
+eli: "https://www.normattiva.it/eli/id/1993/10/09/093G0480/CONSOLIDATED/19931208"
+type: decree_law
+jurisdiction: it
+language: it
+date: 1993-10-09
+last_amended: 1993-12-08
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 238 del 1993-10-09"
+codice_redazionale: "093G0480"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-09;404"
+retrieved: 2026-10-11
+---
+
+# DECRETO-LEGGE 09 ottobre 1993, n. 404
+
+**Interventi urgenti in favore dei dipendenti delle societa' della GEPI e dell'INSAR.**
+
+*Entrata in vigore del decreto: 10/10/1993.Decreto-Legge convertito con modificazioni dalla L.04 dicembre 1993, n. 501 (in G.U. 07/12/1993, n.287).*
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni al fine di assicurare la continuita' degli interventi in materia occupazionale a favore dei dipendenti delle societa' della GEPI e dell'INSAR;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 ottobre 1993;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri del tesoro e del bilancio e della programmazione economica;
+
+E M A N A
+
+il seguente decreto-legge:
+
+## Art. 1
+
+1\. In considerazione degli effetti occupazionali conseguenti allo sviluppo delle attivita' della GEPI secondo le linee del decreto- legge 20 maggio 1993, n. 149, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 237, per i dipendenti delle societa' non op- erative costituite dalla GEPI, operanti nei territori del Mezzogiorno di cui al decreto del Presidente della Repubblica 6 marzo 1978, n. 218, di cui all'articolo 6, comma 9, del decreto-legge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236, nonche' per i dipendenti dell'INSAR ((. . .)), i trattamenti di integrazione salariale straordinaria sono ulteriormente prorogati per un periodo di sei mesi con effetto dalla data di scadenza dei medesimi, con pari riduzione della durata del trattamento economico di mobilita' e ferma restando l'iscrizione degli stessi nella lista di mobilita' anche per il periodo per il quale non percepiscano le relative indennita'. ((Sono fatte salve le disposizioni di cui all'articolo 7, commi 6- bis , 6- ter , 6-quater , 6-quinquies, 6-sexies e 9 del decreto-legge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236)).
+
+((1- bis. Al comma 6- bis dell'articolo 7 del decreto-legge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236, sono soppresse le parole: "e che, per tutte le fattispecie, non abbiano fruito dei benefici di cui alla citata legge n. 223 del 1991".
+
+1- ter. Al comma 6- ter dell'articolo 7 del decreto-legge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236, dopo le parole: "lavoratori destinatari delle disposizioni in materia", sono aggiunte le seguenti: "di trattamento speciale di disoccupazione e")).
+
+2\. La disposizione di cui al comma 1 non si applica ai dipendenti in possesso dei requisiti necessari per usufruire delle disposizioni di cui all'articolo 6, commi 10 e 10-bis, del decreto-legge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236, e che hanno diritto a percepire l'indennita' di mobilita'.
+
+3\. I lavoratori di cui all'articolo 4, commi 3 e 4, del decreto- legge 29 marzo 1991, n. 108, convertito, con modificazioni, dalla legge 1 giugno 1991, n. 169, e successive modificazioni, in possesso dei requisiti indicati al comma 2, possono essere collocati in mobilita' ai sensi dell'articolo 22, comma 6, della legge 23 luglio 1991, n. 223.
+
+4\. I lavoratori di cui all'articolo 6, commi 12 e 13, del decreto- legge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236, beneficiano di un ulteriore periodo di sei mesi di godimento dei trattamenti ivi previsti con effetto dalla data di scadenza dei medesimi.
+
+((4- bis. Per i lavoratori rientranti nell'ambito di applicazione della legge 3 gennaio 1960, n. 5, e successive modificazioni, i requisiti di anzianita' contributiva per il pensionamento di anzianita' richiesti per l'applicazione dell'articolo 7, comma 7, della legge 23 luglio 1991, n. 223, sono fissati ad un numero inferiore di cinque anni rispetto a quanto previsto per il pensionamento di anzianita')).
+
+((5. Agli oneri derivanti dalle disposizioni dei commi 1, 3, 4 e 4- bis, valutati in lire 192,8 miliardi per l'anno 1993 si provvede a carico del Fondo di cui all'articolo 1 del decreto-legge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236)).
+
+## Art. 2
+
+1\. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 9 ottobre 1993
+
+SCALFARO
+
+CIAMPI, Presidente del Consiglio dei Ministri
+
+GIUGNI, Ministro del lavoro e della previdenza sociale
+
+BARUCCI, Ministro del tesoro
+
+SPAVENTA, Ministro del bilancio e della programmazione economica
+
+Visto, il Guardasigilli: CONSO

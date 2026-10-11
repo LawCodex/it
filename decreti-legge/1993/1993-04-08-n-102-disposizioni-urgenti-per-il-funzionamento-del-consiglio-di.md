@@ -1,0 +1,73 @@
+---
+title: "DECRETO-LEGGE 08 aprile 1993, n. 102 — Disposizioni urgenti per il funzionamento del consiglio di amministrazione delle poste e delle telecomunicazioni."
+identifier: "urn:nir:stato:decreto.legge:1993-04-08;102"
+eli: "https://www.normattiva.it/eli/id/1993/04/08/093G0168/CONSOLIDATED/19930608"
+type: decree_law
+jurisdiction: it
+language: it
+date: 1993-04-08
+last_amended: 1993-06-08
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 82 del 1993-04-08"
+codice_redazionale: "093G0168"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-04-08;102"
+retrieved: 2026-10-11
+---
+
+# DECRETO-LEGGE 08 aprile 1993, n. 102
+
+**Disposizioni urgenti per il funzionamento del consiglio di amministrazione delle poste e delle telecomunicazioni.**
+
+*Entrata in vigore del decreto: 9/4/1993.Decreto-Legge convertito con modificazioni dalla L. 01 giugno 1993, n. 178 (in G.U. 07/06/1993, n.131).*
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Visti gli articoli 3 e 5 del regio decreto-legge 23 aprile 1925, n. 520, convertito dalla legge 21 marzo 1926, n. 597, come modificati ed integrati dall'articolo 23 della legge 31 dicembre 1961, n. 1406, dall'articolo 34 della legge 18 febbraio 1963, n. 81, e dall'articolo 1 della legge 12 marzo 1968, n. 325;
+
+Vista la legge 29 gennaio 1992, n. 58, recante disposizioni per la riforma del settore delle telecomunicazioni;
+
+Visto il decreto-legge 19 marzo 1993, n. 69, che ha dettato la disciplina della proroga degli organi amministrativi;
+
+Visto il decreto del Ministro delle poste e delle telecomunicazioni in data 29 dicembre 1992, pubblicato nella Gazzetta Ufficiale n. 306 del 31 dicembre 1992, che ha approvato la convenzione tra il Ministero delle poste e delle telecomunicazioni e la S.p.a. IRITEL, in materia di servizi di telecomunicazioni;
+
+Considerato che per effetto di tale convenzione l'Azienda di Stato per i servizi telefonici e' stata soppressa;
+
+Visto il decreto legislativo 3 febbraio 1993, n. 29, recante razionalizzazione della organizzazione delle Amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, ed in particolare l'articolo 48, da cui consegue, dalla data di entrata in vigore del medesimo decreto, la decadenza dei componenti eletti dal personale nei consigli di amministrazione;
+
+Ritenuta la straordinaria necessita' ed urgenza di dettare disposizioni che consentano il regolare funzionamento del consiglio di amministrazione delle poste e delle telecomunicazioni;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione dell'8 aprile 1993;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle poste e delle telecomunicazioni;
+
+E M A N A
+
+il seguente decreto-legge:
+
+## Art. 1
+
+1\. A decorrere dalla data di entrata in vigore del presente decreto, cessano di far parte del consiglio di amministrazione delle poste e delle telecomunicazioni i cinque rappresentanti elettivi del personale, nonche' i dirigenti e i funzionari della soppressa Azienda di Stato per i servizi telefonici.
+
+2\. I componenti del consiglio di amministrazione delle poste e delle telecomunicazioni, che non siano membri di diritto, durano in carica quattro anni.
+
+3\. Per la validita' delle adunanze del consiglio di amministrazione e' richiesta la presenza della maggioranza dei componenti. Le deliberazioni sono adottate a maggioranza dei presenti; a parita' di voti prevale il voto del presidente.
+
+4\. (( COMMA SOPPRESSO DALLA L. 1 GIUGNO 1993, N. 178)).
+
+## Art. 2
+
+1\. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 8 aprile 1993
+
+SCALFARO
+
+AMATO, Presidente del Consiglio dei Ministri
+
+PAGANI, Ministro delle poste e delle telecomunicazioni
+
+Visto, il Guardasigilli: CONSO

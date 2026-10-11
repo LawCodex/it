@@ -1,0 +1,81 @@
+---
+title: "DECRETO-LEGGE 29 settembre 1998, n. 335 — Disposizioni urgenti in materia di lavoro straordinario."
+identifier: "urn:nir:stato:decreto.legge:1998-09-29;335"
+eli: "https://www.normattiva.it/eli/id/1998/09/29/098G0389/CONSOLIDATED/19981129"
+type: decree_law
+jurisdiction: it
+language: it
+date: 1998-09-29
+last_amended: 1998-11-29
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 227 del 1998-09-29"
+codice_redazionale: "098G0389"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1998-09-29;335"
+retrieved: 2026-10-11
+---
+
+# DECRETO-LEGGE 29 settembre 1998, n. 335
+
+**Disposizioni urgenti in materia di lavoro straordinario.**
+
+*Entrata in vigore del decreto: 30-9-1998. Decreto-Legge convertito con modificazioni dalla L. 27 novembre 1998, n. 409 (in G.U. 28/11/1998, n.279).*
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Ritenuta la straordinaria necessita' ed urgenza di intervenire per regolare la materia del lavoro straordinario di cui all'articolo 5- bis del regio decreto-legge 15 marzo 1923, n. 692, convertito dalla legge 17 aprile 1925, n. 473, e successive modificazioni;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 settembre 1998;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica;
+
+Emana
+
+il seguente decreto-legge:
+
+## Art. 1
+
+Disposizioni in materia di lavoro straordinario
+
+1\. ((In via transitoria, in attesa della nuova disciplina dell'orario di lavoro,)) L'articolo 5-bis del regio decretolegge 15 marzo 1923, n. 692, convertito dalla legge 17 aprile 1925, n. 473, introdotto dalla legge 30 ottobre 1955, n. 1079, e successive modificazioni, e' sostituito dal seguente:
+
+"Art. 5-bis. - 1. Nelle imprese industriali, in caso di superamento delle ((45)) ore settimanali, attraverso prestazioni di lavoro straordinario, il datore di lavoro informa, entro 24 ore dall'inizio di tali prestazioni, la Direzione provinciale del lavoro - Settore ispezione del lavoro competente per territorio ((, che vigila sull'osservanza delle norme di cui al presente articolo)).
+
+((2. Il ricorso al lavoro straordinario deve essere contenuto. In assenza di disciplina ad opera di contratti collettivi nazionali stipulati dalle organizzazioni sindacali comparativamente piu' rappresentative, il ricorso al lavoro straordinario e' ammesso soltanto previo accordo tra datore e prestatore di lavoro per un periodo non superiore a 250 ore annuali e a 80 ore trimestrali. La contrattazione integrativa si esercita nell'ambito dei tetti stabiliti dai contratti nazionali.))
+
+3\. Il ricorso al lavoro straordinario e' inoltre ammesso, salvo diversa previsione del contratto collettivo, in relazione a:
+
+a) casi di eccezionali esigenze tecnicoproduttive e di impossibilita' di fronteggiarle attraverso l'assunzione di altri lavoratori;
+
+b) casi di forza maggiore o casi in cui la cessazione del lavoro a orario normale costituisca un pericolo o un danno alle persone o alla produzione;
+
+((c) mostre, fiere e manifestazioni collegate all'attivita' produttiva, allestimento di prototipi, modelli o simili, predisposto per le stesse, preventivamente comunicati agli uffici competenti ai sensi dell'articolo 19 della legge 7 agosto 1990, n. 241, come sostituito dall'articolo 2, comma 10, della legge 24 dicembre 1993, n. 537, e, in tempo utile, alle rappresentanze sindacali in azienda, nonche' altri eventi particolari individuati da contratti collettivi nazionali stipulati dalle organizzazioni sindacali comparativamente piu' rappresentative.))
+
+((3-bis. Nei casi in cui si ricorra al lavoro straordinario ai sensi delle lettere a) e b) del comma 3, il datore di lavoro ne da' comunicazione, entro 24 ore dall'inizio di tali prestazioni, alle rappresentanze sindacali unitarie, ovvero alle rappresentanze sindacali aziendali e, in mancanza, alle associazioni territoriali di categoria aderenti alle confederazioni dei lavoratori comparativamente piu' rappresentative sul piano nazionale.))
+
+4\. In caso di violazione delle disposizioni di cui al presente articolo si applica la sanzione amministrativa ((da lire 100.000 a lire 300.000)) per ogni singolo lavoratore adibito a lavoro straordinario oltre i limiti temporali e al di fuori dei casi previsti dalla presente legge.".
+
+2\. Le somme derivanti dalle sanzioni amministrative previste dall'articolo 5-bis del regio decretolegge 15 marzo 1923, n. 692, convertito dalla legge 17 aprile 1925, n. 473, come sostituito dal comma 1 del presente articolo, sono versate alle entrate del bilancio dello Stato, per essere riassegnate al Fondo per l'occupazione di cui all'articolo 1, comma 7, del decreto-legge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236 ((e finalizzate al finanziamento di misure di riduzione o rimodulazione delle aliquote contributive allo scopo di favorire riduzioni dell'orario di lavoro e il ricorso al lavoro a tempo parziale, come previsto dall'articolo 13 della legge 24 giugno 1997, n. 196)).
+
+((2-bis. Con decreto del Ministro del lavoro e della previdenza sociale, da emanare entro il 28 febbraio 1999, sentite le organizzazioni sindacali comparativamente piu' rappresentative dei lavoratori e dei datori di lavoro, sono stabiliti termini e modalita' di effettuazione della informazione prevista dall'articolo 5-bis del citato regio decreto-legge n. 692 del 1923, convertito dalla citata legge n. 473 del 1925, come sostituito dal comma 1 del presente articolo, nei casi in cui i contratti collettivi di lavoro riferiscono l'orario normale alla durata media delle prestazioni lavorative in un periodo plurisettimanale)).
+
+## Art. 2
+
+Entrata in vigore
+
+1\. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 29 settembre 1998
+
+SCALFARO
+
+Prodi, Presidente del Consiglio dei Ministri
+
+Treu, Ministro del lavoro e della previdenza sociale
+
+Ciampi, Ministro del tesoro, del bilancio e della programmazione economica
+
+Visto, il Guardasigilli: Flick

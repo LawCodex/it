@@ -1,0 +1,535 @@
+---
+title: "DECRETO-LEGGE 14 agosto 2013, n. 93 — Disposizioni urgenti in materia di sicurezza e per il contrasto della violenza di genere, nonche' in tema di protezione civile e di commissariamento delle province."
+identifier: "urn:nir:stato:decreto.legge:2013-08-14;93"
+eli: "https://www.normattiva.it/eli/id/2013/08/16/13G00141/CONSOLIDATED/20251217"
+type: decree_law
+jurisdiction: it
+language: it
+date: 2013-08-14
+last_amended: 2025-12-17
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 191 del 2013-08-16"
+codice_redazionale: "13G00141"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-14;93"
+retrieved: 2026-10-11
+---
+
+# DECRETO-LEGGE 14 agosto 2013, n. 93
+
+**Disposizioni urgenti in materia di sicurezza e per il contrasto della violenza di genere, nonche' in tema di protezione civile e di commissariamento delle province.**
+
+*Entrata in vigore del provvedimento: 17/08/2013.Decreto-Legge convertito con modificazioni dalla L. 15 ottobre 2013, n. 119 (in G.U. 15/10/2013, n. 242).*
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Ritenuto che il susseguirsi di eventi di gravissima efferatezza in danno di donne e il conseguente allarme sociale che ne e' derivato rendono necessari interventi urgenti volti a inasprire, per finalita' dissuasive, il trattamento punitivo degli autori di tali fatti, introducendo, in determinati casi, misure di prevenzione finalizzate alla anticipata tutela delle donne e di ogni vittima di violenza domestica;
+
+Considerato, altresi', necessario affiancare con urgenza ai predetti interventi misure di carattere preventivo da realizzare mediante la predisposizione di un piano di azione straordinario contro la violenza sessuale e di genere, che contenga azioni strutturate e condivise, in ambito sociale, educativo, formativo e informativo per garantire una maggiore e piena tutela alle vittime;
+
+Ravvisata la necessita' di intervenire con ulteriori misure urgenti per alimentare il circuito virtuoso tra sicurezza, legalita' e sviluppo a sostegno del tessuto economico-produttivo, nonche' per sostenere adeguati livelli di efficienza del comparto sicurezza e difesa;
+
+Ravvisata, altresi', la necessita' di introdurre disposizioni urgenti in materia di ordine e sicurezza pubblica a tutela di attivita' di particolare rilievo strategico, nonche' per garantire soggetti deboli, quali anziani e minori, e in particolare questi ultimi per quanto attiene all'accesso agli strumenti informatici e telematici, in modo che ne possano usufruire in condizione di maggiore sicurezza e senza pregiudizio della loro integrita' psico-fisica;
+
+Ritenuta la straordinaria necessita' e urgenza di apportare ulteriori modifiche e integrazioni alla legge 24 febbraio 1992, n. 225, in materia di protezione civile, anche sulla scorta dell'esperienza acquisita nel periodo successivo all'entrata in vigore del decreto-legge 15 maggio 2012, n. 59, convertito, con modificazioni, dalla legge 12 luglio 2012, n. 100, nonche' di introdurre disposizioni per la funzionalita' del Corpo nazionale dei vigili del fuoco, potenziandone l'operativita';
+
+Ritenuta la straordinaria necessita' e urgenza di emanare disposizioni per assicurare legittimazione alle gestioni commissariali delle amministrazioni provinciali interessate dagli effetti della sentenza della Corte costituzionale n. 220 del 3 luglio 2013, che ha dichiarato l'illegittimita' costituzionale dell'articolo 23, commi 14, 15, 16, 17, 18, 19 e 20 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, e dell'articolo 17 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, nonche' per garantire la continuita' amministrativa degli organi provinciali ordinari e straordinari, nelle more della riforma organica dei livelli di governo provinciale e metropolitano;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del giorno 8 agosto 2013;
+
+Su proposta del Presidente del Consiglio dei ministri, del Ministro dell'interno, del Ministro del lavoro e delle politiche sociali con delega alle pari opportunita', del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze;
+
+Emana
+
+il seguente decreto-legge:
+
+## Capo I - Prevenzione e contrasto della violenza di genere
+
+### Art. 1
+
+Norme in materia di maltrattamenti,
+
+violenza sessuale e atti persecutori
+
+((1. All'articolo 61 del codice penale e' aggiunto, in fine, il seguente numero:
+
+"11-quinquies) l'avere, nei delitti non colposi contro la vita e l'incolumita' individuale, contro la liberta' personale nonche' nel delitto di cui all'articolo 572, commesso il fatto in presenza o in danno di un minore di anni diciotto ovvero in danno di persona in stato di gravidanza".
+
+1-bis. Il secondo comma dell'articolo 572 del codice penale e' abrogato.
+
+1-ter. All'articolo 609-ter, primo comma, del codice penale, il numero 5) e' sostituito dal seguente:
+
+"5) nei confronti di persona che non ha compiuto gli anni diciotto della quale il colpevole sia l'ascendente, il genitore, anche adottivo, il tutore")).
+
+2\. All'articolo 609-ter, primo comma, del codice penale, dopo il numero 5-bis) sono aggiunti i seguenti:
+
+"5-ter) nei confronti di donna in stato di gravidanza;
+
+5-quater) nei confronti di persona della quale il colpevole sia il coniuge, anche separato o divorziato, ovvero colui che alla stessa persona e' o e' stato legato da relazione affettiva, anche senza convivenza.".
+
+((2-bis. All'articolo 609-decies del codice penale sono apportate le seguenti modificazioni:
+
+a) al primo comma, dopo le parole: "per il delitto previsto dall'articolo 609-quater" sono inserite le seguenti: "o per i delitti previsti dagli articoli 572 e 612-bis, se commessi in danno di un minorenne o da uno dei genitori di un minorenne in danno dell'altro genitore";
+
+b) dopo il primo comma e' inserito il seguente:
+
+"Qualora riguardi taluno dei delitti previsti dagli articoli 572, 609-ter e 612-bis, commessi in danno di un minorenne o da uno dei genitori di un minorenne in danno dell'altro genitore, la comunicazione di cui al primo comma si considera effettuata anche ai fini dell'adozione dei provvedimenti di cui agli articoli 155 e seguenti, nonche' 330 e 333 del codice civile".
+
+2-ter. All'articolo 612, primo comma, del codice penale, le parole: "fino a euro 51" sono sostituite dalle seguenti: "fino a euro 1.032")).
+
+3\. All'articolo 612-bis del codice penale, sono apportate le seguenti modificazioni:
+
+((a) il secondo comma e' sostituito dal seguente:
+
+"La pena e' aumentata se il fatto e' commesso dal coniuge, anche separato o divorziato, o da persona che e' o e' stata legata da relazione affettiva alla persona offesa ovvero se il fatto e' commesso attraverso strumenti informatici o telematici"));
+
+((b) al quarto comma, dopo il secondo periodo sono inseriti i seguenti: "La remissione della querela puo' essere soltanto processuale. La querela e' comunque irrevocabile se il fatto e' stato commesso mediante minacce reiterate nei modi di cui all'articolo 612, secondo comma")).
+
+4\. All'articolo 8, comma 2, del decreto-legge 23 febbraio 2009, n. 11, convertito, con modificazioni, dalla legge 23 aprile 2009, n. 38, le parole: "valuta l'eventuale adozione di provvedimenti" sono sostituite dalle seguenti: "adotta i provvedimenti".
+
+((4-bis. All'articolo 11, comma 1, del decreto-legge 23 febbraio 2009, n. 11, convertito, con modificazioni, dalla legge 23 aprile 2009, n. 38, le parole: "di atti persecutori, di cui all'articolo 612-bis del codice penale, introdotto dall'articolo 7" sono sostituite dalle seguenti: "di cui agli articoli 572, 600, 600-bis, 600-ter, anche se relativo al materiale pornografico di cui all'articolo 600-quater.1, 600-quinquies, 601, 602, 609-bis, 609-ter, 609-quater, 609-quinquies, 609-octies o 612-bis del codice penale, introdotto dall'articolo 7")).
+
+### Art. 2
+
+Modifiche al codice di procedura penale e disposizioni concernenti i procedimenti penali per i delitti ((contro la persona))
+
+1\. Al codice di procedura penale sono apportate le seguenti modificazioni:
+
+((0a) all'articolo 101, comma 1, sono aggiunti, in fine, i seguenti periodi: "Al momento dell'acquisizione della notizia di reato il pubblico ministero e la polizia giudiziaria informano la persona offesa dal reato di tale facolta'. La persona offesa e' altresi' informata della possibilita' dell'accesso al patrocinio a spese dello Stato ai sensi dell'articolo 76 del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia, di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, e successive modificazioni";
+
+0b) all'articolo 266, comma 1, dopo la lettera f-ter) e' aggiunta la seguente:
+
+"f-quater) delitto previsto dall'articolo 612-bis del codice penale"));
+
+a) all'articolo 282-bis, comma 6, dopo la parola "571," ((sono inserite le seguenti: "582, limitatamente alle ipotesi procedibili d'ufficio o comunque aggravate,",)) le parole "e 609-octies" sono sostituite dalle seguenti: "((,)) 609-octies e 612, secondo comma ((,))" ((e sono aggiunte, in fine, le seguenti parole: ", anche con le modalita' di controllo previste all'articolo 275-bis"));
+
+((a-bis) all'articolo 282-quater, comma 1, e' aggiunto, in fine, il seguente periodo: "Quando l'imputato si sottopone positivamente ad un programma di prevenzione della violenza organizzato dai servizi socio-assistenziali del territorio, il responsabile del servizio ne da' comunicazione al pubblico ministero e al giudice ai fini della valutazione ai sensi dell'articolo 299, comma 2));
+
+b) all'articolo 299:
+
+1\) dopo il comma 2, e' inserito il seguente: "2-bis. I provvedimenti di cui ai commi 1 e 2 relativi alle misure previste dagli articoli 282-bis ((, 282-ter, 283, 284, 285 e 286, applicate nei procedimenti aventi ad oggetto delitti commessi con violenza alla persona, devono essere immediatamente comunicati, a cura della polizia giudiziaria, ai servizi socio-assistenziali e)) al difensore della persona offesa o, in mancanza di questo, alla persona offesa ((...)).";
+
+2\) al comma 3, dopo il primo periodo, e' inserito il seguente: "La richiesta di revoca o di sostituzione delle misure previste dagli articoli ((282-bis, 282-ter, 283, 284, 285 e 286, applicate nei procedimenti di cui al comma 2-bis del presente articolo, che non sia stata proposta in sede di interrogatorio di garanzia, deve essere contestualmente notificata, a cura della parte richiedente ed a pena di inammissibilita', presso il difensore della persona offesa o, in mancanza di questo, alla persona offesa, salvo che in quest'ultimo caso essa non abbia provveduto a dichiarare o eleggere domicilio. Il difensore e la persona offesa possono, nei due giorni successivi alla notifica, presentare memorie ai sensi dell'articolo 121. Decorso il predetto termine il giudice procede))."
+
+3\) al comma 4-bis, e' aggiunto, in fine, il seguente periodo: "La richiesta di revoca o di sostituzione delle misure previste dagli articoli ((282-bis, 282-ter, 283, 284, 285 e 286, applicate nei procedimenti di cui al comma 2-bis del presente articolo, deve essere contestualmente notificata, a cura della parte richiedente ed a pena di inammissibilita', presso il difensore della persona offesa o, in mancanza di questo, alla persona offesa, salvo che in quest'ultimo caso essa non abbia provveduto a dichiarare o eleggere domicilio)).".
+
+((b-bis) all'articolo 350, comma 1, sono aggiunte, in fine, le seguenti parole: ", e nei casi di cui all'articolo 384-bis";
+
+b-ter) all'articolo 351, comma 1-ter, dopo le parole: "previsti dagli articoli" e' inserita la seguente: "572," e le parole: "e 609-undecies" sono sostituite dalle seguenti: ", 609-undecies e 612-bis"));
+
+c) all'articolo 380, comma 2, dopo la lettera l-bis) e' aggiunta la seguente: "l-ter) delitti di maltrattamenti contro familiari e conviventi e di atti persecutori, previsti dall'articolo 572 e dall'articolo 612-bis del codice penale;";
+
+d) dopo l'articolo 384, e' inserito il seguente: "Art. 384-bis (Allontanamento d'urgenza dalla casa familiare) - 1. Gli ufficiali ed agenti di polizia giudiziaria hanno facolta' di disporre, previa autorizzazione del pubblico ministero, ((scritta, oppure resa oralmente e confermata per iscritto, o per via telematica,)) l'allontanamento urgente dalla casa familiare con il divieto di avvicinarsi ai luoghi abitualmente frequentati dalla persona offesa, nei confronti di chi e' colto in flagranza dei delitti di cui all'articolo 282-bis, comma 6, ove sussistano fondati motivi per ritenere che le condotte criminose possano essere reiterate ponendo in grave ed attuale pericolo la vita o l'integrita' fisica ((o psichica)) della persona offesa. ((La polizia giudiziaria provvede senza ritardo all'adempimento degli obblighi di informazione previsti dall'articolo 11 del decreto-legge 23 febbraio 2009, n. 11, convertito, con modificazioni, dalla legge 23 aprile 2009, n. 38, e successive modificazioni)).
+
+2\. Si applicano in quanto compatibili le disposizioni di cui agli articoli 385 e seguenti del presente titolo. ((Si osservano le disposizioni di cui all'articolo 381, comma 3. Della dichiarazione orale di querela si da' atto nel verbale delle operazioni di allontanamento)).";
+
+e) all'articolo 398, comma 5-bis, dopo le parole (("dagli articoli" e' inserita la seguente)): "572,";
+
+((f) all'articolo 406, comma 2-ter, dopo le parole: "di cui agli articoli" e' inserita la seguente: "572," e le parole: "e 590, terzo comma," sono sostituite dalle seguenti: ", 590, terzo comma, e 612-bis"));
+
+g) all'articolo 408, dopo il comma 3, e' aggiunto il seguente:
+
+"3-bis. ((Per i delitti commessi con violenza alla persona)), l'avviso della richiesta di archiviazione e' in ogni caso notificato, a cura del pubblico ministero, alla persona offesa ed il termine di cui al comma 3 e' elevato a venti giorni.";
+
+((h) all'articolo 415-bis, comma 1, dopo le parole: "e al difensore" sono inserite le seguenti: "nonche', quando si procede per i reati di cui agli articoli 572 e 612-bis del codice penale, anche al difensore della persona offesa o, in mancanza di questo, alla persona offesa"));
+
+((h-bis) all'articolo 449, comma 5, sono aggiunti, in fine, i seguenti periodi: "Quando una persona e' stata allontanata d'urgenza dalla casa familiare ai sensi dell'articolo 384-bis, la polizia giudiziaria puo' provvedere, su disposizione del pubblico ministero, alla sua citazione per il giudizio direttissimo e per la contestuale convalida dell'arresto entro le successive quarantotto ore, salvo che cio' pregiudichi gravemente le indagini. In tal caso la polizia giudiziaria provvede comunque, entro il medesimo termine, alla citazione per l'udienza di convalida indicata dal pubblico ministero"));
+
+i) all'articolo 498:
+
+1\) al comma 4-ter, dopo le parole "agli articoli" ((e' inserita la seguente)): "572,";
+
+2\) dopo il comma 4-ter e' aggiunto il seguente: "4-quater.
+
+Quando si procede per i reati previsti dal comma 4-ter, se la persona offesa e' maggiorenne il giudice assicura che l'esame venga condotto anche tenendo conto della particolare vulnerabilita' della stessa persona offesa, desunta anche dal tipo di reato per cui si procede, e ove ritenuto opportuno, dispone, a richiesta della persona offesa o del suo difensore, l'adozione di modalita' protette.".
+
+2\. Dopo l'articolo 132-bis, comma 1, lettera a), delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, di cui al decreto legislativo 28 luglio 1989, n. 271, e' inserita la seguente: "a-bis) ai delitti previsti dagli articoli 572 e da 609-bis a 609-octies e 612-bis del codice penale;".
+
+3\. Al comma 4-ter dell'articolo 76 del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia, di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, dopo le parole "La persona offesa dai reati di cui agli articoli" sono inserite le seguenti: (("572, 583-bis," e le parole: "e 609-octies" sono sostituite dalle seguenti: ", 609-octies e 612-bis")). Ai relativi oneri pari a 1 milione di euro per l'anno 2013 e a 2,7 milioni di euro a decorrere dall'anno 2014 si provvede, quanto a 1 milione di euro per l'anno 2013 e 400.000 euro per l'anno 2014, mediante corrispondente riduzione, per i medesimi anni, dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2013-2015, nell'ambito del programma «Fondi di riserva e speciali» della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2013, allo scopo parzialmente utilizzando, quanto a 1 milione di euro per l'anno 2013, l'accantonamento relativo al Ministero del lavoro e delle politiche sociali e quanto a 400.000 euro per l'anno 2014, l'accantonamento relativo al Ministero degli affari esteri, e quanto a 2,3 milioni di euro per l'anno 2014 e a 2,7 milioni di euro a decorrere dal 2015 mediante corrispondente riduzione delle risorse del Fondo di cui all'articolo 15, comma 5, della legge 6 luglio 2012, n. 96. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare con propri decreti le occorrenti variazioni di bilancio.
+
+4\. La disposizione di cui al comma 1, lettera c), entra in vigore dalla data di entrata in vigore della legge di conversione del presente decreto.
+
+((4-bis. All'articolo 4, comma 1, lettera a), del decreto legislativo 28 agosto 2000, n. 274, e successive modificazioni, dopo le parole: "alle fattispecie di cui al secondo comma perseguibili a querela di parte" sono inserite le seguenti: ", ad esclusione dei fatti commessi contro uno dei soggetti elencati dall'articolo 577, secondo comma, ovvero contro il convivente")).
+
+### Art. 3
+
+Misura di prevenzione per condotte di violenza domestica
+
+1\. Nei casi in cui alle forze dell'ordine sia segnalato , in forma non anonima, un fatto che debba ritenersi riconducibile ai reati di cui agli articoli ((581, 582, 610, 612, secondo comma, 612-bis, 612-ter, 614 e 635, consumati o tentati)), del codice penale, nell'ambito di violenza domestica, il questore, anche in assenza di querela, puo' procedere, assunte le informazioni necessarie da parte degli organi investigativi e sentite le persone informate dei fatti, all'ammonimento dell'autore del fatto. Ai fini del presente articolo si intendono per violenza domestica uno o piu' atti, gravi ovvero non episodici ((o commessi in presenza di minorenni)), di violenza fisica, sessuale, psicologica o economica che si verificano all'interno della famiglia o del nucleo familiare o tra persone legate, attualmente o in passato, da un vincolo di matrimonio o da una relazione affettiva, indipendentemente dal fatto che l'autore di tali atti condivida o abbia condiviso la stessa residenza con la vittima.
+
+2\. Si applicano, in quanto compatibili, le disposizioni dell'articolo 8, commi 1 e 2, del decreto-legge 23 febbraio 2009, n. 11, convertito, con modificazioni, dalla legge 23 aprile 2009, n. 38 , come modificato dal presente decreto. Il questore puo' richiedere al prefetto del luogo di residenza del destinatario dell'ammonimento l'applicazione della misura della sospensione della patente di guida per un periodo da uno a tre mesi. Il prefetto dispone la sospensione della patente di guida ai sensi dell'articolo 218 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285. Il prefetto non da' luogo alla sospensione della patente di guida qualora, tenuto conto delle condizioni economiche del nucleo familiare, risulti che le esigenze lavorative dell'interessato non possono essere garantite con il rilascio del permesso di cui all'articolo 218, comma 2, del citato decreto legislativo n. 285 del 1992.
+
+3\. Il Ministero dell'interno - Dipartimento della pubblica sicurezza, anche attraverso i dati contenuti nel Centro elaborazione dati di cui all'articolo 8 della legge 1° aprile 1981, n. 121, elabora annualmente un'analisi criminologica della violenza di genere ((, comprendente il monitoraggio sulla fattibilita' tecnica dell'impiego dei mezzi elettronici e degli altri strumenti tecnici di controllo di cui all'articolo 275-bis del codice di procedura penale,)) che costituisce un'autonoma sezione della relazione annuale al Parlamento di cui all'articolo 113 della predetta legge n. 121 del 1981.
+
+4\. In ogni atto del procedimento per l'adozione dell'ammonimento di cui al comma 1 devono essere omesse le generalita' del segnalante , salvo che la segnalazione risulti manifestamente infondata. La segnalazione e' utilizzabile soltanto ai fini dell'avvio del procedimento.
+
+5\. Le misure di cui al comma 1 dell'articolo 11 del decreto-legge 23 febbraio 2009, n. 11, convertito, con modificazioni, dalla legge 23 aprile 2009, n. 38, trovano altresi' applicazione nei casi in cui le forze dell'ordine, i presidi sanitari e le istituzioni pubbliche ricevono dalla vittima notizia dei reati di cui agli articoli ((581, 582, 610, 612, secondo comma, 614 e 635 del codice penale)) nell'ambito della violenza domestica di cui al comma 1 del presente articolo.
+
+5-bis. Quando il questore procede all'ammonimento ai sensi dell'articolo 8 del decreto-legge 23 febbraio 2009, n. 11, convertito, con modificazioni, dalla legge 23 aprile 2009, n. 38, come modificato dal presente decreto, e del presente articolo, informa senza indugio l'autore del fatto circa i servizi disponibili sul territorio, inclusi i consultori familiari, i servizi di salute mentale e i servizi per le dipendenze, come individuati dal Piano di cui all'articolo 5, finalizzati ad intervenire nei confronti degli autori di violenza domestica o di genere.
+
+((5-ter. I provvedimenti emessi ai sensi del presente articolo e dell'articolo 8 del decreto-legge 23 febbraio 2009, n. 11, convertito, con modificazioni, dalla legge 23 aprile 2009, n. 38, possono essere revocati su istanza dell'ammonito, non prima che siano decorsi tre anni dalla loro emissione, valutata la partecipazione del soggetto ad appositi percorsi di recupero presso gli enti di cui al comma 5-bis e tenuto conto dei relativi esiti.
+
+5-quater. Le pene per i reati di cui agli articoli 581, 582, 610, 612, secondo comma, 612-bis, 612-ter, 614 e 635 del codice penale sono aumentate se il fatto e' commesso, nell'ambito di violenza domestica, da soggetto gia' ammonito ai sensi del presente articolo, anche se la persona offesa e' diversa da quella per la cui tutela e' stato gia' adottato l'ammonimento previsto dal presente articolo.
+
+5-quinquies. Si procede d'ufficio per i reati previsti dagli articoli 581, 582, primo comma, 610, 612, secondo comma, nell'ipotesi di minaccia grave, 612-bis, 612-ter, 614, primo e secondo comma, e 635 del codice penale quando il fatto e' commesso, nell'ambito di violenza domestica, da soggetto gia' ammonito ai sensi del presente articolo, anche se la persona offesa e' diversa da quella per la cui tutela e' stato gia' adottato l'ammonimento previsto dal presente articolo)).
+
+### Art. 3.1
+
+(( (Particolari tutele per le vittime di violenza domestica). ))
+
+((1. L'organo di polizia che procede a seguito di denuncia o querela per fatti riconducibili ai delitti di cui all'articolo 362, comma 1-ter, del codice di procedura penale commessi in ambito di violenza domestica, qualora dai primi accertamenti emergano concreti e rilevanti elementi di pericolo di reiterazione della condotta, ne da' comunicazione al prefetto che, sulla base delle valutazioni espresse nelle riunioni di coordinamento di cui all'articolo 5, comma 2, del decreto-legge 6 maggio 2002, n. 83, convertito, con modificazioni, dalla legge 2 luglio 2002, n. 133, puo' adottare misure di vigilanza dinamica, da sottoporre a revisione trimestrale, a tutela della persona offesa)).
+
+### Art. 3-bis
+
+(( (Decadenza dall'assegnazione dell'alloggio di edilizia residenziale pubblica per gli autori di delitti di violenza domestica).))
+
+((1. In caso di condanna, anche non definitiva, o di applicazione della pena su richiesta delle parti ai sensi dell'articolo 444 del codice di procedura penale per i reati, consumati o tentati, di cui agli articoli 564, 572, 575, 578, 582, 583, 584, 605, 609-bis, 609-ter, 609-quinquies, 609-sexies e 609-octies del codice penale, commessi all'interno della famiglia o del nucleo familiare o tra persone legate, attualmente o in passato, da un vincolo di matrimonio, da unione civile o da una relazione affettiva, indipendentemente dal fatto della coabitazione, anche in passato, con la vittima, il condannato assegnatario di un alloggio di edilizia residenziale pubblica decade dalla relativa assegnazione; in tal caso le altre persone conviventi non perdono il diritto di abitazione e subentrano nella titolarita' del contratto.
+
+2\. Le regioni e le province autonome di Trento e di Bolzano provvedono, quale livello essenziale delle prestazioni ai sensi dell'articolo 117, secondo comma, lettera m), della Costituzione, alla regolamentazione dell'assegnazione degli alloggi di edilizia residenziale pubblica in conformita' alla presente disposizione)).
+
+### Art. 4
+
+Tutela per gli stranieri vittime di violenza domestica
+
+1\. Dopo l'articolo 18 del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero di cui al decreto legislativo 25 luglio 1998, n. 286, e' ((inserito)) il seguente:
+
+"Art. 18-bis (Permesso di soggiorno per le vittime di violenza domestica)
+
+"1. Quando, nel corso di operazioni di polizia, di indagini o di un procedimento per taluno dei delitti previsti dagli articoli 572, 582, 583, 583-bis, 605, 609-bis e 612-bis del codice penale o per uno dei delitti previsti dall'articolo 380 del codice di procedura penale, commessi sul territorio nazionale in ambito di violenza domestica, siano accertate situazioni di violenza o abuso nei confronti di uno straniero ed emerga un concreto ed attuale pericolo per la sua incolumita', come conseguenza della scelta di sottrarsi alla medesima violenza o per effetto delle dichiarazioni rese nel corso delle indagini preliminari o del giudizio, il questore, ((con il parere favorevole dell'autorita' giudiziaria procedente ovvero su proposta di quest'ultima)), rilascia un permesso di soggiorno ai sensi dell'articolo 5, comma 6, per consentire alla vittima di sottrarsi alla violenza. Ai fini del presente articolo, si intendono per violenza domestica ((uno o piu' atti, gravi ovvero non episodici)), di violenza fisica, sessuale, psicologica o economica che si verificano all'interno della famiglia o del nucleo familiare o ((tra persone legate, attualmente o in passato, da un vincolo di matrimonio o da una relazione affettiva)), indipendentemente dal fatto che l'autore di tali atti condivida o abbia condiviso la stessa residenza con la vittima.
+
+2\. Con la proposta o il parere di cui al comma 1, sono comunicati al questore gli elementi da cui risulti la sussistenza delle condizioni ivi indicate, con particolare riferimento alla gravita' ed attualita' del pericolo per l'incolumita' personale.
+
+3\. Il medesimo permesso di soggiorno puo' essere rilasciato dal questore quando le situazioni di violenza o abuso emergano nel corso di interventi assistenziali ((dei centri antiviolenza, dei servizi sociali territoriali o)) dei servizi sociali specializzati nell'assistenza delle vittime di violenza. In tal caso la sussistenza degli elementi e delle condizioni di cui al comma 2 e' valutata dal questore sulla base della relazione redatta dai medesimi servizi sociali. ((Ai fini del rilascio del permesso di soggiorno e' comunque richiesto il parere dell'autorita' giudiziaria competente ai sensi del comma 1)).
+
+4\. Il permesso di soggiorno di cui ai commi 1 e 3 e' revocato in caso di condotta incompatibile con le finalita' dello stesso, segnalata dal procuratore della Repubblica o, per quanto di competenza, dai servizi sociali di cui al coma 3, o comunque accertata dal questore, ovvero quando vengono meno le condizioni che ne hanno giustificato il rilascio.
+
+((4-bis. Nei confronti dello straniero condannato, anche con sentenza non definitiva, compresa quella adottata a seguito di applicazione della pena su richiesta ai sensi dell'articolo 444 del codice di procedura penale, per uno dei delitti di cui al comma 1 del presente articolo, commessi in ambito di violenza domestica, possono essere disposte la revoca del permesso di soggiorno e l'espulsione ai sensi dell'articolo 13 del presente testo unico)).
+
+5\. Le disposizioni del presente articolo si applicano, in quanto compatibili, anche ai cittadini di Stati membri dell'Unione europea e ai loro familiari.".
+
+### Art. 5
+
+Piano strategico nazionale contro la violenza nei confronti delle donne e la violenza domestica
+
+1\. Il Presidente del Consiglio dei ministri o l'Autorita' politica delegata per le pari opportunita', anche avvalendosi del Fondo per le politiche relative ai diritti e alle pari opportunita', di cui all'articolo 19, comma 3, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, elabora, con il contributo delle amministrazioni interessate, delle associazioni di donne impegnate nella lotta contro la violenza e dei centri antiviolenza, e adotta, previa acquisizione del parere in sede di Conferenza unificata, un Piano strategico nazionale contro la violenza nei confronti delle donne e la violenza domestica, di seguito denominato "Piano", con cadenza almeno triennale, in sinergia con gli obiettivi della Convenzione del Consiglio d'Europa sulla prevenzione e la lotta contro la violenza nei confronti delle donne e la violenza domestica, fatta a Istanbul l'11 maggio 2011 e ratificata ai sensi della legge 27 giugno 2013, n. 77.
+
+2\. Il Piano, con l'obiettivo di garantire azioni omogenee sul territorio nazionale, persegue le seguenti finalita', nei limiti delle risorse finanziarie di cui al comma 3:
+
+a) prevenire il fenomeno della violenza contro le donne attraverso l'informazione e la sensibilizzazione della collettivita', rafforzando la consapevolezza degli uomini e dei ragazzi nel processo di eliminazione della violenza contro le donne e nella soluzione dei conflitti nei rapporti interpersonali;
+
+b) sensibilizzare gli operatori dei settori dei media per la realizzazione di una comunicazione e informazione, anche commerciale, rispettosa della rappresentazione di genere e, in particolare, della figura femminile, anche attraverso l'adozione di codici di autoregolamentazione da parte degli operatori medesimi;
+
+c) promuovere un'adeguata formazione del personale della scuola alla relazione e contro la violenza e la discriminazione di genere e promuovere, nell'ambito delle indicazioni nazionali per il curricolo della scuola dell'infanzia e del primo ciclo di istruzione, delle indicazioni nazionali per i licei e delle linee guida per gli istituti tecnici e professionali, nella programmazione didattica curricolare ed extracurricolare delle scuole di ogni ordine e grado, la sensibilizzazione, l'informazione e la formazione degli studenti al fine di prevenire la violenza nei confronti delle donne e la discriminazione di genere, anche attraverso un'adeguata valorizzazione della tematica nei libri di testo;
+
+d) potenziare le forme di assistenza e di sostegno alle donne vittime di violenza e ai loro figli attraverso modalita' omogenee di rafforzamento della rete dei servizi territoriali, dei centri antiviolenza e dei servizi di assistenza alle donne vittime di violenza;
+
+e) garantire la formazione di tutte le professionalita' che entrano in contatto con fatti di violenza di genere o con atti persecutori;
+
+f) accrescere la protezione delle vittime attraverso il rafforzamento della collaborazione tra tutte le istituzioni coinvolte;
+
+g) promuovere lo sviluppo e l'attivazione, in tutto il territorio nazionale, di azioni, basate su metodologie consolidate e coerenti con linee guida appositamente predisposte, di recupero e di accompagnamento dei soggetti responsabili di atti di violenza nelle relazioni affettive, al fine di favorirne il recupero e di limitare i casi di recidiva;
+
+h) prevedere una raccolta strutturata e periodicamente aggiornata, con cadenza almeno annuale, dei dati del fenomeno, ivi compreso il censimento dei centri antiviolenza, anche attraverso il coordinamento delle banche di dati gia' esistenti;
+
+i) prevedere specifiche azioni positive che tengano anche conto delle competenze delle amministrazioni impegnate nella prevenzione, nel contrasto e nel sostegno delle vittime di violenza di genere e di atti persecutori e delle esperienze delle associazioni che svolgono assistenza nel settore;
+
+l) definire un sistema strutturato di governance tra tutti i livelli di governo, che si basi anche sulle diverse esperienze e sulle buone pratiche gia' realizzate nelle reti locali e sul territorio.
+
+2-bis. Al fine di definire un sistema strutturato di governance tra tutti i livelli di governo, sono istituiti presso il Dipartimento per le pari opportunita' della Presidenza del Consiglio dei ministri una Cabina di regia interistituzionale e un Osservatorio sul fenomeno della violenza nei confronti delle donne e sulla violenza domestica.
+
+Con uno o piu' decreti del Presidente del Consiglio dei ministri o dell'Autorita' politica delegata per le pari opportunita' sono disciplinati la composizione, il funzionamento e i compiti della Cabina di regia e dell'Osservatorio di cui al primo periodo. Ai componenti della Cabina di regia e dell'Osservatorio di cui al primo periodo non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.
+
+3\. Per il finanziamento del Piano, il Fondo per le politiche relative ai diritti e alle pari opportunita' di cui all'articolo 19, comma 3, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, e' incrementato di 5 milioni di euro ((per l'anno 2022 e di 15 milioni di euro annui a decorrere dall'anno 2023)). Tali risorse sono destinate dal Presidente del Consiglio dei ministri o dall'Autorita' politica delegata per le pari opportunita' alle azioni a titolarita' nazionale e regionale previste dal Piano, fatte salve quelle di cui al comma 2, lettera d), del presente articolo. Le risorse destinate alle azioni a titolarita' regionale ai sensi del presente comma sono ripartite annualmente tra le regioni dal Presidente del Consiglio dei ministri o dall'Autorita' politica delegata per le pari opportunita', previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, con il medesimo provvedimento di cui al comma 2 dell'articolo 5-bis del presente decreto.
+
+4\. All'attuazione delle disposizioni contenute nel presente articolo, fatto salvo quanto previsto dal comma 3, si provvede mediante l'utilizzo delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri a carico della finanza pubblica.
+
+5\. COMMA ABROGATO DALLA L. 30 DICEMBRE 2021, N. 234.
+
+### Art. 5-bis - Azioni per i centri antiviolenza e le case-rifugio
+
+1\. Al fine di dare attuazione a quanto previsto dall'articolo 5, comma 2, lettera d), del presente decreto, il Fondo per le politiche relative ai diritti e alle pari opportunita', di cui all'articolo 19, comma 3, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, e' incrementato di 10 milioni di euro per l'anno 2013, di 7 milioni di euro per l'anno 2014 e di 10 milioni di euro annui a decorrere dall'anno 2015. Al relativo onere si provvede, quanto a 10 milioni di euro per l'anno 2013, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 61, comma 22, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e successive modificazioni, e, quanto a 7 milioni di euro per l'anno 2014 e a 10 milioni di euro annui a decorrere dall'anno 2015, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307, relativa al Fondo per interventi strutturali di politica economica.
+
+Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+2\. Il Ministro delegato per le pari opportunita', previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, provvede annualmente a ripartire tra le regioni le risorse di cui al comma 1 tenendo conto:
+
+a) della programmazione regionale e degli interventi gia' operativi per contrastare la violenza nei confronti delle donne;
+
+b) del numero dei centri antiviolenza pubblici e privati gia' esistenti in ogni regione;
+
+c) del numero delle case-rifugio pubbliche e private gia' esistenti in ogni regione;
+
+d) della necessita' di riequilibrare la presenza dei centri antiviolenza e delle case-rifugio in ogni regione ((...)).
+
+3\. I centri antiviolenza e le case-rifugio, alle quali e' garantito l'anonimato, sono promossi da:
+
+a) enti locali, in forma singola o associata;
+
+b) associazioni e organizzazioni operanti nel settore del sostegno e dell'aiuto alle donne vittime di violenza, che abbiano maturato esperienze e competenze specifiche in materia di violenza contro le donne, che utilizzino una metodologia di accoglienza basata sulla relazione tra donne, con personale specificamente formato;
+
+c) soggetti di cui alle lettere a) e b), di concerto, d'intesa o in forma consorziata.
+
+4\. I centri antiviolenza e le case-rifugio operano in maniera integrata con la rete dei servizi socio-sanitari e assistenziali territoriali, tenendo conto delle necessita' fondamentali per la protezione delle persone che subiscono violenza, anche qualora svolgano funzioni di servizi specialistici.
+
+5\. Indipendentemente dalle metodologie di intervento adottate e dagli specifici profili professionali degli operatori coinvolti, la formazione delle figure professionali dei centri antiviolenza e delle case-rifugio promuove un approccio integrato alle fenomenologie della violenza, al fine di garantire il riconoscimento delle diverse dimensioni della violenza subita dalle persone, a livello relazionale, fisico, psicologico, sociale, culturale ed economico. Fa altresi' parte della formazione degli operatori dei centri antiviolenza e delle case-rifugio il riconoscimento delle dimensioni della violenza riconducibili alle diseguaglianze di genere.
+
+6\. Le regioni destinatarie delle risorse oggetto di riparto presentano al Ministro delegato per le pari opportunita', entro il 30 marzo di ogni anno, una relazione concernente le iniziative adottate nell'anno precedente a valere sulle risorse medesime.
+
+7\. Sulla base delle informazioni fornite dalle regioni, il Ministro delegato per le pari opportunita' presenta alle Camere, entro il 30 giugno di ogni anno, una relazione sullo stato di utilizzo delle risorse stanziate ai sensi del presente articolo.
+
+### Art. 5-ter
+
+(( (Accesso delle vittime minorenni ai centri antiviolenza). ))
+
+1\. ((Le vittime minorenni di violenza che hanno compiuto gli anni quattordici possono accedere ai centri antiviolenza senza necessaria preventiva autorizzazione dei genitori o degli esercenti la responsabilita' genitoriale per ricevere informazioni e orientamento)).
+
+## Capo II - Norme in materia di sicurezza per lo sviluppo, di tutela dell'ordine e della sicurezza pubblica e per la prevenzione e il contrasto di fenomeni di particolare allarme sociale
+
+### Art. 6
+
+Disposizioni finanziarie concernenti l'accelerazione degli interventi del PON Sicurezza nelle regioni del Mezzogiorno, il comparto sicurezza e difesa e la chiusura dell'emergenza nord Africa
+
+1\. Al fine di assicurare l'integrale utilizzo delle risorse ((dell'Unione europea)) relative al Programma operativo nazionale "Sicurezza per lo Sviluppo - Obiettivo Convergenza 2007-2013", ((a valere sul fondo di rotazione di cui all'articolo 5 della legge 16 aprile 1987, n. 183, e' autorizzata l'anticipazione, nei limiti delle risorse disponibili, su richiesta del Ministero dell'interno, delle quote di contributi europei)) e statali previste per il periodo 2007-2013. Per il reintegro delle somme anticipate dal Fondo di cui al periodo precedente, si provvede, per la parte ((europea)), con imputazione agli accrediti disposti dall'Unione europea a titolo di rimborso delle spese effettivamente sostenute e, per la parte statale, con imputazione agli stanziamenti autorizzati in favore del medesimo programma nell'ambito delle procedure previste dalla legge 16 aprile 1987, n. 183.
+
+2\. Al fine di assicurare la funzionalita' del Comparto sicurezza e difesa per l'esercizio finanziario 2013, la riduzione di cui al comma 2-bis dell'articolo 9 del decreto-legge 31 maggio 2010, n. 78, convertito, ((con modificazioni,)) dalla legge 30 luglio 2010, n. 122, non si applica alle Forze di polizia e alle Forze armate, ferma restando per le stesse Forze l'applicazione, per l'anno 2014, dell'articolo 16, comma 1, del decreto-legge 6 luglio 2011, n. 98, convertito, ((con modificazioni,)) dalla legge 15 luglio 2011, n. 111, con riferimento anche al medesimo articolo 9, comma 2-bis.
+
+3\. All'onere derivante dall'attuazione del comma 2, pari ad euro 6.299.662,00 per l'anno 2013, si provvede, quanto a euro 4 milioni, mediante corrispondente utilizzo delle somme disponibili in conto residui dell'autorizzazione di spesa di cui all'articolo 3, comma 155, ((secondo periodo)), della legge 24 dicembre 2003, n. 350, che sono versate all'entrata del bilancio dello Stato per la riassegnazione ai pertinenti capitoli di spesa del bilancio dello Stato per le finalita' di cui al presente articolo, e, quanto a euro 2.299.662,00, mediante corrispondente riduzione per l'anno 2013 della medesima autorizzazione. Il Ministro dell'economia e delle finanze e' autorizzato a disporre, con propri decreti, le occorrenti variazioni di bilancio.
+
+4\. All'articolo 18, comma 3, della legge 7 agosto 1990, n. 232, sono apportate le seguenti modificazioni:
+
+a) le parole: "il cui importo giornaliero non potra', comunque, eccedere la misura di lire 10.000 pro capite," sono sostituite dalle seguenti: "il cui importo giornaliero non potra', comunque, essere inferiore a quanto stabilito nelle vigenti convenzioni,";
+
+b) le parole "di concerto con il Ministro del tesoro" sono sostituite dalle seguenti: "di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la pubblica amministrazione e la semplificazione".
+
+5\. A valere sulle disponibilita' del fondo di cui all'articolo 23, comma 11, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, sono assegnate ((per l'anno 2013)) ai pertinenti capitoli dello stato di previsione del Ministero dell'interno la somma di 231.822.000 euro e la somma di 16.964.138 euro al Fondo nazionale di protezione civile, per le spese sostenute in conseguenza dello stato di emergenza umanitaria verificatosi nel territorio nazionale in relazione all'eccezionale afflusso di cittadini appartenenti ai paesi del nord Africa. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio anche in conto residui.
+
+### Art. 6-bis
+
+(( (Accordi territoriali di sicurezza integrata per lo sviluppo). ))
+
+((1. Per le aree interessate da insediamenti produttivi o da infrastrutture logistiche ovvero da progetti di riqualificazione e riconversione di siti industriali o commerciali dismessi o da progetti di valorizzazione dei beni di proprieta' pubblica o da altre iniziative di sviluppo territoriale, gli accordi tra il Ministero dell'interno e le regioni e gli enti locali, stipulati ai sensi dell'articolo 1, comma 439, della legge 27 dicembre 2006, n. 296, possono prevedere la contribuzione di altri enti pubblici, anche non economici, e di soggetti privati, finalizzata al sostegno strumentale, finanziario e logistico delle attivita' di promozione della sicurezza dei cittadini, del controllo del territorio e del soccorso pubblico. Per le predette contribuzioni non si applica l'articolo 1, comma 46, della legge 23 dicembre 2005, n. 266.
+
+2\. Gli accordi di cui al comma 1 possono anche prevedere, ai fini del contenimento della spesa, forme di ottimizzazione delle modalita' di impiego dei mezzi strumentali delle Forze di polizia e del Corpo nazionale dei vigili del fuoco, per le quali e' consentito, anche in deroga alle disposizioni vigenti in materia di contabilita' pubblica e comunque nel rispetto della legge 9 luglio 1990, n. 185, il ricorso alla permuta di materiali o di prestazioni. In tal caso, l'accordo e' soggetto a specifica autorizzazione del Ministero dell'interno, rilasciata d'intesa con il Ministero dell'economia e delle finanze.
+
+Si applicano, in quanto compatibili, gli articoli da 569 a 574 del testo unico delle disposizioni regolamentari in materia di ordinamento militare, di cui al decreto del Presidente della Repubblica 15 marzo 2010, n. 90, e successive modificazioni. In caso di accordi tra enti pubblici, anche non economici, la permuta puo' prevedere anche la cessione diretta di beni di proprieta' pubblica in cambio di prestazioni o di finanziamenti volti alla ristrutturazione di altri beni di proprieta' pubblica destinati a presidi di polizia.
+
+Restano fermi i controlli di regolarita' amministrativa e contabile previsti dalle norme vigenti. Con decreto del Ministro dell'interno, adottato di concerto con il Ministro dell'economia e delle finanze, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono definite ulteriori modalita' attuative del presente comma, nonche' individuate eccezionali esigenze per le quali puo' essere altresi' consentito il ricorso alla predetta permuta.
+
+3\. Relativamente alle aree di cui al comma 1, il prefetto puo' assumere iniziative volte alla semplificazione e all'accelerazione della conclusione dei procedimenti amministrativi di competenza degli enti pubblici interessati, anche indirettamente, alla realizzazione dei progetti di sviluppo territoriale. Ove riguardino beni di proprieta' pubblica, gli accordi di cui al presente articolo sono conclusi d'intesa con il Ministero dell'economia e delle finanze)).
+
+### Art. 7
+
+Disposizioni in materia di arresto in flagranza in occasione di manifestazioni sportive e per il contrasto alle rapine, nonche' in materia di concorso delle Forze armate nel controllo del territorio
+
+1\. All'articolo 8, comma 1-quinquies, della legge 13 dicembre 1989, n. 401, le parole: "30 giugno 2013" sono sostituite dalle seguenti: "30 giugno 2016.".
+
+2\. All'articolo 628, terzo comma, del codice penale, sono apportate le seguenti modificazioni:
+
+a) al numero 3-bis), dopo le parole "articolo 624-bis" sono aggiunte le seguenti: "o in luoghi tali da ostacolare la pubblica o privata difesa";
+
+b) dopo il numero 3-quater), ((e' aggiunto il seguente)):
+
+"3-quinquies) se il fatto e' commesso nei confronti di persona ultrasessantacinquenne;
+
+3-sexies) ((CAPOVERSO SOPPRESSO DALLA L. 15 OTTOBRE 2013, N. 119)).".
+
+((3. All'articolo 24, comma 74, primo periodo, del decreto-legge 1º luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, la parola: "interamente" e' soppressa e dopo le parole: "destinate a servizi di perlustrazione e pattuglia" sono inserite le seguenti: "nonche' di vigilanza di siti e obiettivi sensibili")).
+
+((3-bis. All'articolo 260 del codice penale e' aggiunto, in fine, il seguente comma: "Le disposizioni del presente articolo si applicano, altresi', agli immobili adibiti a sedi di ufficio o di reparto o a deposito di materiali dell'Amministrazione della pubblica sicurezza, l'accesso ai quali sia vietato per ragioni di sicurezza pubblica")).
+
+4\. All'articolo 682 del codice penale ((e' aggiunto, in fine, il seguente comma)): "Le disposizioni del ((primo comma)) si applicano, altresi', agli immobili adibiti a sedi di ufficio, di reparto o a deposito di materiali dell'Amministrazione della pubblica sicurezza, il cui accesso e' vietato per ragioni di sicurezza pubblica.".
+
+### Art. 7-bis
+
+(( (Operazioni congiunte nell'ambito di accordi internazionali di polizia). ))
+
+((1. Agli appartenenti agli organi di polizia degli Stati membri dell'Unione europea e degli altri Stati esteri, distaccati dalle autorita' competenti, che partecipano nel territorio nazionale ad operazioni congiunte disposte sulla base e secondo le modalita' indicate da accordi internazionali di cooperazione di polizia sono attribuite le funzioni di ufficiale o agente di pubblica sicurezza e di ufficiale o agente di polizia giudiziaria secondo quanto previsto dalla normativa nazionale e dai medesimi accordi.
+
+2\. Fatte salve diverse disposizioni contenute nei trattati internazionali ratificati dall'Italia, nei casi contemplati dagli accordi di cui al comma 1, l'uso delle armi di servizio e del relativo munizionamento, che siano stati preventivamente autorizzati dallo Stato, e' consentito unicamente in caso di legittima difesa secondo quanto previsto dalla normativa nazionale. Nei medesimi casi, ai veicoli utilizzati nel territorio nazionale dal personale di cui al comma 1 si applicano le stesse norme nazionali in materia di circolazione stradale previste per l'espletamento dei servizi di polizia, comprese quelle concernenti le prerogative di impiego di dispositivi sonori e luminosi e di passaggio ai pedaggi.
+
+3\. Fatte salve diverse disposizioni contenute nei trattati internazionali ratificati dall'Italia, la responsabilita' civile e penale degli appartenenti agli organi di polizia degli Stati membri dell'Unione europea e degli altri Stati esteri che operano nel territorio nazionale ai sensi del comma 2 e' regolata dagli accordi di cooperazione di cui al medesimo comma e, in mancanza, dalla normativa nazionale)).
+
+### Art. 8
+
+Contrasto al fenomeno dei furti in danno di infrastrutture energetiche e di comunicazione
+
+1\. Al codice penale sono apportate le seguenti modificazioni:
+
+a) all'articolo 625, primo comma, dopo il numero 7) e' ((inserito)) il seguente:
+
+"7-bis) se il fatto e' commesso su componenti metalliche o altro materiale sottratto ad infrastrutture destinate all'erogazione di energia, di servizi di trasporto, di telecomunicazioni o di altri servizi pubblici e gestite da soggetti pubblici o da privati in regime di concessione pubblica;";
+
+b) all'articolo 648, primo comma, e' aggiunto, in fine, il seguente periodo: "La pena e' aumentata quando il fatto riguarda denaro o cose provenienti da delitti di rapina aggravata ai sensi dell'articolo 628, terzo comma, di estorsione aggravata ai sensi dell'articolo 629, secondo comma, ovvero di furto aggravato ai sensi dell'articolo 625, primo comma, n. 7-bis).".
+
+2\. All'articolo 380, comma 2, lettera e), del codice di procedura penale, dopo le parole "numeri 2), prima ipotesi, 3) e 5)" sono inserite le seguenti: ", nonche' 7-bis)" e dopo la lettera f) e' inserita la seguente: "f-bis) delitto di ricettazione, nell'ipotesi aggravata di cui all'articolo 648, primo comma, ((secondo periodo, del codice penale));".
+
+### Art. 9
+
+Frode informatica commessa con sostituzione d'identita' digitale
+
+1\. All'articolo 640-ter del codice penale, sono apportate le seguenti modificazioni:
+
+a) dopo il secondo comma, e' inserito il seguente:
+
+"La pena e' della reclusione da due a sei anni e della multa da euro 600 a euro 3.000 se il fatto e' commesso con ((furto o indebito utilizzo)) dell'identita' digitale in danno di uno o piu' soggetti.";
+
+b) ((al terzo comma)), dopo le parole "di cui al secondo" sono inserite le seguenti: "e terzo".
+
+2\. ((COMMA SOPPRESSO DALLA L. 15 OTTOBRE 2013, N. 119)).
+
+3\. Al decreto legislativo 13 agosto 2010, n. 141, sono apportate le seguenti modificazioni:
+
+a) all'articolo 30-ter, dopo il comma 7, e' inserito il seguente:
+
+"7-bis. Fatto salvo quanto previsto dal comma 7, nell'ambito dello svolgimento della propria specifica attivita', gli aderenti possono inviare all'ente gestore richieste di verifica dell'autenticita' dei dati contenuti nella documentazione fornita dalle persone fisiche nei casi in cui ritengono utile, sulla base della valutazione degli elementi acquisiti, accertare l'identita' delle medesime.";
+
+b) ((LETTERA SOPPRESSA DALLA L. 15 OTTOBRE 2013, N. 119)).
+
+### Art. 9-bis
+
+(( (Adeguamento dei requisiti essenziali di sicurezza degli articoli pirotecnici in attuazione dell'articolo 47, paragrafo 2, della direttiva 2013/29/UE del Parlamento europeo e del Consiglio, del 12 giugno 2013). ))
+
+((1. Il punto 4) della prima sezione dell'allegato I annesso al decreto legislativo 4 aprile 2010, n. 58, e' sostituito dal seguente:
+
+"4) Gli articoli pirotecnici non devono contenere esplosivi detonanti diversi da polvere nera o miscele ad effetto lampo, ad eccezione degli articoli pirotecnici di categoria P1, P2 o T2, nonche' dei fuochi d'artificio di categoria 4 che soddisfino le seguenti condizioni:
+
+a) l'esplosivo detonante non puo' essere facilmente estratto dall'articolo pirotecnico;
+
+b) per la categoria P1, l'articolo pirotecnico non puo' avere una funzione di detonante o non puo', com'e' progettato e fabbricato, innescare esplosivi secondari;
+
+c) per le categorie 4, T2 e P2, l'articolo pirotecnico e' progettato in modo da non funzionare come detonante o, se e' progettato per la detonazione, non puo', com'e' progettato e fabbricato, innescare esplosivi secondari".
+
+2\. Le disposizioni di cui all'articolo 18, comma 7, del decreto legislativo 4 aprile 2010, n. 58, si applicano anche alle autorizzazioni concesse relative alle istanze presentate entro i termini di cui al comma 6 del medesimo articolo)).
+
+## Capo III - Norme in tema di protezione civile
+
+### Art. 10
+
+Modifiche alla legge 24 febbraio 1992, n. 225
+
+1\. All'articolo 5, della legge 24 febbraio 1992, n. 225, sono apportate le seguenti modifiche:
+
+a) il comma 1, e' sostituito dal seguente:
+
+"1. Al verificarsi degli eventi di cui all'articolo 2, comma 1, lettera c), ovvero nella loro imminenza, il Consiglio dei ministri, su proposta del Presidente del Consiglio dei ministri, ovvero, su sua delega, di un Ministro con portafoglio o del Sottosegretario di Stato alla Presidenza del Consiglio dei ministri segretario del Consiglio, formulata anche su richiesta del Presidente della regione interessata e comunque acquisitane l'intesa, delibera lo stato d'emergenza, fissandone la durata e determinandone l'estensione territoriale con specifico riferimento alla natura e alla qualita' degli eventi ((e disponendo in ordine all'esercizio del potere di ordinanza)). La delibera individua le risorse finanziarie destinate ai primi interventi ((di emergenza)) nelle more della ricognizione in ordine agli effettivi ed indispensabili fabbisogni da parte del Commissario delegato e autorizza la spesa nell'ambito ((del Fondo per le emergenze nazionali istituito ai sensi del comma 5-quinquies)), individuando nell'ambito dello stanziamento complessivo quelle finalizzate alle attivita' previste dalla lettera a) del comma 2. Ove il Capo del Dipartimento della protezione civile verifichi che le risorse finalizzate alla attivita' di cui alla lett. a) del comma 2, risultino o siano in procinto di risultare insufficienti rispetto agli interventi da porre in essere, presenta tempestivamente una relazione motivata al Consiglio dei Ministri, per la conseguente determinazione in ordine alla necessita' di integrazione delle risorse medesime. La revoca dello stato d'emergenza per venir meno dei relativi presupposti e' deliberata nel rispetto della procedura dettata per la delibera dello stato d'emergenza.";
+
+b) il comma 1-bis e' sostituito dal seguente:
+
+"1-bis. La durata della dichiarazione dello stato di emergenza non puo' superare i 180 giorni prorogabile per non piu' di ulteriori 180 giorni.";
+
+c) al comma 2, ((il quarto)) periodo e' sostituito dal seguente: "Fermo restando quanto previsto al comma 1, con le ordinanze si dispone, nel limite delle risorse disponibili, in ordine:
+
+a) all'organizzazione ed all'effettuazione dei servizi di soccorso e di assistenza alla popolazione interessata dall'evento;
+
+b) al ripristino della funzionalita' dei servizi pubblici e delle infrastrutture di reti strategiche, entro i limiti delle risorse finanziarie disponibili;
+
+c) alla realizzazione di interventi, anche strutturali, per la riduzione del rischio residuo strettamente connesso all'evento, entro i limiti delle risorse finanziarie disponibili e comunque finalizzate prioritariamente alla tutela della pubblica e privata incolumita';
+
+d) alla ricognizione dei fabbisogni per il ripristino delle strutture e delle infrastrutture, pubbliche e private, danneggiate, nonche' dei danni subiti dalle attivita' economiche e produttive, dai beni culturali e dal patrimonio edilizio, da porre in essere sulla base di procedure definite con la medesima o altra ordinanza;
+
+e) all'avvio dell'attuazione delle prime misure per far fronte alle esigenze urgenti di cui alla lettera d), entro i limiti delle risorse finanziarie disponibili e secondo le direttive dettate con delibera del Consiglio dei ministri, sentita la Regione interessata.";
+
+((c-bis) al comma 4-quinquies sono aggiunte, in fine, le seguenti parole: "e del Fondo per le emergenze nazionali"));
+
+d) al comma 5-quinquies le parole da "del Fondo Nazionale" a "n. 196." sono sostituite dalle seguenti: "del Fondo per le emergenze nazionali istituito presso la Presidenza del Consiglio dei Ministri - Dipartimento della Protezione civile. Per il finanziamento delle prime esigenze del suddetto Fondo e' autorizzata la spesa di 5 milioni di euro per l'anno 2013. Al relativo onere si provvede mediante corrispondente riduzione delle risorse del Fondo nazionale di protezione civile di cui all'articolo 6, comma 1, del decreto-legge 3 maggio 1991, n. 142, convertito, con modificazioni, dalla legge 3 luglio 1991, n. 195, come determinate dalla tabella C della legge 24 dicembre 2012, n. 228. A decorrere dall'anno finanziario 2014, la dotazione del Fondo per le emergenze nazionali e' determinata annualmente, ai sensi dell'articolo 11, comma 3, lett. d), della legge 31 dicembre 2009, n. 196. Sul conto finanziario della Presidenza del Consiglio dei Ministri, al termine di ciascun anno, dovranno essere evidenziati, in apposito allegato, gli utilizzi delle risorse finanziarie del "Fondo per le emergenze nazionali".".
+
+2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+3\. All'articolo 42, del decreto legislativo 14 marzo 2013, n. 33, dopo il comma 1 e' aggiunto il seguente:
+
+"1-bis. I Commissari delegati di cui all'articolo 5, della legge 24 febbraio 1992, n. 225, svolgono direttamente le funzioni di responsabili per la prevenzione della corruzione di cui all'articolo 1, comma 7, della legge 6 novembre 2012, n. 190 e di responsabili per la trasparenza di cui all' articolo 43 del presente decreto.".
+
+4\. All'articolo 1 del decreto-legge 30 novembre 2005, n. 245, convertito, con modificazioni, dalla legge 27 gennaio 2006, n. 21, e successive modificazioni, e' abrogato il comma 8.
+
+((4-bis. La lettera c-bis) del comma 1 dell'articolo 3 della legge 14 gennaio 1994, n. 20, introdotta dal comma 2-sexies dell'articolo 2 del decreto-legge 29 dicembre 2010, n. 225, convertito, con modificazioni, dalla legge 26 febbraio 2011, n. 10, e' abrogata.
+
+4-ter. Il secondo e il terzo periodo del comma 1 dell'articolo 27 della legge 24 novembre 2000, n. 340, introdotti dal comma 2-septies dell'articolo 2 del decreto-legge 29 dicembre 2010, n. 225, convertito, con modificazioni, dalla legge 26 febbraio 2011, n. 10, e successive modificazioni, sono soppressi)).
+
+### Art. 10-bis
+
+(( (Disposizioni concernenti l'uniforme del personale e la bandiera del Dipartimento della protezione civile). ))
+
+((1. Al fine di porre il personale in servizio presso il Dipartimento della protezione civile della Presidenza del Consiglio dei ministri in grado di essere prontamente individuato nell'espletamento delle attivita' di protezione civile di cui alla legge 24 febbraio 1992, n. 225, con decreto del Presidente del Consiglio dei ministri, da emanare entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono stabilite le norme riguardanti la disciplina delle uniformi e del loro uso.
+
+2\. Con il decreto di cui al comma 1 sono altresi' determinate le caratteristiche della bandiera d'istituto del Dipartimento della protezione civile della Presidenza del Consiglio dei ministri, nonche' le relative modalita' d'uso e custodia.
+
+3\. All'attuazione del presente articolo si provvede nell'ambito delle risorse finanziarie disponibili a legislazione vigente)).
+
+### Art. 11
+
+Disposizioni per il potenziamento del Corpo nazionale dei vigili del fuoco
+
+1\. Limitatamente alle attivita' di soccorso pubblico rese dal Corpo nazionale dei vigili del fuoco in contesti emergenziali dichiarati ai sensi della legge 24 febbraio 1992, n. 225, e' istituito nello stato di previsione del Ministero dell'interno - Missione "Soccorso Civile" - Programma "Prevenzione dal rischio e soccorso pubblico" un fondo per l'anticipazione delle immediate e indifferibili esigenze di spesa, dotato di uno stanziamento di 15 milioni di euro per l'anno 2013. A decorrere dall'anno 2014, lo stanziamento del fondo e' determinato annualmente con la legge di bilancio.
+
+2\. Una quota del fondo di cui all'articolo 2, comma 6-sexies, del decreto-legge 29 dicembre 2010, n. 225, convertito, con modificazioni, dalla legge 26 febbraio 2011, n. 10, pari a euro 15 milioni, e' assegnata per l'anno 2013 per le finalita' di cui al comma 1, mediante le procedure di cui all'articolo 5, comma 1, del decreto-legge 20 giugno 2012, n. 79, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 131.
+
+3\. Ai fini della regolazione delle somme anticipate a valere sul fondo di cui al comma 1, restano acquisite all'erario, in misura corrispondente, le risorse rimborsate a qualsiasi titolo al Corpo nazionale dei vigili del fuoco per le spese sostenute in occasione delle emergenze.
+
+4\. Alla ripartizione delle risorse del fondo di cui al comma 1 in favore degli stanziamenti della stato di previsione del Ministero dell'interno - Missione "Soccorso Civile", ivi compresi quelli relativi al trattamento economico accessorio spettante al personale del Corpo nazionale dei vigili del fuoco, si provvede con decreti del Ministro dell'interno, da comunicare anche con evidenze informatiche al Ministero dell'economia e delle finanze, tramite l'Ufficio centrale del bilancio.
+
+((4-bis. Al comma 5-bis dell'articolo 40 del codice delle leggi antimafia e delle misure di prevenzione, di cui al decreto legislativo 6 settembre 2011, n. 159, sono apportate le seguenti modificazioni:
+
+a) dopo le parole: "organi di polizia" sono inserite le seguenti: "e del Corpo nazionale dei vigili del fuoco";
+
+b) dopo le parole: "finalita' di giustizia," sono inserite le seguenti: "di soccorso pubblico,".
+
+4-ter. Dopo il comma 12 dell'articolo 48 del codice di cui al decreto legislativo 6 settembre 2011, n. 159, e successive modificazioni, e' inserito il seguente:
+
+"12-bis. Sono destinati in via prioritaria al Corpo nazionale dei vigili del fuoco autocarri, mezzi d'opera, macchine operatrici, carrelli elevatori e ogni altro mezzo per uso speciale, funzionali alle esigenze del soccorso pubblico")).
+
+5\. Al decreto legislativo 9 aprile 2008, n. 81, sono apportate le seguenti modificazioni:
+
+a) all'articolo 8, comma 4, le parole "e le forze di polizia" sono sostituite dalle seguenti: ", le forze di polizia e il Corpo nazionale dei vigili del fuoco";
+
+b) all'articolo 71, dopo il comma 13, e' inserito il seguente:
+
+"13-bis. Al fine di garantire la continuita' e l'efficienza dei servizi di soccorso pubblico e di prevenzione ed estinzione degli incendi, il Corpo nazionale dei vigili del fuoco puo' effettuare direttamente le verifiche periodiche di cui al comma 11, relativamente alle attrezzature riportate nell'allegato VII di cui dispone a titolo di proprieta' o comodato d'uso. Il Corpo nazionale dei vigili del fuoco provvede a tali adempimenti con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.";
+
+c) all'articolo 73, dopo il comma 5, e' ((aggiunto)) il seguente:
+
+"5-bis. Al fine di garantire la continuita' e l'efficienza dei servizi di soccorso pubblico e di prevenzione ed estinzione degli incendi, la formazione e l'abilitazione del personale del Corpo nazionale dei vigili del fuoco all'utilizzo delle attrezzature di cui al comma 5 possono essere effettuate direttamente dal Corpo nazionale medesimo, con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.".
+
+### Art. 11-bis
+
+(( (Interventi a favore della montagna). ))
+
+((1. Per l'anno 2013, le risorse accantonate per il medesimo anno ai sensi dell'articolo 1, comma 319, della legge 24 dicembre 2012, n. 228, pari a 1 milione di euro, sono utilizzate per attivita' di progettazione preliminare di interventi pilota per la realizzazione di interventi per la valorizzazione e la salvaguardia dell'ambiente e per la promozione dell'uso delle energie alternative. A tale scopo, le risorse sono assegnate con decreto del Ministro per gli affari regionali e le autonomie, di concerto con il Ministro dell'economia e delle finanze, sentiti l'Associazione nazionale dei comuni italiani (ANCI) e l'Unione nazionale comuni, comunita', enti montani (UNCEM), che indicano i comuni con maggiore rischio idrogeologico e con maggiore esperienza in attivita' di riqualificazione del territorio)).
+
+## Capo IV - ((Norme in tema di gestioni commissariali delle province e in favore degli enti locali))
+
+### Art. 12
+
+((ARTICOLO SOPPRESSO DALLA L. 15 OTTOBRE 2013, N. 119))
+
+### Art. 12-bis
+
+(( (Disposizioni finanziarie per gli enti locali). ))
+
+((1. All'articolo 1, comma 381, della legge 24 dicembre 2012, n. 228, e successive modificazioni, e' aggiunto, in fine, il seguente periodo: "Tale delibera, per gli enti locali che hanno approvato il bilancio di previsione entro il 31 agosto 2013, e' adottata entro il termine massimo del 30 novembre 2013".
+
+2\. Il termine di cui all'articolo 1, comma 9, del decreto-legge 8 aprile 2013, n. 35, convertito, con modificazioni, dalla legge 6 giugno 2013, n. 64, e' differito al 31 dicembre 2013)).
+
+### Art. 13
+
+Entrata in vigore
+
+1\. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 agosto 2013
+
+NAPOLITANO
+
+Letta, Presidente del Consiglio dei ministri
+
+Alfano, Ministro dell'interno
+
+Giovannini, Ministro del lavoro e delle politiche sociali
+
+Cancellieri, Ministro della giustizia
+
+Saccomanni, Ministro dell'economia e delle finanze
+
+Visto, il Guardasigilli: Cancellieri

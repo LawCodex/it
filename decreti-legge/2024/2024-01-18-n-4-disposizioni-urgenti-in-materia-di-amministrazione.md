@@ -1,0 +1,301 @@
+---
+title: "DECRETO-LEGGE 18 gennaio 2024, n. 4 — Disposizioni urgenti in materia di amministrazione straordinaria delle imprese di carattere strategico."
+identifier: "urn:nir:stato:decreto.legge:2024-01-18;4"
+eli: "https://www.normattiva.it/eli/id/2024/01/18/24G00014/CONSOLIDATED/20260101"
+type: decree_law
+jurisdiction: it
+language: it
+date: 2024-01-18
+last_amended: 2026-01-01
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 14 del 2024-01-18"
+codice_redazionale: "24G00014"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-01-18;4"
+retrieved: 2026-10-11
+---
+
+# DECRETO-LEGGE 18 gennaio 2024, n. 4
+
+**Disposizioni urgenti in materia di amministrazione straordinaria delle imprese di carattere strategico.**
+
+*Entrata in vigore del provvedimento: 19/01/2024*
+
+*Decreto-Legge convertito con modificazioni dalla L. 15 marzo 2024, n. 28 (in G.U. 18/03/2024, n. 65).*
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87, quinto comma, della Costituzione;
+
+Visto il decreto legislativo 8 luglio 1999, n. 270, recante «Nuova disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza, a norma dell'articolo 1 della legge 30 luglio 1998, n. 274»;
+
+Visto il decreto-legge 23 dicembre 2003, n. 347, convertito, con modificazioni, dalla legge 18 febbraio 2004, n. 39, recante «Misure urgenti per la ristrutturazione industriale di grandi imprese in stato di insolvenza»;
+
+Visto il decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231, recante «Disposizioni urgenti a tutela della salute, dell'ambiente e dei livelli di occupazione, in caso di crisi di stabilimenti industriali di interesse strategico nazionale»;
+
+Visto il decreto-legge 5 gennaio 2015, n. 1, convertito con modificazioni, dalla legge 4 marzo 2015, n. 20, recante «Disposizioni urgenti per l'esercizio di imprese di interesse strategico nazionale in crisi e per lo sviluppo della citta' e dell'area di Taranto»;
+
+Visto il decreto-legge 16 dicembre 2019, n. 142, convertito, con modificazioni, dalla legge 7 febbraio 2020, n. 5, recante «Misure urgenti per il sostegno al sistema creditizio del Mezzogiorno e per la realizzazione di una banca di investimento»;
+
+Visto il decreto-legge 5 gennaio 2023, n. 2, convertito, con modificazioni, dalla legge 3 marzo 2023, n. 17.
+
+Ritenuta la straordinaria necessita' e urgenza di prevedere misure di carattere procedimentale e processuale a garanzia della tempestivita' ed efficacia della procedura di amministrazione straordinaria delle grandi imprese in crisi, nonche' di adottare ulteriori misure finalizzate ad assicurare la continuita' produttiva e occupazionale degli stabilimenti industriali di interesse strategico nazionale;
+
+Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 16 gennaio 2024;
+
+Sulla proposta del Presidente del Consiglio dei ministri e dei Ministri delle imprese e del made in Italy, dell'economia e delle finanze e del lavoro e delle politiche sociali, di concerto con i Ministri della giustizia e per gli affari europei, il Sud, le politiche di coesione e il PNRR;
+
+Emana
+
+il seguente decreto-legge:
+
+## Art. 1
+
+Disposizioni sull'amministrazione straordinaria delle societa' strategiche partecipate da amministrazioni pubbliche statali
+
+1\. All'articolo 2, comma 2, del decreto-legge 23 dicembre 2003, n. 347, convertito, con modificazioni, dalla legge 18 febbraio 2004, n. 39, il quarto periodo e' sostituito dai seguenti:
+
+«Nei casi di societa' partecipate direttamente o indirettamente da amministrazioni pubbliche statali, ad eccezione di quelle emittenti azioni quotate su mercati regolamentati, l'ammissione immediata alla procedura di amministrazione straordinaria di imprese che gestiscono uno o piu' stabilimenti industriali di interesse strategico nazionale ai sensi dell'articolo 1 del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231, puo' avvenire, su istanza dei soci che detengano, anche congiuntamente, direttamente o indirettamente, almeno il 30 per cento delle quote societarie, quando i soci stessi abbiano segnalato all'organo amministrativo la ricorrenza dei requisiti di cui all'articolo 1 ((del presente decreto)) e l'organo amministrativo abbia omesso di presentare l'istanza di cui al comma 1 entro i successivi quindici giorni ovvero, nello stesso termine, abbia rifiutato di provvedere, pur ricorrendo i suddetti requisiti.
+
+Dalla data di presentazione dell'istanza di cui al quarto periodo e fino alla chiusura della procedura di amministrazione straordinaria oppure al passaggio in giudicato del provvedimento di cui all'articolo 4, comma 1-bis, non puo' essere proposta la domanda ((prevista dall'articolo 12 del codice della crisi d'impresa e dell'insolvenza, di cui al decreto legislativo)) 12 gennaio 2019, n. 14, ne' possono essere presentate o proseguite domande di accesso ad uno degli strumenti di regolazione della crisi o dell'insolvenza disciplinati dallo stesso ((codice di cui al)) decreto legislativo n. 14 del 2019. Se alla data di presentazione dell'istanza di ammissione alla procedura di amministrazione straordinaria risulta depositata la domanda di nomina dell'esperto ((prevista dall'articolo 12 del citato codice di cui al decreto)) legislativo n. 14 del 2019, la relativa domanda e' archiviata.».
+
+((1-bis. All'articolo 27, comma 2, lettera a), del decreto legislativo 8 luglio 1999, n. 270, dopo le parole: "tramite la cessione dei complessi aziendali" sono inserite le seguenti: "o dei contratti o dei diritti, anche di natura obbligatoria, aventi a oggetto, in tutto o in parte, gli stessi complessi aziendali".
+
+1-ter. A seguito dell'ammissione immediata alla procedura di amministrazione straordinaria di imprese che gestiscono uno o piu' stabilimenti industriali di interesse strategico nazionale ai sensi dell'articolo 1 del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231, il commissario straordinario, entro sei mesi dal provvedimento di ammissione, comunica il piano industriale al Ministero delle imprese e del made in Italy)).
+
+## Art. 2
+
+Disposizioni in materia di utilizzo delle risorse di cui all'articolo 1 del decreto-legge 16 dicembre 2019, n. 142
+
+1\. All'articolo 1 del decreto-legge 16 dicembre 2019, n. 142, convertito, con modificazioni, dalla legge 7 febbraio 2020, n. 5 dopo il comma 1-quinquies e' aggiunto il seguente: «1-sexies. Al fine di supportare le indifferibili e urgenti esigenze di continuita' produttiva e aziendale, indispensabile a preservare la funzionalita' produttiva degli impianti siderurgici della Societa' ILVA S.p.A., di cui all'articolo 3, comma 1, del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231, e assicurare la salvaguardia dell'ambiente e la sicurezza nei luoghi di lavoro, qualora le societa' che gestiscono gli impianti anzidetti siano ammesse alla procedura di amministrazione straordinaria, possono essere concessi dal Ministero dell'economia e delle finanze uno o piu' finanziamenti a titolo oneroso della durata massima di cinque anni, in favore delle medesime societa', nel limite massimo di 320 milioni di euro per l'anno 2024. Il finanziamento prevede l'applicazione di un tasso di interesse calcolato a condizioni di mercato ed e' soggetto a restituzione, per capitale e interessi, in prededuzione rispetto ad ogni altra posizione debitoria della procedura anche in deroga all'articolo 222 del codice della crisi d'impresa e dell'insolvenza, di cui al decreto legislativo 12 gennaio 2019, n. 14. Il finanziamento di cui al presente comma e' concesso con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro delle imprese e del made in Italy, previa richiesta motivata del commissario straordinario». ((3))
+
+2\. Agli oneri di cui al presente articolo, pari a 320 milioni di euro per l'anno 2024, si fa fronte mediante corrispondente versamento all'entrata del bilancio dello Stato delle risorse disponibili, in conto residui, di cui all'articolo 1, comma 1-ter, del decreto-legge 16 dicembre 2019, n. 142 convertito, con modificazioni, dalla legge 7 febbraio 2020, n. 5.
+
+------------
+
+AGGIORNAMENTO (3)
+
+E' stato ripristinato il testo gia' in vigore dal 19-3-2024 a seguito della modifica dell'art. 3, comma 11, del D.L. 27 dicembre 2024, n. 202, che disponeva la modifica del comma 1 del presente articolo, ad opera della L. 21 febbraio 2025, n. 15, di conversione del D.L. medesimo.
+
+## Art. 2-bis
+
+(( (Misure per il sostegno e l'accesso alla liquidita' delle microimprese e delle piccole e medie imprese che forniscono beni e servizi a imprese di carattere strategico ammesse alla procedura di amministrazione straordinaria).))
+
+((1. Alle microimprese e alle piccole e medie imprese, come definite nell'allegato I al regolamento (UE) n. 651/2014 della Commissione, del 17 giugno 2014, che incontrano difficolta' di accesso al credito a causa dell'aggravamento della posizione debitoria di imprese committenti che gestiscono almeno uno stabilimento industriale di interesse strategico nazionale ai sensi dell'articolo 1 del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231, e che sono ammesse alla procedura di amministrazione straordinaria in data successiva al 3 febbraio 2024, e' concessa a titolo gratuito, anche se rientranti nella fascia 5 del modello di valutazione di cui alla parte IX delle vigenti condizioni di ammissibilita' e disposizioni di carattere generale del Fondo di garanzia per le piccole e medie imprese, di cui al decreto del Ministro delle imprese e del made in Italy del 30 giugno 2023, di cui alla comunicazione pubblicata nella Gazzetta Ufficiale n. 171 del 24 luglio 2023, a decorrere dal 3 febbraio 2024 e fino alla chiusura della predetta procedura di amministrazione straordinaria, la garanzia del Fondo di cui all'articolo 2, comma 100, lettera a), della legge 23 dicembre 1996, n. 662, su finanziamenti di importo massimo pari ai crediti vantati nei confronti dell'impresa committente, fino alla misura:
+
+a) dell'80 per cento dell'importo dell'operazione finanziaria, nel caso di garanzia diretta;
+
+b) del 90 per cento dell'importo dell'operazione finanziaria garantito dal garante di primo livello, nel caso di riassicurazione.
+
+2\. Per l'accesso alla garanzia del Fondo di cui al comma 1, le imprese di cui al suddetto comma 1 devono aver prodotto, in un periodo non risalente oltre i cinque esercizi precedenti la data di presentazione della richiesta di garanzia, almeno il 35 per cento del fatturato medio complessivo nei confronti del committente sottoposto alle procedure di cui al medesimo comma 1. A tale fine, alla richiesta di garanzia del Fondo deve essere allegata apposita dichiarazione sostitutiva di atto notorio, sottoscritta dal legale rappresentante dell'impresa beneficiaria e controfirmata dal presidente del collegio sindacale o dal revisore unico, ovvero, nel caso in cui tali organi sociali non siano presenti, da un professionista iscritto nel Registro dei revisori legali, nell'Albo dei dottori commercialisti e degli esperti contabili o nell'albo dei consulenti del lavoro, attestante la sussistenza, alla data della richiesta della garanzia del Fondo, del requisito di cui al primo periodo.
+
+3\. Alla copertura degli oneri derivanti dall'attuazione del presente articolo si provvede, in prima istanza, a valere sulle risorse, libere da impegni alla data del 3 febbraio 2024, assegnate alla riserva del Fondo di garanzia istituita ai sensi del decreto del Ministro dello sviluppo economico 17 ottobre 2016, pubblicato nella Gazzetta Ufficiale n. 9 del 12 gennaio 2017. Eventuali maggiori oneri che dovessero eccedere l'ammontare delle predette risorse sono posti a carico della dotazione del medesimo Fondo di garanzia a legislazione vigente, nel limite delle risorse libere da impegni e fino all'importo massimo di 30 milioni di euro, senza nuovi o maggiori oneri per la finanza pubblica.))
+
+## Art. 2-ter
+
+(( (Istituzione del contributo in conto interesse per le imprese dell'indotto).))
+
+((1. Per l'anno 2024, sulle operazioni finanziarie di cui all'articolo 2-bis puo' essere altresi' richiesta la concessione di un contributo a fondo perduto finalizzato ad abbattere il tasso di interesse applicato sulle medesime operazioni. Il predetto contributo e' riconosciuto alle microimprese e alle piccole e medie imprese come definite dall'articolo 2-bis, ai sensi e nei limiti della vigente disciplina europea in materia di aiuti di importanza minore ("de minimis"), ed e' pari al valore complessivo, attualizzato alla data di concessione dell'aiuto, della differenza tra gli interessi calcolati, nell'arco dell'intera durata dell'operazione, al tasso contrattuale e gli interessi determinati applicando alla medesima operazione un tasso di interesse pari al 50 per cento del tasso contrattuale. Per l'attualizzazione si applica il vigente tasso, determinato in conformita' a quanto stabilito nella comunicazione della Commissione europea 2008/C 14/02 relativa alla revisione del metodo di fissazione dei tassi di riferimento e di attualizzazione.
+
+2\. Ai fini dell'accesso al contributo di cui al comma 1, il tasso di interesse applicato dal soggetto finanziatore all'operazione finanziaria non puo' essere superiore al tasso di interesse medio praticato, nell'ultimo anno, su operazioni finanziarie aventi finalita' e forma tecnica analoghe concesse alla stessa impresa ovvero, in assenza di tale riferimento, a imprese con caratteristiche e profilo di rischio simili. A tal fine, il soggetto finanziatore che concede l'operazione finanziaria oggetto della richiesta della garanzia di cui all'articolo 2-bis e del contributo di cui al comma 1 del presente articolo e' tenuto a rilasciare apposita dichiarazione.
+
+3\. Con decreto del Ministro delle imprese e del made in Italy, da adottare entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono stabilite le modalita' di attuazione delle disposizioni del presente articolo, anche al fine di assicurare il rispetto del limite di spesa di cui al comma 4, ed e' individuato il soggetto incaricato della relativa gestione, i cui oneri sono posti a carico delle risorse destinate all'intervento di cui al comma 4, entro il limite massimo del 2 per cento.
+
+4\. Agli oneri derivanti dall'attuazione del presente articolo, pari a 10 milioni di euro per l'anno 2024, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2024-2026, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2024, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle imprese e del made in Italy.))
+
+## Art. 2-quater - Ulteriori misure di protezione delle imprese dell'indotto che hanno assicurato la continuita' produttiva
+
+1\. I crediti vantati dalle imprese dell'indotto di cui al comma 3, o dai cessionari e garanti di tali crediti, inclusa la societa' Sace S.p.a., nei confronti di imprese committenti ammesse alla procedura di amministrazione straordinaria in data successiva alla data del 3 febbraio 2024, che gestiscono almeno uno stabilimento industriale di interesse strategico nazionale ai sensi dell'articolo 1 del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231, sono prededucibili ai sensi dell'articolo 6 del codice della crisi d'impresa e dell'insolvenza, di cui al decreto legislativo 12 gennaio 2019, n. 14, e possono essere soddisfatti per il valore nominale del capitale, degli interessi e delle spese ai sensi dell'articolo 222, comma 3, del medesimo codice, se anteriori all'ammissione alla predetta procedura, ove riferiti a prestazioni di beni e servizi, anche non continuative.
+
+2\. Fermo restando quanto previsto dall'articolo 166 del codice della crisi d'impresa e dell'insolvenza, di cui al decreto legislativo n. 14 del 2019, in ordine agli atti compiuti, ai pagamenti effettuati e alle garanzie prestate dal debitore, non sono soggetti a revocatoria i pagamenti e le cessioni dei crediti di cui al comma 1 effettuati tra il 3 febbraio 2024 e la data di apertura della procedura.
+
+3\. Ai fini del presente articolo, l'indotto e' rappresentato dalle imprese che hanno erogato:
+
+a) prestazioni di attivita' manutentive necessarie a consentire la funzionalita' produttiva degli impianti;
+
+b) forniture di ricambi e materiale di consumo necessari a permettere la manutenzione e la funzionalita' produttiva degli impianti;
+
+c) servizi di autotrasporto e di movimentazione di attrezzature, prodotti di consumo, materia prima, semilavorati e prodotti finiti, anche all'esterno dell'area degli impianti;
+
+d) servizi in materia di risanamento ambientale, di sicurezza e di attuazione degli interventi in materia di tutela dell'ambiente e della salute previsti dal piano di cui al decreto del Presidente del Consiglio dei ministri 14 marzo 2014, pubblicato nella Gazzetta Ufficiale n. 105 dell'8 maggio 2014.
+
+4\. In sede di approvazione del rendiconto dell'anno 2023 da parte dell'organo esecutivo, le regioni e le province autonome di Trento e di Bolzano sono autorizzate, previa comunicazione all'amministrazione che ha erogato le somme, allo svincolo di quote di avanzo vincolato di amministrazione derivanti da trasferimenti statali, riferite a interventi conclusi o gia' finanziati negli anni precedenti con risorse proprie, non gravate da obbligazioni sottostanti gia' contratte e con esclusione delle somme relative alle funzioni fondamentali e ai livelli essenziali delle prestazioni. Le risorse svincolate di cui al primo periodo sono utilizzate per il finanziamento di misure di sostegno delle imprese di cui al presente articolo, nel rispetto della normativa europea in materia di aiuti di Stato. ((Le disposizioni di cui al presente comma si applicano anche per il rendiconto dell'anno 2024.))
+
+## Art. 2-quinquies
+
+(( (Interventi urgenti per fronteggiare la crisi occupazionale dei lavoratori dipendenti delle imprese dell'indotto di stabilimenti di interesse strategico nazionale).))
+
+((1. Ai lavoratori subordinati, impiegati alle dipendenze di datori di lavoro del settore privato che sospendono o riducono l'attivita' lavorativa in conseguenza della sospensione o riduzione dell'attivita' lavorativa di imprese che gestiscono almeno uno stabilimento industriale di interesse strategico nazionale di cui all'articolo 2-bis, e' riconosciuta, per l'anno 2024, dall'Istituto nazionale della previdenza sociale (INPS) un'integrazione al reddito, con relativa contribuzione figurativa, nella misura pari a quella prevista per le integrazioni salariali dall'articolo 3 del decreto legislativo 14 settembre 2015, n. 148, per un periodo non superiore a sei settimane, prorogabile fino a un massimo di dieci settimane.
+
+2\. Il nesso causale della sospensione o riduzione dell'attivita' lavorativa di cui al comma 1 e' individuato nella monocommittenza o nell'influsso gestionale prevalente esercitato dall'impresa committente. Si ha influsso gestionale prevalente quando, in relazione ai contratti aventi ad oggetto l'esecuzione di opere o la prestazione di servizi o la produzione di beni o semilavorati costituenti oggetto dell'attivita' produttiva o commerciale dell'impresa committente, la somma dei corrispettivi risultanti dalle fatture emesse dall'impresa destinataria delle commesse nei confronti dell'impresa committente, acquirente o somministrata abbia superato, nel biennio precedente al 3 febbraio 2024, il 70 per cento del complessivo fatturato dell'impresa destinataria delle commesse.
+
+3\. Al fine di garantire la continuita' aziendale e i piu' elevati livelli di sicurezza nei luoghi di lavoro, con apposito accordo quadro tra le associazioni datoriali e le associazioni sindacali comparativamente piu' rappresentative a livello nazionale dei settori interessati, da stipulare presso il Ministero del lavoro e delle politiche sociali, sono individuate le modalita' di sospensione e riduzione dell'attivita' lavorativa anche con ricorso alla rotazione dei lavoratori.
+
+4\. Ai fini del riconoscimento dell'integrazione al reddito di cui al comma 1, non si applicano le disposizioni di cui agli articoli 14, 15, 24 e 25 del decreto legislativo 14 settembre 2015, n. 148. I datori di lavoro, previa comunicazione delle cause di sospensione o di riduzione dell'orario di lavoro, dell'entita' e della durata prevedibile e del numero dei lavoratori interessati, con il richiamo all'accordo quadro di cui al comma 3, alle rappresentanze sindacali aziendali o alla rappresentanza sindacale unitaria, nonche' alle articolazioni territoriali delle associazioni sindacali comparativamente piu' rappresentative a livello nazionale, trasmettono, esclusivamente in via telematica, la domanda di accesso al trattamento di integrazione al reddito all'INPS, con l'elenco nominativo dei lavoratori interessati e l'indicazione dei periodi di sospensione o riduzione dell'attivita' lavorativa, dichiarando la sussistenza dei requisiti di cui al comma 2.
+
+5\. Le integrazioni al reddito di cui al presente articolo sono incompatibili con tutti i trattamenti di integrazione salariale di cui al decreto legislativo 14 settembre 2015, n. 148.
+
+6\. I periodi di utilizzo dell'integrazione al reddito autorizzati ai sensi del presente articolo non sono conteggiati ai fini delle durate massime complessive dei trattamenti di integrazione salariale di cui agli articoli 4, 12, 22 e 30 del decreto legislativo 14 settembre 2015, n. 148. In relazione alle integrazioni al reddito di cui al presente articolo non e' dovuto il contributo addizionale di cui al medesimo decreto legislativo n. 148 del 2015.
+
+7\. Le integrazioni al reddito di cui al presente articolo sono erogate direttamente dai datori di lavoro ai dipendenti alla fine di ogni periodo di paga. Il relativo importo e' rimborsato dall'INPS ai datori di lavoro o da questi ultimi conguagliato, a pena di decadenza, entro i termini previsti dall'articolo 7, comma 3, del decreto legislativo 14 settembre 2015, n. 148. In alternativa, i datori di lavoro possono richiedere che il trattamento di sostegno al reddito sia pagato direttamente dall'INPS ai lavoratori, senza obbligo di produrre la documentazione comprovante le difficolta' finanziarie dell'impresa.
+
+8\. Le integrazioni al reddito di cui al presente articolo sono concesse nel limite di spesa di 16,7 milioni di euro per l'anno 2024 e le medesime sono autorizzate dall'INPS nel rispetto del predetto limite di spesa. L'INPS, che disciplina i termini e le modalita' di presentazione delle domande, provvede al monitoraggio del rispetto del limite di spesa fornendo i risultati dell'attivita' di monitoraggio al Ministero del lavoro e delle politiche sociali e al Ministero dell'economia e delle finanze.
+
+9\. Qualora dall'attivita' di monitoraggio di cui al comma 8 dovesse emergere, anche in via prospettica, il raggiungimento del complessivo limite di spesa di cui al medesimo comma 8, l'INPS non procede all'accoglimento delle ulteriori domande per l'accesso ai benefici di cui al presente articolo.
+
+10\. Alle attivita' di cui al presente articolo l'INPS provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e senza nuovi o maggiori oneri a carico della finanza pubblica.
+
+11\. Agli oneri derivanti dal presente articolo si provvede, nel limite di 16,7 milioni di euro per l'anno 2024, a valere sulle disponibilita' del Fondo sociale per occupazione e formazione, di cui all'articolo 18, comma 1, lettera a), del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2)).
+
+## Art. 3
+
+Disposizioni in materia di cassa integrazione straordinaria per le imprese strategiche in amministrazione straordinaria
+
+1\. Per le imprese che gestiscono uno stabilimento industriale di interesse strategico ai sensi dell'articolo 1 del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231, e che hanno in corso ((programmi di riorganizzazione aziendale)) non ancora completati per la complessita' degli stessi, per le quali sia disposta l'amministrazione straordinaria con conseguente ((prosecuzione dell'esercizio d'impresa)), ((ai sensi del decreto-legge 23 dicembre)) 2003, n. 347, convertito con modificazioni dalla legge 18 febbraio 2004, n. 39, e' disposta per l'anno 2024, ai sensi dell'articolo 1, commi 175 e 176, della legge 30 dicembre 2023, n. 213, ((e a valere sulle risorse di cui al medesimo comma 176,)) la prosecuzione, senza soluzione di continuita', dell'erogazione del trattamento straordinario di integrazione salariale, ove gia' autorizzato o in corso di autorizzazione, al fine di salvaguardare il livello occupazionale e il patrimonio delle competenze dell'azienda medesima. E' fatta salva la facolta' per gli organi della procedura di amministrazione straordinaria di richiedere le tutele di cui all'articolo 7, comma 10-ter, del decreto-legge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236.
+
+((2. In considerazione della complessita' dei programmi di cui al comma 1, al fine di assicurare i piu' elevati livelli di sicurezza nei luoghi di lavoro e di tutela ambientale, previa consultazione sindacale, i lavoratori addetti alla manutenzione degli impianti e alla sorveglianza delle attivita' connesse alla sicurezza nonche' i lavoratori addetti all'implementazione, alla gestione e alla manutenzione dei presidi ambientali possono essere interessati dai processi di riduzione oraria o di sospensione dal lavoro, a rotazione, soltanto qualora non direttamente impegnati in specifici programmi di sorveglianza delle medesime attivita' afferenti alla sicurezza e alla tutela ambientale, ovvero in specifici programmi formativi, diversi dalla formazione professionale per la gestione delle bonifiche di cui all'articolo 1-bis del decreto-legge 29 dicembre 2016, n. 243, convertito, con modificazioni, dalla legge 27 febbraio 2017, n. 18)).
+
+((2-bis. Le disposizioni di cui all'articolo 1-bis, comma 1, del decreto-legge 5 gennaio 2023, n. 2, convertito, con modificazioni, dalla legge 3 marzo 2023, n. 17, si applicano anche per l'anno 2024.
+
+2-ter. Agli oneri derivanti dal comma 2-bis, valutati in euro 973.400 per l'anno 2024, si provvede mediante corrispondente riduzione del fondo di cui all'articolo 1, comma 199, della legge 23 dicembre 2014, n. 190)).
+
+## Art. 4
+
+Disposizioni acceleratorie per la chiusura della fase liquidatoria delle procedure di amministrazione straordinaria
+
+1\. ((Nel decreto legislativo)) 8 luglio 1999, n. 270, dopo l'articolo 74 e' inserito il seguente:
+
+«Art. 74-bis (Prosecuzione di giudizi e procedimenti esecutivi dopo la chiusura). - 1. La chiusura della procedura nel caso di cui all'articolo 74, comma 2, lettera b), non e' impedita dalla pendenza di giudizi o procedimenti esecutivi, rispetto ai quali il commissario straordinario mantiene la legittimazione processuale, anche nei successivi stati e gradi del giudizio. La legittimazione del commissario straordinario sussiste altresi' per i procedimenti, compresi quelli cautelari e esecutivi, strumentali all'attuazione delle decisioni favorevoli all'amministrazione straordinaria, anche se instaurati dopo la chiusura della procedura.
+
+2\. In caso di chiusura della procedura ai sensi del comma 1, il comitato di sorveglianza cessa dalle sue funzioni. Le rinunzie alle liti e le transazioni sono autorizzate dal giudice delegato.
+
+3\. Le somme necessarie per spese future ed eventuali oneri relativi ai giudizi pendenti, accantonate nel piano contenente la ripartizione finale dell'attivo e depositate secondo le modalita' indicate dal tribunale, nonche' le somme ricevute dal commissario straordinario per effetto di provvedimenti provvisoriamente esecutivi e non ancora passati in giudicato, sono trattenute dal commissario straordinario e versate su un conto vincolato previa autorizzazione del tribunale. ((Si applica, in quanto compatibile, l'articolo 131 del codice della crisi d'impresa e dell'insolvenza, di cui al decreto legislativo 12 gennaio 2019, n. 14, sostituito al curatore il commissario straordinario)).
+
+4\. Dopo la chiusura della procedura, le somme ricevute dal commissario straordinario per effetto di provvedimenti definitivi e gli eventuali residui degli accantonamenti sono fatti oggetto di riparto supplementare fra i creditori secondo le modalita' disposte dal tribunale con il decreto di cui all'articolo 76.
+
+5\. In relazione alle eventuali sopravvenienze attive derivanti dai giudizi pendenti non si fa luogo a riapertura della procedura.
+
+6\. Con il decreto di chiusura il tribunale impartisce le disposizioni necessarie per la predisposizione di un supplemento di rendiconto, del riparto supplementare e del rapporto riepilogativo finale. La chiusura della procedura a norma del presente articolo non comporta la cancellazione della societa' dal registro delle imprese sino alla conclusione dei giudizi in corso e alla effettuazione dei riparti supplementari, anche all'esito delle ulteriori attivita' liquidatorie che si siano rese necessarie.
+
+7\. Eseguito l'ultimo progetto di ripartizione o comunque definiti i giudizi e procedimenti pendenti, il commissario straordinario chiede al tribunale di archiviare la procedura di amministrazione straordinaria e ((di autorizzare)) la chiusura del conto vincolato.
+
+Il tribunale provvede con decreto.
+
+8\. Entro dieci giorni dal deposito del decreto di archiviazione, il commissario straordinario chiede la cancellazione della societa' dal registro delle imprese.».
+
+((1-bis. All'articolo 45, comma 2-bis, del decreto legislativo 8 luglio 1999, n. 270, le parole: "Possono essere nominati solo esperti che non risultino gia' membri di un comitato" sono sostituite dalle seguenti: "Gli esperti possono far parte di non piu' di tre comitati")).
+
+## Art. 4-bis
+
+(( (Misure in materia di amministrazione straordinaria).))
+
+((1. Al decreto legislativo 8 luglio 1999, n. 270, sono apportate le seguenti modificazioni:
+
+a) all'articolo 2, dopo il comma 1-bis e' aggiunto il seguente:
+
+"1-ter. In deroga a quanto previsto dal comma 1, fermo restando il requisito di cui alla lettera b) del medesimo comma, possono essere ammesse all'amministrazione straordinaria le imprese che svolgono le attivita' di rilevanza strategica di cui agli articoli 1 e 1-bis del decreto-legge 15 marzo 2012, n. 21, convertito, con modificazioni, dalla legge 11 maggio 2012, n. 56, nonche' le imprese che detengono le reti e gli impianti di rilevanza strategica di cui all'articolo 2 del medesimo decreto-legge n. 21 del 2012, quando impiegano un numero di lavoratori subordinati, compresi quelli ammessi al trattamento di integrazione dei guadagni, non inferiore a quaranta da almeno un anno";
+
+b) all'articolo 40, comma 1-bis, secondo periodo, sono aggiunte, in fine, le seguenti parole: "ed e' depositata in cancelleria";
+
+c) all'articolo 62, dopo il comma 3 e' aggiunto il seguente:
+
+"3-bis. Il commissario straordinario, previa autorizzazione del Ministro delle imprese e del made in Italy sentito il comitato di sorveglianza, puo' rinunciare a liquidare uno o piu' beni, se l'attivita' di liquidazione appaia manifestamente non conveniente. In questo caso, il commissario notifica l'istanza e la relativa autorizzazione ai competenti uffici per l'annotazione nei pubblici registri e ne da' comunicazione ai creditori i quali, in deroga a quanto previsto dall'articolo 48, possono iniziare azioni esecutive sui beni rimessi nella disponibilita' del debitore";
+
+d) all'articolo 73, dopo il comma 1 e' inserito il seguente:
+
+"1-bis. Con l'istanza di cui al comma 1, il commissario straordinario, previa autorizzazione ministeriale, chiede al tribunale la conversione dell'amministrazione straordinaria in liquidazione giudiziale o, per le start-up innovative di cui al decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, in liquidazione controllata. La richiesta di conversione di cui al primo periodo puo' essere presentata anche successivamente e, in tale ipotesi, si applicano gli articoli 71 e 72";
+
+e) all'articolo 74, comma 2, dopo la lettera b) e' aggiunta la seguente:
+
+"b-bis) quando nel corso della procedura si accerta che la sua prosecuzione non consente di soddisfare, neppure in parte, i creditori concorsuali ne' i crediti prededucibili e le spese di procedura. Tale circostanza puo' essere accertata dal commissario straordinario con la relazione di cui all'articolo 40, comma 1-bis".
+
+2\. Le disposizioni di cui alle lettere a), c) e d) del comma 1 si applicano alle procedure aperte dopo la data di entrata in vigore della legge di conversione del presente decreto e a quelle che si trovano, a tale data, ancora nella fase di esecuzione del programma autorizzata ai sensi dell'articolo 57 del decreto legislativo 8 luglio 1999, n. 270.))
+
+## Art. 4-ter - Incentivi per i processi di aggregazione delle imprese e per la tutela occupazionale
+
+1\. In via sperimentale per gli anni 2024 e 2025, nell'ambito del piano di politiche attive previsto dal Piano nazionale di ripresa e resilienza, le nuove imprese costituite attraverso processi di aggregazione derivanti da una o piu' operazioni societarie rappresentate da fusioni, cessioni, conferimenti, acquisizioni di aziende o rami di esse, da cui emerge un organico complessivamente pari o superiore a 1.000 lavoratori, possono avviare il confronto sindacale per stipulare in sede governativa, con la presenza del Ministero del lavoro e delle politiche sociali e del Ministero delle imprese e del made in Italy, un accordo con le associazioni sindacali comparativamente piu' rappresentative sul piano nazionale o con le loro rappresentanze sindacali aziendali ovvero con la rappresentanza sindacale unitaria, nel quale e' contenuto un progetto industriale e di politica attiva, che illustri le azioni volte a superare le difficolta' del settore in cui l'impresa opera e le azioni per la formazione o la riqualificazione dei lavoratori per garantire loro un adeguamento delle competenze professionali al nuovo contesto lavorativo, nonche' per gestire processi di transizione occupazionale. La nuova impresa a seguito della costituzione puo' sottoscrivere l'accordo di cui al presente comma anche prima dell'operazione societaria di aggregazione a condizione che nel medesimo accordo sia contenuto l'impegno ad effettuare tale operazione entro il termine perentorio di sessanta giorni dalla sottoscrizione. Con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze e il Ministro delle imprese e del made in Italy, da emanare entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono disciplinati meccanismi che assicurino l'eventuale revoca in caso di mancata effettuazione dell'operazione.
+
+2\. Il progetto di cui al comma 1 deve contenere:
+
+a) la descrizione del piano industriale della nuova impresa;
+
+b) il numero complessivo dei lavoratori coinvolti nel processo di aggregazione;
+
+c) il numero complessivo dei lavoratori a cui applicare le politiche attive del progetto e l'indicazione dei profili professionali oggetto di formazione compatibili con il piano industriale;
+
+d) il numero delle ore di formazione, non inferiore a 200 per ciascun lavoratore a tempo pieno da riproporzionare per i rapporti a tempo parziale;
+
+e) l'impegno del datore di lavoro a tutelare il perimetro occupazionale esistente alla data di decorrenza delle operazioni straordinarie di cui al comma 1 per almeno quarantotto mesi, nel rispetto delle condizioni di cui al comma 7.
+
+3\. In corso di realizzazione del progetto l'azienda puo' variare parte dei corsi di formazione o riqualificazione e ne da' dettagliata informativa alle organizzazioni sindacali firmatarie dell'accordo di cui al comma 1.
+
+4\. Al datore di lavoro, nei casi previsti dal comma 1, spetta un esonero contributivo per ciascun lavoratore nella misura massima del 100 per cento dei contributi previdenziali e assistenziali a suo carico, con esclusione dei premi e contributi dovuti all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro, per un periodo massimo di ventiquattro mesi, nel limite di importo annuo pari a 3.500 euro per lavoratore. L'esonero contributivo di cui al presente comma spetta per ulteriori dodici mesi nel limite di importo annuo pari a 2.000 euro. Resta ferma l'aliquota di computo delle prestazioni pensionistiche.
+
+5\. L'esonero contributivo di cui al comma 4 e' riconosciuto solo con riferimento ai lavoratori di cui al comma 2, lettera c), e a condizione che a ciascun lavoratore sia assicurato lo svolgimento di attivita' di formazione o riqualificazione per almeno 200 ore complessive da svolgere nel periodo di durata del beneficio.
+
+6\. Alle disposizioni previste dal presente articolo non si applicano i principi di cui all'articolo 31 del decreto legislativo 14 settembre 2015, n. 150.
+
+7\. Al fine di tutelare il perimetro occupazionale ai sensi del comma 2, lettera e), e' consentita l'interruzione dei rapporti di lavoro esclusivamente per giusta causa, giustificato motivo soggettivo, dimissioni volontarie ovvero per effetto dell'utilizzo di strumenti incentivanti o in adozione di qualunque altro strumento per la gestione non traumatica del rapporto di lavoro previsti dalla legislazione vigente e, in ogni caso, con il consenso dei lavoratori.
+
+8\. Al fine di agevolare la transizione occupazionale, in via sperimentale le nuove imprese di cui al comma 1 possono avviare iniziative di politica attiva a gestione diretta aziendale finalizzata a ricollocare i lavoratori, con il loro consenso, anche in altri settori economici con un contratto di lavoro almeno corrispondente a quello in essere. Ferma restando la gestione diretta aziendale della ricollocazione, i fabbisogni occupazionali del territorio possono essere recuperati anche avvalendosi dei servizi forniti dalle agenzie per il lavoro, dai centri per l'impiego o da ogni altro operatore economico del territorio, comprese le associazioni di categoria. Al fine di svolgere le attivita' previste dal presente comma, le agenzie per il lavoro possono essere aggregate ai sensi del comma 1, anche attraverso reti d'impresa, consorzi o altre forme di partecipazione, anche di natura societaria.
+
+9\. Qualora l'azienda interrompa il rapporto di lavoro per motivi diversi da quelli previsti dal comma 7, si applica la sanzione pari al doppio dell'esonero contributivo fruito limitatamente ai lavoratori interessati dalla violazione prevista dal presente comma.
+
+10\. Gli incentivi non spettano con riferimento alle nuove imprese costituite da societa' del medesimo gruppo o che presentino assetti proprietari sostanzialmente coincidenti o riconducibili al medesimo centro di interessi.
+
+11\. Le disposizioni di cui al presente articolo sono compatibili con altri strumenti previsti dalla legislazione vigente nonche' con ogni altro incentivo o beneficio previsto dalla legislazione vigente nel periodo di sperimentazione finalizzato all'occupazione dei lavoratori.
+
+12\. Il Ministero del lavoro e delle politiche sociali comunica all'Ispettorato nazionale del lavoro gli accordi sottoscritti ai sensi del comma 1 al fine di verificare la corretta esecuzione degli impegni formativi assunti dal datore di lavoro nel rispetto delle disposizioni previste dal presente articolo.
+
+13\. Nei primi quattro anni di svolgimento dell'attivita' della nuova impresa, a qualunque fine sia richiesto il rispetto o il possesso di specifici requisiti o autorizzazioni, compresi quelli necessari per la partecipazione a bandi pubblici, l'azienda puo' avvalersi anche di quelli in possesso dei soci che hanno dato luogo all'aggregazione.
+
+14\. I benefici previsti dal presente articolo sono riconosciuti entro il limite complessivo di spesa di 14 milioni di euro per l'anno 2024, 46,4 milioni di euro per l'anno 2025, 49,2 milioni di euro per l'anno 2026, ((24,1 milioni di euro per l'anno 2027)) e ((12,2 milioni di euro per l'anno 2028)). Il Ministero del lavoro e delle politiche sociali, prima della sottoscrizione dell'accordo di cui al comma 1, verifica la disponibilita' delle risorse sulla base della proiezione dei costi indicati nell'accordo. Il monitoraggio e la verifica del rispetto del limite di spesa sono effettuati, sulla base anche di quanto disciplinato dal decreto di cui al comma 1, utilizzando le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e senza nuovi o maggiori oneri per la finanza pubblica.
+
+15\. Agli oneri derivanti dal primo periodo del comma 14, pari a 14 milioni di euro per l'anno 2024, 46,4 milioni di euro per l'anno 2025, 49,2 milioni di euro per l'anno 2026, 21,9 milioni di euro per l'anno 2027 e 3,5 milioni di euro per l'anno 2028, e alle minori entrate derivanti dai commi da 1 a 14, valutate in 2,1 milioni di euro per l'anno 2029 e in 0,6 milioni di euro per l'anno 2030, si provvede:
+
+a) quanto a 14 milioni di euro per l'anno 2024, 24,9 milioni di euro per l'anno 2025, 29,2 milioni di euro per l'anno 2026, 10,1 milioni di euro per l'anno 2027, 2,8 milioni di euro per l'anno 2028, 2,1 milioni di euro per l'anno 2029 e 0,6 milioni di euro per l'anno 2030, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 3, lettera f), della legge 24 dicembre 2007, n. 247, con conseguente corrispondente decremento degli importi di cui all'articolo 7, comma 1, del decreto legislativo 21 aprile 2011, n. 67;
+
+b) quanto a 23 milioni di euro per l'anno 2025 e a 6 milioni di euro per l'anno 2026, mediante riduzione, al fine di garantire la compensazione in termini di indebitamento netto e fabbisogno delle pubbliche amministrazioni, del Fondo sociale per occupazione e formazione, di cui all'articolo 18, comma 1, lettera a), del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2;
+
+c) quanto a 5,4 milioni di euro per l'anno 2025, 15,8 milioni di euro per l'anno 2026, 11,8 milioni di euro per l'anno 2027 e 0,7 milioni di euro per l'anno 2028, mediante corrispondente utilizzo delle maggiori entrate derivanti dai commi da 1 a 14.
+
+## Art. 4-quater
+
+(( (Modifica all'allegato A della legge 28 gennaio 1994, n. 84).))
+
+((1. Al fine di razionalizzare le attivita', la logistica e gli investimenti nelle strutture portuali serventi gli stabilimenti del settore della raffinazione ricadenti all'interno del polo petrolchimico siracusano e riconosciuti di interesse strategico nazionale, ai sensi dell'articolo 1 del decreto-legge 5 dicembre 2022, n. 187, convertito, con modificazioni, dalla legge 1° febbraio 2023, n. 10, all'allegato A, numero 9), della legge 28 gennaio 1994, n. 84, dopo le parole: "Porti di Augusta" sono inserite le seguenti: ", Siracusa (rada di Santa Panagia e rada del Porto Grande)")).
+
+## Art. 5
+
+Entrata in vigore
+
+1\. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 gennaio 2024
+
+MATTARELLA
+
+Meloni, Presidente
+
+del Consiglio dei ministri
+
+Urso, Ministro delle imprese
+
+e del made in Italy
+
+Giorgetti, Ministro dell'economia e delle finanze
+
+Calderone, Ministro del lavoro
+
+e delle politiche sociali
+
+Nordio, Ministro della giustizia
+
+Fitto, Ministro per gli affari
+
+europei, il Sud,
+
+le politiche di coesione e il PNRR
+
+Visto, il Guardasigilli: Nordio

@@ -1,0 +1,73 @@
+---
+title: "DECRETO-LEGGE 22 dicembre 1981, n. 800 — Urgenti disposizioni igienico-sanitarie per il controllo della produzione, importazione e commercializzazione dei molluschi eduli lamellibranchi."
+identifier: "urn:nir:stato:decreto.legge:1981-12-22;800"
+eli: "https://www.normattiva.it/eli/id/1982/01/04/081U0800/CONSOLIDATED/19820306"
+type: decree_law
+jurisdiction: it
+language: it
+date: 1981-12-22
+last_amended: 1982-03-06
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 2 del 1982-01-04"
+codice_redazionale: "081U0800"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;800"
+retrieved: 2026-10-11
+---
+
+# DECRETO-LEGGE 22 dicembre 1981, n. 800
+
+**Urgenti disposizioni igienico-sanitarie per il controllo della produzione, importazione e commercializzazione dei molluschi eduli lamellibranchi.**
+
+*Decreto-Legge convertito con modificazioni dalla L. 05 marzo 1982, n. 61 (in G.U. 05/03/1982, n.63).*
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Visto il decreto-legge 22 maggio 1981, n. 234, convertito, con modificazioni, nella legge 20 luglio 1981, n. 381;
+
+Considerate le difficolta' incontrate dalle regioni per l'attivazione degli impianti necessari alla depurazione dei molluschi eduli lamellibranchi;
+
+Ritenuta pertanto che permane la straordinaria necessita' e urgenza di continuare ad assicurare, con particolari misure, il controllo igienico-sanitario al fine di consentire la destinazione al consumo di molluschi eduli lamellibranchi salubri;
+
+Ritenuta altresi' l'opportunita' di agevolare la realizzazione degli impianti di depurazione mediante la applicazione delle procedure previste dall'art. 1, primo e terzo comma, e dall'art. 3 della legge 3 gennaio 1978, n. 1;
+
+Visto il decreto ministeriale 27 gennaio 1981, pubblicato nella Gazzetta Ufficiale n. 28 del 29 gennaio 1981;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 dicembre 1981;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della sanita', di concerto con il Ministro di grazia e giustizia;
+
+EMANA
+
+il seguente decreto:
+
+## Art. 1
+
+((I termini per l'applicazione delle disposizioni della legge 2 maggio 1977, n. 192, recante norme igienico-sanitarie per la produzione, commercio e vendita dei molluschi eduli lamellibranchi, gia' prorogati per effetto del decreto-legge 16 novembre 1979, n. 577, convertito in legge, con modificazioni, dalla legge 14 gennaio 1980, n. 6, e del decreto-legge 22 maggio 1981, n. 234, convertito in legge, con modificazioni, dalla legge 20 luglio 1981, n. 381, sono ulteriormente prorogati sino al 31 dicembre 1982.
+
+La validita' delle disposizioni del decreto del Ministro della sanita' 27 gennaio 1981, pubblicato nella Gazzetta Ufficiale n. 28 del 29 gennaio 1981, gia' prorogata dall'articolo 2 del decreto-legge 22 maggio 1981, n. 234, convertito in legge, con modificazioni, dalla legge 20 luglio 1981, n. 381, e' ulteriormente prorogata sino al 31 dicembre 1982)).
+
+Con successivi decreti il Ministro della sanita' puo' apportare modifiche ed integrazioni in relazione a sopravvenute esigenze igienico-sanitarie.
+
+Ai fini della realizzazione degli impianti di depurazione le regioni e gli enti pubblici territoriali possono avvalersi delle disposizioni contenute nell'art. 1, primo e terzo comma, e dell'art. 3 della legge 3 gennaio 1978, n. 1.
+
+Salvo che il fatto costituisca reato ai sensi dello art. 34, lettera e), della legge 24 novembre 1981, n. 689, i trasgressori alle disposizioni contenute nel citato decreto ministeriale e successive modificazioni sono assoggettati alla sanzione amministrativa da lire 1 milione a lire 5 milioni.
+
+## Art. 2
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 dicembre 1981
+
+PERTINI
+
+SPADOLINI - ALTISSIMO - DARIDA
+
+Visto, il Guardasigilli: DARIDA
+
+Registrato alla Corte dei conti, addi' 4 gennaio 1982
+
+Atti di Governo, registro n. 37, foglio n. 30

@@ -1,0 +1,111 @@
+---
+title: "DECRETO-LEGGE 23 dicembre 1978, n. 817 — Norme transitorie per il personale precario delle Universita'."
+identifier: "urn:nir:stato:decreto.legge:1978-12-23;817"
+eli: "https://www.normattiva.it/eli/id/1978/12/23/078U0817/CONSOLIDATED/19790222"
+type: decree_law
+jurisdiction: it
+language: it
+date: 1978-12-23
+last_amended: 1979-02-22
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 357 del 1978-12-23"
+codice_redazionale: "078U0817"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-12-23;817"
+retrieved: 2026-10-11
+---
+
+# DECRETO-LEGGE 23 dicembre 1978, n. 817
+
+**Norme transitorie per il personale precario delle Universita'.**
+
+*Decreto-Legge convertito con modificazioni dalla L. 19 febbraio 1979, n. 54 (in G.U. 21/02/1979, n.51).*
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 77 della Costituzione;
+
+Visto il decreto-legge 21 ottobre 1978, n. 642, recante provvedimento di transizione sul personale universitario;
+
+Considerato che i contratti stipulati dalle Universita', gli assegni di formazione didattica e scientifica e le borse di studio, scaduti il 31 ottobre 1978, nonche' gli incarichi e le supplenze su posti di assistente ordinario con il 23 dicembre 1978 non verranno ad essere sorretti da una efficace norma di proroga; che tra il personale docente precario sussiste disparita' di trattamento sotto il profilo della stabilita' del rapporto; e che vi e' l'immediata esigenza di assicurare nelle Universita' l'insegnamento da parte di ulteriori lettori;
+
+Ritenuta pertanto la necessita' e la urgenza di provvedere alle esigenze sopra prospettate;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro della pubblica istruzione, di concerto con il Ministro del tesoro e con il Ministro del bilancio e della programmazione economica;
+
+Decreta:
+
+## Articolo unico
+
+((gli assegni di formazione scientifica e didattica)) di cui all'art. 6 del decreto-legge 1° ottobre 1973, n. 580, convertito con modificazioni nella legge 30 novembre 1973, n. 766, le borse di studio prorogate ai sensi dell'art. 23, ultimo comma, della legge 25 ottobre 1977, n. 808 ed i contratti di cui all'art. 5 del succitato decreto-legge 1° ottobre 1973, n. 580, convertito nella legge 30 novembre 1973, n. 766, in godimento alla data del 23 ottobre 1978, sono prorogati senza soluzione di continuita' fino al 31 ottobre 1979.
+
+Agli assegnisti ed ai contrattisti di cui al precedente comma, oltre all'importo annuo dei rispettivi assegni e contratti, e' attribuita, con decorrenza 1 gennaio 1979, una indennita' lorda mensile agganciata alla variazione dell'indice del costo della vita con le stesse modalita', gli stessi importi e divieti previsti dalla legge 27 maggio 1959, n. 324, e successive modificazioni e integrazioni, nonche', per i familiari a carico, un assegno con le stesse modalita' ed in misura pari alle quote di aggiunta di famiglia previste nella stessa legge 27 maggio 1959, n. 324, e successive modificazioni e integrazioni. ((L'importo delle borse di cui al precedente comma e' equiparato a quello degli assegni di formazione scientifica e didattica. Ai loro titolari sono altresi' corrisposte le stesse indennita' attribuite ai titolari dei contratti e degli assegni di formazione scientifica e didattica.))
+
+((Il Consiglio nazionale delle ricerche, gli altri enti pubblici di ricerca, di cui alla tabella VI allegata alla legge 20 marzo 1975, n.
+
+70, e successive modificazioni, nonche' la Domus Galilaeana, l'Accademia dei Lincei e la Scuola normale di Pisa sono autorizzati a prorogare, a domanda, fino al 31 ottobre 1979 le borse di studio in godimento al 31 ottobre 1978 e a ripristinare quelle i cui titolari abbiano svolto presso le Universita' almeno un biennio di attivita' nel periodo 1 settembre 1974-31 ottobre 1978, attestata dal competente direttore di Istituto.))
+
+((...)) i contrattisti e gli assegnisti ((possono svolgere)) come previsto rispettivamente negli articoli 5 e 6 del decreto-legge 1 ottobre 1973, n. 580, convertito, con modificazioni, nella legge 30 novembre 1973, n. 766, unicamente le attivita' stabilite nelle predette norme. Per la durata della proroga resta ferma la facolta' prevista dall'art. 23, primo comma, della legge 25 ottobre 1977, n. 808 e dall'ultimo comma dell'art. 5 del decreto-legge 1 ottobre 1973, n. 580, convertito, con modificazioni, nella legge 30 novembre 1973, n. 766.
+
+Il diritto dei titolari di contratto all'inquadramento nei ruoli della scuola secondaria di cui al quindicesimo comma dell'art. 5 del decreto-legge 1° ottobre 1973, n. 580, convertito, con modificazioni, nella legge 30 novembre 1973, n. 766, puo' essere esercitato fino al termine della proroga.
+
+((Sono altresi' prorogati fino al 31 ottobre 1979 gli incarichi e le supplenze sui posti di assistente ordinario di coloro che erano in servizio alla data del 23 ottobre 1978.)) Analogamente ed alle stesse condizioni ((sono)) prorogate dalle Universita' le borse e gli assegni di formazione o addestramento scientifico e didattico o comunque denominati, purche' finalizzati agli scopi predetti, istituiti sui fondi destinati dai consigli di amministrazione sui bilanci universitari ed assegnati con decreto rettorale a seguito di pubblico concorso. ((L'importo annuo di tali borse ed assegni e' elevato compatibilmente alle disponibilita' di bilancio delle singole universita' e comunque in misura non superiore a L. 2.600.000.))
+
+((Il servizio di assistenza e cura prestato dai contrattisti ed assegnisti presso gli istituti e le cliniche universitarie delle facolta' di medicina e chirurgia nonche' quello dei medici interni universitari assunti in servizio continuativo per motivate esigenze delle cliniche e degli istituti di cura universitari e che abbiano percepito il trattamento economico previsto dalle leggi vigenti, e' equiparato, ai soli fini dei concorsi ospedalieri, al servizio di assistente ospedaliero di ruolo.))
+
+I rettori delle Universita', su proposta dei singoli consigli di facolta', possono conferire incarichi di lettore ai cittadini stranieri o a cittadini italiani di madre lingua straniera, anche al di fuori degli accordi culturali, per gli insegnamenti delle lingue secondo il numero degli studenti iscritti ai vari corsi. ((Il numero di incarichi di lettorato cosi' conferibile sara' determinato, di norma, sulla base del rapporto rettori-studenti iscritti ai singoli corsi di uno a centocinquanta.)) L'incarico non puo' protrarsi oltre l'anno accademico per il quale e' conferito ed e' rinnovabile annualmente per non piu' di cinque anni. Al cittadino straniero e' equiparato il coniuge straniero di cittadino italiano che abbia acquisito la cittadinanza italiana.
+
+La spesa per i lettori di cui all'ottavo comma e' a carico del bilancio universitario. La relativa retribuzione e' definita con riferimento al trattamento economico attribuito al parametro iniziale dell'assistente universitario, tenendo conto della materia e della durata dell'attivita' svolta.
+
+Con legge di bilancio possono essere aumentati i fondi di cui all'art. 12, comma dodicesimo, del decreto-legge 1° ottobre 1973, n. 580, convertito, con modificazioni, nella legge 30 novembre 1973, n. 766.
+
+((A decorrere dalla data di entrata in vigore del presente decreto e' fatto divieto alle universita' ed agli istituti di istruzione superiore di conferire le funzioni di cui agli ultimi due commi dell'articolo 19 della legge 18 marzo 1958, n. 349, cosi' come modificata per ultimo con l'articolo 23 della legge 24 febbraio 1967, n. 62. A tale divieto si puo' derogare previa autorizzazione del Ministero della pubblica istruzione sulla base di specifica documentazione delle facolta'.))
+
+((Restano ferme le nullita' di diritto e l'assoluta improduttivita' di qualunque effetto e conseguenza nei confronti della amministrazione dell'assunzione di personale e dell'affidamento di compiti istituzionali effettuati in violazione della gia' vigente legislazione universitaria ovvero di quanto previsto nel presente decreto, salve le responsabilita' disciplinari, amministrative e penali dei docenti e degli altri funzionari responsabili delle violazioni.))
+
+E' abrogato il disposto del primo comma dell'art. 6 del decreto-legge 1° ottobre 1973, n. 580, convertito, con modificazioni, nella legge 30 novembre 1973, n. 766 ed ogni altra disposizione in contrasto con il presente decreto.
+
+((La data della trasformazione del ruolo degli assistenti in ruolo ad esaurimento, di cui al tredicesimo comma dell'articolo 3 del decreto-legge 1 ottobre 1973, n. 580, convertito, con modificazioni, nella legge 30 novembre 1973, n. 766, e gia' prorogata al 31 ottobre 1978 dalla legge 25 ottobre 1977, n. 808, e' ulteriormente prorogata al 31 ottobre 1979. I termini di maturazione dei requisiti per la partecipazione ai concorsi a posti di assistente si riferiscono alla data di pubblicazione dei bandi rispettivi.))
+
+((Il disposto di cui al primo comma dell'articolo 4 del decreto-legge 1 ottobre 1973, n. 580, convertito, con modificazioni, nella legge 30 novembre 1973, n. 766, si estende ai professori incaricati di insegnamento ufficiale, anche nei corsi serali di cui all'articolo 7-bis della citata legge n. 766, in servizio nell'anno accademico 1978-79, e che abbiano maturato o maturino in anni accademici successivi tre anni di anzianita' di insegnamento. Tutte le stabilizzazioni cessano con l'entrata in vigore della riforma universitaria o comunque all'atto dell'entrata in vigore di un organico provvedimento sullo stato giuridico del personale docente. I direttori di scuola autonoma di ostetricia di ruolo ed in servizio alla data di entrata in vigore della legge di conversione del presente decreto sono immessi nel ruolo dei professori ordinari.))
+
+Il reddito annuo per avere titolo, ai sensi dell'art. 7, quarto comma, del decreto-legge 1 ottobre 1973, n. 580, convertito, con modificazioni, nella legge 30 novembre 1973, n. 766, all'assegno di studio universitario e' fissato in misura non superiore a L. 4.000.000 con esclusione dei trattamenti percepiti a titolo di indennita' integrativa speciale o di contingenza, fino ad una cifra pari all'indennita' integrativa speciale degli impiegati civili dello Stato e ((delle quote)) di aggiunta di famiglia e ((degli assegni familiari)), comprensivo dei redditi di tutti i componenti del nucleo familiare, quale risulta dallo stato di famiglia, ((elevabile)) di L.
+
+300.000 per ciascun figlio a carico.
+
+Tale reddito va riferito a quello ((annuo lordo)) dichiarato dai singoli componenti del nucleo familiare ai fini dell'imposta sul reddito delle persone fisiche e comprovato dall'interessato con dichiarazione personale ai sensi e per gli effetti della legge 4 gennaio 1968, n. 15, e successive modificazioni ed integrazioni.
+
+Il termine di presentazione delle domande per l'anno accademico 1978-79 e' prorogato fino al 30 dicembre 1978.
+
+((Sono esonerati dalla conferma nel ruolo dei professori aggregati, i professori aggregati con nomina al 1 novembre 1970, che, alla data del 1 novembre 1973, sono stati collocati nel ruolo dei professori universitari ai sensi dell'articolo 3 della legge 30 novembre 1973, n. 766. Agli stessi che abbiano completato tre anni di effettivo servizio in qualita' di professori aggregati e' eccezionalmente consentito di presentare entro un mese dall'entrata in vigore della legge di conversione del presente decreto domanda al rettore dell'universita' al tempo competente e per conoscenza al Ministro della pubblica istruzione qualora intendano usufruire dei benefici della ricostruzione di carriera ai sensi dell'articolo 17 della legge 18 marzo 1958, n. 311.))
+
+((Al personale non docente gia' dipendente dal Consorzio per la costituzione e lo sviluppo degli insegnamenti universitari in Udine, inquadrato ai sensi dell'ultimo comma dell'articolo 7 del decreto del Presidente della Repubblica 6 marzo 1978, n. 102, nei ruoli del personale non docente delle universita', degli istituti di istruzione universitaria e degli osservatori astronomici e vesuviano, si applicano ad ogni effetto per i servizi di ruolo e non di ruolo prestati presso il Consorzio medesimo e presso amministrazioni dello Stato le disposizioni di cui all'articolo 16 della legge 25 ottobre 1977, n. 808 Il personale non docente iscritto nel quadro speciale o nell'albo speciale dell'ex territorio di Trieste, ai sensi del decreto del Capo provvisorio dello Stato 10 luglio 1947, n. 677, e della legge 22 dicembre 1960, n. 1600, attualmente in servizio presso le universita' e gli istituti superiori, e' inquadrato in soprannumero a tutti gli effetti nei ruoli del personale universitario, in applicazione degli articoli 16 e 17 della legge 25 ottobre 1977, n. 808, nelle qualifiche che saranno dichiarate corrispondenti con decreto del Ministro della pubblica istruzione, di concerto con il Ministro del tesoro, sentite le organizzazioni sindacali.
+
+Per tutte le opere di edilizia universitaria, comprese quelle di completamento, e' abrogato il disposto di cui all'articolo 1 della legge 29 luglio 1949, n. 717, modificato nella legge 3 marzo 1960, n.
+
+237.))
+
+Al maggior onere derivante dall'attuazione del presente provvedimento valutato in L. 36.000.000.000 per l'anno finanziario 1979 si provvede mediante corrispondente riduzione dello stanziamento iscritto al cap. 6856 dello stato di previsione della spesa del Ministero del tesoro per il medesimo anno finanziario.
+
+Il Ministro del tesoro e' autorizzato ad apportare con proprio decreto le necessarie variazioni di bilancio.
+
+((COMMA SOPPRESSO DALLA L. 19 FEBBRAIO 1979, N. 54))
+
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 23 dicembre 1978
+
+PERTINI
+
+ANDREOTTI - PEDINI -
+
+PANDOLFI - MORLINO
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato alla Corte dei conti, addi' 23 dicembre 1978
+
+Atti di Governo, registro n. 19, foglio n. 30

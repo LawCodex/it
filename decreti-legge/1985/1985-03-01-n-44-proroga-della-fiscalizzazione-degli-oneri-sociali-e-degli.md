@@ -1,0 +1,97 @@
+---
+title: "DECRETO-LEGGE 01 marzo 1985, n. 44 — Proroga della fiscalizzazione degli oneri sociali e degli sgravi contributivi nel Mezzogiorno ed immediate misure in materia previdenziale."
+identifier: "urn:nir:stato:decreto.legge:1985-03-01;44"
+eli: "https://www.normattiva.it/eli/id/1985/03/02/085U0044/CONSOLIDATED/19860302"
+type: decree_law
+jurisdiction: it
+language: it
+date: 1985-03-01
+last_amended: 1986-03-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 53 del 1985-03-02"
+codice_redazionale: "085U0044"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-03-01;44"
+retrieved: 2026-10-11
+---
+
+# DECRETO-LEGGE 01 marzo 1985, n. 44
+
+**Proroga della fiscalizzazione degli oneri sociali e degli sgravi contributivi nel Mezzogiorno ed immediate misure in materia previdenziale.**
+
+*Decreto-Legge convertito con modificazioni dalla L. 26 aprile 1985, n. 155 (in G.U. 30/04/1985, n.101).*
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Ritenuta la necessita' e l'urgenza di prorogare la fiscalizzazione degli oneri sociali e gli sgravi contributivi nel Mezzogiorno e di adottare immediate misure in materia previdenziale;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 febbraio 1985;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri del bilancio e della programmazione economica e per il coordinamento della protezione civile;
+
+EMANA
+
+il seguente decreto:
+
+## Art. 1
+
+1\. In attesa del riordino strutturale ed organico, anche ai fini dell'armonizzazione tra i vari settori dei sistemi di finanziamento degli oneri sociali, i termini per sgravi contributivi previsti dall'articolo 1, commi 1 e 5, del decreto-legge 29 giugno 1984, n. 277, convertito, con modificazioni, nella legge 4 agosto 1984, n. 430, sono differiti al 31 maggio 1985. (2)
+
+2\. A decorrere dal periodo di paga in corso alla data del 1 dicembre 1984 e fermo restando il termine di cui al comma 1, le misure degli sgravi contributivi di cui all'articolo 1, comma 2, del decreto-legge 21 gennaio 1984, n. 4, convertito, con modificazioni, nella legge 22 marzo 1984, n. 30, restano fissate in 3,51 punti per il personale maschile ed in 8,15 punti per il personale femminile.
+
+3\. Le riduzioni contributive a favore delle imprese commerciali previste dall'articolo 4, comma 19, del decreto-legge 12 settembre 1983, n. 463, convertito, con modificazioni, nella legge 11 novembre 1983, n. 638, si applicano, a decorrere dal 1 gennaio 1985, nella misura di 3,38 punti per il personale maschile e di 8,65 punti per il personale femminile.
+
+4\. L'articolo 12 della legge 30 aprile 1969, n. 153, va interpretato nel senso che sono esclusi dalla base imponibile dei contributi di previdenza e di assistenza sociale i contributi versati al Fondo nazionale di previdenza per gli impiegati delle imprese di spedizione e delle agenzie marittime.
+
+5\. Il termine di cui all'articolo 16 della legge 2 maggio 1983, n. 156, recante provvidenze in favore della popolazione di Ancona colpita dal movimento franoso del 13 dicembre 1982, gia' prorogato al 31 dicembre 1984 dal decreto-legge 29 dicembre 1983, n. 747, convertito, con modificazioni, nella legge 27 febbraio 1984, n. 18, e' ulteriormente differito al 31 maggio 1985.
+
+6\. Il termine di cui all'articolo 13, secondo comma, della legge 10 maggio 1982, n. 251, gia' differito dall'articolo 23 della legge 27 dicembre 1983, n. 730, e' ulteriormente differito al 1 gennaio 1986. ((2))
+
+6-bis. Il secondo periodo del quinto comma dell'articolo 10 della legge 22 dicembre 1984, n. 887, e' abrogato.
+
+6-ter. Al sesto comma dell'articolo 10 della legge 22 dicembre 1984, n. 887, le parole: "22.500 miliardi" sono sostituite dalle seguenti: "22.900 miliardi ".
+
+7\. All'onere derivante dall'applicazione del presente decreto, valutato in lire 5.175 miliardi nell'anno 1985, in lire 1.800 miliardi nell'anno 1987 e in lire 700 miliardi nel periodo 1988-1996, si provvede, quanto all'importo di lire 4.775 miliardi, mediante corrispondente riduzione del capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1985, all'uopo utilizzando parzialmente l'accantonamento "Proroga fiscalizzazione dei contributi di malattia", quanto all'importo di lire 1.800 miliardi per l'anno 1987, e di lire 700 miliardi per il periodo 1988-1996, all'uopo utilizzando parzialmente le proiezioni per l'anno 1987 e successivi dell'accantonamento "Interventi straordinari nel Mezzogiorno", iscritto, ai fini del bilancio triennale 1985-1987, al capitolo 9001 dello stato di previsione dello stesso Ministero del tesoro per l'anno 1985, e, quanto al restante importo di lire 400 miliardi per l'anno 1985, mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6805 dello stato di previsione della spesa del Ministero del tesoro per l'anno 1985.
+
+8\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+---------------
+
+AGGIORNAMENTO (2)
+
+Il D.L. 30 dicembre 1985, n. 787, convertito, con modificazioni, dalla L. 28 febbraio 1986, n. 45, ha disposto (con l'art. 2, comma 1) che il termine del 31 maggio 1985 previsto dal presente comma "relativo allo sgravio contributivo di cui all'articolo 59 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218, e successive modificazioni e integrazioni, e' differito fino a tutto il periodo di paga in corso al 31 dicembre 1985".
+
+---------------
+
+AGGIORNAMENTO (2)
+
+Il D.L. 30 dicembre 1985, n. 787, convertito, con modificazioni, dalla L. 28 febbraio 1986, n. 45, ha disposto (con l'art. 3, comma 1) che "in attesa che siano determinati i nuovi criteri per l'emanazione della tariffa dei premi dovuti per l'assicurazione contro gli infortuni sul lavoro e le malattie professionali, il termine di cui all'articolo 1, comma 6, del decreto-legge 1 marzo 1985, n. 44, convertito, con modificazioni, nella legge 26 aprile 1985, n. 155, e' differito al 1 gennaio 1987".
+
+## Art. 2
+
+((ARTICOLO SOPPRESSO DALLA L. 26 APRILE 1985, N. 155)).
+
+## Art. 3
+
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1 marzo 1985
+
+PERTINI
+
+CRAXI, Presidente del Consiglio dei Ministri
+
+DE MICHELIS, Ministro del lavoro e della previdenza sociale
+
+ROMITA, Ministro del bilancio e della programmazione economica
+
+ZAMBERLETTI, Ministro per il coordinamento della protezione civile
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 2 marzo 1985
+
+Atti di Governo, registro n. 54, foglio n. 24

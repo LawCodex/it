@@ -1,0 +1,227 @@
+---
+title: "DECRETO-LEGGE 22 marzo 2004, n. 72 — Interventi per contrastare la diffusione telematica abusiva di ((opere dell'ingegno)), nonche' a sostegno delle attivita' cinematografiche e dello spettacolo."
+identifier: "urn:nir:stato:decreto.legge:2004-03-22;72"
+eli: "https://www.normattiva.it/eli/id/2004/03/23/004G0103/CONSOLIDATED/20050402"
+type: decree_law
+jurisdiction: it
+language: it
+date: 2004-03-22
+last_amended: 2005-04-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 69 del 2004-03-23"
+codice_redazionale: "004G0103"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-03-22;72"
+retrieved: 2026-10-11
+---
+
+# DECRETO-LEGGE 22 marzo 2004, n. 72
+
+**Interventi per contrastare la diffusione telematica abusiva di ((opere dell'ingegno)), nonche' a sostegno delle attivita' cinematografiche e dello spettacolo.**
+
+*Entrata in vigore del provvedimento: 24-3-2004.Decreto-Legge convertito con modificazioni dalla L. 21 maggio 2004, n. 128 (in G.U. 22/05/2004, n.119).*
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per contrastare il fenomeno della diffusione telematica abusiva di materiale audiovisivo, nonche' per il sostegno finanziario e lo sviluppo delle attivita' cinematografiche, dello spettacolo e dello sport;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 marzo 2004;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per i beni e le attivita' culturali, di concerto con i Ministri dell'economia e delle finanze, della giustizia, delle comunicazioni e delle infrastrutture e dei trasporti;
+
+Emana
+
+il seguente decreto-legge:
+
+## Art. 1
+
+Misure di contrasto alla diffusione
+
+telematica abusiva di opere dell'ingegno
+
+1\. ((COMMA ABROGATO DAL D.L. 31 GENNAIO 2005, N. 7 CONVERTITO CON MODIFICAZIONI DALLA L. 31 MARZO 2005, N. 43)).
+
+2\. Al comma 1 dell'articolo 171-ter della legge 22 aprile 1941, n. 633, e successive modificazioni, le parole: "a fini di lucro" sono sostituite dalle seguenti: "per trarne profitto".
+
+3\. Al comma 2 dell'articolo 171-ter della legge 22 aprile 1941, n. 633, e successive modificazioni, dopo la lettera a) e' inserita la seguente:
+
+"a-bis) in violazione dell'articolo 16, per trarne profitto, comunica al pubblico immettendola in un sistema di reti telematiche, mediante connessioni di qualsiasi genere, un'opera dell'ingegno protetta dal diritto d'autore, o parte di essa;".
+
+4\. II Dipartimento della pubblica sicurezza del Ministero dell'interno raccoglie le segnalazioni di interesse in materia di prevenzione e repressione delle violazioni di cui alla lettera a-bis) del comma 2 dell'articolo 171-ter della legge 22 aprile 1941, n. 633, e successive modificazioni, assicurando il raccordo con le Amministrazioni interessate.
+
+5\. A seguito di provvedimento dell'autorita' giudiziaria, i prestatori di servizi della societa' dell'informazione, di cui al decreto legislativo 9 aprile 2003, n. 70, comunicano alle autorita' di polizia le informazioni in proprio possesso utili all'individuazione dei gestori dei siti e degli autori delle condotte segnalate.
+
+6\. A seguito di provvedimento dell'autorita' giudiziaria, per le violazioni commesse per via telematica di cui al presente decreto, i prestatori di servizi della societa' dell'informazione, ad eccezione dei fornitori di connettivita' alle reti, fatto salvo quanto previsto agli articoli 14, 15, 16 e 17 del decreto legislativo 9 aprile 2003, n. 70, pongono in essere tutte le misure dirette ad impedire l'accesso ai contenuti dei siti ovvero a rimuovere i contenuti medesimi.
+
+7\. La violazione degli obblighi di cui ai commi 5 e 6 e' punita con una sanzione amministrativa pecuniaria da 50.000 euro a 250.000 euro.
+
+Alle violazioni di cui al comma 1 si applicano le sanzioni previste dall'articolo 21 del decreto legislativo 9 aprile 2003, n. 70.
+
+8\. All'articolo 39, comma 1, del decreto legislativo 9 aprile 2003, n. 68, sono apportate le seguenti modificazioni:
+
+a) la lettera d) e' sostituita dalla seguente:
+
+"d) memorie digitali idonee per audio e video, fisse o trasferibili, quali flash memory e cartucce per lettori MP3 e analoghi: 0,36 euro per ogni gigabyte";
+
+b) dopo la lettera h) e' aggiunta la seguente:
+
+"h-bis) apparecchi esclusivamente destinati alla masterizzazione di supporti DVD e CD e software finalizzato alla masterizzazione: 3 per cento dei relativi prezzi di listino al rivenditore".
+
+9\. All'articolo 71-septies della legge 22 aprile 1941, n. 633, e successive modificazioni, i commi 3 e 4 sono sostituiti dai seguenti:
+
+"3. Il compenso e' dovuto da chi fabbrica o importa nel territorio dello Stato allo scopo di trarne profitto gli apparecchi e i supporti indicati nel comma 1. I predetti soggetti devono presentare alla Societa' italiana degli autori ed editori (SIAE), ogni tre mesi, una dichiarazione dalla quale risultino le cessioni effettuate e i compensi dovuti, che devono essere contestualmente corrisposti. In caso di mancata corresponsione del compenso, e' responsabile in solido per il pagamento il distributore degli apparecchi o dei supporti di registrazione.
+
+4\. La violazione degli obblighi di cui al comma 3 e' punita con la sanzione amministrativa pecuniaria pari al doppio del compenso dovuto, nonche', nei casi piu' gravi o di recidiva, con la sospensione della licenza o autorizzazione all'esercizio dell'attivita' commerciale o industriale da quindici giorni a tre mesi ovvero con la revoca della licenza o autorizzazione stessa.". ))
+
+## Art. 2
+
+Disposizioni relative alle attivita'
+
+cinematografiche e allo spettacolo
+
+01\. All'articolo 12 del decreto legislativo 22 gennaio 2004, n. 28, il comma 5 e' sostituito dal seguente:
+
+"5. Con decreto del Ministro sono stabilite, di concerto con il Ministro dell'economia e delle finanze, le modalita' tecniche di gestione del Fondo di cui al comma 1 e di erogazione. dei finanziamenti e dei contributi, nonche' le modalita' tecniche di monitoraggio dell'impiego dei finanziamenti concessi.
+
+1\. All'articolo 27 del decreto legislativo 22 gennaio 2004, n. 28, sono apportate le seguenti modificazioni:
+
+a) il comma 3 e' sostituito dal seguente:
+
+"3. Le istanze per l'erogazione dei finanziamenti a favore delle imprese di produzione, presentate a valere sul fondo di cui all'articolo 27 ed all'articolo 28 della legge 4 novembre 1965, n. 1213, e successive modificazioni, sono valutate secondo la disciplina risultante dilla medesima normativa e dai relativi decreti di attuazione, qualora, prima della data di entrata in vigore del presente decreto, esse abbiano gia' ottenuto il riconoscimento dell'interesse culturale nazionale e relativamente ad esse sia stato depositato presso la competente direzione generale il risultato dell'esame tecnico-economico del preventivo e del piano finanziario di cui all'articolo 2, comma 5, del decreto del Presidente del Consiglio dei ministri in data 24 marzo 1994, concernente 'Norme di attuazione del decretolegge 14 gennaio 1994, n. 26, recante: Interventi urgenti in favore del cinema', pubblicato nella Gazzetta Ufficiale n. 87 del 15 aprile 1994. Le istanze relative ai progetti filmici che, alla data di entrata in vigore del presente decreto, abbiano ottenuto il riconoscimento dell'interesse culturale nazionale e non siano corredate dell'esame tecnico-economico del preventivo e del piano finanziario, possono essere nuovamente presentate ai sensi del presente decreto. Ai relativi progetti filmici e' riconosciuto, con priorita' di trattazione rispetto alle altre istanze, l'esito positivo della valutazione per il riconoscimento dell'interesse culturale, ai sensi dell'articolo 8, con esclusivo riferimento ai criteri di cui alle lettere a), b) e c) del comma 2 del medesimo articolo 8";
+
+b) al comma 8, dopo le parole: "decreto legislativo" sono inserite le seguenti: "non hanno natura regolamentare e".
+
+2\. Le risorse di cui all'articolo 3, comma 83, della legge 23 dicembre 1996, n. 662, per l'anno 2004, sono finalizzate, nel limite di 90 milioni di euro, all'applicazione del comma 1 ed alle esigenze, anche di funzionamento, del settore dello spettacolo e della Societa' per lo sviluppo dell'arte, della cultura e dello spettacolo "Arcus S.p.a.". In ogni caso, alla erogazione delle risorse per le finalita' di cui al periodo precedente si provvede successivamente all'adozione del decreto di cui al medesimo comma 83 dell'articolo 3 della legge n. 662 del 1996.
+
+3\. L'articolo 4 del decreto-legge 25 marzo 1997, n. 67, convertito, con modificazioni, dalla legge 23 maggio 1997, n. 135, e' abrogato. Le risorse giacenti sul conto speciale di cui alla predetta disposizione sono versate all'entrata del bilancio dello Stato, per essere riassegnate al Fondo di cui all'articolo 12 del decreto legislativo 22 gennaio 2004, n. 28, ferma restando la loro natura di finanziamenti. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+3-bis. All'articolo 10 del decreto legislativo 29 giugno 1996, n. 367, e successive modificazioni, il comma 3 e' sostituito dal seguente:
+
+"3. Lo statuto deve prevedere altresi' le modalita' di partecipazione dei fondatori privati, il cui apporto complessivo al patrimonio della fondazione non puo' superare la misura del 40 per cento del patrimonio stesso. Lo statuto prevede altresi' che possono nominare un rappresentante nel consiglio di amministrazione fondatori che, come singoli o cumulativamente, oltre ad un apporto al patrimonio, assicurano per almeno due anni consecutivi un apporto annuo non inferiore all'8 per cento del totale dei finanziamenti pubblici erogati per la gestione dell'attivita' della fondazione, verificato con riferimento all'anno in cui avviene il loro ingresso nella fondazione, fermo restando quanto previsto in materia di composizione del consiglio di amministrazione. La permanenza nel consiglio di amministrazione dei rappresentanti nominati dai fondatori privati e' subordinata all'erogazione da parte di questi dell'apporto annuo per la gestione dell'ente. Per raggiungere tale entita' dell'apporto, i fondatori privati interessati dichiarano per atto scritto di volere concorrere collettivamente alla gestione dell'ente nella misura economica indicata. Ciascun fondatore privato non puo' sottoscrivere piu' di una dichiarazione".
+
+3-ter. L'articolo 24 del decreto legislativo 29 giugno 1996, n. 367, e successive modificazioni, e' sostituito dal seguente:
+
+"Art. 24. - (Contributi dello Stato). - 1. I criteri di ripartizione della quota del Fondo unico per lo spettacolo destinata alle fondazioni liricosinfoniche sono determinati ogni tre anni con decreto del Ministro per i beni e le attivita' culturali non avente natura regolamentare. Tali criteri decorrono dal 1° gennaio 2005.
+
+2\. Il decreto di cui al comma 1 deve attenersi ai seguenti principi:
+
+a) misura dei trasferimenti ricevuti in passato; b) caratteristiche dei progetti e dei programmi di attivita' di ciascuna delle fondazioni sulla base degli obiettivi specifici concordati in sede convenzionale ai sensi dell'articolo 17, anche con riferimento al volume dell'attivita' produttiva e allo spazio riservato alle giovani generazioni di artisti;
+
+c) misura degli investimenti destinati alla promozione del pubblico, anche attraverso un'idonea politica dei prezzi, nonche' alla formazione dei pubblico giovanile;
+
+d) grado di raggiungimento degli obiettivi specifici concordati in sede convenzionale;
+
+e) valutazione degli organici artistici, tecnici e amministrativi necessari al conseguimento dei fini istituzionali e dei relativi costi come derivanti dalla contrattazione collettiva nazionale.
+
+Gli organici funzionali e le voci dei relativi costi sono previamente definiti con il decreto di cui al comma 1, tenendo conto della peculiarita' dei singoli enti, anche in relazione alla eventuale presenza di corpi di ballo e di laboratori di costruzione sceno-tecnica;
+
+f) valutazione della entita' della partecipazione dei privati al patrimonio e al finanziamento della gestione della fondazione.
+
+3\. 11 principio di cui al comma 2, lettera b), dovra' essere valutato secondo criteri oggettivi, anche collegati a meccanismi di standardizzazione di costi e di determinazione degli indicatori di rilevazione.
+
+4\. II principio di cui al comma 2, lettera d), dovra' essere valutato secondo criteri oggettivi, anche collegati ad indicatori di rilevazione definiti in sede convenzionale. A tale fine le fondazioni hanno l'obbligo di presentare annualmente al Ministro per i beni e le ttivita' culturali una dettagliata relazione circa lo stato di raggiungimento degli obiettivi concordati.
+
+5\. Gli elementi indicati al comma 2, lettera f), sono tenuti presenti in sede di ripartizione delle quote del Fondo unico per lo spettacolo, anche ai fini di quanto disposto dall'articolo 25.
+
+6\. La percentuale corrisposta dallo Stato a ciascuna fondazione, in conseguenza della ripartizione della quota di cui al comma 1, e' determinata ogni tre anni in percentuale sulla quota del Fondo unico per lo spettacolo.
+
+7\. Per l'anno 2004 sono validi i criteri stabiliti dal regolamento di cui al decreto del Ministro per i beni e le attivita' culturali 10 giugno 1999, n. 239.".
+
+3-quater. Al comma 4 dell'articolo 2 del decreto-legge 24 novembre 2000, n. 345, convertito, con modificazioni, dalla legge 26 gennaio 2001, n. 6, le parole: ovvero hanno una partecipazione inferiore al 12 per cento dei finanziamenti statali per la gestione della propria attivita'," sono soppresse.
+
+3-quinquies. All'articolo 1 della legge 11 novembre 2003, n. 310, il comma 5 e' sostituito dal seguente:
+
+"5. Per l'anno 2004, e per i successivi tre anni, alla Fondazione di cui al comma 1 e' assegnato un contributo a valere sulle risorse di' cui all'articolo 3, comma 83, della legge 23 dicembre 1996, n. 662, e successive modificazioni. A decorrere dall'anno 2008, la Fondazione concorre al riparto ordinario delle risorse assegnate al settore delle fondazioni lirico-sinfoniche.".
+
+3-sexies. ((COMMA ABROGATO DAL D.L. 31 GENNAIO 2005, N. 7 CONVERTITO CON MODIFICAZIONI DALLA L. 31 MARZO 2005, N. 43)).
+
+3-septies. Le fondazioni lirico-sinfoniche adeguano i propri statuti alle disposizioni del presente articolo entro centoventi giorni dalla data di entrata in vigore del presente decreto.
+
+## Art. 3
+
+Societa' per lo sviluppo dell'arte,
+
+della cultura e dello spettacolo "Arcus S.p.a."
+
+1\. In attesa dell'adozione del regolamento di cui all'articolo 60, comma 4, della legge 27 dicembre 2002, n. 289, il Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, sentito il Ministro per i beni e le attivita' culturali, entro trenta giorni dalla data di entrata in vigore del presente decreto, individua i limiti di impegno di cui all'articolo 13, comma 1, della legge 1° agosto 2002, n. 166, relativi agli esercizi finanziari 2003 e 2004, sui quali va calcolata l'aliquota del tre per cento prevista dall'articolo 60 della citata legge n. 289 del 2002. Il Ministro dell'economia e delle finanze provvede alle conseguenti variazioni di bilancio in termini di residui, di competenza e di cassa.
+
+2\. Entro il termine di cui al comma 1, con decreto del Ministro per i beni e le attivita' culturali, di concerto con il Ministro delle infrastrutture e dei trasporti, e' approvato il programma degli interventi da finanziare con le risorse di cui al medesimo comma 1. Tale programma puo' ricomprendere anche interventi a favore delle attivita' culturali e dello spettacolo. ((Il Ministro per i beni e le attivita' culturali presenta al Parlamento una relazione sugli interventi realizzati ai sensi del presente comma)).
+
+3\. Con apposita convenzione da stipulare, entro il termine di cui al comma 1, tra la Societa' per lo sviluppo dell'arte, della cultura e dello spettacolo "Arcus S.p.a.", ed i Ministeri per i beni e le attivita' culturali e delle infrastrutture e dei trasporti, sono disciplinati i criteri e le modalita' per la realizzazione degli interventi di cui al comma 2.
+
+4\. All'articolo 10, comma 6, della legge 8 ottobre 1997, n. 352, e successive modificazioni, dopo le parole: "Ministro per i beni e le attivita' culturali", sono inserite le seguenti: ", di concerto con il Ministro delle infrastrutture e dei trasporti".
+
+## Art. 4
+
+Interventi nei settori dei beni e
+
+delle attivita' culturali e dello sport
+
+1\. Per interventi nel settore dei beni e delle attivita' culturali e dello sport e' autorizzata la spesa di31 milioni di euro per l'anno 2004, di 16 milioni di euro per l'anno 2005 e di 25 milioni di euro per l'anno 2006.
+
+2\. E' assegnato a Cinecitta' Holding S.p.a. un contributo straordinario per spese di investimento di 3,5 milioni di euro per ciascuno degli anni 2004 e 2005.
+
+3\. E' assegnato alla Fondazione Centro sperimentale di cinematografia un contributo straordinario per spese di investimento di 500.000 euro per ciascuno degli anni 2004 e 2005.
+
+4\. Gli interventi di cui al comma 1 sono definiti con decreto del Ministro per i beni e le attivita' culturali, da adottare entro novanta giorni dalla data di entrata in vigore del presente decreto, e possono essere direttamente effettuati da soggetti o istituzioni proprietari, possessori e detentori dei beni, od organizzatori di eventi, ai quali sono assegnate le relative risorse.
+
+((4-bis. Con l'alto patronato della Presidenza della Repubblica e della Presidenza del Consiglio dei ministri, e' autorizzata la spesa di' 450.000 euro per l'anno 2004, quale contributo per le attivita' celebrative inerenti il cinquantenario della conquista del K2. Il contributo e' erogato agli enti. organizzatori, in Italia e in Pakistan, su deliberazione di un Comitato composto da tre saggi nominati rispettivamente dal Ministro delle politiche agricole e forestali, dal Ministro degli affari esteri e dal Ministro per i beni e le attivita' culturali)).
+
+5\. All'onere derivante dall'attuazione dei commi 1, 2 e 3, pari a 35 milioni di euro per l'anno 2004, a 20 milioni di euro per l'anno 2005 e a 25 milioni di euro per l'anno 2006, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2004-2006, nell'ambito dell'unita' previsionale di base di conto capitale "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2004, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero per i beni e le attivita' culturali.
+
+((5-bis. All'onere derivante dall'attuazione del comma 4-bis, pari a 450.000 euro per l'anno 2004, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2004-2006, nell'ambito dell'unita' previsionale di base di parte corrente. "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2004, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero)).
+
+6\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+((6-bis. All'articolo 90 della legge 27 dicembre 2002, n. 289, al comma 17, lettera c), dopo le parole: "societa' sportiva di capitali" sono inserite le seguenti: "o cooperativa".
+
+6-ter. All'articolo 90 della legge 27 dicembre 2002, n. 289, il comma 18 e' sostituito dai, seguenti:
+
+"18. Le societa' e le associazioni sportive dilettantistiche si costituiscono con atto scritto nel quale deve tra l'altro essere indicata la sede legale. Nello statuto devono essere espressamente previsti:
+
+a) la denominazione;
+
+b) l'oggetto sociale con riferimento all'organizzazione di attivita' sportive dilettantistiche, compresa l'attivita' didattica;
+
+c) l' attribuzione della rappresentanza legale dell'associazione;
+
+d) l'assenza di fini' di lucro e la previsione che i proventi delle attivita' non possono, in nessun caso, essere divisi fra gli, associati, anche in forme indirette;
+
+e) le norme sull'ordinamento interno ispirato a principi di democrazia e di uguaglianza dei diritti di tutti gli associati, con la previsione dell'elettivita' delle cariche sociali, fatte salve le societa' sportive dilettantistiche che assumono la forma di societa' di capitali o cooperative per le quali si applicano le disposizioni del codice civile;
+
+f) l'obbligo di redazione di rendiconti economico-finanziari, nonche' le modalita' di approvazione degli stessi da parte degli organi statutari;
+
+g) le modalita' di scioglimento dell'associazione;
+
+h) l'obbligo di devoluzione ai fini sportivi del patrimonio in caso di' scioglimento delle societa' e delle associazioni.
+
+18-bis. E' fatto divieto agli amministratori delle societa' e delle associazioni sportive dilettantistiche di ricoprire la medesima carica in altre societa' o associazioni sportive dilettantistiche nell'ambito della medesima federazione sportiva o disciplina associata se riconosciute dal CONI, ovvero nell'ambito della medesima disciplina facente capo ad un ente di promozione sportiva.
+
+18-ter. Le societa' e le associazioni sportive dilettantistiche che, alla data di entrata in vigore della presente legge, sono in possesso dei requisiti di cui al comma 18, possono provvedere all'integrazione della denominazione sociale di cui al comma 17 attraverso verbale della determinazione assunta in tale senso dall'assemblea dei soci".
+
+6-quater. All'articolo 90 della legge 27 dicembre 2002, n. 289, i commi 20, 21 e 22 sono abrogati)).
+
+## Art. 5
+
+Entrata in vigore
+
+1\. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 marzo 2004
+
+CIAMPI
+
+Berlusconi, Presidente del Consiglio dei Ministri
+
+Urbani, Ministro per i beni e le attivita' culturali
+
+Tremonti, Ministro dell'economia e delle finanze
+
+Castelli, Ministro della giustizia Gasparri, Ministro delle comunicazioni
+
+Lunardi, Ministro delle infrastrutture e dei trasporti
+
+Visto, il Guardasigilli: Castelli

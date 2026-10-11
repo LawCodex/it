@@ -1,0 +1,301 @@
+---
+title: "DECRETO-LEGGE 12 maggio 1971, n. 249 — Modificazioni al regime fiscale di alcuni prodotti petroliferi."
+identifier: "urn:nir:stato:decreto.legge:1971-05-12;249"
+eli: "https://www.normattiva.it/eli/id/1971/05/12/071U0249/CONSOLIDATED/19720703"
+type: decree_law
+jurisdiction: it
+language: it
+date: 1971-05-12
+last_amended: 1972-07-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 120 del 1971-05-12"
+codice_redazionale: "071U0249"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1971-05-12;249"
+retrieved: 2026-10-11
+---
+
+# DECRETO-LEGGE 12 maggio 1971, n. 249
+
+**Modificazioni al regime fiscale di alcuni prodotti petroliferi.**
+
+*Decreto-Legge convertito dalla L. 04 luglio 1971, n. 427 (in G.U. 06/07/1971, n.168).*
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 77, comma secondo, della Costituzione;
+
+Vista la tariffa per l'applicazione dei dazi doganali, approvata
+
+con il decreto del Presidente della Repubblica 26 giugno 1965, n.
+
+723, e successive aggiunte e modificazioni;
+
+Visto il decreto-legge 28 febbraio 1939, n. 334, convertito nella legge 2 giugno 1939, n. 739, istitutivo di una imposta di
+
+fabbricazione sugli oli minerali e sui prodotti della loro
+
+lavorazione, e le successive modificazioni;
+
+Visto il decreto-legge 30 giugno 1960, n. 590, convertito, con modificazioni, nella legge 14 agosto 1960, n. 825, recante
+
+diminuzioni della imposta di fabbricazione su alcuni prodotti
+
+petroliferi;
+
+Visto il decreto-legge 23 ottobre 1964, n. 989, convertito, con
+
+modificazioni, nella legge 18 dicembre 1964, n. 1350, recante
+
+modificazioni alla disciplina fiscale dei prodotti petroliferi;
+
+Visto il decreto-legge 26 ottobre 1970, n. 745, convertito, con
+
+modificazioni, nella legge 18 dicembre 1970, n. 1034, concernente
+
+provvedimenti straordinari per la ripresa economica;
+
+Ritenuta la straordinaria necessita' ed urgenza di modificare il
+
+regime fiscale di alcuni prodotti petroliferi;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le finanze, di concerto con i Ministri per il bilancio e la programmazione economica, per il tesoro
+
+e per l'industria, il commercio e l'artigianato;
+
+Decreta:
+
+## Art. 1
+
+L'imposta di fabbricazione e la corrispondente sovrimposta di confine sulle benzine speciali diverse dall'acqua ragia minerale e sulla benzina sono ridotte da lire 15.889 a lire 15.482 per quintale.
+
+L'imposta di fabbricazione e la corrispondente sovrimposta di
+
+confine sugli oli combustibili diversi da quelli speciali sono
+
+ridotte da lire 4.000 a lire 3.800 per quintale.
+
+La lettera B, punti 1), 2) e 3), la lettera E, punto 1), la lettera F, punto 1), la lettera G, punti 2), 3) e 4), e la lettera H, punti 1), 2), 3), 4), 5) e 8), della tabella B allegata al decreto-legge 23
+
+ottobre 1964, n. 989, convertito, con modificazioni, nella legge 18 dicembre 1964, n. 1350, sono sostituite come segue:
+
+Aliquota
+
+per quintale lire
+
+"B) Benzina:
+
+1\) acquistata con speciali buoni da automobili-
+
+sti e da motociclisti, stranieri od italiani re-
+
+sidenti all'estero, nei viaggi di diporto nello
+
+Stato, entro il limite di un quantitativo stabi-
+
+lito dalla Presidenza del Consiglio dei Ministri
+
+d'intesa con i Ministri per il tesoro, per le fi-
+
+nanze, per l'industria, il commercio e l'artigia-
+
+nato, per il commercio con l'estero e per il tu-
+
+rismo e lo spettacolo e non eccedente in ogni ca-
+
+so il fabbisogno di 90 giorni di permanenza...... 7.437 - (I buoni per l'acquisto della benzina sono
+
+emessi dall'Ente nazionale italiano per il turi-
+
+smo e dall'Automobile Club d'Italia. La vigilanza
+
+sulla distribuzione e contabilita dei buoni stes-
+
+si e affidata ad un Comitato nominato dal Presi-
+
+dente del Consiglio dei Ministri d'intesa con i
+
+Ministri per il tesoro, per le finanze, per l'in-
+
+dustria, il commercio e l'artigianato, per il
+
+commercio con l'estero e per il turismo e lo
+
+spettacolo).
+
+2\) consumata per l'azionamento delle autovettu-
+
+re da noleggio da piazza, compresi i motoscafi
+
+che in talune localita sostituiscono le vetture
+
+da piazza e quelli lacuali adibiti al servizio
+
+pubblico da banchina per il trasporto di persone
+
+entro i seguenti quantitativi:
+
+a) litri 9 giornalieri per ogni autovettura
+
+circolante nei comuni con popolazione superiore a
+
+500.000 abitanti;
+
+b) litri 6 giornalieri per ogni autovettura
+
+circolante nei comuni con popolazione superiore a
+
+100.000 abitanti ma non a 500.000 abitanti;
+
+c) litri 5 giornalieri per ogni autovettura
+
+circolante nei comuni con popolazione di 100.000
+
+abitanti o meno. L'agevolazione di cui ai prece-
+
+denti numeri 1) e 2) e concessa anche sotto forma
+
+di rimborso della differenza tra l'aliquota d'im-
+
+posta di fabbricazione prevista per la benzina in
+
+via generale e quella ridotta 4.843 - 3) consumata per l'azionamento delle autoambu-
+
+lanze, destinate al trasporto degli ammalati e
+
+dei feriti, di pertinenza dei vari enti di assi-
+
+stenza e di pronto soccorso da determinarsi con
+
+decreto del Ministro per le finanze, nei limiti e
+
+con le modalita che saranno stabiliti con lo
+
+stesso decreto................................... 4.843 -
+
+E) Benzina e petrolio diverso da quello lampante:
+
+1\) destinati all'Amministrazione della difesa
+
+per essere impiegati per l'azionamento degli ae-
+
+rei militari a reazione.......................... 1.548,20 (L'agevolazione e limitata al prodotto denomi-
+
+nato "jet-fuel JP4" e per il quantitativo ecce-
+
+dente il contingente annuo di tonnellate 18.000,
+
+sulle quali si riscuote l'imposta nella misura
+
+normale).
+
+F) Oli da gas:
+
+1\) da usare direttamente come combustibili..... 5.162 -
+
+G) Oli da gas e oli combustibili speciali:
+
+2\) impiegati per generare forza motrice in la-
+
+vori di perforazione per ricerche di idrocarburi
+
+e di forze endogene nel sottosuolo nazionale..... 50 - 3) impiegati per l'azionamento di macchine
+
+idrovore per il sollevamento delle acque allo
+
+scopo di agevolare la coltivazione dei fondi ru-
+
+stici sui terreni bonificati..................... 50 - 4) impiegati per generare direttamente o indi-
+
+rettamente energia elettrica, purche la potenza
+
+installata non sia inferiore a kW. 1............. 50 -
+
+H) Oli combustibili diversi da quelli speciali:
+
+1\) da usare direttamente come combustibili nel-
+
+le caldaie e nei forni:
+
+a) densi..................................... 50 - b) semifluidi................................ 120 - c) fluidi.................................... 170 - d) fluidissimi............................... 440 - 2) impiegati per generare forza motrice in la-
+
+vori di perforazione per ricerche di idrocarburi
+
+e di forze endogene nel sottosuolo nazionale..... 50 - 3) impiegati per l'azionamento di macchine
+
+idrovore per il sollevamento delle acque allo
+
+scopo di agevolare la coltivazione dei fondi ru-
+
+stici su terreni bonificati...................... 50 - 4) impiegati per generare direttamente o indi-
+
+rettamente energia elettrica, purche la potenza
+
+installata non sia inferiore a kW. 1............. 50 - 5) impiegati per produrre direttamente forza
+
+motrice con motori fissi in stabilimenti indu-
+
+striali, agricolo - industriali, laboratori, can-
+
+tieri di costruzione............................. 50 - 8) destinati ai consumi interni delle raffine-
+
+rie e degli stabilimenti che trasformano gli oli
+
+minerali in prodotti chimici di natura diversa,
+
+limitatamente agli oli combustibili densi........ 35 -"
+
+## Art. 2
+
+Le riduzioni di imposta di fabbricazione e della corrispondente sovrimposta di confine apportate col presente decreto esplicano la loro efficacia fino al 31 dicembre 1971. (1) ((2))
+
+---------------
+
+AGGIORNAMENTO (1)
+
+Il D.L. 28 dicembre 1971, n. 1122, convertito senza modificazioni dalla L. 25 febbraio 1972, n. 16, ha disposto (con l'art. 1, comma 1) che "Il termine previsto dall'art. 2 del decreto-legge 12 maggio 1971, n. 249, convertito nella legge 4 luglio 1971, n. 427, e' prorogato di mesi sei".
+
+---------------
+
+AGGIORNAMENTO (2)
+
+Il D.L. 30 giugno 1972, n. 276, convertito senza modificazioni dalla L. 8 agosto 1972, n. 458, ha disposto (con l'art. 1, comma 1) che "Il termine previsto dall'art. 2 del decreto-legge 12 maggio 1971, n. 249, convertito nella legge 4 luglio 1971, n. 427, prorogato di sei mesi con l'art. 1 del decreto-legge 28 dicembre 1971, n. 1122, convertito nella legge 25 febbraio 1972, n. 16, e' ulteriormente prorogato di tre mesi"; ha inoltre disposto (con l'art. 3, comma 1) che "Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana, ha effetto dal 1 luglio 1972 e sara' presentato alle Camere per la conversione in legge".
+
+## Art. 3
+
+All'onere derivante dal presente decreto valutato in milioni 84.000, si provvede con il ricavo netto delle operazioni finanziarie che il Ministro per il tesoro e' autorizzato ad effettuare mediante la contrazione di mutui con il Consorzio di credito per le opere pubbliche o con emissioni di buoni poliennali del tesoro o di speciali certificati di credito.
+
+## Art. 4
+
+I mutui con il Consorzio di credito per le opere pubbliche, da ammortizzare in un periodo non superiore a venti anni, saranno contratti nelle forme, alle condizioni e con le modalita' che verranno stabilite con apposite convenzioni da stipularsi tra il Ministro per il tesoro ed il Consorzio di credito per le opere pubbliche e da approvarsi con decreto del Ministro per il tesoro.
+
+Il servizio dei mutui sara' assunto dal Ministero del tesoro.
+
+Le rate di ammortamento saranno inscritte negli stati di previsione della spesa del Ministero medesimo e specificatamente vincolate a favore del Consorzio di credito per le opere pubbliche.
+
+Per la emissione dei buoni poliennali del tesoro a scadenza non superiore a nove anni, si osservano le disposizioni di cui alla legge 27 dicembre 1953, n. 941.
+
+Per la emissione dei certificati di credito si osservano le condizioni e le modalita' di cui all'art. 20 del decreto-legge 30 agosto 1968, n. 918, convertito, con modificazioni, nella legge 25 ottobre 1968, n. 1089.
+
+All'onere relativo alle operazioni finanziarie di cui al presente articolo per l'anno finanziario 1971, sara' fatto fronte mediante riduzione dei fondi speciali di cui ai capitoli nn. 3523 e 6036 dello stato di previsione del Ministero del tesoro per l'anno medesimo.
+
+Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, alle occorrenti variazioni di bilancio.
+
+## Art. 5
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 12 maggio 1971
+
+SARAGAT
+
+COLOMBO - PRETI - GIOLITTI - FERRARI AGGRADI - GAVA
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato alla Corte dei conti, addi' 12 maggio 1971
+
+Atti del Governo, registro n. 242, foglio n. 10. - CARUSO

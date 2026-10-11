@@ -1,0 +1,57 @@
+---
+title: "DECRETO-LEGGE 02 aprile 2001, n. 91 — Proroga dell'entrata in vigore delle disposizioni sulla competenza penale del giudice di pace."
+identifier: "urn:nir:stato:decreto.legge:2001-04-02;91"
+eli: "https://www.normattiva.it/eli/id/2001/04/03/001G0150/CONSOLIDATED/20010510"
+type: decree_law
+jurisdiction: it
+language: it
+date: 2001-04-02
+last_amended: 2001-05-10
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 78 del 2001-04-03"
+codice_redazionale: "001G0150"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-04-02;91"
+retrieved: 2026-10-11
+---
+
+# DECRETO-LEGGE 02 aprile 2001, n. 91
+
+**Proroga dell'entrata in vigore delle disposizioni sulla competenza penale del giudice di pace.**
+
+*Entrata in vigore del decreto: 3-4-2001. Decreto-Legge convertito con modificazioni dalla L. 3 maggio 2001, n. 163 (in G.U. 09/05/2001, n.106).*
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Ritenuta la straordinaria necessita' ed urgenza di provvedere con lo strumento della decretazione d'urgenza, anche in considerazione dell'attuale stato di scioglimento della Camera dei deputati e del Senato della Repubblica, alla modifica dei termini relativi all'entrata in vigore delle disposizioni di cui al decreto legislativo 28 agosto 2000, n. 274, recante disposizioni sulla competenza penale del giudice di pace, a norma dell'articolo 14 della legge 24 novembre 1999, n. 468, al fine di attuare nella maniera piu' efficiente la riforma, completando l'adeguamento delle risorse ai nuovi compiti richiesti ai giudici di pace;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 marzo 2001;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della giustizia;
+
+EMANA
+
+il seguente decreto-legge:
+
+## Art. 1
+
+1\. Il comma 2 dell'articolo 21 della legge 24 novembre 1999, n. 468, e' sostituito dal seguente: "2. Il decreto legislativo di cui all'articolo 14 entra in vigore il giorno ((2 gennaio 2002))".
+
+2\. Il comma 1 dell'articolo 65 del decreto legislativo 28 agosto 2000, n. 274, e' sostituito dal seguente: "1. Il presente decreto legislativo entra in vigore il giorno ((2 gennaio 2002))".
+
+## Art. 2
+
+1\. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta Ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 aprile 2001
+
+CIAMPI
+
+Amato, Presidente del Consiglio dei Ministri
+
+Fassino, Ministro della giustizia
+
+Visto, il Guardasigilli: Fassino

@@ -1,0 +1,85 @@
+---
+title: "DECRETO-LEGGE 31 marzo 2014, n. 52 — Disposizioni urgenti in materia di superamento degli ospedali psichiatrici giudiziari."
+identifier: "urn:nir:stato:decreto.legge:2014-03-31;52"
+eli: "https://www.normattiva.it/eli/id/2014/04/01/14G00066/CONSOLIDATED/20140601"
+type: decree_law
+jurisdiction: it
+language: it
+date: 2014-03-31
+last_amended: 2014-06-01
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 76 del 2014-04-01"
+codice_redazionale: "14G00066"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-03-31;52"
+retrieved: 2026-10-11
+---
+
+# DECRETO-LEGGE 31 marzo 2014, n. 52
+
+**Disposizioni urgenti in materia di superamento degli ospedali psichiatrici giudiziari.**
+
+*Entrata in vigore del provvedimento: 01/04/2014.Decreto-Legge convertito con modificazioni dalla L. 30 maggio 2014, n. 81 (in G.U. 31/05/2014, n. 125).*
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Considerato che i programmi regionali per il superamento degli ospedali psichiatrici giudiziari, di cui all'articolo 3-ter, comma 6, del decreto-legge 22 dicembre 2011, n. 211, convertito, con modificazioni, dalla legge 17 febbraio 2012, n. 9, non possono essere attuati entro il termine, in scadenza, del 1° aprile 2014, di cui al comma 4 del medesimo articolo 3-ter;
+
+Ritenuta la straordinaria necessita' ed urgenza di prorogare il predetto termine del 1° aprile 2014, di cui all'articolo 3-ter, comma 4, del decreto-legge 22 dicembre 2011, n. 211, convertito, con modificazioni, dalla legge 17 febbraio 2012, n. 9, al fine di consentire alle regioni e province autonome di completare tutte le misure e gli interventi strutturali gia' programmati, finalizzati ad assicurare l'assistenza terapeutico-riabilitativa per il recupero e il reinserimento sociale dei pazienti internati provenienti dagli ospedali psichiatrici giudiziari;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 31 marzo 2014;
+
+Sulla proposta del Presidente del Consiglio dei ministri e del Ministro della salute, di concerto con il Ministro della giustizia;
+
+Emana
+
+il seguente decreto-legge:
+
+## Art. 1
+
+Modifiche all'articolo 3-ter del decreto-legge 22 dicembre 2011, n. 211, convertito, con modificazioni, dalla legge 17 febbraio 2012, n. 9
+
+1\. Al comma 4 dell'articolo 3-ter del decreto-legge 22 dicembre 2011, n. 211, convertito, con modificazioni, dalla legge 17 febbraio 2012, n. 9, sono apportate le seguenti modificazioni:
+
+a) al primo periodo, le parole: «1° aprile 2014» sono sostituite dalle seguenti: «31 marzo 2015»;
+
+((b) dopo il primo periodo sono aggiunti i seguenti: "Il giudice dispone nei confronti dell'infermo di mente e del seminfermo di mente l'applicazione di una misura di sicurezza, anche in via provvisoria, diversa dal ricovero in un ospedale psichiatrico giudiziario o in una casa di cura e custodia, salvo quando sono acquisiti elementi dai quali risulta che ogni misura diversa non e' idonea ad assicurare cure adeguate e a fare fronte alla sua pericolosita' sociale, il cui accertamento e' effettuato sulla base delle qualita' soggettive della persona e senza tenere conto delle condizioni di cui all'articolo 133, secondo comma, numero 4, del codice penale. Allo stesso modo provvede il magistrato di sorveglianza quando interviene ai sensi dell'articolo 679 del codice di procedura penale. Non costituisce elemento idoneo a supportare il giudizio di pericolosita' sociale la sola mancanza di programmi terapeutici individuali")).
+
+((1-bis. All'articolo 3-ter del decreto-legge 22 dicembre 2011, n. 211, convertito, con modificazioni, dalla legge 17 febbraio 2012, n. 9, sono apportate le seguenti modificazioni:
+
+a) al comma 6, dopo il terzo periodo sono inseriti i seguenti: "A tal fine le regioni, senza nuovi o maggiori oneri a carico della finanza pubblica, nell'ambito delle risorse destinate alla formazione, organizzano corsi di formazione per gli operatori del settore finalizzati alla progettazione e alla organizzazione di percorsi terapeutico-riabilitativi e alle esigenze di mediazione culturale. Entro il 15 giugno 2014, le regioni possono modificare i programmi presentati in precedenza al fine di provvedere alla riqualificazione dei dipartimenti di salute mentale, di contenere il numero complessivo di posti letto da realizzare nelle strutture sanitarie di cui al comma 2 e di destinare le risorse alla realizzazione o riqualificazione delle sole strutture pubbliche";
+
+b) dopo il comma 8 e' inserito il seguente:
+
+"8.1. Fino al superamento degli ospedali psichiatrici giudiziari, l'attuazione delle disposizioni di cui al presente articolo costituisce adempimento ai fini della verifica del Comitato permanente per la verifica dell'erogazione dei livelli essenziali di assistenza".
+
+1-ter. I percorsi terapeutico-riabilitativi individuali di dimissione di ciascuna delle persone ricoverate negli ospedali psichiatrici giudiziari alla data di entrata in vigore della legge di conversione del presente decreto, di cui ai commi 5 e 6 dell'articolo 3-ter del decreto-legge 22 dicembre 2011, n. 211, convertito, con modificazioni, dalla legge 17 febbraio 2012, n. 9, e successive modificazioni, devono essere obbligatoriamente predisposti e inviati al Ministero della salute e alla competente autorita' giudiziaria entro quarantacinque giorni dalla data di entrata in vigore della legge di conversione del presente decreto. I programmi sono predisposti dalle regioni e dalle province autonome di Trento e di Bolzano attraverso i competenti dipartimenti e servizi di salute mentale delle proprie aziende sanitarie, in accordo e con il concorso delle direzioni degli ospedali psichiatrici giudiziari. Per i pazienti per i quali e' stata accertata la persistente pericolosita' sociale, il programma documenta in modo puntuale le ragioni che sostengono l'eccezionalita' e la transitorieta' del prosieguo del ricovero.
+
+1-quater. Le misure di sicurezza detentive provvisorie o definitive, compreso il ricovero nelle residenze per l'esecuzione delle misure di sicurezza, non possono durare oltre il tempo stabilito per la pena detentiva prevista per il reato commesso, avuto riguardo alla previsione edittale massima. Per la determinazione della pena a tali effetti si applica l'articolo 278 del codice di procedura penale. Per i delitti puniti con la pena dell'ergastolo non si applica la disposizione di cui al primo periodo)).
+
+2\. Al fine di monitorare il rispetto del termine di cui all'articolo 3-ter, comma 4, del decreto-legge 22 dicembre 2011, n. 211, convertito, con modificazioni, dalla legge 17 febbraio 2012, n. 9, come modificato dal comma 1 del presente decreto, le regioni comunicano al Ministero della salute, al Ministero della giustizia e al comitato paritetico interistituzionale di cui all'articolo 5, comma 2, del decreto del Presidente del Consiglio dei ministri 1° aprile 2008, pubblicato nella Gazzetta Ufficiale n. 126 del 30 maggio 2008, entro l'ultimo giorno del semestre successivo alla data di entrata in vigore del presente decreto, lo stato di realizzazione e riconversione delle strutture di cui all'articolo 3-ter, comma 6, del decreto-legge 22 dicembre 2011, n. 211, convertito, con modificazioni, dalla legge 17 febbraio 2012, n. 9, nonche' tutte le iniziative assunte per garantire il completamento del processo di superamento degli ospedali psichiatrici giudiziari. Quando dalla comunicazione della regione risulta che lo stato di realizzazione e riconversione delle strutture e delle iniziative assunte per il superamento degli ospedali psichiatrici giudiziari e' tale da non garantirne il completamento entro il successivo semestre il Governo provvede in via sostitutiva a norma dell'articolo 3-ter, comma 9, del decreto-legge 22 dicembre 2011, n. 211, convertito, con modificazioni, dalla legge 17 febbraio 2012, n. 9.
+
+((2-bis. Entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto e' attivato presso il Ministero della salute un organismo di coordinamento per il superamento degli ospedali psichiatrici giudiziari composto da rappresentanti del Ministero della salute, del Ministero della giustizia, delle regioni e delle province autonome di Trento e di Bolzano, al fine di esercitare funzioni di monitoraggio e di coordinamento delle iniziative assunte per garantire il completamento del processo di superamento degli ospedali psichiatrici giudiziari. A tal fine l'organismo di coordinamento si raccorda con il comitato paritetico interistituzionale di cui all'articolo 5, comma 2, del citato decreto del Presidente del Consiglio dei ministri 1º aprile 2008. La partecipazione alle sedute dell'organismo di coordinamento non da' luogo alla corresponsione di compensi, gettoni, emolumenti, indennita' o rimborsi spese comunque denominati. Ogni tre mesi dalla data di entrata in vigore della legge di conversione del presente decreto, il Ministro della salute e il Ministro della giustizia trasmettono alle Camere una relazione sullo stato di attuazione delle suddette iniziative)).
+
+3\. Agli oneri derivanti dalla proroga prevista dal comma 1, pari a 4,38 milioni di euro per il 2014 ed a 1,46 milioni di euro per il 2015, si provvede mediante corrispondente riduzione (( , per i medesimi anni,)) dell'autorizzazione di spesa di cui all'articolo 3-ter, comma 7, del decreto-legge 22 dicembre 2011, n. 211, convertito, con modificazioni, dalla legge 17 febbraio 2012, n. 9. Le relative risorse sono iscritte al pertinente programma dello stato di previsione del Ministero della giustizia per gli anni 2014 e 2015. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con proprio decreto, le occorrenti variazioni di bilancio.
+
+## Art. 2
+
+Entrata in vigore
+
+1\. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 marzo 2014
+
+NAPOLITANO
+
+Renzi, Presidente del Consiglio dei ministri
+
+Lorenzin, Ministro della salute
+
+Orlando, Ministro della giustizia
+
+Visto, il Guardasigilli: Orlando
