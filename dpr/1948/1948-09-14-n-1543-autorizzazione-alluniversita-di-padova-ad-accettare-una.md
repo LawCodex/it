@@ -1,0 +1,26 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948, n. 1543 — Autorizzazione all'Universita' di Padova ad accettare una donazione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1948-09-14;1543"
+eli: "https://www.normattiva.it/eli/id/1949/01/17/048U1543/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1948-09-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 12 del 1949-01-17"
+codice_redazionale: "048U1543"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-09-14;1543"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948, n. 1543
+
+**Autorizzazione all'Universita' di Padova ad accettare una donazione.**
+
+## Art. 1
+
+N. 1543. Decreto del Presidente della Repubblica 14 settembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 103.000 nominali, in buoni del Tesoro quinquennali a premi 5%, disposta in suo favore, con atto pubblico in data 27 ottobre 1947, dalla famiglia Bronca di Padova e da amici oblatori, per l'istituzione di una borsa di studio da intitolarsi al nome di "Paolo Emilio Bronca" e da conferirsi ad uno studente del 3° anno del corso di laurea in chimica industriale, meritevole e bisognoso.
+
+Visto, il Guardasigilli: GRASSI
+
+Registrato alla Corte dei conti, addi' 27 dicembre 1948

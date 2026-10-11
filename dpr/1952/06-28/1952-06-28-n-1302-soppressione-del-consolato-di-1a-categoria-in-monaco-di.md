@@ -1,0 +1,62 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1952, n. 1302 — Soppressione del Consolato di 1ª categoria in Monaco di Baviera (Germania) e istituzione di un Consolato generale di 1ª categoria nella stessa localita'."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1952-06-28;1302"
+eli: "https://www.normattiva.it/eli/id/1952/10/17/052U1302/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1952-06-28
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 242 del 1952-10-17"
+codice_redazionale: "052U1302"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-06-28;1302"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1952, n. 1302
+
+**Soppressione del Consolato di 1ª categoria in Monaco di Baviera (Germania) e istituzione di un Consolato generale di 1ª categoria nella stessa localita'.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il regio decreto 28 gennaio 1866, n. 2804;
+
+Visto il regio decreto 7 giugno 1866, n. 2996;
+
+Visto il decreto del Capo provvisorio dello Stato 18 aprile 1947, n. 266, e successive modificazioni;
+
+Visto il decreto del Presidente della Repubblica 26 febbraio 1948, n. 226, e successive modificazioni;
+
+Visto l'art. 2 della legge 4 gennaio 1951, n. 13;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per gli affari esteri, di concerto con il Ministro per il tesoro;
+
+Decreta:
+
+## Art. 1
+
+Il Consolato di 1ª categoria in Monaco di Baviera (Germania) e' soppresso.
+
+## Art. 2
+
+E' istituito un Consolato generale di 1ª categoria in Monaco di Baviera (Germania) con la seguente circoscrizione territoriale: La Baviera.
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana, ed ha effetto a decorrere dalla sua data.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 giugno 1952
+
+EINAUDI
+
+DE GASPERI - PELLA
+
+Visto, il Guardasigilli: ZOLI
+
+Registrato alla Corte dei conti, addi' 10 ottobre 1952
+
+Atti del Governo, registro n. 58, foglio n. 71. - FRASCA

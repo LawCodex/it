@@ -1,0 +1,26 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 gennaio 1951, n. 125 — Riconoscimento, agli effetti civili, della erezione della parrocchia di Sant'Andrea Apostolo, in Noto (Siracusa)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1951-01-11;125"
+eli: "https://www.normattiva.it/eli/id/1951/03/13/051U0125/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1951-01-11
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 60 del 1951-03-13"
+codice_redazionale: "051U0125"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-01-11;125"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 gennaio 1951, n. 125
+
+**Riconoscimento, agli effetti civili, della erezione della parrocchia di Sant'Andrea Apostolo, in Noto (Siracusa).**
+
+## Art. 1
+
+N. 125. Decreto del Presidente della Repubblica 11 gennaio 1951, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Noto in data 25 marzo 1950, relativo all'erezione della parrocchia di Sant'Andrea Apostolo, in Noto (Siracusa).
+
+Visto, il Guardasigilli: PICCIONI
+
+Registrato alla Corte dei conti, addi' 3 marzo 1951

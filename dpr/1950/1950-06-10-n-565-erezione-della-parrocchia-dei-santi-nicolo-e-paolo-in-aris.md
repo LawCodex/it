@@ -1,0 +1,26 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1950, n. 565 — Erezione della parrocchia dei Santi Nicolo' e Paolo, in Aris di Monfalcone (Gorizia)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1950-06-10;565"
+eli: "https://www.normattiva.it/eli/id/1950/08/11/050U0565/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1950-06-10
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 183 del 1950-08-11"
+codice_redazionale: "050U0565"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-06-10;565"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1950, n. 565
+
+**Erezione della parrocchia dei Santi Nicolo' e Paolo, in Aris di Monfalcone (Gorizia).**
+
+## Art. 1
+
+N. 565. Decreto del Presidente della Repubblica del 10 giugno 1950, col quale, sulla proposta del Ministro per l'interno, vengono riconosciuti agli effetti civili il decreto dell'Arcivescovo di Gorizia 3 aprile 1943, integrato con postilla 10 giugno 1949, relativo alla erezione della parrocchia dei Santi Nicolo' e Paolo, in Aris di Monfalcone (Gorizia) e il decreto dello stesso Arcivescovo 11 febbraio 1947, integrato con postilla 10 giugno 1949, relativo alla istituzione di una cooperativa presso la parrocchia stessa. La Chiesa parrocchiale di San Nicolo' Vescovo da Aris di Monfalcone, viene autorizzata ad accettare la donazione fattale dal comune di Monfalcone, consistente in un appezzamento di terreno circostante l'edificio sacro, valutato L. 50.000.
+
+Visto, il Guardasigilli: PICCIONI
+
+Registrato alla Corte dei conti, addi' 2 agosto 1950

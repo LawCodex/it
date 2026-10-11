@@ -1,0 +1,26 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1948, n. 203 — Autorizzazione al Politecnico di Milano ad accettare una donazione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1948-02-14;203"
+eli: "https://www.normattiva.it/eli/id/1948/04/03/048U0203/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1948-02-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 79 del 1948-04-03"
+codice_redazionale: "048U0203"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-02-14;203"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1948, n. 203
+
+**Autorizzazione al Politecnico di Milano ad accettare una donazione.**
+
+## Art. 1
+
+N. 203. Decreto del Presidente della Repubblica 14 febbraio 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Milano viene autorizzato ad accettare la donazione della somma di L. 21.000 nominali, in titoli di rendita italiana 5%, disposta in suo favore dal dott. ing. Luciano Scotti, in, rappresentanza del Comitato per le onoranze al dott, ing. Roberto Bazzano, con atto pubblico in data 4 marzo 1947, per L'istituzione di tre premi di L. 7200 Dominali ciascuno, aumentati del provento delle cedole maturate dal 1 luglio 1942, da intitolarsi al nome dell'ing. Roberto Bazzano e da conferirsi, uno ogni anno accademico, per un triennio, allo studente di ingegneria industriale elettrotecnica del Politecnico di Milano, che abbia presentato il miglior progetto di laurea, con preferenza a quelli di distribuzione di energia elettrica.
+
+Visto, il Guardasigilli: GRASSI
+
+Registrato alla Corte dei conti, addi' 25 marzo 1948

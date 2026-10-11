@@ -1,0 +1,26 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1950, n. 257 — Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Paolo Apostolo, in Introd (Aosta)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1950-03-15;257"
+eli: "https://www.normattiva.it/eli/id/1950/05/27/050U0257/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1950-03-15
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 121 del 1950-05-27"
+codice_redazionale: "050U0257"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-03-15;257"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1950, n. 257
+
+**Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Paolo Apostolo, in Introd (Aosta).**
+
+## Art. 1
+
+N. 257. Decreto del Presidente della Repubblica 15 marzo 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di San Paolo Apostolo, in Introd (Aosta).
+
+Visto, il Guardasigilli: PICCIONI
+
+Registrato alla Corte dei conti, addi' 16 maggio 1950

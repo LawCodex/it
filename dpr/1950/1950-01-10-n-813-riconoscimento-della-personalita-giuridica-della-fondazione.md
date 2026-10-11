@@ -1,0 +1,26 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1950, n. 813 — Riconoscimento della personalita' giuridica della Fondazione di culto denominata Piccola Opera di religione e culto \"Teresa Forti\", con sede presso la parrocchia di Santa Filomena nel comune di Roseto degli Abruzzi (Teramo)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1950-01-10;813"
+eli: "https://www.normattiva.it/eli/id/1950/10/10/050U0813/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1950-01-10
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 233 del 1950-10-10"
+codice_redazionale: "050U0813"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-01-10;813"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1950, n. 813
+
+**Riconoscimento della personalita' giuridica della Fondazione di culto denominata Piccola Opera di religione e culto "Teresa Forti", con sede presso la parrocchia di Santa Filomena nel comune di Roseto degli Abruzzi (Teramo).**
+
+## Art. 1
+
+N. 813. Decreto del Presidente della Repubblica 10 gennaio 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Fondazione di culto denominata Piccola Opera di religione e culto "Teresa Forti", con sede presso la parrocchia di Santa Filomena nel comune di Roseto degli Abruzzi (Teramo), intendendosi la Fondazione stessa, autorizzata ad accettare il legato Forti, consistente in alcuni immobili, con annesse scorte vive e morte, situati in frazione Montepagano e complessivamente valutati L. 177.842,20, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: PICCIONI
+
+Registrato alla Corte dei conti, addi' 2 ottobre 1950

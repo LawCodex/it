@@ -1,0 +1,60 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 agosto 1948, n. 1477 — Variazioni dell'organico della Scuola tecnica industriale di Catanzaro."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1948-08-10;1477"
+eli: "https://www.normattiva.it/eli/id/1949/01/04/048U1477/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1948-08-10
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 2 del 1949-01-04"
+codice_redazionale: "048U1477"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-08-10;1477"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 agosto 1948, n. 1477
+
+**Variazioni dell'organico della Scuola tecnica industriale di Catanzaro.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA.
+
+Vista la legge 15 giugno 1931, n. 889;
+
+Visto il regio decreto 31 agosto 1933, n. 2021, riguardante la trasformazione della Scuola industriale di Catanzaro in scuola tecnica a indirizzo industriale e artigiano;
+
+Vista la tabella organica annessa al predetto decreto;
+
+Visto il regio decreto 21 giugno 1942, n. 970, con il quale fra l'altro si provvide all'istituzione in Catanzaro di un Istituto tecnico industriale;
+
+Vista la tabella D annessa al predetto regio decreto (prospetto n. 1);
+
+Visto il decreto interministeriale 5 gennaio 1945, registrato alla Corte dei conti il 20 giugno 3945, registro n. 10, foglio n. 12, con il quale e' stata approvata la tabella organica del suddetto Istituto;
+
+Considerata l'opportunita' di affidare la direzione della predetta Scuola al preside del locale Istituto tecnico industriale e di unificare l'amministrazione dell'istituto e della scuola;
+
+Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione di concerto con il Ministro Segretario di Stato per il tesoro;
+
+Decreta:
+
+A decorrere dall'anno scolastico 1948-49 viene soppresso il posto di ruolo di direttore della Scuola tecnica industriale di Catanzaro;
+
+L'incarico della direzione della Scuola stessa, viene affidato al preside dell'Istituto tecnico industriale a norma delle disposizioni di cui all'art. 32 della legge 15 giugno 1931, n. 889.
+
+Con uguale decorrenza viene soppresso il posto di ruolo di segretario economo nella suddetta Scuola e viene istituito un posto di applicato di ruolo nell'Istituto anzidetto in aggiunta ai due posti di applicati incaricati gia' esistenti in detto Istituto.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e (lei decreti della. Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 10 agosto 1948
+
+EINAUDI
+
+GONELLA - PELLA
+
+Visto, il Guardasigilli: GRASSI
+
+Registrato alla Corte dei conti, addi' 27 dicembre 1948
+
+Atti del Governo, registro n. 25, foglio n. 139. - CONSOLI

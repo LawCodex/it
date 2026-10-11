@@ -1,0 +1,26 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1948, n. 1375 — Riconoscimento, agli effetti civili, della erezione in parrocchia della Vicaria curata autonoma di Santa Maria delle Grazie, in contrada Barracche del comune di Acireale (Catania)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1948-09-28;1375"
+eli: "https://www.normattiva.it/eli/id/1948/12/01/048U1375/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1948-09-28
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 280 del 1948-12-01"
+codice_redazionale: "048U1375"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-09-28;1375"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1948, n. 1375
+
+**Riconoscimento, agli effetti civili, della erezione in parrocchia della Vicaria curata autonoma di Santa Maria delle Grazie, in contrada Barracche del comune di Acireale (Catania).**
+
+## Art. 1
+
+N. 1375. Decreto del Presidente della Repubblica 28 settembre 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Acireale in data 7 ottobre 1947, relativo all'erezione in parrocchia della Vicaria curata autonoma di Santa Maria delle Grazie, in contrada Barracche del comune di Acireale (Catania).
+
+Visto, il Guardasigilli: GRASSI
+
+Registrato alla Corte dei conti, addi' 22 novembre 1948

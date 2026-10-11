@@ -1,0 +1,26 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1949, n. 598 — Riconoscimento, agli effetti civili, della erezione della parrocchia di Sant'Antonio di Padova, al Lido di Venezia."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1949-07-08;598"
+eli: "https://www.normattiva.it/eli/id/1949/09/06/049U0598/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1949-07-08
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 204 del 1949-09-06"
+codice_redazionale: "049U0598"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-07-08;598"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1949, n. 598
+
+**Riconoscimento, agli effetti civili, della erezione della parrocchia di Sant'Antonio di Padova, al Lido di Venezia.**
+
+## Art. 1
+
+N. 598. Decreto del Presidente della Repubblica 8 luglio 1949, col quale, sulla, proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario Patriarca di Venezia in data 31 ottobre 1948, relativo alla erezione della parrocchia di Sant'Antonio di Padova, al Lido di Venezia.
+
+Visto, il Guardasigilli: GRASSI
+
+Registrato alla Corte dei conti, addi' 30 agosto 1949

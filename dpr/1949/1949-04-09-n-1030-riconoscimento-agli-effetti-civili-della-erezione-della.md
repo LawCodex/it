@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1949, n. 1030 — Riconoscimento, agli effetti civili, della erezione della parrocchia del SS. Cuore della Beatissima Vergine Maria, ai Parioli, in Roma."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1949-04-09;1030"
+eli: "https://www.normattiva.it/eli/id/1950/01/19/049U1030/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1949-04-09
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 15 del 1950-01-19"
+codice_redazionale: "049U1030"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-04-09;1030"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1949, n. 1030
+
+**Riconoscimento, agli effetti civili, della erezione della parrocchia del SS. Cuore della Beatissima Vergine Maria, ai Parioli, in Roma.**
+
+## Art. 1
+
+N. 1030. Decreto del Presidente della Repubblica 9 aprile 1949, col quale, sulla proposta del Ministro per l'interno, vengono riconosciuti, agli effetti civili, i decreti del Vicario generale di S.S. Pio XI dell'8 e 9 maggio 1936, integrati con dichiarazione 2 dicembre 1948, relativi alla erezione della parrocchia del SS.
+
+Cuore della Beatissima Vergine Maria, ai Parioli, in Roma.
+
+Visto, il Guardasigilli: GRASSI
+
+Registrato alla Corte dei conti, addi' 13 gennaio 1950

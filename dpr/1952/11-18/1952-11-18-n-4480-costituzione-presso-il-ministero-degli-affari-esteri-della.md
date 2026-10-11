@@ -1,0 +1,50 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 novembre 1952, n. 4480 — Costituzione presso il Ministero degli affari esteri della Direzione generale per l'Amministrazione Fiduciaria italiana della Somalia (A.F.I.S.)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1952-11-18;4480"
+eli: "https://www.normattiva.it/eli/id/1953/02/21/052U4480/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1952-11-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 43 del 1953-02-21"
+codice_redazionale: "052U4480"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-11-18;4480"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 novembre 1952, n. 4480
+
+**Costituzione presso il Ministero degli affari esteri della Direzione generale per l'Amministrazione Fiduciaria italiana della Somalia (A.F.I.S.).**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87 della Costituzione;
+
+Visto l'art. 3 della legge 4 novembre 1951, n. 1301;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per gli affari esteri e ad interim per l'Africa italiana, di concerto con il Ministro per il bilancio ad interim per il tesoro;
+
+Decreta:
+
+E' costituita presso il Ministero degli affari esteri, per la durata dell'Amministrazione fiduciaria italiana sul territorio della Somalia, una "Direzione generale per l'Amministrazione Fiduciaria italiana della Somalia (A.F.I.S.)" .
+
+La predetta Direzione generale e' suddivisa in quattro uffici.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Dogliani, addi' 18 novembre 1952
+
+EINAUDI
+
+DE GASPERI - PELLA
+
+Visto, il Guardasigilli: ZOLI
+
+Registrato alla Corte dei conti, addi' 19 febbraio 1953
+
+Atti del Governo, registro n. 75, foglio n. 43. - PALLA

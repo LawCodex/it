@@ -1,0 +1,26 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1948, n. 1665 — Riconoscimento, agli effetti civili, della erezione della parrocchia di San Giuseppe, Sposo della Beata Maria Vergine e Patrono della Chiesa Universale, in localita' Migliare del comune di Casina (Reggio nell'Emilia)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1948-12-24;1665"
+eli: "https://www.normattiva.it/eli/id/1949/03/15/048U1665/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1948-12-24
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 61 del 1949-03-15"
+codice_redazionale: "048U1665"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-12-24;1665"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1948, n. 1665
+
+**Riconoscimento, agli effetti civili, della erezione della parrocchia di San Giuseppe, Sposo della Beata Maria Vergine e Patrono della Chiesa Universale, in localita' Migliare del comune di Casina (Reggio nell'Emilia).**
+
+## Art. 1
+
+N. 1665. Decreto del Presidente della Repubblica 24 dicembre 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Reggio nell'Emilia in data 10 ottobre 1947, relativo alla erezione della parrocchia di San Giuseppe, Sposo della Beata Maria Vergine e Patrono della Chiesa Universale, in localita' Migliara del comune di Casina (Reggio nell'Emilia).
+
+Visto, il Guardasigilli: GRASSI
+
+Registrato alla Corte dei conti, addi' 28 febbraio 1949

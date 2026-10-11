@@ -1,0 +1,66 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951, n. 652 — Modificazione allo statuto dell'Universita' degli studi di Camerino."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1951-04-11;652"
+eli: "https://www.normattiva.it/eli/id/1951/08/21/051U0652/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1951-04-11
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 190 del 1951-08-21"
+codice_redazionale: "051U0652"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-04-11;652"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951, n. 652
+
+**Modificazione allo statuto dell'Universita' degli studi di Camerino.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' degli studi di Camerino, approvato con il regio decreto 13 ottobre 1927, n. 2838, e modificato con i regi decreti 20 settembre 1928, n. 2250; 31 ottobre 1929, n. 2386; 20 novembre 1930, n. 1939; 27 ottobre 1932, n. 2066; 27 dicembre 1934, n. 2439; 1 ottobre 1936, n. 2037; 14 marzo 1938, n. 885; 5 maggio 1939; n. 1172; 11 luglio 1942, n. 936 e 5 settembre 1942, n. 1234, e con i decreti del Presidente della Repubblica 2 novembre 1948, n. 1617, e 30 ottobre 1949, n. 1140;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Camerino approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:
+
+Attuale art. 24. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
+
+8\) Diritto canonico;
+
+9\) Diritto comune;
+
+10\) Diritto privato comparato;
+
+11\) Esegesi delle fonti del diritto romano;
+
+12\) Psicologia.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 aprile 1951
+
+EINAUDI
+
+GONELLA
+
+Visto, il Guardasigilli: PICCIONI
+
+Registrato alla Corte dei conti, addi' 11 agosto 1951
+
+Atti del Governo, registro n. 41, foglio n. 39. - FRASCA

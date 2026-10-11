@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1952, n. 221 — Istituzione nel comune di San Nazzaro Calvi di un ufficio distinto di giudice conciliatore con sede nella frazione di San Nazzaro."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-11;221"
+eli: "https://www.normattiva.it/eli/id/1952/04/17/052U0221/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1952-02-11
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 91 del 1952-04-17"
+codice_redazionale: "052U0221"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-11;221"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1952, n. 221
+
+**Istituzione nel comune di San Nazzaro Calvi di un ufficio distinto di giudice conciliatore con sede nella frazione di San Nazzaro.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il regio decreto 30 novembre 1922, n. 1762, col quale venne istituito in Calvi, frazione del comune di San Nazzaro Calvi, un distinto ufficio di conciliazioni con giurisdizione sul territorio della frazione stessa;
+
+Visto il decreto del Presidente della Repubblica del 14 maggio 1949, n. 424, con il quale la sede comunale di San Nazzaro Calvi venne trasferita nella frazione Cavi;
+
+Vista la deliberazione in data 16 dicembre 1949 del Consiglio comunale di San Nazzaro Calvi, con la quale si chiede che sia istituito un ufficio distinto di giudice conciliatore con sede nella frazione San Nazzaro e con giurisdizione sul territorio della frazione stessa e su quello delle frazioni Montefalcone, Casalfesto, Audisola e case sparse intorno a San Nazzaro fino al torrente Gianguarriello Mele e al confine con Montefusco e Sant'Angelo a Cancelli;
+
+Visti i pareri favorevoli del presidente e del procuratore generale presso la Corte d'appello di Napoli;
+
+Visti gli articoli 20 dell'ordinamento giudiziario, approvato con regio decreto 30 gennaio 1941, n. 12, e 1 del regolamento approvato con regio decreto 26 dicembre 1892, n. 728;
+
+Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e giustizia;
+
+Decreta:
+
+E' istituito nel comune di San Nazzaro Calvi un ufficio distinto di giudice conciliatore con sede nella frazione San Nazzaro e con giurisdizione sul territori della frazione stessa e su quello delle frazioni Montefalcone, Casalfesto, Andisola e case sparse intorno a San Nazzaro fino al torrente Giangnarriello Mele e al confine con Montefusco e Sant'Angelo a Cancelli.
+
+Il presente decreto entrera' in vigore nel trentesimo giorno dopo quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+
+Il presente decreto, munito del sigillo di Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 febbraio 1952
+
+EINAUDI
+
+ZOLI
+
+Visto, il Guardasigilli: ZOLI
+
+Registrato alla Corte dei conti, addi' 11 aprile 1952
+
+Atti del Governo, registro n. 51, foglio n. 49. - FRASCA

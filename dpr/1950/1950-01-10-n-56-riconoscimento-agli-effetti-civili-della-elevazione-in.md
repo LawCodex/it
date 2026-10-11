@@ -1,0 +1,26 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1950, n. 56 — Riconoscimento, agli effetti civili, della elevazione in parrocchia della Cappellania coadiutorale di San Giacomo Apostolo, in frazione Stevani del comune di Rosignano Monferrato (Alessandria)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1950-01-10;56"
+eli: "https://www.normattiva.it/eli/id/1950/03/14/050U0056/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1950-01-10
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 61 del 1950-03-14"
+codice_redazionale: "050U0056"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1950-01-10;56"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1950, n. 56
+
+**Riconoscimento, agli effetti civili, della elevazione in parrocchia della Cappellania coadiutorale di San Giacomo Apostolo, in frazione Stevani del comune di Rosignano Monferrato (Alessandria).**
+
+## Art. 1
+
+N. 56. Decreto del Presidente della Repubblica 10 gennaio 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Casale Monferrato in data 14 aprile 1949, relativo alla elevazione in parrocchia della Cappellania coadiutorale di San Giacomo Apostolo, in frazione Stevani del comune di Rosignano Monferrato (Alessandria).
+
+Visto, il Guardasigilli: PICCIONI
+
+Registrato alla Corte dei conti, addi' 6 marzo 1950

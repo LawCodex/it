@@ -1,0 +1,58 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951, n. 564 — Modificazioni allo statuto dell'Universita' degli studi di Catania."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1951-04-11;564"
+eli: "https://www.normattiva.it/eli/id/1951/07/25/051U0564/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1951-04-11
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 168 del 1951-07-25"
+codice_redazionale: "051U0564"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-04-11;564"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951, n. 564
+
+**Modificazioni allo statuto dell'Universita' degli studi di Catania.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con il regio decreto 20 aprile 1939, n. 1073, e modificato con regi decreti 16 ottobre 1940, n. 1527; 15 aprile 1942, n. 424; 5 settembre 1942, n. 1235; 24 ottobre 1942, n. 1596; e con il decreto del Capo provvisorio dello Stato 22 ottobre 1946, n. 423; e con decreti del Presidente della Repubblica 20 luglio 1948, n. 1160; 30 ottobre 1949, n. 994 e 30 ottobre 1949, n. 1167;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:
+
+Art. 102. - E' aggiunto il seguente comma:
+
+"Il Consiglio di facolta' si riserva di aumentare i posti previsti per ciascuna scuola a seconda delle particolari esigenze che si manifestano in ciascun anno accademico".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 aprile 1951
+
+EINAUDI
+
+GONELLA
+
+Visto, il Guardasigilli: PICCIONI
+
+Registrato alla Corte dei conti, addi' 20 luglio 1951
+
+Atti del Governo, registro n. 40, foglio n. 39. - FRASCA

@@ -1,0 +1,74 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948, n. 1426 — Approvazione della nuova tabella delle reti ed altri attrezzi di pesca permessi nelle acque comuni alla Svizzera e all'Italia."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1948-09-14;1426"
+eli: "https://www.normattiva.it/eli/id/1948/12/20/048U1426/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1948-09-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 295 del 1948-12-20"
+codice_redazionale: "048U1426"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-09-14;1426"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948, n. 1426
+
+**Approvazione della nuova tabella delle reti ed altri attrezzi di pesca permessi nelle acque comuni alla Svizzera e all'Italia.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il testo unico delle leggi sulla pesca, approvato con regio decreto 8 ottobre 1931, n. 1604, e successive modificazioni ed aggiunte;
+
+Vista la Convenzione italo-elvetica 13 giugno 1906 resa esecutiva con regio decreto 17 gennaio 1907, n. 13, modificata dall'atto addizionale 8 febbraio 1911, reso esecutivo con regio decreto 22 marzo 1911, n. 292, sulla pesca nelle acque comuni ai due Stati;
+
+Visto il regolamento per l'applicazione della Convenzione e dell'atto addizionale predetti, approvato con regio decreto 17 marzo 1912, n. 387, con l'annessa tabella delle reti e degli attrezzi di pesca permessi nelle acque italo-elvetiche, successivamente modificata con regio decreto 2 febbraio 1939, n. 535;
+
+Visto il verbale della riunione tenutasi il 13 ottobre 1947 all'Isola Bella di Stresa tra i commissari governativi italiano e svizzero per la pesca, i quali concordemente hanno proposto l'approvazione di una nuova tabella delle reti e degli attrezzi di pesca da consentire nelle acque promiscue ai due Stati, in sostituzione delle precedenti;
+
+Vista la legge 30 gennaio 1926, n. 100;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per l'agricoltura e per le foreste;
+
+Decreta:
+
+## Art. 1
+
+La tabella delle reti ed attrezzi di pesca permessi nelle acque comuni, annessa al regolamento per l'esecuzione della Convenzione fra l'Italia e la Svizzera, approvato con regio decreto 17 marzo 1912, n. 387, nonche' le disposizioni modificanti questa tabella approvata con regio decreto 2 febbraio 1939, n. 535, sono abrogate e sostituite dalla tabella annessa al presente decreto.
+
+## Art. 2
+
+Le reti ed attrezzi attualmente autorizzati saranno ammessi sino alla fine del 1952. Durante questo periodo di transizione e' tuttavia vietato di procurarsi attrezzi nuovi aventi dimensioni non conformi a quelle prescritte dalla nuova tabella.
+
+Pertanto la deroga seguente e' prevista per quanto concerne detto periodo:
+
+Entro un anno dalla entrata in vigore del presente decreto, la parte centrale delle attuali bedine per trota e coregone dovra' essere sostituita, per una lunghezza di 40 m. e la rimanenza entro sette anni.
+
+Il presente decreto entra in vigore il giorno successivo a quello della pubblicazione nella Gazzetta Ufficiale della Repubblica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 settembre 1948
+
+EINAUDI
+
+DE GASPERI - SEGNI
+
+Visto, il Guardasigilli: GRASSI
+
+Registrato alla Corte dei conti, addi' 2 dicembre 1948
+
+Atti del Governo, registro n. 25, foglio n. 71 - FRASCA
+
+## Allegati
+
+## Tabella
+
+Tabella delle reti ed altri attrezzi di pesca permessi nelle acque comuni alla Svizzera ed all'Italia
+
+Parte di provvedimento in formato grafico

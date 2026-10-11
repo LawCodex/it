@@ -1,0 +1,26 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1948, n. 1453 — Riconoscimento, agli effetti civili, della erezione della parrocchia della Sacra Famiglia, in contrada Balata di Baida del comune di Castellammare del Golfo (Trapani)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1948-10-26;1453"
+eli: "https://www.normattiva.it/eli/id/1948/12/27/048U1453/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1948-10-26
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 300 del 1948-12-27"
+codice_redazionale: "048U1453"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-10-26;1453"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1948, n. 1453
+
+**Riconoscimento, agli effetti civili, della erezione della parrocchia della Sacra Famiglia, in contrada Balata di Baida del comune di Castellammare del Golfo (Trapani).**
+
+## Art. 1
+
+N. 1453. Decreto del Presidente della Repubblica 26 ottobre 1848, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Mazara del Vallo in data 14 maggio 1942, integrato con dichiarazione 10 aprile 1948, relativo alla erezione della parrocchia della Sacra Famiglia, in contrada Balata di Baida, del comune di Castellammare del Golfo (Trapani), e viene, altresi', autorizzato il Beneficio ad accettare la donazione disposta in suo favore dal sac. Antonio Sarcana, consistente in un fondo rustico situato nella medesima contrada e valutato L. 118.560.
+
+Visto, il Guardasigilli: GRASSI
+
+Registrato alla Corte dei conti, addi' 15 dicembre 1948

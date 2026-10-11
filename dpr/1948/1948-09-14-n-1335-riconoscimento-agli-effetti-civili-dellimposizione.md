@@ -1,0 +1,26 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948, n. 1335 — Riconoscimento, agli effetti civili, dell'imposizione dell'onere del seminaristico sul reddito di tutti i benefici ecclesiastici della diocesi di Montecassino."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1948-09-14;1335"
+eli: "https://www.normattiva.it/eli/id/1948/11/18/048U1335/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1948-09-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 269 del 1948-11-18"
+codice_redazionale: "048U1335"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-09-14;1335"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948, n. 1335
+
+**Riconoscimento, agli effetti civili, dell'imposizione dell'onere del seminaristico sul reddito di tutti i benefici ecclesiastici della diocesi di Montecassino.**
+
+## Art. 1
+
+N. 1335. Decreto del Presidente della Repubblica 14 settembre 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Abate e Ordinario di Montecassino in data 6 gennaio 1948, relativo all'imposizione dell'onere del seminaristico sul reddito di tutti i benefici ecclesiastici della Diocesi nella misura del cinque per cento, con decorrenza 1 gennaio 1948.
+
+Visto, il Guardasigilli: GRASSI
+
+Registrato alla Corte dei conti, addi' 2 novembre 1948

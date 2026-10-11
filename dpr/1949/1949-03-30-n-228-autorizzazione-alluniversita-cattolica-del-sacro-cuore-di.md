@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1949, n. 228 — Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano ad accettare una eredita'."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1949-03-30;228"
+eli: "https://www.normattiva.it/eli/id/1949/05/23/049U0228/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1949-03-30
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 118 del 1949-05-23"
+codice_redazionale: "049U0228"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-03-30;228"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1949, n. 228
+
+**Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano ad accettare una eredita'.**
+
+## Art. 1
+
+N. 228. Decreto del Presidente della Repubblica 30 marzo 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare l'eredita' relitta in suo favore dal rag. Felice Somasca fu Antonio, con testamento olografo in data 22 aprile 1946, pubblicato e depositato il 24 marzo 1947 per atti del notaio dott.
+
+Alessandro Brambilla di Milano, valutata complessivamente a circa lire 25 milioni, il cui usufrutto generale spetta alla sorella del dp cuius Maria Somasca, vita natural durante, a condizione che si proceda allo smobilizzo degli stabili facenti parte dell'eredita' stessa, quando la nuda proprieta' si sara' consolidata con l'usufrutto.
+
+Visto, il Guardasigilli: GRASSI
+
+Registrato alla Corte dei conti, addi' 10 maggio 1949

@@ -1,0 +1,70 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1948, n. 1160 — Modificazioni allo statuto dell'Universita' degli studi di Catania."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1948-07-20;1160"
+eli: "https://www.normattiva.it/eli/id/1948/09/20/048U1160/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1948-07-20
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 219 del 1948-09-20"
+codice_redazionale: "048U1160"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-07-20;1160"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1948, n. 1160
+
+**Modificazioni allo statuto dell'Universita' degli studi di Catania.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con regio decreto 20 aprile 1939, n. 1073, modificato con i regi decreti 16 ottobre 1940, n. 1527; 15 aprile 1942, n. 424; 5 settembre 1942, n. 1235; 24 ottobre 1942, n. 1596, e con il decreto del Capo provvisorio dello Stato 22 ottobre 1946, n. 423;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Vedute le proposte relative allo statuto dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i regi decreti sopraindicati, e' cosi' ulteriormente modificato:
+
+Art. 9. - All'elenco delle materie complementari per il corso di laurea in giurisprudenza viene aggiunto il seguente insegnamento:
+
+"Esegesi delle fonti di diritto romano".
+
+Art. 26. - All'elenco delle materie complementari per il corso di laurea in lettere viene aggiunto il seguente insegnamento:
+
+"Lingua e letteratura spagnola".
+
+Art. 46. - Viene aggiunto il seguente comma:
+
+"Gli esami biennali di chimica generale ed inorganica, di chimica organica, di istituzioni di matematiche e di esercitazioni di matematiche devono essere sostenuti alla fine di ogni anno anziche' alla fine del corso biennale".
+
+Art. 48. - All'elenco delle materie complementari per il corso di laurea in fisica viene aggiunto il seguente insegnamento:
+
+"Fisica tecnica".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 20 luglio 1948
+
+EINAUDI
+
+GONELLA
+
+Visto, il Guardasigilli: GRASSI
+
+Registrato alla Corte dei conti, addi' 16 settembre 1948
+
+Atti del Governo, registro n. 24, foglio n. 28. - VENTURA

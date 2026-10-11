@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1952, n. 358 — Classificazione nella rete delle strade statali del tratto collegante la strada statale n. 7 \"Appia\" con l'Aeroporto di Ciampino-Est."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1952-03-01;358"
+eli: "https://www.normattiva.it/eli/id/1952/04/29/052U0358/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1952-03-01
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 100 del 1952-04-29"
+codice_redazionale: "052U0358"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-03-01;358"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1952, n. 358
+
+**Classificazione nella rete delle strade statali del tratto collegante la strada statale n. 7 "Appia" con l'Aeroporto di Ciampino-Est.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 3 del decreto legislativo 17 aprile 1948, n. 547;
+
+Ritenuta l'opportunita' di classificare nella rete delle strade statali, il tratto collegante la strada statale n. 7 "Appia" con l'Aeroporto di Ciampino-Est;
+
+Visto il voto 12 giugno 1951, n. 137, del Consiglio di amministrazione dell'Azienda nazionale autonoma delle strade statali;
+
+Visto il voto 29 ottobre 1951, n. 3350, del Consiglio superiore dei lavori pubblici (Sezione seconda);
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per i lavori pubblici, di concerto col Ministro per il tesoro;
+
+Decreta:
+
+E' classificato, nella rete delle strade statali, il tratto, collegante la strada statale n. 7 "Appia", con l'Aeroporto di Ciampino-Est.
+
+Tale nuova strada e' iscritta, nell'elenco delle strade statali, con le seguenti indicazioni: Diramazione della strada statale n. 7 "Via Appia".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1 marzo 1952
+
+EINAUDI
+
+DE GASPERI - ALDISIO - PELLA
+
+Visto, il Guardasigilli: ZOLI
+
+Registrato alla Corte dei conti, addi' 23 aprile 1952
+
+Atti del Governo, registro n. 53, foglio n. 10. - FRASCA

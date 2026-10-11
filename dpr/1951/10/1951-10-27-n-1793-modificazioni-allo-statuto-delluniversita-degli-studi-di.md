@@ -1,0 +1,78 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1951, n. 1793 — Modificazioni allo statuto dell'Universita' degli studi di Catania."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1951-10-27;1793"
+eli: "https://www.normattiva.it/eli/id/1952/04/16/051U1793/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1951-10-27
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 90 del 1952-04-16"
+codice_redazionale: "051U1793"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-10-27;1793"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1951, n. 1793
+
+**Modificazioni allo statuto dell'Universita' degli studi di Catania.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con regio decreto 20 aprile 1939, n. 1073, modificato con regi decreti 16 ottobre 1940, n. 1527; 15 aprile 1942, n. 424; 5 settembre 1942, numero 1235; 24 ottobre 1942, n. 1596, e con decreto del Capo provvisorio dello Stato 22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica 20 luglio 1948, n. 1160; 30 ottobre 1949, n. 994; 30 ottobre 1949, n. 1167; 30 ottobre 1950, n. 1305 e 11 aprile 1951, n. 564;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
+
+## Art. 21. - E' sostituito dal seguente:
+
+"Sono dichiarati propedeutici i seguenti insegnamenti:
+
+a) istituzioni di diritto privato per il diritto commerciale, il diritto internazionale, il diritto della navigazione, il diritto processuale civile, il diritto industriale ed il diritto del lavoro;
+
+b) istituzioni di diritto pubblico per il diritto internazionale e per il diritto del lavoro;
+
+c) matematica generale per la statistica;
+
+d) economia politica per la scienza delle finanze e diritto finanziario per la politica economica e finanziaria e per la storia economica;
+
+e) ragioneria generale ed applicata per la tecnica commerciale e industriale e per la tecnica bancaria e professionale.
+
+Gl'insegnamenti propedeutici debbono precedere, rispettivamente per l'iscrizione e per l'esame, gl'insegnamenti cui servono di preparazione".
+
+Art. 57. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di:
+
+"Geochimica".
+
+Art. 58. - E' aggiunto il seguente comma:
+
+"Gl'insegnamenti fondamentali per la laurea in scienze naturali, di "zoologia" (biennale) e di "botanica" (biennale) sono scissi rispettivamente in due distinti esami annuali.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 27 ottobre 1951
+
+EINAUDI
+
+SEGNI
+
+Visto, il Guardasigilli: ZOLI
+
+Registrato alla Corte dei conti, addi' 8 aprile 1952
+
+Atti dei Governo, registro n. 51, foglio n. 31. - FRASCA

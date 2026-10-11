@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1952, n. 3142 — Riconoscimento, agli effetti civili, dell'erezione in parrocchia della Curazia dell'Immacolata Concezione B. Maria Vergine e dei SS. Fabiano e Sebastiano, in frazione Fiave' del comune di Lomaso (Trento)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1952-10-16;3142"
+eli: "https://www.normattiva.it/eli/id/1953/01/17/052U3142/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1952-10-16
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 13 del 1953-01-17"
+codice_redazionale: "052U3142"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-10-16;3142"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1952, n. 3142
+
+**Riconoscimento, agli effetti civili, dell'erezione in parrocchia della Curazia dell'Immacolata Concezione B. Maria Vergine e dei SS. Fabiano e Sebastiano, in frazione Fiave' del comune di Lomaso (Trento).**
+
+## Art. 1
+
+N. 3142. Decreto del Presidente della Repubblica 16 ottobre 1952, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto agli effetti civili il decreto dell'Arcivescovo di Trento in data 30 ottobre 1919, integrato con postilla 19 settembre 1951 e dichiarazione 20 settembre 1951, relativo all'erezione in parrocchia della Curazia dell'Immacolata Concezione B. Maria Vergine e dei SS. Fabiano e Sebastiano, in frazione Fiave' del comune di Lomaso (Trento).
+
+Visto, il Guardasigilli: ZOLA
+
+Registrato alla Corte dei conti, addi' 30 dicembre 1952
+
+Atti del Governo, registro n. 67, foglio n. 75. - PALLA

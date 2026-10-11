@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1951, n. 1358 — Erezione in ente morale della Cassa scolastica dell'Istituto tecnico commerciale di Marsala (Trapani)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1951-05-21;1358"
+eli: "https://www.normattiva.it/eli/id/1951/12/21/051U1358/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1951-05-21
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 293 del 1951-12-21"
+codice_redazionale: "051U1358"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-05-21;1358"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1951, n. 1358
+
+**Erezione in ente morale della Cassa scolastica dell'Istituto tecnico commerciale di Marsala (Trapani).**
+
+## Art. 1
+
+N. 1358. Decreto del Presidente della Repubblica 21 maggio 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dello Istituto tecnico commerciale di Marsala (Trapani) viene eretta in ente morale e ne viene approvato il relativo statuto.
+
+Visto, il Guardasigilli: PICCIONI
+
+Registrato alla Corte dei conti, addi' 1 dicembre 1951
+
+Atti del Governo, registro n. 47, foglio n. 7. - FRASCA
