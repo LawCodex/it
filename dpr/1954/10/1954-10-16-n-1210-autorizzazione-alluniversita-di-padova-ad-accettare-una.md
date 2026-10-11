@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1954, n. 1210 — Autorizzazione all'Universita' di Padova ad accettare una donazione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1954-10-16;1210"
+eli: "https://www.normattiva.it/eli/id/1955/01/07/054U1210/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1954-10-16
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 4 del 1955-01-07"
+codice_redazionale: "054U1210"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-10-16;1210"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1954, n. 1210
+
+**Autorizzazione all'Universita' di Padova ad accettare una donazione.**
+
+## Art. 1
+
+N. 1210. Decreto del Presidente della Repubblica 16 ottobre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare dal prof. dottor Alessandro Trotter la donazione delle sue collezioni cecidologiche, contenute in 61 pacchi del valore complessivo di L. 100.000 e la relativa biblioteca di circa 2500 pubblicazioni del valore complessivo di L. 125.000, disposta in suo favore con atto pubblico amministrativo in data 13 aprile 194.
+
+Visto, il Guardasigilli: DE PIETRO
+
+Registrato alla Corte dei conti, addi' 30 dicembre 1954
+
+Atti del Governo, registro n. 87, foglio n. 114. - CARLOMAGNO

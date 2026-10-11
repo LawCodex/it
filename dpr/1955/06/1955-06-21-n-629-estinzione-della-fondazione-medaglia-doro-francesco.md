@@ -1,0 +1,52 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1955, n. 629 — Estinzione della Fondazione \"Medaglia d'oro Francesco Meattini\" e devoluzione del patrimonio all'Ente nazionale di assistenza per gli orfani ed i figli dei militari della Guardia di finanza."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1955-06-21;629"
+eli: "https://www.normattiva.it/eli/id/1955/08/08/055U0629/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1955-06-21
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 181 del 1955-08-08"
+codice_redazionale: "055U0629"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-06-21;629"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1955, n. 629
+
+**Estinzione della Fondazione "Medaglia d'oro Francesco Meattini" e devoluzione del patrimonio all'Ente nazionale di assistenza per gli orfani ed i figli dei militari della Guardia di finanza.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il regio decreto 21 gennaio 1943, n. 67, che erige in ente morale la Fondazione "Medaglia d'oro Francesco Meattini";
+
+Visto il proprio decreto 22 marzo 1954, n. 407, che reca modifiche allo statuto organico della Fondazione medesima, la quale ha lo scopo di destinare annualmente a favore degli orfani dei militari del Corpo della guardia di finanza, con preferenza agli orfani dei militari caduti in guerra, la rendita del proprio capitale mediante concessione di borse di studio e sussidi scolastici a coloro che abbiano dimostrato particolare inclinazione agli studi o che debbano perfezionarsi nel lavoro;
+
+Considerato che, a seguito della svalutazione monetaria, le rendite del patrimonio della Fondazione predetta sono divenute inadeguate al conseguimento degli scopi prefissi nell'atto costitutivo e che tali scopi corrispondono ai fini perseguiti dall'Ente nazionale di assistenza per gli orfani e i figli dei militari della decreto 9 ottobre 1951, n. 1530;
+
+Ritenuto opportuno di devolvere il patrimonio della Fondazione sopraindicata all'Ente nazionale di assistenza per gli orfani ed i figli dei militari della Guardia di finanza;
+
+Udito il parere del Consiglio di Stato;
+
+Sulla proposta del Ministro per le finanze;
+
+Decreta:
+
+## Articolo unico
+
+La Fondazione "Medaglia d'oro Francesco Meattini" e' estinta ed il relativo patrimonio e' devoluto all'Ente nazionale di assistenza per gli orfani ed i figli dei militari della Guardia di finanza, costituito con decreto Presidenziale 9 ottobre 1951, n. 1530.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 21 giugno 1955
+
+GRONCHI
+
+TREMELLONI
+
+Visto, il Guardasigilli: MORO
+
+Registrato alla Corte dei conti, addi' 3 agosto 1955
+
+Atti del Governo, registro n. 92, foglio n. 23. - CARLOMAGNO

@@ -1,0 +1,66 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1955, n. 614 — Ricostituzione del comune di Marchiolo, in provincia di Varese."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1955-06-04;614"
+eli: "https://www.normattiva.it/eli/id/1955/08/04/055U0614/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1955-06-04
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 178 del 1955-08-04"
+codice_redazionale: "055U0614"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-06-04;614"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1955, n. 614
+
+**Ricostituzione del comune di Marchiolo, in provincia di Varese.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il regio decreto 10 agosto 1928, n. 2043, con il quale i comuni di Cugliate, Fabiasco e Marchirolo, in provincia di Varese, furono riuniti in unico Comune denominato "Val Marchirolo" con capoluogo Marchirolo;
+
+Viste le istanze 1 ed 8 luglio 1951, con le quali la maggioranza dei tre quinti degli elettori del cessato comune di Marchirolo ne ha chiesto la ricostituzione in Comune autonomo;
+
+Viste le deliberazioni del Consiglio comunale di Val Marchirolo in data 21 giugno 1953, n. 25 e 29 agosto 1954, n. 39, e del Consiglio provinciale di Varese in data 30 giugno 1953, n. 287 e 14 dicembre 1954, n. 472, con le quali e' stato espresso parere in merito alla ricostituzione di cui trattasi ed in ordine al cambiamento della denominazione del comune di Val Marchirolo nonche' alla determinazione della sua sede municipale;
+
+Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383;
+
+Vista la legge 15 febbraio 1953, n. 71;
+
+Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383, e successive modifiche;
+
+Udito il parere del Consiglio di Stato;
+
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+Decreta:
+
+## Art. 1
+
+E' ricostituito il comune di Marchirolo, in provincia di Varese, con la circoscrizione territoriale preesistente alla data della relativa soppressione.
+
+Il comune di Val Marchirolo assume la denominazione di "Cugliate-Fabiasco", con sede municipale in Cugliate.
+
+## Art. 2
+
+Il Prefetto di Varese, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari tra il comune di Cugliate-Fabiasco ed il ricostituito comune di Marchirolo, nonche' alla ripartizione fra gli stessi, previo parere delle rispettive Amministrazioni, del personale in servizio presso il comune di Val Marchirolo alla data del presente decreto.
+
+E' fatto salvo l'esercizio successivo, da parte dei Comuni predetti, della facolta' di revisione degli organici, secondo le norme di cui al decreto legislativo luogotenenziale 18 gennaio 1945, n. 48, e successive modificazioni, con l'osservanza, per quanto concerne il trattamento economico, delle disposizioni contenute nell'articolo 228 del testo unico 3 marzo 1934, n. 383, della legge comunale e provinciale e successive modifiche.
+
+Al personale in servizio presso il comune di Val Marchirolo, che sara' inquadrato negli organici del comune di Marchirolo, sara' mantenuto ad personam il trattamento economico fruito all'atto dell'inquadramento.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 giugno 1955
+
+GRONCHI
+
+SCELBA
+
+Visto, il Guardasigilli: MORO
+
+Registrato alla Corte dei conti, addi' 1 agosto 1955
+
+Atti del Governo, registro n. 92, foglio n. 14. - CARLOMAGNO

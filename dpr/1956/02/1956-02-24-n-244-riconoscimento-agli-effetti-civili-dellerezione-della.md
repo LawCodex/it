@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1956, n. 244 — Riconoscimento, agli effetti civili, dell'erezione della parrocchia del Sacro Cuore di Gesu', in Viterbo."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1956-02-24;244"
+eli: "https://www.normattiva.it/eli/id/1956/04/16/056U0244/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1956-02-24
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 92 del 1956-04-16"
+codice_redazionale: "056U0244"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-02-24;244"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1956, n. 244
+
+**Riconoscimento, agli effetti civili, dell'erezione della parrocchia del Sacro Cuore di Gesu', in Viterbo.**
+
+## Art. 1
+
+N. 244. Decreto del Presidente della Repubblica 24 febbraio 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Viterbo in data 10 dicembre 1953, integrato con altri tre decreti rispettivamente del 15 dicembre 1953, 1 giugno e 25 luglio 1955 e con dichiarazione 1 giugno 1955, relativo alla erezione della parrocchia del Sacro Cuore di Gesu', in Viterbo.
+
+Visto, il Guardasigilli: MORO
+
+Registrato alla Corte dei conti, addi' 9 aprile 1956
+
+Atti del Governo, registro n. 97, foglio n. 24. - CARLOMAGNO

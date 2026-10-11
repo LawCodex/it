@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1954, n. 693 — Autorizzazione all'Universita' di Genova ad accettare una donazione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1954-05-19;693"
+eli: "https://www.normattiva.it/eli/id/1954/08/23/054U0693/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1954-05-19
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 192 del 1954-08-23"
+codice_redazionale: "054U0693"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-05-19;693"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1954, n. 693
+
+**Autorizzazione all'Universita' di Genova ad accettare una donazione.**
+
+## Art. 1
+
+N. 693. Decreto del Presidente della Repubblica 19 maggio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Genova viene autorizzata ad accettare la donazione di L. 600.000 contanti, da impiegarsi nell'acquisto di titoli di Stato fruttanti l'interesse annuo del 5%, disposta in suo favore dal prof. Eugenio Giuseppe Togliatti, a nome dell'apposito Comitato, con atto pubblico amministrativo 12 ottobre 1953, per l'istituzione, con la relativa rendita, di un premio di studio biennale intitolato "Premio Gino Loria" e da conferirsi, mediante concorso per titoli, ad un laureato del precedente triennio, che abbia conseguito la laurea in matematica, oppure in matematica e fisica, oppure in fisica presso l'Universita' di Genova, discutendo una dissertazione di laurea originale su argomento matematico.
+
+Visto, il Guardasigilli: DE PIETRO
+
+Registrato alla Corte dei conti, addi' 13 agosto 1954
+
+Atti del Governo, registro n. 85, foglio n. 39. - TEMPESTA

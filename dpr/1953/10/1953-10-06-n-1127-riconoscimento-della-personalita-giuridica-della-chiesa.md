@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 ottobre 1953, n. 1127 — Riconoscimento della personalita' giuridica della Chiesa della Madonna di Pompei, in Ravenna."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1953-10-06;1127"
+eli: "https://www.normattiva.it/eli/id/1954/03/26/053U1127/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1953-10-06
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 70 del 1954-03-26"
+codice_redazionale: "053U1127"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1953-10-06;1127"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 ottobre 1953, n. 1127
+
+**Riconoscimento della personalita' giuridica della Chiesa della Madonna di Pompei, in Ravenna.**
+
+## Art. 1
+
+N. 1127. Decreto del Presidente della Repubblica 6 ottobre 1953, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa della Madonna di Pompei, in Ravenna, e viene autorizzata ad accettare il legato disposto a suo favore, consistente in immobili situati in localita' Ponte Assi del comune di Ravenna.
+
+Visto, il Guardasigilli: AZARA
+
+Registrato alla Corte dei conti, addi' 15 marzo 1954
+
+Atti del Governo, registro n. 82, foglio n. 35. - PALLA

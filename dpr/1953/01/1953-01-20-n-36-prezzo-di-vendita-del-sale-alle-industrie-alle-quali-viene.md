@@ -1,0 +1,64 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1953, n. 36 — Prezzo di vendita del sale alle industrie alle quali viene concesso a prezzo industriale."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1953-01-20;36"
+eli: "https://www.normattiva.it/eli/id/1953/02/09/053U0036/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1953-01-20
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 32 del 1953-02-09"
+codice_redazionale: "053U0036"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1953-01-20;36"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1953, n. 36
+
+**Prezzo di vendita del sale alle industrie alle quali viene concesso a prezzo industriale.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge sul monopolio dei sali e dei tabacchi 17 luglio 1942, n. 907, modificata con la legge 11 luglio 1952, n. 1641;
+
+Visto l'art. 3 del decreto del Presidente della Repubblica 11 dicembre 1952, n. 4433, che determina il prezzo di vendita del sale alle industrie alle quali e' concesso a prezzo industriale;
+
+Riconosciuta la necessita' di adeguare il prezzo stesso all'attuale situazione del mercato del sale;
+
+Udito il Consiglio di amministrazione dei monopoli di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le finanze;
+
+Decreta:
+
+## Art. 1
+
+A decorrere dalla data di entrata in vigore del presente decreto il prezzo industriale di vendita del sale comune alle industrie elencate nell'art. 21 della legge 17 luglio 1942, n. 907, quale risulta modificata dalla legge 11 luglio 1952, n. 1641, e' fissato come segue:
+
+L. 300 per ogni quintale di sale reso franco bordo o franco vagone partenza per quantitativi fino a 5000 tonnellate;
+
+L. 250 per ogni quintale di sale reso franco bordo o franco vagone partenza per quantitativi oltre le 5000 e fino a 15.000 tonnellate, da ritirarsi entro un anno dalla data della ordinazione;
+
+L. 220 per ogni quintale di sale reso franco bordo a franco vagone partenza per quantitativi oltre le 15.000 e fino a 40.000 tonnellate, da ritirarsi entro un anno dalla data della ordinazione;
+
+L. 213 per ogni quintale di sale reso franco bordo o, franco vagone partenza per quantitativi oltre le 40.000 tonnellate, da ritirarsi entro un anno dalla data della ordinazione.
+
+## Art. 2
+
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 20 gennaio 1953
+
+EINAUDI
+
+DE GASPERI - VANONI
+
+Visto, il Guardasigilli: ZOLI
+
+Registrato alla Corte dei conti, addi' 7 febbraio 1953
+
+Atti del Governo, registro n. 75, foglio n. 13. - PALLA

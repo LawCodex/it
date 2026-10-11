@@ -1,0 +1,62 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1955, n. 745 — Temporaneo richiamo alle armi per istruzione di sottufficiali, graduati e militari di truppa, in congedo illimitato dell'Aeronautica militare."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1955-07-14;745"
+eli: "https://www.normattiva.it/eli/id/1955/08/23/055U0745/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1955-07-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 193 del 1955-08-23"
+codice_redazionale: "055U0745"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-07-14;745"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1955, n. 745
+
+**Temporaneo richiamo alle armi per istruzione di sottufficiali, graduati e militari di truppa, in congedo illimitato dell'Aeronautica militare.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87 della Costituzione;
+
+Visto l'art. 103 del regio-decreto-legge 3 febbraio 1938, n. 744, convertito nella legge 16 febbraio 1939, n. 468;
+
+Visto l'art. 47 della legge 31 luglio 1954, n. 599, sullo stato dei sottufficiali dell'Esercito, della Marina e dell'Aeronautica;
+
+Visto l'art. 4 della legge 22 gennaio 1934, n. 115, sui soccorsi giornalieri alle famiglie bisognose dei militari richiamati alle armi, e successive sue modificazioni;
+
+Vista la legge 3 maggio 1955, n. 370, sulla conservazione del posto ai lavoratori richiamati alle armi;
+
+Sulla proposta del Ministro per la difesa;
+
+Decreta:
+
+## Art. 1
+
+Nell'anno finanziario 1955-56 possono essere richiamati alle armi per istruzione n. 100 sottufficiali di complemento dell'Aeronautica militare in congedo illimitato e n. 2000 graduati e militari di truppa del ruolo servizi e del ruolo specialisti dell'Aeronautica militare, appartenenti a qualsiasi classe di leva, purche' soggetti ancora ad obblighi militari.
+
+## Art. 2
+
+Il Ministro per la difesa stabilira' per ciascun Comando di Zona aerea territoriale e di aeronautica il numero dei sottufficiali, dei graduati e dei militari di truppa da richiamare.
+
+Il richiamo avra' luogo nel tempo, nei modi e per la durata che saranno stabiliti dal Ministro per la difesa.
+
+## Art. 3
+
+I sottufficiali, graduati e militari di truppa da richiamare ai sensi del presente decreto riceveranno apposita partecipazione personale, nella quale sara' indicato il giorno di presentazione.
+
+Il presente decreto, munito del sigillo dello Stato, saia inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 luglio 1955
+
+GRONCHI
+
+TAVIANI
+
+Visto, il Guardasigilli: MORO
+
+Registrato alla Corte dei conti, addi' 18 agosto 1955
+
+Atti del Governo, registro n. 92, foglio n. 86. - CARLOMAGNO

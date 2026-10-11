@@ -1,0 +1,52 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1954, n. 1072 — Autorizzazione all'Associazione nazionale combattenti e reduci ad acquistare un immobile in localita' di Fiumicino (Roma)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1954-09-26;1072"
+eli: "https://www.normattiva.it/eli/id/1954/11/24/054U1072/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1954-09-26
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 270 del 1954-11-24"
+codice_redazionale: "054U1072"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-09-26;1072"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1954, n. 1072
+
+**Autorizzazione all'Associazione nazionale combattenti e reduci ad acquistare un immobile in localita' di Fiumicino (Roma).**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la domanda del presidente nazionale dell'Associazione combattenti e reduci con sede in Roma, intesa ad ottenere a termini dell'art. 17 del Codice civile l'autorizzazione ad acquistare dall'Opera nazionale combattenti un'area sita in Isola Sacra di Fiumicino (Roma) dell'estensione di Ha. q. 28.20 per il prezzo di L. 2.970.240 da utilizzare per il completamento della Colonia permanente di Fiumicino della Federazione provinciale di Roma dell'Associazione anzidetta;
+
+Visti gli atti prodotti a corredo,
+
+Visto l'art. 17 del Codice civile e l'art. 5 delle disposizioni per la attuazione del Codice stesso;
+
+Sentito il Consiglio di Stato;
+
+Visto l'art. 2 del decreto legislativo del Capo provvisorio dello Stato 14 febbraio 1947, n. 27;
+
+Sulla proposta del Presidente del Consiglio dei Ministri;
+
+Decreta:
+
+L'Associazione nazionale combattenti e reduci e' autorizzata ad acquistare in Fiumicino (Roma) l'area di cui alle premesse di proprieta' dell'Opera nazionale combattenti per il prezzo di L. 2.970.240, da destinare a completamento del compendio immobiliare della Colonia permanente di Fiumicino della Federazione provinciale di Roma dell'Associazione nazionale combattenti e reduci.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Dogliani, addi' 26 settembre 1954
+
+EINAUDI
+
+SCELBA
+
+Visto, il Guardasigilli: DE PIETRO
+
+Registrato alla Corte dei conti, addi' 20 novembre 1954
+
+Atti del Governo, registro n. 87, foglio n. 20. - CARLOMAGNO

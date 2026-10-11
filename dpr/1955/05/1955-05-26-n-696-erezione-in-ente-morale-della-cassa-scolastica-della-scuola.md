@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1955, n. 696 — Erezione in ente morale della Cassa scolastica della Scuola media statale \"G. Marradi\" di Livorno."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1955-05-26;696"
+eli: "https://www.normattiva.it/eli/id/1955/08/18/055U0696/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1955-05-26
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 189 del 1955-08-18"
+codice_redazionale: "055U0696"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-05-26;696"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1955, n. 696
+
+**Erezione in ente morale della Cassa scolastica della Scuola media statale "G. Marradi" di Livorno.**
+
+## Art. 1
+
+N. 696. Decreto del Presidente della Repubblica 26 maggio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "G. Marradi" di Livorno viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto il Guardasigilli: MORO
+
+Registrato alla Corte dei conti, addi' 5 agosto 1955
+
+Atti del Governo, registro n. 92, foglio n. 42. - E. GRECO

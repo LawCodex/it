@@ -1,0 +1,52 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1954, n. 745 — Approvazione dell'atto stipulato con la Societa' anonima italiana ferrotramviaria per il completamento, elettrificazione esclusa, del tronco Bari-Bitonto della ferrovia Bari-Barletta."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1954-05-29;745"
+eli: "https://www.normattiva.it/eli/id/1954/08/31/054U0745/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1954-05-29
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 199 del 1954-08-31"
+codice_redazionale: "054U0745"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-05-29;745"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1954, n. 745
+
+**Approvazione dell'atto stipulato con la Societa' anonima italiana ferrotramviaria per il completamento, elettrificazione esclusa, del tronco Bari-Bitonto della ferrovia Bari-Barletta.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 21 novembre 1950, n. 1016, con la quale e' stata autorizzata la maggiore spesa di L. 2400 milioni occorrente per il completamento della ferrovia Bari-Barletta;
+
+Visto l'atto 4 giugno 1951, approvato e reso esecutorio con decreto del Presidente della Repubblica 30 giugno 1951, n. 526;
+
+Udito il parere del Consiglio superiore dei lavori pubblici;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per i trasporti, di concerto col Ministro per il tesoro;
+
+Decreta:
+
+E' approvato e reso esecutorio l'atto stipulato il 2 aprile 1954 tra i delegati dei Ministri per i trasporti e per il tesoro, in rappresentanza dello Stato, ed il legale rappresentante della Ferrotramviaria Societa' anonima italiana per il completamento, elettrificazione esclusa, del tronco Bari-Bitonto della ferrovia Bari-Barletta.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 29 maggio 1954
+
+EINAUDI
+
+SCELBA - MATTARELLA - GAVA
+
+Visto, il Guardasigilli: DE PIETRO
+
+Registrato alla Corte dei conti, addi' 26 agosto 1954
+
+Atti del Governo, registro n. 85, foglio n. 94. - CARLOMAGNO

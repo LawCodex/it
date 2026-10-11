@@ -1,0 +1,68 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956, n. 1187 — Modificazioni allo statuto dell'Universita' degli studi di Bologna."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1956-09-03;1187"
+eli: "https://www.normattiva.it/eli/id/1956/10/31/056U1187/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1956-09-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 276 del 1956-10-31"
+codice_redazionale: "056U1187"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-09-03;1187"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956, n. 1187
+
+**Modificazioni allo statuto dell'Universita' degli studi di Bologna.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con regio decreto 14 ottobre 1926, n. 2170 e modificato con i regi decreti 12 ottobre 1927, n. 2227; 4 settembre 1930, n. 1312; 1 ottobre 1931, n. 1778; 27 ottobre 1932, n. 2092; 6 dicembre 1934, n. 2394; 1 ottobre 1936, n. 2502; 12 maggio 1939, n. 1315; 5 ottobre 1939, n. 1644; 11 luglio 1941, n. 848; 18 luglio 1942, n. 928; con decreto del Capo provvisorio dello Stato 16 maggio 1947 n. 694 e con decreti del Presidente della Repubblica 22 febbraio 1948, n. 414; 30 luglio 1950, n. 1268; 31 ottobre 1950, n. 1307; 5 agosto 1951, n. 1311; 27 ottobre 1951, n. 1792; 3 ottobre 1952, n. 4541; 11 marzo 1953, n. 545; 12 maggio 1953, n. 547; 30 giugno 1954, n. 742; 30 giugno 1954, n. 755; 14 agosto 1954, n. 862; 14 settembre 1954, n. 1231; 29 ottobre 1954, n. 1319; 29 ottobre 1954, n. 1457; 1 marzo 1955, n. 222; 24 luglio 1955, n. 799; 21 settembre 1955, n. 956, e 4 ottobre 1955, n. 961;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 43. E' abrogata la norma di cui al decimo comma, in base alla quale gli insegnamenti fondamentali del corso di laurea in lettere: storia medioevale e storia moderna sono riuniti in un'unica cattedra.
+
+Art. 55. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "semeiotica chirurgica".
+
+Art. 94. - Agli insegnamenti complementari del corso di laurea in ingegneria sono aggiunti quelli di:
+
+50\) "Elettronica";
+
+51\) "Psicotecnica".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 settembre 1956
+
+GRONCHI
+
+ROSSI
+
+Visto, il Guardasigilli: MORO
+
+Registrato alla Corte dei conti, addi' 30 ottobre 1956
+
+Atti del Governo, registro n. 101, foglio n. 106. - CARLOMAGNO

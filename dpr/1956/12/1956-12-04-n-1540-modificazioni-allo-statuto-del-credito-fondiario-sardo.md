@@ -1,0 +1,56 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 dicembre 1956, n. 1540 — Modificazioni allo statuto del Credito fondiario sardo, societa' per azioni con sede in Roma."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1956-12-04;1540"
+eli: "https://www.normattiva.it/eli/id/1957/01/24/056U1540/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1956-12-04
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 21 del 1957-01-24"
+codice_redazionale: "056U1540"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-12-04;1540"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 dicembre 1956, n. 1540
+
+**Modificazioni allo statuto del Credito fondiario sardo, societa' per azioni con sede in Roma.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 30 gennaio 1898, n. 21;
+
+Visto il regio decreto 16 luglio 1905; n. 646, e le successive modificazioni ed integrazioni, nonche' i decreti legislativi 17 luglio 1947, n. 691 e 20 gennaio 1948, n. 10.
+
+Visto lo statuto del Credito fondiario sardo, societa' per azioni con sede in Roma, approvato con decreto del Capo provvisorio dello Stato in data 31 luglio 1947, n. 935 e modificato con propri decreti in data 17 novembre 1950, n. 1114, 9 ottobre 1951, n. 1192, 30 luglio 1953, n. 627, 31 luglio 1954, n. 871, 1 marzo 1955, numero 201 e 7 gennaio 1956, n. 193;
+
+Viste le deliberazioni dell'assemblea straordinaria degli azionisti del predetto Istituto, tenutasi in data 10 ottobre 1956;
+
+Sentito il Comitato interministeriale per il credito ed il risparmio;
+
+Sulla proposta del Ministro per il tesoro;
+
+Decreta:
+
+Le seguenti disposizioni dello statuto del Credito fondiario sardo, societa' per azioni con sede in Roma, sono cosi' modificate:
+
+Art. 5. - "Il capitale sociale e' di L. 650.000.000 diviso in n. 3.250.000 azioni del valore nominale di L. 200 ciascuna. Le azioni sono nominative e potranno essere convertite al portatore a spese del richiedente, ove la legge lo consenta".
+
+Art. 8, primo comma. - "L'Istituto, a fronte dei mutui concessi, potra' emettere cartelle fruttanti interesse eguale a quello dei mutui stessi, sino all'ammontare massimo - rapportato al capitale versato ed alle riserve - consentito dalle disposizioni di legge vigenti in materia".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 dicembre 1956
+
+GRONCHI
+
+MEDICI
+
+Visto, il Guardasigilli: MORO
+
+Registrato alla Corte dei conti, addi' 17 gennaio 1957
+
+Atti del Governo, registro n. 103, foglio n. 34. - CARLOMAGNO

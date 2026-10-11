@@ -1,0 +1,52 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1954, n. 170 — Ricostituzione dell'Archivio notarile distrettuale in Lucera."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1954-03-02;170"
+eli: "https://www.normattiva.it/eli/id/1954/05/10/054U0170/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1954-03-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 106 del 1954-05-10"
+codice_redazionale: "054U0170"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-03-02;170"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1954, n. 170
+
+**Ricostituzione dell'Archivio notarile distrettuale in Lucera.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il regio decreto 9 luglio 1926, n. 1268, con cui il Distretto notarile di Lucera fu aggregato a quello di Foggia, restando quindi soppresso l'Archivio notarile distrettuale in Lucera;
+
+Visto l'art. 106 del regolamento per l'esecuzione della legge 16 febbraio 1913, n. 89, approvato con regio decreto 10 settembre 1914, n. 1326;
+
+Visto l'art. 1, comma primo, del regio decreto 31 dicembre 1923, n. 3138;
+
+Visto l'art. 6 del regio decreto-legge 14 luglio 1937, n. 1666;
+
+Visto il decreto Presidenziale 18 gennaio 1954, n. 18, col quale e' stata disposta la separazione dei Distretti notarili riuniti di Foggia e Lucera;
+
+Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
+
+Decreta:
+
+E' ricostituito in Lucera l'Archivio notarile distrettuale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 marzo 1954
+
+EINAUDI
+
+DE PIETRO
+
+Visto, il Guardasigilli: DE PIETRO
+
+Registrato alla Corte dei conti, addi' 4 maggio 1954
+
+Atti del Governo, registro n. 83, foglio n. 3. - CARLOMAGNO

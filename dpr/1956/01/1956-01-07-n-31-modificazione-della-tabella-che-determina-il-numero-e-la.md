@@ -1,0 +1,58 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 gennaio 1956, n. 31 — Modificazione della tabella che determina il numero e la residenza dei notai."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-07;31"
+eli: "https://www.normattiva.it/eli/id/1956/02/08/056U0031/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1956-01-07
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 32 del 1956-02-08"
+codice_redazionale: "056U0031"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-07;31"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 gennaio 1956, n. 31
+
+**Modificazione della tabella che determina il numero e la residenza dei notai.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 4 della legge 16 febbraio 1913, n. 89;
+
+Visto il decreto Presidenziale 18 gennaio 1954, n. 18, sulla revisione della tabella che determina il numero e la residenza dei notai;
+
+Ritenuta l'opportunita' di elevare da 75 a 100 il numero dei posti di notaio in Milano; da 1 a 2 i posti di notaio nel comune di Luino; da 6 a 7 i posti di notaio nel comune di Monza; da 1 a 2 i posti di notaio nel comune di Rho; da 1 a 2 i posti di notaio nel comune di Sesto San Giovanni; da 4 a 5 i posti di notaio nel comune di Busto Arsizio; da 3 a 4 i posti di notaio nel comune di Gallarate; e di istituire un posto di notaio rispettivamente nei comuni di Bollate, Cusano Milanino, Giussano, Nerviano, Paderno Dugnano e Marchirolo, nel distretto notarile di Milano;
+
+Ritenuta l'opportunita' di sopprimere le sedi notarili nei comuni di Borghetto Lodigiano e di Maccagno Superiore;
+
+Visti i pareri del Consiglio notarile e della Corte di appello di Milano;
+
+Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
+
+Decreta:
+
+La tabella che determina il numero e la residenza dei notai, approvata con decreto Presidenziale 18 gennaio 1954, n. 18, e' modificata nel modo seguente per quanto riguarda il distretto notarile di Milano:
+
+a) e' aumentato a 100 il numero dei posti di notaio nella sede notarile di Milano; n. 2 il numero dei posti di notaio nella sede di Luino: al 7 il numero dei posti di notaio nella sede di Monza; a 2 i posti di notaio nella sede di Rho; a 2 i posti di notaio nella sede di Sesto San Giovanni; a 5 i posti di notaio nella sede di Busto Arsizio: n. 4 i posti di notaio nella sede di Gallarate;
+
+b) e istituito un posto di notaio rispettivamente nei comuni di Bollate, Cusano Milanino, Giussano, Nerviano, Paderno Dugnano e Marchirolo;
+
+c) sono soppresse le sedi notarili nei comuni di Borghetto Lodignano e Maccagno Superiore e cio' a decorrere dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale della Repubblica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 7 gennaio 1956
+
+GRONCHI
+
+MORO
+
+Visto, il Guardasigilli: MORO
+
+Registrato alla Corte dei conti, addi' 3 febbraio 1956
+
+Atti del Governo, registro n. 96, foglio n. 6. - CARLOMAGNO

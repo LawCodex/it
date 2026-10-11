@@ -1,0 +1,154 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956, n. 1146 — Modificazioni allo statuto dell'Universita' degli studi di Perugia."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1956-09-03;1146"
+eli: "https://www.normattiva.it/eli/id/1956/10/23/056U1146/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1956-09-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 268 del 1956-10-23"
+codice_redazionale: "056U1146"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-09-03;1146"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956, n. 1146
+
+**Modificazioni allo statuto dell'Universita' degli studi di Perugia.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con regio decreto 20 aprile 1939, numero 1107 e modificato con i regi decreti 2 ottobre 1940, n. 1471; 17 ottobre 1941, n. 1205; 5 settembre 1942, n. 1239; 24 ottobre 1942, n. 1651; con decreto del Capo provvisorio dello Stato 5 ottobre 1946, n. 309 e con decreti del Presidente della Repubblica 28 luglio 1950, n. 936; 30 ottobre 1950, n. 1128; 11 aprile 1951, n. 472; 27 ottobre 1951, n. 1675; 14 marzo 1952, n. 768; 11 marzo 1953, n. 457; 6 ottobre 1953, n. 1110; 14 settembre 1954, n. 1009; 26 ottobre 1954, n. 1203; 4 febbraio 1955, n. 117; 27 luglio 1955, n. 803; 20 settembre 1955, n. 942, e 20 settembre 1955, 950;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 75. - Nel primo capoverso dopo la parola "igiene" sono aggiunte le seguenti: in "gastroenterologia" ed in "anestesiologia".
+
+Dopo l'art. 91 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle scuole di perfezionamento in "gastroenterologia" ed in "anestesiologia".
+
+Scuola di perfezionamento in gastroenterologia
+
+Art. 92. - La scuola ha la durata di due anni: il numero degli iscritti e' limitato a sei per ogni anno di corso.
+
+Le materie di insegnamento sono:
+
+1° anno:
+
+Anatomia normale;
+
+Fisiologia;
+
+Anatomia patologica;
+
+Metodologia e diagnostica di laboratorio;
+
+Batteriologia e parassitologia;
+
+Patologia e semeiotica segmentaria;
+
+Alimentazione e fattori nutritivi;
+
+Clinica generale e speciale dei singoli segmenti (biennale);
+
+Radiologia (biennale);
+
+Stomatologia (semestrale);
+
+Esofagogastrologia (semestrale);
+
+Proctologia (semestrale).
+
+2° anno:
+
+Tecnica e istologia bioptica;
+
+Terapia generale e speciale;
+
+Chirurgia dell'apparato digerente;
+
+Clinica generale e speciale dei singoli segmenti (biennale);
+
+Radiologia (biennale);
+
+Endoscopia (semestrale);
+
+Enzimologia speciale alimentare e nutritiva (semestrale);
+
+Epatologia (semestrale);
+
+Pancreatologia (semestrale);
+
+Idrologia (semestrale).
+
+Per l'ammissione al secondo anno di corso gli iscritti dovranno aver superato gli esami del primo anno ed un colloquio per le materie biennali.
+
+Scuola di perfezionamento in anestesiologia
+
+Art. 93. - La scuola ha la durata di due anni: il numero degli iscritti e' limitato a cinque per ogni anno di corso.
+
+Le materie di insegnamento sono:
+
+1° anno:
+
+Anatomia;
+
+Fisiologia;
+
+Fisica;
+
+Biochimica;
+
+Patologia generale;
+
+Farmacologia;
+
+Anestesiologia.
+
+2° anno:
+
+Fisiologia;
+
+Farmacologia;
+
+Patologia generale;
+
+Cardiologia;
+
+Broncopneumologia;
+
+Anestesiologia.
+
+Per l'ammissione al secondo anno di corso gli iscritti dovranno aver superato gli esami di anatomia, fisica, biochimica ed i colloqui di fisiologia, di farmacologia e di patologia generale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 settembre 1956
+
+GRONCHI
+
+ROSSI
+
+Visto, il Guardasigilli: MORO
+
+Registrato alla Corte dei conti, addi' 18 ottobre 1956
+
+Atti del Governo, registro n. 101, foglio n. 53. - CARLOMAGNO

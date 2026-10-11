@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1953, n. 1012 — Modificazioni allo statuto del Fondo di previdenza per il personale del Banco di Santo Spirito."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1953-11-22;1012"
+eli: "https://www.normattiva.it/eli/id/1954/01/21/053U1012/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1953-11-22
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 16 del 1954-01-21"
+codice_redazionale: "053U1012"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1953-11-22;1012"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1953, n. 1012
+
+**Modificazioni allo statuto del Fondo di previdenza per il personale del Banco di Santo Spirito.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 16 del Codice civile;
+
+Visto il decreto del Presidente della Repubblica 23 aprile 1952, n. 537, con il quale e' stato concesso il riconoscimento della personalita' giuridica al Fondo di previdenza per il personale del Banco di Santo Spirito e ne e' stato approvato il relativo statuto;
+
+Visto il verbale in data 14 dicembre 1952 dell'assemblea straordinaria degli iscritti al Fondo predetto - per notaio Francesco Antonelli n. 31905 di repertorio, atto n. 14457, in data 12 gennaio 1953 - dal quale risulta che l'assemblea medesima ha deliberato all'unanimita', con 1027 iscritti presenti su 1289 soci, la modifica degli articoli 6, 7, 8, 9, 10, 12 e 55 e la soppressione dell'art. 75 dello statuto del Fondo stesso;
+
+Visti gli estratti autentici - per notaio Francesco Antonelli in data 23 gennaio 1953, repertorio n. 32246 e 6 febbraio 1953, repertorio n. 32261 - dei verbali delle sedute tenute il 23 dicembre 1952 e il 3 febbraio 1953, dal Consiglio di amministrazione del Banco di Santo Spirito, il quale ha, a sua volta, approvato le suindicate modifiche allo statuto del Fondo ed ha autorizzato il versamento al medesimo della somma di lire 12.951.044, che rappresenta la quota di onere a carico del Banco per il reintegro dei contributi versati in forma ridotta per il periodo dal 1 gennaio 1950 al 30 novembre 1952;
+
+Vista la domanda in data 10 febbraio 1953 del presidente del Fondo suddetto;
+
+Udito il parere del Consiglio di Stato;
+
+Sulla proposta del Ministro per il lavoro e la previdenza sociale;
+
+Decreta:
+
+E' approvata la delibera in data 14 dicembre 1952 dell'assemblea straordinaria del Fondo di previdenza per il personale del Banco di Santo Spirito, con la quale sono modificati gli articoli 6, 7, 8, 9, 10, 12 e 55 ed e' soppresso l'art. 75 dello statuto del Fondo stesso.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 novembre 1953
+
+EINAUDI
+
+RUBINACCI
+
+Visto, il Guardasigilli: AZARA
+
+Registrato alla Corte dei conti, addi' 18 gennaio 1954
+
+Atti del Governo, registro n. 81, foglio n. 39. - PALLA

@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956, n. 1568 — Classifica ex novo in comprensorio di bonifica montana del bacino montano del fiume Reno ricadente nelle province di Bologna, Modena, Pistoia e Firenze."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1956-09-03;1568"
+eli: "https://www.normattiva.it/eli/id/1957/01/31/056U1568/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1956-09-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 28 del 1957-01-31"
+codice_redazionale: "056U1568"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956-09-03;1568"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956, n. 1568
+
+**Classifica ex novo in comprensorio di bonifica montana del bacino montano del fiume Reno ricadente nelle province di Bologna, Modena, Pistoia e Firenze.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la proposta avanzata dell'Ispettorato ripartimentale delle foreste di Bologna in data 20 giugno 1953, per la classifica quale comprensorio di bonifica montana della parte del territorio del bacino montano del fiume Reno ricadente nelle province di Bologna, Modena, Pistoia e Firenze per una estensione di ettari 84.709,00.00;
+
+Vista la corografia su scala 1: 100.000 nella quale e' indicato il perimetro della zona da classificare;
+
+Sentito il Comitato speciale della bonifica;
+
+Viste le lettere n. 2752 in data 10 dicembre 1954 del Ministero dei lavori pubblici e n. 124868 in data 11 luglio 1956 del Ministero del tesoro;
+
+Visto l'art. 14 della legge 25 luglio 1952, n. 991 e l'art. 32 del decreto del Presidente della Repubblica 16 novembre 1952, n. 1979;
+
+Ritenuto che sussistono le condizioni per procedere alla richiesta classifica;
+
+Sulla proposta del Ministro per l'agricoltura e per le foreste di concerto con i Ministri per i lavori pubblici e per il tesoro;
+
+Decreta:
+
+## Articolo unico
+
+La parte del territorio del bacino montano del fiume Reno, ricadente nelle province di Bologna, Modena, Pistoia e Firenze, estesa per ha. 84.709,00.00, e delimitata secondo la linea segnata nella citata corografia su scala 1: 100.000, che vistata dal Ministro proponente, forma parte integrante del presente decreto, e' classificata ai sensi e per gli effetti della legge 25 luglio 1952, n. 991, fra i comprensori di bonifica montana in aggiunta alla parte di territorio gia' riclassificata a termini dell'art. 15 della legge predetta con decreto interministeriale 14 febbraio 1953 ed estesa per ha. 104.043, con la quale viene a formare un unico ed organico comprensorio di bonifica montana esteso per ha. 188.752.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 settembre 1956
+
+GRONCHI
+
+COLOMBO - ROMITA - MEDICI
+
+Visto, il Guardasigilli: MORO
+
+Registrato alla Corte dei conti, addi' 26 gennaio 1957
+
+Atti del Governo, registro n. 103, foglio n. 55. - RELLEVA

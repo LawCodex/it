@@ -1,0 +1,62 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1954, n. 1270 — Apposizione della formula esecutiva sulle sentenze della Corte di Giustizia e sulle decisioni dell'Alta Autorita' della Comunita' europea del carbone e dell'acciaio."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1954-10-16;1270"
+eli: "https://www.normattiva.it/eli/id/1955/01/22/054U1270/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1954-10-16
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 17 del 1955-01-22"
+codice_redazionale: "054U1270"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-10-16;1270"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1954, n. 1270
+
+**Apposizione della formula esecutiva sulle sentenze della Corte di Giustizia e sulle decisioni dell'Alta Autorita' della Comunita' europea del carbone e dell'acciaio.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 25 giugno 1952, n. 766, concernente l'esecuzione del Trattato istitutivo della Comunita' europea del carbone e dell'acciaio, firmato a Parigi il 18 aprile 1951;
+
+Visti gli articoli 44 e 92 del suddetto Trattato;
+
+Visti gli articoli 474 e seguenti del Codice di procedura civile;
+
+Visti gli articoli 153 e seguenti delle disposizioni di attuazione del Codice di procedura civile, approvate con regio decreto 18 dicembre 1941, n. 1368;
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per gli affari esteri, di concerto con i Ministri per la grazia e giustizia e per l'industria e commercio;
+
+Decreta:
+
+## Art. 1
+
+Alle formalita' previste dall'art. 92 del Trattato istitutivo della Comunita' europea del carbone e dell'acciaio provvede il Ministro per gli affari esteri.
+
+A tal fine, verificata l'autenticita' delle sentenze della Corte di Giustizia e delle decisioni dell'Alta Autorita' comportanti obbligazioni pecuniarie, egli cura l'apposizione della formula esecutiva sui predetti provvedimenti ai norma degli articoli 474 e seguenti del Codice di procedura civile e 153 e seguenti delle disposizioni per la sua attuazione.
+
+## Art. 2
+
+Il Ministro per gli affari esteri puo' delegare, con decreto da registrarsi alla Corte dei conti e da pubblicarsi nella Gazzetta Ufficiale, funzionari del proprio Ministero per la verificazione dell'autenticita' dei provvedimenti di cui all'art. 1 e per l'apposizione, in calce a tali provvedimenti, della formula esecutiva predetta.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 16 ottobre 1954
+
+EINAUDI
+
+SCELBA - MARTINO - VILLABRUNA - DE PIETRO
+
+Visto, il Guardasigilli: DE PIETRO
+
+Registrato alla Corte dei conti, addi' 18 gennaio 1955
+
+Atti del Governo, registro n. 88, foglio n. 60. - CARLOMAGNO

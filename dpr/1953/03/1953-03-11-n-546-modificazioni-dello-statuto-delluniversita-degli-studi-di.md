@@ -1,0 +1,92 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953, n. 546 — Modificazioni dello statuto dell'Universita' degli studi di Pisa."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1953-03-11;546"
+eli: "https://www.normattiva.it/eli/id/1953/08/01/053U0546/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1953-03-11
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 174 del 1953-08-01"
+codice_redazionale: "053U0546"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1953-03-11;546"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953, n. 546
+
+**Modificazioni dello statuto dell'Universita' degli studi di Pisa.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con regio decreto 14 ottobre 1926, n. 2278, e modificato con i regi decreti 13 ottobre 1927, n. 2225; 20 settembre 1928, n. 2251; 31 ottobre 1929, n. 2473; 30 ottobre 1930, n. 1916; 22 ottobre 1931, n. 1339; 27 ottobre 1932, n. 2098; 13 dicembre 1934, n. 2408; 1 ottobre 1936, n. 2462; 27 ottobre 1937, n. 2170; 9 maggio 1939, n. 1314; 5 ottobre 1939, n. 1744; 26 ottobre 1940, n. 2071; 27 aprile 1942, n. 469 e 24 ottobre 1942, n. 1652, con decreto del Capo provvisorio dello Stato 30 dicembre 1947, n. 1689, con decreti del Presidente della Repubblica 17 febbraio 1949, n. 97; 30 ottobre 1949, n. 1169; 31 ottobre 1950, n. 1309; 11 aprile 1951, n. 566; 27 ottobre 1951, n. 1801; 25 marzo 1952, n. 872; 25 luglio 1952, n. 1351 e 12 settembre 1952, n. 3861;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:
+
+## Art. 60. - E' sostituito dal seguente:
+
+"Gli Istituti scientifici della Facolta' sono:
+
+1\) Istituto di fisica;
+
+2\) Istituto di chimica generale;
+
+3\) Istituto di chimica-fisica;
+
+4\) Istituto di chimica organica;
+
+5\) Istituto e museo di zoologia e anatomia comparata;
+
+6\) Istituto e museo di geologia e paleontologia;
+
+7\) Istituto di mineralogia e petrografia;
+
+8\) Istituto e museo di antropologia e paleontologia umana;
+
+9\) Istituto di astronomia e geodesia;
+
+10\) Istituto di analisi algebrica e infinitesimale;
+
+11\) Istituto di geometria analitica, descrittiva e proiettiva;
+
+12\) Istituto di meccanica razionale;
+
+13\) Istituto di analisi superiore;
+
+14\) Istituto di geometria superiore;
+
+15\) Istituto di fisica-matematica;
+
+16\) Scuola di disegno.
+
+Gli Istituti di cui ai nn. 10, 11, 12, 13, 14 e 15 costituiscono nel loro complesso l'Istituto di matematica "Leonida Tonelli" dell'Universita' di Pisa il quale ha patrimonio indivisibile ed e' amministrato collegialmente".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 marzo 1953
+
+EINAUDI
+
+SEGNI
+
+Visto, il Guardasigilli: ZOLI
+
+Registrato alla Corte dei conti, addi' 27 luglio 1953
+
+Atti del Governo, registro n. 78, foglio n. 56. - PALLA
