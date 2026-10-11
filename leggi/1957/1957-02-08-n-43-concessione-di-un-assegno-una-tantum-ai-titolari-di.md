@@ -1,0 +1,46 @@
+---
+title: "LEGGE 08 febbraio 1957, n. 43 — Concessione di un assegno una tantum ai titolari di pensioni liquidate a carico del Fondo di previdenza per gli addetti ai pubblici servizi di trasporto, con decorrenza anteriore al 1° febbraio 1945."
+identifier: "urn:nir:stato:legge:1957-02-08;43"
+eli: "https://www.normattiva.it/eli/id/1957/03/11/057U0043/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1957-02-08
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 65 del 1957-03-11"
+codice_redazionale: "057U0043"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-02-08;43"
+retrieved: 2026-10-11
+---
+
+# LEGGE 08 febbraio 1957, n. 43
+
+**Concessione di un assegno una tantum ai titolari di pensioni liquidate a carico del Fondo di previdenza per gli addetti ai pubblici servizi di trasporto, con decorrenza anteriore al 1° febbraio 1945.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno
+
+approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Articolo unico
+
+Ai titolari di pensioni del Fondo di previdenza per gli addetti ai pubblici servizi di trasporto, liquidate con decorrenza anteriore al 1° febbraio 1945 ed ai loro superstiti e' concesso in occasione delle feste natalizie, un assegna una tantum pari ad un dodicesimo dell'importo annuo della pensione liquidata a norma del regolamento approvato con regio decreto 30 settembre 1920, n. 1538, e successive modificazioni, comprensiva dell'assegno integrativo di cui all'art. 4 della legge 28 dicembre 1952, n. 4435.
+
+L'onere relativo alla concessione dell'assegno predetto e' posto a carico del Fondo di integrazione istituito con l'art. 1 del decreto legislativo 16 settembre 1947, n. 1083.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 8 febbraio 1957
+
+GRONCHI
+
+SEGNI - ANGELINI -
+
+VIGORELLI - MEDICI
+
+Visto, il Guardasigilli: MORO

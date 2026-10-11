@@ -1,0 +1,48 @@
+---
+title: "LEGGE 13 ottobre 1950, n. 828 — Assunzione a carico di entrate di bilancio per l'esercizio finanziario 1949-50, di talune spese gia' autorizzate a carico del fondo lire relativo al piano ERP."
+identifier: "urn:nir:stato:legge:1950-10-13;828"
+eli: "https://www.normattiva.it/eli/id/1950/10/19/050U0828/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1950-10-13
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 241 del 1950-10-19"
+codice_redazionale: "050U0828"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-13;828"
+retrieved: 2026-10-11
+---
+
+# LEGGE 13 ottobre 1950, n. 828
+
+**Assunzione a carico di entrate di bilancio per l'esercizio finanziario 1949-50, di talune spese gia' autorizzate a carico del fondo lire relativo al piano ERP.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Articolo unico
+
+Allo stanziamento in bilancio dei fondi ancora occorrenti per l'esercizio finanziario 1949-50, in dipendenza delle disposizioni legislative sottoindicate, si provvedera', anziche' con prelevamento dal conto speciale istituito presso la Banca d'Italia in esecuzione dell'Accordo 28 giugno 1948, con gli Stati Uniti d'America, approvato con la legge 4 agosto 1948, n. 1108, a carico delle entrate di cui all'ottavo provvedimento di variazione del bilancio per l'esercizio 1949-50:
+
+legge 28 febbraio 1949, n. 43, recante provvedimenti per incrementare l'occupazione operaia, agevolando la costruzione di case per lavoratori (lire 15 miliardi);
+
+art. 34 della legge 8 marzo 1949, n. 75, concernente provvedimenti a favore dell'industria delle costruzioni navali e dell'armamento (lire 11 miliardi a saldo dello stanziamento di 12 miliardi di cui a tale articolo);
+
+art. 62, lettera b), della legge 29 aprile 1949, n. 264, riguardante provvedimenti in materia di avviamento al lavoro e di assistenza dei lavoratori involontariamente disoccupati (lire 8 miliardi ad integrazione del contributo a favore del "Fondo per l'addestramento professionale dei lavoratori", la cui misura per l'indicato esercizio finanziario, resta determinata, in via definitiva, nell'importo di lire 10 miliardi).
+
+Il Ministro per il tesoro e' autorizzato a provvedere con propri decreti all'inscrizione in bilancio delle somme suddette.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Dogliani, addi' 13 ottobre 1950
+
+EINAUDI
+
+DE GASPERI - PELLA
+
+Visto, il Guardasigilli: PICCIONI

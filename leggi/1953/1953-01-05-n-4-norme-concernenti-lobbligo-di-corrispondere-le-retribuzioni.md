@@ -1,0 +1,75 @@
+---
+title: "LEGGE 05 gennaio 1953, n. 4 — Norme concernenti l'obbligo di corrispondere le retribuzioni ai lavoratori a mezzo di prospetti di paga."
+identifier: "urn:nir:stato:legge:1953-01-05;4"
+eli: "https://www.normattiva.it/eli/id/1953/01/27/053U0004/CONSOLIDATED/20260628"
+type: act
+jurisdiction: it
+language: it
+date: 1953-01-05
+last_amended: 2026-06-28
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 21 del 1953-01-27"
+codice_redazionale: "053U0004"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-01-05;4"
+retrieved: 2026-10-11
+---
+
+# LEGGE 05 gennaio 1953, n. 4
+
+**Norme concernenti l'obbligo di corrispondere le retribuzioni ai lavoratori a mezzo di prospetti di paga.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno
+
+approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+E' fatto obbligo ai datori di lavoro di consegnare, all'atto della corresponsione della retribuzione, ai lavoratori dipendenti, con esclusione dei dirigenti, un prospetto di paga in cui devono essere indicati il nome, cognome e qualifica professionale del lavoratore, il periodo cui la retribuzione si riferisce, gli assegni familiari e tutti gli altri elementi che, comunque, compongono detta retribuzione, nonche', distintamente, le singole trattenute ((e il contratto)) collettivo nazionale di lavoro applicato, identificato mediante il codice alfanumerico unico di cui all'articolo 16-quater del decreto-legge 16 luglio 2020, n. 76, convertito, con modificazioni, dalla legge 11 settembre 2020, n. 120.
+
+Tale prospetto paga deve portare la firma, sigla o timbro del datore di lavoro o di chi ne fa le veci.
+
+Le societa' cooperative sono tenute alla compilazione del prospetto di paga sia per gli operai ausiliari che per i propri soci dipendenti.
+
+## Art. 2
+
+Le singole annotazioni sul prospetto di paga debbono corrispondere esattamente alle registrazioni eseguite sui libri di paga, o registri equipollenti, per lo stesso periodo di tempo.
+
+## Art. 3
+
+Il prospetto di paga deve essere consegnato al lavoratore nel momento stesso in cui gli viene consegnata la retribuzione.
+
+## Art. 4
+
+La norma contenuta nel precedente art. 1 non si applica:
+
+a) alle Amministrazioni dello Stato ed alle relative Aziende autonome;
+
+b) alle Regioni, alle Province ed ai Comuni;
+
+c) alle aziende agricole che impiegano nell'annata agraria mano d'opera salariata per un numero di giornate lavorative non superiore a 3000;
+
+d) ai privati datori di lavoro per il personale addetto esclusivamente ai servizi familiari.
+
+## Art. 5
+
+1\. ((Salvo che il fatto costituisca reato, in caso di mancata o ritardata consegna al lavoratore del prospetto di paga, o di omissione o inesattezza nelle registrazioni apposte su detto prospetto paga, si applica al datore di lavoro la sanzione amministrativa pecuniaria da 150 a 900 euro. Se la violazione si riferisce a piu' di cinque lavoratori ovvero a un periodo superiore a sei mesi la sanzione va da 600 a 3.600 euro. Se la violazione si riferisce a piu' di dieci lavoratori ovvero a un periodo superiore a dodici mesi la sanzione va da 1.200 a 7.200 euro. Nell'ipotesi in cui il datore di lavoro adempia agli obblighi di cui agli articoli precedenti attraverso la consegna al lavoratore di copia delle scritturazioni effettuate nel libro unico del lavoro, non si applicano le sanzioni di cui al presente articolo ed il datore di lavoro e' sanzionabile esclusivamente ai sensi dell'articolo 39, comma 7, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e successive modificazioni.))
+
+## Art. 6
+
+La vigilanza per l'applicazione della presente legge e' esercitata dall'Ispettorato del lavoro.
+
+La presente legge, munita, del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 5 gennaio 1953
+
+EINAUDI
+
+DE GASPERI - RUBINACCI
+
+Visto, il Guardasigilli: ZOLI

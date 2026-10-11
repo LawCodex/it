@@ -1,0 +1,42 @@
+---
+title: "LEGGE 28 novembre 1952, n. 1994 — Vendita a trattativa privata all'Amministrazione provinciale di La Spezia dell'immobile appartenente al patrimonio dello Stato, denominato \"ex frigorifero militare\" sito in detta citta'."
+identifier: "urn:nir:stato:legge:1952-11-28;1994"
+eli: "https://www.normattiva.it/eli/id/1952/12/19/052U1994/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1952-11-28
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 294 del 1952-12-19"
+codice_redazionale: "052U1994"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-11-28;1994"
+retrieved: 2026-10-11
+---
+
+# LEGGE 28 novembre 1952, n. 1994
+
+**Vendita a trattativa privata all'Amministrazione provinciale di La Spezia dell'immobile appartenente al patrimonio dello Stato, denominato "ex frigorifero militare" sito in detta citta'.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Articolo unico
+
+Il Ministro per le finanze e' autorizzato a vendere, a trattativa privata, all'Amministrazione provinciale di La Spezia, l'immobile sito in detta citta', appartenente al patrimonio dello Stato, denominato "ex frigorifero militare", costituito da un'area di mq. 13.994,30 parzialmente coperta da ruderi di fabbricati, per il prezzo di lire 20.000.000 e con l'obbligo per l'acquirente di destinarlo alla sistemazione degli Istituti tecnici industriale e nautico.
+
+Il Ministro per le finanze provvedera' all'approvazione del relativo atto con proprio decreto.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 28 novembre 1952
+
+EINAUDI
+
+DE GASPERI - VANONI
+
+Visto, il Guardasigilli: ZOLI

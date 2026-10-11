@@ -1,0 +1,279 @@
+---
+title: "LEGGE 27 dicembre 1953, n. 959 — Norme modificative al testo unico delle leggi sulle acque e sugli impianti elettrici, approvato con regio decreto 11 dicembre 1933, n. 1775, riguardanti l'economia montana."
+identifier: "urn:nir:stato:legge:1953-12-27;959"
+eli: "https://www.normattiva.it/eli/id/1953/12/31/053U0959/CONSOLIDATED/20220330"
+type: act
+jurisdiction: it
+language: it
+date: 1953-12-27
+last_amended: 2022-03-30
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 299 del 1953-12-31"
+codice_redazionale: "053U0959"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-12-27;959"
+retrieved: 2026-10-11
+---
+
+# LEGGE 27 dicembre 1953, n. 959
+
+**Norme modificative al testo unico delle leggi sulle acque e sugli impianti elettrici, approvato con regio decreto 11 dicembre 1933, n. 1775, riguardanti l'economia montana.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno
+
+approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+Il Ministro per i lavori pubblici, sentito quello per l'agricoltura e foreste, stabilisce, con proprio decreto, quali sono i "bacini imbriferi montani" nel territorio nazionale e determina il perimetro di ognuno. Tale determinazione deve essere adottata entro un anno dalla data di entrata in vigore della presente legge per quei bacini ove gia' esistono concessioni di grandi derivazioni per produzione di forza motrice ed entro tre anni in ogni altro caso.
+
+I Comuni che in tutto o in parte sono compresi in ciascun bacino imbrifero montano sono costituiti in consorzio obbligatorio qualora ne facciano domanda non meno di tre quinti di essi.
+
+Se il bacino imbrifero e' compreso in piu' Province qualora ricorrano le modalita' di cui al precedente comma, deve costituirsi un consorzio per ogni Provincia.
+
+Il Ministro per i lavori pubblici nel caso di consorzi tra Comuni di piu' province stabilira' la ripartizione dei proventi derivanti dal sovracanone di cui al presente articolo.
+
+I Comuni gia' rivieraschi agli effetti del testo unico approvato con regio decreto 11 dicembre 1933, n. 1775, e quei Comuni che in conseguenza di nuove opere vengano a rivestire i caratteri di Comuni rivieraschi ai sensi dell'art. 52 del predetto testo unico fanno parte di diritto del bacino imbrifero, anche se non vengono inclusi nel perimetro del bacino stesso.
+
+Il Ministro per i lavori pubblici includera' con suo decreto nei consorzi quei Comuni che, in conseguenza di nuove opere, vengano a rivestire i caratteri di Comuni rivieraschi ai sensi dell'attuale art. 52 del testo unico.
+
+I consorzi di cui ai commi precedenti sono retti dalle disposizioni di cui al titolo IV del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383. I provvedimenti di autorizzazione e di approvazione delle deliberazioni dei consorzi, riguardanti opere pubbliche, qualunque sia l'importo delle medesime, sono adottati previo parere del Provveditorato regionale per le opere pubbliche.
+
+I concessionari di grandi derivazioni d'acqua per produzione di forza motrice, anche se gia' in atto, le cui opere di presa siano situate, in tutto o in parte, nell'ambito del perimetro imbrifero montano, sono soggetti, in sostituzione degli oneri di cui all'art. 52 del testo unico delle leggi sulle acque e sugli impianti elettrici, approvato con regio decreto 11 dicembre 1933, n. 1775, al pagamento di un sovracanone annuo di lire 1300 per ogni chilowatt di potenza nominale media, risultante dall'atto di concessione. (1) (2) (3) (4) (5) (6) (7) (8) (9) (11) (10) (12) (13) (14) (15) (16) (17) (18) (19) (21) (22) (23) (24) (25) (26) ((27))
+
+Il sovracanone decorre:
+
+a) dalla data di entrata in vigore della presente legge e con le scadenze stabilite per il canone demaniale per gli impianti sui quali a tale data gia' sia dovuto il canone demaniale;
+
+b) dalla data di entrata in funzione degli impianti, negli altri casi; (2)
+
+c) nel caso di entrata in funzione parziale degli impianti il canone decorrera' in proporzione della potenza installata in rapporto a quella concessa. A tal fine il Ministro per i lavori pubblici comunichera' a quello per le finanze gli elementi per la determinazione provvisoria del canone demaniale e dei sovracanoni, che verranno pagati immediatamente, salvo conguaglio in sede di concessione definitiva. (1)
+
+In attesa della costituzione dei consorzi di cui ai precedenti commi secondo e terzo, i sovracanoni sono versati su un conto corrente fruttifero della Banca d'Italia, intestato al Ministro per i lavori pubblici, il quale provvede alla ripartizione fra i vari consorzi.
+
+All'atto della decorrenza del sovracanone di cui sopra, cessano gli obblighi derivanti dall'art. 52 del citato testo unico, approvato con regio decreto 11 dicembre 1933, n. 1775.
+
+I Comuni rivieraschi che abbiano stipulato con i concessionari convenzioni, patti e contratti in applicazione dell'articolo stesso hanno facolta' di chiederne il mantenimento in vigore. In tal caso l'ammontare del sovracanone di cui al presente articolo sara' decurtato del valore della prestazione. La valutazione di esso, in mancanza di accordo tra le parti, sara' fatta dal Ministro per i lavori pubblici, sentito il Consiglio superiore del lavori pubblici.
+
+Il pagamento del sovracanone, con le modalita' di cui al presente articolo non e' sospeso dalla pendenza della valutazione della prestazione.
+
+Quando una derivazione interessa piu' Comuni o piu' consorzi, il riparto del sovracanone e' stabilito di accordo fra essi entro sei mesi o, in mancanza, dal Ministro per i lavori pubblici, sentito il Consiglio superiore dei lavori pubblici, in relazione ai bisogni delle singole zone e ai danni da esse subiti in conseguenza della derivazione.
+
+Nel caso di consorzio, il sovracanone di cui al presente articolo e' attribuito ad un fondo comune, a disposizione del consorzio o dei consorzi compresi nel perimetro interessato, il quale fondo e' impiegato esclusivamente a favore del progresso economico e sociale delle popolazioni, nonche' ad opere di sistemazione montana che non siano di competenza dello Stato.
+
+Il consorzio dei Comuni predispone annualmente il programma degli investimenti e lo sottopone all'approvazione dell'autorita' competente a norma del presente articolo.
+
+La presente legge e la pubblicazione nella Gazzetta Ufficiale della Repubblica dei decreti determinanti i perimetri dei bacini imbriferi montani non sospendono il corso dei disciplinari di concessione gia' firmati, che contemplano gli oneri di cui all'art. 52 del citato testo unico approvato con regio decreto 11 dicembre 1933, n. 1775.
+
+--------------
+
+AGGIORNAMENTO (1)
+
+La L. 30 dicembre 1959, n. 1254 ha disposto (con l'art. 1) che "Il comma ottavo dell'art. 1 della legge 27 dicembre 1953, n. 959, va cosi' interpretato:
+
+"Tutti i concessionari di grandi derivazioni di acqua per produzione di forza motrice, quando le opere di presa o di prima presa, nel caso di impianti a catena o in serie, anche se appartenenti a piu' concessionari, o il massimo rigurgito a monte determinato dalla presa stessa ricadano in tutto o in parte nel perimetro dei bacini imbriferi montani, sono tenuti al pagamento del sovracanone annuo di lire 1300 per ogni Kw di potenza nominale media concessa.
+
+Il sovracanone e' dovuto anche se sulla relativa concessione non gravino comunque oneri dipendenti dalla applicazione dell'art. 52 del testo unico 11 dicembre 1933, n. 1775, ed anche se si tratti di concessione anteriore al decreto luogotenenziale 20 novembre 1916, numero 1664, o perpetua o gratuita o esente o esentata in tutto o in parte dal canone demaniale"".
+
+Ha inoltre disposto (con l'art. 1) che "Il comma nono dell'art. 1 della legge 27 dicembre 1953, n. 959, va cosi' interpretato:
+
+"Il sovracanone deve essere versato annualmente, per ciascuna concessione, contemporaneamente al pagamento dell'annualita' del canone demaniale ad essa relativa e nel caso di concessioni esenti o esentate dal canone demaniale dalla data in cui questo sarebbe dovuto.
+
+Qualora l'impianto entri in funzione in tutto o in parte prima che cominci a decorrere il canone demaniale, il sovracanone corrispondente alla utilizzazione attuata e' dovuto alla data di entrata in funzione, anche parziale, dell'impianto stesso.
+
+Per le concessioni anteriori al 14 gennaio 1954 per le quali era gia' dovuto a tale data il canone demaniale, deve essere versato il rateo corrispondente al periodo dal 14 gennaio 1954 alla data di decorrenza della prima annualita' immediatamente successiva"".
+
+---------------
+
+AGGIORNAMENTO (2)
+
+La L. 22 dicembre 1980, n. 925 ha disposto (con l'art. 1, comma 1) che "La misura del sovracanone annuo dovuto, ai sensi dell'ottavo comma dell'articolo 1 della legge 27 dicembre 1953, n. 959, dai concessionari di derivazioni d'acqua per produzioni di forza motrice, con potenza nominale media superiore a chilowatt 220, e' rivalutata a lire 4.500 per chilowatt di potenza nominale a decorrere dal 1 gennaio 1980".
+
+Ha inoltre disposto (con l'art. 4) che "la lettera b) del nono comma dell'articolo 1 della legge 27 dicembre 1953, n. 959, deve essere interpretata nel senso che il sovracanone decorre dalla data di entrata in funzione, anche parziale, degli impianti; negli altri casi, pur in pendenza del decreto di concessione".
+
+---------------
+
+AGGIORNAMENTO (3)
+
+Il Decreto 13 novembre 1987 (in G.U. 24/11/1987, n. 93), nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'art. 1, comma 1) che "La misura del sovraccanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959, e successive modificazioni, dai concessionari di derivazioni di acque per produzione di forza motrice, con potenza nominale media superiore a kW 220, e' elevato, per il biennio 1° gennaio 1988-31 dicembre 1989 a L. 10.516 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del testo unico di leggi sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775, e successive modificazioni".
+
+---------------
+
+AGGIORNAMENTO (4)
+
+Il Decreto 24 novembre 1989 (in G.U. 30/11/1989, n. 280), nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925, ha conseguentemente disposto (con l'art. 1, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959, e successive modificazioni, dai concessionari di derivazioni di acqua per produzione di forza motrice, con potenza nominale media superiore a kW 220, e' elevato, per il biennio 1 gennaio 1990-31 dicembre 1991 in L. 11.767 (undicimilasettecentosessantasette) per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del testo unico di leggi sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775, e successive modificazioni".
+
+---------------
+
+AGGIORNAMENTO (5)
+
+Il Decreto 25 novembre 1991 (in G.U. 21/12/1991, n. 299), nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925, ha conseguentemente disposto (con l'art. 1, comma 1) che "La misura del sovraccanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959, e successive modificazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice, con potenza nominale media superiore a Kw 220, e' elevato, per il biennio 1 gennaio 1992-31 dicembre 1993 in L. 13.261 (tredicimiladuecentosessantuno) per ogni Kw di potenza nominale media concessa o riconosciuta ai sensi del testo unico di legge sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775, e successive modificazioni".
+
+---------------
+
+AGGIORNAMENTO (6)
+
+Il Decreto 10 novembre 1993 (in G.U. 16/11/1993, n. 269), nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'art. 1, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959, e successive modificazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice, con potenza nominale media superiore a kW 220, e' elevato, per il biennio 1 gennaio 1994-31 dicembre 1995 in L. 14.521 (quattordicimilacinquecentoventuno) per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del testo unico di leggi sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775, e successive modificazioni".
+
+---------------
+
+AGGIORNAMENTO (7)
+
+Il Decreto 28 novembre 1995 (in G.U. 21/12/1995, n. 297), nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'art. 1, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959, e successive modificazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice, con potenza nominale media superiore a kW 220, e' elevato, per il biennio 1 gennaio 1996-31 dicembre 1997 in L. 15.944 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del testo unico di leggi sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775, e successive modificazioni".
+
+---------------
+
+AGGIORNAMENTO (8)
+
+Il Decreto 27 novembre 1997 (in G.U. 09/01/1998, n. 6), nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'art. 1, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959, e successive modificazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice, con potenza nominale media superiore a kW 220, e' elevata, per il biennio 1 gennaio 1998-31 dicembre 1999, da L. 15.944 a L. 16.677 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del testo unico di leggi sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775, e successive modificazioni".
+
+---------------
+
+AGGIORNAMENTO (9)
+
+Il Decreto 21 dicembre 1999 (in G.U. 04/01/2000, n. 2), nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'art. 1, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959, e successive modificazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice, con potenza nominale media superiore a KW 220, e' elevata, per il biennio 1 gennaio 2000-31 dicembre 2001, da L. 16.677 a L. 17.261 per ogni KW di potenza nominate media concessa o riconosciuta ai sensi del testo unico di leggi sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775, e successive modificazioni".
+
+---------------
+
+AGGIORNAMENTO (11)
+
+La L. 28 dicembre 2001, n. 448, nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'art. 27, comma 10) che "A decorrere dal 1 gennaio 2002 le basi di calcolo dei sovracanoni previsti dagli articoli 1 e 2 della legge 22 dicembre 1980, n. 925, sono fissate rispettivamente in 13 euro e 3,50 euro, fermo restando per gli anni a seguire l'aggiornamento biennale previsto dall'articolo 3 della medesima legge n. 925 del 1980".
+
+---------------
+
+AGGIORNAMENTO (10)
+
+Il Decreto 11 dicembre 2001 (in G.U. 21/12/2001, n. 296), nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'articolo unico, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959, e successive modificazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice, con potenza nominale media superiore a kW 220, e' elevata, per il biennio 1 gennaio 2002 - 31 dicembre 2003, da L. 17.261 a L. 18.176 pari ad Euro 9,39 per ogni kw di potenza nominale media concessa o riconosciuta ai sensi del testo unico di leggi sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775, e successive modificazioni".
+
+---------------
+
+AGGIORNAMENTO (12)
+
+Il Decreto 2 maggio 2002 (in G.U. 17/08/2002, n. 192) nel modificare l'art. 1, comma 1 del Decreto 11 dicembre 2001 (in G.U. 21/12/2001, n. 296), che a sua volta modifica l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 a conseguentemente disposto (con l'art. 1, comma 1) che "A modifica del decreto n. 10158 dell'11 dicembre 2001 citato nelle premesse, la misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959, e successive modificazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice, con potenza nominale media superiore a KW 270 e' elevata, per il biennio 1° gennaio 2002-31 dicembre 2003, a 13 euro per ogni KW di potenza nominale media concessa o riconosciuta ai sensi del testo unico di leggi sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775, e successive modificazioni".
+
+---------------
+
+AGGIORNAMENTO (14)
+
+Il Decreto 9 febbraio 2004 (in G.U. 03/03/2004, n. 52), nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'articolo unico, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959, e successive modificazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice, con potenza nominale media superiore a KW 220, e' elevata, per il biennio 1° gennaio 2004-31 dicembre 2005, da Euro 18,00 a Euro 18,90 per ogni KW di potenza nominale media concessa o riconosciuta ai sensi del testo unico di leggi sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775, e successive modificazioni".
+
+---------------
+
+AGGIORNAMENTO (13)
+
+L. 27 dicembre 2002, n. 289 nel modificare l'art. 27, comma 10 della L. 28 dicembre 2001, n. 448 che a sua volta modifica l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'art. 31, comma 10) che "a decorrere dal 1 gennaio 2003, le basi di calcolo dei sovracanoni di cui al comma 10 del presente articolo, sono fissate rispettivamente in 18 euro e 4,50 euro".
+
+---------------
+
+AGGIORNAMENTO (15)
+
+Il Decreto 30 novembre 2005, (in G.U. 14/12/2005, n. 290), nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'articolo unico, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959, e successive modificazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice, con potenza nominale media superiore a kW 220, e' elevata, per il biennio l° gennaio 2006-31 dicembre 2007, da Euro 18,90 a Euro 19,62 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del testo unico dileggi sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775, e successive modificazioni".
+
+---------------
+
+AGGIORNAMENTO (16)
+
+Il Decreto 27 novembre 2007 (in G.U. 05/12/2007, n. 283), nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'articolo unico, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959, e successive modificazioni ed integrazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice, con potenza nominale media superiore a kW 220, e' elevata, per il biennio 1° gennaio 2008 - 31 dicembre 2009, da Euro 19,62 a Euro 20,35 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del testo unico di leggi sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775, e successive modificazioni ed integrazioni".
+
+---------------
+
+AGGIORNAMENTO (17)
+
+Il Decreto 25 novembre 2009 (in G.U. 04/12/2009, n. 283), nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'articolo unico, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959 e successive modificazioni ed integrazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice, con potenza nominale media superiore a kW 220, e' elevata, per il biennio 1° gennaio 2010-31 dicembre 2011, da € 20,35 a € 21,08 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del testo unico di leggi sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775 e successive modificazioni ed integrazioni".
+
+---------------
+
+AGGIORNAMENTO (18)
+
+Il D.L. 31 maggio 2010, n. 78, convertito, con modificazioni, dalla L. 30 luglio 2010, n. 122, nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'art. 15, comma 6) che "Per i comuni e i consorzi dei bacini imbriferi montani, a decorrere dal 1 gennaio 2010, le basi di calcolo dei sovracanoni previsti agli articoli 1 e 2 della legge 22 dicembre 1980, n. 925, per le concessioni di grande derivazione di acqua per uso idroelettrico, sono fissate rispettivamente in 28,00 euro e 7,00 euro, fermo restando per gli anni a seguire l'aggiornamento biennale previsto dall'articolo 3 della medesima legge n. 925 del 1980 alle date dalla stessa previste".
+
+---------------
+
+AGGIORNAMENTO (19)
+
+Il Decreto 30 novembre 2011 (in G.U. 25/01/2012, n. 20), nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'art. 1, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925 dovuto, a norma della legge 27 dicembre 1953, n. 959 e successive modifiche ed integrazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice con potenza nominale media superiore a kW 220 e fino a 3000 kW, e' elevata per il biennio 1° gennaio 2012 - 31 dicembre 2013, da € 21,08 (Decreto ministeriale 25 novembre 2009, n. 012/Qdv) a €22,13 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del testo unico delle leggi sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775 e successive modifiche ed integrazioni".
+
+Ha inoltre disposto (con l'art. 2, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925 dovuto, a norma della legge 27 dicembre 1953, n. 959 e successive modifiche ed integrazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice con potenza nominale media superiore a 3000 kW, e' elevata per il biennio 1° gennaio 2012 - 31 dicembre 2013, da €28,00 (legge 30 luglio 2010, n. 122 - art. 15, comma 6) a € 29,40 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del testo unico delle leggi sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775 e successive modifiche ed integrazioni".
+
+---------------
+
+AGGIORNAMENTO (21)
+
+Il Decreto 22 novembre 2013 (in G.U. 5/12/2013, n. 285), nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'art. 1, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959 e successive modificazioni ed integrazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice con potenza nominale media superiore a kW 220 e fino a 3000 kW, e' elevata per il biennio 1° gennaio 2014 - 31 dicembre 2015, da € 22,13 (D.M. 30 novembre 2011 n. 002/TRI/DI/BIM) a € 22,88 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del Testo Unico delle disposizioni di legge sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933 n. 1775 e successive modificazioni ed integrazioni". Ha inoltre disposto (con l'art. 2, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980 n. 925, dovuto a norma della legge 27 dicembre 1953 n. 959 e successive modificazioni ed integrazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice con potenza nominale media superiore a 3000 kW, e' elevata per il biennio 1 gennaio 2014 - 31 dicembre 2015, da € 29,40 (D.M. 30 novembre 2011 n. 002/TRI/DI/BIM ) a € 30,40 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del Testo Unico delle disposizioni di legge sulle acque e sugli impianti elettrici approvato con Regio Decreto 11 dicembre 1933 n. 1775 e successive modificazioni ed integrazioni".
+
+---------------
+
+AGGIORNAMENTO (22)
+
+Il Decreto 30 novembre 2015 (in G.U. 22/12/2015, n. 297), nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'art. 1, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959 e successive modificazioni ed integrazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice con potenza nominale media superiore a kW 220 e fino a 3000 kW, e' elevata per il biennio 1° gennaio 2016 - 31 dicembre 2017, da € 22,88 (decreto ministeriale 22 novembre 2013, n. 003/TRI/DI/BIM) a € 22,90 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del Testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775 e successive modificazioni ed integrazioni".
+
+Ha inoltre disposto (con l'art. 2, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959 e successive modificazioni ed integrazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice con potenza nominale media superiore a 3000 kW, e' elevata per il biennio 1° gennaio 2016 - 31 dicembre 2017, da € 30,40 (decreto ministeriale 22 novembre 2013, n. 003/TRI/DI/BIM) a € 30,43 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del Testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775 e successive modificazioni ed integrazioni".
+
+---------------
+
+AGGIORNAMENTO (23)
+
+Il Decreto 20 gennaio 2016 (in G.U. 12/02/2016, n. 35), nel modificare l'art. 1, comma 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'art. 1, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980 n. 925, dovuto a norma della legge 27 dicembre 1953 n. 959 e successive modificazioni ed integrazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice con potenza nominale media superiore a 220 kW, e' fissata per il periodo 2 febbraio 2016 - 31 dicembre 2017 in € 30,43 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del Testo Unico delle disposizioni di legge sulle acque e sugli impianti elettrici, approvato con regio decreto 11 dicembre 1933 n. 1775 e successive modificazioni ed integrazioni".
+
+---------------
+
+AGGIORNAMENTO (24)
+
+Il Decreto 21 dicembre 2017 (in G.U. 23/01/2018, n. 18), nel modificare l'art. 1 della L. 22 dicembre 1980, n. 925 ha conseguentemente disposto (con l'art. 1, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980 n. 925, dovuto a norma della legge 27 dicembre 1953 n. 959 e successive modificazioni ed integrazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice con potenza nominale media superiore a 220 kW, e' fissata per il biennio 1° gennaio 2018 - 31 dicembre 2019, in € 30,67 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del Testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933 n. 1775 e successive modificazioni ed integrazioni".
+
+---------------
+
+AGGIORNAMENTO (25)
+
+Il Decreto 12 febbraio 2020 (in G.U. 26/02/2020, n. 48), nel modificare l'art. 1 della L. 22 dicembre 1980, n. 925, ha conseguentemente disposto (con l'art. 1, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959 e successive modificazioni ed integrazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice con potenza nominale media superiore a 220 kW, e' fissata per il biennio 1° gennaio 2020 - 31 dicembre 2021, in euro 31,13 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775 e successive modificazioni ed integrazioni".
+
+---------------
+
+AGGIORNAMENTO (26)
+
+Il Decreto 15 dicembre 2021 (in G.U. 07/02/2022, n. 31), nel modificare l'art. 1 della L. 22 dicembre 1980, n. 925, ha conseguentemente disposto (con l'art. 1, comma 1) che "La misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959 e successive modificazioni ed integrazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice con potenza nominale media superiore a 220 kW, e' fissata per il biennio 1° gennaio 2022 - 31 dicembre 2023, in euro 31,97 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici approvato con r.d. 11 dicembre 1933, n. 1775 e successive modificazioni ed integrazioni".
+
+---------------
+
+AGGIORNAMENTO (27)
+
+Il Decreto 25 febbraio 2022 (in G.U. 15/03/2022, n. 62), nel modificare l'art. 1 della L. 22 dicembre 1980, n. 925, ha conseguentemente disposto (con l'art. 1, comma 1) che "In rettifica del decreto direttoriale 15 dicembre 2021, n. 254, la misura del sovracanone annuo di cui all'art. 1 della legge 22 dicembre 1980, n. 925, dovuto a norma della legge 27 dicembre 1953, n. 959 e successive modificazioni ed integrazioni, dai concessionari di derivazioni d'acqua per produzione di forza motrice con potenza nominale media superiore a 220 kW, e' fissata per il biennio 1° gennaio 2022 - 31 dicembre 2023, in euro 31,94 per ogni kW di potenza nominale media concessa o riconosciuta ai sensi del testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775 e successive modificazioni ed integrazioni".
+
+## Art. 2
+
+Qualora non si raggiunga la maggioranza prevista dal secondo comma dell'art. 1 per la costituzione del consorzio obbligatorio, il sovracanone che deve essere pagato dai concessionari di grandi derivazioni d'acqua per forza motrice ai sensi del precedente articolo, sara' versato su di apposito conto corrente fruttifero della Banca d'Italia intestato al Ministero dei lavori pubblici, il quale provvedera' con decreto alla ripartizione della somma tra i vari Comuni interessati, in base ai criteri stabiliti nell'articolo stesso.
+
+((A decorrere dall'esercizio 2012, nel caso di cui al primo comma, il sovracanone e' versato direttamente ai comuni)).
+
+## Art. 3
+
+I consorzi previsti dall'art. 1, o nel caso che i consorzi non si fossero costituiti, i Comuni compresi nel bacino imbrifero montano possono chiedere, in sostituzione del sovracanone previsto dall'articolo stesso ((...)) la fornitura diretta di energia elettrica.
+
+La quantita' di tale energia da concedersi secondo le richieste dei Comuni o dei consorzi e' consegnata alle centrali di produzione oppure dalle linee di trasmissione esistenti o dalle cabine di trasformazione esistenti, piu' vicine o meglio ubicate rispetto ai Comuni interessati, ed a scelta di questi:
+
+a) per la consegna annua valutata in centrale ad alta tensione: chilowattora 400 per chilowatt di potenza nominale media;
+
+b) per la consegna annua valutata in cabina di trasformazione a bassa tensione: chilowattora 300, per chilowatt di potenza nominale media.
+
+I consorzi e i Comuni interessati potranno chiedere la fornitura di energia invece del sovracanone dopo che il Ministro per i lavori pubblici avra' emanato il decreto di ripartizione del sovracanone ai sensi dell'art. 1.
+
+## Art. 4
+
+Le disposizioni della presente legge non si applicano agli enti di diritto pubblico in quanto concessionari di grandi derivazioni d'acqua a scopo potabile o irriguo e per i quali la produzione di energia elettrica sia di natura esclusivamente stagionale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 27 dicembre 1953
+
+EINAUDI
+
+PELLA - MERLIN - FANFANI - SALOMONE - GAVA -
+
+VANONI
+
+Visto, il Guardasigilli: AZARA

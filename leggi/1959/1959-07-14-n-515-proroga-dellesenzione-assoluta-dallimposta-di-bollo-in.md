@@ -1,0 +1,40 @@
+---
+title: "LEGGE 14 luglio 1959, n. 515 — Proroga dell'esenzione assoluta dall'imposta di bollo in materia di assicurazioni sociali obbligatorie e di assegni familiari."
+identifier: "urn:nir:stato:legge:1959-07-14;515"
+eli: "https://www.normattiva.it/eli/id/1959/07/27/059U0515/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1959-07-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 178 del 1959-07-27"
+codice_redazionale: "059U0515"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;515"
+retrieved: 2026-10-11
+---
+
+# LEGGE 14 luglio 1959, n. 515
+
+**Proroga dell'esenzione assoluta dall'imposta di bollo in materia di assicurazioni sociali obbligatorie e di assegni familiari.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Articolo unico
+
+Con effetto dal 1 gennaio 1959, il termine di validita' dell'esenzione assoluta dall'imposta di bollo in materia di assicurazioni sociali obbligatorie e di assegni familiari, stabilito dall'articolo 1 della legge 15 marzo 1956, n. 165, e' prorogato al 31 dicembre 1963.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 14 luglio 1959
+
+GRONCHI
+
+SEGNI - TAVIANI - ZACCAGNINI
+
+Visto, il Guardasigilli: GONELLA

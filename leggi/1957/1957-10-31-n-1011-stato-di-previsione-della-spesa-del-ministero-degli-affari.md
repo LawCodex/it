@@ -1,0 +1,74 @@
+---
+title: "LEGGE 31 ottobre 1957, n. 1011 — Stato di previsione della spesa del Ministero degli affari esteri per l'esercizio finanziario dal 1 luglio 1957 al 30 giugno 1958."
+identifier: "urn:nir:stato:legge:1957-10-31;1011"
+eli: "https://www.normattiva.it/eli/id/1957/10/31/057U1011/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1957-10-31
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 270 del 1957-10-31"
+codice_redazionale: "057U1011"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-31;1011"
+retrieved: 2026-10-11
+---
+
+# LEGGE 31 ottobre 1957, n. 1011
+
+**Stato di previsione della spesa del Ministero degli affari esteri per l'esercizio finanziario dal 1 luglio 1957 al 30 giugno 1958.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+E' autorizzato il pagamento delle spese ordinarie e straordinarie del Ministero degli affari esteri per l'esercizio finanziario dal 1 luglio 1957 al 30 giugno 1958, in conformita' dello stato di previsione annesso alla presente legge.
+
+## Art. 2
+
+Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, e su proposta del Ministro degli affari, esteri, le variazioni compensative fra i capitoli numeri 8, 9, 55 e 57 dello stato di previsione del Ministero degli affari esteri per l'esercizio finanziario 1957-1958, connesse con l'attuazione della legge 30 giugno 1956, n. 775, concernente l'istituzione di un "Ruolo speciale transitorio ad esaurimento" presso il detto Ministero.
+
+## Art. 3
+
+La spesa occorrente per assicurare il funzionamento dell'Amministrazione fiduciaria della Somalia e' determinata, per l'esercizio finanziario 1957-58, ai sensi dell'art. 5 della legge 4 novembre 1951, n. 1301, in lire 4.000.000.000.
+
+## Art. 4
+
+E' approvato il bilancio dell'Istituto agronomico per l'Africa italiana, per l'esercizio finanziario 1957-58, allegato allo stato di previsione della spesa del Ministero degli affari esteri (Appendice n. 1).
+
+## Art. 5
+
+Il contributo annuo dello Stato a pareggio del bilancio dell'Istituto agronomico per l'Africa italiana, per l'esercizio finanziario 1957-58, e' stabilito in lire 48.660.000.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 31 ottobre 1957
+
+GRONCHI
+
+ZOLI - MEDICI
+
+Visto, il Guardasigilli: GONELLA
+
+## Allegati
+
+## Allegato
+
+Stato di previsione della spesa del Ministero degli affari esteri per l'esercizio finanziario dal 1 luglio 1957 al 30 giugno 1958
+
+Parte di provvedimento in formato grafico
+
+APPENDICE N. 1
+
+Stato di previsione dell'entrata dell'Istituto agronomico per l'Africa italiana per l'esercizio finanziario dal 1 luglio 1957 al 30 giugno 1958
+
+Parte di provvedimento in formato grafico
+
+Stato di previsione della spesa dell'Istituto agronomico per l'Africa italiana per l'esercizio finanziario dal 1 luglio 1957 al 30 giugno 1958
+
+Parte di provvedimento in formato grafico

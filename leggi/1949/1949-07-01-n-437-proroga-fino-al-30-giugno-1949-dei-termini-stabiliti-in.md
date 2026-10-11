@@ -1,0 +1,42 @@
+---
+title: "LEGGE 01 luglio 1949, n. 437 — Proroga fino al 30 giugno 1949 dei termini stabiliti in provvedimenti speciali di approvazione dei piani regolatori particolareggiati per l'inizio e l'ultimazione di nuovi fabbricati."
+identifier: "urn:nir:stato:legge:1949-07-01;437"
+eli: "https://www.normattiva.it/eli/id/1949/07/27/049U0437/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1949-07-01
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 170 del 1949-07-27"
+codice_redazionale: "049U0437"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-07-01;437"
+retrieved: 2026-10-11
+---
+
+# LEGGE 01 luglio 1949, n. 437
+
+**Proroga fino al 30 giugno 1949 dei termini stabiliti in provvedimenti speciali di approvazione dei piani regolatori particolareggiati per l'inizio e l'ultimazione di nuovi fabbricati.**
+
+La Camera dei deputati ed il Senato della, Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Articolo unico
+
+Ai fini dell'esenzione venticinquennale dalla normale imposta sui fabbricati e dalle relative sovrimposte comunali e provinciali, nonche' delle agevolazioni concernenti le tasse e le imposte indirette sugli affari, sono prorogati fino al 30 giugno 1949 i termini fissati in provvedimenti speciali di approvazione di piani regolatori particolareggiati, per l'inizio e l'ultimazione di nuovi fabbricati, quando i lavori relativi non abbiano potuto essere iniziati ed ultimati per effetto dei divieti di nuove costruzioni stabiliti dal regio decreto-legge 19 giugno 1910, n. 953, convertito nella legge 28 novembre 1940, n. 1727, e col regio decreto-legge 14 novembre 1941, n. 1231, convertito, con modificazioni, nella legge 19 gennaio 1942, n. 9.
+
+Resta ferma, in ogni caso, la decorrenza dell'esenzione venticinquennale dal giorno successivo alla scadenza del termine di ultimazione originariamente stabilito dai rispettivi provvedimenti di approvazione dei piani regolatori ovvero da quelli emanati per l'esecuzione dei medesimi.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della. Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a. Roma, addi' 1 luglio 1949
+
+EINAUDI
+
+Da GASPERI - TUPINI - VANONI
+
+Visto, il Guardasigilli: GRASSI

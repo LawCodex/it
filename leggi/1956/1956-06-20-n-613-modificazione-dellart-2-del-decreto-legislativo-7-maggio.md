@@ -1,0 +1,45 @@
+---
+title: "LEGGE 20 giugno 1956, n. 613 — Modificazione dell'art. 2 del decreto legislativo 7 maggio 1948, n. 1188, concernente istituzione del ruolo dei professori di storia dell'arte nei licei classici."
+identifier: "urn:nir:stato:legge:1956-06-20;613"
+eli: "https://www.normattiva.it/eli/id/1956/07/06/056U0613/CONSOLIDATED/20091214"
+type: act
+jurisdiction: it
+language: it
+date: 1956-06-20
+last_amended: 2009-12-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 166 del 1956-07-06"
+codice_redazionale: "056U0613"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-06-20;613"
+retrieved: 2026-10-11
+---
+
+# LEGGE 20 giugno 1956, n. 613
+
+**Modificazione dell'art. 2 del decreto legislativo 7 maggio 1948, n. 1188, concernente istituzione del ruolo dei professori di storia dell'arte nei licei classici.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge;
+
+## Articolo unico
+
+L'art. 2 del decreto legislativo 7 maggio 1948, n. 1188, e' sostituito dal seguente:
+
+"Nei licei classici e' istituita una cattedra di ruolo di storia dell'arte per ogni tre corsi completi.
+
+"Gli insegnanti di storia dell'arte sono tenuti a completare l'orario, nella stessa materia fino a sedici ore settimanali nei corsi collaterali o classi aggiunte, senza alcun diritto a compenso speciale".
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 20 giugno 1956
+
+GRONCHI
+
+SEGNI - ROSSI - MEDICI
+
+Visto, il Guardasigilli: MORO

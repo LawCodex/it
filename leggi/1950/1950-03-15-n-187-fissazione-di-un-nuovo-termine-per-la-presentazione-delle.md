@@ -1,0 +1,42 @@
+---
+title: "LEGGE 15 marzo 1950, n. 187 — Fissazione di un nuovo termine per la presentazione delle domande di cui all'art. 7 della legge 9 novembre 1949, n. 939, relativa alla riparazione dei danni causati dai terremoti verificatisi nelle Puglie, nelle province di Arezzo, Perugia, Grosseto, Siena, Rieti, Terni e Udine."
+identifier: "urn:nir:stato:legge:1950-03-15;187"
+eli: "https://www.normattiva.it/eli/id/1950/05/05/050U0187/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1950-03-15
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 103 del 1950-05-05"
+codice_redazionale: "050U0187"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-03-15;187"
+retrieved: 2026-10-11
+---
+
+# LEGGE 15 marzo 1950, n. 187
+
+**Fissazione di un nuovo termine per la presentazione delle domande di cui all'art. 7 della legge 9 novembre 1949, n. 939, relativa alla riparazione dei danni causati dai terremoti verificatisi nelle Puglie, nelle province di Arezzo, Perugia, Grosseto, Siena, Rieti, Terni e Udine.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Articolo unico
+
+Per la presentazione delle domande di sussidio di cui all'art. 7 della legge 9 novembre 1949, n. 939, relativa alla riparazione dei danni causati dai terremoti verificatisi nelle Puglie e nelle province di Arezzo, Perugia, Grosseto, Siena, Rieti, Terni e Udine, e' fissato un nuovo termine di 90 giorni a decorrere dalla entrata in vigore della presente legge.
+
+Sono considerate valide le domande presentate dopo il 31 dicembre 1949, scadenza del termine fissato nel sopracitato articolo.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 15 marzo 1950
+
+EINAUDI
+
+DE GASPERI - ALDISIO - SCELBA - VANONI - PELLA
+
+Visto, il Guardasigilli: PICCIONI

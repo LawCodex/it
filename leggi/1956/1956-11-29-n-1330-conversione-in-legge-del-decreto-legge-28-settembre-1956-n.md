@@ -1,0 +1,40 @@
+---
+title: "LEGGE 29 novembre 1956, n. 1330 — Conversione in legge del decreto-legge 28 settembre 1956, n. 1110, concernente la modificazione dei dazi di importazione applicati sugli oli di petrolio, oli provenienti dalla lavorazione dei catrami paraffinici di lignite, di torba, di schisti e simili, altri residui della lavorazione da usare direttamente come combustibili esclusivamente nelle caldaie e nei forni."
+identifier: "urn:nir:stato:legge:1956-11-29;1330"
+eli: "https://www.normattiva.it/eli/id/1956/11/30/056U1330/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1956-11-29
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 303 del 1956-11-30"
+codice_redazionale: "056U1330"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-11-29;1330"
+retrieved: 2026-10-11
+---
+
+# LEGGE 29 novembre 1956, n. 1330
+
+**Conversione in legge del decreto-legge 28 settembre 1956, n. 1110, concernente la modificazione dei dazi di importazione applicati sugli oli di petrolio, oli provenienti dalla lavorazione dei catrami paraffinici di lignite, di torba, di schisti e simili, altri residui della lavorazione da usare direttamente come combustibili esclusivamente nelle caldaie e nei forni.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Articolo unico
+
+E' convertito in legge il decreto-legge 28 settembre 1956, n. 1110, concernente la modificazione del dazio doganale applicato sui residui della lavorazione degli oli minerali da usare direttamente come combustibili nelle caldaie e nei forni.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 29 novembre 1956
+
+GRONCHI
+
+SEGNI - ANDREOTTI - ZOLI - MEDICI - CORTESE - MATTARELLA
+
+Visto, il Guardasigilli: MORO

@@ -1,0 +1,89 @@
+---
+title: "LEGGE 25 luglio 1956, n. 859 — Modifiche alla legge 17 luglio 1954, n. 522, concernente provvedimenti a favore dell'industria delle costruzioni navali e dell'armamento."
+identifier: "urn:nir:stato:legge:1956-07-25;859"
+eli: "https://www.normattiva.it/eli/id/1956/08/10/056U0859/CONSOLIDATED/20091214"
+type: act
+jurisdiction: it
+language: it
+date: 1956-07-25
+last_amended: 2009-12-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 200 del 1956-08-10"
+codice_redazionale: "056U0859"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-25;859"
+retrieved: 2026-10-11
+---
+
+# LEGGE 25 luglio 1956, n. 859
+
+**Modifiche alla legge 17 luglio 1954, n. 522, concernente provvedimenti a favore dell'industria delle costruzioni navali e dell'armamento.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+L'art. 24 della legge 17 luglio 1954, n. 522, recante provvedimenti a favore dell'industria delle costruzioni navali e dell'armamento e' sostituito dal seguente:
+
+"La presente legge avra' effetto per dieci esercizi finanziari a partire dall'esercizio 1954-55.
+
+"((Per far fronte all'onere derivante dalla concessione dei contributi ai sensi dei precedenti titoli II e III e' autorizzata la spesa di lire 104.750.000.000 da iscriversi negli stati di previsione del Ministero della marina mercantile per gli esercizi finanziari dal 1954-55 al 1964-65, secondo, la ripartizione seguente:
+
+L. 7.750.000.000 per l'esercizio finanziario 1954-55
+
+" 5.000.000.000 " " " 1955-56
+
+" 8.000.000.000 " " " 1956-57
+
+" 9.000.000.000 " " " 1957-58
+
+" 10.000.000.000 " " " 1958-59
+
+" 15.000.000.000 " " " 1959-60
+
+" 13.000.000.000 " " " 1960-61
+
+" 13.000.000.000 " " " 1961-62
+
+" 13.000.000.000 " " " 1962-63
+
+" 7.000.000.000 " " " 1963-64
+
+" 4.000.000.000 " " " 1964-65)).
+
+"Gli impegni assunti in forza della presente legge verranno ripartiti e contenuti in misura non eccedente l'ammontare delle singole quote di autorizzazioni annuali di cui al precedente comma in relazione al presumibile sviluppo dei lavori per le unita' ammesse ai benefici.
+
+"Le eventuali somme non impegnate nei singoli esercizi sulle autorizzazioni di spesa di cui al comma precedente potranno essere utilizzate negli esercizi successivi entro il termine di cui al primo comma del presente articolo.
+
+"Per i lavori di riparazione, modificazione e trasformazione puo' essere utilizzata una somma non superiore a un decimo degli indicati stanziamenti.
+
+"Con appositi articoli delle leggi di approvazione degli stati di previsione della spesa dei Ministeri della difesa e della marina mercantile per gli esercizi suddetti sara' autorizzato l'onere concernente gli apprestamenti difensivi sulle navi di cui all'art. 25 del regio decreto-legge 19 settembre 1935, n. 1836, convertito nella legge 9 gennaio 1936, n. 147.
+
+"Per l'esercizio finanziario 1954-55 e' autorizzata la spesa di lire 250.000.000 per l'applicazione dell'art. 2 della presente legge e per gli apprestamenti difensivi di cui al comma precedente".
+
+## Art. 2
+
+Le somme gia' autorizzate o in corso di autorizzazione per gli esercizi 1954-55, 1955-56 e 1956-57, ai fini dell'applicazione della legge 17 luglio 1954, n. 522, si intendono comprese nelle autorizzazioni di cui al precedente art. 1.
+
+## Art. 3
+
+Le disposizioni di cui all'art. 1 della presente legge hanno effetto dalla data di entrata in vigore della legge 17 luglio 1954, n. 522, salvo il disposto del primo comma dell'art. 25 della legge stessa.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 25 luglio 1956
+
+GRONCHI
+
+SEGNI - CASSIANI - MORO - ZOLI - ANDREOTTI -
+
+MEDICI - TAVIANI -
+
+CORTESE - MATTARELLA
+
+Visto, il Guardasigilli: MORO

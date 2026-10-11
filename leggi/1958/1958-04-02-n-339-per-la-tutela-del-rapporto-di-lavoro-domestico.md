@@ -1,0 +1,293 @@
+---
+title: "LEGGE 02 aprile 1958, n. 339 — Per la tutela del rapporto di lavoro domestico."
+identifier: "urn:nir:stato:legge:1958-04-02;339"
+eli: "https://www.normattiva.it/eli/id/1958/04/17/058U0339/CONSOLIDATED/20091214"
+type: act
+jurisdiction: it
+language: it
+date: 1958-04-02
+last_amended: 2009-12-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 93 del 1958-04-17"
+codice_redazionale: "058U0339"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-04-02;339"
+retrieved: 2026-10-11
+---
+
+# LEGGE 02 aprile 1958, n. 339
+
+**Per la tutela del rapporto di lavoro domestico.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+Norme generali
+
+La presente legge si applica, ai rapporti di lavoro concernenti gli addetti ai servizi domestici che prestano la loro opera, continuativa e prevalente, di almeno 4 ore giornaliere presso lo stesso datore di lavoro, con retribuzione in denaro o in natura. S'intendono per addetti ai servizi personali domestici i lavoratori di ambo i sessi che prestano a qualsiasi titolo la loro opera per il funzionamento della vita familiare sia che si tratti di personale con qualifica specifica, sia che si tratti di personale adibito a mansioni generiche.
+
+## Art. 2
+
+Collocamento e avviamento al lavoro
+
+L'assunzione del personale domestico avviene direttamente, con l'obbligo per il datore di lavoro di denunciare, entro trenta giorni dal compimento del periodo di prova, l'avvenuta assunzione al competente Ufficio di collocamento, di cui alla legge 29 aprile 1949, n. 264.
+
+Le associazioni di categoria, a carattere nazionale e i patronati di assistenza, debitamente autorizzati dal Ministero del lavoro e della previdenza sociale, possono occuparsi dell'avviamento al lavoro, dando comunicazione entro trenta giorni ai competenti uffici ministeriali dell'avvenuto collocamento.
+
+E' vietata l'attivita' di mediatorato comunque svolta anche se autorizzata anteriormente alla data di pubblicazione della presente legge.
+
+## Art. 3
+
+Assunzione
+
+Ai fini dell'assunzione il lavoratore deve presentare i seguenti documenti personali:
+
+1\) libretto di lavoro ai sensi della legge 10 gennaio 1935, n. 112;
+
+2\) tessere e libretto delle assicurazioni sociali di cui al regolamento approvato con regio decreto 28 agosto 1924, n. 1422, in quanto ne sia in possesso;
+
+3\) carta d'identita' o documento equipollente;
+
+4\) tessera sanitaria ai sensi della legge 22 giugno 1939, n. 1239.
+
+## Art. 4
+
+Lavoratori minorenni
+
+Il datore di lavoro che intende assumere un lavoratore minorenne dovra' farsi rilasciare, da chi esercita la patria potesta', una dichiarazione scritta e vidimata dal sindaco del Comune di residenza del lavoratore, in cui si consente al minorenne di convivere presso la famiglia dal datore di lavoro. Tale dichiarazione impegna il datore di lavoro a particolare cura del minorenne per lo sviluppo e il rispetto della sua personalita' fisica, morale e professionale.
+
+In caso di licenziamento il datore di lavoro e' obbligato a darne preventiva comunicazione a chi esercita la patria potesta'.
+
+## Art. 5
+
+Periodo di prova
+
+I lavoratori, di cui all'art. 1 della presente legge, con mansioni impiegatizie (precettori, istitutori, governanti, bambinaie diplomate, maggiordomi, dame di compagnia) ed altri lavoratori aventi analoghe funzioni sono soggetti ad un periodo di prova, regolarmente retribuito, che non puo' essere superiore ad un mese.
+
+I prestatori d'opera manuale specializzata o generica (cuochi, giardinieri, balie, guardarobiere, bambinaie comuni, cameriere, domestiche tuttofare, custodi, portieri privati, personale di fatica, stallieri, lavandaie) ed, altri lavoratori aventi simili mansioni sono soggetti ad un periodo di prova, regolarmente retribuito, della durata massima di otto giorni lavorativi consecutivi.
+
+Durante il periodo di prova ciascuna delle parti puo' recedere dal contratto senza obbligo di preavviso o di indennita'.
+
+Il lavoratore, che ha superato il periodo di prova senza aver ricevuto disdetta, s'intende automaticamente confermato. Il servizio prestato durante il periodo di prova va computato a tutti gli effetti dell'anzianita'.
+
+## Art. 6
+
+Diritti e doveri
+
+Il lavoratore e' tenuto a:
+
+prestare la propria opera con la dovuta diligenza secondo le necessita', e gli interessi della famiglia per la quale lavora, seguendo le disposizioni dei datori di lavoro((...)).
+
+Il datore di lavoro e' tenuto a:
+
+corrispondere puntualmente al lavoratore la remunerazione alle condizioni stabilite e comunque a periodi di tempo non superiori al mese;
+
+fornire al lavoratore, nel caso in cui vi sia l'impegno del vitto e dell'alloggio, un ambiente che non sia nocivo alla integrita' fisica e morale del lavoratore stesso, nonche' una nutrizione sana e sufficiente;
+
+tutelarne la salute particolarmente qualora vi siano in famiglia fonti di infezione; ((...))
+
+lasciare al lavoratore il tempo necessario per adempiere agli obblighi civili ed ai doveri essenziali del suo culto.
+
+## Art. 7
+
+Riposo settimanale
+
+Il lavoratore ha diritto ad un riposo settimanale di una giornata intera, di regola coincidente con la domenica, o di due mezze giornate, una delle quali coincidente con la domenica.
+
+## Art. 8
+
+Orario di lavoro e riposi
+
+Il lavoratore ha diritto ad un conveniente riposo durante il giorno e a non meno di 8 ore, consecutive di riposo notturno.
+
+In caso di necessarie prestazioni notturne spetta un adeguato riposo compensativo durante il giorno.
+
+## Art. 9
+
+Giorni festivi
+
+Sono considerate festive, oltre alle domeniche, le giornate dichiarate tali dalle disposizioni di legge.
+
+Nelle giornate festive infrasettimanali spetta al lavoratore un permesso di mezza giornata senza, alcuna decurtazione della normale retribuzione.
+
+## Art. 10
+
+Ferie
+
+Ai lavoratori, dopo un anno di ininterrotto servizio, spetta un periodo di ferie annuali con corresponsione della retribuzione, nella misura e con le modalita' appresso indicate.
+
+La durata del periodo di ferie non puo' essere inferiore:
+
+a) per il personale impiegatizio di cui all'art. 5, primo comma, a quindici giorni consecutivi fino a cinque anni di anzianita'; a venticinque giorni consecutivi per anzianita' superiore;.
+
+b) per i prestatori d'opera manuale di cui all'articolo 5, comma secondo, a quindici giorni consecutivi fino a cinque anni di anzianita'; a venti giorni per anzianita' superiore.
+
+Al lavoratore che usufruisce del vitto e dell'alloggio spetta per il periodo di ferie - ove non usufruisca durante tale periodo di dette corresponsioni - un compenso sostitutivo la cui misura deve essere fissata dalle Commissioni provinciali previste all'art. 12.
+
+In caso di licenziamento - comunque avvenuto - o di dimissioni, al lavoratore che non abbia maturato lo intero diritto alle ferie annuali di cui ai paragrafi a), b), spettano tanti giorni di ferie quanti ne risultano in proporzione al numero dei mesi di anzianita' considerando le frazioni di quindici giorni come mese intero.
+
+## Art. 11
+
+Commissione centrale
+
+Con decreto del Ministro per il lavoro e la previdenza sociale e' istituita la Commissione centrale per la disciplina del lavoro domestico.
+
+La Commissione e' presieduta dal Ministro per il lavoro e la previdenza sociale, o da un suo delegato, ed e' composta:
+
+da un rappresentante del Ministro per l'interno;
+
+da sei rappresentanti dei lavoratori domestici, designati dalle associazioni sindacali di categoria;
+
+da sei persone aventi personale domestico alle proprie dipendenze, scelte, in rappresentanza dei datori di lavoro, dal Ministro per il lavoro e la previdenza sociale su designazione di associazioni rappresentative delle famiglie;
+
+da un rappresentante per ciascuno dei tre enti di patronato piu' rappresentativi, riconosciuti con decreto legislativo del Capo provvisorio dello Stato 29 luglio 1947, n. 804, scelti dal Ministro per il lavoro e la previdenza sociale.
+
+## Art. 12
+
+Commissioni provinciali
+
+In ogni Provincia, con decreto del prefetto e' istituita la Commissione provinciale per il personale domestico.
+
+La Commissione e' presieduta dal direttore dell'Ufficio provinciale del lavoro e della massima occupazione o da un suo delegato, ed e' composta:
+
+da quattro rappresentanti dei lavoratori domestici, designati dalle associazioni sindacali di categoria;
+
+da quattro persone aventi personale domestico alle proprie dipendenze, designate in ogni Provincia dai sindaci dei quattro principali Comuni;
+
+da un rappresentante per ciascuno dei tre enti di patronato piu' rappresentativi, riconosciuti con decreto legislativo del Capo provvisorio dello Stato 29 luglio 1947, n. 804, scelti dal prefetto della Provincia;
+
+da un rappresentante dell'Ispettorato del lavoro;
+
+da un rappresentante della Camera di commercio, industria ed agricoltura.
+
+## Art. 13
+
+Compiti della Commissione centrale
+
+La Commissione centrale ha i seguenti compiti:
+
+a) esprimere pareri e formulare proposte per tutto quanto si riferisce alla disciplina del lavoro domestico ed al coordinamento dell'attivita' delle Commissioni provinciali;
+
+b) esprimere parere sui ricorsi che siano presentati avverso le determinazioni adottate dalle Commissioni provinciali e contro la mancata emissione del decreto prefettizio di cui all'art. 12;
+
+c) formulare proposte per ogni migliore tutela dei lavoratori domestici.
+
+Sulle materie per le quali la Commissione ha competenza ad esprimere parere, il Ministro per il lavoro e la previdenza sociale provvedera', uditi i pareri stessi.
+
+La Commissione e' convocata dal Ministro per il lavoro e la previdenza sociale ogni qual volta ne ravvisi l'opportunita' o quando ne faccia richiesta motivata la maggioranza dei suoi componenti.
+
+## Art. 14
+
+Compiti delle Commissioni provinciali
+
+Le Commissioni provinciali hanno i seguenti compiti:
+
+a) rilevare le retribuzioni medie mensili sul piano provinciale e determinare le tariffe convenzionali relative al vitto ed all'alloggio;
+
+b) stabilire norme regolamentari relative al lavoro domestico nelle Province.
+
+La Commissione provinciale si riunisce su convocazione del suo presidente, od anche su richiesta motivata della maggioranza dei suoi membri.
+
+Le deliberazioni adottate dalla Commissione provinciale sono rese esecutive entro trenta giorni con decreto prefettizio.
+
+Contro il decreto prefettizio di cui al precedente comma o contro la mancata emissione del decreto stesso, e' ammesso ricorso entro trenta giorni al Ministro per il lavoro e la previdenza sociale, il quale decide, sentita la Commissione centrale, entro novanta giorni.
+
+## Art. 15
+
+Congedo matrimoniale
+
+In caso di matrimonio e' concesso ai lavoratori di cui alla presente legge un permesso di quindici giorni consecutivi.
+
+Per tale congedo, che non puo' essere computato nel periodo delle ferie annuali, e' corrisposta la normale retribuzione in denaro ed il corrispettivo di quella in natura, secondo le tariffe convenzionali fissate dalle Commissioni provinciali ai sensi del precedente articolo.
+
+## Art. 16
+
+Preavviso
+
+Il rapporto di lavoro puo' essere risolto dalle parti, salvo il caso di risoluzione immediata per giusta causa, nei seguenti termini:
+
+a) per il personale impiegatizio di cui all'art. 5, comma primo, nei termini di preavviso previsti dal regio decreto-legge 13 novembre 1924, n. 1825, dettante norme sull'impiego privato;
+
+b) per i prestatori d'opera manuale di cui all'art. 5, comma secondo, in quindici giorni di preavviso, qualora non abbiano raggiunto i cinque anni di anzianita'; in trenta giorni per anzianita' pari o superiore ai cinque anni.
+
+Nel caso di mancato preavviso nei termini suddetti, e' dovuta una indennita' pari alla retribuzione corrispondente al periodo di preavviso spettante.
+
+Inoltre al lavoratore che usufruisca, oltre alla retribuzione in denaro, anche del vitto e dell'alloggio, spetta un compenso economico sostitutivo, secondo le tariffe convenzionali fissate dalle Commissioni provinciali ai sensi dell'art. 14.
+
+Il lavoratore ha diritto, durante il periodo di preavviso, alla liberta' necessaria, non inferiore complessivamente ad otto ore settimanali, per la ricerca di un'altra occupazione.
+
+## Art. 17
+
+Indennita' di anzianita'
+
+In caso di licenziamento o di dimissione, salvo che si tratti di licenziamento in tronco, spetta al lavoratore un'indennita' di anzianita' nella seguente misura:
+
+a) per il personale impiegatizio di cui all'art. 5 comma primo, l'indennita' predetta e' commisurata ad una mensilita' della retribuzione in denaro per ogni anno di anzianita', sulla base dell'ultimo stipendio;(2)
+
+b) per i prestatori d'opera manuali di cui all'art. 5, comma secondo, l'indennita' predetta e' commisurata a quindici giorni di retribuzione in denaro, per ogni anno di anzianita' sulla base dell'ultimo stipendio.(1) (2) ((3))
+
+----------------
+
+AGGIORNAMENTO (1)
+
+La Corte Costituzionale con sentenza 27 aprile-4 maggio 1972, n. 85 (in G.U. 1a s.s. del 10/05/1972 n. 122) ha dichiarato l'illegittimita' costituzionale dell'art. 17, comma primo, della legge 2 aprile 1958, n. 339 (per la tutela del rapporto di lavoro domestico), nella parte in cui esclude il diritto del prestatore di lavoro all'indennita' di anzianita' in caso di cessazione del rapporto per licenziamento in tronco.
+
+------------------
+
+AGGIORNAMENTO (2)
+
+La Corte Costituzionale con sentenza 30 maggio-6 giugno 1973, n. 72 (in G.U. 1a s.s. del 13/06/1973 n. 151) ha dichiarato l'illegittimita' costituzionale dell'art. 17, lettere a e b, della legge 2 aprile 1958, n. 339 per la tutela del rapporto di lavoro domestico" nella parte in cui l'indennita' di anzianita', da corrispondere in caso di licenziamento o di dimissioni del personale impiegatizio e dei prestatori d'opera manuali, viene commisurata alla sola retribuzione in denaro e non anche all'equivalente del vitto e dell'alloggio quando queste prestazioni siano convenzionalmente dovute.
+
+------------------
+
+AGGIORNAMENTO (3)
+
+La Corte Costituzionale con sentenza 21-27 marzo 1974, n. 85 (in G.U. 1a s.s. del 03/04/1974 n. 89) ha dichiarato l'illegittimita' costituzionale dell'art. 17, lett. b, della legge 2 aprile 1958, n. 339 (per la tutela del lavoro domestico), nella parte in cui esclude il diritto del prestatore di lavoro alla indennita' di anzianita' quando il rapporto di lavoro sia venuto a cessare prima della scadenza dell'anno.
+
+## Art. 18
+
+Indennita' in caso di morte del lavoratore
+
+In caso di morte del prestatore di lavoro, l'indennita' indicata nell'articolo precedente deve essere corrisposta al coniuge, ai figli e, se vivevano a carico del prestatore di lavoro, ai parenti entro il 3° grado, ed agli affini entro il 2° grado.
+
+In mancanza delle persone indicate nel comma precedente le indennita' sono attribuite secondo le norme della successione legittima.
+
+## Art. 19
+
+13ª mensilita'
+
+Per la corresponsione della 13ª mensilita', vale quanto disposto dalla legge 27 dicembre 1953, n. 940.
+
+## Art. 20
+
+Disposizioni transitorie
+
+L'indennita' di anzianita' di cui all'art. 17 e all'art. 18, dovuta nel caso di licenziamento, dimissione o morte, e' commisurata per le anzianita' maturate anteriormente all'entrata in vigore della presente legge, nel modo seguente:
+
+a) per il lavoratore di cui all'art. 5, comma primo, per ogni anno di anzianita' mezza mensilita' dell'ultima retribuzione in denaro;
+
+b) per i lavoratori di cui all'art. 5, comma secondo, per ogni anno di anzianita' otto giornate dell'ultima retribuzione in denaro.
+
+## Art. 21
+
+Disposizioni finali
+
+Per tutto quanto non espressamente previsto dalla presente legge restano in vigore le disposizioni riguardanti, rispettivamente, i rapporti di impiego e di lavoro domestico.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 2 aprile 1958
+
+GRONCHI
+
+ZOLI - GUI - GONELLA
+
+Visto, il
+
+Guardasigilli: GONELLA

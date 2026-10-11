@@ -1,0 +1,47 @@
+---
+title: "LEGGE 20 novembre 1955, n. 1123 — Equiparazione dei diritti dei figli adottivi a quelli legittimi in materia fiscale."
+identifier: "urn:nir:stato:legge:1955-11-20;1123"
+eli: "https://www.normattiva.it/eli/id/1955/12/07/055U1123/CONSOLIDATED/20091214"
+type: act
+jurisdiction: it
+language: it
+date: 1955-11-20
+last_amended: 2009-12-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 282 del 1955-12-07"
+codice_redazionale: "055U1123"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-20;1123"
+retrieved: 2026-10-11
+---
+
+# LEGGE 20 novembre 1955, n. 1123
+
+**Equiparazione dei diritti dei figli adottivi a quelli legittimi in materia fiscale.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Articolo unico
+
+Le imposte di successione e sul valore globale dell'asse ereditario, nelle successioni da adottante ad adottato, sono applicate in misura pari a quelle dovute per le successioni tra genitori e figli legittimi.((1))
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 20 novembre 1955
+
+GRONCHI
+
+SEGNI - ANDREOTTI
+
+Visto, il Guardasigilli: MORO
+
+---------------
+
+AGGIORNAMENTO (1)
+
+La Corte Costituzionale con sentenza 22 - 28 gennaio 1986, n. 13 (in G.U. 1a s.s. 05/02/1986, n. 5) ha dichiarato l'illegittimita' costituzionale dell'articolo unico della legge 20 novembre 1955, n. 1123, "nella parte in cui, per i discendenti dei figli adottivi del de cuius, che succedono a questo per rappresentazione, dispongono un trattamento fiscale piu' sfavorevole rispetto a quello previsto per i discendenti dei figli legittimi".
