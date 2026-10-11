@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979, n. 386 — Autorizzazione alla regione Lombardia ad accettare una donazione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1979-06-04;386"
+eli: "https://www.normattiva.it/eli/id/1979/08/20/079U0386/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1979-06-04
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 227 del 1979-08-20"
+codice_redazionale: "079U0386"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-06-04;386"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979, n. 386
+
+**Autorizzazione alla regione Lombardia ad accettare una donazione.**
+
+## Art. 1
+
+N. 386. Decreto del Presidente della Repubblica 4 giugno 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la regione Lombardia viene autorizzata ad accettare la donazione disposta dal comune di Luino (Varese) con deliberazioni del commissario prefettizio 26 giugno 1976, n. 41 e 20 gennaio 1977, n. 24, consistente in un appezzamento di terreno della superficie di mq 1500, mappali 1457, 7115, 1456, 3991, del valore di L. 4.500.000, destinato alla costruzione del nuovo centro di formazione professionale.
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato alla Corte dei conti, addi' 6 agosto 1979
+
+Registro n. 6 Presidenza, foglio n. 70

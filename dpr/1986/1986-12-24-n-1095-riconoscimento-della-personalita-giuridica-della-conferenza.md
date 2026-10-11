@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1986, n. 1095 — Riconoscimento della personalita' giuridica della \"Conferenza dei ministri provinciali dei Frati minori d'Italia\", in Roma, ed autorizzazione alla stessa ad accettare una donazione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-24;1095"
+eli: "https://www.normattiva.it/eli/id/1987/05/12/086U1095/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1986-12-24
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 108 del 1987-05-12"
+codice_redazionale: "086U1095"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-24;1095"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1986, n. 1095
+
+**Riconoscimento della personalita' giuridica della "Conferenza dei ministri provinciali dei Frati minori d'Italia", in Roma, ed autorizzazione alla stessa ad accettare una donazione.**
+
+## Art. 1
+
+n. 1095. Decreto del Presidente della Repubblica 24 dicembre 1986, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica ed approvato lo statuto della "Conferenza dei ministri provinciali dei Frati minori d'Italia", in Roma. La Conferenza viene, altresi', autorizzata ad accettare la donazione disposta dalla casa generalizia dell'ordine dei Frati minori, in Roma, con atto pubblico 6 luglio 1982, n. 32676 di repertorio, e rogito dott. Giorgio Intersimone, notaio in Roma, consistente in alcuni immobili provenienti dall'eredita', gravata da onere, disposta in favore dell'ente donante dalla signora Elisabetta Leonori con testamenti olografi datati 30 luglio 1943 e 8 dicembre 1944, e precisamente: terreno sito in localita' Vignaccia del comune di Roma, descritto nella perizia giurata 4 marzo 1982 dell'ing. Carlo Felice Baldoni e valutato in L. 365.000.000 dall'ufficio tecnico erariale di Roma; terreno con sovrastanti fabbricati siti in Roma, via della Nocetta, il tutto descritto nella perizia giurata 4 giugno 1982 del medesimo ingegnere e valutato in L. 1.270.000.000 dall'ufficio tecnico erariale di Roma.
+
+Visto, il Guardasigilli: ROGNONI
+
+Registrato alla Corte dei conti, addi' 6 maggio 1987
+
+Registro n. 16 Interno, foglio n. 169

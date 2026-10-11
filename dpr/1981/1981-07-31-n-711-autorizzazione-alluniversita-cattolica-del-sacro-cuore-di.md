@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981, n. 711 — Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano ad accettare un legato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1981-07-31;711"
+eli: "https://www.normattiva.it/eli/id/1981/12/07/081U0711/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1981-07-31
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 336 del 1981-12-07"
+codice_redazionale: "081U0711"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-07-31;711"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981, n. 711
+
+**Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano ad accettare un legato.**
+
+## Art. 1
+
+N. 711. Decreto del Presidente della Repubblica 31 luglio 1981, col quale, sulla proposta del Ministro della pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare il legato, consistente della nuda proprieta' di: a) un podere agricolo in localita' "Verano" censito nel catasto rustico del comune di Podenzano (Piacenza) alla partita n. 150 foglio 29 mappali 17, 18, 19 e 47; foglio 34 mappali 19, 20; foglio 35 mappali 1, 2, 3, 4, 7, 8, 9 e 10 e partita n. 1297 foglio 29 mappale 46; foglio 35 mappali 11, 12, 14, 8, 24; b) fabbricato civile censito alla partita 79 foglio 35 mappale 13 sub 3 e mappale 12-13 sub 2 o 41 per un valore complessivo di L. 493.000.000, disposto dal dott. Vittore Buzzetti con testamento olografo 11 marzo 1976, pubblicato in data 11 aprile 1978, n. 11603/2816 di repertorio, a rogito dott. Luigi Giancani, notaio in Piacenza, da destinare per i fini istituzionali dell'Ateneo.
+
+Visto, il Guardasigilli: DARIDA
+
+Registrato alla Corte dei conti, addi' 28 novembre 1981
+
+Registro n. 117 Istruzione, foglio n. 137

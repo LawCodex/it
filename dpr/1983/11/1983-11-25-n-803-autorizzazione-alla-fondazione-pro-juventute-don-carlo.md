@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983, n. 803 — Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma ad accettare un legato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1983-11-25;803"
+eli: "https://www.normattiva.it/eli/id/1984/01/20/083U0803/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1983-11-25
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 20 del 1984-01-20"
+codice_redazionale: "083U0803"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-11-25;803"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983, n. 803
+
+**Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma ad accettare un legato.**
+
+## Art. 1
+
+N. 803. Decreto del Presidente della Repubblica 25 novembre 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Firenze, via Pacinotti n. 12, censito al nuovo catasto edilizio urbano alla partita 8393, foglio 81, mappale 110 sub 3, del valore dichiarato di L. 9.500.000 elevato a L. 14.000.000 dall'ufficio tecnico erariale di Firenze, disposto dalla sig.ra Eleonora Curetti vedova Taddei a favore dell'istituto mutilatini di don Gnocchi che si identifica con la fondazione "Pro Juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 5 giugno 1976, con testamento pubblico 7 gennaio 1975, pubblicato in data 26 novembre 1975, n. 36896 di repertorio, a rogito dott. Ugolini Golini, notaio in Firenze, registrato a Firenze in data 1 dicembre 1975 al n. 7379.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 11 gennaio 1984
+
+Registro n. 1 Presidenza, foglio n. 84

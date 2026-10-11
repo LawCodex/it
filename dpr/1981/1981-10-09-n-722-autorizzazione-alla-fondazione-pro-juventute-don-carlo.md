@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1981, n. 722 — Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1981-10-09;722"
+eli: "https://www.normattiva.it/eli/id/1981/12/10/081U0722/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1981-10-09
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 339 del 1981-12-10"
+codice_redazionale: "081U0722"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-10-09;722"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1981, n. 722
+
+**Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.**
+
+## Art. 1
+
+N. 722. Decreto del Presidente della Repubblica 9 ottobre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un immobile sito in Torino, corso Siracusa n. 71, distinto nel nuovo catasto edilizio urbano alla partita 127999, foglio 84, mappale 820 sub 19, del valore attribuito di L. 11.500.000, elevato dall'ufficio tecnico erariale di Torino a L. 24.000.000, disposto dalla sig.na Teresa Anna Beltramo a favore della fondazione "Pro juventute don Carlo Gnocchi - Istituto mutilatini e poliomielitici", viale Settimio Severo, 65, Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente lo stesso ente, con scheda testamentaria olografa del 10 marzo 1977, pubblicata a rogito dott. Giuseppe Savio, notaio in Torino, in data 5 maggio 1978, n. 15424 di repertorio e n. 7440 di raccolta, registrato a Torino il 22 maggio 1978 al n. 25276, vol. 41.
+
+Visto, il Guardasigilli: DARIDA
+
+Registrato alla Corte dei conti, addi' 1 dicembre 1981
+
+Registro n. 10 Presidenza, foglio n. 243

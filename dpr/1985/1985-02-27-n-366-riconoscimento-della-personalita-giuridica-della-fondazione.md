@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1985, n. 366 — Riconoscimento della personalita' giuridica della fondazione di culto e religione denominata \"Oasi di San Gerardo - Anna, Luigia ed Enrico Caprotti\", in Monza, ed autorizzazione alla stessa ad accettare una donazione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1985-02-27;366"
+eli: "https://www.normattiva.it/eli/id/1985/07/27/085U0366/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1985-02-27
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 176 del 1985-07-27"
+codice_redazionale: "085U0366"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-02-27;366"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1985, n. 366
+
+**Riconoscimento della personalita' giuridica della fondazione di culto e religione denominata "Oasi di San Gerardo - Anna, Luigia ed Enrico Caprotti", in Monza, ed autorizzazione alla stessa ad accettare una donazione.**
+
+## Art. 1
+
+N. 366. Decreto del Presidente della Repubblica 27 febbraio 1985, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione di culto e religione denominata "Oasi di San Gerardo - Anna, Luigia ed Enrico Caprotti", in Monza (Milano). La fondazione stessa viene, altresi', autorizzata ad accettare la donazione, consistente in un complesso immobiliare sito in Monza, via S. Gerardo de' Tintori n. 8, descritto nella perizia giurata 24-25 giugno 1981 dell'ing. Pino Galimberti e valutato in lire 330.000.000 dall'ufficio tecnico erariale di Milano, disposta dalla "Societa' per azioni Tipografica sociale", in Monza, con atto pubblico 6 dicembre 1980, n. 9715 di repertorio, a rogito dott.ssa Antonietta Muggione, notaio in Monza.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 18 luglio 1985
+
+Registro n. 27 Interno, foglio n. 234

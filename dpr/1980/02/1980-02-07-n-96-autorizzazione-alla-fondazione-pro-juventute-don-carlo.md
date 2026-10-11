@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980, n. 96 — Autorizzazione alla fondazione \"Pro Juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1980-02-07;96"
+eli: "https://www.normattiva.it/eli/id/1980/03/31/080U0096/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1980-02-07
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 89 del 1980-03-31"
+codice_redazionale: "080U0096"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-02-07;96"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980, n. 96
+
+**Autorizzazione alla fondazione "Pro Juventute don Carlo Gnocchi", in Roma, ad accettare un legato.**
+
+## Art. 1
+
+N. 96. Decreto del Presidente della Repubblica 7 febbraio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente in saldi di conti correnti presso vari istituti di credito, titoli, obbligazioni, libretti al portatore, contanti in valuta italiana ed estera, obbligazioni in valuta estera, titoli azionari e monete auree, del valore complessivo di L. 155.950.287, disposto dal dott. Giuseppe Venditto a favore dell'opera pia Don Gnocchi, che ci identifica con la fondazione "Pro juventute Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 23 agosto 1972, pubblicato in data 5 gennaio 1977, n. 21609 di repertorio, a rogito dott. Bruno Gallo, notaio in Chiusa Pesio (Cuneo), registrato a Cuneo in data 25 gennaio 1977, n. 432, vol. 276.
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato alla Corte dei conti, addi' 21 marzo 1980
+
+Registro n. 2 Presidenza, foglio n. 343

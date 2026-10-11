@@ -1,0 +1,30 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1986, n. 368 — Autorizzazione alla fondazione \"F.A.I. - Fondo per l'ambiente\", in Milano, ad accettare una donazione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-19;368"
+eli: "https://www.normattiva.it/eli/id/1986/07/18/086U0368/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1986-03-19
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 165 del 1986-07-18"
+codice_redazionale: "086U0368"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-19;368"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1986, n. 368
+
+**Autorizzazione alla fondazione "F.A.I. - Fondo per l'ambiente", in Milano, ad accettare una donazione.**
+
+## Art. 1
+
+N. 368. Decreto del Presidente della Repubblica 19 marzo 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la fondazione "F.A.I. - Fondo per l'ambiente", in Milano, viene autorizzata ad accettare la donazione, consistente in un appezzamento di terreno di mq 2783, sito in comune di Camogli, localita' S.
+
+Nicolo' - S. Caio, del valore di L. 840.000, disposta dalla sig.ra Maria Luisa Colli, con atto 9 giugno 1977, n. 6068 di repertorio, a rogito dott. Paolo Sala, notaio in Giussano (Milano) e registrato a Giussano in data 21 giugno 1977 al n. 3397.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 8 luglio 1986
+
+Registro n. 17 Beni culturali, foglio n. 8

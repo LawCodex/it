@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982, n. 155 — Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1982-02-26;155"
+eli: "https://www.normattiva.it/eli/id/1982/04/13/082U0155/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1982-02-26
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 100 del 1982-04-13"
+codice_redazionale: "082U0155"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-02-26;155"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982, n. 155
+
+**Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.**
+
+## Art. 1
+
+N. 155. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato di L. 2.000.000 disposto dalla sig.na Borsetti Clelia con testamento olografo 30 luglio 1977, pubblicato a rogito dott. Afferni Angelo, notaio in Biella (Vercelli), il 28 settembre 1978, n. 1651 di repertorio e n. 110 di fascicolo, registrato a Biella il 16 ottobre 1978 al n. 5865, vol. 149.
+
+Visto, il Guardasigilli: DARIDA
+
+Registrato alla Corte dei conti, addi' 31 marzo 1982
+
+Registro n. 3 Presidenza, foglio n. 115

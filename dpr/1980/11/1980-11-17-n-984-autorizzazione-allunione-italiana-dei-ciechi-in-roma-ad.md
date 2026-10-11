@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 novembre 1980, n. 984 — Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare una eredita'."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1980-11-17;984"
+eli: "https://www.normattiva.it/eli/id/1981/01/21/080U0984/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1980-11-17
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 19 del 1981-01-21"
+codice_redazionale: "080U0984"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-11-17;984"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 novembre 1980, n. 984
+
+**Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare una eredita'.**
+
+## Art. 1
+
+N. 984. Decreto del Presidente della Repubblica 17 novembre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.na Carbone Pierina o Piera con testamento olografo 10 luglio 1973, pubblicato in data 29 novembre 1976, n. 34017 di repertorio, n. 5695 di raccolta, a rogito dott. Giuseppe Fossati, notaio in Milano, registrato a Milano il 6 dicembre 1976 al n. 17078, serie H, consistente in beni immobili e mobili per un valore complessivo netto di L. 84.201.612.
+
+Visto, il Guardasigilli: SARTI
+
+Registrato alla Corte dei conti, addi' 14 gennaio 1981
+
+Registro n. 1 Presidenza, foglio n. 39

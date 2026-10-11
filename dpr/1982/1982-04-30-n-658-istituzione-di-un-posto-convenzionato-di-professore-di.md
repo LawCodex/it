@@ -1,0 +1,136 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982, n. 658 — Istituzione di un posto convenzionato di professore di ruolo presso la facolta' di economia e commercio dell'Universita' cattolica del Sacro Cuore di Milano."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-30;658"
+eli: "https://www.normattiva.it/eli/id/1982/09/18/082U0658/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1982-04-30
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 258 del 1982-09-18"
+codice_redazionale: "082U0658"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-30;658"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982, n. 658
+
+**Istituzione di un posto convenzionato di professore di ruolo presso la facolta' di economia e commercio dell'Universita' cattolica del Sacro Cuore di Milano.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con regio decreto 20 aprile 1939, n. 1163, e modificato con regio decreto 26 ottobre 1940, n. 2030, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro;
+
+Decreta:
+
+## Art. 1
+
+Presso la facolta' di economia e commercio dell'Universita' cattolica del Sacro Cuore di Milano e' istituito un posto convenzionato di professore di ruolo per l'insegnamento di "diritto bancario".
+
+Pertanto nell'art. 27 dello statuto, dopo il secondo comma e' inserito il seguente nuovo comma:
+
+"Ai posti di ruolo stabiliti per la facolta' di economia e commercio e' aggiunto, a decorrere dall'anno accademico 1980-81 e per la durata di anni 20, un posto di ruolo convenzionato per l'insegnamento di "diritto bancario"".
+
+La tabella n. 1 (art. 27), annessa allo statuto, concernente i posti di ruolo della suddetta facolta' passa dal 21 + 1 a 21 + 2.
+
+## Art. 2
+
+E' approvata e resa esecutiva l'allegata convenzione, stipulata in Milano il 26 gennaio 1979, tra l'Universita' cattolica del Sacro Cuore di Milano e l'Associazione per lo sviluppo degli studi di banca e borsa, per il finanziamento del posto di professore di ruolo di cui all'art. 1.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 aprile 1982
+
+PERTINI
+
+BODRATO - ANDREATTA
+
+Visto, il Guardasigilli: DARIDA
+
+Registrato alla Corte dei conti, addi' 9 settembre 1982
+
+Registro n. 105 Istruzione, foglio n. 209
+
+## Allegati
+
+Rep. n. 99/1979
+
+ISTITUZIONE DI UN POSTO CONVENZIONATO DI PROFESSORE DI RUOLO PRESSO LA FACOLTA' DI ECONOMIA E COMMERCIO DELL'UNIVERSITA' CATTOLICA DEL SACRO CUORE DI MILANO DA ATTRIBUIRE ALLA CATTEDRA DI DIRITTO BANCARIO.
+
+REPUBBLICA ITALIANA
+
+L'anno 1979 (millenovecentosettantanove), il giorno 26 del mese di gennaio alle ore 18, in una sala del rettorato dell'Universita' cattolica del Sacro Cuore, largo Gemelli, 1, Milano, avanti a me dott. Domenico Lofrese, nato ad Acquaviva delle Fonti (Bari) il 6 febbraio 1932, residente a Roma, nella mia qualita' di vice direttore amministrativo dell'Universita' cattolica del Sacro Cuore, delegato a ricevere gli atti in forma pubblica con decreto del rettore n. 7494 in data 12 ottobre 1978, con rinuncia, previo mio consenso, di comune accordo dei testimoni, si sono personalmente costituiti i signori:
+
+prof. Giuseppe Lazzati, nato a Milano il 22 giugno 1909, residente per la carica in Milano, largo Gemelli, 1, rettore dell'Universita' cattolica del Sacro Cuore, autorizzato al presente atto con delibera del consiglio di amministrazione dell'Universita' cattolica del Sacro Cuore in data 10 ottobre 1978;
+
+dott. Giuseppe Vigorelli, nato a Novara l'8 ottobre 1923, residente in Milano, via Canova, 25, presidente dell'Associazione per lo sviluppo degli studi di banca e borsa, autorizzato al presente atto con delibera del consiglio di amministrazione dell'Associazione per lo sviluppo degli studi di banca e borsa in data 25 ottobre 1978;
+
+con l'intervento del sen. dott. Urbano Aletti, nato a Milano il 18 marzo 1923 e residente a Milano, via Santo Spirito, 14, vice presidente della predetta Associazione;
+
+Premesso:
+
+che l'Associazione per lo sviluppo degli studi di banca e borsa ha come scopo quello di sviluppare gli studi superiori e la ricerca nelle discipline bancarie e finanziarie promuovendo e potenziando l'attivita' didattica di specifici corsi di laurea;
+
+che la predetta Associazione ritiene necessario, per meglio realizzare i propri scopi, promuovere l'attribuzione ad un professore di ruolo della cattedra di diritto bancario presso la facolta' di economia e commercio dell'Universita' cattolica del Sacro Cuore;
+
+che l'Universita' cattolica si e' dichiarata disponibile ad aderire a tale iniziativa accettando inoltre la proposta dell'Associazione in unione con altri e con le modalita' appresso indicate di versare una somma corrispondente al costo medio di un professore di ruolo nei venti anni della durata di questa convenzione, secondo i calcoli tabellari e gli emolumenti spettanti, desunti dalle tabelle ufficiali del Ministero del tesoro e del Ministero della pubblica istruzione;
+
+che il consiglio della facolta' di economia e commercio nella seduta del 13 luglio 1978 ha deliberato l'accettazione della proposta di convenzione e che analoga delibera e' stata poi adottata dal senato accademico dell'Universita' cattolica nella seduta del 9 ottobre 1978 e che il consiglio di amministrazione ha deliberato la medesima accettazione nella seduta del 10 ottobre 1978;
+
+Tutto cio' premesso e richiamato si conviene e si stipula quanto segue:
+
+## Art. 1
+
+L'Associazione per lo sviluppo degli studi di banca e borsa affinche' presso la facolta' di economia e commercio dell'Universita' cattolica del Sacro Cuore venga attuato l'insegnamento di diritto bancario si impegna a versare all'Universita' medesima un contributo destinato a finanziare un posto di professore di ruolo da istituire a tale uopo a norma degli articoli 63 e 100 del testo unico delle leggi sulla istruzione superiore approvato con regio decreto 31 agosto 1933, n. 1592, pari all'importo complessivo del costo medio per trattamento economico di attivita', a qualsiasi titolo, di professore universitario di ruolo, per un periodo di venti anni.
+
+Nel costo medio per trattamento economico di attivita' sono compresi gli emolumenti effettivamente spettanti al professore medesimo in virtu' di leggi, regolamenti, disposizioni nonche' i costi afferenti agli oneri inerenti ai trattamenti di quiescenza e previdenza, nonche' gli oneri conseguenti ai costi per imposizione diretta, indiretta o tassazione e comunque tutti gli oneri che a qualsiasi titolo, causa o ragione dovessero gravare sull'Universita' cattolica in dipendenza del predetto conferimento della cattedra a professore di ruolo.
+
+## Art. 2
+
+L'Associazione per lo sviluppo degli studi di banca e borsa s'impegna a versare in unica soluzione, entro trenta giorni dalla firma del presente atto, il contributo di cui al precedente art. 1 valutato in L. 250.000.000.
+
+All'importo del suddetto contributo concorre la somma di L. 40.000.000 derivante dal fondo accantonato per "Iniziative per lo sviluppo del corso di laurea in scienze economiche e bancarie".
+
+## Art. 3
+
+La presente convenzione che garantisce la copertura ventennale della cattedra di diritto bancario a partire dalla data della nomina del primo titolare della cattedra, potra' essere rinnovata di venti anni in venti anni, qualora cio' venga espressamente richiesto dall'Associazione per lo sviluppo degli studi di banca borsa mediante lettera raccomandata con ricevuta di ritorno da inviare almeno un anno prima della scadenza.
+
+## Art. 4
+
+Dichiarano le parti stipulanti che la presente convenzione ha come finalita' quelle culturali e di ricerca scientifica, come peraltro si evince dall'articolato che precede e pertanto l'Universita' cattolica chiede, in ordine alla registrazione, le agevolazioni fiscali del caso.
+
+Il presente atto viene pubblicato mediante lettura da me datate ai comparenti che, trovandolo conforme alla loro volonta', lo sottoscrivono con me ufficiale rogante.
+
+L'atto consta di due fogli scritti su cinque facciate intere e nove righe della sesta facciata, comprese le firme.
+
+Giuseppe LAZZATI
+
+Giuseppe VIGORELLI
+
+Urbano ALETTI
+
+Domenico LOFRESE, rogante
+
+Registrato a Milano - ufficio del registro atti pubblici, addi' 7 febbraio 1979 ai n. A 03636, mod. 71/ M, serie H - Esatte L. 20.200.
+
+Visto, d'ordine del Presidente della Repubblica
+
+Il Ministro della pubblica istruzione
+
+BODRATO

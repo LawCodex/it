@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1981, n. 771 — Autorizzazione alla Cassa mutua di malattia per i coltivatori diretti di Milano ad acquistare un immobile."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1981-10-09;771"
+eli: "https://www.normattiva.it/eli/id/1981/12/29/081U0771/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1981-10-09
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 355 del 1981-12-29"
+codice_redazionale: "081U0771"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-10-09;771"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1981, n. 771
+
+**Autorizzazione alla Cassa mutua di malattia per i coltivatori diretti di Milano ad acquistare un immobile.**
+
+## Art. 1
+
+N. 771. Decreto del Presidente della Repubblica 9 ottobre 1981, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, la Cassa mutua di malattia per i coltivatori diretti di Milano viene autorizzata ad acquistare, al prezzo di L. 12.331.400, due porzioni contigue per complessivi vani quattro ed accessori di un immobile sito in Vimercate (Milano), piazza Marconi n. 7/A, censito al nuovo catasto edilizio urbano ai numeri 233 e 261 del foglio 55, di proprieta' del geom. Valentino Giambelli, come da atto di compravendita 17 gennaio 1966, n. 72423 di repertorio, a rogito dott. Rodolfo Parigi, notaio in Milano, registrato a Milano in data 15 febbraio 1966, da adibire ad uso ufficio.
+
+Visto, il Guardasigilli: DARIDA
+
+Registrato alla Corte dei conti, addi' 16 dicembre 1981
+
+Registro n. 1 Lavoro, foglio n. 166

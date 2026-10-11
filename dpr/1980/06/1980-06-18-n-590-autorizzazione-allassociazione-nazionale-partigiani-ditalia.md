@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1980, n. 590 — Autorizzazione all'Associazione nazionale partigiani d'Italia, in Roma, ad accettare una donazione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1980-06-18;590"
+eli: "https://www.normattiva.it/eli/id/1980/10/03/080U0590/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1980-06-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 272 del 1980-10-03"
+codice_redazionale: "080U0590"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-06-18;590"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1980, n. 590
+
+**Autorizzazione all'Associazione nazionale partigiani d'Italia, in Roma, ad accettare una donazione.**
+
+## Art. 1
+
+N. 590. Decreto del Presidente della Repubblica 18 giugno 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale partigiani d'Italia (A.N.P.I.), in Roma, viene autorizzata ad accettare la donazione, consistente in un terreno agricolo di are 514,25 distinto in catasto al foglio 63, mappale 4480, con sovrastante fabbricato rurale e area cortilizia, distinto in catasto al foglio 63, mappale 12783, di mq. 995, sito in Modena, localita' Villavara, via Nonantolana n. 1219, del valore di L. 31.383.000, disposta dal prof. Ettore De Toni con atto 23 aprile 1974; n. 102555 di repertorio e n. 6078 di fascicolo, a rogito dott. Achille Poli, notaio in Genova, registrato a Genova in data 29 aprile 1974 al n. 7339.
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato alla Corte dei conti, addi' 19 settembre 1980
+
+Registro n. 7 Presidenza, foglio n. 326

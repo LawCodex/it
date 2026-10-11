@@ -1,0 +1,56 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1981, n. 796 — Modificazioni al decreto legislativo del Capo provvisorio dello Stato 16 luglio 1947, n. 708, recante disposizioni concernenti l'Ente nazionale di previdenza ed assistenza per i lavoratori dello spettacolo."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1981-10-15;796"
+eli: "https://www.normattiva.it/eli/id/1982/01/02/081U0796/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1981-10-15
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 1 del 1982-01-02"
+codice_redazionale: "081U0796"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-10-15;796"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1981, n. 796
+
+**Modificazioni al decreto legislativo del Capo provvisorio dello Stato 16 luglio 1947, n. 708, recante disposizioni concernenti l'Ente nazionale di previdenza ed assistenza per i lavoratori dello spettacolo.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il secondo comma dell'art. 3 del decreto legislativo del Capo provvisorio dello Stato 16 luglio 1947, n. 708, ratificato, con modifiche, dalla legge 29 novembre 1952, n. 2388, nel quale e' prevista la possibilita' di estendere l'obbligo dell'iscrizione all'Ente nazionale di previdenza e di assistenza per i lavoratori dello spettacolo, con decreto del Capo dello Stato su proposta del Ministro del lavoro e della previdenza sociale, ad altre categorie di lavoratori dello spettacolo oltre quelle indicate nel primo comma dello stesso articolo;
+
+Ravvisata l'esigenza di dirimere, in via definitiva, le perplessita' in ordine all'Istituto previdenziale competente a garantire la tutela assicurativa alle maestranze ed agli impiegati amministrativi e tecnici dipendenti dalle imprese che svolgono attivita' radiofonica e televisiva;
+
+Considerato che l'attivita' svolta da tali categorie presenta caratteristiche analoghe a quella svolta dalle maestranze e dagli impiegati amministrativi e tecnici dipendenti dalla Radio Audizioni Italia, oggi RAI-Radiotelevisione italiana, per i quali sussiste l'obbligo della iscrizione all'Ente nazionale di previdenza ed assistenza per i lavoratori dello spettacolo;
+
+Ritenuta la necessita' di estendere il predetto obbligo alle maestranze ed agli impiegati amministrativi e tecnici dipendenti dalle imprese che svolgono attivita' radiofonica e televisiva;
+
+Sulla proposta del Ministro del lavoro e della previdenza sociale;
+
+Decreta:
+
+I punti 12) e 20) dell'art. 3 del decreto legislativo del Capo provvisorio dello Stato 16 luglio 1947, n. 708, ratificato con modifiche dalla legge 29 novembre 1952, n. 2388, sono sostituiti dai seguenti:
+
+punto 12) operatori di ripresa cinematografica e televisiva, aiuto operatori e maestranze cinematografiche, teatrali e radio televisive;
+
+punto 20) impiegati amministrativi e tecnici dipendenti dagli enti e imprese esercenti pubblici spettacoli, dalle imprese radiofoniche e televisive, dalle imprese della produzione cinematografica, del doppiaggio e dello sviluppo e stampa; maschere, custodi e personale di pulizia dipendenti dagli enti ed imprese soprannominati.
+
+Il presente decreto entra in vigore dal primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 15 ottobre 1981
+
+PERTINI
+
+DI GIESI
+
+Visto, il Guardasigilli: DARIDA
+
+Registrato alla Corte dei conti, addi' 16 dicembre 1981
+
+Registro n. 13 Lavoro, foglio n. 167

@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1978, n. 762 — Riconoscimento, agli effetti civili, della unione delle parrocchie di Santo Stefano e di San Giovanni Decollato, in Firenzuola."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1978-09-26;762"
+eli: "https://www.normattiva.it/eli/id/1978/12/01/078U0762/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1978-09-26
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 336 del 1978-12-01"
+codice_redazionale: "078U0762"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-09-26;762"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1978, n. 762
+
+**Riconoscimento, agli effetti civili, della unione delle parrocchie di Santo Stefano e di San Giovanni Decollato, in Firenzuola.**
+
+## Art. 1
+
+N. 762. Decreto del Presidente della Repubblica 26 settembre 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Firenze 1° luglio 1976, n. 152/76, integrato con dichiarazione del 25 agosto stesso anno, relativo all'unione perpetua aeque principaliter delle parrocchie di Santo Stefano, in Rapezzo del comune di Firenzuola (Firenze), e di San Giovanni Decollato, in Camaggiore dello stesso comune.
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato alla Corte dei conti, addi' 25 novembre 1978
+
+Registro n. 21 Interno, foglio n. 134

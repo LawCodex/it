@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982, n. 156 — Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1982-02-26;156"
+eli: "https://www.normattiva.it/eli/id/1982/04/13/082U0156/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1982-02-26
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 100 del 1982-04-13"
+codice_redazionale: "082U0156"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-02-26;156"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982, n. 156
+
+**Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.**
+
+## Art. 1
+
+N. 156. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in depositi di conto correnti bancari per un saldo complessivo di L. 39.258.182, disposto dalla sig.ra Guzzetti Giuseppa ved. Sala, a favore dei ciechi di don Gnocchi, che si identificano con la fondazione medesima come ha fatto presente il presidente della stessa, con testamento olografo 10 ottobre 1976, pubblicato a rogito dottor Giovanni Olivares, notaio in Milano, in data 11 gennaio 1979, n. 170071/34850 di repertorio, registrato a Milano il 17 ottobre 1979 al n. A/ 2-01032, serie I.
+
+Visto, il Guardasigilli: DARIDA
+
+Registrato alla Corte dei conti, addi' 31 marzo 1982
+
+Registro n. 3 Presidenza, foglio n. 116

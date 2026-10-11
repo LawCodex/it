@@ -1,0 +1,62 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980, n. 367 — Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1980-01-14;367"
+eli: "https://www.normattiva.it/eli/id/1980/07/26/080U0367/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1980-01-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 204 del 1980-07-26"
+codice_redazionale: "080U0367"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-01-14;367"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980, n. 367
+
+**Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con regio decreto 20 aprile 1939, n. 1163 e modificato con regio decreto 26 ottobre 1940, n. 2030, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1.933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Veduta la legge 23 dicembre 1978, n. 833;
+
+Considerato che per effetto dell'art. 72 della citata legge n. 833 e' decaduta la convenzione stipulata in Milano il 10 ottobre 1968 tra l'Universita' cattolica del Sacro Cuore di Milano e l'Ente nazionale previdenza infortuni per l'istituzione di un posto convenzionato di professore di ruolo per l'insegnamento complementare di medicina del lavoro, istituito presso la facolta' di medicina e chirurgia della predetta Universita' con decreto del Presidente della Repubblica 31 ottobre 1968, n. 1274, pubblicato nella Gazzetta Ufficiale n. 331 del 31 dicembre 1968;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro;
+
+Decreta:
+
+## Articolo unico
+
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano e' modificato nel senso che il posto di professore di ruolo convenzionato, di cui alle premesse, e' trasformato in un posto di professore di ruolo non convenzionato.
+
+Pertanto e' soppresso l'ultimo comma dell'art. 27 ed e' modificata la tabella 1 (art. 27) nel senso che i posti di professore di ruolo della facolta' di medicina e chirurgia passano da trenta piu' due a trentuno piu' uno.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 gennaio 1980
+
+PERTINI
+
+VALITUTTI - PANDOLFI.
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato alla Corte dei conti, addi' 17 luglio 1980
+
+Registro n. 68 Istruzione, foglio n. 194

@@ -1,0 +1,92 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983, n. 1222 — Modificazioni allo statuto dell'Universita' degli studi di Torino."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1983-10-28;1222"
+eli: "https://www.normattiva.it/eli/id/1984/05/18/083U1222/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1983-10-28
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 136 del 1984-05-18"
+codice_redazionale: "083U1222"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-10-28;1222"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983, n. 1222
+
+**Modificazioni allo statuto dell'Universita' degli studi di Torino.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' di Torino, approvato con regio decreto 14 ottobre 1926, n. 2284, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge. 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Veduto il decreto del Presidente della Repubblica 11 luglio 1980, n. 382;
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+## Art. 1
+
+Art. 78 - il primo comma dell'art. 78, relativo al corso di laurea in fisica, e' soppresso e sostituito dal seguente nuovo comma:
+
+Art. 78. - Sono insegnamenti fondamentali obbligatori a tutti gli indirizzi, per quel che riguarda il primo biennio, i seguenti:
+
+1\) fisica generale I;
+
+2\) analisi matematica I;
+
+3\) geometria I;
+
+4\) esperimentazioni fisica I;
+
+5\) fisica generale II;
+
+6\) analisi matematica II;
+
+7\) meccanica razionale;
+
+8\) chimica con esercitazioni di laboratorio (per fisici);
+
+9\) esperimentazioni fisica II.
+
+E' soppresso, inoltre, l'ultimo comma dello stesso art. 78 e sostituito dal seguente nuovo comma:
+
+"I corsi 4, 8, 9 comprendono esercitazioni sperimentali che gli studenti eseguiranno in laboratorio e comportano un esame finale".
+
+## Art. 2
+
+Art. 80 - il primo comma dell'art. 80 relativo al numero degli esami da sostenere per il corso di laurea in fisica e' soppresso e sostituito dal seguente nuovo comma:
+
+"Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami dei diciotto insegnamenti di cui agli articoli precedenti".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 ottobre 1983
+
+PERTINI
+
+FALCUCCI
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 28 aprile 1984
+
+Registro n. 25 Istruzione, foglio n. 177

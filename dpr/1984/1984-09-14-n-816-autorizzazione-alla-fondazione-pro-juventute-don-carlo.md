@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984, n. 816 — Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1984-09-14;816"
+eli: "https://www.normattiva.it/eli/id/1984/12/07/084U0816/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1984-09-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 337 del 1984-12-07"
+codice_redazionale: "084U0816"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984-09-14;816"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984, n. 816
+
+**Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.**
+
+## Art. 1
+
+N. 816. Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata, ad accettare il legato, con l'obbligo di smobilizzo entro cinque anni dall'avvenuto consolidamento dell'usufrutto, consistente nella nuda proprieta' di un immobile sito nel comune di Settimo Torinese (Torino), via Mincio n. 3, meglio descritto nella perizia giurata del geom. Paolo Maddaloni, del valore di L. 12.000.000 elevato dall'ufficio tecnico erariale di Torino a L. 20.000.000, disposto dalla sig.ra Brusa Fortunata Margherita ved. Kunbrija con testamento olografo 15 marzo 1973, pubblicato a rogito dottore Emilio Turbil, notaio in Torino, in data 15 dicembre 1976, n. 45070 di repertorio, n. 13923 di raccolta, registrato a Torino il 3 gennaio 1977 al n. 44.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 24 novembre 1984
+
+Registro n. 10 Presidenza, foglio n. 188

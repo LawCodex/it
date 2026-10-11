@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980, n. 957 — Autorizzazione alla cassa mutua di malattia per gli artigiani della provincia di Lucca ad acquistare un immobile."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1980-09-25;957"
+eli: "https://www.normattiva.it/eli/id/1981/01/17/080U0957/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1980-09-25
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 16 del 1981-01-17"
+codice_redazionale: "080U0957"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-09-25;957"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980, n. 957
+
+**Autorizzazione alla cassa mutua di malattia per gli artigiani della provincia di Lucca ad acquistare un immobile.**
+
+## Art. 1
+
+N. 957. Decreto del Presidente della Repubblica 25 settembre 1980, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, la cassa mutua di malattia per gli artigiani della provincia di Lucca viene autorizzata ad acquistare, al prezzo di L. 42.000.000, una villetta di 18 vani corredata di terreno per giardino e cortile sita in Lucca, viale Giusti n. 21, censita al nuovo catasto edilizio urbano al foglio n. 164, mappale 48, di proprieta' dei signori Marraccini Ida, Marraccini Teresa, Marraccini Luisa, Bruno Bianca, Marraccini Michele, come da atto di compravendita 11 aprile 1970, n. 142856 di repertorio, a rogito dott. Gino Velani, notaio in Lucca, registrato a Lucca in data 17 aprile 1970, da adibire a sede dell'ente.
+
+Visto, il Guardasigilli: SARTI
+
+Registrato alla Corte dei conti, addi' 30 dicembre 1980
+
+Registro n. 1 Lavoro, foglio n. 140

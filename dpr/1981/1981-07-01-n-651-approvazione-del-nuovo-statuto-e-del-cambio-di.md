@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1981, n. 651 — Approvazione del nuovo statuto e del cambio di denominazione del Consorzio cooperative di produzione e lavoro del Campidano, in Cagliari."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1981-07-01;651"
+eli: "https://www.normattiva.it/eli/id/1981/11/18/081U0651/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1981-07-01
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 317 del 1981-11-18"
+codice_redazionale: "081U0651"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-07-01;651"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1981, n. 651
+
+**Approvazione del nuovo statuto e del cambio di denominazione del Consorzio cooperative di produzione e lavoro del Campidano, in Cagliari.**
+
+## Art. 1
+
+N. 651. Decreto del Presidente della Repubblica 1 luglio 1981, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale di concerto con il Ministro dei lavori pubblici, viene approvato il nuovo statuto del Consorzio cooperative di produzione e lavoro del Campidano, in Cagliari, costituito con decreto del Presidente della Repubblica 30 ottobre 1952, n. 1465, e il cambio di denominazione in "Consorzio sardo cooperative delle costruzioni".
+
+Visto, il Guardasigilli: DARIDA
+
+Registrato alla Corte dei conti, addi' 5 novembre 1981
+
+Registro n. 12 Lavoro, foglio n. 3

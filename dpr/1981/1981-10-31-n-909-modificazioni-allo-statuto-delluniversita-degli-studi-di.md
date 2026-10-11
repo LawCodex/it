@@ -1,0 +1,144 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981, n. 909 — Modificazioni allo statuto dell'Universita' degli studi di Palermo."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1981-10-31;909"
+eli: "https://www.normattiva.it/eli/id/1982/02/13/081U0909/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1981-10-31
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 43 del 1982-02-13"
+codice_redazionale: "081U0909"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-10-31;909"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981, n. 909
+
+**Modificazioni allo statuto dell'Universita' degli studi di Palermo.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' di Palermo, approvato con regio decreto 14 ottobre 1926, n. 2412 e modificato con regio decreto 13 ottobre 1927, n. 2240 e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 22 maggio 1978, n. 217;
+
+Veduto il decreto del Presidente della Repubblica 11 luglio 1980, n. 382;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici della Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato decreto del Presidente della Repubblica 11 luglio 1980, n. 382;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+## Art. 1
+
+Il testo dell'art. 149, relativo all'elenco delle scuole di specializzazione annessa alla facolta' di medicina e chirurgia, e' integrato nel senso che e' aggiunta la seguente:
+
+scuola di specializzazione in nefrologia.
+
+## Art. 2
+
+Dopo l'art. 201, e con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in nefrologia.
+
+Scuola di specializzazione in nefrologia
+
+Art. 202. - La scuola di specializzazione in nefrologia ha sede presso la seconda clinica medica e conferisce il diploma di specialista in nefrologia.
+
+Art. 203. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.
+
+Art. 204. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 205. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Art. 206. - Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.
+
+Art. 207. - L'ammissione al corso avviene per titoli ed esami.
+
+Art. 208. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+struttura ed ultrastruttura normale del rene;
+
+aspetti biochimici della funzione renale;
+
+fisiologia renale;
+
+microbiologia ed immunologia applicate alla nefrologia;
+
+genetica applicata alla nefrologia;
+
+semeiotica renale (1° anno).
+
+2° Anno:
+
+struttura ed ultrastruttura patologica del rene;
+
+patologia del ricambio idroelettrolitico;
+
+insufficienza renale;
+
+rene e ipertensione arteriosa;
+
+semeiotica renale (2° anno);
+
+nefropatie tubulari.
+
+3° Anno:
+
+nefropatie glomerulari;
+
+nefropatie interstiziali;
+
+nefropatie vascolari;
+
+terapia dietetica e dialitica (1° anno);
+
+farmacologia d'interesse nefrologico.
+
+4° Anno:
+
+nefrouropatie calcolitiche, malformative e neoplastiche;
+
+terapia dietetica e dialitica (2° anno);
+
+fisiopatologia e clinica del trapianto renale;
+
+aspetti di nefrologia nell'eta' pediatrica;
+
+problemi chirurgici in nefrologia;
+
+terapia medica delle nefropatie.
+
+Art. 209. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 210. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Al termine del corso di studi per il conseguimento del diploma di specialista in nefrologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1981
+
+PERTINI
+
+BODRATO
+
+Visto, il Guardasigilli: DARIDA
+
+Registrato alla Corte dei conti, addi' 30 gennaio 1982
+
+Registro n. 12 Istruzione, foglio n. 44

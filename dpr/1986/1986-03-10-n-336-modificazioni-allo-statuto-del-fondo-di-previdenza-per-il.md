@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986, n. 336 — Modificazioni allo statuto del Fondo di previdenza per il personale del Banco di S. Spirito, in Roma."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-10;336"
+eli: "https://www.normattiva.it/eli/id/1986/07/09/086U0336/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1986-03-10
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 157 del 1986-07-09"
+codice_redazionale: "086U0336"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-10;336"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986, n. 336
+
+**Modificazioni allo statuto del Fondo di previdenza per il personale del Banco di S. Spirito, in Roma.**
+
+## Art. 1
+
+N. 336. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, vengono approvate le modificazioni agli articoli 43, 46, 47, 48, 49, 50, 51 e 61 dello statuto del Fondo di previdenza per il personale del Banco di S. Spirito, in Roma, approvato con decreto del Presidente della Repubblica 23 aprile 1952, n. 537.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 21 giugno 1986
+
+Registro n. 1 Lavoro, foglio n. 246

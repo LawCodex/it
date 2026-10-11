@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982, n. 146 — Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare una eredita'."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1982-02-26;146"
+eli: "https://www.normattiva.it/eli/id/1982/04/09/082U0146/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1982-02-26
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 98 del 1982-04-09"
+codice_redazionale: "082U0146"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-02-26;146"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982, n. 146
+
+**Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare una eredita'.**
+
+## Art. 1
+
+N. 146. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.na Ballini Lucia con testamento olografo 20 settembre 1969, pubblicato a rogito dott. Mario Faotto, notaio in Udine, in data 3 febbraio 1977, n. 28312 di repertorio e n. 788 di raccolta, registrato ad Udine il 15 febbraio 1977 al n. 1268, consistente in un complesso immobiliare del valore periziato di lire 150 milioni elevato dall'ufficio tecnico erariale di Udine a L. 180.000.000; l'eredita' e' gravata del diritto di abitazione gratuita a favore della sig.na Candotti Gina.
+
+Visto, il Guardasigilli: DARIDA
+
+Registrato alla Corte dei conti, addi' 31 marzo 1982
+
+Registro n. 3 Presidenza, foglio n. 114

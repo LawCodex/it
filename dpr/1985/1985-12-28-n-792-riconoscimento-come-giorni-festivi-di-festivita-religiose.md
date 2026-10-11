@@ -1,0 +1,74 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 dicembre 1985, n. 792 — Riconoscimento come giorni festivi di festivita' religiose determinate d'intesa tra la Repubblica italiana e la Santa Sede ai sensi dell'art. 6 dell'accordo, con protocollo addizionale, firmato a Roma il 18 febbraio 1984 e ratificato con legge 25 marzo 1985, n. 121."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;792"
+eli: "https://www.normattiva.it/eli/id/1985/12/31/085U0792/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1985-12-28
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 306 del 1985-12-31"
+codice_redazionale: "085U0792"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;792"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 dicembre 1985, n. 792
+
+**Riconoscimento come giorni festivi di festivita' religiose determinate d'intesa tra la Repubblica italiana e la Santa Sede ai sensi dell'art. 6 dell'accordo, con protocollo addizionale, firmato a Roma il 18 febbraio 1984 e ratificato con legge 25 marzo 1985, n. 121.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87 della Costituzione;
+
+Visto l'art. 6 dell'accordo firmato a Roma il 18 febbraio 1984, tra la Repubblica italiana e la Santa Sede, ratificato con legge 25 marzo 1985, n. 121, con il quale la Repubblica italiana riconosce come giorni festivi tutte le domeniche e le altre festivita' religiose determinate d'intesa fra le Parti;
+
+Vista l'intesa intervenuta tra le Parti;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 dicembre 1985;
+
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro degli affari esteri;
+
+EMANA
+
+il seguente decreto:
+
+## Art. 1
+
+Sono festivita' religiose, ai sensi e per gli effetti dell'art. 6 dell'accordo firmato a Roma il 18 febbraio 1984 tra la Repubblica italiana e la Santa Sede, ratificato con legge 25 marzo 1985, n. 121: tutte le domeniche;
+
+il 1 gennaio, Maria Santissima Madre di Dio;
+
+il 6 gennaio, Epifania del Signore;
+
+il 15 agosto, Assunzione della Beata Vergine Maria;
+
+il 1 novembre, tutti i Santi;
+
+l'8 dicembre, Immacolata Concezione della Beata Vergine Maria;
+
+il 25 dicembre, Natale del Signore;
+
+il 29 giugno, SS. Pietro e Paolo, per il comune di Roma.
+
+## Art. 2
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 dicembre 1985
+
+COSSIGA
+
+CRAXI, Presidente del Consiglio
+
+dei Ministri
+
+ANDREOTTI, Ministro degli esteri
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 30 dicembre 1985
+
+Atti di Governo, registro n. 57, foglio 29

@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1983, n. 468 — Autorizzazione alla Cassa di risparmio di Rieti ad accettare una donazione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1983-07-22;468"
+eli: "https://www.normattiva.it/eli/id/1983/09/12/083U0468/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1983-07-22
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 250 del 1983-09-12"
+codice_redazionale: "083U0468"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-07-22;468"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1983, n. 468
+
+**Autorizzazione alla Cassa di risparmio di Rieti ad accettare una donazione.**
+
+## Art. 1
+
+N. 468. Decreto del Presidente della Repubblica 22 luglio 1983, col quale, sulla proposta del Ministro del tesoro, formulata dopo che il Comitato interministeriale per il credito ed il risparmio nella riunione del 31 marzo 1983 si e' pronunciato favorevolmente sulla questione, la Cassa di risparmio di Rieti viene autorizzata ad accettare la donazione, consistente nella biblioteca umanistica raccolta nelle abitazioni di Milano e Rieti del donante, composta di numerose collezioni di testi greci e latini e di critica letteraria, nonche' di quelli che potranno aggiungersi "vita durante" del donante medesimo, del valore complessivo dichiarato di L. 100.000.000, disposta dal professore mons. Benedetto Riposati con atto 6 gennaio 1982, n. 38692/12293 di repertorio, a rogito dottor Angelo Gianfelice, notaio in Rieti e registrato a Rieti in data 13 gennaio 1982, n. 109.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 2 settembre 1983
+
+Registro n. 40 Tesoro, foglio n. 186

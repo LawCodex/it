@@ -1,0 +1,30 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1980, n. 811 — Autorizzazione all'Associazione italiana per l'assistenza agli spastici, in Milano, ad accettare un legato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1980-06-18;811"
+eli: "https://www.normattiva.it/eli/id/1980/12/09/080U0811/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1980-06-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 336 del 1980-12-09"
+codice_redazionale: "080U0811"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-06-18;811"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1980, n. 811
+
+**Autorizzazione all'Associazione italiana per l'assistenza agli spastici, in Milano, ad accettare un legato.**
+
+## Art. 1
+
+N. 811. Decreto del Presidente della Repubblica 18 giugno 1980, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana per l'assistenza agli spastici, in Milano, viene autorizzata ad accettare il legato, consistente nella somma di L. 5.000.000, disposto dalla sig.ra Margherita Bandinelli ved.
+
+Cristofoli in favore della sezione di Milano con testamento olografo 20 aprile 1970, pubblicato in data 27 novembre 1973, n. 79387 di repertorio, a rogito dott. Pietro Cassina, notaio in Milano e registrato a Milano in data 12 dicembre 1973, n. A/1-03809.
+
+Visto, il Guardasigilli: SARTI
+
+Registrato alla Corte dei conti, addi' 22 novembre 1980
+
+Registro n. 6 Sanita', foglio n. 271

@@ -1,0 +1,120 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982, n. 549 — Ripartizione agli uffici giudiziari di centotrentaquattro dei centocinquanta magistrati previsti in aumento dalla legge 19 febbraio 1981, n. 27."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-15;549"
+eli: "https://www.normattiva.it/eli/id/1982/08/16/082U0549/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1982-07-15
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 224 del 1982-08-16"
+codice_redazionale: "082U0549"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-15;549"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982, n. 549
+
+**Ripartizione agli uffici giudiziari di centotrentaquattro dei centocinquanta magistrati previsti in aumento dalla legge 19 febbraio 1981, n. 27.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 19 febbraio 1981, n. 27, che modifica la tabella A annessa alla legge 11 agosto 1973, n. 533, relativa al ruolo organico della magistratura;
+
+Visto l'art. 5, primo comma, della citata legge, che fissa in centocinquanta posti l'aumento del ruolo organico di detto personale;
+
+Esaminate le esigenze degli uffici e tenuto conto degli indici di lavoro concernenti l'afflusso dei procedimenti che vi pervengono;
+
+Vista la tabella A allegata al decreto del Presidente della Repubblica 15 marzo 1979, n. 123, riguardante il personale giudicante e del pubblico ministero addetto alla Corte di cassazione;
+
+Vista la tabella A allegata alla legge 9 marzo 1971, n. 35, con la quale sono state determinate le piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali per i minorenni, e successive variazioni;
+
+Viste le tabelle B, C e D, relative alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti alle corti di appello, ai tribunali ed alle preture, allegate al decreto presidenziale 31 dicembre 1966, numero 1185, e successive variazioni;
+
+Sentito il Consiglio superiore della magistratura che ha espresso parere di rito nella seduta del 5 maggio 1982, nella quale ha proposto di ripartire l'intero contingente dei centocinquanta posti previsti in aumento;
+
+Ritenuto peraltro, che appare opportuno accantonare sedici unita' di personale, al fine di potere effettuare quegli ulteriori agiustamenti che saranno resi necessari nel prossimo futuro, sia in dipendenza della variabilita' del flusso dei carichi di lavoro, che delle riforme legislative gia' approvate o in corso di approvazione;
+
+Ritenuto, peraltro, in base a una accurata valutazione delle esigenze dei singoli uffici, che in ordine alle corti di appello di Caltanissetta, Palermo, Trieste; ai tribunali per i minorenni di Catania, Palermo, Roma; ai tribunali di Ariano Irpino, Bologna, Lanciano, Napoli, Palermo, Sanremo, Trapani; Trieste; alle procure della Repubblica di Cosenza, Cremona, Mantova, Milano, Nuoro, Pisa, Sanremo, Savona, Siracusa, Udine ed alle preture di Borgomanero, Foggia, Milazzo, non puo' seguirsi il parere del Consiglio superiore della magistratura, cosi' come a seguito di piu' adeguata valutazione delle esigenze appare opportuno aumentare gli organici dei tribunali di Ascoli Piceno, Forli', Reggio Emilia; delle procure della Repubblica di Campobasso, Marsala, Reggio Emilia, Tempio Pausania e delle preture di Oristano e Paterno';
+
+Ritenuto infine, che sempre in considerazione di quanto premesso, occorre procedere ad un maggiore potenziamento degli organici della corte di appello di Reggio Calabria, dei tribunali di Cosenza e Modena e della procura di Perugia, anche perche', con riferimento a quest'ultimo ufficio, va tenuta presente la particolare mole di lavoro che ad esso deriva, in applicazione dell'art. 41-bis del codice di procedura penale e che, contestualmente per il tribunale di Catania e le procure della Repubblica di Firenze e di Torino puo' essere previsto un aumento organico minore di quello proposto;
+
+Visto l'art. 1, ultimo comma, della legge 4 gennaio 1963, n. 1;
+
+Visto l'art. 5 della legge 19 febbraio 1981, n. 27;
+
+Sulla proposta del Ministro di grazia e giustizia ed in parziale difformita' del parere espresso dal Consiglio superiore della magistratura;
+
+Decreta:
+
+## Art. 1
+
+La tabella A allegata al decreto del Presidente della Repubblica 15 marzo 1979, n. 123, relativa ai magistrati giudicanti e del pubblico ministero addetti alla Corte di cassazione e' sostituita dalla tabella A annessa al presente decreto, vistata dal Ministro proponente.
+
+## Art. 2
+
+La tabella A annessa alla legge 9 marzo 1971, n. 35, relativa ai magistrati giudicanti e del pubblico ministero addetti ai tribunali per i minorenni e le tabelle B, C e D allegate al decreto presidenziale 31 dicembre 1966, n. 1185, e successive variazioni, relative alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti alle corti di appello, ai tribunali ed alle preture sono in virtu' della legge 19 febbraio 1981, n. 27, modificate in aumento, per la parte concernente gli uffici elencati nella tabella annessa al presente decreto, vistata dal Ministro proponente.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 15 luglio 1982
+
+PERTINI
+
+DARIDA
+
+Visto, il Guardasigilli: DARIDA
+
+Registrato alla Corte dei conti, addi' 12 agosto 1982
+
+Registro n. 33 Giustizia, foglio n. 256
+
+## Allegati
+
+## Tabella A
+
+TABELLA A
+
+MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO
+
+ADDETTI ALLA CORTE DI CASSAZIONE
+
+Primo presidente. . . . . . . . . . . . . . . . . . . . . . . . . . 1 Presidente aggiunto . . . . . . . . . . . . . . . . . . . . . . . . 1 Presidenti di sezione e presidente supplente al
+
+tribunale superiore delle acque pubbliche. . . . . . . . . . . . . 50 Consiglieri . . . . . . . . . . . . . . . . . . . . . . . . . . . 253 Procuratore generale. . . . . . . . . . . . . . . . . . . . . . . . 1 Avvocati generali . . . . . . . . . . . . . . . . . . . . . . . . . 6 Sostituti procuratori generali . . . . . . . . . . . . . . . . . . 39
+
+TRIBUNALE SUPERIORE
+
+DELLE ACQUE PUBBLICHE
+
+Presidente. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+Visto, il Ministro di grazia e giustizia
+
+DARIDA
+
+## Tabella
+
+TABELLA
+
+Parte di provvedimento in formato grafico
+
+(1)
+
+Visto, il Ministro di grazia e giustizia
+
+DARIDA
+
+-------------
+
+AGGIORNAMENTO (1)
+
+L'Errata-Corrige (in G.U. 25/8/1982, n.233) ha disposto che "Nel decreto del Presidente della Repubblica 15 luglio 1982, n. 549, riguardante la ripartizione agli uffici giudiziari di centotrentaquattro dei centocinquanta magistrati previsti in aumento dalla legge 19 febbraio 1981, n. 27, pubblicato nella Gazzetta Ufficiale n. 224 del 16 agosto 1982, e' apportata la seguente rettifica: nella tabella concernente le piante organiche dei magistrati addetti alle corti di appello il numero dei consiglieri assegnati alla corte di appello di Torino non e' di "2" bensi' di "1".".
+
+---------------
+
+Nota redazionale
+
+Il testo della presente Tabella e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 25/8/1982, n. 233 durante il periodo di "vacatio legis".
+
+E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.

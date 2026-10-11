@@ -1,0 +1,72 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1985, n. 360 — Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1985-06-28;360"
+eli: "https://www.normattiva.it/eli/id/1985/07/24/085U0360/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1985-06-28
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 173 del 1985-07-24"
+codice_redazionale: "085U0360"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-06-28;360"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1985, n. 360
+
+**Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con regio decreto 20 aprile 1939, n. 1163, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Veduto il decreto del Presidente della Repubblica 11 luglio 1980, n. 382;
+
+Veduto il decreto del Presidente della Repubblica 10 marzo 1982, n. 162;
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+## Articolo unico
+
+Nell'art. 6, concernente disposizioni generali comuni alle otto facolta', dopo il primo comma sono inseriti i seguenti tre commi:
+
+"Il consiglio di amministrazione in relazione alle strutture didattiche e di ricerca scientifica dell'Universita' e delle facolta', ove ne ravvisi la necessita', determina anno per anno, per ciascuna facolta', udito il parere del rispettivo consiglio e del senato accademico, il numero massimo di studenti da ammettere al primo corso.
+
+Inoltre il consiglio di amministrazione, su proposta dei consigli delle facolta' interessate, sentito il senato accademico, determina le modalita' di ammissione idonee ad accertare le attitudini e la preparazione dei candidati.
+
+Con la stessa procedura vengono determinati per ciascun anno numero e modalita' dei trasferimenti da altre universita' e dei passaggi da altre facolta' dello Ateneo".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 giugno 1985
+
+PERTINI
+
+FALCUCCI, Ministro della pubblica
+
+istruzione
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 12 luglio 1985
+
+Registro n. 46 Istruzione, foglio n. 217

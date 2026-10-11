@@ -1,0 +1,50 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1978, n. 898 — Modificazioni alle aliquote del contributo dovuto alla gestione ordinaria della Cassa integrazione guadagni dalle imprese industriali."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1978-09-14;898"
+eli: "https://www.normattiva.it/eli/id/1979/01/20/078U0898/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1978-09-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 20 del 1979-01-20"
+codice_redazionale: "078U0898"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-09-14;898"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1978, n. 898
+
+**Modificazioni alle aliquote del contributo dovuto alla gestione ordinaria della Cassa integrazione guadagni dalle imprese industriali.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 12, punto 1, della legge 20 maggio 1975, n. 164, concernente provvedimenti per la garanzia del salario;
+
+Considerato che il bilancio consuntivo relativo all'esercizio finanziario 1975 della gestione ordinaria della Cassa integrazione guadagni ha registrato, tra le entrate e le uscite, una differenza superiore al 10 per cento;
+
+Rilevato che si sono verificati i presupposti che rendono obbligatoria la modifica delle aliquote del contributo dovuto alla gestione ordinaria della Cassa integrazione guadagni dalle imprese industriali;
+
+Sentito il comitato speciale di cui all'art. 7 del decreto legislativo luogotenenziale 9, novembre 1945, n. 788;
+
+Sulla proposta del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro;
+
+Decreta:
+
+## Articolo unico
+
+A decorrere dal 1 gennaio 1978, l'aliquota del contributo dovuto alla gestione ordinaria della Cassa integrazione guadagni dalle imprese industriali e' determinata nella misura dell'1,30 per cento della retribuzione calcolata ai sensi dell'art. 12 della legge 30 aprile 1969, n. 153. Per le imprese industriali fino a 50 dipendenti l'aliquota del contributo e' determinata nella misura dell'uno per cento.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 settembre 1978
+
+PERTINI
+
+SCOTTI - PANDOLFI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato alla Corte dei conti, addi' 13 gennaio 1979
+
+Registro n. 1 Lavoro, foglio n. 69

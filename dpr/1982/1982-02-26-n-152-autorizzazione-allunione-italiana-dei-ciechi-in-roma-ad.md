@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982, n. 152 — Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1982-02-26;152"
+eli: "https://www.normattiva.it/eli/id/1982/04/10/082U0152/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1982-02-26
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 99 del 1982-04-10"
+codice_redazionale: "082U0152"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-02-26;152"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982, n. 152
+
+**Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.**
+
+## Art. 1
+
+N. 152. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dal sig. Mensa Euclide con testamento olografo 10 gennaio 1969 pubblicato a rogito dott. Carlo Vicario, notaio in Torino, in data 31 luglio 1975, n. 111500 di repertorio e n. 18540 di raccolta, registrato a Torino il 20 agosto 1975 al n. 22473, vol. 1302, consistente in 700 azioni FIAT ordinarie del valore nominale complessivo di L. 350.000.
+
+Visto, il Guardasigilli: DARIDA
+
+Registrato alla Corte dei conti, addi' 31 marzo 1982
+
+Registro n. 3 Presidenza, foglio n. 112

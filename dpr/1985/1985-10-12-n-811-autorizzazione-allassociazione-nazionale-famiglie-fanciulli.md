@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985, n. 811 — Autorizzazione all'Associazione nazionale famiglie fanciulli e adulti subnormali, in Roma, ad accettare un legato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1985-10-12;811"
+eli: "https://www.normattiva.it/eli/id/1986/01/08/085U0811/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1985-10-12
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 5 del 1986-01-08"
+codice_redazionale: "085U0811"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-10-12;811"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985, n. 811
+
+**Autorizzazione all'Associazione nazionale famiglie fanciulli e adulti subnormali, in Roma, ad accettare un legato.**
+
+## Art. 1
+
+N. 811. Decreto del Presidente della Repubblica 12 ottobre 1985, col quale, sulla proposta del Ministro della sanita', l'Associazione nazionale famiglie fanciulli e adulti subnormali, in Roma, viene autorizzata ad accettare il legato, consistente in un fabbricato ad uso abitazione e in un terreno annesso, sito in via S.P.M. 3 di Villamarzana, del periziato valore di L. 40.000.000, disposto dal sig. Bruno De Piccoli con testamento olografo 5 aprile 1982, pubblicato in data 2 novembre 1982, n. 47751 di repertorio, a rogito dott. Giuseppe Milazzo, notaio in Rovigo e registrato a Rovigo in data 15 novembre 1982 al n. 2395.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 23 dicembre 1985
+
+Registro n. 10 Sanita', foglio n. 301

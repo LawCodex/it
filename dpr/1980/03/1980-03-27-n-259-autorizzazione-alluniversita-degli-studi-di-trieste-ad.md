@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980, n. 259 — Autorizzazione all'Universita' degli studi di Trieste ad accettare un'eredita'."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1980-03-27;259"
+eli: "https://www.normattiva.it/eli/id/1980/06/21/080U0259/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1980-03-27
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 169 del 1980-06-21"
+codice_redazionale: "080U0259"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-03-27;259"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980, n. 259
+
+**Autorizzazione all'Universita' degli studi di Trieste ad accettare un'eredita'.**
+
+## Art. 1
+
+N. 259. Decreto del Presidente della Repubblica 27 marzo 1980, col quale, sulla proposta del Ministro della pubblica istruzione, l'Universita' degli studi di Trieste viene autorizzata ad accettare, con beneficio di inventario, l'eredita' consistente in tre immobili siti in Trieste, rispettivamente, in via Crispi n. 62, censito al nuovo catasto edilizio urbano alla partita 30766, Mappale 7853 sub 9, del valore di L. 11.000.000; in via Donota n. 4, censito al nuovo catasto edilizio urbano alla partita 30766, mappale 7346 sub 17, del valore di L. 17.000.000, e in via Somma n. 4, censito al nuovo catasto edilizio urbano alla partita 30766, mappale 7335 sub 4, del valore di 9.500.000, e in beni mobili per un totale complessivo di circa L. 40.000.000, disposta dalla sig.ra Umek Egidia vedova Cassetti con testamento olografo 5 dicembre 1967, pubblicato in data 7 ottobre 1971, n. 32.345/4595 di repertorio, a rogito dott. Oscar Sandrinelli, notaio in Trieste, registrato a Trieste il 12 ottobre 1971, con lo scopo di devolvere l'intero reddito patrimoniale in borse di studio a favore di studenti meritevoli e bisognosi preferibilmente iscritti alla facolta' di medicina.
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato alla Corte dei conti, addi' 13 giugno 1980
+
+Registro n. 55 Istruzione, foglio n. 35

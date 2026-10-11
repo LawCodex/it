@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 gennaio 1985, n. 177 — Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1985-01-24;177"
+eli: "https://www.normattiva.it/eli/id/1985/05/14/085U0177/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1985-01-24
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 112 del 1985-05-14"
+codice_redazionale: "085U0177"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-01-24;177"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 gennaio 1985, n. 177
+
+**Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.**
+
+## Art. 1
+
+N. 177. Decreto del Presidente della Repubblica 24 gennaio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il lascito di L. 5.000.000 disposto dalla sig.ra Mrakitsch Maria con testamento pubblico 16 febbraio 1982, pubblicato in data 25 febbraio 1983, n. 56473/610 di repertorio, a rogito dott. Ianni Tracanella Edda, notaio in Trieste, registrato a Trieste in data 19 settembre 1983 al n. 875.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 2 maggio 1985
+
+Registro n. 4 Presidenza, foglio n. 83

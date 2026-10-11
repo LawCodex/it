@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1979, n. 412 — Riconoscimento, agli effetti civili, della erezione della parrocchia di San Giovanni evangelista, in Imola."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1979-07-03;412"
+eli: "https://www.normattiva.it/eli/id/1979/08/30/079U0412/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1979-07-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 238 del 1979-08-30"
+codice_redazionale: "079U0412"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-07-03;412"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1979, n. 412
+
+**Riconoscimento, agli effetti civili, della erezione della parrocchia di San Giovanni evangelista, in Imola.**
+
+## Art. 1
+
+N. 412. Decreto del Presidente della Repubblica 3 luglio 1979, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Imola 8 novembre 1975, integrato con dichiarazione del giorno 12 stesso mese ed anno, relativo: a) all'erezione della parrocchia di S. Giovanni evangelista, in localita' Zolino del comune di Imola (Bologna), con il trasferimento in essa del beneficio parrocchiale omonimo, in Fiagnano di Casalfiumanese (Bologna); b) all'incorporazione del relativo territorio nella limitrofa parrocchia di Pieve S. Andrea, in Imola.
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato alla Corte dei conti, addi' 24 agosto 1979
+
+Registro n. 15 Interno, foglio n. 382

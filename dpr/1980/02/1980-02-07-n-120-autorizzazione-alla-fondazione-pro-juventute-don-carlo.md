@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980, n. 120 — Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una eredita'."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1980-02-07;120"
+eli: "https://www.normattiva.it/eli/id/1980/04/05/080U0120/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1980-02-07
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 95 del 1980-04-05"
+codice_redazionale: "080U0120"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-02-07;120"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980, n. 120
+
+**Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.**
+
+## Art. 1
+
+N. 120. Decreto del Presidente della Repubblica 7 febbraio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente nella somma di L. 4.516.523, disposta dalla sig.ra Bice Buonamici ved. Ponzoni a favore dello istituto mutilatini don Gnocchi, che si identifica con la fondazione medesima, con testamento pubblico 14 novembre 1973, pubblicato in data 14 ottobre 1977, n. 16824 di repertorio, a rogito dott. Claudio Malberti, notaio in Corsico (Milano), registrato a Milano in data 25 ottobre 1977, n. A/ 4 5144.
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato alla Corte dei conti, addi' 31 marzo 1980
+
+Registro n. 3 Presidenza, foglio n. 5

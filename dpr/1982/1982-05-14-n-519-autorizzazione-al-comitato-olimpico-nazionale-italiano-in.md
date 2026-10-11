@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982, n. 519 — Autorizzazione al Comitato olimpico nazionale italiano, in Roma, ad acquistare un immobile."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1982-05-14;519"
+eli: "https://www.normattiva.it/eli/id/1982/08/09/082U0519/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1982-05-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 217 del 1982-08-09"
+codice_redazionale: "082U0519"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-05-14;519"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982, n. 519
+
+**Autorizzazione al Comitato olimpico nazionale italiano, in Roma, ad acquistare un immobile.**
+
+## Art. 1
+
+N. 519. Decreto del Presidente della Repubblica 14 maggio 1982, col quale, sulla proposta del Ministro del turismo e dello spettacolo, il Comitato olimpico nazionale italiano (C.O.N.I.), in Roma, viene autorizzato ad acquistare, al prezzo di L. 425.000.000, compresa la somma di L. 42.500.000 per lavori di adattamento, un intero piano rialzato, una porzione di seminterrato e un'area scoperta di un immobile sito in Roma, via Val Savaranche angolo via Val d'Ala, censito nel nuovo catasto terreni alla sez. A, partita 47146, foglio 268, particella 632, di proprieta' della "Case Rossi S.r.l." il tutto per una superficie complessiva di mq 1677, come da atto preliminare di compravendita 5 maggio 1976, registrato a Roma in data 13 maggio 1976 al n. 8506.
+
+Visto, il Guardasigilli: DARIDA
+
+Registrato alla Corte dei conti, addi' 26 luglio 1982
+
+Registro n. 6 Turismo, foglio n. 32

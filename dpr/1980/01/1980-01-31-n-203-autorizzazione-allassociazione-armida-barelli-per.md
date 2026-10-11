@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1980, n. 203 — Autorizzazione all'associazione \"Armida Barelli per lavoratrici\", in Napoli, ad accettare due donazioni."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1980-01-31;203"
+eli: "https://www.normattiva.it/eli/id/1980/06/02/080U0203/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1980-01-31
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 149 del 1980-06-02"
+codice_redazionale: "080U0203"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-01-31;203"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1980, n. 203
+
+**Autorizzazione all'associazione "Armida Barelli per lavoratrici", in Napoli, ad accettare due donazioni.**
+
+## Art. 1
+
+N. 203. Decreto del Presidente della Repubblica 31 gennaio 1980, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'associazione "Armida Barelli per lavoratrici", in Napoli, viene autorizzata ad accettare le donazioni consistenti in due appartamenti siti in Napoli nel medesimo stabile di corso Vittorio Emanuele n. 121/A, come risultano rispettivamente dal nuovo catasto edilizio urbano alla partita 138156, foglio 11, particella 223/2, categoria A/2, classe sesta e partita 138155, foglio 11, particella 223/4, categoria A/2, classe settima, del valore di L. 4.000.000 e L. 5.000.000, disposte dalla sig.na Maria Spena e dalla prof.ssa Adele Scandone con atti, rispettivamente, 6 maggio 1969, n. 110214 di repertorio, e 7 maggio 1969, n. 110216 di repertorio, entrambi a rogito dott. Raffaele Giusti, notaio in Napoli, registrati a Napoli in data 8 maggio 1969, rispettivamente al n. 2806 e al n. 2805, destinati a sede dell'ente.
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato alla Corte dei conti, addi' 28 maggio 1980
+
+Registro n. 1 Lavoro, foglio n. 105

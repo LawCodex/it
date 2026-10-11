@@ -1,0 +1,77 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986, n. 739 — Istituzione della facolta' di scienze statistiche, demografiche ed attuariali presso l'Universita' degli studi di Bologna."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1986-08-04;739"
+eli: "https://www.normattiva.it/eli/id/1986/11/06/086U0739/CONSOLIDATED/19870709"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1986-08-04
+last_amended: 1987-07-09
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 258 del 1986-11-06"
+codice_redazionale: "086U0739"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-08-04;739"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986, n. 739
+
+**Istituzione della facolta' di scienze statistiche, demografiche ed attuariali presso l'Universita' degli studi di Bologna.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con regio decreto 14 ottobre 1926, n. 2170, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Veduto il decreto del Presidente della Repubblica 11 luglio 1980, n. 382;
+
+Vedute le proposte di istituzione della facolta' di scienze statistiche, demografiche ed attuariali avanzate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli articoli 81-93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382;
+
+Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio e che anzi alcune tabelle sono state gia' riordinate;
+
+Rilevata quindi la necessita' di accogliere la richiesta dell'Universita' degli studi di Bologna di istituire la facolta' di scienze statistiche, demografiche ed attuariali;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Rilevata la necessita' di far afferire alla nuova facolta' anche il corso di diploma in statistica, che e' proprio della facolta' stessa;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+## Articolo unico
+
+((Presso l'Universita' degli studi di Bologna i corsi di laurea in scienze statistiche e demografiche ed in scienze statistiche ed economiche ed il diploma di statistica, attualmente afferenti alla facolta' di economia e commercio, vengono a costituire la facolta' di scienze statistiche, demografiche ed attuariali)).
+
+La facolta' comprende:
+
+il corso di laurea in scienze statistiche e demografiche;
+
+il corso di laurea in scienze statistiche ed economiche;
+
+il diploma di statistica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 agosto 1986
+
+COSSIGA
+
+FALCUCCI, Ministro della pubblica
+
+istruzione
+
+Visto, il Guardasigilli: ROGNONI
+
+Registrato alta Corte dei conti, addi' 30 ottobre 1986
+
+Registro n. 80 Istruzione, foglio n. 305

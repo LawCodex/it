@@ -1,0 +1,78 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 settembre 1983, n. 1213 — Variazioni alla pianta organica dei magistrati di alcuni uffici giudiziari."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1983-09-08;1213"
+eli: "https://www.normattiva.it/eli/id/1984/05/16/083U1213/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1983-09-08
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 133 del 1984-05-16"
+codice_redazionale: "083U1213"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983-09-08;1213"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 settembre 1983, n. 1213
+
+**Variazioni alla pianta organica dei magistrati di alcuni uffici giudiziari.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la tabella C relativa alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali e la tabella D relativa ai magistrati addetti alle preture, allegate al decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185, e successive variazioni;
+
+Visto il parere espresso dal Consiglio superiore della magistratura nella seduta del 19 luglio 1983 a seguito della richiesta del Ministro di grazia e giustizia in data 13 giugno 1983;
+
+Considerata la urgente necessita', al fine di fronteggiare le accresciute esigenze di servizio, di aumentare di una unita' l'organico dei presidenti di sezione e di tre unita' quello dei giudici del tribunale di Monza previa diminuzione di un posto di giudice dal tribunale di Milano e di tre posti di pretore dalla pretura della stessa citta';
+
+Considerato che con decreti ministeriali 21 luglio 1983 si e' provveduto a potenziare gli organici del personale delle carriere di concetto ed esecutiva del tribunale di Monza;
+
+Visto l'art. 1, ultimo comma, della legge 4 gennaio 1963, n. 1;
+
+Sulla proposta del Ministro di grazia e giustizia;
+
+Decreta:
+
+Le tabelle C e D annesse al decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185, e successive variazioni, relative alle piante organiche dei magistrati addetti ai tribunali ed alle preture, sono modificate, per la parte relativa ai tribunali di Monza e di Milano ed alla pretura di Milano, come dalle tabelle A e B allegate al presente decreto, vistate dal Ministro proponente.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Selva di Val Gardena, addi' 8 settembre 1983
+
+PERTINI
+
+MARTINAZZOLI
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 7 maggio 1984
+
+Registro n. 24 Giustizia, foglio n. 20
+
+## Allegati
+
+## Tabella A
+
+TABELLA A
+
+MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO ADDETTI AI TRIBUNALI
+
+Parte di provvedimento in formato grafico
+
+Visto, il Ministro di grazia e giustizia
+
+DARIDA
+
+## Tabella B
+
+TABELLA B
+
+MAGISTRATI ADDETTI ALLE PRETURE
+
+Parte di provvedimento in formato grafico
+
+Visto, il Ministro di grazia e giustizia
+
+DARIDA
