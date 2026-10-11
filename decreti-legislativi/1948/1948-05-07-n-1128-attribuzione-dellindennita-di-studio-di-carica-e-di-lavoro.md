@@ -1,0 +1,61 @@
+---
+title: "DECRETO LEGISLATIVO 07 maggio 1948, n. 1128 — Attribuzione dell'indennita' di studio, di carica e di lavoro straordinario al personale direttivo ed insegnante degli istituti e scuole governative di ogni ordine e grado."
+identifier: "urn:nir:stato:decreto.legislativo:1948-05-07;1128"
+eli: "https://www.normattiva.it/eli/id/1948/09/02/048U1128/CONSOLIDATED/19560625"
+type: legislative_decree
+jurisdiction: it
+language: it
+date: 1948-05-07
+last_amended: 1956-06-25
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 204 del 1948-09-02"
+codice_redazionale: "048U1128"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1128"
+retrieved: 2026-10-11
+---
+
+# DECRETO LEGISLATIVO 07 maggio 1948, n. 1128
+
+**Attribuzione dell'indennita' di studio, di carica e di lavoro straordinario al personale direttivo ed insegnante degli istituti e scuole governative di ogni ordine e grado.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151, con le modificazioni ad esso apportate dall'art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98;
+
+Viste le disposizioni transitorie I e XV della Costituzione;
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro;
+
+PROMULGA
+
+il seguente decreto legislativo, approvato dal Consiglio dei Ministri con deliberazione dell'8 aprile 1948;
+
+## Art. 1
+
+Anche al personale insegnante e direttivo, di ruolo e non di ruolo, delle scuole di ogni ordine e grado, che non sia gia' compreso nelle disposizioni del decreto legislativo 11 marzo 1948, n. 240, e' attribuita un'indennita' di studio e di lavoro straordinario.
+
+Al personale direttivo delle scuole di ogni ordine e grado di cui al comma precedente e' attribuita anche un'indennita' di carica.
+
+## Art. 2
+
+Le tabelle che stabiliscono la misura delle indennita' previste dal precedente articolo verranno approvate con apposito provvedimento legislativo.
+
+## Art. 3
+
+Le predette indennita' avranno decorrenza dal 1 luglio 1948.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
+
+Dato a Napoli, addi' 7 maggio 1948
+
+DE NICOLA
+
+DE GASPERI - GONELLA DEL VECCHIO
+
+Visto, il Guardasigilli: GRASSI
+
+Registrato alla Corte dei conti, addi' 28 agosto 1948
+
+Atti del Governo, registro n. 23, foglio n. 87. - VENTURA
