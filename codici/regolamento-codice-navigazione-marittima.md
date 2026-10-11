@@ -11,7 +11,7 @@ status: in_force
 gazzetta_ufficiale: "Gazzetta Ufficiale n. 94 del 1952-04-21"
 codice_redazionale: "052U0328"
 source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-15;328"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 febbraio 1952, n. 328

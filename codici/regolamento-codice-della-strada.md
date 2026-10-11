@@ -11,7 +11,7 @@ status: in_force
 gazzetta_ufficiale: "Gazzetta Ufficiale n. 303 del 1992-12-28"
 codice_redazionale: "092G0531"
 source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-16;495"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1992, n. 495

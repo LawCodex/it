@@ -11,7 +11,7 @@ status: in_force
 gazzetta_ufficiale: "Gazzetta Ufficiale n. 250 del 1988-10-24"
 codice_redazionale: "088G0492"
 source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1988, n. 447

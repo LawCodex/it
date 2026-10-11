@@ -11,7 +11,7 @@ status: in_force
 gazzetta_ufficiale: "Gazzetta Ufficiale n. 113 del 1973-05-03"
 codice_redazionale: "073U0156"
 source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 marzo 1973, n. 156
