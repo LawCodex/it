@@ -25,7 +25,7 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare i seguenti Accordi conclusi tra la Repubblica italiana e la Repubblica federale di Germania;
 
@@ -35,7 +35,7 @@ b) Convenzione in materia di assicurazioni sociali Protocollo finale conclusi in
 
 c) Accordo aggiuntivo alla Convenzione in materia di assicurazioni sociali del 5 maggio 1953 sulla concessione di rendite e pensioni per il periodo anteriore all'entrata in vigore della Convenzione e Protocollo finale conclusi in Roma il 12 maggio 1953.
 
-##### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data agli Accordi suddetti a decorrere dalla data della loro entrata in vigore.
 
@@ -83,7 +83,7 @@ i quali, dopo essersi scambiati i loro pieni poteri, riconosciuti in buona e deb
 
 hanno concordato le disposizioni seguenti:
 
-##### Articolo 1
+#### Articolo 1
 
 (1) La presente Convenzione si riferisce alle legislazioni:
 
@@ -103,7 +103,7 @@ La Convenzione si applica alle leggi ed altre disposizioni che
 
 estendono i regimi esistenti a nuove categorie di persone, salvo opposizione del Governo di uno Stato contraente notificata ai Governo dell'altro Stato entro tre mesi dalla, data della pubblicazione ufficiale di tali atti.
 
-##### Articolo 2
+#### Articolo 2
 
 (1) La presente Convenzione si applica:
 
@@ -119,7 +119,7 @@ A seguito di tale dichiarazione le disposizioni della presente Convenzione che s
 
 ## PARTE II - PRINCIPI GENERALI
 
-##### Articolo 3
+#### Articolo 3
 
 I cittadini italiani nella Repubblica Federale di Germania ed i
 
@@ -129,7 +129,7 @@ Essi hanno gli stessi diritti e gli stessi obblighi dei cittadini dello Stato co
 
 ## PARTE III - DISPOSIZIONI PARTICOLARI SULLA ASSICURAZIONE CONTRO LA DISOCCUPAZIONE
 
-##### Articolo 4
+#### Articolo 4
 
 (1) L'assoggettamento all'obbligo della assicurazione contro la
 
@@ -163,11 +163,11 @@ due Stati contraenti, fatta eccezione dei consoli onorari, al loro personale d'u
 
 possono stabilire, di comune accordo, ulteriori eccezioni al principio del paragrafo 1; esse possono altresi' ammettere, di comune accordo, che si deroghi alle disposizioni del paragrafo 2, per singoli casi o gruppi di casi.
 
-##### Articolo 5
+#### Articolo 5
 
 Il diritto alle prestazioni in caso di disoccupazione puo' essere fatto valere nel territorio dello Stato contraente in cui l'assicurato, al momento del verificarsi della disoccupazione, si trova per un soggiorno non temporaneo.
 
-##### Articolo 6
+#### Articolo 6
 
 Ai fini della determinazione del diritto alle prestazioni sono
 
@@ -175,21 +175,21 @@ totalizzati soltanto i periodi di contribuzione risultanti da occupazioni, per l
 
 I periodi per i quali sono stati rimborsati i contributi, ai sensi del paragrafo 3 dell'articolo 11, non possono essere presi in considerazione ai fini del diritto alle prestazioni.
 
-##### Articolo 7
+#### Articolo 7
 
 La durata e la misura delle prestazioni in caso di disoccupazione sono regolate dalle disposizioni dello Stato contraente nel cui territorio il disoccupato fa valere il proprio diritto, salvo quanto previsto dal successivo articolo 10, paragrafo 2.
 
-##### Articolo 8
+#### Articolo 8
 
 Se ai sensi della legislazione tedesca la misura delle prestazioni e' calcolata secondo l'ammontare delle retribuzioni precedenti, dovranno essere prese come base di calcolo, in luogo delle retribuzioni per le occupazioni svolte nel territorio dell'altro Stato, le retribuzioni tariffarie o quelle localmente in uso per attivita' analoghe o equivalenti nel territorio della Repubblica Federale di Germania.
 
-##### Articolo 9
+#### Articolo 9
 
 Se i familiari, aventi diritto a maggiorazioni, di un cittadino che
 
 beneficia delle prestazioni previste per il caso di disoccupazione risiedono nel territorio dell'altro Stato contraente, puo' essere concesso il trasferimento ad essi di una parte delle prestazioni.
 
-##### Articolo 10
+#### Articolo 10
 
 (1) I cittadini italiani e tedeschi, che si trasferiscono dal
 
@@ -201,7 +201,7 @@ d'indennita' goduti nell'altro Stato.
 
 (2) Nel caso in cui non sussistono i requisiti di contribuzione e di occupazione per il conseguimento del diritto alle prestazioni nel proprio Stato, il disoccupato, il quale ha gia' beneficiato parzialmente di prestazioni nell'altro Stato, ha diritto alle prestazioni per il periodo non fruito, secondo le disposizioni di questo Stato, salvo per quanto riguarda la misura che e' determinata in base alla legislazione del proprio Stato.
 
-##### Articolo 11
+#### Articolo 11
 
 (1) Le prestazioni concesse in conformita' all'articolo 10 sono
 
@@ -231,7 +231,7 @@ concorderanno le modalita' per il rimborso delle prestazioni e dei contributi di
 
 ## PARTE IV - DISPOSIZIONI GENERALI
 
-##### Articolo 12
+#### Articolo 12
 
 (1) Gli enti assicuratori obbligati alle prestazioni in base alla presente Convenzione corrispondono le prestazioni in denaro nella valuta del proprio Stato con efficacia liberatoria.
 
@@ -243,13 +243,13 @@ considerati come pagamenti correnti e si effettuano in conformita' agli accordi 
 
 dipendere i pagamenti all'estero dal compimento di determinate formalita', le disposizioni valevoli per i nazionali si applicano egualmente alle persone e agli enti che debbono ricevere o effettuare un pagamento in base alla presente Convenzione.
 
-##### Articolo 13
+#### Articolo 13
 
 Le somme da rimborsare sulla base dell'articolo 11 vengono
 
 calcolate sulla base delle disposizioni della convenzione di pagamento valevole nel tempo fra entrambi gli Stati per i trasferimenti nel campo delle assicurazioni sociali con riguardo alle condizioni di cambio vigenti in ciascuno Stato.
 
-##### Articolo 14
+#### Articolo 14
 
 (1) Gli enti, le associazioni, le autorita' competenti per la
 
@@ -259,7 +259,7 @@ materia disciplinata dalla presente Convenzione e gli Uffici del lavoro dei due 
 
 contraenti, derivanti da contributi arretrati, godono, per l'esecuzione forzata come anche per il procedimento concorsuale e di amichevole composizione nell'altro Stato, degli stessi privilegi delle corrispondenti azioni degli enti assicuratori di questo Stato.
 
-##### Articolo 15
+#### Articolo 15
 
 (1) Le esenzioni da tasse e imposte previste dalla legislazione di uno dei due Stati contraenti per l'applicazione delle legislazioni elencate nell'articolo 1 valgono anche nei confronti degli assicurati e dei loro datori di lavoro, dei richiedenti, degli aventi diritto, degli enti assicuratori e delle loro associazioni e delle autorita' competenti per le legislazioni predette dell'altro Stato.
 
@@ -267,19 +267,19 @@ contraenti, derivanti da contributi arretrati, godono, per l'esecuzione forzata 
 
 prodotti per l'applicazione della presente Convenzione, sono esenti dall'obbligo del visto e della legalizzazione da parte delle autorita' diplomatiche o consolari.
 
-##### Articolo 16
+#### Articolo 16
 
 Gli enti, le associazioni, le autorita' e gli Uffici indicati
 
 nell'articolo 14, paragrafo 1, corrispondono direttamente fra loro, con gli assicurati e con i loro rappresentanti, per l'applicazione della presente Convenzione.
 
-##### Articolo 17
+#### Articolo 17
 
 Le autorita' diplomatiche e consolari dei due Stati contraenti sono
 
 autorizzate, senza speciale mandato, a rappresentare gli aventi diritto del proprio Stato dinanzi a tutti gli enti, autorita' e tribunali dell'altro Stato, competenti in materia di legislazioni di cui all'art. 1.
 
-##### Articolo 18
+#### Articolo 18
 
 (1) Le istanze presentate presso enti assicuratori o altri uffici competenti di uno Stato contraente valgono anche quali istanze presentate presso enti assicuratori o altri uffici competenti dell'altro Stato contraente.
 
@@ -287,13 +287,13 @@ autorizzate, senza speciale mandato, a rappresentare gli aventi diritto del prop
 
 prestabilito presso un ufficio competente a riceverli di uno dei due Stati contraenti, sono considerati come presentati in tempo utile se sono presentati entro tale termine presso un corrispondente ufficio dell'altro Stato. In questo caso, tale ufficio deve immediatamente inoltrare il ricorso all'ufficio competente. Se l'ufficio presso il quale e' presentato il ricorso, non conosce l'ufficio competente, l'inoltro puo' aver luogo per il tramite delle Supreme Autorita' Amministrative dei due Stati contraenti.
 
-##### Articolo 19
+#### Articolo 19
 
 Le istanze che sono indirizzate agli enti e alle autorita' indicati
 
 all'articolo 14, paragrafo 1, o ai tribunali competenti dei due Stati contraenti, come pure gli altri atti occorrenti per l'applicazione delle disposizioni disciplinate dalla presente Convenzione non possono essere respinti per il fatto che sono redatti nella lingua ufficiale dell'altro Stato.
 
-##### Articolo 20
+#### Articolo 20
 
 (1) Le Supreme Autorita' Amministrative dei due Stati contraenti
 
@@ -305,7 +305,7 @@ reciprocamente sulle modifiche sopravvenute nelle disposizioni interne dei loro 
 
 (3) Gli enti, le associazioni e le autorita' competenti in materia di assicurazione contro la disoccupazione e di assistenza ai disoccupati dei due Stati contraenti si tengono reciprocamente al corrente di tutte le misure che sono adottate nel campo della loro competenza per l'applicazione della presente Convenzione.
 
-##### Articolo 21
+#### Articolo 21
 
 (1) Le controversie sull'interpretazione o sull'applicazione della presente Convenzione sono risolte di comune accordo dalle Supreme Autorita' Amministrative dei due Stati contraenti.
 
@@ -331,13 +331,13 @@ Le altre spese sono a carico, in parti uguali, dei due Stati
 
 contraenti. Per il resto il collegio arbitrale regola da se' la propria procedura.
 
-##### Articolo 22
+#### Articolo 22
 
 Qualora i contributi siano stati versati ad un ente assicuratore di
 
 uno dei due Stati contraenti, mentre avrebbero dovuto essere versati ad un ente assicuratore dell'altro Stato, il primo ente sara' considerato competente finche' la competenza non sia stata definita di comune accordo o la controversia sulla competenza non sia stata risolta definitivamente in conformita' dell'articolo 21; la definizione concordata o la risoluzione ha effetto solo sui contributi assicurativi che matureranno nel futuro e sugli eventi assicurativi che sopravverranno nel futuro.
 
-##### Articolo 23
+#### Articolo 23
 
 (1) Quando tra gli enti assicuratori o le autorita' competenti
 
@@ -355,13 +355,13 @@ in caso dubbio, all'ente assicuratore al quale per primo sia presentata la doman
 
 rimborsare in un unico pagamento all'ente assicuratore, che ha corrisposto la prestazione provvisoria, le spese sostenute a tale scopo. Se l'importo, che e' stato versato all'avente diritto a titolo di prestazione provvisoria, e' superiore all'ammontare delle prestazioni definitive spettanti per il periodo corrispondente, l'ente che in definitiva risultera' obbligato imputa la differenza sulle prestazioni future mediante trattenute non superiori al terzo del loro ammontare.
 
-##### Articolo 24
+#### Articolo 24
 
 Non sara' derogato in virtu' dell'articolo 3 alle disposizioni
 
 concernenti la nomina dei membri degli organi degli enti assicuratori.
 
-##### Articolo 25
+#### Articolo 25
 
 Ai sensi della presente Convenzione si intendono per Supreme
 
@@ -375,7 +375,7 @@ il Ministro per il lavoro e la previdenza sociale;
 
 il Ministro federale del lavoro.
 
-##### Articolo 26
+#### Articolo 26
 
 Nell'applicazione della presente Convenzione devono essere presi in
 
@@ -383,13 +383,13 @@ considerazione anche i periodi assicurativi compiuti prima della sua entrata in 
 
 ## PARTE V - DISPOSIZIONI FINALI
 
-##### Articolo 27
+#### Articolo 27
 
 (1) La presente Convenzione e' conclusa per la durata di un anno a partire dalla data della sua entrata in vigore. Essa si intende tacitamente prorogata di anno in anno, salvo denuncia notificata per iscritto dal Governo di uno dei due Stati contraenti almeno tre mesi prima della scadenza del termine.
 
 (2) in caso di denuncia le disposizioni della presente Convenzione continuano a valere per i diritti gia' acquisiti. Essi possono essere fatti valere entro un anno dalla data di cessazione della Convenzione.
 
-##### Articolo 28
+#### Articolo 28
 
 (1) La presente Convenzione sara' ratificata. Gli strumenti di
 
@@ -417,7 +417,7 @@ Il Ministro per gli affari esteri
 
 PICCIONI
 
-##### Protocollo finale
+#### Protocollo finale
 
 PROTOCOLLO FINALE
 
@@ -465,7 +465,7 @@ Il Ministro per gli affari esteri
 
 PICCIONI
 
-##### Allegato
+#### Allegato
 
 Deutschland ueber Sozialversicherung
 
@@ -503,7 +503,7 @@ federale per il lavoro,
 
 i quali, dopo essersi scambiati i loro pieni poteri, riconosciuti in buona e debita forma, hanno concordato le disposizioni seguenti:
 
-##### Articolo 1
+#### Articolo 1
 
 (1) La presente Convenzione si riferisce alle legislazioni:
 
@@ -545,13 +545,13 @@ invalidita), sull'assicurazione pensioni degli impiegati (assicurazione degli im
 
 altre disposizioni che saranno emanate per l'integrazione, la modificazione o l'applicazione delle legislazioni indicate nel paragrafo 1. La Convenzione si applica alle leggi ed altre disposizioni che estendono i regimi esistenti a nuove categorie di persone o che coprono un nuovo ramo delle assicurazioni sociali, salvo opposizione del Governo di uno Stato contraente notificata al Governo dell'altro Stato entro tre mesi dalla data della pubblicazione ufficiale di tali atti.
 
-##### Articolo 2
+#### Articolo 2
 
 (1) I cittadini italiani nella Repubblica Federale di Germania e i cittadini tedeschi nella Repubblica italiana sono sottoposti alle legislazioni indicate nell'articolo 1. Essi hanno gli stessi diritti ed obblighi dei cittadini dello Stato contraente nel cui territorio si trovano.
 
 (2) I cittadini italiani e tedeschi che si trovano nel territorio di uno dei due Stati contraenti e che cessano o hanno cessato di appartenere ad una assicurazione dell'altro Stato, possono beneficiare dell'assicurazione volontaria nello Stato ove si trovano, alle stesse condizioni ed entro gli stessi termini degli assicurati che hanno cessato di appartenere all'assicurazione in vigore in tale Stato. A questo scopo sono totalizzati i periodi di assicurazione di cui si deve tener conto in entrambi gli Stati per il diritto all'assicurazione volontaria e senza tener conto se tali periodi derivino o siano derivati da un'assicurazione obbligatoria o volontaria. Se e' ammessa, in base alle disposizioni esistenti, la continuazione nell'assicurazione tedesca pensioni degli operai (assicurazione invalidita) o nell'assicurazione tedesca pensione degli impiegati (assicurazione degli impiegati), essa puo' essere effettuata soltanto per quel ramo di assicurazione nel quale l'assicurato rientra in base alla natura della occupazione da ultimo esercitata nella Repubblica italiana per la quale e' obbligatoria l'assicurazione.
 
-##### Articolo 3
+#### Articolo 3
 
 (1) I cittadini dei due Stati contraenti, che si trovano nel
 
@@ -569,11 +569,11 @@ costituiscono ostacolo le disposizioni interne relative all'esclusione di diritt
 
 contraenti relative alla tacitazione di diritti, la residenza o il soggiorno nel territorio dell'altro Stato per i cittadini italiani e tedeschi non sono considerati come residenza o soggiorno all'estero.
 
-##### Articolo 4
+#### Articolo 4
 
 Per le assicurazioni sociali si applicano, in via di principio, le disposizioni dello Stato contraente nel cui territorio e' esercitata l'attivita' rilevante per l'assicurazione.
 
-##### Articolo 5
+#### Articolo 5
 
 (1) In deroga al principio dell'articolo 4 sono stabilite le
 
@@ -603,7 +603,7 @@ due Stati contraenti, fatta eccezione dei consoli onorari, al loro personale d'u
 
 possono stabilire, di comune accordo, ulteriori eccezioni al principio dell'articolo 4; esse possono altresi' ammettere che si deroghi, di comune accordo, alle disposizioni del paragrafo 1, per singoli casi o gruppi di casi.
 
-##### Articolo 6
+#### Articolo 6
 
 (1) Se, in base alle disposizioni in vigore in uno dei due Stati
 
@@ -615,7 +615,7 @@ danno luogo, in base al paragrafo 1, alla riduzione o alla sospensione di presta
 
 ## PARTE II - ASSICURAZIONI PER I CASI DI MALATTIA, DI TUBERCOLOSI, DI MATERNITA' E DI MORTE (INDENNITA' FUNERARIE)
 
-##### Articolo 7
+#### Articolo 7
 
 I cittadini italiani e tedeschi che si recano dal territorio di uno
 
@@ -629,13 +629,13 @@ attivita' soggetta all'assicurazione obbligatoria secondo la legislazione di que
 
 prestazioni, dalla legislazione dello Stato in cui si sono recati; a tale scopo dovranno essere cumulati i Periodi di contribuzione e di assicurazione compiuti in entrambi gli Stati.
 
-##### Articolo 8
+#### Articolo 8
 
 Qualora le prestazioni per lo stesso evento assicurativo siano
 
 dovute dagli enti assicuratori di entrambi gli Stati contraenti, l'assicurato puo' pretendere, anche per i suoi familiari aventi diritto, le prestazioni soltanto da un ente assicuratore. E' obbligato alle prestazioni l'ente assicuratore dello Stato nel cui territorio l'assicurato si trova al momento del verificarsi dell'evento assicurativo.
 
-##### Articolo 9
+#### Articolo 9
 
 (1) L'assicurato che ha un diritto a prestazioni nei confronti
 
@@ -647,7 +647,7 @@ dell'ente assicuratore al quale egli appartiene anche se l'evento assicurativo s
 
 rispettivamente ai familiari aventi diritto.
 
-##### Articolo 10
+#### Articolo 10
 
 (1) Nei casi di cui all'articolo 9 le prestazioni in natura sono
 
@@ -661,7 +661,7 @@ dell'altro Stato le somme necessarie per la, concessione delle prestazioni. Le d
 
 concorderanno le norme per l'attuazione delle disposizioni di cui ai paragrafi 1 e 2.
 
-##### Articolo 11
+#### Articolo 11
 
 I familiari aventi diritto di un assicurato appartenente ad un ente
 
@@ -669,11 +669,11 @@ assicuratore di uno dei due Stati contraenti ricevono, in caso di soggiorno nel 
 
 ## PARTE III - ASSICURAZIONE CONTRO GLI INFORTUNI SUL LAVORO E LE MALATTIE PROFESSIONALI
 
-##### Articolo 12
+#### Articolo 12
 
 Per l'assicurazione contro gli infortuni sul lavoro e le malattie professionali valgono le disposizioni degli articoli 9 e 10, limitatamente alle prestazioni in natura e in denaro che spettano durante il periodo di inabilita' temporanea secondo la legislazione italiana e fino al termine della cura secondo la legislazione tedesca.
 
-##### Articolo 13
+#### Articolo 13
 
 Per la determinazione dell'obbligo delle prestazioni e del grado
 
@@ -681,7 +681,7 @@ dell'incapacita' lavorativa per un infortunio sul lavoro o per un malattia profe
 
 Quali precedenti infortuni sul lavoro o malattie professionali sono considerati sia gli infortuni o le malattie professionali per i quali si concede un indennizzo, sia quelli per i quali il grado di incapacita' lavorativa rimane al disotto del grado minimo richiesto per l'indennizzo. Un indennizzo per il successivo infortunio o per la successiva malattia professionale e' tuttavia corrisposto soltanto se la legislazione da applicarsi per l'infortunio o per la malattia professionale lo prevede.
 
-##### Articolo 14
+#### Articolo 14
 
 (1) Le prestazioni per malattie professionali, indennizzabili
 
@@ -691,13 +691,13 @@ secondo la legislazione di ognuno dei due Stati contraenti, sono dovute dall'ent
 
 due Stati contraenti un indennizzo per una malattia professionale, faccia valere per la stessa malattia dei diritti nell'altro Stato, l'ente assicuratore del primo Stato rimane obbligato per la concessione delle ulteriori prestazioni.
 
-##### Articolo 15
+#### Articolo 15
 
 (1) Gli enti assicuratori dei due Stati contraenti, che conducono un'inchiesta circa un infortunio sul lavoro o una malattia professionale di un cittadino dell'altro Stato contraente, comunicano la conclusione dell'inchiesta alle competenti autorita' diplomatiche o consolari di questo Stato.
 
 (2) La competente autorita' diplomatica o consolare puo' prendere visione degli atti d'inchiesta e di quelli successivi allo stesso modo degli interessati.
 
-##### Articolo 16
+#### Articolo 16
 
 Se un'impresa, avente sede nel territorio di uno dei due Stati
 
@@ -705,7 +705,7 @@ contraenti, compie nel territorio dell'altro Stato lavori per i quali e' obbliga
 
 ## PARTE IV - ASSICURAZIONI PENSIONI (ASSICURAZIONI PER I CASI DI INVALIDITA' O DI INCAPACITA' PROFESSIONALE DI VECCHIAIA E DI MORTE - PENSIONI)
 
-##### Articolo 17
+#### Articolo 17
 
 (1) Per gli assicurati, che siano stati sottoposti in entrambi gli Stati contraenti ad uno o piu' regimi di assicurazione-pensioni, i periodi di assicurazione coperti da contribuzione di cui deve essere tenuto conto dagli enti assicuratori di entrambi gli Stati contraenti (periodi contributivi) sono totalizzati, tanto per l'acquisto dei diritti a prestazioni quanto per il mantenimento o il recupero dei diritti stessi. Cio' vale anche per i periodi sostitutivi, equiparati ai periodi contributivi in base alle disposizioni di entrambi gli Stati contraenti.
 
@@ -717,7 +717,7 @@ dall'ente assicuratore dello Stato contraente secondo le cui disposizioni tali p
 
 diritto a determinate prestazioni dipende da periodi compiuti in una professione sottoposta ad un regime, speciale di assicurazione, la totalizzazione ai sensi del paragrafo 1 si effettua solo con i periodi corrispondenti da prendersi in considerazione dagli enti assicuratori dell'altro Stato. Se in uno dei due Stati contraenti per questa determinata categoria professionale non esiste un regime speciale di assicurazione, i periodi del regime speciale di assicurazione compiuti in uno Stato sono totalizzati con i periodi compiuti nell'altro Stato nella assicurazione in vigore per la categoria professionale corrispondente. Se l'assicurato, nonostante la totalizzazione dei periodi indicati nel primo e secondo periodo, non ha diritto alle prestazioni del regime speciale di assicurazione, citate nel primo periodo, i periodi compiuti in entrambi gli Stati contraenti sono totalizzati in conformita' al paragrafo 1.
 
-##### Articolo 18
+#### Articolo 18
 
 (1) Per l'applicazione dell'articolo 17 gli enti assicuratori dei due Stati contraenti determinano le prestazioni nel modo seguente:
 
@@ -739,13 +739,13 @@ conto dell'articolo 17 e del presente, esiste un diritto a pensione solo in uno 
 
 (4) Se nell'assicurazione di uno dei due Stati contraenti debbono essere prese in considerazione, per il calcolo della pensione, non piu' di ventisei settimane o sei mesi di contribuzione, non sussiste alcun diritto a prestazioni in base a tale assicurazione, a meno che secondo le relative disposizioni interne si consideri compiuto il periodo di attesa o il suo compimento non sia richiesto. Se non esiste come sopra un diritto a prestazione, la prestazione dell'altra assicurazione in base al paragrafo 1, n. 2, non subisce riduzione.
 
-##### Articolo 19
+#### Articolo 19
 
 Se, in base alle disposizioni di uno dei due Stati contraenti,
 
 sussiste un diritto a prestazioni anche senza tener conto dell'articolo 17, e se non sussiste alcun diritto nei confronti dell'altro Stato anche tenendo conto dell'articolo 17, l'ente assicuratore del primo Stato liquida le prestazioni secondo le disposizioni per esso valevoli senza tener conto dell'articolo 18. Se successivamente un diritto a prestazioni sorge anche presso l'ente assicuratore dell'altro Stato contraente tenuto conto dell'art. 17, deve essere applicato l'articolo 18.
 
-##### Articolo 20
+#### Articolo 20
 
 Quando la somma delle pensioni calcolate secondo la presente
 
@@ -753,11 +753,9 @@ Convenzione risulta inferiore alla pensione che spetterebbe all'interessato unic
 
 ## PARTE V - DISPOSIZIONI COMUNI E DIVERSE
 
-### Capitolo I
+### Capitolo I - Rapporti di pagamento - Cambio della valuta
 
-#### Rapporti di pagamento - Cambio della valuta
-
-##### Articolo 21
+#### Articolo 21
 
 (1) Gli enti assicuratori obbligati alle prestazioni in base alla presente Convenzione corrispondono le prestazioni in denaro nella valuta del proprio Stato con efficacia liberatoria.
 
@@ -773,15 +771,15 @@ anche le rendite e le indennita' funerarie dell'assicurazione infortuni, che deb
 
 Disposizioni particolari, specialmente per quanto concerne il reciproco rimborso delle spese e le modalita' di pagamento, saranno concordate fra le Supreme Autorita' Amministrative dei due Stati contraenti. Queste Autorita' potranno inoltre concordare per il pagamento di determinate pensioni o rendite un regolamento che deroghi al primo periodo del presente paragrafo.
 
-##### Articolo 22
+#### Articolo 22
 
 Se, per determinare un diritto derivante dalle assicurazioni
 
 sociali di uno dei due Stati contraenti, occorre tener conto dell'importo di una prestazione assicurativa o di altri proventi dell'altro Stato espressi nella valuta di questo Stato, tale importo e' calcolato secondo le disposizioni dell'accordo sui pagamenti in vigore fra i due Stati, relative ai trasferimenti nel campo delle assicurazioni sociali, tenendo conto delle condizioni di cambio vigenti in ciascuno Stato.
 
-## Capitolo II - Collaborazione amministrativa
+### Capitolo II - Collaborazione amministrativa
 
-##### Articolo 23
+#### Articolo 23
 
 (1) Gli enti, le associazioni e le autorita' competenti per le
 
@@ -791,7 +789,7 @@ assicurazioni sociali dei due Stati contraenti si prestano reciprocamente assist
 
 contraenti, derivanti da contributi arretrati, godono, per l'esecuzione forzata come anche per il procedimento concorsuale e di amichevole composizione nell'altro Stato, degli stessi privilegi delle corrispondenti azioni degli enti assicuratori di questo Stato. (3) Quando deve essere determinata, una prestazione sulla base di periodi assicurativi compiuti in entrambi gli Stati contraenti, gli enti assicuratori interessati si informano reciprocamente prima della determinazione, in caso di rifiuto, indicandone i motivi.
 
-##### Articolo 24
+#### Articolo 24
 
 (1) Le esenzioni da tasse e imposte previste dalla legislazione di uno dei due Stati contraenti per l'applicazione delle assicurazioni sociali valgono anche nei confronti degli assicurati e dei loro datori di lavoro, dei richiedenti, degli aventi diritto, degli enti assicuratori e delle loro associazioni e delle autorita' competenti per le assicurazioni sociali dell'altro Stato.
 
@@ -799,19 +797,19 @@ contraenti, derivanti da contributi arretrati, godono, per l'esecuzione forzata 
 
 prodotti per l'applicazione della presente Convenzione sono esenti dall'obbligo del visto e della legalizzazione da parte delle autorita' diplomatiche o consolari.
 
-##### Articolo 25
+#### Articolo 25
 
 Gli enti, le associazioni, le autorita' e i tribunali competenti
 
 per le assicurazioni sociali dei due Stati contraenti corrispondono direttamente fra loro, con gli assicurati e con i loro rappresentanti, per l'applicazione della presente Convenzione.
 
-##### Articolo 26
+#### Articolo 26
 
 Le autorita' diplomatiche e consolari dei due Stati contraenti sono
 
 autorizzate, senza speciale mandato, a rappresentare gli aventi diritto del proprio Stato dinanzi a tutti gli enti, autorita' e tribunali competenti per le assicurazioni sociali dell'altro Stato.
 
-##### Articolo 27
+#### Articolo 27
 
 (1) Le istanze presentate presso enti assicuratori o altri uffici competenti di uno Stato contraente valgono anche quali istanze presentate presso enti assicuratori o altri uffici competenti dell'altro Stato contraente.
 
@@ -823,15 +821,15 @@ Se l'ufficio, presso il quale e' presentato il ricorso, non conosce
 
 l'ufficio competente, l'inoltro puo' aver luogo tramite le Supreme Autorita' Amministrative dei due Stati contraenti.
 
-##### Articolo 28
+#### Articolo 28
 
 Le istanze che sono indirizzate agli enti, alle autorita' o ai
 
 tribunali competenti per le assicurazioni sociali dei due Stati contraenti, come pure gli altri atti occorrenti per l'applicazione delle assicurazioni sociali, non possono essere respinti per il fatto che sono redatti nella lingua ufficiale dell'altro Stato.
 
-## Capitolo III - Limiti della Convenzione
+### Capitolo III - Limiti della Convenzione
 
-##### Articolo 29
+#### Articolo 29
 
 Gli enti assicuratori nella Repubblica Federale di Germania
 
@@ -859,9 +857,9 @@ bb) dei periodi contributivi e sostitutivi si sia gia' tenuto
 
 conto per una prestazione concessa, prima dell'entrata in vigore della presente Convenzione, da un ente assicuratore con sede nel territorio della Repubblica Federale di Germania.
 
-## Capitolo IV - Applicazione e interpretazione della Convenzione
+### Capitolo IV - Applicazione e interpretazione della Convenzione
 
-##### Articolo 30
+#### Articolo 30
 
 (1) Le Supreme Autorita' Amministrative dei due Stati contraenti
 
@@ -887,7 +885,7 @@ reciprocamente sulle modifiche sopravvenute nelle disposizioni interne dei loro 
 
 assicurazioni sociali dei due Stati contraenti si tengono reciprocamente al corrente di tutte le misure che sono adottate per l'applicazione della presente Convenzione.
 
-##### Articolo 31
+#### Articolo 31
 
 (1) Le controversie sull'interpretazione o sull'applicazione della presente Convenzione sono risolte di comune accordo dalle Supreme Autorita' Amministrative dei due Stati contraenti.
 
@@ -911,13 +909,13 @@ Le decisioni sono vincolanti. Ciascuno Stato contraente sopporta le
 
 spese del proprio rappresentante. Le altre spese sono a carico, in parti uguali, dei due Stati contraenti. Per il resto il collegio arbitrale regola da se' la propria procedura.
 
-##### Articolo 32
+#### Articolo 32
 
 Qualora i contributi siano stati versati ad un ente assicuratore di
 
 uno dei due Stati contraenti, mentre avrebbero dovuto essere versati ad un ente assicuratore dell'altro Stato, il primo ente sara' considerato competente finche' la competenza non sia stata definita di comune accordo o la controversia sulla competenza non sia stata risolta definitivamente in conformita' all'articolo 31; la definizione concordata o la risoluzione ha effetto solo sui contributi assicurativi che matureranno nel futuro e sugli eventi assicurativi che sopravverranno nel futuro.
 
-##### Articolo 33
+#### Articolo 33
 
 (1) Quando tra gli enti assicuratori o le autorita' competenti per le assicurazioni sociali dei due Stati contraenti sorga contestazione circa il diritto applicabile, si deve concedere all'interessato una prestazione provvisoria fino a che la controversia non sia stata decisa in conformita' all'articolo 31 o 32.
 
@@ -933,11 +931,11 @@ in caso dubbio, all'ente assicuratore al quale per primo sia presentata la doman
 
 rimborsare in un unico pagamento all'ente assicuratore, che ha corrisposto la prestazione provvisoria, le spese sostenute. Se l'importo, che e' stato versato all'avente diritto a titolo di prestazione provvisoria, e' superiore all'ammontare delle prestazioni definitive spettanti per il periodo corrispondente, l'ente che in definitiva risultera' obbligato imputa la differenza sulle prestazioni future mediante trattenute non superiori al terzo del loro ammontare.
 
-##### Articolo 34
+#### Articolo 34
 
 Non sara' derogato in virtu' dell'articolo 2 alle disposizioni dei due Stati contraenti concernenti il diritto alle elezioni e l'eleggibilita' degli assicurati e dei loro datori di lavoro negli organi degli enti assicuratori e delle loro associazioni come pure rispetto alle autorita' competenti per le assicurazioni sociali.
 
-##### Articolo 35
+#### Articolo 35
 
 Ai sensi della presente Convenzione si intendono per Supreme
 
@@ -951,7 +949,7 @@ il Ministro Federale del Lavoro.
 
 ## PARTE VI - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Articolo 36
+#### Articolo 36
 
 (1) Le disposizioni della presente Convenzione si applicano anche agli eventi assicurativi, che si sono verificati prima della sua entrata in vigore. Nell'applicazione della presente Convenzione devono essere presi in considerazione anche i periodi contributivi e sostitutivi compiuti prima della sua entrata in vigore.
 
@@ -967,13 +965,13 @@ Convenzione non sono pagate prestazioni in base alle disposizioni in essa conten
 
 paragrafo 2 non valgono per le prestazioni dell'assicurazione malattie e della legislazione sulla tutela della madre lavoratrice; nell'assicurazione infortuni valgono solo per le rendite.
 
-##### Articolo 37
+#### Articolo 37
 
 Per l'applicazione delle disposizioni della presente Convenzione
 
 non puo' opporsi la scadenza dei termini di prescrizione o di decadenza, se le domande necessarie sono presentate entro il termine di due anni dopo l'entrata in vigore della presente Convenzione.
 
-##### Articolo 38
+#### Articolo 38
 
 La presente Convenzione si applica anche al Land Berlin appena il Governo della Repubblica Federale di Germania avra' fatto al riguardo una comunicazione al Governo della Repubblica italiana.
 
@@ -981,7 +979,7 @@ Dopo tale comunicazione, le disposizioni della presente Convenzione
 
 che si riferiscono al territorio della Repubblica Federale di Germania valgono anche per il territorio del Land Berlin.
 
-##### Articolo 39
+#### Articolo 39
 
 (1) La presente Convenzione e' conclusa per la durata di un anno a partire dalla data della sua entrata in vigore. Essa si intende tacitamente prorogata di anno in anno, salvo denuncia notificata per iscritto dal Governo di uno dei due Stati contraenti almeno tre mesi prima della scadenza del termine.
 
@@ -991,7 +989,7 @@ che si riferiscono al territorio della Repubblica Federale di Germania valgono a
 
 cessazione della presente Convenzione le disposizioni di essa continuano ad applicarsi anche dopo la sua cessazione in conformita' ad un accordo complementare.
 
-##### Articolo 40
+#### Articolo 40
 
 (1) La presente Convenzione sara' ratificata. Gli strumenti di
 
@@ -1019,7 +1017,7 @@ Il Ministro per gli affari esteri
 
 PICCIONI
 
-##### Protocollo finale
+#### Protocollo finale
 
 PROTOCOLLO FINALE
 
@@ -1085,7 +1083,7 @@ Il Ministro per gli affari esteri
 
 PICCIONI
 
-##### Allegato
+#### Allegato
 
 Abkommen zwischen der Bundesrepublik Deutschland und der Italienischen Republik ueber Sozialversicherung
 
@@ -1127,7 +1125,7 @@ JOSEF ECKERT,
 
 i quali, dopo essersi scambiati i loro pieni poteri, riconosciuti in buona e debita forma, hanno concordato le disposizioni seguenti:
 
-##### Articolo 1
+#### Articolo 1
 
 Disposizioni comuni
 
@@ -1135,7 +1133,7 @@ Per il periodo anteriore all'entrata in vigore della Convenzione
 
 sono concesse rendite dell'assicurazione infortuni (assicurazione contro gli infortuni sul lavoro e le malattie professionali) e pensioni delle assicurazioni pensioni (assicurazioni per i casi di invalidita', incapacita' professionale, vecchiaia e morte), comprese le assicurazioni pensioni per i minatori, ai cittadini italiani e tedeschi che si trovano nel territorio di uno dei due Stati contraenti. La concessione delle prestazioni si effettua in conformita' alle disposizioni seguenti e alle disposizioni interne in vigore per l'ente assicuratore competente.
 
-##### Articolo 2
+#### Articolo 2
 
 Assicurazione contro gli infortuni sul lavoro e le malattie professionali
 
@@ -1149,7 +1147,7 @@ b) con decorrenza dal 1 luglio 1951, se trattasi di rendite per infortuni sul la
 
 paragrafo 1, lettera a) sono pagate con decorrenza non anteriore al 1 luglio 1949 e per le rendite indicate nel paragrafo 1, lettera b) con decorrenza non anteriore al 1 luglio 1951.
 
-##### Articolo 3
+#### Articolo 3
 
 Assicurazioni pensioni
 
@@ -1175,7 +1173,7 @@ compiuti nei due Stati contraenti secondo le disposizioni della Convenzione: non
 
 (2) Le maggiorazioni, le aggiunte e gli altri supplementi a carico di fondi pubblici per le pensioni di cui al paragrafo 1 sono pagate a decorrere dalla data di entrata in vigore della Convenzione: tuttavia la quota fissa (Grundbetrag) delle pensioni dell'assicurazione pensioni tedesca per gli operai (assicurazione invalidita) e' pagata anche per il periodo anteriore alla data di entrata in vigore della Convenzione.
 
-##### Articolo 4
+#### Articolo 4
 
 Procedimento
 
@@ -1187,7 +1185,7 @@ presentata presso l'Ufficio di collegamento competente dello Stato Contraente in
 
 essere opposta se la domanda e' fatta entro il termine di due anni dall'entrata in vigore della Convenzione.
 
-##### Articolo 5
+#### Articolo 5
 
 Documentazione dei diritti
 
@@ -1195,7 +1193,7 @@ Nei casi in cui la documentazione relativa al diritto e alla misura
 
 delle prestazioni non fosse piu' reperibile, tali diritti potranno essere comprovati con ogni altro mezzo idoneo.
 
-##### Articolo 6
+#### Articolo 6
 
 Rapporti di pagamento
 
@@ -1203,7 +1201,7 @@ I trasferimenti derivanti dal presente Accordo sono effettuati come
 
 pagamenti correnti ai sensi dell'articolo 21, comma 2, della Convenzione. Cio' vale anche per le rendite che fossero state gia' versate in conti bloccati, da parte degli enti assicuratori obbligati, a favore dei beneficiari.
 
-##### Articolo 7
+#### Articolo 7
 
 Entrata in vigore
 
@@ -1235,7 +1233,7 @@ Il Ministro per gli affari esteri
 
 PICCIONI
 
-##### Protocollo finale
+#### Protocollo finale
 
 PROTOCOLLO FINALE
 
@@ -1273,7 +1271,7 @@ Il Ministro per gli affari esteri
 
 PICCIONI
 
-##### Allegato
+#### Allegato
 
 Zusatzvereinbarung zu dem Abkommen zwischen der Bundesrepublik Deutschland und der Italienischen Republik uber Sozialversicherung vom 5 Mai 1953 uber die Gewahrung von Renten fur die Zeit vor dem Inkrafttreten des Abkommens.
 

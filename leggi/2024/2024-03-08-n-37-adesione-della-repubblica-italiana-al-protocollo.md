@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione all'adesione
 
 1\. Il Presidente della Repubblica e' autorizzato ad aderire al Protocollo addizionale alla Convenzione sul contratto di trasporto internazionale di merci su strada (CMR) concernente la lettera di vettura elettronica, fatto a Ginevra il 20 febbraio 2008.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data al Protocollo addizionale alla Convenzione, di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 8 del Protocollo stesso.
 
-### Art. 3
+## Art. 3
 
 Clausola di invarianza finanziaria
 
@@ -47,7 +47,7 @@ Clausola di invarianza finanziaria
 
 2\. Le amministrazioni interessate provvedono all'adempimento dei compiti derivanti dall'attuazione della presente legge con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-### Art. 4
+## Art. 4
 
 Entrata in vigore
 
@@ -67,7 +67,7 @@ Visto, il Guardasigilli: Nordio
 
 ## Allegati
 
-### Additional protocol
+## Additional protocol
 
 ADDITIONAL PROTOCOL TO THE CONVENTION ON
 
@@ -105,7 +105,7 @@ in qualita' di parti della Convenzione sul contratto per il trasporto internazio
 
 Desiderando integrare la Convenzione allo scopo di facilitare la redazione facoltativa della lettera di vettura attraverso procedure utilizzate per la registrazione e la gestione elettronica dei dati, Hanno concordato quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 Definizioni
 
@@ -119,7 +119,7 @@ per «lettera di vettura elettronica», una lettera di vettura emessa mediante u
 
 per «firma elettronica», i dati in forma elettronica, allegati oppure connessi tramite associazione logica ad altri dati elettronici, utilizzati come metodo di autenticazione.
 
-### Articolo 2
+## Articolo 2
 
 Campo d'applicazione e portata della lettera di vettura elettronica
 
@@ -127,7 +127,7 @@ Campo d'applicazione e portata della lettera di vettura elettronica
 
 2\. Una lettera di vettura conforme al presente Protocollo sara' considerata equivalente alla lettera di vettura di cui alla Convenzione e pertanto avra' la stessa forza probante e produrra' gli stessi effetti di quest'ultima.
 
-### Articolo 3
+## Articolo 3
 
 Autenticazione della lettera di vettura elettronica
 
@@ -145,7 +145,7 @@ d. e' collegata ai dati ai quali si riferisce in modo da consentire di rilevare 
 
 3\. Le indicazioni che vi sono iscritte devono essere accessibili a tutti coloro che sono abilitati a questo scopo.
 
-### Articolo 4
+## Articolo 4
 
 Condizioni per la compilazione della lettera di vettura elettronica
 
@@ -157,7 +157,7 @@ Condizioni per la compilazione della lettera di vettura elettronica
 
 4\. La procedura impiegata per completare o modificare la lettera di vettura elettronica deve permettere di rilevare qualsiasi complemento o modifica e assicurare la conservazione delle indicazioni originali della lettera di vettura elettronica.
 
-### Articolo 5
+## Articolo 5
 
 Attuazione della lettera di vettura elettronica
 
@@ -177,7 +177,7 @@ f. le procedure che permettono un'eventuale sostituzione della lettera di vettur
 
 2\. Le procedure di cui al paragrafo 1 devono essere menzionate nella lettera di vettura elettronica e poter essere facilmente verificate.
 
-### Articolo 6
+## Articolo 6
 
 Documenti che completano la lettera di vettura elettronica
 
@@ -187,7 +187,7 @@ Documenti che completano la lettera di vettura elettronica
 
 ## DISPOSIZIONI FINALI
 
-### Articolo 7
+## Articolo 7
 
 Firma, ratifica, adesione
 
@@ -203,7 +203,7 @@ Firma, ratifica, adesione
 
 6\. Ogni strumento di ratifica o di adesione, depositato dopo l'entrata in vigore di un emendamento al presente Protocollo adottato conformemente alle disposizioni dell'articolo 13 riportato qui di seguito, si applica al testo del Protocollo come modificato dall'emendamento.
 
-### Articolo 8
+## Articolo 8
 
 Entrata in vigore
 
@@ -211,7 +211,7 @@ Entrata in vigore
 
 2\. Per ogni Paese che lo ratifichi o vi aderisca dopo che cinque Paesi hanno depositato i loro strumenti di ratifica o di adesione, il presente Protocollo entra in vigore il novantesimo giorno successivo al deposito dello strumento di ratifica o di adesione di detto Paese.
 
-### Articolo 9
+## Articolo 9
 
 Denuncia
 
@@ -221,19 +221,19 @@ Denuncia
 
 3\. Ogni Paese che cessa di essere Parte contraente della Convenzione cessa alla stessa data di essere Parte contraente del presente Protocollo.
 
-### Articolo 10
+## Articolo 10
 
 Abrogazione
 
 Ove, dopo l'entrata in vigore del presente Protocollo, in seguito a denuncia il numero delle Parti contraenti divenga inferiore a cinque, il presente Protocollo cessa di essere in vigore a decorrere dalla data in cui abbia effetto l'ultima di tali denunce. Il Protocollo cessa parimenti di essere in vigore a decorrere dalla data in cui la Convenzione stessa cessa di essere in vigore.
 
-### Articolo 11
+## Articolo 11
 
 Controversie
 
 Qualsiasi controversia fra due o piu' Parti contraenti sull'interpretazione o l'applicazione del presente Protocollo, che le Parti non abbiano potuto regolare mediante negoziati o in altro modo, puo', a richiesta d'una delle Parti contraenti interessate, essere portata avanti la Corte internazionale di giustizia per essere risolta dalla stessa.
 
-### Articolo 12
+## Articolo 12
 
 Riserve
 
@@ -243,7 +243,7 @@ Riserve
 
 3\. Non sara' ammessa alcuna altra riserva al presente Protocollo.
 
-### Articolo 13
+## Articolo 13
 
 Emendamenti
 
@@ -265,7 +265,7 @@ Quest'ultimo puo' rendere note al segretario generale, prima della scadenza del 
 
 8\. Qualsiasi emendamento che e' considerato accettato entra in vigore sei mesi dopo la data della sua notificazione alle Parti contraenti da parte del segretario generale.
 
-### Articolo 14
+## Articolo 14
 
 Convocazione di una conferenza diplomatica
 
@@ -275,7 +275,7 @@ Convocazione di una conferenza diplomatica
 
 3\. Ad ogni conferenza convocata in conformita' del presente articolo, Il Segretario generale invita tutti i Paesi di cui ai paragrafi 1, 3 e 4 dell'articolo 7 del presente Protocollo.
 
-### Articolo 15
+## Articolo 15
 
 Notificazioni ai Paesi
 
@@ -291,7 +291,7 @@ d. l'abrogazione del presente Protocollo conformemente all'articolo 10;
 
 e. le dichiarazioni e notificazioni ricevute conformemente ai paragrafi 1 e 2 dell'articolo 12.
 
-### Articolo 16
+## Articolo 16
 
 Depositario
 

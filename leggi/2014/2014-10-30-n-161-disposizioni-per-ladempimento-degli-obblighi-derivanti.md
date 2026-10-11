@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - DISPOSIZIONI IN MATERIA DI LIBERA CIRCOLAZIONE DELLE PERSONE, DEI BENI E DEI SERVIZI
 
-### DISPOSIZIONI IN MATERIA DI LIBERA CIRCOLAZIONE DELLE PERSONE, DEI - BENI E DEI SERVIZI
-
-#### Art. 1
+### Art. 1
 
 Modifiche alla legge 30 novembre 1989, n. 398, recante norme in materia di borse di studio per il perfezionamento all'estero. Caso EU Pilot 5015/13/EACU.
 
@@ -76,7 +74,7 @@ d) al comma 4:
 
 > 4\. Le commissioni giudicatrici devono essere composte da professori e ricercatori di ruolo, dei quali almeno uno con qualifica di professore ordinario, che la presiede.
 
-#### Art. 2
+### Art. 2
 
 Modifica al decreto legislativo 2 febbraio 2001, n. 96, recante attuazione della direttiva 98/5/CE, in materia di societa' tra avvocati. Caso EU Pilot 1753/11/MARK.
 
@@ -94,7 +92,7 @@ Modifica al decreto legislativo 2 febbraio 2001, n. 96, recante attuazione della
 
 > 2\. Non e' consentita la indicazione del nome di un socio avvocato dopo la cessazione della sua appartenenza alla societa', salvo diverso accordo tra la societa' e il socio cessato o i suoi eredi. In tal caso la utilizzazione del nome e' consentita con la indicazione «ex socio» o «socio fondatore» accanto al nominativo utilizzato, purche' non sia mutata l'intera compagine dei soci professionisti presenti al momento della cessazione della qualita' di socio.".
 
-#### Art. 3
+### Art. 3
 
 Disposizioni in materia di immigrazione e rimpatri. Sentenza pregiudiziale della Corte di giustizia dell'Unione europea del 6 dicembre 2012 nella causa C-430/11. Caso EU Pilot 6534/14/HOME.
 
@@ -430,7 +428,7 @@ h) all'articolo 16, dopo il comma 1 e' inserito il seguente:
 
 > 9\. L'espulsione a titolo di sanzione sostitutiva o alternativa alla detenzione non si applica ai casi di cui all'articolo 19.".
 
-#### Art. 4
+### Art. 4
 
 Disposizioni in materia di commercializzazione in Italia di camini o condotti in plastica. Procedura di infrazione n. 2008/4541.
 
@@ -464,7 +462,7 @@ c) al secondo periodo, primo trattino, le parole: «essere realizzati con materi
 
 > \- avere un'altezza correlata alla sezione utile secondo gli appropriati metodi di calcolo riportati dalla normativa tecnica vigente (norme UNI e norme CEN). Resta salvo quanto stabilito ai punti 2.9 e 2.10.".
 
-#### Art. 5
+### Art. 5
 
 Disposizioni in materia di servizi investigativi privati
 
@@ -492,7 +490,7 @@ b) dopo il comma 2 e' inserito il seguente:
 
 > Il Ministro dell'interno e' autorizzato a sottoscrivere, in materia di vigilanza privata, accordi di collaborazione con le competenti autorita' degli Stati membri dell'Unione europea, per il reciproco riconoscimento dei requisiti, dei presupposti e delle condizioni necessari per lo svolgimento dell'attivita', nonche' dei provvedimenti amministrativi previsti dai rispettivi ordinamenti.".
 
-#### Art. 6
+### Art. 6
 
 Modifiche al decreto legislativo 26 marzo 2010, n. 59, recante attuazione della direttiva 2006/123/CE relativa ai servizi nel mercato interno.
 
@@ -556,11 +554,9 @@ b) all'articolo 36, comma 2, dopo le parole: «di cui agli articoli 37, 38, 39 e
 
 > 8\. Restano ferme le iniziative nel settore della cooperazione giudiziaria e di polizia in materia penale, in particolare in materia di scambio di informazioni tra autorita' degli Stati membri preposte all'applicazione della legge e di casellari giudiziari".
 
-## Capo II
+## Capo II - DISPOSIZIONI IN MATERIA TRIBUTARIA
 
-### DISPOSIZIONI IN MATERIA TRIBUTARIA
-
-#### Art. 7
+### Art. 7
 
 Modifiche al regime fiscale applicabile ai contribuenti che, pur essendo fiscalmente residenti in un altro Stato membro dell'Unione europea o dello Spazio economico europeo, producono o ricavano la maggior parte del loro reddito in Italia (cosiddetti «non residenti Schumacker»). Procedura di infrazione n. 2013/2027.
 
@@ -600,7 +596,7 @@ Modifiche al regime fiscale applicabile ai contribuenti che, pur essendo fiscalm
 
 > d) gli esercenti attivita' d'impresa o arti e professioni in forma individuale che contestualmente partecipano a societa' di persone o associazioni di cui all'articolo 5 del citato testo unico di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, ovvero a societa' a responsabilita' limitata di cui all'articolo 116 del medesimo testo unico.".
 
-#### Art. 8
+### Art. 8
 
 Disciplina dell'imposta sulle successioni e donazioni. Esenzione in favore degli enti senza scopo di lucro, delle fondazioni e delle associazioni costituite all'estero, nonche' in materia di titoli del debito pubblico. Procedure di infrazione n. 2012/2156 e n. 2012/2157).
 
@@ -662,7 +658,7 @@ b) all'articolo 12, comma 1, sono apportate le seguenti modificazioni:
 
 > 1-ter. I beni ed i diritti oggetto del pagamento di cui al comma 1-bis del presente articolo, in caso di donazione, concorrono a formare il valore globale della donazione, ma dalla imposta dovuta si detrae l'importo pagato volontariamente dal donante.".
 
-#### Art. 9
+### Art. 9
 
 Modifiche alla disciplina dell'imposta sul valore delle attivita' finanziarie detenute all'estero dalle persone fisiche residenti nel territorio dello Stato. Caso EU Pilot 5095/13/TAX U.
 
@@ -694,7 +690,7 @@ c) al comma 21, le parole: «detenute le attivita' finanziarie» sono sostituite
 
 > (Omissis).".
 
-#### Art. 10
+### Art. 10
 
 Riscossione coattiva dei debiti aventi ad oggetto entrate che costituiscono risorse proprie ai sensi della decisione 2007/436/CE, Euratom del Consiglio.
 
@@ -758,7 +754,7 @@ b) al comma 533, dopo la lettera a) e' inserita la seguente:
 
 > b-bis) di individuazione mirata e selettiva, nel rispetto dei principi di economicita' ed efficacia, delle posizioni da sottoporre a controllo puntuale, tenuto conto della capacita' operativa delle strutture a tal fine deputate.".
 
-#### Art. 11
+### Art. 11
 
 Disposizioni attuative del regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, concernente gli strumenti derivati OTC, le contro parti centrali e i repertori di dati sulle negoziazioni.
 
@@ -804,7 +800,7 @@ c) all'articolo 193-quater, il comma 3 e' sostituito dal seguente:
 
 > 4\. Alle sanzioni amministrative pecuniarie previste dal presente articolo non si applica l'articolo 16 della legge 24 novembre 1981, n. 689.".
 
-#### Art. 12
+### Art. 12
 
 Recepimento della direttiva 2013/61/UE in relazione alle regioni ultraperiferiche francesi, in particolare Mayotte.
 
@@ -910,11 +906,9 @@ Recepimento della direttiva 2013/61/UE in relazione alle regioni ultraperiferich
 
 > 5\) delle zone di sovranita' del Regno Unito di Akrotiri e Dhekelia sono considerate come provenienti dalla, o destinate alla, Repubblica di Cipro.".
 
-## Capo III
+## Capo III - DISPOSIZIONI IN MATERIA DI LAVORO E DI POLITICHE SOCIALI
 
-### DISPOSIZIONI IN MATERIA DI LAVORO E DI POLITICHE SOCIALI
-
-#### Art. 13
+### Art. 13
 
 Modifiche al decreto legislativo 9 aprile 2008, n. 81, in materia di salute e sicurezza dei lavoratori durante il lavoro. Procedura di infrazione n. 2010/4227.
 
@@ -986,7 +980,7 @@ b) all'articolo 29, comma 3, sono aggiunti, in fine, i seguenti periodi: «Anche
 
 > c).".
 
-#### Art. 14
+### Art. 14
 
 Disposizioni in materia di orario di lavoro del personale delle aree dirigenziali e del ruolo sanitario del Servizio sanitario nazionale. Procedura di infrazione n. 2011/4185.
 
@@ -1138,7 +1132,7 @@ Disposizioni in materia di orario di lavoro del personale delle aree dirigenzial
 
 > La legge 7 agosto 2012 n. 135 (Conversione in legge, con modificazioni, del decreto-legge 6 luglio 2012, n. 95, recante disposizioni urgenti per la revisione della spesa ubblica con invarianza dei servizi ai cittadini), e' pubblicata nella Gazzetta Ufficiale 14 agosto 2012, n. 189, S.O.
 
-#### Art. 15
+### Art. 15
 
 Modifiche al decreto legislativo 17 agosto 1999, n. 298, in materia di salute e sicurezza per il lavoro a bordo delle navi da pesca.
 
@@ -1352,7 +1346,7 @@ Procedura di infrazione n. 2011/2098.
 
 > Deve essere disponibile una scala d'imbarco, una passerella di imbarco o un altro dispositivo analogo che offra un accesso adeguato e sicuro a bordo della nave.".
 
-#### Art. 16
+### Art. 16
 
 Modifiche all'articolo 24 della legge 23 luglio 1991, n. 223, in materia di licenziamenti collettivi. Procedura di infrazione n. 2007/4652. Sentenza della Corte di giustizia dell'Unione europea del 13 febbraio 2014 nella causa C-596/12.
 
@@ -1396,11 +1390,9 @@ c) al comma 2, le parole: «commi 1 e 1-bis» sono sostituite dalle seguenti: «
 
 > 6\. Il presente articolo non si applica ai licenziamenti intimati prima della data di entrata in vigore della presente legge.".
 
-## Capo IV
+## Capo IV - DISPOSIZIONI IN MATERIA DI AMBIENTE
 
-### DISPOSIZIONI IN MATERIA DI AMBIENTE
-
-#### Art. 17
+### Art. 17
 
 Disposizioni in materia di bevande a base di succo di frutta. Caso EU Pilot n. 4738/13/ENTR
 
@@ -1418,7 +1410,7 @@ AGGIORNAMENTO (3)
 
 Il Comunicato in G.U. 24/05/2017, n. 119 ha disposto che "La disposizione di cui all'art. 17, comma 1, della legge 30 ottobre 2014 n. 161 sara' applicabile dal 6 marzo 2018".
 
-#### Art. 18
+### Art. 18
 
 Disposizioni in materia di qualita' e trasparenza della filiera degli oli di oliva vergini. Caso EU Pilot n. 4632/13/AGRI.
 
@@ -1536,7 +1528,7 @@ e) all'articolo 16, comma 1, primo periodo, dopo la parola: «produzioni» e' in
 
 > 1-quinquies. All'articolo 2, comma 2, lettera e), della legge 29 dicembre 1993, n. 580, e successive modificazioni, dopo le parole: «la promozione del sistema italiano delle imprese all'estero» sono inserite le seguenti: «e la tutela del ''Made in Italy''».
 
-#### Art. 19
+### Art. 19
 
 Delega al Governo in materia di inquinamento acustico. Armonizzazione della normativa nazionale con le direttive 2002/49/CE, 2000/14/CE e 2006/123/CE e con il regolamento (CE) n. 765/2008.
 
@@ -1570,11 +1562,9 @@ m) adeguamento del regime sanzionatorio in caso di mancato rispetto del livello 
 
 4\. Dall'attuazione della delega legislativa prevista dal presente articolo non devono derivare nuovi o maggiori oneri per la finanza pubblica. Le amministrazioni interessate provvedono all'adempimento dei compiti ivi previsti con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-## Capo V
+## Capo V - DISPOSIZIONI A TUTELA DELLA CONCORRENZA
 
-### DISPOSIZIONI A TUTELA DELLA CONCORRENZA
-
-#### Art. 20
+### Art. 20
 
 Modifiche al codice di cui al decreto legislativo 12 aprile 2006, n. 163, relative agli affidatari di incarichi di progettazione. Caso EU Pilot 4680/13/MARK.
 
@@ -1638,7 +1628,7 @@ b) dopo il comma 8 e' aggiunto il seguente:
 
 > 8-bis. I divieti di cui al comma 8 non si applicano laddove i soggetti ivi indicati dimostrino che l'esperienza acquisita nell'espletamento degli incarichi di progettazione non e' tale da determinare un vantaggio che possa falsare la concorrenza con gli altri operatori.".
 
-#### Art. 21
+### Art. 21
 
 Disposizioni in materia di contratti pubblici, relative all'istituto dell'avvalimento. Sentenza pregiudiziale della Corte di giustizia dell'Unione europea del 10 ottobre 2013 nella causa C-94/12.
 
@@ -1690,7 +1680,7 @@ Disposizioni in materia di contratti pubblici, relative all'istituto dell'avvali
 
 > 11\. In relazione a ciascuna gara, la stazione appaltante trasmette all'Autorita' tutte le dichiarazioni di avvalimento, indicando altresi' l'aggiudicatario, per l'esercizio della vigilanza, e per la pubblicita' sul sito informatico presso l'Osservatorio.".
 
-#### Art. 22
+### Art. 22
 
 Disposizioni in materia di attribuzioni dell'Autorita' per l'energia elettrica, il gas ed il sistema idrico nel settore del mercato dell'energia all'ingrosso. Attuazione del regolamento (UE) n. 1227/2011.
 
@@ -1758,7 +1748,7 @@ f) presentare presso il tribunale o altra autorita' competente istanze di diviet
 
 > 7\. Le disposizioni di cui al presente articolo si applicano ai procedimenti sanzionatori di competenza dell'Autorita' per l'energia elettrica e il gas avviati successivamente all'entrata in vigore del presente decreto.".
 
-#### Art. 23
+### Art. 23
 
 Stazioni di distribuzione dei carburanti ubicate
 
@@ -1812,11 +1802,9 @@ nelle aree urbane. Caso EU PILOT 4734/13/MARK
 
 > 14\. I nuovi contratti di cui al comma 12 devono assicurare al gestore condizioni contrattuali eque e non discriminatorie per competere nel mercato di riferimento.".
 
-## Capo VI
+## Capo VI - ALTRE DISPOSIZIONI
 
-### ALTRE DISPOSIZIONI
-
-#### Art. 24
+### Art. 24
 
 Norme di interpretazione autentica e modifiche al decreto legislativo 9 ottobre 2002, n. 231, recante attuazione della direttiva 2000/35/CE relativa alla lotta contro i ritardi di pagamento nelle transazioni commerciali. Caso EU PILOT 5216/13/ENTR.
 
@@ -2168,7 +2156,7 @@ b) dopo l'articolo 7 e' inserito il seguente:
 
 > 7\. Resta ferma la facolta' delle parti di concordare termini di pagamento a rate. In tali casi, qualora una delle rate non sia pagata alla data concordata, gli interessi e il risarcimento previsti dal presente decreto sono calcolati esclusivamente sulla base degli importi scaduti.".
 
-#### Art. 25
+### Art. 25
 
 Modifica all'articolo 55-quater del codice delle pari opportunita' tra uomo e donna, di cui al decreto legislativo 11 aprile 2006, n. 198, in attuazione della sentenza della Corte di giustizia dell'Unione europea del 1° marzo 2011 nella causa C-236/09, che ha dichiarato l'illegittimita' dell'articolo 5, paragrafo 2, della direttiva 2004/113/CE, e delle conseguenti Linee guida emanate dalla Commissione europea.
 
@@ -2206,7 +2194,7 @@ e) al comma 5, le parole: «L'Istituto per la vigilanza sulle assicurazioni priv
 
 > La legge 21 giugno 1986, n. 317 (Procedura d'informazione nel settore delle norme e regolamentazioni tecniche e delle regole relative ai servizi della societa' dell'informazione in attuazione della direttiva 98/34/CE del Parlamento europeo e del Consiglio del 22 giugno 1998, modificata dalla direttiva 98/48/CE del Parlamento europeo e del Consiglio del 20 luglio 1998), e' pubblicata nella Gazzetta Ufficiale 2 luglio 1986, n. 151.
 
-#### Art. 26
+### Art. 26
 
 Delega al Governo per l'adozione di nuove disposizioni in materia di utilizzo dei termini «cuoio», «pelle» e «pelliccia» e di quelli da essi derivati o loro sinonimi. Caso EU Pilot 4971/13/ENTR.
 
@@ -2232,7 +2220,7 @@ Delega al Governo per l'adozione di nuove disposizioni in materia di utilizzo de
 
 > La legge 21 giugno 1986, n. 317 (Procedura d'informazione nel settore delle norme e regolamentazioni tecniche e delle regole relative ai servizi della societa' dell'informazione in attuazione della direttiva 98/34/CE del Parlamento europeo e del Consiglio del 22 giugno 1998, modificata dalla direttiva 98/48/CE del Parlamento europeo e del Consiglio del 20 luglio 1998) e' pubblicata nella Gazzetta Ufficiale 2 luglio 1986, n. 151.
 
-#### Art. 27
+### Art. 27
 
 Disposizioni volte al recepimento della direttiva 2009/109/CE del Parlamento europeo e del Consiglio, del 16 settembre 2009, relativa agli obblighi in materia di relazioni e di documentazione in caso di fusioni e scissioni. Caso EU Pilot 5062/13/MARK.
 
@@ -2268,7 +2256,7 @@ Disposizioni volte al recepimento della direttiva 2009/109/CE del Parlamento eur
 
 > 3\. Quando una fusione transfrontaliera per incorporazione e' realizzata da una societa' che detiene almeno il 90 per cento ma non la totalita' delle azioni, quote o altri titoli che conferiscono il diritto di voto nell'assemblea della societa' incorporata, le relazioni di cui agli articoli 2501-quinquies e 2501-sexies del codice civile e la situazione patrimoniale di cui all'articolo 2501-quater del medesimo codice sono richieste soltanto qualora cio' sia previsto dalla legislazione nazionale cui e' soggetta la societa' incorporante o la societa' incorporata.".
 
-#### Art. 28
+### Art. 28
 
 Attuazione della direttiva 2013/25/UE del Consiglio, del 13 maggio 2013, che adegua determinate direttive in materia di diritto di stabilimento e libera prestazione dei servizi a motivo dell'adesione della Repubblica di Croazia.
 
@@ -2290,7 +2278,7 @@ Attuazione della direttiva 2013/25/UE del Consiglio, del 13 maggio 2013, che ade
 
 > Il decreto legislativo 2 febbraio 2001, n. 96 (Attuazione della direttiva 98/5/CE volta a facilitare l'esercizio permanente della professione di avvocato in uno Stato membro diverso da quello in cui e' stata acquisita la qualifica professionale) e' pubblicato nella Gazz. Uff. 4 aprile 2001, n. 79, S.O.
 
-#### Art. 29
+### Art. 29
 
 Potenziamento delle misure di contrasto delle frodi in danno dei bilanci dell'Unione europea, dello Stato e degli enti territoriali.
 
@@ -2328,7 +2316,7 @@ b) al comma 2, le parole: «del comma 1» sono sostituite dalle seguenti: «dei 
 
 > 6\. Per consentire un'adeguata trasparenza degli interventi agevolativi disposti ai sensi del presente decreto-legge, il Ministero dello sviluppo economico pubblica sul proprio sito istituzionale l'elenco delle iniziative oggetto di finanziamento a valere sul fondo di cui all'articolo 23, comma 2.".
 
-#### Art. 30
+### Art. 30
 
 Attuazione di disposizioni non direttamente applicabili della direttiva 2011/85/UE e del regolamento (UE) n. 473/2013.
 
@@ -2360,7 +2348,7 @@ Attuazione di disposizioni non direttamente applicabili della direttiva 2011/85/
 
 > 2\. Per amministrazioni pubbliche si intendono tutte le amministrazioni dello Stato, ivi compresi gli istituti e scuole di ogni ordine e grado e le istituzioni educative, le aziende ed amministrazioni dello Stato ad ordinamento autonomo, le Regioni, le Province, i Comuni, le Comunita' montane, e loro consorzi e associazioni, le istituzioni universitarie, gli Istituti autonomi case popolari, le Camere di commercio, industria, artigianato e agricoltura e loro associazioni, tutti gli enti pubblici non economici nazionali, regionali e locali, le amministrazioni, le aziende e gli enti del Servizio sanitario nazionale, l'Agenzia per la rappresentanza negoziale delle pubbliche amministrazioni (ARAN) e le Agenzie di cui al decreto legislativo 30 luglio 1999, n. 300. Fino alla revisione organica della disciplina di settore, le disposizioni di cui al presente decreto continuano ad applicarsi anche al CONI.".
 
-#### Art. 31
+### Art. 31
 
 Misure per lo sviluppo della ricerca applicata alla pesca
 
@@ -2458,7 +2446,7 @@ Misure per lo sviluppo della ricerca applicata alla pesca
 
 > 3\. Le disposizioni di cui al presente articolo non si applicano ai prodotti dell'acquacoltura e a quelli ad essa destinati, fermo restando quanto previsto dall'articolo 16 del regolamento (CE) n. 1967/06.".
 
-#### Art. 32
+### Art. 32
 
 Disposizioni in materia
 
@@ -2550,17 +2538,15 @@ Si applicano le disposizioni di cui all'articolo 739 del codice di procedura civ
 
 > La cancelleria deve comunicare all'ufficio del registro del luogo ove si e' aperta la successione, copia dei certificati di eredita' o di legato rilasciati dal tribunale in composizione monocratica.".
 
-## Capo VII
+## Capo VII - DISPOSIZIONI FINANZIARIE
 
-### DISPOSIZIONI FINANZIARIE
-
-#### Art. 33
+### Art. 33
 
 Clausola di invarianza finanziaria
 
 1\. Fatto salvo quanto stabilito dall'articolo 34, dall'attuazione della presente legge non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono agli adempimenti previsti dalla presente legge con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 34
+### Art. 34
 
 Norma di copertura finanziaria. Disposizioni in materia di consumi medi standardizzati di gasolio in agricoltura
 
@@ -2582,7 +2568,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Allegato A
+### Allegato A
 
 Allegato A, parte I
 

@@ -27,21 +27,21 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo di partenariato e di cooperazione che istituisce un partenariato tra le Comunita' europee e i loro Stati membri, da una parte, e la Federazione russa, dall'altra, con dieci allegati e due protocolli, atto finale, dichiarazioni e scambio di lettere riguardanti l'Uruguay Round, fatto a Corfu' il 24 giugno 1994.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 112 dell'accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 8 milioni annue a decorrere dal 1995, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1995-1997, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1995, all'uopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -139,7 +139,7 @@ Desiderosi di promuovere una cooperazione culturale e di ampliare il flusso dell
 
 CONVENGONO:
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 E' istituito un partenariato tra la Comunita' e gli Stati membri, da una parte, e la Russia, dall'altra.
 
@@ -163,19 +163,19 @@ preparare il terreno alla futura creazione di una zona di libero scambio tra la 
 
 ## TITOLO I - PRINCIPI GENERALI
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Il rispetto dei principi democratici e dei diritti dell'uomo definiti, in particolare, nell'Atto finale di Helsinki e nella Carta di Parigi per una nuova Europa e' alla base delle politiche interna ed estera delle Parti e costituisce un elemento fondamentale del partenariato e del presente accordo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Le Parti si impegnano, quando le circostanze lo consentiranno, ad esaminare la possibilita' di ampliare i titoli pertinenti dell'accordo, segnatamente il Titolo III e l'articolo 53, per instaurare fra di esse una zona di libero scambio. Il Consiglio di cooperazione puo' fare alle Parti raccomandazioni al riguardo. Agli eventuali ampliamenti si potra' procedere soltanto previo accordo tra le Parti conformemente alle rispettive procedure. Le Parti esamineranno insieme, nel 1998, se le circostanze consentono di avviare negoziati per la creazione della zona di libero scambio.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Le Parti si impegnano ad esaminare insieme e a concordare le eventuali modifiche da apportare a qualsiasi parte dell'accordo per le mutate circostanze, in particolare a seguito dell'adesione della Russia al GATT/OCM. Il primo esame avverra' dopo tre anni dall'entrata in vigore dell'accordo oppure, se questa data e' precedente, nel momento in cui la Russia aderira' al GATT/OCM.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 1\. Il trattamento della nazione piu' favorita concesso dalla Russia a norma del presente accordo non si applica per un periodo transitorio di cinque anni a partire dall'entrata in vigore del presente accordo per i vantaggi di cui all'allegato 1 concessi dalla Russia agli altri paesi dell'ex URSS. Se del caso, le Parti possono decidere di comune accordo di prolungare questo periodo per settori specifici.
 
@@ -183,7 +183,7 @@ Le Parti si impegnano ad esaminare insieme e a concordare le eventuali modifiche
 
 ## TITOLO II - DIALOGO POLITICO
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Le Parti avviano un regolare dialogo politico, che svilupperanno e intensificheranno in seguito per accompagnare e consolidare il ravvicinamento tra l'Unione europea e la Russia, sostenere i mutamenti politici ed economici in corso in questo paese e contribuire ad instaurare nuove forme di cooperazione. Detto dialogo politico:
 
@@ -193,13 +193,13 @@ Le Parti avviano un regolare dialogo politico, che svilupperanno e intensificher
 
 \- impegnera' le Parti a collaborare per le questioni riguardanti l'osservanza dei principi della democrazia e la tutela dei diritti dell'uomo, tenendo, all'occorrenza, consultazioni sulle questioni inerenti alla loro applicazione.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 1\. In linea di massima, si terranno riunioni semestrali tra il Presidente del Consiglio dell'Unione europea e il Presidente della Commissione delle Comunita' europee, da una parte, e il Presidente della Russia, dall'altra.
 
 2\. A livello ministeriale, il dialogo politico si svolgera' nell'ambito del Consiglio di cooperazione creato a norma dell'articolo 90 e in altre occasioni tra cui, previo mutuo accordo, la troika dell'Unione europea.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Le Parti creeranno altre procedure e altri meccanismi per il dialogo politico, segnatamente:
 
@@ -209,13 +209,13 @@ Le Parti creeranno altre procedure e altri meccanismi per il dialogo politico, s
 
 \- utilizzando qualsiasi altro mezzo, comprese le riunioni di esperti, che possa contribuire a consolidare e a sviluppare il dialogo politico.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 A livello parlamentare, il dialogo politico si svolgera' nell'ambito della Commissione parlamentare per la cooperazione creata a norma dell'articolo 95.
 
 ## TITOLO III - SCAMBI DI MERCI
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 1\. Le Parti si concedono reciprocamente il trattamento generale della nazione piu' favorita di cui all'articolo 1, paragrafo 1 del GATT.
 
@@ -227,7 +227,7 @@ b) ai vantaggi concessi al fine di creare un'unione doganale o una zona di liber
 
 c) ai vantaggi concessi a paesi particolari conformemente al GATT e ad altre intese internazionali a favore dei paesi in via di sviluppo.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 1\. I prodotti del territorio di una Parte importati nel territorio dell'altra Parte non sono soggetti ne' direttamente ne' indirettamente a tasse interne o ad altri oneri interni di nessuna specie, fatta eccezione per quelli applicati, direttamente o indirettamente, ai prodotti interni simili.
 
@@ -235,7 +235,7 @@ c) ai vantaggi concessi a paesi particolari conformemente al GATT e ad altre int
 
 3\. L'articolo III, paragrafi 8, 9 e 10 del GATT si applica, mutatis mutandis, tra le Parti.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 1\. Le Parti convengono che la liberta' di transito e' fondamentale per conseguire gli obiettivi del presente accordo.
 
@@ -243,7 +243,7 @@ A tale riguardo, ciascuna delle Parti consente il libero transito attraverso il 
 
 2\. Le norme di cui all'articolo V, paragrafi 2, 3, 4 e 5 del GATT sono applicabili fra le Parti.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 I seguenti articoli del GATT si applicano, mutatis mutandis, tra le Parti:
 
@@ -255,21 +255,21 @@ I seguenti articoli del GATT si applicano, mutatis mutandis, tra le Parti:
 
 4\) Articolo X.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Fatti salvi i diritti e gli obblighi derivanti dalle convenzioni internazionali sull'ammissione temporanea delle merci a cui hanno aderito entrambe le Parti, queste ultime si concedono reciprocamente l'esenzione dagli oneri all'importazione e dai dazi sulle merci in ammissione temporanea, nei casi e secondo le procedure previsti da qualsiasi altra convenzione in materia a cui abbiano aderito conformemente alle rispettive legislazioni. Dette legislazioni vengono applicate in base alla regola della nazione piu' favorita e fatte salve le eccezioni elencate all'articolo 10, paragrafo 2 del presente accordo. Si terra' conto delle condizioni in cui le Parti hanno accettato gli obblighi derivanti da tale convenzione.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 1\. Le merci originarie della Russia vengono importate nella Comunita' in esenzione da restrizioni quantitative, fatte salve le disposizioni degli articoli 17, 20 e 21 del presente accordo nonche' le disposizioni degli articoli 77, 81, 244, 249 e 280 dell'atto di adesione della Spagna e del Portogallo alle Comunita'.
 
 2\. Le merci originarie della Comunita' vengono importate in Russia in esenzione da restrizioni quantitative, fatte salve le disposizioni degli articoli 17, 20 e 21 e dell'allegato 2 del presente accordo.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 Finche' la Russia aderisce al GATT/OCM, le Parti si consulteranno in sede di Comitato di cooperazione sulle rispettive politiche tariffarie all'importazione, compresi i cambiamenti a livello di protezione tariffaria. Fra l'altro, dette consultazioni verranno proposte prima di aumentare la protezione tariffaria.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 1\. Se un prodotto viene importato nel territorio di una delle Parti in quantitativi talmente aumentati o in condizioni tali da provocare o da minacciare di provocare grave pregiudizio ai produttori nazionali di prodotti simili o direttamente concorrenti, la Comunita' o la Russia, a seconda dei casi, possono prendere le misure opportune attenendosi alle seguenti procedure e condizioni.
 
@@ -287,7 +287,7 @@ Prima di agire in tal senso, l'altra Parte deve comunque proporre consultazioni 
 
 7\. Il diritto di venir meno agli obblighi, di cui al paragrafo 6, non viene esercitato per i primi tre anni di applicazione di una misura di salvaguardia, purche' detta misura sia stata presa in seguito ad un aumento radicale delle importazioni, per un massimo di quattro anni e conformemente alle disposizioni del presente accordo.
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 Il presente Titolo, e in particolare l'articolo 17, non pregiudicano ne' compromettono minimamente l'adozione, ad opera di una delle Parti, di misure antidumping o compensative conformemente all'articolo VI del GATT, all'accordo sull'applicazione dell'articolo VI del GATT, all'accordo sull'interpretazione e sull'applicazione degli articoli VI, XVI e XXIII del GATT o alla relativa legislazione interna.
 
@@ -295,15 +295,15 @@ Per quanto riguarda le inchieste antidumping o antisovvenzioni, ciascuna Parte a
 
 Prima di istituire dazi antidumping o compensativi, ciascuna Parte fa il possibile per risolvere il problema in modo costruttivo.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 Il presente accordo lascia impregiudicati i divieti o le restrizioni all'importazione, all'esportazione o al transito giustificati da motivi di moralita' pubblica, di ordine pubblico, di pubblica sicurezza, dalla tutela della vita e della salute delle persone, degli animali o delle piante, dalla tutela delle risorse naturali, dalla protezione del patrimonio artistico, storico o archeologico nazionale, dalla tutela della proprieta' intellettuale, industriale o commerciale oppure da norme relative all'oro e all'argento. Tuttavia, tali divieti o restrizioni non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio tra le Parti.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 Il presente Titolo lascia impregiudicate le disposizioni dell'accordo tra la Comunita' economica europea e la Federazione russa al commercio dei prodotti tessili siglato il 12 giugno 1993 e applicato con effetto retroattivo dal 1 gennaio 1993. Inoltre, l'articolo 15 del presente accordo non si applica agli scambi di prodotti tessili che rientrano nei capitoli 50-63 della nomenclatura combinata.
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 1\. Gli scambi dei prodotti contemplati dal trattato che istituisce la Comunita' europea del carbone e dell'acciaio sono disciplinati:
 
@@ -313,7 +313,7 @@ Il presente Titolo lascia impregiudicate le disposizioni dell'accordo tra la Com
 
 2\. La creazione di un gruppo di contatto sulle questioni siderurgiche avviene secondo le disposizioni del protocollo n. 1 allegato al presente accordo.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 Commercio di materiali nucleari
 
@@ -345,17 +345,15 @@ Fino all'entrata in vigore di tale accordo, si applicano, per il trasferimento d
 
 ## TITOLO IV - DISPOSIZIONI RIGUARDANTI LE ATTIVITA' COMMERCIALI E GLI INVESTIMENTI
 
-### CAPITOLO I
+### CAPITOLO I - Condizioni di lavoro
 
-#### Condizioni di lavoro
-
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 1\. Conformemente alle leggi, condizioni e procedure applicabili in ciascuno Stato membro, la Comunita' e i suoi Stati membri evitano che i cittadini russi legalmente impiegati sul territorio di uno Stato membro siano oggetto, rispetto ai loro cittadini, di discriminazioni basate sulla nazionalita' per quanto riguarda le condizioni di lavoro, di retribuzione o di licenziamento.
 
 2\. Conformemente alle condizioni e procedure applicabili in Russia, questo paese concede il trattamento di cui al paragrafo 1 ai cittadini di uno Stato membro legalmente impiegati sul suo territorio.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 Coordinamento della previdenza sociale
 
@@ -373,21 +371,21 @@ familiari per i summenzionati membri della loro famiglia;
 
 2\) adottare, secondo le condizioni e modalita' applicabili, in Russia, le disposizioni necessarie per concedere ai lavoratori di uno Stato membro legalmente impiegati in Russia e ai loro familiari legalmente residenti in tale paese, un trattamento simile a quello di cui al secondo e terzo trattino del paragrafo 1).
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 Le misure prese in conformita' dell'articolo 24 non pregiudicano i diritti e gli obblighi previsti dagli accordi bilaterali tra gli Stati membri e la Russia qualora detti accordi prevedano un trattamento piu' favorevole per i cittadini degli Stati membri o della Russia.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 Il Consiglio di cooperazione riflette su come migliorare le condizioni di lavoro per gli uomini d'affari conformemente agli impegni internazionali delle Parti, compresi quelli che figurano nel documento della conferenza CSCE di Bonn.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 Il Consiglio di cooperazione formula raccomandazioni per l'applicazione degli articoli 23 e 26.
 
-## CAPITOLO II - Condizioni per lo stabilimento e l'attivita' delle societa'
+### CAPITOLO II - Condizioni per lo stabilimento e l'attivita' delle societa'
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 1\. Conformemente alle rispettive legislazioni e normative, la Comunita' e gli Stati membri, da una parte, e la Russia, dall'altra si concedono reciprocamente un trattamento non meno favorevole di quello concesso a qualsiasi paese terzo per le societa' che si stabiliscono sul loro territorio.
 
@@ -401,7 +399,7 @@ Il Consiglio di cooperazione formula raccomandazioni per l'applicazione degli ar
 
 Beneficiano del trattamento di cui ai paragrafi 2 e 3 le societa' stabilite nella Comunita' e in Russia alla data di entrata in vigore del presente accordo e, per le societa' stabilite successivamente a questa data, dopo lo stabilimento.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 Le disposizioni dell'articolo 28 del presente accordo e le seguenti disposizioni si applicano ai servizi bancari e assicurativi di cui all'allegato 6.
 
@@ -419,7 +417,7 @@ Le Parti decidono di includere nell'idea di "aggravare la discriminazione" il pe
 
 4\. Ai fini del presente accordo e per quanto riguarda le attivita' bancarie, una societa' viene considerata una consociata russa di una societa' comunitaria se quest'ultima detiene oltre il cinquanta per cento (50%) del suo capitale azionario.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 Ai fini del presente accordo:
 
@@ -451,11 +449,11 @@ i) Ai sensi dell'articolo 29 e dell'allegato 7, per i servizi bancari di cui all
 
 Ai sensi dell'articolo 29 e dell'allegato 7, per i servizi bancari di cui all'allegato 6, parte B, l'espressione "societa' comunitaria" o "societa' russa", definita alla lettera h), indica una societa' che e' una banca in conformita', rispettivamente, della legislazione di uno Stato membro o della Russia.
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 Fatto salvo l'articolo 100, le disposizioni del presente Titolo non pregiudicano l'applicazione, ad opera delle Parti, delle misure necessarie per impedire l'elusione delle misure concernenti l'accesso dei paesi terzi al loro mercato attraverso le disposizioni del presente accordo.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 1\. Fatte salve le disposizioni del capitolo I del presente titolo, una societa' comunitaria o russa stabilita, rispettivamente, sul territorio della Comunita' o della Russia ha il diritto di assumere o di far assumere da una delle sue consociate, filiali o joint venture, conformemente alla legislazione in vigore nel paese di stabilimento, sul territorio della Comunita' o della Russia, cittadini degli Stati membri della Comunita' e della Russia, purche' si tratti di quadri principali ai sensi del paragrafo 2 impiegati esclusivamente da societa', consociate, filiali o joint venture. I permessi di soggiorno e di lavoro di questi dipendenti coprono unicamente la durata di tale occupazione.
 
@@ -475,11 +473,11 @@ b) i dipendenti di un'organizzazione in possesso di conoscenze non comuni indisp
 
 c) per "persona trasferita all'interno della societa'" s'intende una persona fisica che lavora presso un'organizzazione sul territorio di una delle Parti e viene trasferita temporaneamente nel quadro di attivita' economiche svolte sul territorio dell'altra Parte; l'organizzazione in questione deve avere la sede principale sul territorio di una Parte e il trasferimento deve avvenire verso un'impresa di questa organizzazione ed essere effettivamente giustificato da attivita' economiche simili sul territorio dell'altra Parte.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 Le Parti riconoscono che e' importante concedersi reciprocamente il trattamento nazionale in materia di stabilimento e, ove non previsto, di attivita' delle rispettive societa' sui loro territori e decidono di perseguire questo obiettivo ricercando una soluzione reciprocamente soddisfacente e basandosi sulle raccomandazioni del Consiglio di cooperazione.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 1\. Le Parti si adoperano per evitare di prendere misure o avviare azioni tali da rendere le condizioni per lo stabilimento e l'attivita' delle societa' dell'altra Parte piu' restrittive rispetto alla situazione esistente il giorno che precede la firma dell'accordo.
 
@@ -503,7 +501,7 @@ Qualora, dopo questo esame, una Parte ritenga che le misure introdotte dall'altr
 
 4\. Le disposizioni del presente articolo lasciano impregiudicate quelle dell'articolo 51. Le situazioni ivi contemplate sono disciplinate esclusivamente dalle disposizioni di detto articolo 51.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 1\. L'articolo 28 non si applica al trasporto aereo, sulle acque interne e marittimo.
 
@@ -523,17 +521,17 @@ e) la conclusione di accordi commerciali con altre agenzie marittime;
 
 f) le operazioni effettuate a nome delle societa', tra cui l'organizzazione dello scalo della nave o, se necessario, la ripresa del carico.
 
-## CAPITOLO III - Servizi transfrontalieri
+### CAPITOLO III - Servizi transfrontalieri
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 Per i settori elencati nell'allegato 5 del presente accordo, le Parti si concedono reciprocamente un trattamento non meno favorevole di quello concesso a qualsiasi altro paese per i servizi transfrontalieri prestati da societa' della Comunita' o della Russia sul territorio, rispettivamente, della Russia o della Comunita', in conformita' delle legislazioni e normative in vigore in ciascuna delle Parti.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 Fatto salvo l'articolo 48 del presente accordo, le Parti autorizzano, per i settori elencati nell'allegato 5 del presente accordo, la circolazione temporanea delle persone fisiche che rappresentano una societa' comunitaria o russa e chiedono l'ingresso temporaneo per negoziare servizi transfrontalieri o concludere accordi per questi servizi per la societa' in questione, a condizione che detti rappresentanti non procedano a vendite dirette al pubblico e che non forniscano direttamente i servizi in questione.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 1\. Per i settori elencati nell'allegato 5, ciascuna Parte puo' regolamentare le condizioni per la fornitura di servizi transfrontalieri sul suo territorio. Trattandosi di normative di applicazione generale, e' necessaria un'applicazione equa, obiettiva e imparziale.
 
@@ -559,7 +557,7 @@ Qualora, dopo questo esame, una Parte ritenga che le misure introdotte dall'altr
 
 5\. Le disposizioni del presente articolo lasciano impregiudicate quelle dell'articolo 51. Le situazioni ivi contemplate sono disciplinate esclusivamente dalle disposizioni di detto articolo 51.
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 1\. Per quanto riguarda il trasporto marittimo, le Parti si impegnano ad applicare effettivamente il principio dell'accesso illimitato al mercato e al traffico marittimo internazionale su base commerciale.
 
@@ -579,7 +577,7 @@ Ogni Parte concede, tra l'altro, un trattamento non meno favorevole di quello ri
 
 3\. Le Parti decidono di avviare negoziati, dopo l'entrata in vigore del presente accordo e al piu' tardi il 31 dicembre 1996, sull'apertura graduale delle idrovie di ciascuna di esse ai cittadini e alle agenzie marittime dell'altra Parte nel quadro della libera prestazione dei servizi internazionali mare-fiume.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 Al fine di creare condizioni favorevoli al trasporto ferroviario tra le Parti, si decide che, nel quadro del presente accordo e avvalendosi di opportuni meccanismi bilaterali e multilaterali, le Parti si adopereranno per:
 
@@ -591,47 +589,47 @@ Al fine di creare condizioni favorevoli al trasporto ferroviario tra le Parti, s
 
 \- salvaguardare e sviluppare il traffico internazionale passeggeri tra gli Stati membri e la Russia.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 La cooperazione deve garantire condizioni eque, equilibrate e compet- itive per il mercato delle spedizioni e dei trasporti spaziali in base a sani principi economici; in particolare, si favoriranno il negoziato e l'applicazione di norme multilaterali sul commercio internazionale di servizi di lancio e trasporto spaziale.
 
 Nel corso del periodo transitorio, che va fino al 2000, si stabiliranno le condizioni per la fornitura dei servizi spaziali.
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 Le Parti si presentano la massima assistenza per quanto riguarda le misure volte a promuovere gli scambi transfrontalieri a livello di comunicazioni satellitari mobili sui rispettivi territori, conformemente alle rispettive legislazioni, pratiche e condizioni. Le Parti si riuniranno nel 1996 per vagliare le possibilita' di concedersi reciprocamente il trattamento della nazione piu' favorita per i servizi satellitari mobili.
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 Per garantire uno sviluppo coordinato dei trasporti tra le Parti in funzione delle loro esigenze commerciali, dopo l'entrata in vigore dell'accordo le Parti potranno concludere accordi specifici sulle condizioni del reciproco accesso al mercato nonche' sulla fornitura di servizi di trasporto, laddove tali condizioni non siano gia' previste dal presente accordo. Detti accordi specifici possono applicarsi a piu' di un modo di trasporto.
 
-## CAPITOLO IV - Disposizioni generali
+### CAPITOLO IV - Disposizioni generali
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 Ai fini dei capitoli II e III e del Titolo IV, non si tiene conto del trattamento concesso dalla Comunita', dai suoi Stati membri o dalla Russia in base agli impegni assunti nel quadro di accordi di integrazione economica.
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 Beneficiano delle disposizioni dei capitoli II e III e del Titolo V anche le societa' controllate e possedute esclusivamente e congiuntamente da societa' comunitarie e russe.
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 1\. L'applicazione delle disposizioni del presente Titolo e' soggetta alle limitazioni giustificate da motivi di ordine pibblico, pubblica sicurezza o pubblica sanita'.
 
 2\. Dette disposizioni non si applicano alle attivita' svolte sul territorio delle Parti e connesse, anche occasionalmente, all'esercizio dell'autorita' ufficiale.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 Il Consiglio di cooperazione puo' fare raccomandazioni per l'ulteriore liberalizzazione degli scambi di servizi in funzione dello sviluppo dei settori terziari delle Parti e degli altri impegni da esse assunti a livello internazionale, segnatamente alla luce dei risultati finali dei negoziati dell'Accordo generale sugli scambi di servizi, in appresso denominato "GATS".
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 Ai fini del presente titolo, nessuno dei suoi elementi vieta alle Parti di applicare le rispettive leggi e normative in materia di ingresso e soggiorno, occupazione, condizioni di lavoro e stabilimento delle persone fisiche e fornitura di servizi, purche' non le applichino in modo da vanificare o compromettere i vantaggi risultanti per una delle Parti da una disposizione specifica dell'accordo.
 
 Quanto precede non pregiudica l'applicazione dell'articolo 46.
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 1\. Il trattamento della nazione piu' favorita concesso a norma del presente titolo o del titolo V non si applica ai vantaggi fiscali gia' concessi o che le Parti concederanno in base ad accordi tesi a evitare la doppia imposizione o ad altre intese fiscali.
 
@@ -639,7 +637,7 @@ Quanto precede non pregiudica l'applicazione dell'articolo 46.
 
 3\. Nessun elemento del presente titolo o del titolo V vieta agli Stati membri o alla Russia di fare distinzioni, nell'applicare le pertinenti disposizioni della loro legislazione tributaria, tra contribuenti la cui situazione non e' identica, segnatamente per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 Fatti salvi gli articoli 32 e 37, nessuna disposizione dei capitoli II, III e IV autorizza:
 
@@ -653,7 +651,7 @@ Fatti salvi gli articoli 32 e 37, nessuna disposizione dei capitoli II, III e IV
 
 \- le societa' comunitarie o le filiali o consociate russe di societa' comunitarie a distaccare, in base a contratti temporanei, cittadini degli Stati membri che lavorano per o sotto il controllo di altre persone.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 1\. A decorrere dal primo giorno del mese che precede l'entrata in vigore dei corrispondenti obblighi del GATS, il trattamento concesso da ciascuna Parte all'altra in virtu' del presente accordo per i settori o le misure contemplati dal GATS non puo' comunque essere meno favorevole di quello concesso dalla Parte in questione a norma del GATS per ciascun settore, sottosettore e modo di fornitura dei servizi.
 
@@ -671,7 +669,7 @@ Fatti salvi gli articoli 32 e 37, nessuna disposizione dei capitoli II, III e IV
 
 ## TITOLO V - PAGAMENTI E CAPITALE
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 1\. Le Parti si impegnano ad autorizzare l'uso di moneta liberamente convertibile per tutti i pagamenti correnti tra residenti della Comunita' e della Russia in relazione alla circolazione di beni, servizi o persone conformemente al disposto del presente accordo.
 
@@ -695,7 +693,7 @@ La Russia applica queste restrizioni in maniera non discriminatoria, al fine di 
 
 ## TITOLO VI - CONCORRENZA, TUTELA DELLA PROPRIETA' INTELLETTUALE, INDUSTRIALE E COMMERCIALE E COOPERAZIONE LEGISLATIVA
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 Concorrenza
 
@@ -723,7 +721,7 @@ Nel caso delle imprese pubbliche o delle imprese cui gli Stati membri o la Russi
 
 5\. Le suddette disposizioni non pregiudicano il diritto delle Parti di applicare misure adeguate, segnatamente quelle di cui all'articolo 18, per ovviare alle distorsioni negli scambi.
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 Protezione della proprieta' intellettuale, industriale e commerciale 1. A norma del presente articolo e dell'allegato 10, le Parti ribadiscono l'importanza che annettono all'effettiva e adeguata protezione e osservanza dei diritti di proprieta' intellettuale, industriale e commerciale.
 
@@ -743,7 +741,7 @@ Protezione della proprieta' intellettuale, industriale e commerciale 1. A norma 
 
 3\. L'applicazione delle disposizioni del presente articolo e dell'allegato 10 sara' periodicamente riesaminata dalle Parti in conformita' dell'articolo 90. In caso di problemi in materia di proprieta' intellettuale, industriale e commerciale tali da falsare le condizioni commerciali, su richiesta di una delle Parti si terranno urgentemente consultazioni per trovare soluzioni reciprocamente soddisfacenti.
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 Cooperazione legislativa
 
@@ -753,7 +751,7 @@ Cooperazione legislativa
 
 ## TITOLO VII - COOPERAZIONE ECONOMICA
 
-##### ARTICOLO 56
+#### ARTICOLO 56
 
 1\. La Comunita' e la Russia promuovono una vasta cooperazione economica per contribuire allo sviluppo delle rispettive economie, alla creazione di un contesto economico internazionale favorevole e all'integrazione fra la Russia e una piu' ampia area di cooperazione in Europa. Tale cooperazione rafforzera' e sviluppera' i vincoli economici a vantaggio di entrambe le Parti.
 
@@ -779,7 +777,7 @@ Le Parti rivolgono particolare attenzione alle misure in grado di incoraggiare l
 
 6\. Le disposizioni del presente Titolo non pregiudicano l'applicazione delle regole di concorrenza delle Parti e delle disposizioni specifiche del presente accordo in materia di concorrenza applicabili alle imprese.
 
-##### ARTICOLO 57
+#### ARTICOLO 57
 
 Cooperazione industriale
 
@@ -799,7 +797,7 @@ Cooperazione industriale
 
 2\. La cooperazione industriale tiene conto delle priorita' individuate dalla Comunita' e dalla Russia, e cerca in particolare di creare un contesto favorevole alle imprese, di migliorare il know-how in materia di gestione e di favorire la trasparenza per quanto riguarda i mercati e le condizioni delle imprese.
 
-##### ARTICOLO 58
+#### ARTICOLO 58
 
 Promozione e tutela degli investimenti
 
@@ -815,13 +813,13 @@ Promozione e tutela degli investimenti
 
 \- gli scambi di informazioni sulle leggi, normative e pratiche amministrative in materia di investimenti.
 
-##### ARTICOLO 59
+#### ARTICOLO 59
 
 Commesse pubbliche
 
 Le Parti collaborano per favorire la trasparenza e il rispetto delle regole di concorrenza nell'aggiudicazione delle commesse pubbliche, in particolare mediante bandi di gara.
 
-##### ARTICOLO 60
+#### ARTICOLO 60
 
 Norme e valutazione della conformita'; tutela dei consumatori
 
@@ -835,7 +833,7 @@ In particolare, le Parti incoraggiano la collaborazione pratica tra le rispettiv
 
 La cooperazione mira, in particolare, ad instaurare sistemi permanenti d'informazione reciproca sui prodotti pericolosi, a migliorare le informazioni fornite ai consumatori, segnatamente in materia di prezzi, caratteristiche dei prodotti e servizi offerti, a sviluppare i contatti tra coloro che rappresentano gli interessi dei consumatori e a rendere piu' compatibili le politiche di tutela dei consumatori.
 
-##### ARTICOLO 61
+#### ARTICOLO 61
 
 Prodotti minerari e materie prime
 
@@ -853,7 +851,7 @@ Prodotti minerari e materie prime
 
 4\. Il presente articolo lascia impregiudicati gli articoli che riguardano piu' specificamente le materie prime, in particolare gli articoli 21, 65 e 66.
 
-##### ARTICOLO 62
+#### ARTICOLO 62
 
 Scienza e tecnologia
 
@@ -873,7 +871,7 @@ Nello svolgere le attivita' di tale cooperazione, si rivolge particolare attenzi
 
 3\. Tale cooperazione si svolgera' in base ad intese specifiche da negoziare e concludere secondo le procedure adottate da ciascuna Parte definendo, tra l'altro, opportune disposizioni in materia di DPI.
 
-##### ARTICOLO 63
+#### ARTICOLO 63
 
 Istruzione e formazione
 
@@ -905,13 +903,13 @@ Istruzione e formazione
 
 3\. Ciascuna Parte puo' partecipare, secondo le sue procedure, ai programmi dell'altra in materia di istruzione e formazione; se del caso, si potrebbero stabilire quadri istituzionali e programmi di cooperazione basandosi sulla partecipazione della Russia al programma TEMPUS della Comunita'.
 
-##### ARTICOLO 64
+#### ARTICOLO 64
 
 Agricoltura e settore agroindustriale
 
 La cooperazione nel settore si prefigge l'ammodernamento, la ristrutturazione e la privatizzazione dell'agricoltura e dell'agroindustria in Russia in condizioni tali da tutelare l'ambiente. Si cerchera', tra l'altro, di sviluppare le aziende agricole e i canali di distribuzione privati, i metodi di ammasso, la commercializzazione e la gestione, di modernizzare le infrastrutture rurali e di migliorare la pianificazione dello sfruttamento delle terre agricole, di migliorare la produttivita', la qualita' e l'efficienza e di trasferire tecnologie e know-how. Le Parti cercano inoltre di rendere compatibili le rispettive norme sanitarie e fitosanitarie.
 
-##### ARTICOLO 65
+#### ARTICOLO 65
 
 Energia
 
@@ -937,19 +935,19 @@ Energia
 
 \- la gestione e la formazione tecnica nel settore energetico.
 
-##### ARTICOLO 66
+#### ARTICOLO 66
 
 Settore nucleare
 
 Compatibilmente con i poteri e con le competenze della Comunita' e degli Stati membri, la cooperazione civile nel settore nucleare avviene, tra l'altro, mediante l'applicazione di due accordi riguardanti la termofusione nucleare e la sicurezza nucleare, da concludere tra le Parti.
 
-##### ARTICOLO 67
+#### ARTICOLO 67
 
 Ricerca spaziale
 
 Fatto salvo l'articolo 41 le Parti favoriscono, se del caso, la cooperazione a lungo termine per la ricerca, lo sviluppo e le applicazioni commerciali nel settore spaziale civile, rivolgendo particolare attenzione alle iniziative che sfruttano appieno, con reciproci vantaggi, la complementarita' delle rispettive attivita'.
 
-##### ARTICOLO 68
+#### ARTICOLO 68
 
 Edilizia
 
@@ -957,7 +955,7 @@ Le Parti cooperano nel settore dell'industria edilizia, segnatamente nei compart
 
 La cooperazione si prefigge, tra l'altro, di modernizzare e ristrutturare il settore edilizio russo secondo i principi dell'economia di mercato e tenendo debitamente conto degli aspetti sanitari, di sicurezza e ambientali connessi.
 
-##### ARTICOLO 69
+#### ARTICOLO 69
 
 Ambiente
 
@@ -1011,7 +1009,7 @@ Ambiente
 
 \- studi sull'impatto ambientale.
 
-##### ARTICOLO 70
+#### ARTICOLO 70
 
 Trasporti
 
@@ -1031,7 +1029,7 @@ La cooperazione comprende:
 
 \- la preparazione di un contesto legislativo e istituzionale per l'elaborazione e l'applicazione delle varie politiche, compresa la privatizzazione del settore dei trasporti.
 
-##### ARTICOLO 71
+#### ARTICOLO 71
 
 Servizi postali e telecomunicazioni
 
@@ -1065,7 +1063,7 @@ Servizi postali e telecomunicazioni
 
 \- adeguamento dei servizi delle telecomunicazioni, delle poste e della radiotelevisione al mutato contesto economico di entrambe le Parti, comprese le strutture organizzative, la strategia e la pianificazione, le politiche tariffarie e le politiche in materia di commesse.
 
-##### ARTICOLO 72
+#### ARTICOLO 72
 
 Servizi finanziari
 
@@ -1085,7 +1083,7 @@ La cooperazione e' intesa in particolare a:
 
 \- modernizzare le infrastrutture delle banche commerciali e private.
 
-##### ARTICOLO 73
+#### ARTICOLO 73
 
 Sviluppo regionale
 
@@ -1095,7 +1093,7 @@ Esse favoriscono gli scambi di informazioni tra le autorita' nazionali, regional
 
 Esse incoraggiano inoltre i contatti diretti tra le rispettive regioni e organizzazioni pubbliche incaricate di programmare lo sviluppo regionale per consentire loro, tra l'altro, di scambiare metodi e mezzi atti ad incentivare lo sviluppo regionale.
 
-##### ARTICOLO 74
+#### ARTICOLO 74
 
 Cooperazione sociale
 
@@ -1129,7 +1127,7 @@ Dette riforme dovranno introdurre in Russia metodi di protezione consoni alle ec
 
 E' prevista anche un'assistenza tecnica per creare istituzioni di previdenza sociale onde agevolare il graduale passaggio a un sistema che combini le forme di prevenzione contributiva con l'assistenza sociale, nonche' sviluppare i rispettivi organismi non governativi che forniscono servizi sociali.
 
-##### ARTICOLO 75
+#### ARTICOLO 75
 
 Turismo
 
@@ -1145,7 +1143,7 @@ Le Parti intensificano e sviluppano la cooperazione al fine di:
 
 \- valutare le possibilita' di avviare operazioni congiunte.
 
-##### ARTICOLO 76
+#### ARTICOLO 76
 
 Piccole e medie imprese
 
@@ -1159,7 +1157,7 @@ Piccole e medie imprese
 
 \- l'avvio di contatti stabili e ininterrotti tra operatori comunitari e russi per migliorare il flusso di informazioni verso le PMI e promuovere la cooperazione transfrontaliera, segnatamente tramite l'accesso alla Rete europea di cooperazione commerciale e gli Eurosportelli, sempre che siano soddisfatti i relativi requisiti. Le Parti collaborano strettamente per far si' che siano rispettate le condizioni di accesso alle reti.
 
-##### ARTICOLO 77
+#### ARTICOLO 77
 
 Infrastrutture di comunicazione, computerizzazione e informazione 1. Le Parti favoriscono l'uso di metodi moderni per il trattamento dell'informazione, anche a livello dei mezzi di comunicazione, e prendono misure atte a stimolare un efficace scambio di informazioni.
 
@@ -1175,7 +1173,7 @@ Si privilegeranno i programmi volti a diffondere tra la popolazione le informazi
 
 \- promuovono l'applicazione delle norme tecniche, dei sistemi di certificazione e degli orientamenti normativi europei.
 
-##### ARTICOLO 78
+#### ARTICOLO 78
 
 Dogane
 
@@ -1201,7 +1199,7 @@ All'occorrenza, viene fornita assistenza tecnica.
 
 3\. Fatta salva l'ulteriore cooperazione prevista nel presente accordo, in particolare agli articoli 82 e 84, l'assistenza reciproca tra le autorita' amministrative delle Parti per le questioni doganali e' disciplinata dalle disposizioni del protocollo n. 2.
 
-##### ARTICOLO 79
+#### ARTICOLO 79
 
 Cooperazione statistica
 
@@ -1221,7 +1219,7 @@ Cooperazione statistica
 
 \- scambiare informazioni statistiche creando e/o utilizzando correttamente le basi di dati.
 
-##### ARTICOLO 80
+#### ARTICOLO 80
 
 Economia
 
@@ -1235,7 +1233,7 @@ A tale scopo le Parti:
 
 \- favoriscono un'intensa cooperazione tra gli economisti e gli alti funzionari onde accelerare il trasferimento delle informazioni e del know-how per l'elaborazione delle politiche economiche e procedere a una vasta diffusione dei risultati della ricerca piu' pertinenti per la definizione delle politiche.
 
-##### ARTICOLO 81
+#### ARTICOLO 81
 
 Riciclaggio del denaro
 
@@ -1243,13 +1241,13 @@ Riciclaggio del denaro
 
 2\. La cooperazione nel settore comprende un'assistenza amministrativa tecnica volta a definire norme adeguate contro il riciclaggio del denaro equivalenti a quelle adottate in materia dalla Comunita' e dai consessi internazionali, compresa la Task Force Azione Finanziaria (FAFT).
 
-##### ARTICOLO 82
+#### ARTICOLO 82
 
 Droga
 
 Le Parti cooperano per aumentare l'efficacia delle politiche e delle misure volte a combattere la produzione, la fornitura e il traffico illecito di stupefacenti e sostanze psicotrope, anche destinando i precursori a usi diversi, e per promuovere la prevenzione e la riduzione della domanda di droga. La cooperazione in materia si basa sulla consultazione e su uno stretto coordinamento tra le Parti per quanto riguarda gli obiettivi e le iniziative nei diversi settori connessi alla droga; esse prevedono tra l'altro scambi di programmi di informazione e, nei limiti delle disponibilita', un'assistenza tecnica da parte della Comunita'.
 
-##### ARTICOLO 83
+#### ARTICOLO 83
 
 Cooperazione nel settore dei movimenti di capitali e dei pagamenti in Russia
 
@@ -1267,7 +1265,7 @@ Per consentire un uso ottimale delle risorse disponibili, le Parti garantiscono 
 
 ## TITOLO VIII - COOPERAZIONE NELLA PREVENZIONE DELLE ATTIVITA' ILLEGALI
 
-##### ARTICOLO 84
+#### ARTICOLO 84
 
 Le Parti collaborano al fine di prevenire le attivita' illegali quali:
 
@@ -1295,7 +1293,7 @@ La cooperazione nei settori di cui sopra avviene mediante consultazioni e una st
 
 ## TITOLO IX - COOPERAZIONE CULTURALE
 
-##### ARTICOLO 85
+#### ARTICOLO 85
 
 1\. Le Parti si impegnano a promuovere la cooperazione culturale onde consolidare i vincoli esistenti tra i loro popoli e incoraggiare la reciproca conoscenza delle rispettive lingue e culture, nel rispetto della liberta' creativa e del reciproco accesso ai valori culturali.
 
@@ -1311,29 +1309,29 @@ La cooperazione nei settori di cui sopra avviene mediante consultazioni e una st
 
 ## TITOLO X - COOPERAZIONE FINANZIARIA
 
-##### ARTICOLO 86
+#### ARTICOLO 86
 
 Per conseguire gli obiettivi del presente accordo, in particolare i Titoli VI e VII, e in conformita' degli articoli 87, 88 e 89, la Russia beneficia di assistenza finanziaria temporanea fornita dalla Comunita' sotto forma di aiuti non rimborsabili per l'assistenza tecnica intesi ad accelerare la trasformazione economica del paese.
 
-##### ARTICOLO 87
+#### ARTICOLO 87
 
 Detta assistenza finanziaria e' prevista nel quadro del pertinente regolamento comunitario del Consiglio riguardante il programma Tacis.
 
-##### ARTICOLO 88
+#### ARTICOLO 88
 
 Gli obiettivi e i settori dell'assistenza finanziaria comunitaria vengono stabiliti in un programma indicativo che riflette le priorita' concordate tra le Parti in funzione delle esigenze della Russia, della capacita' di assorbimento dei vari settori e dello stato di avanzamento delle riforme. Le Parti ne informano il Consiglio di cooperazione.
 
-##### ARTICOLO 89
+#### ARTICOLO 89
 
 Per consentire un impiego ottimale delle risorse disponibili, le Parti si adoperano affinche' i contributi comunitari per l'assistenza tecnica siano erogati in stretto coordinamento con quelli provenienti da altre fonti quali gli Stati membri, altri paesi e organizzazioni internazionali tra cui la Banca internazionale per la ricostruzione e lo sviluppo e la Banca europea per la ricostruzione e lo sviluppo.
 
 ## TITOLO XI - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-##### ARTICOLO 90
+#### ARTICOLO 90
 
 E' istituito un Consiglio di cooperazione incaricato di sorvegliare l'attuazione del presente accordo. Il Consiglio si riunisce a livello ministeriale una volta all'anno e quando le circostanze lo richiedono. Esso esamina tutte le questioni importanti inerenti all'accordo e qualunque altro problema bilaterale o internazionale di reciproco interesse per il conseguimento degli obiettivi dell'accordo. Il Consiglio di cooperazione puo' formulare opportune raccomandazioni con l'accordo dei rappresentanti delle Parti nel Consiglio di cooperazione.
 
-##### ARTICOLO 91
+#### ARTICOLO 91
 
 1\. Il Consiglio di cooperazione e' composto da membri del Consiglio dell'Unione europea e dalla Commissione delle Comunita' europee, da un lato, e da membri del governo della Federazione russa dall'altro.
 
@@ -1341,7 +1339,7 @@ E' istituito un Consiglio di cooperazione incaricato di sorvegliare l'attuazione
 
 3\. Il Consiglio di cooperazione e' presieduto a turno da un rappresentante della Comunita' e da un membro del governo della Federazione russa.
 
-##### ARTICOLO 92
+#### ARTICOLO 92
 
 1\. Nell'esercizio delle sue funzioni, il Consiglio di cooperazione e' assistito da un Comitato di cooperazione composto da rappresentanti dei membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da un lato, e da rappresentanti del governo della Federazione russa, normalmente alti funzionari, dall'altro. Il Comitato di cooperazione e' presieduto a turno da un rappresentante delle Comunita' e da un rappresentante della Federazione russa.
 
@@ -1349,19 +1347,19 @@ Il regolamento interno del Consiglio di cooperazione stabilisce le funzioni del 
 
 2\. Il Consiglio di cooperazione puo' delegare taluni suoi poteri al Comitato di cooperazione, che assicura la continuita' tra le riunioni del Consiglio di cooperazione.
 
-##### ARTICOLO 93
+#### ARTICOLO 93
 
 Il Consiglio di cooperazione puo' decidere di creare tutti i comitati o organi speciali necessari per coadiuvarlo nell'esercizio delle sue funzioni, determinandone la composizione, le mansioni e le modalita' di funzionamento.
 
-##### ARTICOLO 94
+#### ARTICOLO 94
 
 Nell'esaminare le questioni sollevate da una disposizione del presente accordo che si riferisca a un articolo del GATT, il Consiglio di cooperazione tiene conto, per quanto possibile, dell'interpretazione data generalmente a detto articolo del GATT dalle sue Parti contraenti.
 
-##### ARTICOLO 95
+#### ARTICOLO 95
 
 E' istituito un Comitato parlamentare di cooperazione. Il Comitato stabilisce la frequenza delle proprie riunioni.
 
-##### ARTICOLO 96
+#### ARTICOLO 96
 
 1\. Il Comitato parlamentare di cooperazione e' composto da membri del Parlamento europeo e dell'Assemblea federale della Federazione russa.
 
@@ -1369,7 +1367,7 @@ E' istituito un Comitato parlamentare di cooperazione. Il Comitato stabilisce la
 
 3\. Il Comitato parlamentare di cooperazione e' presieduto a turno da un membro del Parlamento europeo e da un membro dell'Assemblea federale della Federazione russa, conformemente al regolamento interno.
 
-##### ARTICOLO 97
+#### ARTICOLO 97
 
 Il Comitato parlamentare di cooperazione puo' chiedere tutte le informazioni utili per quanto riguarda l'esecuzione del presente accordo al Consiglio di cooperazione, che gli fornisce dette informazioni.
 
@@ -1377,7 +1375,7 @@ Il Comitato parlamentare di cooperazione viene informato delle raccomandazioni d
 
 Il Comitato parlamentare di cooperazione puo' presentare raccomandazioni al Consiglio di cooperazione.
 
-##### ARTICOLO 98
+#### ARTICOLO 98
 
 1\. Nell'ambito del presente accordo, ciascuna delle Parti si impegna a garantire che le persone fisiche e giuridiche dell'altra Parte possano adire senza discriminazioni, rispetto ai propri cittadini, i competenti organi giuridici e amministrativi delle Parti per tutelare i loro diritti individuali e di proprieta', inclusi quelli riguardanti la proprieta' intellettuale, industriale e commerciale.
 
@@ -1391,7 +1389,7 @@ Il Comitato parlamentare di cooperazione puo' presentare raccomandazioni al Cons
 
 \- incoraggiano il ricorso alle norme di arbitrato elaborate dalla Commissione delle Nazioni Unite per il diritto commerciale internazionale (UNCITRAL) e il ricorso all'arbitrato da parte di ogni organismo di uno Stato firmatario della convenzione per il riconoscimento e l'applicazione dei lodi arbitrali stranieri firmata il 10 giugno 1958 a New York.
 
-##### ARTICOLO 99
+#### ARTICOLO 99
 
 Nessun elemento del presente accordo impedisce a una delle Parti di prendere le misure:
 
@@ -1411,7 +1409,7 @@ mantenimento della legge e dell'ordine, in tempo di guerra o in occasione di gra
 
 2\) che ritiene necessarie per adempiere agli obblighi e agli impegni internazionali o alle misure prese autonomamente in linea con gli obblighi e impegni internazionali generalmente accettati per il controllo del duplice uso dei beni e delle tecnologie industriali.
 
-##### ARTICOLO 100
+#### ARTICOLO 100
 
 1\. Nei settori contemplati dal presente accordo e fatta salva qualsiasi disposizione speciale ivi contenuta:
 
@@ -1421,7 +1419,7 @@ mantenimento della legge e dell'ordine, in tempo di guerra o in occasione di gra
 
 2\. Le disposizioni del paragrafo 1 non pregiudicano il diritto delle Parti di applicare le pertinenti disposizioni della loro normativa fiscale ai contribuenti che non si trovano in situazioni identiche, in particolare per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 101
+#### ARTICOLO 101
 
 1\. Ciascuna delle Parti puo' adire il Consiglio di cooperazione per qualsiasi controversia relativa all'applicazione o all'interpretazione del presente accordo.
 
@@ -1435,29 +1433,29 @@ Le raccomandazioni del conciliatore vengono adottate a maggioranza e non sono vi
 
 4\. Il Consiglio di cooperazione puo' stabilire norme procedurali per la composizione delle controversie.
 
-##### ARTICOLO 102
+#### ARTICOLO 102
 
 Le Parti decidono di consultarsi tempestivamente, attraverso i canali appropriati, su richiesta di una di esse per discutere di tutte le questioni inerenti all'interpretazione o all'applicazione del presente accordo e su altri aspetti delle loro relazioni.
 
 Le disposizioni del presente articolo non pregiudicano in alcun modo gli articoli 17, 18, 101 e 107.
 
-##### ARTICOLO 103
+#### ARTICOLO 103
 
 Il trattamento riservato alla Russia non puo' comunque essere piu' favorevole di quello che gli Stati membri si concedono reciprocamente.
 
-##### ARTICOLO 104
+#### ARTICOLO 104
 
 Ai fini del presente accordo, per "Parti" s'intende la Comunita', gli Stati membri o la Comunita' e gli Stati membri, a seconda dei rispettivi poteri, da un lato, e la Russia, dall'altro.
 
-##### ARTICOLO 105
+#### ARTICOLO 105
 
 Nella misura in cui le questioni contemplate dal presente accordo rientrano nel trattato e nei protocolli della Carta per l'energia, a decorrere dall'entrata in vigore i suddetti trattato e protocolli si applicano, se ivi previsto, a tali questioni.
 
-##### ARTICOLO 106
+#### ARTICOLO 106
 
 Il presente accordo e' concluso per un periodo iniziale di dieci anni. Esso puo' essere automaticamente rinnovato di anno in anno a condizione che nessuna delle Parti lo denunci dandone notifica per iscritto all'altra Parte almeno sei mesi prima della scadenza.
 
-##### ARTICOLO 107
+#### ARTICOLO 107
 
 Le Parti prendono tutte le misure generali o specifiche necessarie per l'adempimento degli obblighi previsti dall'accordo e si adoperano per il conseguimento dei suoi obiettivi.
 
@@ -1467,23 +1465,23 @@ Prima di procedere, fatta eccezione per i casi particolarmente urgenti, essa for
 
 Nella scelta delle misure, si privilegiano quello che meno perturbano il funzionamento dell'accordo. Se l'altra Parte lo richiede, le misure decise vengono comunicate senza indugio al Consiglio di cooperazione.
 
-##### ARTICOLO 108
+#### ARTICOLO 108
 
 Gli allegati 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10 e i protocolli 1 e 2 sono parte integrante del presente accordo.
 
-##### ARTICOLO 109
+#### ARTICOLO 109
 
 Fino a quando i privati cittadini e gli operatori economici non godranno degli stessi diritti a norma del presente accordo, esso non pregiudica i diritti loro garantiti da accordi tra uno o piu' Stati membri, da una parte, e la Russia, dall'altra, fatta eccezione per i settori di competenza comunitaria e fatti salvi gli obblighi che l'accordo impone agli Stati membri nei settori di loro competenza.
 
-##### ARTICOLO 110
+#### ARTICOLO 110
 
 Il presente accordo si applica, da un lato, ai territori in cui si applicano i trattati che istituiscono la Comunita' europea, la Comunita' europea dell'energia atomica e la Comunita' europea del carbone e dell'acciaio, alle condizioni ivi precisate, e, dall'altro, al territorio della Russia.
 
-##### ARTICOLO 111
+#### ARTICOLO 111
 
 Il presente accordo e' redatto, in duplice esemplare, nelle lingue danese, francese, greca, inglese, italiana, olandese, portoghese, spagnola, tedesca e russa, ciascuno dei testi facenti ugualmente fede.
 
-##### ARTICOLO 112
+#### ARTICOLO 112
 
 Il presente accordo e' approvato dalle Parti conformemente alle rispettive procedure.
 
@@ -1493,7 +1491,7 @@ A decorrere dalla sua entrata in vigore il presente accordo sostituisce, per qua
 
 Fatto a Corfu', addi' ventiquattro giugno millenovecentonovantaquattro.
 
-##### Elenco
+#### Elenco
 
 ELENCO DEGLI ALLEGATI
 
@@ -1533,7 +1531,7 @@ Protocollo 1 relativo alla creazione di un gruppo di contatto sul carbone e acci
 
 Protocollo 2 relativo all'assistenza amministrativa reciproca per la corretta applicazione della legislazione doganale
 
-##### Allegato 1
+#### Allegato 1
 
 ALLEGATO 1
 
@@ -1571,7 +1569,7 @@ Per quanto riguarda i paesi della Comunita' degli Stati indipendenti Parti dell'
 
 7\. Accesso ai sistemi informatici e alle base di dati.
 
-##### Allegato 2
+#### Allegato 2
 
 ALLEGATO 2
 
@@ -1601,7 +1599,7 @@ Dette disposizioni non possono essere eluse aumentando la protezione tariffaria 
 
 5\. La Russia informa il Comitato di cooperazione in merito a tutte le misure che intende prendere a norma del presente allegato; su richiesta della Comunita', prima dell'adozione si tengono consultazioni in seno al Comitato di cooperazione su tali misure e sui settori cui si applicano.
 
-##### Allegato 3
+#### Allegato 3
 
 ALLEGATO 3
 
@@ -1641,7 +1639,7 @@ Agenzie di stampa
 
 In alcuni Stati membri la partecipazione straniera alle case editrici e alle societa' radiotelevisive e' limitata.
 
-##### Allegato 4
+#### Allegato 4
 
 ALLEGATO 4
 
@@ -1687,7 +1685,7 @@ Locazione della proprieta' federale
 
 Per la locazione delle proprieta' federali di valore superiore a 100 milioni di rubli, le societa' con partecipazione straniera devono ottenere l'autorizzazione dell'autorita' statale cui e' affidata la gestione della proprieta'. Questo massimale verra' aumentato ed espresso in moneta convertibile.
 
-##### Allegato 5
+#### Allegato 5
 
 ALLEGATO 5
 
@@ -1777,7 +1775,7 @@ Fornitura e trasferimento delle informazioni finanziarie e elaborazione dei dati
 
 Per i servizi alla lettera b), il trattamento NPF di cui all'articolo 38 si applica fatto salvo il paragrafo A dell'allegato 8.
 
-##### Allegato 6
+#### Allegato 6
 
 ALLEGATO 6
 
@@ -1867,7 +1865,7 @@ b) le attivita' svolte dalle banche centrali, dagli enti o dai dipartimenti gove
 
 c) le attivita' che rientrano nel sistema ufficiale della previdenza sociale o nei programmi di pensionamento dello Stato, escluse le attivita' svolte da fornitori di servizi finanziari in concorrenza con enti pubblici o con istituzioni private.
 
-##### Allegato 7
+#### Allegato 7
 
 ALLEGATO 7
 
@@ -1981,7 +1979,7 @@ Russia abolisce il limite massimo del 49% per la quota straniera nel capitale az
 
 massimale per la partecipazione azionaria straniera non impedisce alla Russia di rilasciare licenze alle societa' comunitarie per alcuni tipi di assicurazioni, vale a dire unicamente per i programmi di assicurazione obbligatoria nel quadro della previdenza sociale, per le commesse pubbliche o per i motivi di cui all'articolo 29, paragrafo 2, e non vanifica ne' pregiudica in misura considerevole gli effetti dell'abolizione del massimale del 49% per la partecipazione azionaria straniera.
 
-##### Allegato 8
+#### Allegato 8
 
 ALLEGATO 8
 
@@ -2005,7 +2003,7 @@ Parte B
 
 2\. Qualora le nuove legislazioni o i nuovi regolamenti introdotti in Russia durante il periodo transitorio di cui al paragrafo 1 rendano le condizioni per l'attivita' delle consociate e filiali russe di societa' comunitarie piu' restrittive rispetto alla situazione esistente il giorno della firma dell'accordo, le legislazioni e i regolamenti in questione non si applicano alle consociate e filiali gia' stabilite in Russia al momento dell'entrata in vigore dell'atto corrispondente per un periodo di tre anni da detta entrata in vigore.
 
-##### Allegato 9
+#### Allegato 9
 
 ALLEGATO 9
 
@@ -2019,7 +2017,7 @@ Le circostanze di cui all'articolo 53, paragrafo 2.3, e all'allegato 2, paragraf
 
 \- che risentono dell'eliminazione o della drastica riduzione della quota totale di mercato detenuta dalle societa' o dai cittadini russi in un dato settore o in una data industria del paese, oppure - che sono in fase emergente.
 
-##### Allegato 10
+#### Allegato 10
 
 ALLEGATO 10
 
@@ -2045,7 +2043,7 @@ vegetali (UPOV) (Atto di Ginevra, 1978).
 
 5\. Le disposizioni del paragrafo 4 non si applicano ai vantaggi concessi dalla Russia a un paese terzo, su base reciproca effettiva, o a un altro paese dell'ex URSS.
 
-##### Protocollo n. 1
+#### Protocollo n. 1
 
 PROTOCOLLO N. 1
 
@@ -2079,7 +2077,7 @@ PER LA CORRETTA APPLICAZIONE DELLA
 
 LEGISLAZIONE DOGANALE
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -2095,7 +2093,7 @@ d) "autorita' interpellante": l'autorita' amministrativa competente all'uopo des
 
 e) "infrazione": ogni violazione della legislazione doganale ovvero ogni tentata violazione di detta legislazione.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Campi di applicazione
 
@@ -2103,7 +2101,7 @@ Campi di applicazione
 
 2\. L'assistenza in materia doganale prevista dal presente protocollo si applica ad ogni autorita' amministrativa delle Parti competente per l'applicazione dello stesso. Essa non pregiudica le norme che disciplinano l'assistenza reciproca in materia penale ne' copre le informazioni, compresi i documenti ottenuti grazie a poteri esercitati su richiesta dell'autorita' giudiziaria salvo accordo di detta autorita'.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Assistenza su richiesta
 
@@ -2121,7 +2119,7 @@ c) i movimenti di merci per i quali sia stata segnalata la possibilita' che dian
 
 d) i mezzi di trasporto per i quali vi siano fondati motivi di ritenere che siano stati, siano ovvero possano essere utilizzati per violare la normativa doganale.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Assistenza spontanea
 
@@ -2133,7 +2131,7 @@ Nei limiti delle rispettive competenze, le Parti si prestano assistenza reciproc
 
 \- merci note per essere soggette a sostanziali infrazioni della normativa doganale riguardante le importazioni, le esportazioni, il transito o qualsiasi altra procedura doganale.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Forma e contenuto delle domande di assistenza
 
@@ -2157,7 +2155,7 @@ f) una sintesi dei fatti pertinenti.
 
 4\. Se la domanda non risponde ai requisiti formali stabiliti puo' esserne richiesta la correzione o il completamento; tuttavia possono essere disposte misure cautelative.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Adempimento delle domande
 
@@ -2171,7 +2169,7 @@ Adempimento delle domande
 
 5\. Se, nelle circostanze previste dal presente protocollo, funzionari di una Parte sono presenti alle indagini condotte nel territorio dell'altra Parte, essi devono poter dimostrare in qualsiasi momento la loro funzione ufficiale. Detti funzionari non devono ne' indossare l'uniforme ne' portare armi.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Forma in cui devono essere comunicate le informazioni
 
@@ -2181,7 +2179,7 @@ Forma in cui devono essere comunicate le informazioni
 
 3\. I documenti di cui al paragrafo 1 possono essere sostituiti da informazioni computerizzate prodotte in qualsiasi forma per gli stessi fini. Su richiesta vengono fornite tutte le informazioni attinenti all'utilizzazione del materiale.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Eccezioni all'obbligo di fornire assistenza
 
@@ -2197,7 +2195,7 @@ b) violare un segreto industriale, commerciale o professionale.
 
 3\. Se l'assistenza e' sospesa o negata, la decisione e le sue motivazioni devono essere notificate senza indugio all'autorita' richiedente.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Obbligo di osservare la riservatezza
 
@@ -2211,7 +2209,7 @@ Obbligo di osservare la riservatezza
 
 5\. Fatti salvi i casi di reminente interesse pubblico, la persona interessata puo', su richiesta, ottenere informazioni sui dati archiviati e sull'obiettivo di tale archiviazione.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Uso delle informazioni
 
@@ -2221,19 +2219,19 @@ Uso delle informazioni
 
 3\. Nei loro documenti probatori, nelle loro relazioni e testimonianze, nonche' nei procedimenti e nelle azioni penali promossi dinanzi al tribunale, le Parti possono utilizzare come prova le informazioni ottenute e i documenti consultati conformemente alle disposizioni del presente protocollo.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Esperti e testimoni
 
 Un funzionario dell'autorita' interpellata puo' essere autorizzato a comparire, nei limiti dell'autorizzazione concessa, in qualita' di esperto o testimone in azioni giudiziarie o amministrative riguardanti le materie di cui al presente protocollo nella giurisdizione di un'altra Parte e produrre oggetti, documenti ovvero loro copie autenticate che possano occorrere nel procedimento. Nella richiesta di comparizione deve essere specificamente indicato su quale argomento e a quale titolo il funzionario sara' interrogato.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Spese di assistenza
 
 Le Parti rinunciano reciprocamente a tutte le richieste di rimborso delle spese sostenute in virtu' del presente protocollo, escluse, a seconda dei casi, le spese per esperti e testimoni nonche' per gli interpreti e traduttori che non dipendono da pubblici servizi.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Esecuzione
 
@@ -2241,7 +2239,7 @@ Esecuzione
 
 2\. Le Parti si consultano e si tengono reciprocamente informate in merito alle norme dettagliate di esecuzione adottate conformemente alle disposizioni del presente protocollo.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Complementarita'
 
@@ -2249,7 +2247,7 @@ Complementarita'
 
 2\. Fatto salvo l'articolo 10, detti accordi non recano pregiudizio alle disposizioni della Comunita' che disciplinano la comunicazione, tra i competenti servizi della Commissione e le autorita' doganali degli Stati membri, di tutte le informazioni ottenute in materia doganale che possano interessare le Comunita'.
 
-##### Atto finale
+#### Atto finale
 
 ATTO FINALE
 
@@ -2401,7 +2399,7 @@ I plenipotenziari degli Stati membri e della Comunita' hanno preso atto delle di
 
 Dichiarazione della Russia relativa all'articolo 36 dell'accordo.
 
-##### Dichiarazioni
+#### Dichiarazioni
 
 DICHIARAZIONE COMUNE RELATIVA AL TITOLO III E ALL'ARTICOLO 94
 
@@ -2807,7 +2805,7 @@ La Russia dichiara che i fornitori di cui alla dichiarazione della Comunita' rel
 
 Fatto a Corfu', addi' ventiquattro giugno millenovecentonovantaquattro.
 
-##### Scambio di lettere
+#### Scambio di lettere
 
 Parte di provvedimento in formato grafico
 

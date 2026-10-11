@@ -27,25 +27,25 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+##### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo su un tribunale unificato dei brevetti, con Allegati, fatto a Bruxelles il 19 febbraio 2013.
 
-#### Art. 2
+##### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 89 dell'Accordo stesso.
 
-#### Art. 3
+##### Art. 3
 
 Modifica all'articolo 3 del decreto legislativo 27 giugno 2003, n. 168, sulla competenza delle sezioni specializzate in materia di proprieta' industriale e intellettuale presso tribunali e corti d'appello
 
 1\. All'articolo 3, comma 1, lettera a), del decreto legislativo 27 giugno 2003, n. 168, sono aggiunte, in fine, le seguenti parole: «, ad esclusione delle azioni di merito e cautelari per le quali l'Accordo su un tribunale unificato dei brevetti, fatto a Bruxelles il 19 febbraio 2013, pubblicato nella Gazzetta Ufficiale dell'Unione europea C 175 del 20 giugno 2013, prevede la competenza esclusiva del tribunale unificato dei brevetti, fatto salvo il regime transitorio di cui all'articolo 83 del medesimo Accordo».
 
-#### Art. 4
+##### Art. 4
 
 Modifiche all'articolo 66 del codice della proprieta' industriale, di cui al decreto legislativo 10 febbraio 2005, n. 30, in materia di diritto di brevetto
 
@@ -57,7 +57,7 @@ Modifiche all'articolo 66 del codice della proprieta' industriale, di cui al dec
 
 2-quater. Ai fini di cui al comma 2-bis non si considerano aventi diritto all'utilizzazione dell'invenzione i soggetti che compiono gli atti di cui all'articolo 68, comma 1».
 
-#### Art. 5
+##### Art. 5
 
 Disposizioni finanziarie
 
@@ -71,7 +71,7 @@ Disposizioni finanziarie
 
 5\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 6
+##### Art. 6
 
 Entrata in vigore
 
@@ -141,7 +141,7 @@ CONSIDERANDO che il presente accordo dovrebbe entrare in vigore il 1o gennaio 20
 
 HANNO CONVENUTO QUANTO SEGUE:
 
-#### Articolo 1
+##### Articolo 1
 
 Tribunale unificato dei brevetti
 
@@ -155,7 +155,7 @@ Il tribunale unificato dei brevetti e' un tribunale comune agli Stati membri con
 
 (2) Regolamento (UE) n. 1215/2012 del Parlamento europeo e del Consiglio, del 12 dicembre 2012, concernente la competenza giurisdizionale, il riconoscimento e l'esecuzione delle decisioni in materia civile e commerciale (GU L 351 del 20.12.2012, pag. 1), inclusa ogni successiva modifica.
 
-#### Articolo 2
+##### Articolo 2
 
 Definizioni
 
@@ -187,7 +187,7 @@ j) «regolamento di procedura», il regolamento di procedura del tribunale, stab
 
 (2) Regolamento (CE) n. 1610/96 del Parlamento europeo e del Consiglio, del 23 luglio 1996, sull'istituzione di un certificato protettivo complementare per i prodotti fitosanitari (GU L 198 dell'8.8.1996, pag. 30), inclusa ogni successiva modifica.
 
-#### Articolo 3
+##### Articolo 3
 
 Ambito di applicazione
 
@@ -201,7 +201,7 @@ c) brevetto europeo che non e' ancora estinto alla data di entrata in vigore del
 
 d) richiesta di brevetto europeo pendente alla data di entrata in vigore del presente accordo o inoltrata dopo tale data, fatto salvo l'articolo 83.
 
-#### Articolo 4
+##### Articolo 4
 
 Status giuridico
 
@@ -209,7 +209,7 @@ Status giuridico
 
 2\. Il tribunale e' rappresentato dal presidente della corte d'appello che e' eletto conformemente allo statuto.
 
-#### Articolo 5
+##### Articolo 5
 
 Responsabilita'
 
@@ -225,9 +225,9 @@ Responsabilita'
 
 (2) Regolamento (CE) n. 864/2007 del Parlamento europeo e del Consiglio, dell'11 luglio 2007, sulla legge applicabile alle obbligazioni extracontrattuali (Roma II) (GU L 199 del 31.7.2007, pag. 40), inclusa ogni successiva modifica.
 
-## CAPO II - Disposizioni istituzionali
+### CAPO II - Disposizioni istituzionali
 
-#### Articolo 6
+##### Articolo 6
 
 Tribunale
 
@@ -235,7 +235,7 @@ Tribunale
 
 2\. Il tribunale esercita le funzioni conferitegli dal presente accordo.
 
-#### Articolo 7
+##### Articolo 7
 
 Tribunale di primo grado
 
@@ -249,7 +249,7 @@ Tribunale di primo grado
 
 5\. Una divisione regionale e' istituita per due o piu' Stati membri contraenti su loro richiesta, conformemente allo statuto. Tali Stati membri contraenti designano la sede della divisione in questione. La divisione regionale puo' tenere udienze in piu' luoghi.
 
-#### Articolo 8
+##### Articolo 8
 
 Composizione dei collegi del tribunale di primo grado
 
@@ -271,7 +271,7 @@ Nei casi in cui tale giudice qualificato sotto il profilo tecnico e' assegnato, 
 
 8\. I collegi del tribunale di primo grado sono presieduti da un giudice qualificato sotto il profilo giuridico.
 
-#### Articolo 9
+##### Articolo 9
 
 Corte d'appello
 
@@ -285,7 +285,7 @@ Corte d'appello
 
 5\. La corte d'appello ha sede a Lussemburgo.
 
-#### Articolo 10
+##### Articolo 10
 
 Cancelleria
 
@@ -297,13 +297,13 @@ Cancelleria
 
 4\. Il tribunale nomina il cancelliere conformemente all'articolo 22 dello statuto e fissa le norme che ne disciplinano le funzioni.
 
-#### Articolo 11
+##### Articolo 11
 
 Comitati
 
 Sono istituiti un comitato amministrativo, un comitato del bilancio e un comitato consultivo al fine di assicurare l'attuazione ed il funzionamento efficaci del presente accordo. Essi esercitano in particolare le funzioni previste dal presente accordo e dallo statuto.
 
-#### Articolo 12
+##### Articolo 12
 
 Comitato amministrativo
 
@@ -317,7 +317,7 @@ Comitato amministrativo
 
 5\. Il comitato amministrativo designa tra i suoi membri un presidente per una durata di tre anni. Tale mandato e' rinnovabile.
 
-#### Articolo 13
+##### Articolo 13
 
 Comitato del bilancio
 
@@ -331,7 +331,7 @@ Comitato del bilancio
 
 5\. Il comitato del bilancio designa tra i suoi membri un presidente per una durata di tre anni. Tale mandato e' rinnovabile.
 
-#### Articolo 14
+##### Articolo 14
 
 Comitato consultivo
 
@@ -351,9 +351,9 @@ c) fornisce pareri al comitato amministrativo concernenti i requisiti in materia
 
 5\. Il comitato consultivo designa tra i suoi membri un presidente per una durata di tre anni. Tale mandato e' rinnovabile.
 
-## CAPO III - Giudici del tribunale
+### CAPO III - Giudici del tribunale
 
-#### Articolo 15
+##### Articolo 15
 
 Criteri di eleggibilita' per la nomina dei giudici
 
@@ -363,7 +363,7 @@ Criteri di eleggibilita' per la nomina dei giudici
 
 3\. I giudici qualificati sotto il profilo tecnico sono in possesso di un titolo universitario e di comprovata esperienza in un settore tecnologico. Essi hanno anche una comprovata conoscenza del diritto e della procedura civili in materia di controversie brevettuali.
 
-#### Articolo 16
+##### Articolo 16
 
 Procedura di nomina
 
@@ -373,7 +373,7 @@ Procedura di nomina
 
 3\. Lo statuto stabilisce le disposizioni di attuazione per la nomina dei giudici.
 
-#### Articolo 17
+##### Articolo 17
 
 Indipendenza dei giudici e imparzialita'
 
@@ -387,7 +387,7 @@ Indipendenza dei giudici e imparzialita'
 
 5\. In caso di conflitto di interessi, il giudice interessato non partecipa ai procedimenti. Lo statuto stabilisce norme atte a disciplinare i conflitti di interessi.
 
-#### Articolo 18
+##### Articolo 18
 
 Pool di giudici
 
@@ -397,7 +397,7 @@ Pool di giudici
 
 3\. Ove previsto nel presente accordo o nello statuto, i giudici del pool di giudici sono assegnati alla divisione interessata dal presidente del tribunale di primo grado. L'assegnazione dei giudici e' fondata sulle loro competenze di ordine giuridico e tecnico, sulle conoscenze linguistiche e sulla pertinente esperienza. L'assegnazione dei giudici garantisce la stessa qualita' elevata di lavoro e lo stesso livello elevato di competenze di ordine giuridico e tecnico in tutti i collegi del tribunale di primo grado.
 
-#### Articolo 19
+##### Articolo 19
 
 Quadro di formazione
 
@@ -417,21 +417,21 @@ e) preparazione dei candidati alla funzione di giudice.
 
 3\. Il quadro di formazione impartisce una formazione continua. Sono organizzate riunioni periodiche tra tutti i giudici del tribunale al fine di dibattere degli sviluppi del diritto dei brevetti e assicurare la coerenza della giurisprudenza del tribunale.
 
-## CAPO IV - Primato del diritto dell'Unione e responsabilità degli Stati membri contraenti
+### CAPO IV - Primato del diritto dell'Unione e responsabilità degli Stati membri contraenti
 
-#### Articolo 20
+##### Articolo 20
 
 Primato e rispetto del diritto dell'Unione
 
 Il tribunale applica il diritto dell'Unione nella sua integralita' e ne rispetta il primato.
 
-#### Articolo 21
+##### Articolo 21
 
 Domande di pronuncia pregiudiziale
 
 Quale tribunale comune agli Stati membri contraenti e parte del loro ordinamento giudiziario, il tribunale coopera con la Corte di giustizia dell'Unione europea per garantire la corretta applicazione e l'interpretazione uniforme del diritto dell'Unione, come per ogni tribunale nazionale, in particolare conformemente all'articolo 267 TFUE. Le decisioni della Corte di giustizia dell'Unione europea sono vincolanti per il tribunale.
 
-#### Articolo 22
+##### Articolo 22
 
 Responsabilita' per i danni causati da violazioni del diritto dell'Unione
 
@@ -445,15 +445,15 @@ L'autorita' competente applica la legge del foro, eccetto il diritto internazion
 
 3\. Lo Stato membro contraente che ha pagato il risarcimento ha diritto ad ottenere dagli altri Stati membri contraenti un contributo proporzionale stabilito secondo il metodo di cui all'articolo 37, paragrafi 3 e 4. Le modalita' che disciplinano il contributo degli Stati membri contraenti a titolo del presente paragrafo sono definite dal comitato amministrativo.
 
-#### Articolo 23
+##### Articolo 23
 
 Responsabilita' degli Stati membri contraenti
 
 Le azioni del tribunale sono direttamente imputabili a ciascuno degli Stati membri contraenti singolarmente, anche ai fini degli articoli 258, 259 e 260 TFUE, e all'insieme degli Stati membri contraenti collettivamente.
 
-## CAPO V - Fonti del diritto e diritto sostanziale
+### CAPO V - Fonti del diritto e diritto sostanziale
 
-#### Articolo 24
+##### Articolo 24
 
 Fonti del diritto
 
@@ -483,7 +483,7 @@ c) in assenza delle disposizioni di cui alle lettere a) e b), dalle disposizioni
 
 (1) Regolamento (UE) n. 1260/2012 del Parlamento europeo e del Consiglio, del 17 dicembre 2012, relativo all'attuazione di una cooperazione rafforzata nel settore dell'istituzione di una tutela brevettuale unitaria in relazione al regime di traduzione applicabile (GU L 361 del 31.12.2012, pag. 89), inclusa ogni successiva modifica.
 
-#### Articolo 25
+##### Articolo 25
 
 Diritto di impedire l'utilizzazione diretta dell'invenzione
 
@@ -495,7 +495,7 @@ b) utilizzare un procedimento che e' oggetto del brevetto ovvero, qualora il ter
 
 c) offrire, immettere sul mercato, utilizzare o importare ovvero conservare a tali fini un prodotto ottenuto direttamente mediante un procedimento che e' oggetto del brevetto.
 
-#### Articolo 26
+##### Articolo 26
 
 Diritto di impedire l'utilizzazione indiretta dell'invenzione
 
@@ -505,7 +505,7 @@ Diritto di impedire l'utilizzazione indiretta dell'invenzione
 
 3\. Le persone che compiono gli atti di cui all'articolo 27, lettere da a) a e), non si considerano parti aventi diritto all'utilizzazione dell'invenzione ai sensi del paragrafo 1.
 
-#### Articolo 27
+##### Articolo 27
 
 Limiti degli effetti di un brevetto
 
@@ -549,27 +549,27 @@ l) agli atti ammessi a norma dell'articolo 10 della direttiva 98/44/CE (6).
 
 (6) Direttiva 98/44/CE del Parlamento europeo e del Consiglio, del 6 luglio 1998, sulla protezione giuridica delle invenzioni biotecnologiche (GU L 213 del 30.7.1998, pag. 13), inclusa ogni successiva modifica.
 
-#### Articolo 28
+##### Articolo 28
 
 Diritto basato su una precedente utilizzazione dell'invenzione
 
 Qualsiasi persona che, nel caso in cui fosse stato concesso un brevetto nazionale per un'invenzione, avrebbe acquisito in uno Stato membro contraente un diritto basato su una precedente utilizzazione di tale invenzione o un diritto di possesso personale di tale invenzione, gode in tale Stato membro contraente degli stessi diritti relativi a un brevetto per la stessa invenzione.
 
-#### Articolo 29
+##### Articolo 29
 
 Esaurimento dei diritti conferiti da un brevetto europeo
 
 I diritti conferiti da un brevetto europeo non si estendono agli atti relativi ad un prodotto tutelato da tale brevetto dopo che detto prodotto sia stato immesso sul mercato dell'Unione dal titolare del brevetto, o con il suo consenso, a meno che il titolare non abbia motivi legittimi per opporsi all'ulteriore commercializzazione del prodotto.
 
-#### Articolo 30
+##### Articolo 30
 
 Effetti dei certificati protettivi complementari
 
 Un certificato protettivo complementare conferisce gli stessi diritti che sono attribuiti dal brevetto ed e' soggetto alle stesse limitazioni ed agli stessi obblighi.
 
-## CAPO VI - Competenza internazionale
+### CAPO VI - Competenza internazionale
 
-#### Articolo 31
+##### Articolo 31
 
 Competenza internazionale
 
@@ -579,7 +579,7 @@ La competenza internazionale del tribunale e' stabilita conformemente al regolam
 
 (1) Convenzione concernente la competenza giurisdizionale, il riconoscimento e l'esecuzione delle decisioni in materia civile e commerciale, firmata a Lugano il 30 ottobre 2007, inclusa ogni successiva modifica.
 
-#### Articolo 32
+##### Articolo 32
 
 Competenza del tribunale
 
@@ -605,7 +605,7 @@ i) azioni concernenti decisioni prese dall'Ufficio europeo dei brevetti nello sv
 
 2\. Gli organi giurisdizionali nazionali degli Stati membri contraenti rimangono competenti a conoscere delle azioni relative ai brevetti e ai certificati protettivi complementari che non rientrano nella competenza esclusiva del tribunale.
 
-#### Articolo 33
+##### Articolo 33
 
 Competenza delle divisioni del tribunale di primo grado
 
@@ -649,15 +649,15 @@ c) con l'accordo delle parti, deferire la causa alla divisione centrale per deci
 
 10\. Le parti informano il tribunale di eventuali procedimenti di revoca, limitazione o opposizione pendenti dinanzi all'Ufficio europeo dei brevetti e di eventuali richieste di esame accelerato dinanzi all'Ufficio europeo dei brevetti. Il tribunale puo' sospendere il procedimento se e' prevedibile una rapida decisione da parte dell'Ufficio europeo dei brevetti.
 
-#### Articolo 34
+##### Articolo 34
 
 Ambito di applicazione territoriale delle decisioni
 
 Le decisioni del tribunale si applicano, nel caso di un brevetto europeo, al territorio degli Stati membri contraenti per i quali il brevetto europeo ha effetto.
 
-## CAPO VII - Mediazione e arbitrato in materia di brevetti
+### CAPO VII - Mediazione e arbitrato in materia di brevetti
 
-#### Articolo 35
+##### Articolo 35
 
 Centro di mediazione e arbitrato per i brevetti
 
@@ -671,7 +671,7 @@ Centro di mediazione e arbitrato per i brevetti
 
 ## PARTE II - DISPOSIZIONI FINANZIARIE
 
-#### Articolo 36
+##### Articolo 36
 
 Bilancio del tribunale
 
@@ -687,7 +687,7 @@ Il livello dei diritti processuali e' riveduto periodicamente dal comitato ammin
 
 4\. Se il tribunale non e' in grado di pareggiare il bilancio sulle base delle risorse proprie, gli Stati membri contraenti gli versano contributi finanziari speciali.
 
-#### Articolo 37
+##### Articolo 37
 
 Finanziamento del tribunale
 
@@ -705,13 +705,13 @@ Durante lo stesso periodo transitorio iniziale di sette anni, per gli Stati memb
 
 4\. Se al termine del periodo transitorio iniziale di sette anni, entro il quale si prevede che il tribunale abbia raggiunto l'autofinanziamento, si rendono necessari contributi da parte degli Stati membri contraenti, essi sono determinati conformemente alla scala di distribuzione delle tasse annuali di rinnovo per i brevetti europei con effetto unitario applicabile al momento in cui si rende necessario il contributo.
 
-#### Articolo 38
+##### Articolo 38
 
 Finanziamento del quadro di formazione dei giudici
 
 Il quadro di formazione dei giudici e' finanziato dal bilancio del tribunale.
 
-#### Articolo 39
+##### Articolo 39
 
 Finanziamento del centro
 
@@ -721,7 +721,7 @@ Le spese di funzionamento del centro sono finanziate dal bilancio del tribunale.
 
 ### CAPO I - Disposizioni generali
 
-#### Articolo 40
+##### Articolo 40
 
 Statuto
 
@@ -731,7 +731,7 @@ Statuto
 
 3\. Lo statuto garantisce che il funzionamento del tribunale e' organizzato nella maniera piu' efficace e efficiente sotto il profilo dei costi ed assicura l'equo accesso alla giustizia.
 
-#### Articolo 41
+##### Articolo 41
 
 Regolamento di procedura
 
@@ -743,7 +743,7 @@ Il regolamento di procedura puo' essere modificato con decisione del comitato am
 
 3\. Il regolamento di procedura garantisce che le decisioni del tribunale sono della massima qualita' e che i procedimenti sono organizzati nella maniera piu' efficace e efficiente sotto il profilo dei costi. Esso assicura un giusto equilibrio tra gli interessi legittimi di tutte le parti. Esso fornisce il necessario livello di discrezione dei giudici senza pregiudicare la prevedibilita' dei procedimenti per le parti.
 
-#### Articolo 42
+##### Articolo 42
 
 Proporzionalita' ed equita'
 
@@ -751,31 +751,31 @@ Proporzionalita' ed equita'
 
 2\. Il tribunale assicura che le norme, le procedure e i ricorsi previsti nel presente accordo e nello statuto siano utilizzati in maniera corretta ed equa e non distorcano la concorrenza.
 
-#### Articolo 43
+##### Articolo 43
 
 Gestione delle cause
 
 Il tribunale gestisce attivamente le cause di cui e' investito conformemente al regolamento di procedura senza pregiudicare la liberta' delle parti di determinare l'oggetto e le prove a sostegno della loro causa.
 
-#### Articolo 44
+##### Articolo 44
 
 Procedure elettroniche
 
 Il tribunale utilizza al meglio le procedure elettroniche, quali il deposito delle conclusioni delle parti e la presentazione delle prove in forma elettronica, nonche' la videoconferenza, conformemente al regolamento di procedura.
 
-#### Articolo 45
+##### Articolo 45
 
 Procedimenti pubblici
 
 I procedimenti sono aperti al pubblico a meno che il tribunale non decida di renderli riservati, per quanto necessario, nell'interesse di una delle parti o di altre persone coinvolte, o nell'interesse generale della giustizia o dell'ordine pubblico.
 
-#### Articolo 46
+##### Articolo 46
 
 Capacita' giuridica
 
 Qualsiasi persona fisica o giuridica o organismo equivalente a una persona giuridica, autorizzato ad avviare procedimenti conformemente al proprio diritto nazionale, ha capacita' processuale dinanzi al tribunale.
 
-#### Articolo 47
+##### Articolo 47
 
 Parti
 
@@ -793,7 +793,7 @@ Parti
 
 7\. Qualsiasi persona fisica o giuridica, o qualsiasi organismo autorizzato a proporre azioni conformemente al suo diritto nazionale e che sia oggetto di una decisione presa dall'Ufficio europeo dei brevetti nello svolgimento dei compiti di cui all'articolo 9 del regolamento (UE) n. 1257/2012, sono autorizzati a proporre azioni a norma dell'articolo 32, paragrafo 1, lettera i).
 
-#### Articolo 48
+##### Articolo 48
 
 Rappresentanza
 
@@ -811,9 +811,9 @@ Rappresentanza
 
 7\. La rappresentanza conformemente ai paragrafi 1 e 2 del presente articolo non e' richiesta nei procedimenti a norma dell'articolo 32, paragrafo 1, lettera i).
 
-## CAPO II - Lingua dei procedimenti
+### CAPO II - Lingua dei procedimenti
 
-#### Articolo 49
+##### Articolo 49
 
 Lingua del procedimento dinanzi al tribunale di primo grado
 
@@ -831,7 +831,7 @@ o locali e' una lingua ufficiale dell'Unione europea che e' la lingua ufficiale 
 
 6\. La lingua del procedimento presso la divisione centrale e' la lingua in cui e' stato rilasciato il brevetto in questione.
 
-#### Articolo 50
+##### Articolo 50
 
 Lingua del procedimento dinanzi alla corte d'appello
 
@@ -841,7 +841,7 @@ Lingua del procedimento dinanzi alla corte d'appello
 
 3\. In casi eccezionali e nella misura ritenuta appropriata, la corte d'appello puo' decidere che un'altra lingua ufficiale di uno Stato membro contraente sia la lingua del procedimento, per tutto o parte di esso, previo accordo delle parti.
 
-#### Articolo 51
+##### Articolo 51
 
 Altre disposizioni relative alle lingue
 
@@ -857,9 +857,9 @@ b) la lingua del procedimento presso la divisione centrale non e' una lingua uff
 
 c) il convenuto non ha un'adeguata conoscenza della lingua del procedimento.
 
-## CAPO III - Procedimenti dinanzi al tribunale Inversione dell'onere della prova
+### CAPO III - Procedimenti dinanzi al tribunale Inversione dell'onere della prova
 
-#### Articolo 52
+##### Articolo 52
 
 Procedura scritta, procedura provvisoria e procedura orale
 
@@ -869,7 +869,7 @@ Procedura scritta, procedura provvisoria e procedura orale
 
 3\. La procedura orale offre alle parti la possibilita' di illustrare in modo adeguato i rispettivi argomenti. Con l'accordo delle parti il tribunale puo' prescindere dall'audizione.
 
-#### Articolo 53
+##### Articolo 53
 
 Mezzi di prova
 
@@ -893,13 +893,13 @@ h) dichiarazioni scritte fatte sotto il vincolo del giuramento (affidavit).
 
 2\. Il regolamento di procedura disciplina la procedura per l'assunzione delle prove. L'interrogazione di testimoni e periti avviene sotto il controllo del tribunale e puo' essere limitata a quanto necessario.
 
-#### Articolo 54
+##### Articolo 54
 
 Onere della prova
 
 Fatto salvo l'articolo 24, paragrafi 2 e 3, l'onere della prova dei fatti spetta alla parte che li adduce.
 
-#### Articolo 55
+##### Articolo 55
 
 Inversione dell'onere della prova
 
@@ -909,9 +909,9 @@ Inversione dell'onere della prova
 
 3\. Nella produzione della prova contraria e' preso in considerazione il legittimo interesse del convenuto alla protezione dei propri segreti industriali e commerciali.
 
-## CAPO IV - Competenze del tribunale
+### CAPO IV - Competenze del tribunale
 
-#### Articolo 56
+##### Articolo 56
 
 Competenze generali del tribunale
 
@@ -919,7 +919,7 @@ Competenze generali del tribunale
 
 2\. Il tribunale tiene debitamente conto dell'interesse delle parti e, prima di emanare un'ordinanza, offre alle parti la possibilita' di essere ascoltate purche' cio' sia compatibile con l'effettiva attuazione dell'ordinanza.
 
-#### Articolo 57
+##### Articolo 57
 
 Periti del tribunale
 
@@ -931,13 +931,13 @@ Periti del tribunale
 
 4\. Le perizie presentate al tribunale dagli esperti sono rese disponibili alle parti, che hanno la possibilita' di formulare osservazioni al riguardo.
 
-#### Articolo 58
+##### Articolo 58
 
 Protezione delle informazioni riservate
 
 Per proteggere i segreti commerciali, i dati personali o altre informazioni riservate di una parte del procedimento o di terzi, o per impedire l'abuso dei mezzi probatori, il tribunale puo' ordinare che la raccolta e l'uso delle prove in procedimenti di cui e' investita siano limitati o vietati o che l'accesso a tali prove sia limitato a specifiche persone.
 
-#### Articolo 59
+##### Articolo 59
 
 Ordine di presentare elementi di prova
 
@@ -945,7 +945,7 @@ Ordine di presentare elementi di prova
 
 2\. Su richiesta di una parte, il tribunale puo' ordinare, alle stesse condizioni indicate al paragrafo 1, la comunicazione delle documentazioni bancarie, finanziarie o commerciali che si trovano in possesso della controparte, fatta salva la tutela delle informazioni riservate.
 
-#### Articolo 60
+##### Articolo 60
 
 Ordine di protezione delle prove e di ispezione in loco
 
@@ -967,7 +967,7 @@ Ordine di protezione delle prove e di ispezione in loco
 
 9\. Qualora le misure di protezione delle prove siano revocate o decadano in seguito ad un'azione o omissione del richiedente, o qualora successivamente si constati che non vi e' stata violazione o minaccia di violazione del brevetto, il tribunale puo' ordinare al richiedente, su richiesta del convenuto, di accordare a quest'ultimo un adeguato risarcimento del danno eventualmente subito a causa delle misure in questione.
 
-#### Articolo 61
+##### Articolo 61
 
 Decisioni di blocco dei beni
 
@@ -975,7 +975,7 @@ Decisioni di blocco dei beni
 
 2\. L'articolo 60, paragrafi da 5 a 9, si applica per analogia alle misure di cui al presente articolo.
 
-#### Articolo 62
+##### Articolo 62
 
 Misure provvisorie e cautelari
 
@@ -989,7 +989,7 @@ Misure provvisorie e cautelari
 
 5\. L'articolo 60, paragrafi da 5 a 9, si applica per analogia alle misure di cui al presente articolo.
 
-#### Articolo 63
+##### Articolo 63
 
 Ingiunzioni permanenti
 
@@ -997,7 +997,7 @@ Ingiunzioni permanenti
 
 2\. Se del caso, il mancato rispetto dell'ingiunzione di cui al paragrafo 1 e' oggetto del pagamento di una pena pecuniaria suscettibile di essere reiterata da pagare al tribunale.
 
-#### Articolo 64
+##### Articolo 64
 
 Misure correttive nei procedimenti per violazione
 
@@ -1019,7 +1019,7 @@ e) la distruzione dei prodotti e/o dei materiali e degli strumenti interessati.
 
 4\. Nel considerare la richiesta di misure correttive ai sensi del presente articolo, il tribunale tiene conto della necessita' di proporzionalita' tra la gravita' della violazione e i mezzi di ricorso da ordinare, della volonta' dell'autore della violazione di convertire i materiali in uno stato che faccia venir meno la violazione, nonche' degli interessi dei terzi.
 
-#### Articolo 65
+##### Articolo 65
 
 Decisione sulla validita' di un brevetto
 
@@ -1033,7 +1033,7 @@ Decisione sulla validita' di un brevetto
 
 5\. Qualora il tribunale, in una decisione definitiva, revochi interamente o parzialmente un brevetto, esso invia una copia della decisione all'Ufficio europeo dei brevetti e, per quanto riguarda un brevetto europeo, all'ufficio nazionale brevetti di ciascuno Stato membro contraente interessato.
 
-#### Articolo 66
+##### Articolo 66
 
 Competenze del tribunale relativamente alle decisioni dell'Ufficio europeo dei brevetti
 
@@ -1041,7 +1041,7 @@ Competenze del tribunale relativamente alle decisioni dell'Ufficio europeo dei b
 
 2\. Nelle azioni proposte a norma dell'articolo 32, paragrafo 1, lettera i), le parti, in deroga all'articolo 69, sostengono le proprie spese.
 
-#### Articolo 67
+##### Articolo 67
 
 Facolta' di ordinare la comunicazione di informazioni
 
@@ -1063,7 +1063,7 @@ c) siano stati indicati dai soggetti di cui alle lettere a) o b) come persone im
 
 di fornire al richiedente le informazioni di cui al paragrafo 1.
 
-#### Articolo 68
+##### Articolo 68
 
 Risarcimento del danno
 
@@ -1081,7 +1081,7 @@ b) in alternativa alla lettera a), puo' fissare, nei casi appropriati, una somma
 
 4\. Nei casi in cui l'autore della violazione non ha preso parte all'attivita' di violazione consapevolmente o con motivi ragionevoli per saperlo, il tribunale puo' disporre il recupero dei profitti o il pagamento di un indennizzo.
 
-#### Articolo 69
+##### Articolo 69
 
 Spese giudiziarie
 
@@ -1093,7 +1093,7 @@ Spese giudiziarie
 
 4\. Su richiesta del convenuto il tribunale puo' ordinare al richiedente di costituire un'adeguata cauzione per la copertura delle spese giudiziarie e delle altre spese sostenute dal convenuto che potrebbero essere a carico del richiedente, in particolare nei casi di cui agli articoli da 59 a 62.
 
-#### Articolo 70
+##### Articolo 70
 
 Spese processuali
 
@@ -1101,7 +1101,7 @@ Spese processuali
 
 2\. Le spese processuali sono versate in anticipo, salvo disposizione contraria del regolamento di procedura. La parte che non abbia versato le spese processuali puo' essere esclusa dall'ulteriore partecipazione al procedimento.
 
-#### Articolo 71
+##### Articolo 71
 
 Gratuito patrocinio
 
@@ -1111,15 +1111,15 @@ Gratuito patrocinio
 
 3\. Su proposta del tribunale, il comitato amministrativo stabilisce l'entita' del gratuito patrocinio e le condizioni per sostenerne le spese.
 
-#### Articolo 72
+##### Articolo 72
 
 Prescrizione
 
 Fatto salvo l'articolo 24, paragrafi 2 e 3, le azioni relative a tutte le forme di risarcimento pecuniario non possono essere proposte piu' di cinque anni dopo la data in cui il richiedente ha preso o aveva buoni motivi per prendere conoscenza dell'ultimo fatto che vi da' origine.
 
-## CAPO V - Appelli
+### CAPO V - Appelli
 
-#### Articolo 73
+##### Articolo 73
 
 Appello
 
@@ -1139,7 +1139,7 @@ ii) qualora il tribunale conceda l'autorizzazione all'appello, entro quindici gi
 
 4\. Possono essere sottoposti nuovi elementi di fatto e nuove prove soltanto conformemente al regolamento di procedura e se non era ragionevolmente possibile per la parte interessata presentarli durante il procedimento dinanzi al tribunale di primo grado.
 
-#### Articolo 74
+##### Articolo 74
 
 Effetti di un appello
 
@@ -1149,7 +1149,7 @@ Effetti di un appello
 
 3\. Un appello contro un'ordinanza di cui all'articolo 49, paragrafo 5, e agli articoli da 59 a 62 o 67 non impedisce il proseguimento del procedimento principale. Tuttavia, il tribunale di primo grado non emette una decisione nel procedimento principale prima che sia stata emessa la decisione della corte d'appello relativa all'ordinanza avverso la quale si e' proposto appello.
 
-#### Articolo 75
+##### Articolo 75
 
 Decisione in secondo grado e rinvio
 
@@ -1157,9 +1157,9 @@ Decisione in secondo grado e rinvio
 
 2\. In caso di rinvio dinanzi al tribunale di primo grado a norma del paragrafo 1, quest'ultimo e' vincolato dalla decisione della corte d'appello con riguardo ai punti di diritto.
 
-## CAPO VI - Decisioni
+### CAPO VI - Decisioni
 
-#### Articolo 76
+##### Articolo 76
 
 Base delle decisioni e diritto di essere ascoltato
 
@@ -1169,7 +1169,7 @@ Base delle decisioni e diritto di essere ascoltato
 
 3\. Il tribunale valuta le prove in piena liberta' e indipendenza.
 
-#### Articolo 77
+##### Articolo 77
 
 Requisiti di forma
 
@@ -1177,7 +1177,7 @@ Requisiti di forma
 
 2\. Le decisioni e le ordinanze del tribunale sono emesse nella lingua del procedimento.
 
-#### Articolo 78
+##### Articolo 78
 
 Decisioni del tribunale e pareri dissenzienti
 
@@ -1185,19 +1185,19 @@ Decisioni del tribunale e pareri dissenzienti
 
 2\. Indipendentemente dalla decisione del tribunale qualsiasi giudice del collegio puo', in circostanze eccezionali, esprimere un parere dissenziente.
 
-#### Articolo 79
+##### Articolo 79
 
 Transazione
 
 Le parti possono in qualunque momento durante lo svolgimento del procedimento porre fine ad una controversia mediante transazione, che e' convalidata da una decisione del tribunale. Tuttavia, un brevetto non puo' essere revocato o limitato mediante transazione.
 
-#### Articolo 80
+##### Articolo 80
 
 Pubblicazione delle decisioni
 
 Il tribunale puo' ordinare, su richiesta del richiedente e a spese dell'autore della violazione, misure adeguate per la divulgazione dell'informazione concernente la decisione del tribunale, compresa l'affissione della decisione e la sua pubblicazione integrale o per estratto sui media pubblici.
 
-#### Articolo 81
+##### Articolo 81
 
 Riesame
 
@@ -1213,7 +1213,7 @@ b) in caso di vizi sostanziali della procedura, in particolare quando la domanda
 
 4\. Le persone che utilizzano brevetti oggetto di una decisione soggetta a riesame e agiscono in buona fede dovrebbero essere autorizzati a continuare a utilizzare tali brevetti.
 
-#### Articolo 82
+##### Articolo 82
 
 Esecuzione delle decisioni e delle ordinanze
 
@@ -1227,7 +1227,7 @@ Esecuzione delle decisioni e delle ordinanze
 
 ## PARTE IV - DISPOSIZIONI TRANSITORIE
 
-#### Articolo 83
+##### Articolo 83
 
 Regime transitorio
 
@@ -1243,7 +1243,7 @@ Regime transitorio
 
 ## PARTE V - DISPOSIZIONI FINALI
 
-#### Articolo 84
+##### Articolo 84
 
 Firma, ratifica e adesione
 
@@ -1255,7 +1255,7 @@ Firma, ratifica e adesione
 
 4\. Il presente accordo e' aperto all'adesione di qualsiasi Stato membro. Gli strumenti di adesione sono depositati presso il depositario.
 
-#### Articolo 85
+##### Articolo 85
 
 Funzioni del depositario
 
@@ -1271,13 +1271,13 @@ c) la data di entrata in vigore del presente accordo.
 
 3\. Il depositario registra il presente accordo presso il segretariato delle Nazioni Unite.
 
-#### Articolo 86
+##### Articolo 86
 
 Durata dell'accordo
 
 Il presente accordo ha durata illimitata.
 
-#### Articolo 87
+##### Articolo 87
 
 Revisione
 
@@ -1287,7 +1287,7 @@ Revisione
 
 3\. Una decisione del comitato amministrativo adottata sulla base dei paragrafi 1 e 2 non ha effetto giuridico se uno Stato membro contraente dichiara, entro dodici mesi dalla data della decisione, sulla base delle relative procedure decisionali interne pertinenti, che non vuole essere vincolato dalla decisione. In tal caso, e' convocata una conferenza di revisione degli Stati membri contraenti.
 
-#### Articolo 88
+##### Articolo 88
 
 Lingue dell'accordo
 
@@ -1295,7 +1295,7 @@ Lingue dell'accordo
 
 2\. I testi del presente accordo redatti in lingue ufficiali degli Stati membri contraenti diverse da quelle specificate al paragrafo 1, se approvati dal comitato amministrativo, sono considerati testi ufficiali. Nel caso di divergenze tra i diversi testi, prevalgono i testi di cui al paragrafo 1.
 
-#### Articolo 89
+##### Articolo 89
 
 Entrata in vigore
 
@@ -1313,15 +1313,15 @@ ALLEGATO I
 
 STATUTO DEL TRIBUNALE UNIFICATO DEI BREVETTI
 
-#### Articolo 1
+##### Articolo 1
 
 Ambito di applicazione dello statuto
 
 Il presente statuto contiene le disposizioni istituzionali e finanziarie applicabili al tribunale unificato dei brevetti istituito a norma dell'articolo 1 dell'accordo.
 
-## CAPO I - GIUDICI
+### CAPO I - GIUDICI
 
-#### Articolo 2
+##### Articolo 2
 
 Requisiti richiesti per la funzione di giudice
 
@@ -1331,7 +1331,7 @@ Requisiti richiesti per la funzione di giudice
 
 3\. La comprovata esperienza in materia di controversie brevettuali richiesta per la nomina a norma dell'articolo 15, paragrafo 1, dell'accordo puo' essere acquisita mediante una formazione a norma dell'articolo 11, paragrafo 4, lettera a), del presente statuto.
 
-#### Articolo 3
+##### Articolo 3
 
 Nomina dei giudici
 
@@ -1347,7 +1347,7 @@ Nomina dei giudici
 
 6\. I giudici a tempo parziale qualificati sotto il profilo tecnico sono nominati giudici del tribunale e inseriti nel pool di giudici sulla base delle loro qualifiche ed esperienze specifiche. La nomina di tali giudici del tribunale assicura che siano contemplati tutti i settori tecnologici.
 
-#### Articolo 4
+##### Articolo 4
 
 Durata del mandato dei giudici
 
@@ -1355,7 +1355,7 @@ Durata del mandato dei giudici
 
 2\. In assenza di disposizioni relative alla data, il periodo decorre dalla data dell'atto di nomina.
 
-#### Articolo 5
+##### Articolo 5
 
 Nomina dei membri del comitato consultivo
 
@@ -1363,13 +1363,13 @@ Nomina dei membri del comitato consultivo
 
 2\. I membri del comitato consultivo sono nominati dal comitato amministrativo che delibera di comune accordo.
 
-#### Articolo 6
+##### Articolo 6
 
 Giuramento
 
 Prima di assumere le proprie funzioni, i giudici, in seduta pubblica, prestano giuramento di esercitare tali funzioni in piena imparzialita' e secondo coscienza e di nulla divulgare del segreto delle deliberazioni.
 
-#### Articolo 7
+##### Articolo 7
 
 Imparzialita'
 
@@ -1393,7 +1393,7 @@ e) abbiano rapporti di parentela con una delle parti o con i rappresentanti dell
 
 5\. In caso di difficolta' nell'applicazione del presente articolo, il praesidium decide conformemente al regolamento di procedura. Il giudice interessato e' ascoltato ma non prende parte alle deliberazioni.
 
-#### Articolo 8
+##### Articolo 8
 
 Immunita' dei giudici
 
@@ -1405,7 +1405,7 @@ Immunita' dei giudici
 
 4\. Il protocollo sui privilegi e sulle immunita' dell'Unione europea e' applicabile ai giudici del tribunale, senza pregiudizio delle disposizioni relative all'immunita' di giurisdizione dei giudici che figurano nel presente statuto.
 
-#### Articolo 9
+##### Articolo 9
 
 Cessazione delle funzioni
 
@@ -1417,7 +1417,7 @@ Cessazione delle funzioni
 
 4\. Si provvede a ogni vacanza di seggio mediante nomina di un nuovo giudice per la restante durata del mandato del suo predecessore.
 
-#### Articolo 10
+##### Articolo 10
 
 Rimozione dalle funzioni
 
@@ -1427,7 +1427,7 @@ Rimozione dalle funzioni
 
 3\. Tale notificazione, in caso di decisione che rimuove un giudice dalle sue funzioni, importa vacanza di seggio.
 
-#### Articolo 11
+##### Articolo 11
 
 Formazione
 
@@ -1449,17 +1449,17 @@ a) assicura una formazione appropriata per i candidati alla funzione di giudice 
 
 b) sostiene progetti intesi a facilitare la cooperazione tra i rappresentanti, i procuratori e il tribunale.
 
-#### Articolo 12
+##### Articolo 12
 
 Remunerazione
 
 Il comitato amministrativo stabilisce la remunerazione del presidente della corte d'appello, del presidente del tribunale di primo grado, dei giudici, del cancelliere, del cancelliere aggiunto e del personale.
 
-## CAPO II - DISPOSIZIONI ORGANIZZATIVE
+### CAPO II - DISPOSIZIONI ORGANIZZATIVE
 
-### SEZIONE 1 - Disposizioni generali
+#### SEZIONE 1 - Disposizioni generali
 
-#### Articolo 13
+##### Articolo 13
 
 Presidente della corte d'appello
 
@@ -1473,7 +1473,7 @@ Il mandato del presidente della corte d'appello e' rinnovabile due volte.
 
 4\. Se il presidente della corte d'appello cessa dal mandato prima della scadenza, si procede all'elezione di un successore per il periodo restante.
 
-#### Articolo 14
+##### Articolo 14
 
 Presidente del tribunale di primo grado
 
@@ -1485,7 +1485,7 @@ Presidente del tribunale di primo grado
 
 4\. L'articolo 13, paragrafi 2 e 4, si applica per analogia al presidente del tribunale di primo grado.
 
-#### Articolo 15
+##### Articolo 15
 
 Praesidium
 
@@ -1499,7 +1499,7 @@ Praesidium
 
 5\. Il praesidium puo' prendere decisioni valide solo se sono presenti o debitamente rappresentati tutti i membri. Le decisioni sono prese a maggioranza dei voti.
 
-#### Articolo 16
+##### Articolo 16
 
 Personale
 
@@ -1507,7 +1507,7 @@ Personale
 
 2\. Il comitato amministrativo definisce lo statuto dei funzionari e degli altri agenti del tribunale.
 
-#### Articolo 17
+##### Articolo 17
 
 Vacanze giudiziarie
 
@@ -1517,9 +1517,9 @@ Vacanze giudiziarie
 
 3\. Il presidente della corte d'appello o il presidente del tribunale di primo grado puo', per giustificati motivi, accordare permessi rispettivamente ai giudici della corte d'appello o ai giudici del tribunale di primo grado.
 
-## SEZIONE 2 - Il tribunale di primo grado
+#### SEZIONE 2 - Il tribunale di primo grado
 
-#### Articolo 18
+##### Articolo 18
 
 Costituzione e scioglimento di una divisione locale o regionale
 
@@ -1531,7 +1531,7 @@ Costituzione e scioglimento di una divisione locale o regionale
 
 4\. A decorrere dalla data in cui una divisione locale o regionale e' sciolta, i giudici assegnati a tale divisione locale o regionale sono assegnati alla divisione centrale e le cause ancora pendenti dinanzi a detta divisione locale o regionale, cosi' come l'ufficio periferico della cancelleria e tutta la documentazione sono trasferiti alla divisione centrale.
 
-#### Articolo 19
+##### Articolo 19
 
 Collegi
 
@@ -1545,7 +1545,7 @@ Collegi
 
 5\. Un giudice del collegio agisce in qualita' di relatore, conformemente al regolamento di procedura.
 
-#### Articolo 20
+##### Articolo 20
 
 Pool di giudici
 
@@ -1553,9 +1553,9 @@ Pool di giudici
 
 2\. Una richiesta indirizzata al presidente del tribunale di primo grado per l'assegnazione di un giudice dal pool di giudici reca in particolare l'indicazione dell'oggetto della causa, la lingua ufficiale dell'Ufficio europeo dei brevetti usata dai giudici del collegio, la lingua del procedimento e il settore tecnologico richiesto.
 
-## SEZIONE 3 - La corte d'appello
+#### SEZIONE 3 - La corte d'appello
 
-#### Articolo 21
+##### Articolo 21
 
 Collegi
 
@@ -1567,9 +1567,9 @@ Collegi
 
 4\. Un giudice del collegio agisce in qualita' di relatore, conformemente al regolamento di procedura.
 
-## SEZIONE 4 - La cancelleria
+#### SEZIONE 4 - La cancelleria
 
-#### Articolo 22
+##### Articolo 22
 
 Nomina e revoca del cancelliere
 
@@ -1585,7 +1585,7 @@ Nomina e revoca del cancelliere
 
 6\. Se il cancelliere e' assente o nell'impossibilita' di assistere o tale posto e' vacante, il presidente della corte d'appello, previa consultazione del praesidium, designa un membro del personale del tribunale per svolgere le mansioni del cancelliere.
 
-#### Articolo 23
+##### Articolo 23
 
 Funzioni del cancelliere
 
@@ -1603,7 +1603,7 @@ e) della pubblicazione delle relazioni annuali contenenti dati statistici; e
 
 f) dell'accertamento che le informazioni sulle decisioni di rinuncia conformemente all'articolo 83 dell'accordo, siano notificate all'Ufficio europeo dei brevetti.
 
-#### Articolo 24
+##### Articolo 24
 
 Tenuta del registro
 
@@ -1611,7 +1611,7 @@ Tenuta del registro
 
 2\. Le norme per l'accesso ai documenti della cancelleria sono stabilite nel regolamento di procedura.
 
-#### Articolo 25
+##### Articolo 25
 
 Sottosezioni della cancelleria e cancelliere aggiunto
 
@@ -1627,9 +1627,9 @@ b) notifica alla cancelleria di tutte le cause sottoposte al tribunale di primo 
 
 4\. Il cancelliere aggiunto fornisce anche assistenza amministrativa e di segreteria alle divisioni del tribunale di primo grado.
 
-## CAPO III - DISPOSIZIONI FINANZIARIE
+### CAPO III - DISPOSIZIONI FINANZIARIE
 
-#### Articolo 26
+##### Articolo 26
 
 Bilancio
 
@@ -1641,7 +1641,7 @@ Bilancio
 
 4\. Il cancelliere presenta ogni anno una dichiarazione sui conti dell'esercizio finanziario precedente relativa all'esecuzione del bilancio, che e' approvata dal praesidium.
 
-#### Articolo 27
+##### Articolo 27
 
 Autorizzazione delle spese
 
@@ -1651,7 +1651,7 @@ Autorizzazione delle spese
 
 3\. I crediti sono registrati in linee diverse secondo la natura o la destinazione delle spese e sono ripartiti, per quanto necessario, conformemente al regolamento finanziario.
 
-#### Articolo 28
+##### Articolo 28
 
 Crediti per spese non prevedibili
 
@@ -1659,19 +1659,19 @@ Crediti per spese non prevedibili
 
 2\. L'uso di tali crediti da parte del tribunale e' soggetto alla approvazione preventiva del comitato del bilancio.
 
-#### Articolo 29
+##### Articolo 29
 
 Esercizio finanziario
 
 L'esercizio finanziario ha inizio il 1o gennaio e termina il 31 dicembre.
 
-#### Articolo 30
+##### Articolo 30
 
 Formazione del bilancio
 
 Il praesidium sottopone il progetto di bilancio del tribunale al comitato del bilancio non oltre la data prevista nel regolamento finanziario.
 
-#### Articolo 31
+##### Articolo 31
 
 Bilancio provvisorio
 
@@ -1679,7 +1679,7 @@ Bilancio provvisorio
 
 2\. Il comitato del bilancio, su riserva del rispetto delle altre disposizioni di cui al paragrafo 1, puo' autorizzare spese superiori al dodicesimo dei crediti del bilancio dell'esercizio precedente.
 
-#### Articolo 32
+##### Articolo 32
 
 Revisione dei conti
 
@@ -1693,7 +1693,7 @@ Al termine di ciascun esercizio i revisori elaborano una relazione contenente un
 
 4\. Il comitato del bilancio approva i conti annuali e la relazione dei revisori e da' scarico al praesidium in relazione all'esecuzione del bilancio.
 
-#### Articolo 33
+##### Articolo 33
 
 Regolamento finanziario
 
@@ -1709,15 +1709,15 @@ c) le norme relative alle responsabilita' degli ordinatori e dei contabili e le 
 
 d) i principi contabili generalmente ammessi su cui si basano il bilancio e gli stati finanziari annuali.
 
-## CAPO IV - DISPOSIZIONI PROCEDURALI
+### CAPO IV - DISPOSIZIONI PROCEDURALI
 
-#### Articolo 34
+##### Articolo 34
 
 Segreto delle deliberazioni
 
 Le deliberazioni del tribunale sono e restano segrete.
 
-#### Articolo 35
+##### Articolo 35
 
 Decisioni
 
@@ -1731,13 +1731,13 @@ Decisioni
 
 5\. Le decisioni sono firmate dai giudici che hanno partecipato alla deliberazione e dal cancelliere per le decisioni della corte d'appello e dal cancelliere aggiunto per le decisioni del tribunale di primo grado. Esse sono lette in pubblica udienza.
 
-#### Articolo 36
+##### Articolo 36
 
 Pareri dissenzienti
 
 Il parere dissenziente espresso separatamente da un giudice del collegio conformemente all'articolo 78 dell'accordo e' motivato, reso per iscritto e firmato dal giudice che lo ha formulato.
 
-#### Articolo 37
+##### Articolo 37
 
 Decisione in contumacia
 
@@ -1745,7 +1745,7 @@ Decisione in contumacia
 
 2\. L'impugnazione non ha effetti sospensivi sulla decisione in contumacia salvo diversa decisione del tribunale.
 
-#### Articolo 38
+##### Articolo 38
 
 Questioni sottoposte alla Corte di giustizia dell'Unione europea
 
@@ -1753,7 +1753,7 @@ Questioni sottoposte alla Corte di giustizia dell'Unione europea
 
 2\. Qualora abbiano deciso di sottoporre alla Corte di giustizia dell'Unione europea una questione circa l'interpretazione del trattato sull'Unione europea o del trattato sul funzionamento dell'Unione europea ovvero una questione circa la validita' o interpretazione di atti delle istituzioni dell'Unione europea, il tribunale di primo grado o la corte d'appello sospendono il procedimento.
 
-#### Allegato II
+##### Allegato II
 
 ALLEGATO II
 

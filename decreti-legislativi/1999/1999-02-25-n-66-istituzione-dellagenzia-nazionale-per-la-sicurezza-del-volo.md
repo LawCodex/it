@@ -52,11 +52,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I - AGENZIA NAZIONALE
+## Titolo I - AGENZIA NAZIONALE PER LA SICUREZZA DEL VOLO
 
-### PER LA SICUREZZA DEL VOLO
-
-#### Art. 1
+### Art. 1
 
 Istituzione dell'Agenzia nazionale
 
@@ -112,7 +110,7 @@ per la sicurezza del volo
 
 > \- Il decreto legislativo 3 febbraio 1993, n. 29, reca: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'art. 2 della legge 23 ottobre 1992, n. 421".
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -186,7 +184,7 @@ m) "inconveniente grave": un inconveniente le cui circostanze rivelino che e' st
 
 n) "raccomandazione di sicurezza": una proposta dell'Agenzia formulata sulla base dei dati emersi dall'inchiesta, ai fini della prevenzione di incidenti ed inconvenienti.
 
-#### Art. 3
+### Art. 3
 
 Compiti e finalita'
 
@@ -208,23 +206,23 @@ e) monitorare, ai fini della prevenzione, gli indicatori significativi emersi ne
 
 f) monitorare gli incidenti occorsi ad apparecchi per il volo da diporto e sportivo.
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.P.R. 5 OTTOBRE 2010, N. 189 ))
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.P.R. 5 OTTOBRE 2010, N. 189 ))
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.P.R. 5 OTTOBRE 2010, N. 189 ))
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.P.R. 5 OTTOBRE 2010, N. 189 ))
 
-#### Art. 8
+### Art. 8
 
 Personale
 
@@ -248,7 +246,7 @@ Le unita' destinate ai compiti investigativi possono altresi' essere individuate
 
 8\. L'Agenzia puo' avvalersi, per la formazione e l'aggiornamento del personale investigativo, dell'Istituto superiore per la sicurezza del volo dell'Aeronautica militare, nonche' di analoghe e qualificate strutture nazionali ed estere.
 
-#### Art. 9
+### Art. 9
 
 Poteri dell'Agenzia
 
@@ -266,7 +264,7 @@ b) assicura la mutua assistenza, ove possibile gratuita, con i corrispondenti or
 
 c) puo' delegare lo svolgimento dell'inchiesta ai corrispondenti organismi degli altri Stati membri dell'Unione europea.
 
-#### Art. 10
+### Art. 10
 
 Compiti degli investigatori incaricati
 
@@ -302,7 +300,7 @@ e) accedere a qualsiasi informazione utile in possesso del proprietario, dell'es
 
 > 4\. La polizia giudiziaria, quando, di propria iniziativa o a seguito di delega del pubblico ministero, compie atti od operazioni che richiedono specifiche competenze tecniche, puo' avvalersi di persone idonee le quali non possono rifiutare la propria opera".
 
-#### Art. 11
+### Art. 11
 
 Divieto di divulgazione
 
@@ -340,7 +338,7 @@ Divieto di divulgazione
 
 > Nell'ambito delle proprie attribuzioni, l'impiegato preposto ad un ufficio rilascia, a chi ne abbia interesse, copie ed estratti di atti e documenti di ufficio nei casi non vietati dalle leggi, dai regolamenti o dal capo del servizio".
 
-#### Art. 12
+### Art. 12
 
 Relazioni e rapporti d'inchiesta
 
@@ -354,13 +352,13 @@ Il rapporto e' trasmesso al Ministero dei trasporti e della navigazione, all'Ent
 
 4\. Le relazioni e i rapporti d'inchiesta e le raccomandazioni di sicurezza non riguardano in alcun caso la determinazione di colpe e responsabilita'.
 
-#### Art. 13
+### Art. 13
 
 Attuazione delle raccomandazioni
 
 1\. Il Ministero dei trasporti e della navigazione adotta le misure necessarie a garantire che le raccomandazioni di sicurezza siano debitamente prese in considerazione.
 
-#### Art. 14
+### Art. 14
 
 Controllo della Corte dei conti
 
@@ -376,7 +374,7 @@ e patrocinio dell'Avvocatura dello Stato
 
 > "Art. 12. - Il controllo previsto dall'art. 100 della Costituzione sulla gestione finanziaria degli enti pubblici ai quali l'amministrazione dello Stato o un'azienda autonoma statale contribuisca con apporto al patrimonio in capitale o servizi o beni ovvero mediante concessione di garanzia finanziaria, e' esercitato, anziche' nei modi previsti dagli articoli 5 e 6, da un magistrato della Corte dei conti, nominato dal Presidente della Corte stessa, che assiste alle sedute degli organi di amministrazione e di revisione".
 
-#### Art. 15
+### Art. 15
 
 Disposizioni finanziarie e contabili
 
@@ -654,7 +652,7 @@ Disposizioni finanziarie e contabili
 
 > 11\. Nessun versamento a carico del bilancio dello Stato puo' essere effettuato agli enti di cui all'art. 25 della presente legge ed alle regioni se non risultano regolarmente adempiuti gli obblighi di cui ai precedenti commi".
 
-#### Art. 16
+### Art. 16
 
 Norma finale
 
@@ -684,11 +682,9 @@ Norma finale
 
 > 6\. Le amministrazioni pubbliche che non provvedono agli adempimenti di cui al presente articolo e a quelli previsti dall'art. 31 non possono assumere nuovo personale, compreso quello appartenente alle categorie protette".
 
-## Titolo II - MODIFICHE AL CODICE
+## Titolo II - MODIFICHE AL CODICE DELLA NAVIGAZIONE
 
-### DELLA NAVIGAZIONE
-
-#### Art. 17
+### Art. 17
 
 Modifica del titolo VIII, libro I, parte II
 
@@ -724,7 +720,7 @@ Art. 832 (Incidenti ad aeromobili italiani all'estero).- Nel caso di incidente o
 
 > \- La legge 17 aprile 1956, n. 561, reca: "Ratifica ai sensi dell'art. 6 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98, di decreti legislativi emanati dal Governo durante il periodo della Costituente".
 
-#### Art. 18
+### Art. 18
 
 Abrogazione
 
@@ -756,11 +752,9 @@ Visto, il Guardasigilli: Diliberto
 
 > \- Per il titolo del regio decreto 11 gennaio 1925, n. 356, vedi nelle note alle premesse.
 
-## Titolo II - MODIFICHE AL CODICE
+## Titolo II - MODIFICHE AL CODICE DELLA NAVIGAZIONE
 
-### DELLA NAVIGAZIONE
-
-#### Allegato
+### Allegato
 
 ALLEGATO
 

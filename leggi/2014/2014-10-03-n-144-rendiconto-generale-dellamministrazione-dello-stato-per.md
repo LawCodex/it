@@ -29,11 +29,9 @@ la seguente legge:
 
 ## Titolo I - RENDICONTO GENERALE DELLO STATO
 
-### Capo I
+### Capo I - Conto del bilancio
 
-#### Conto del - bilancio
-
-##### Art. 1
+#### Art. 1
 
 Entrate
 
@@ -133,7 +131,7 @@ Residui attivi dell'esercizio 2012
 
 > 12\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.».
 
-##### Art. 2
+#### Art. 2
 
 Spese
 
@@ -157,7 +155,7 @@ cizio 2012 | 37.231.135.186,65| 25.703.157.921,84| 62.934.293.108,49
  ====================
 ```
 
-##### Art. 3
+#### Art. 3
 
 Avanzo della gestione di competenza
 
@@ -202,7 +200,7 @@ Totale spese 752.982.586.127,96
          Avanzo della gestione di competenza        65.856.259.921,80 ========================
 ```
 
-##### Art. 4
+#### Art. 4
 
 Situazione finanziaria
 
@@ -261,7 +259,7 @@ Disavanzo al 31 dicembre 2012 .............. 241.681.527.585,70
 Disavanzo finanziario al 31 dicembre 2013 .. 175.825.267.663,90 ======================
 ```
 
-##### Art. 5
+#### Art. 5
 
 Allegati
 
@@ -281,9 +279,9 @@ Allegati
 
 > 4\. Alla legge di approvazione del rendiconto generale dello Stato e' allegato un elenco dei decreti di cui al comma 2, con le indicazioni dei motivi per i quali si e' proceduto ai prelevamenti dal fondo di cui al presente articolo.».
 
-## Capo II - Conto generale del patrimonio
+### Capo II - Conto generale del patrimonio
 
-##### Art. 6
+#### Art. 6
 
 Risultati generali della gestione patrimoniale
 
@@ -325,7 +323,7 @@ Eccedenza passiva al
 
 ## Titolo II - AMMINISTRAZIONI E AZIENDE AUTONOME
 
-##### Art. 7
+#### Art. 7
 
 Istituto agronomico per l'Oltremare
 
@@ -381,7 +379,7 @@ dell'esercizio
  ==================
 ```
 
-##### Art. 8
+#### Art. 8
 
 Archivi notarili
 
@@ -395,7 +393,7 @@ Spese .......................................... 285.190.499,15
 
 -------------------- Avanzo di gestione ............................. 25.239.531,74 ====================
 
-##### Art. 9
+#### Art. 9
 
 Fondo edifici di culto
 
@@ -505,7 +503,7 @@ Saldo effettivo dell'esercizio 2012 ................ 6.999.594,60
 
 ## Titolo III - APPROVAZIONE DEI RENDICONTI
 
-##### Art. 10
+#### Art. 10
 
 Rendiconti
 
@@ -525,7 +523,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-##### Allegato 1
+#### Allegato 1
 
 Allegato 1
 
@@ -893,7 +891,7 @@ MINISTERO DELLA DIFESA
 
 \- Programma - "Funzioni non direttamente collegate ai compiti di difesa militare" della missione "Difesa e sicurezza del territorio" di pertinenza del CDR "Segretariato generale" per € 4.970.931,00.
 
-##### Allegato 2
+#### Allegato 2
 
 Allegato 2
 

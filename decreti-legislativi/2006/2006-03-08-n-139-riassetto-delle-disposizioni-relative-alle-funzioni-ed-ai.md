@@ -154,9 +154,9 @@ Regioni a statuto speciale e province autonome
 
 1\. Nella regione Valle d'Aosta e nelle province autonome di Trento e di Bolzano le materie di cui al presente decreto continuano ad essere disciplinate dai rispettivi statuti.
 
-## Capo II - Sezione I
+## Capo II
 
-### Personale
+### Sezione I - Personale
 
 #### Art. 6
 
@@ -180,7 +180,7 @@ per il personale del Corpo nazionale dei vigili del fuoco
 
 1\. Il personale di cui all'articolo 6, che esplica il servizio di istituto nelle localita' ove hanno sede le strutture dipendenti dall'Opera nazionale di assistenza per il personale del Corpo nazionale o in localita' limitrofe, puo' essere utilizzato ((, previa valutazione delle esigenze di servizio, per un periodo temporaneo e secondo criteri di rotazione,)) presso tali sedi per le esigenze connesse al funzionamento delle strutture stesse.
 
-## Sezione II - Personale volontario
+### Sezione II - Personale volontario
 
 #### Art. 8
 

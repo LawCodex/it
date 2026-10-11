@@ -30,7 +30,7 @@ la seguente legge:
 
 ## TITOLO I - ISTITUZIONE E COMPETENZE DEI TRIBUNALI AMMINISTRATIVI REGIONALI
 
-#### Art. 1
+### Art. 1
 
 Sono istituiti tribunali amministrativi regionali, quali organi di giustizia amministrativa di primo grado.
 
@@ -48,39 +48,37 @@ AGGIORNAMENTO (19)
 
 Il D.L. 24 giugno 2014, n. 90 convertito con modificazioni dalla L. 11 agosto 2014, n. 114 ha disposto (con l'art. 18, comma 2, alinea) che le presenti modifiche decorrono dal 1° luglio 2015.
 
-#### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-## TITOLO II - COMPOSIZIONE DEI TRIBUNALI AMMINISTRATIVI
+## TITOLO II - COMPOSIZIONE DEI TRIBUNALI AMMINISTRATIVI REGIONALI
 
-### REGIONALI
-
-#### Art. 9
+### Art. 9
 
 Con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri, sentito il Consiglio di Presidenza dei tribunali amministrativi regionali, e' nominato per ciascun tribunale amministrativo regionale, all'inizio di ogni anno, il presidente, da scegliere tra i presidenti di sezione del Consiglio di Stato o tra i consiglieri di Stato.
 
@@ -88,11 +86,11 @@ Con lo stesso decreto e con le medesime modalita' sono nominati presso ciascun t
 
 Per i tribunali amministrativi regionali formati di piu' sezioni, nonche' per le sezioni istituite nel tribunale amministrativo regionale del Lazio deve essere sempre nominato un presidente di sezione del Consiglio di Stato.
 
-#### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 11
+### Art. 11
 
 I presidenti di sezione del Consiglio di Stato sono destinati alla presidenza dei tribunali amministrativi regionali con il loro consenso, ovvero all'atto del conseguimento della nomina.
 
@@ -102,7 +100,7 @@ I consiglieri di Stato possono essere destinati, alla presidenza dei tribunali a
 
 I consiglieri di Stato, a domanda, possono riassumere le loro funzioni presso il Consiglio di Stato non prima di tre anni dalla loro destinazione. Possono continuare nella destinazione alla presidenza di un tribunale amministrativo regionale anche se siano nominati presidenti di sezione del Consiglio di Stato.
 
-#### Art. 12
+### Art. 12
 
 Per l'assolvimento delle funzioni previste dalla presente legge:
 
@@ -112,7 +110,7 @@ b) i posti di consigliere di Stato della tabella medesima sono parimenti aumenta
 
 c) e' istituito il ruolo dei magistrati amministrativi regionali, secondo la tabella allegata alla presente legge.
 
-#### Art. 13
+### Art. 13
 
 I magistrati amministrativi regionali si distinguono in consiglieri, primi referendari e referendari.
 
@@ -132,7 +130,7 @@ I magistrati amministrativi regionali non possono essere in alcun caso chiamati 
 
 Ad essi si estendono le altre cause di incompatibilita' e le cause di ineleggibilita' previste per i magistrati ordinari.
 
-#### Art. 14
+### Art. 14
 
 Le nomine a referendario sono conferite a seguito di concorso per titoli ed esami, al quale possono partecipare, purche' non abbiano superato il quarantacinquesimo anno di eta':
 
@@ -160,7 +158,7 @@ AGGIORNAMENTO (7)
 
 La L. 24 febbraio 1997, n.27 ha disposto (con l'art. 5, comma 2) che "Il termine di cui all'articolo 14, primo comma, numero 6, della legge 6 dicembre 1971, n. 1034, e' aumentato a otto anni".
 
-#### Art. 15
+### Art. 15
 
 Le nomine a primo referendario sono conferite ai referendari con almeno sei anni di effettivo servizio, per due terzi mediante scrutinio per merito comparativo e per un terzo secondo il turno di anzianita', previo giudizio di idoneita'.
 
@@ -168,13 +166,13 @@ Le nomine vengono disposte con decreto del Presidente della Repubblica, su propo
 
 Allo scrutinio per merito comparativo e al giudizio di idoneita' provvede il Consiglio di Presidenza dei tribunali amministrativi regionali.
 
-#### Art. 16
+### Art. 16
 
 I consiglieri amministrativi regionali sono nominati con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri e su parere del Consiglio di Presidenza dei tribunali amministrativi regionali.
 
 I posti che si rendono vacanti nel ruolo dei consiglieri amministrativi regionali sono conferiti ai primi referendari regionali, che abbiano prestato almeno sei anni di effettivo servizio nella qualifica.
 
-#### Art. 17
+### Art. 17
 
 A decorrere dal 1 gennaio del quarto anno successivo alla data di entrata in vigore della presente legge, un quarto dei posti che si rendano vacanti nel ruolo dei consiglieri di Stato e' riservato ai consiglieri amministrativi regionali con almeno quattro anni di effettivo servizio nella qualifica.
 
@@ -182,7 +180,7 @@ Il trasferimento di ruolo e' disposto con decreto del Presidente della Repubblic
 
 Il magistrato trasferito conserva l'anzianita' di carriera e di qualifica acquisita nel ruolo dei magistrati amministrativi regionali, ed e' collocato nel nuovo ruolo nel posto che gli spetta, secondo l'anzianita' nell'ultima qualifica gia' ricoperta.
 
-#### Art. 18
+### Art. 18
 
 Presso ogni tribunale amministrativo regionale e' costituito un ufficio di segreteria, diretto da un segretario generale. I segretari generali sono nominati con decreto del Presidente del Consiglio dei Ministri, su designazione del Presidente del Consiglio di Stato:
 
@@ -200,101 +198,101 @@ Entro cinque anni dall'entrata in vigore della presente legge sara' istituito co
 
 ## TITOLO III - NORME DI PROCEDURA
 
-#### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 21
+### Art. 21
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 21-bis
+### Art. 21-bis
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 23-bis
+### Art. 23-bis
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 25
+### Art. 25
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 26
+### Art. 26
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 27
+### Art. 27
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 28
+### Art. 28
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 29
+### Art. 29
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 30
+### Art. 30
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 31
+### Art. 31
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 32
+### Art. 32
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 33
+### Art. 33
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 34
+### Art. 34
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 35
+### Art. 35
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 36
+### Art. 36
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 37
+### Art. 37
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
 ## TITOLO IV - DISPOSIZIONI GENERALI E TRANSITORIE
 
-#### Art. 38
+### Art. 38
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 39
+### Art. 39
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 40
+### Art. 40
 
 ((COMMA ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104)).
 
@@ -306,55 +304,55 @@ AGGIORNAMENTO (1)
 
 La Corte costituzionale con sentenza del 5 - 12 marzo 1975, N. 61 (in G.U. 1a s.s. 20/03/1975, n. 77) ha dichiarato "l'llegittimita' costituzionale dell'art. 40 della legge 6 dicembre 1971, n. 1034 (Istituzione dei tribunali amministrativi regionali), nella parte in cui limita la competenza del tribunale amministrativo regionale istituito nella Regione siciliana alle materie indicate nell'art. 2, lett. a, e nell'art. 6 della legge medesima".
 
-#### Art. 41
+### Art. 41
 
 Il tribunale amministrativo regionale con sede in Aosta e' competente nelle materie indicate nella presente legge, nonche' in quelle attribuite alla competenza della giunta giurisdizionale amministrativa della Valle d'Aosta ai sensi dell'articolo 2, numeri 1) e 2), del decreto legislativo del Capo provvisorio dello Stato 15 novembre 1946, n. 367, e successive modificazioni.
 
-#### Art. 42
+### Art. 42
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 43
+### Art. 43
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 44
+### Art. 44
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 45
+### Art. 45
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 46
+### Art. 46
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 47
+### Art. 47
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 48
+### Art. 48
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 49
+### Art. 49
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 50
+### Art. 50
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 51
+### Art. 51
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 52
+### Art. 52
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 53
+### Art. 53
 
 Le spese per il funzionamento dei tribunali amministrativi regionali, comprese quelle relative al personale di segreteria appartenente ai ruoli delle amministrazioni regionali, provinciali e comunali, nonche' quelle per i locali, il loro arredamento e la loro manutenzione sono a carico dello Stato e sono sostenute dai commissari del Governo della regione o dalle autorita' governative corrispondenti nelle regioni Sicilia, Sardegna e Valle d'Aosta.
 
@@ -362,7 +360,7 @@ Ai presidenti di sezione e ai consiglieri di Stato destinati a presiedere tribun
 
 Le spese di funzionamento dei tribunali amministrativi regionali gravano su un apposito capitolo dello stato di previsione della spesa del Ministero del tesoro.
 
-#### Art. 54
+### Art. 54
 
 All'onere derivante dall'applicazione della presente legge, valutato in lire 1.600 milioni per l'anno finanziario 1972, si provvede mediante riduzione degli stanziamenti iscritti al capitolo 3523 dello stato di previsione della spesa del Ministero del tesoro.
 
@@ -380,7 +378,7 @@ Visto, il Guardasigilli: COLOMBO
 
 ## TITOLO IV - DISPOSIZIONI GENERALI E TRANSITORIE
 
-#### Tabella
+### Tabella
 
 TABELLA
 

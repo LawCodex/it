@@ -28,7 +28,7 @@ la seguente legge:
 
 ## Titolo I - DISPOSIZIONI GENERALI
 
-#### Art. 1
+### Art. 1
 
 Esercizio della professione di consulente del lavoro
 
@@ -46,7 +46,7 @@ L'iscrizione all'albo dei consulenti del lavoro non e' richiesta per i soggetti 
 
 Presso il Ministero del lavoro e della previdenza sociale e' istituito un comitato di monitoraggio, composto dalle associazioni di categoria, dai rappresentanti degli ordini e collegi di cui alla presente legge e delle organizzazioni sindacali comparativamente piu' rappresentative a livello nazionale, allo scopo di esaminare i problemi connessi all'evoluzione professionale ed occupazionale del settore.
 
-#### Art. 2
+### Art. 2
 
 Oggetto dell'attivita'
 
@@ -58,7 +58,7 @@ Essi inoltre, su delega e in rappresentanza degli interessati, sono competenti i
 
 Ferma restando la responsabilita' personale del consulente, questi puo' avvalersi esclusivamente dell'opera di propri dipendenti per l'effettuazione dei compiti esecutivi inerenti all'attivita' professionale.
 
-#### Art. 3
+### Art. 3
 
 Esame di abilitazione all'esercizio
 
@@ -94,13 +94,13 @@ AGGIORNAMENTO (7)
 
 Il D.lgs. 26 marzo 2010, n. 59, ha disposto (con l'art. 57, comma 4) che "l'espressione "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia".
 
-#### Art. 4
+### Art. 4
 
 Incompatibilita'
 
 L'iscrizione nell'albo dei consulenti del lavoro non e' consentita in permanenza del rapporto di lavoro agli impiegati dello Stato, delle regioni, delle province, dei comuni e degli altri enti pubblici, ai dipendenti degli istituti di patronato o delle associazioni sindacali dei lavoratori, agli esattori di tributi, ai notai e ai giornalisti professionisti.
 
-#### Art. 5
+### Art. 5
 
 ((Tenuta dei libri e documenti di lavoro
 
@@ -108,7 +108,7 @@ L'iscrizione nell'albo dei consulenti del lavoro non e' consentita in permanenza
 
 2\. Il consulente del lavoro e gli altri professionisti di cui all'articolo 1, comma 1, che, senza giustificato motivo, non ottemperino entro 15 giorni alla richiesta degli organi di vigilanza di esibire la documentazione in loro possesso, sono puniti con la sanzione pecuniaria amministrativa da 100 a 1000 euro. In caso di recidiva della violazione e' data informazione tempestiva al Consiglio provinciale dell'Ordine professionale di appartenenza del trasgressore per eventuali provvedimenti disciplinari)).
 
-#### Art. 6
+### Art. 6
 
 Obbligo del segreto professionale
 
@@ -116,17 +116,15 @@ Il consulente del lavoro ha l'obbligo del segreto professionale.
 
 Nei suoi confronti si applica l'articolo 351 del codice di procedura penale.
 
-#### Art. 7
+### Art. 7
 
 Responsabilita' del datore di lavoro
 
 L'affidamento ai consulenti del lavoro delle attivita' di cui all'articolo 2 non esime i datori di lavoro, per conto dei quali le attivita' sono svolte, dagli obblighi ad essi imposti dalle leggi vigenti in materia di lavoro, previdenza ed assistenza sociale.
 
-## Titolo II - ALBI PROVINCIALI DEI CONSULENTI DEL LAVORO
+## Titolo II - ALBI PROVINCIALI DEI CONSULENTI DEL LAVORO E CONDIZIONE PER L'ISCRIZIONE
 
-### E CONDIZIONE PER L'ISCRIZIONE
-
-#### Art. 8
+### Art. 8
 
 Albo dei consulenti del lavoro
 
@@ -138,11 +136,11 @@ L'albo deve contenere il cognome, il nome, il luogo e la data di nascita, il tit
 
 L'albo e' compilato secondo l'ordine cronologico delle iscrizioni; la data di iscrizione nell'albo stabilisce l'anzianita'.
 
-#### Art. 8-bis
+### Art. 8-bis
 
 ((1. Coloro che abbiano conseguito l'abilitazione all'esercizio della professione di consulente del lavoro con il diploma di scuola secondaria superiore possono iscriversi al relativo albo entro tre anni dalla data di entrata in vigore della presente disposizione. I soggetti non in possesso dei titoli di laurea di cui all'articolo 3, secondo comma, lettera d), che, alla data di entrata in vigore della presente disposizione, abbiano ottenuto il certificato di compiuta pratica, o siano iscritti al registro dei praticanti, o abbiano presentato domanda di iscrizione al predetto registro dei praticanti, possono sostenere l'esame di abilitazione entro e non oltre il 31 dicembre 2013.))
 
-#### Art. 9
+### Art. 9
 
 Condizioni per l'iscrizione nell'albo
 
@@ -184,7 +182,7 @@ Avverso il provvedimento di reiezione della domanda l'interessato, entro trenta 
 
 Il Consiglio nazionale decide in via definitiva sui ricorsi ad esso presentati entro trenta giorni dalla data di presentazione degli stessi.
 
-#### Art. 10
+### Art. 10
 
 Cancellazione dall'albo
 
@@ -198,11 +196,9 @@ Per i provvedimenti di cancellazione dall'albo si osservano, in quanto applicabi
 
 Il consulente del lavoro puo' chiedere la reiscrizione nell'albo quando sono cessate le ragioni che avevano determinato la cancellazione. Il consulente che viene reiscritto conserva la precedente anzianita', dedotto il periodo di interruzione.
 
-## Titolo III - CONSIGLI PROVINCIALI E CONSIGLIO NAZIONALE
+## Titolo III - CONSIGLI PROVINCIALI E CONSIGLIO NAZIONALE DEI CONSULENTI DEL LAVORO
 
-### DEI CONSULENTI DEL LAVORO
-
-#### Art. 11
+### Art. 11
 
 Composizione del consiglio provinciale
 
@@ -216,19 +212,19 @@ I componenti del consiglio durano in carica tre anni;
 
 i membri eletti sono rieleggibili.
 
-#### Art. 12
+### Art. 12
 
 Cariche del consiglio provinciale
 
 Il consiglio elegge tra i propri membri il presidente, il segretario e il tesoriere.
 
-#### Art. 13
+### Art. 13
 
 Attribuzioni del presidente del consiglio provinciale
 
 Il presidente ha la rappresentanza del consiglio, esercita le attribuzioni a lui conferite dalla presente legge, adotta, in casi di urgenza, i provvedimenti necessari, salva ratifica del consiglio, e rilascia, a richiesta, i certificati e le attestazioni relativi agli iscritti.
 
-#### Art. 14
+### Art. 14
 
 Attribuzioni del consiglio provinciale
 
@@ -252,7 +248,7 @@ h) propone al Consiglio nazionale le misure del contributo per l'iscrizione nell
 
 i) cura il miglioramento e il perfezionamento degli iscritti nello svolgimento dell'attivita' professionale.
 
-#### Art. 15
+### Art. 15
 
 Elezione del consiglio provinciale
 
@@ -260,7 +256,7 @@ Il consiglio provinciale e' eletto dagli iscritti nell'albo, esclusi i sospesi d
 
 A sostituire i componenti che sono venuti a mancare per qualsiasi causa sono chiamati dal consiglio provinciale i candidati, compresi nella graduatoria, che, dopo quelli eletti, hanno ottenuto il maggior numero di voti nell'ambito delle rispettive liste.
 
-#### Art. 16
+### Art. 16
 
 Riunioni consiliari Decadenza dalla carica di consigliere
 
@@ -268,7 +264,7 @@ Il consiglio provinciale e' convocato dal presidente quando lo ritiene opportuno
 
 I consiglieri eletti che, senza giustificati motivi, non intervengono per tre volte consecutive alle riunioni del consiglio decadono dalla carica.
 
-#### Art. 17
+### Art. 17
 
 Scioglimento o mancata costituzione del consiglio provinciale
 
@@ -278,7 +274,7 @@ In caso di scioglimento o di mancata costituzione del consiglio, le sue funzioni
 
 Lo scioglimento del consiglio e la nomina del commissario sono disposti con decreto del Ministro del lavoro e della previdenza sociale d'intesa con il ((Ministro della giustizia)), sentito il parere del Consiglio nazionale dei consulenti.
 
-#### Art. 18
+### Art. 18
 
 Assemblea degli iscritti
 
@@ -286,7 +282,7 @@ L'assemblea degli iscritti nell'albo della provincia elegge il consiglio provinc
 
 L'assemblea deve essere convocata almeno una volta all'anno per l'approvazione dei conti.
 
-#### Art. 19
+### Art. 19
 
 Collegio dei revisori dei conti
 
@@ -296,7 +292,7 @@ I revisori dei conti durano in carica tre anni; essi sono rieleggibili.
 
 Il collegio dei revisori dei conti controlla la gestione dei fondi e accerta la regolarita' del bilancio consuntivo, riferendone all'assemblea.
 
-#### Art. 20
+### Art. 20
 
 Sede e composizione del Consiglio nazionale
 
@@ -312,13 +308,13 @@ I membri del Consiglio nazionale durano in carica tre anni e sono rieleggibili.
 
 Non si puo' far parte contemporaneamente di un consiglio provinciale e del Consiglio nazionale, di un collegio dei revisori dei conti provinciale e del collegio dei revisori dei conti nazionale.
 
-#### Art. 21
+### Art. 21
 
 Cariche del Consiglio nazionale
 
 Il Consiglio nazionale elegge tra i propri membri il presidente, il vice presidente, il segretario e il tesoriere.
 
-#### Art. 22
+### Art. 22
 
 Collegio dei revisori dei conti del Consiglio nazionale
 
@@ -328,7 +324,7 @@ I revisori dei conti durano in carico tre anni e sono rieleggibili.
 
 Il collegio dei revisori dei conti controlla la gestione dei fondi e accerta la regolarita' del bilancio consuntivo, riferendone al Consiglio nazionale.
 
-#### Art. 23
+### Art. 23
 
 Attribuzioni del Consiglio nazionale
 
@@ -350,7 +346,7 @@ g) designa i rappresentanti dei consulenti del lavoro presso commissioni ed orga
 
 La misura delle spettanze di cui alla lettera b) del presente articolo e' stabilita con decreto del ((Ministro della giustizia)).
 
-#### Art. 24
+### Art. 24
 
 Riunioni consiliari Decadenza dalla carica di consigliere nazionale
 
@@ -358,7 +354,7 @@ Il Consiglio nazionale e' convocato dal presidente ogni qualvolta lo ritenga opp
 
 I consiglieri eletti che, senza giustificati motivi, non intervengono per tre volte consecutive alle riunioni del Consiglio, decadono dalla carica.
 
-#### Art. 25
+### Art. 25
 
 Vigilanza sul Consiglio nazionale
 
@@ -372,7 +368,7 @@ Lo scioglimento del Consiglio e la nomina del commissario sono disposti con decr
 
 ## Titolo IV - SANZIONI DISCIPLINARI
 
-#### Art. 26
+### Art. 26
 
 Responsabilita' disciplinare dei consulenti del lavoro. Azione disciplinare
 
@@ -382,7 +378,7 @@ Salvi i casi di sospensione di diritto di cui all'articolo 29, primo comma, il c
 
 La competenza a procedere disciplinarmente nei confronti di un membro del consiglio provinciale spetta al consiglio provinciale della sede di corte d'appello, ovvero, se egli appartiene a quest'ultimo, al consiglio della sede di corte d'appello vicina determinata dal Consiglio nazionale.
 
-#### Art. 27
+### Art. 27
 
 Pene disciplinari
 
@@ -394,13 +390,13 @@ Le pene disciplinari, che il consiglio provinciale puo' applicare, sono:
 
 3\) la radiazione.
 
-#### Art. 28
+### Art. 28
 
 Censura
 
 La censura consiste nel biasimo formale per la trasgressione commessa ed e' inflitta nei casi di abusi o mancanze di non lieve entita', che tuttavia non ledano il decoro e la dignita' professionale.
 
-#### Art. 29
+### Art. 29
 
 Casi di sospensione
 
@@ -422,13 +418,13 @@ Nei casi previsti dalle lettere a), b), c) e d) del presente articolo, la durata
 
 Il consulente del lavoro a cui sia stata applicata la censura e' punito con la sospensione non inferiore ad un mese se incorre in una nuova trasgressione.
 
-#### Art. 30
+### Art. 30
 
 Casi di radiazione
 
 La radiazione e' pronunciata contro il consulente del lavoro che abbia, con la sua condotta, compromesso gravemente la propria reputazione e la dignita' della professione.
 
-#### Art. 31
+### Art. 31
 
 Radiazione di diritto
 
@@ -442,13 +438,13 @@ Importano parimenti la radiazione di diritto:
 
 La radiazione nei casi previsti dal presente articolo e' dichiarata dal consiglio provinciale, sentito l'interessato qualora ne faccia richiesta.
 
-#### Art. 32
+### Art. 32
 
 Rapporti tra il procedimento disciplinare ed il giudizio penale
 
 Il consulente del lavoro che sia stato sottoposto a procedimento penale e' sottoposto anche a procedimento disciplinare per il fatto che ha formato oggetto dell'imputazione, tranne il caso che sia intervenuta sentenza di proscioglimento perche' il fatto non sussiste o perche' l'imputato non l'ha commesso.
 
-#### Art. 33
+### Art. 33
 
 Istruttoria nel procedimento disciplinare
 
@@ -456,7 +452,7 @@ Fermo il disposto dell'articolo 29, secondo comma, e quello dell'articolo 31, ul
 
 L'incolpato puo' farsi assistere da un difensore.
 
-#### Art. 34
+### Art. 34
 
 Svolgimento del procedimento disciplinare
 
@@ -468,7 +464,7 @@ Se l'interessato non si presenta o non fa pervenire alcuna memoria difensiva ne'
 
 La deliberazione deve contenere l'indicazione dei fatti, i motivi della decisione e la decisione del consiglio. Il proscioglimento e' pronunciato con la formula "non essere luogo a provvedimento disciplinare".
 
-#### Art. 35
+### Art. 35
 
 Ricusazione e astensione
 
@@ -480,7 +476,7 @@ Se non e' disponibile il numero di componenti del consiglio che e' prescritto pe
 
 Il consiglio competente a termini del comma precedente, se autorizza l'astensione o riconosce legittima la ricusazione, si costituisce al consiglio provinciale cui appartengono i componenti che hanno chiesto di astenersi o che sono stati ricusati; altrimenti restituisce gli atti per la prosecuzione del procedimento.
 
-#### Art. 36
+### Art. 36
 
 Notificazione delle deliberazioni
 
@@ -492,7 +488,7 @@ AGGIORNAMENTO (7)
 
 Il D.lgs. 26 marzo 2010, n. 59, ha disposto (con l'art. 57, comma 4) che "l'espressione "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia".
 
-#### Art. 37
+### Art. 37
 
 Ricorso al Consiglio nazionale
 
@@ -502,7 +498,7 @@ Il Consiglio nazionale puo' sospendere l'efficacia del provvedimento; riesamina 
 
 Gli effetti del ricorso sono limitati a coloro che l'hanno proposto.
 
-#### Art. 38
+### Art. 38
 
 Riammissione dei radiati
 
@@ -510,7 +506,7 @@ Il consulente del lavoro radiato dall'albo puo' esservi riammesso purche' siano 
 
 Si applicano le disposizioni dell'articolo 9.
 
-#### Art. 39
+### Art. 39
 
 Prescrizione dell'azione disciplinare
 
@@ -518,7 +514,7 @@ L'azione disciplinare si prescrive in cinque anni.
 
 ## Titolo V - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Art. 40
+### Art. 40
 
 Consulenti gia' iscritti nell'albo
 
@@ -526,7 +522,7 @@ I consulenti del lavoro gia' iscritti nell'albo al momento dell'entrata in vigor
 
 Resta fermo l'espletamento dell'esame gia' regolarmente fissato o in corso di svolgimento presso gli ispettorati provinciali del lavoro alla data di entrata in vigore della presente legge, ai fini del conseguimento dell'abilitazione da parte dei candidati che avranno superato le prove di esame.
 
-#### Art. 41
+### Art. 41
 
 Abrogazioni
 

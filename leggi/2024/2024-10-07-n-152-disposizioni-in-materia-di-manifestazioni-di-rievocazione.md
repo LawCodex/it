@@ -27,11 +27,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Disposizioni in materia di manifestazioni di rievocazione storica
 
-### Disposizioni in materia di manifestazioni di rievocazione storica
-
-#### Art. 1
+### Art. 1
 
 Principi generali
 
@@ -73,7 +71,7 @@ Principi generali
 
 > \- Il Trattato sul funzionamento dell'Unione europea (versione vigente) e' pubblicato nella GUUE del 26 ottobre 2012, n. 326 serie C.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -81,7 +79,7 @@ Definizioni
 
 2\. Ai fini della presente legge si definiscono «manifestazioni di rievocazione storica» le manifestazioni finalizzate a salvaguardare e valorizzare la memoria storica di un territorio, comprensiva dei saperi, delle pratiche e delle prassi del periodo storico di riferimento, la cui organizzazione fa capo a enti di rievocazione storica, a enti locali o ad altri soggetti pubblici. Le rievocazioni storiche individuate dalla presente legge consistono nella rappresentazione scenica, attraverso le arti performative, di un passato o di una memoria collettiva che appaiano significativi per una comunita' territoriale e che facciano riferimento a conoscenze storiche acquisite e a evidenze documentarie dotate di attendibilita' storica, sulla base delle quali sono condotte attivita' rispettando criteri di ricostruzione, di realizzazione e di utilizzo di oggetti, vesti, accessori e armamenti. Sono manifestazioni che si svolgono con continuita' da almeno cinque anni; si integrano con attivita' o iniziative culturali e di ricerca storica e demoetnoantropologica; sono pertinenti all'attivita' di tutela e valorizzazione del patrimonio culturale anche al fine di promuovere lo sviluppo economico-produttivo e turistico locale.
 
-#### Art. 3
+### Art. 3
 
 Attivita' per la valorizzazione
 
@@ -123,7 +121,7 @@ g) la tutela, la conservazione, la salvaguardia e la trasmissione del patrimonio
 
 > «627. Nello stato di previsione del Ministero dei beni e delle attivita' culturali e del turismo e' istituito il Fondo nazionale per la rievocazione storica, finalizzato alla promozione di eventi, feste e attivita' nonche' alla valorizzazione dei beni culturali attraverso la rievocazione storica, con una dotazione di 2 milioni di euro per ciascuno degli anni 2017, 2018 e 2019. L'accesso alle risorse del Fondo e' consentito in via diretta alle regioni, ai comuni, alle istituzioni culturali e alle associazioni di rievocazione storica riconosciute attraverso l'iscrizione ad appositi albi tenuti presso i comuni o gia' operanti da almeno dieci anni, in base a criteri determinati con decreto del Ministro dei beni e delle attivita' culturali e del turismo da emanare entro trenta giorni dalla data di entrata in vigore della presente legge.».
 
-#### Art. 4
+### Art. 4
 
 Elenco nazionale degli enti e delle manifestazioni
 
@@ -139,7 +137,7 @@ b) le modalita' di gestione dell'elenco di cui al comma 1.
 
 3\. Per l'istituzione e l'aggiornamento dell'elenco di cui al comma 1 e' autorizzata la spesa di 10.000 euro annui a decorrere dall'anno 2024, cui si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2024-2026, nell'ambito del programma «Fondi di riserva e speciali» della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2024, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero della cultura.
 
-#### Art. 5
+### Art. 5
 
 Comitato tecnico-scientifico
 
@@ -185,7 +183,7 @@ d) promuovere e sostenere, anche con la collaborazione delle regioni e degli ent
 
 > 4\. Le strutture espositive e di consultazione nonche' i luoghi di cui al comma 1 che appartengono a soggetti privati e sono aperti al pubblico espletano un servizio privato di utilita' sociale.».
 
-#### Art. 6
+### Art. 6
 
 Elenco annuale delle manifestazioni
 
@@ -197,7 +195,7 @@ di rievocazione storica
 
 3\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni competenti provvedono alle attivita' ivi previste nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 7
+### Art. 7
 
 Iniziative didattiche nelle scuole
 
@@ -233,7 +231,7 @@ Le istituzioni scolastiche provvedono alle iniziative di cui al presente comma n
 
 > i) incentivazione di tirocini e stage artistici di studentesse e studenti all'estero e promozione internazionale di giovani talenti, attraverso progetti e scambi tra istituzioni formative artistiche italiane e straniere, con particolare riferimento ai licei musicali, coreutici e artistici.».
 
-#### Art. 8
+### Art. 8
 
 Porto e uso di armi in occasione di manifestazioni
 
@@ -271,7 +269,7 @@ di rievocazione storica
 
 > In deroga a quanto stabilito dal presente articolo, in occasione di manifestazione di rievocazione storica, ai partecipanti alle manifestazioni stesse e' consentito esibire, portare e usare, con cartucce a salve, le armi fabbricate anteriormente al 1950 e le loro repliche, previa autorizzazione dell'autorita' locale di pubblica sicurezza, rilasciata all'ente organizzatore sulla base di un dettagliato elenco delle armi e dei loro portatori. Alle medesime condizioni di cui al periodo precedente e' consentito anche il porto di archi, balestre, spade, sciabole, armi d'asta, baionette, pugnali e stiletti.».
 
-#### Art. 9
+### Art. 9
 
 Accensione di fuochi nelle manifestazioni di rievocazione storica e ricorrenze della tradizione popolare
 
@@ -299,17 +297,15 @@ Accensione di fuochi nelle manifestazioni di rievocazione storica e ricorrenze d
 
 > \- La legge 21 novembre 2000, n. 353: «Legge-quadro in materia di incendi boschivi», e' pubblicata in Gazzetta Ufficiale n. 280 del 31 novembre 2000.
 
-## Capo II
+## Capo II - Disposizioni in materia di salvaguardia del patrimonio culturale immateriale
 
-### Disposizioni in materia di salvaguardia del patrimonio culturale - immateriale
-
-#### Art. 10
+### Art. 10
 
 Principi relativi al patrimonio culturale immateriale
 
 1\. Lo Stato riconosce il patrimonio culturale immateriale come componente del valore identitario e storico per gli individui, le comunita' locali e la comunita' nazionale, assegnando rilievo alle prassi, alle rappresentazioni, alle espressioni, alle conoscenze, alle competenze nonche' agli strumenti, agli oggetti, ai manufatti e agli spazi culturali associati agli stessi, che le comunita', i gruppi e gli individui riconoscono in quanto parte del loro patrimonio culturale.
 
-#### Art. 11
+### Art. 11
 
 Delega al Governo per l'adozione di norme per
 
@@ -393,11 +389,9 @@ Qualora uno o piu' decreti legislativi determinino nuovi o maggiori oneri che no
 
 > (Omissis).».
 
-## Capo III
+## Capo III - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 12
+### Art. 12
 
 Clausola di salvaguardia
 

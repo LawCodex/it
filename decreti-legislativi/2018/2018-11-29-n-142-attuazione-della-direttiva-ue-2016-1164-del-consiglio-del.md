@@ -519,7 +519,7 @@ b) oltre un terzo dei proventi da essi realizzati rientra in una o piu' delle se
 
 13\. Con decreto del Ministro dell'economia e delle finanze, possono essere adottate ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, disposizioni attuative del presente articolo.».
 
-## Sezione II - Disposizioni in materia di dividendi e plusvalenze
+### Sezione II - Disposizioni in materia di dividendi e plusvalenze
 
 #### Art. 5
 

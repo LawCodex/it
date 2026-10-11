@@ -74,15 +74,11 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - PRINCIPI COMUNI
 
-### PRINCIPI COMUNI
+### Capo I - Disposizioni generali
 
-#### Capo I
-
-##### Disposizioni generali
-
-###### Art. 1
+##### Art. 1
 
 Finalita'
 
@@ -354,7 +350,7 @@ Finalita'
 
 > \- Il testo del decreto legislativo 30 giugno 2003, n. 196 (Codice in materia di protezione dei dati personali), e' pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174, supplemento ordinario.
 
-###### Art. 2
+##### Art. 2
 
 Definizioni
 
@@ -422,7 +418,7 @@ AGGIORNAMENTO (6)
 
 Il D. Lgs. 3 agosto 2009, n. 106 ha disposto (con l'art. 2, comma 1) che all'articolo 2, comma 1, lettera a), del presente decreto, le parole: "il volontario, come definito dalla legge 11 agosto 1991, n. 266" sono soppresse".
 
-###### Art. 3
+##### Art. 3
 
 Campo di applicazione
 
@@ -496,7 +492,7 @@ AGGIORNAMENTO (63)
 
 Il D.L. 30 giugno 2025, n. 95, convertito con modificazioni dalla L. 8 agosto 2025, n. 118, ha disposto (con l'art. 6-quater, comma 1) che "Il comma 3-bis dell'articolo 3 del decreto legislativo 9 aprile 2008, n. 81, si interpreta nel senso che, nei riguardi delle cooperative sociali di cui alla legge 8 novembre 1991, n. 381, delle organizzazioni di volontariato della protezione civile, nonche' dei volontari della Croce Rossa Italiana, i volontari e i coordinatori comunali delle attivita' di volontariato non possono in alcun modo essere equiparati al datore di lavoro o al dirigente per le finalita' di cui all'articolo 18 del medesimo decreto legislativo n. 81 del 2008".
 
-###### Art. 3-bis - Organizzazioni di volontariato della protezione civile
+##### Art. 3-bis - Organizzazioni di volontariato della protezione civile
 
 1\. Ai fini del presente articolo, si intende per:
 
@@ -548,7 +544,7 @@ b) il legale rappresentante delle organizzazioni di cui al comma 1, lettera a), 
 
 13-sexies. ((All'accertamento e all'irrogazione delle sanzioni amministrative di cui ai commi 13-ter, 13-quater e 13-quinquies si provvede ai sensi di quanto previsto dal presente decreto. Le amministrazioni interessate provvedono alle attivita' di cui al primo periodo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente))
 
-###### Art. 4
+##### Art. 4
 
 Computo dei lavoratori
 
@@ -582,11 +578,9 @@ l) i collaboratori coordinati e continuativi di cui all'articolo 409, primo comm
 
 ((4. Il numero degli operai impiegati a tempo determinato, anche stagionali, nel settore agricolo si computa per frazioni di unita' lavorative anno (ULA) come individuate sulla base della normativa comunitaria..))
 
-## Capo II
+### Capo II - Sistema istituzionale
 
-### Sistema istituzionale
-
-###### Art. 5
+##### Art. 5
 
 Comitato per l'indirizzo e la valutazione delle politiche attive e per il coordinamento nazionale delle attivita' di vigilanza in materia di salute e sicurezza sul lavoro
 
@@ -634,7 +628,7 @@ AGGIORNAMENTO (17)
 
 Il D.P.R. 28 marzo 2013, n. 44 ha disposto (con l'art. 2, comma 1, lettera n)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico sanitario», le funzioni in atto esercitate dal Comitato per l'indirizzo e la valutazione delle politiche attive e per il coordinamento nazionale delle attivita' di vigilanza in materia di salute e sicurezza sul lavoro, di cui al comma 1 del presente articolo.
 
-###### Art. 6
+##### Art. 6
 
 Commissione consultiva permanente per la salute e sicurezza sul
 
@@ -716,7 +710,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 13 marzo 2013, n. 32 ha disposto (con l'art. 1, comma 2) che "La prima delle relazioni di cui all'articolo 6, comma 8, lettera i-bis), del decreto legislativo n. 81 del 2008, come introdotta dal comma 1, relativa al periodo 2007-2012, e' predisposta entro il 30 giugno 2013".
 
-###### Art. 7
+##### Art. 7
 
 Comitati regionali di coordinamento
 
@@ -724,7 +718,7 @@ Comitati regionali di coordinamento
 
 ((1-bis. Il comitato regionale si riunisce almeno due volte l'anno e puo' essere convocato anche su richiesta dell'ufficio territoriale dell'Ispettorato nazionale del lavoro.))
 
-###### Art. 8
+##### Art. 8
 
 Sistema informativo nazionale per la prevenzione nei luoghi di lavoro
 
@@ -774,7 +768,7 @@ b) all'articolo 8:
 
 4)al comma 4, primo periodo, le parole da «Ministro del lavoro» fino a «pubblica amministrazione» sono sostituite dalle seguenti: «Ministro del lavoro e delle politiche sociali e del Ministro della salute, di concerto con il Ministro per la pubblica amministrazione e con il Ministro per l'innovazione tecnologica e la transizione digitale»".
 
-###### Art. 9
+##### Art. 9
 
 Enti pubblici aventi compiti in materia di salute e sicurezza nei
 
@@ -866,13 +860,13 @@ d) supporta, in raccordo con le amministrazioni competenti in materia di salute 
 
 e) eroga, previo trasferimento delle necessarie risorse da parte del ((Ministero del lavoro, della salute e delle politiche sociali)), le prestazioni del Fondo di cui all'articolo 1, comma 1187, della legge 27 dicembre 2006, n. 296, con riferimento agli infortuni del settore marittimo. In sede di prima applicazione, le relative prestazioni sono fornite con riferimento agli infortuni verificatisi a fare data dal 1° gennaio 2007. ((Le somme eventualmente riversate all'entrata del bilancio dello Stato a seguito di economie di gestione realizzatesi nell'esercizio finanziario sono riassegnate al pertinente capitolo dello stato di previsione del Ministero del lavoro, della salute e delle politiche sociali.))
 
-###### Art. 10
+##### Art. 10
 
 Informazione e assistenza in materia di salute e sicurezza nei luoghi di lavoro
 
 1\. Le regioni e le province autonome di Trento e di Bolzano, tramite le AA.SS.LL. del SSN, il Ministero dell'interno tramite le strutture del Corpo nazionale dei vigili del fuoco, l'Istituto superiore per la prevenzione e la sicurezza sul lavoro (ISPESL), il ((Ministero del lavoro, della salute e delle politiche sociali)), il Ministero dello sviluppo economico per il settore estrattivo, l'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL), l'Istituto di previdenza per il settore marittimo (IPSEMA), gli organismi paritetici e gli enti di patronato svolgono, anche mediante convenzioni, attivita' di informazione, assistenza, consulenza, formazione, promozione in materia di sicurezza e salute nei luoghi di lavoro, in particolare nei confronti delle imprese artigiane, delle imprese agricole e delle piccole e medie imprese e delle rispettive associazioni dei datori di lavoro.
 
-###### Art. 11
+##### Art. 11
 
 Attivita' promozionali
 
@@ -908,7 +902,7 @@ c) finanziamento, da parte del Ministero dell'istruzione, dell'universita' e del
 
 7\. In sede di prima applicazione, per il primo anno dall'entrata in vigore del presente decreto, le risorse di cui all'articolo 1, comma 7-bis, della legge 3 agosto 2007, n. 123, come introdotto dall'articolo 2, comma 533, della legge 24 dicembre 2007, n. 244, sono utilizzate, secondo le priorita', ivi compresa una campagna straordinaria di formazione, stabilite, entro sei mesi dall'entrata in vigore del presente decreto, con accordo adottato, previa consultazione delle parti sociali, in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e la province autonome di Trento e di Bolzano.
 
-###### Art. 12
+##### Art. 12
 
 Interpello
 
@@ -918,7 +912,7 @@ Interpello
 
 3\. Le indicazioni fornite nelle risposte ai quesiti di cui al comma 1 costituiscono criteri interpretativi e direttivi per l'esercizio delle attivita' di vigilanza.
 
-###### Art. 13
+##### Art. 13
 
 Vigilanza
 
@@ -948,7 +942,7 @@ Le province autonome di Trento e di Bolzano provvedono alle finalita' del presen
 
 7-bis. L'Ispettorato nazionale del lavoro e' tenuto a presentare, entro il 30 giugno di ogni anno al Ministro del lavoro e delle politiche sociali per la trasmissione al Parlamento, una relazione analitica sull'attivita' svolta in materia di prevenzione e contrasto del lavoro irregolare e che dia conto dei risultati conseguiti nei diversi settori produttivi e delle prospettive di sviluppo, programmazione ed efficacia dell'attivita' di vigilanza nei luoghi di lavoro.
 
-###### Art. 14 - Provvedimenti degli organi di vigilanza per il contrasto del lavoro irregolare e per la tutela della salute e sicurezza dei lavoratori
+##### Art. 14 - Provvedimenti degli organi di vigilanza per il contrasto del lavoro irregolare e per la tutela della salute e sicurezza dei lavoratori
 
 1\. Ferme restando le attribuzioni previste dagli articoli 20 e 21 del decreto legislativo 19 dicembre 1994, n. 758, al fine di far cessare il pericolo per la salute e la sicurezza dei lavoratori, nonche' di contrastare il lavoro irregolare, l'Ispettorato nazionale del lavoro adotta un provvedimento di sospensione, quando riscontra che almeno il 10 per cento dei lavoratori presenti sul luogo di lavoro risulti occupato, al momento dell'accesso ispettivo, senza preventiva comunicazione di instaurazione del rapporto di lavoro ovvero inquadrato come lavoratori autonomi occasionali in assenza delle condizioni richieste dalla normativa, nonche', a prescindere dal settore di intervento, in caso di gravi violazioni in materia di tutela della salute e della sicurezza del lavoro di cui all'Allegato I. Con riferimento all'attivita' dei lavoratori autonomi occasionali, ((fatte salve le attivita' autonome occasionali intermediate dalle piattaforme digitali di cui al decreto-legge 6 novembre 2021, n. 152, convertito, con modificazioni, dalla legge 29 dicembre 2021, n. 233,)) al fine di svolgere attivita' di monitoraggio e di contrastare forme elusive nell'utilizzo di tale tipologia contrattuale, l'avvio dell'attivita' dei suddetti lavoratori e' oggetto di preventiva comunicazione all'Ispettorato territoriale del lavoro competente per territorio, da parte del committente, ((mediante modalita' informatiche)). Si applicano le modalita' operative di cui all'articolo 15, comma 3, del decreto legislativo 15 giugno 2015, n. 81. In caso di violazione degli obblighi di cui al secondo periodo si applica la sanzione amministrativa da euro 500 a euro 2.500 in relazione a ciascun lavoratore autonomo occasionale per cui e' stata omessa o ritardata la comunicazione. Non si applica la procedura di diffida di cui all'articolo 13 del decreto legislativo 23 aprile 2004, n. 124. Il provvedimento di sospensione e' adottato in relazione alla parte dell'attivita' imprenditoriale interessata dalle violazioni o, alternativamente, dell'attivita' lavorativa prestata dai lavoratori interessati dalle violazioni di cui ai numeri 3 e 6 dell'Allegato I. Unitamente al provvedimento di sospensione l'Ispettorato nazionale del lavoro puo' imporre specifiche misure atte a far cessare il pericolo per la sicurezza o per la salute dei lavoratori durante il lavoro.
 
@@ -992,21 +986,17 @@ e) nelle ipotesi di cui all'Allegato I, il pagamento di una somma aggiuntiva di 
 
 16\. L'emissione del decreto di archiviazione per l'estinzione delle contravvenzioni, accertate ai sensi del comma 1, a seguito della conclusione della procedura di prescrizione prevista dagli articoli 20 e 21, del decreto legislativo 19 dicembre 1994, n. 758, comporta la decadenza dei provvedimenti di cui al comma 1 fermo restando, ai fini della verifica dell'ottemperanza alla prescrizione, anche il pagamento delle somme aggiuntive di cui al comma 9, lettera d).
 
-###### Art. 14-bis
+##### Art. 14-bis
 
 (( (Relazione annuale sullo stato della sicurezza nei luoghi di lavoro).))
 
 ((1. Entro il 30 aprile di ciascun anno, il Ministro del lavoro e delle politiche sociali rende comunicazioni alle Camere sullo stato della sicurezza nei luoghi di lavoro, con riferimento all'anno precedente, nonche' sugli interventi da adottare per migliorare le condizioni di salute e di sicurezza nei luoghi di lavoro e sugli orientamenti e i programmi legislativi che il Governo intende adottare al riguardo per l'anno in corso, nei limiti delle risorse disponibili a legislazione vigente e senza nuovi o maggiori oneri per la finanza pubblica. Le Camere possono adottare atti di indirizzo al Governo, secondo le disposizioni dei rispettivi Regolamenti)).
 
-## Capo III
+### Capo III - Gestione della prevenzione nei luoghi di lavoro
 
-### Gestione della prevenzione nei luoghi di lavoro
+#### Sezione I - MISURE DI TUTELA E OBBLIGHI
 
-#### Sezione - I
-
-##### MISURE DI TUTELA E OBBLIGHI
-
-###### Art. 15
+##### Art. 15
 
 Misure generali di tutela
 
@@ -1058,7 +1048,7 @@ z-bis) ((la programmazione di misure di prevenzione di condotte violente o moles
 
 2\. Le misure relative alla sicurezza, all'igiene ed alla salute durante il lavoro non devono in nessun caso comportare oneri finanziari per i lavoratori.
 
-###### Art. 16
+##### Art. 16
 
 Delega di funzioni
 
@@ -1082,7 +1072,7 @@ e) che la delega sia accettata dal delegato per iscritto.
 
 La delega di funzioni di cui al primo periodo non esclude l'obbligo di vigilanza in capo al delegante in ordine al corretto espletamento delle funzioni trasferite. Il soggetto al quale sia stata conferita la delega di cui al presente comma non puo', a sua volta, delegare le funzioni delegate.))
 
-###### Art. 17
+##### Art. 17
 
 Obblighi del datore di lavoro non delegabili
 
@@ -1092,7 +1082,7 @@ a) la valutazione di tutti i rischi con la conseguente elaborazione del document
 
 b) la designazione del responsabile del servizio di prevenzione e protezione dai rischi.
 
-###### Art. 18
+##### Art. 18
 
 Obblighi del datore di lavoro e del dirigente
 
@@ -1208,7 +1198,7 @@ AGGIORNAMENTO (67)
 
 Il D.L. 27 dicembre 2024, n. 202, convertito con modificazioni dalla L. 21 febbraio 2025, n. 15, come modificato dal D.L. 31 dicembre 2025, n. 200, convertito con modificazioni dalla L. 27 febbraio 2026, n. 26, ha disposto (con l'art. 5, comma 4-quinquies) che "Il termine previsto per l'adozione del decreto del Ministro dell'istruzione e del merito, di concerto con il Ministro del lavoro e delle politiche sociali, sentita la Conferenza Stato-citta' ed autonomie locali, che definisce le modalita' di valutazione congiunta dei rischi connessi agli edifici scolastici di cui all'articolo 18, comma 3.2, del decreto legislativo 9 aprile 2008, n. 81, e' prorogato al 31 dicembre 2026".
 
-###### Art. 19
+##### Art. 19
 
 Obblighi del preposto
 
@@ -1230,7 +1220,7 @@ f) segnalare tempestivamente al datore di lavoro o al dirigente sia le deficienz
 
 g) frequentare appositi corsi di formazione secondo quanto previsto dall'articolo 37.
 
-###### Art. 20
+##### Art. 20
 
 Obblighi dei lavoratori
 
@@ -1258,7 +1248,7 @@ i) sottoporsi ai controlli sanitari previsti dal presente decreto legislativo o 
 
 3\. I lavoratori di aziende che svolgono attivita' in regime di appalto o subappalto, devono esporre apposita tessera di riconoscimento, corredata di fotografia, contenente le generalita' del lavoratore e l'indicazione del datore di lavoro. Tale obbligo grava anche in capo ai lavoratori autonomi che esercitano direttamente la propria attivita' nel medesimo luogo di lavoro, i quali sono tenuti a provvedervi per proprio conto.
 
-###### Art. 21
+##### Art. 21
 
 Disposizioni relative ai componenti dell'impresa familiare di cui all'articolo 230-bis del codice civile e ai lavoratori autonomi
 
@@ -1284,13 +1274,13 @@ La L. 13 agosto 2010, n. 136, ha disposto (con l'art. 5, comma 1) che " [...] Ne
 
 l'indicazione del committente."
 
-###### Art. 22
+##### Art. 22
 
 Obblighi dei progettisti
 
 1\. I progettisti dei luoghi e dei posti di lavoro e degli impianti rispettano i principi generali di prevenzione in materia di salute e sicurezza sul lavoro al momento delle scelte progettuali e tecniche e scelgono attrezzature, componenti e dispositivi di protezione rispondenti alle disposizioni legislative e regolamentari in materia.
 
-###### Art. 23
+##### Art. 23
 
 Obblighi dei fabbricanti e dei fornitori
 
@@ -1298,13 +1288,13 @@ Obblighi dei fabbricanti e dei fornitori
 
 2\. In caso di locazione finanziaria di beni assoggettati a procedure di attestazione alla conformita', gli stessi debbono essere accompagnati, a cura del concedente, dalla relativa documentazione.
 
-###### Art. 24
+##### Art. 24
 
 Obblighi degli installatori
 
 1\. Gli installatori e montatori di impianti, attrezzature di lavoro o altri mezzi tecnici, per la parte di loro competenza, devono attenersi alle norme di salute e sicurezza sul lavoro, nonche' alle istruzioni fornite dai rispettivi fabbricanti.
 
-###### Art. 25
+##### Art. 25
 
 Obblighi del medico competente
 
@@ -1346,7 +1336,7 @@ AGGIORNAMENTO (65)
 
 La L. 29 dicembre 2025, n. 198, nel convertire l'art. 17, comma 1, lettera b) del D.L. 31 ottobre 2025, n. 159, ha disposto (con l'art. 1, comma 1) che "alla lettera b), capoverso a-bis), le parole: «Ministero della salute".» sono sostituite dalle seguenti: «Ministero della salute";»".
 
-###### Art. 26
+##### Art. 26
 
 Obblighi connessi ai contratti d'appalto o d'opera o di somministrazione
 
@@ -1396,7 +1386,7 @@ AGGIORNAMENTO (6)
 
 Il D. Lgs. 3 agosto 2009, n. 106 ha disposto (con l'art. 16, comma 4) che al comma 5 del presente articolo, le parole: "i costi relativi alla sicurezza del lavoro con particolare riferimento a quelli propri dello specifico appalto" sono sostituite dalle seguenti: "i costi delle misure adottate per eliminare o, ove cio' non sia possibile, ridurre al minimo i rischi in materia di salute e sicurezza sul lavoro derivanti dalle interferenze delle lavorazioni".
 
-###### Art. 27 - Sistema di qualificazione delle imprese e dei lavoratori autonomi tramite crediti
+##### Art. 27 - Sistema di qualificazione delle imprese e dei lavoratori autonomi tramite crediti
 
 1\. A decorrere dal 1° ottobre 2024, sono tenuti al possesso della patente di cui al presente articolo le imprese e i lavoratori autonomi che operano nei cantieri temporanei o mobili di cui all'articolo 89, comma 1, lettera a), ad esclusione di coloro che effettuano mere forniture o prestazioni di natura intellettuale. Per le imprese e i lavoratori autonomi stabiliti in uno Stato membro dell'Unione europea diverso dall'Italia o in uno Stato non appartenente all'Unione europea e' sufficiente il possesso di un documento equivalente rilasciato dalla competente autorita' del Paese d'origine e, nel caso di Stato non appartenente all'Unione europea, riconosciuto secondo la legge italiana. La patente e' rilasciata, in formato digitale, dall'Ispettorato nazionale del lavoro subordinatamente al possesso dei seguenti requisiti:
 
@@ -1446,11 +1436,9 @@ Avverso il provvedimento di sospensione e' ammesso ricorso ai sensi e per gli ef
 
 15\. Non sono tenute al possesso della patente di cui al presente articolo le imprese in possesso dell'attestazione di qualificazione SOA, in classifica pari o superiore alla III, di cui all'articolo 100, comma 4, del codice dei contratti pubblici di cui al decreto legislativo n. 36 del 2023.
 
-## Sezione II
+#### Sezione II - VALUTAZIONE DEI RISCHI
 
-### VALUTAZIONE DEI RISCHI
-
-###### Art. 28
+##### Art. 28
 
 Oggetto della valutazione dei rischi
 
@@ -1496,7 +1484,7 @@ AGGIORNAMENTO (28)
 
 La L. 1 ottobre 2012, n. 177 come modificata dal D.L. 30 dicembre 2015, n. 210, convertito con modificazioni dalla L. 25 febbraio 2016, n. 21 ha disposto (con l'art. 1, comma 3) che "Le modificazioni al decreto legislativo 9 aprile 2008, n. 81, introdotte dal comma 1 del presente articolo, acquistano efficacia decorsi dodici mesi dalla data della pubblicazione del decreto del Ministro della difesa, di cui al comma 2 del presente articolo".
 
-###### Art. 29
+##### Art. 29
 
 Modalita' di effettuazione della valutazione dei rischi
 
@@ -1544,7 +1532,7 @@ AGGIORNAMENTO (19)
 
 Il D.L. 21 giugno 2013, n. 69, convertito con modificazioni dalla L. 9 agosto 2013, n. 98 ha disposto (con l'art. 32, comma 2) che "I decreti di cui agli articoli 29, comma 6-ter e 104-bis, del decreto legislativo 9 aprile 2008, n. 81, introdotti dal comma 1, lettere b), ed h), del presente articolo sono adottati, rispettivamente, entro novanta giorni e sessanta giorni dalla data di entrata in vigore del presente decreto.".
 
-###### Art. 30
+##### Art. 30
 
 Modelli di organizzazione e di gestione
 
@@ -1590,11 +1578,9 @@ a) all'articolo 30, dopo il comma 5-bis e' inserito il seguente:
 
 «5-ter. In applicazione del principio di proporzionalita' degli adempimenti amministrativi in materia di salute e sicurezza sul luogo di lavoro, in relazione alla dimensione aziendale, e con l'obiettivo di incrementare i livelli di sicurezza nelle imprese di dimensioni minori, l'INAIL, nell'ambito dei propri compiti istituzionali di cui agli articoli 9, 10 e 11 del presente decreto: elabora, entro centoventi giorni dalla data di entrata in vigore della presente disposizione, d'intesa con le organizzazioni di rappresentanza delle imprese e dei lavoratori comparativamente piu' rappresentative, modelli semplificati di organizzazione e gestione per le microimprese e le piccole e medie imprese, individuando precisi parametri per la declinazione degli stessi a livello aziendale; supporta le imprese nell'adozione dei modelli medesimi sul piano gestionale e applicativo. L'INAIL adotta le misure di cui al presente comma nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente, senza nuovi o maggiori oneri a carico della finanza pubblica»".
 
-## Sezione III
+#### Sezione III - SERVIZIO DI PREVENZIONE E PROTEZIONE
 
-### SERVIZIO DI PREVENZIONE E PROTEZIONE
-
-###### Art. 31
+##### Art. 31
 
 Servizio di prevenzione e protezione
 
@@ -1628,7 +1614,7 @@ g) nelle strutture di ricovero e cura pubbliche e private con oltre 50 lavorator
 
 8\. Nei casi di aziende con piu' unita' produttive nonche' nei casi di gruppi di imprese, puo' essere istituito un unico servizio di prevenzione e protezione. I datori di lavoro possono rivolgersi a tale struttura per l'istituzione del servizio e per la designazione degli addetti e del responsabile.
 
-###### Art. 32
+##### Art. 32
 
 Capacita' e requisiti professionali degli addetti e dei responsabili dei servizi di prevenzione e protezione interni ed esterni
 
@@ -1666,7 +1652,7 @@ b) il personale interno ad una unita' scolastica in possesso dei requisiti di cu
 
 10\. Nei casi di cui al comma 8 il datore di lavoro che si avvale di un esperto esterno per ricoprire l'incarico di responsabile del servizio deve comunque organizzare un servizio di prevenzione e protezione con un adeguato numero di addetti.
 
-###### Art. 33
+##### Art. 33
 
 Compiti del servizio di prevenzione e protezione
 
@@ -1688,7 +1674,7 @@ f) a fornire ai lavoratori le informazioni di cui all'articolo 36.
 
 3\. Il servizio di prevenzione e protezione e' utilizzato dal datore di lavoro.
 
-###### Art. 34
+##### Art. 34
 
 Svolgimento diretto da parte del datore di lavoro dei compiti di prevenzione e protezione dai rischi
 
@@ -1702,7 +1688,7 @@ Svolgimento diretto da parte del datore di lavoro dei compiti di prevenzione e p
 
 3\. Il datore di lavoro che svolge i compiti di cui al comma 1 e' altresi' tenuto a frequentare corsi di aggiornamento nel rispetto di quanto previsto nell'accordo di cui al precedente comma. L'obbligo di cui al precedente periodo si applica anche a coloro che abbiano frequentato i corsi di cui all'articolo 3 del decreto ministeriale 16 gennaio 1997 e agli esonerati dalla frequenza dei corsi, ai sensi dell'articolo 95 del decreto legislativo 19 settembre 1994, n. 626.
 
-###### Art. 35
+##### Art. 35
 
 Riunione periodica
 
@@ -1736,11 +1722,9 @@ b) obiettivi di miglioramento della sicurezza complessiva sulla base delle linee
 
 5\. Della riunione deve essere redatto un verbale che e' a disposizione dei partecipanti per la sua consultazione.
 
-## Sezione IV
+#### Sezione IV - FORMAZIONE, INFORMAZIONE E ADDESTRAMENTO
 
-### FORMAZIONE, INFORMAZIONE E ADDESTRAMENTO
-
-###### Art. 36
+##### Art. 36
 
 Informazione ai lavoratori
 
@@ -1766,7 +1750,7 @@ c) sulle misure e le attivita' di protezione e prevenzione adottate.
 
 4\. Il contenuto della informazione deve essere facilmente comprensibile per i lavoratori e deve consentire loro di acquisire le relative conoscenze. Ove la informazione riguardi lavoratori immigrati, essa avviene previa verifica della comprensione della lingua utilizzata nel percorso informativo.
 
-###### Art. 37
+##### Art. 37
 
 Formazione dei lavoratori e dei loro rappresentanti
 
@@ -1824,11 +1808,9 @@ c) della introduzione di nuove attrezzature di lavoro o di nuove tecnologie, di 
 
 14-bis. In tutti i casi di formazione ed aggiornamento, previsti dal presente decreto legislativo per dirigenti, preposti, lavoratori e rappresentanti dei lavoratori per la sicurezza in cui i contenuti dei percorsi formativi si sovrappongano, in tutto o in parte, e' riconosciuto il credito formativo per la durata e per i contenuti della formazione e dell'aggiornamento corrispondenti erogati. Le modalita' di riconoscimento del credito formativo e i modelli per mezzo dei quali e' documentata l'avvenuta formazione sono individuati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentita la Commissione consultiva permanente di cui all'articolo 6. Gli istituti di istruzione e universitari provvedono a rilasciare agli allievi equiparati ai lavoratori, ai sensi dell'articolo 2, comma 1, lettera a), e dell'articolo 37, comma 1, lettere a) e b), del presente decreto, gli attestati di avvenuta formazione sulla salute e sicurezza sul lavoro.
 
-## Sezione V
+#### Sezione V - SORVEGLIANZA SANITARIA
 
-### SORVEGLIANZA SANITARIA
-
-###### Art. 38
+##### Art. 38
 
 Titoli e requisiti del medico competente
 
@@ -1852,7 +1834,7 @@ d-bis) con esclusivo riferimento al ruolo dei sanitari delle Forze armate, compr
 
 ((4-bis. Il Ministero della salute, utilizzando i dati registrati nell'anagrafe nazionale dei crediti formativi del programma di educazione continua in medicina, verifica periodicamente il mantenimento del requisito di cui al comma 3, ai fini della permanenza nell'elenco dei medici competenti di cui al comma 4)).
 
-###### Art. 39
+##### Art. 39
 
 Svolgimento dell'attivita' di medico competente
 
@@ -1876,7 +1858,7 @@ c) dipendente del datore di lavoro.
 
 6\. Nei casi di aziende con piu' unita' produttive, nei casi di gruppi d'imprese nonche' qualora la valutazione dei rischi ne evidenzi la necessita', il datore di lavoro puo' nominare piu' medici competenti individuando tra essi un medico con funzioni di coordinamento.
 
-###### Art. 40
+##### Art. 40
 
 Rapporti del medico competente con il Servizio sanitario nazionale
 
@@ -1888,7 +1870,7 @@ Rapporti del medico competente con il Servizio sanitario nazionale
 
 Gli obblighi di redazione e trasmissione relativi alle informazioni di cui al comma 1 decorrono dalla data di entrata in vigore del decreto di cui al primo periodo.))
 
-###### Art. 41
+##### Art. 41
 
 Sorveglianza sanitaria
 
@@ -1954,7 +1936,7 @@ d) inidoneita' permanente.
 
 9\. Avverso i giudizi del medico competente, ivi compresi quelli formulati in fase preassuntiva, e' ammesso ricorso, entro trenta giorni dalla data di comunicazione del giudizio medesimo, all'azienda sanitaria locale territorialmente competente che dispone, dopo eventuali ulteriori accertamenti, la conferma, la modifica o la revoca del giudizio stesso.
 
-###### Art. 42
+##### Art. 42
 
 Provvedimenti in caso di inidoneita' alla mansione specifica
 
@@ -1962,11 +1944,9 @@ Provvedimenti in caso di inidoneita' alla mansione specifica
 
 2\. ((COMMA ABROGATO DAL D. LGS. 3 AGOSTO 2009, N. 106)).
 
-## Sezione VI
+#### Sezione VI - GESTIONE DELLE EMERGENZE
 
-### GESTIONE DELLE EMERGENZE
-
-###### Art. 43
+##### Art. 43
 
 Disposizioni generali
 
@@ -1990,7 +1970,7 @@ e) adotta i provvedimenti necessari affinche' qualsiasi lavoratore, in caso di p
 
 4\. Il datore di lavoro deve, salvo eccezioni debitamente motivate, astenersi dal chiedere ai lavoratori di riprendere la loro attivita' in una situazione di lavoro in cui persiste un pericolo grave ed immediato.
 
-###### Art. 44
+##### Art. 44
 
 Diritti dei lavoratori in caso di pericolo grave e immediato
 
@@ -1998,7 +1978,7 @@ Diritti dei lavoratori in caso di pericolo grave e immediato
 
 2\. Il lavoratore che, in caso di pericolo grave e immediato e nell'impossibilita' di contattare il competente superiore gerarchico, prende misure per evitare le conseguenze di tale pericolo, non puo' subire pregiudizio per tale azione, a meno che non abbia commesso una grave negligenza.
 
-###### Art. 45
+##### Art. 45
 
 Primo soccorso
 
@@ -2010,7 +1990,7 @@ Primo soccorso
 
 ((3-bis. Entro centoventi giorni dalla data di entrata in vigore della presente disposizione, i gestori delle infrastrutture ferroviarie e le imprese ferroviarie, in coordinamento con i servizi pubblici di pronto soccorso, predispongono, sulla base di una determinazione e valutazione dei rischi, procedure operative per l'attuazione, nel rispetto della normativa dell'Unione europea in materia di sicurezza e di interoperabilita' del trasporto ferroviario, di un piano di intervento recante le modalita' operative del soccorso qualificato lungo la rete ferroviaria, incluso il trasporto degli infortunati. Ciascun datore di lavoro individua, sulla base di una specifica determinazione e valutazione dei rischi, i ruoli e le responsabilita' da assegnare al personale, tenuto conto delle relative categorie di inquadramento, dei titoli formativi e delle mansioni)).
 
-###### Art. 46
+##### Art. 46
 
 Prevenzione incendi
 
@@ -2082,11 +2062,9 @@ b) le caratteristiche dello specifico servizio di prevenzione e protezione antin
 
 > 2\. Ferma restando la competenza di altre amministrazioni, enti ed organismi, la prevenzione incendi si esplica in ogni ambito caratterizzato dall'esposizione al rischio di incendio e, in ragione della sua rilevanza interdisciplinare, anche nei settori della sicurezza nei luoghi di lavoro, del controllo dei pericoli di incidenti rilevanti connessi con determinate sostanze pericolose, dell'energia, della protezione da radiazioni ionizzanti, dei prodotti da costruzione.».
 
-## Sezione VII
+#### Sezione VII - CONSULTAZIONE E PARTECIPAZIONE DEI RAPPRESENTANTI DEI LAVORATORI
 
-### CONSULTAZIONE E PARTECIPAZIONE DEI RAPPRESENTANTI DEI LAVORATORI
-
-###### Art. 47
+##### Art. 47
 
 Rappresentante dei lavoratori per la sicurezza
 
@@ -2112,7 +2090,7 @@ Con il medesimo decreto sono disciplinate le modalita' di attuazione del present
 
 8\. Qualora non si proceda alle elezioni previste dai commi 3 e 4, le funzioni di rappresentante dei lavoratori per la sicurezza sono esercitate dai rappresentanti di cui agli articoli 48 e 49, salvo diverse intese tra le associazioni sindacali dei lavoratori e dei datori di lavoro comparativamente piu' rappresentative sul piano nazionale.
 
-###### Art. 48
+##### Art. 48
 
 Rappresentante dei lavoratori per la sicurezza territoriale
 
@@ -2132,7 +2110,7 @@ Rappresentante dei lavoratori per la sicurezza territoriale
 
 8\. L'esercizio delle funzioni di rappresentante dei lavoratori per la sicurezza territoriale e' incompatibile con l'esercizio di altre funzioni sindacali operative.
 
-###### Art. 49
+##### Art. 49
 
 Rappresentante dei lavoratori per la sicurezza di sito produttivo
 
@@ -2166,7 +2144,7 @@ e) contesti produttivi con complesse problematiche legate alla interferenza dell
 
 > d) categoria II, classe III: porti, o specifiche aree portuali, di rilevanza economica regionale e interregionale;».
 
-###### Art. 50
+##### Art. 50
 
 Attribuzioni del rappresentante dei lavoratori per la sicurezza
 
@@ -2210,7 +2188,7 @@ o) puo' fare ricorso alle autorita' competenti qualora ritenga che le misure di 
 
 7\. L'esercizio delle funzioni di rappresentante dei lavoratori per la sicurezza e' incompatibile con la nomina di responsabile o addetto al servizio di prevenzione e protezione.
 
-###### Art. 51
+##### Art. 51
 
 Organismi paritetici
 
@@ -2250,7 +2228,7 @@ d) alle aziende ((per le quali sono stati effettuati)) la consulenza e il monito
 
 8-ter. I dati di cui al comma 8-bis sono utilizzati ai fini della individuazione di criteri di priorita' nella programmazione della vigilanza e di criteri di premialita' nell'ambito della determinazione degli oneri assicurativi da parte dell'INAIL. Per la definizione dei suddetti criteri si tiene conto del fatto che le imprese facenti parte degli organismi paritetici aderiscono ad un sistema paritetico volontario che ha come obiettivo primario la prevenzione sul luogo di lavoro.
 
-###### Art. 52
+##### Art. 52
 
 Sostegno alla piccola e media impresa, ai rappresentanti dei lavoratori per la sicurezza territoriali e alla pariteticita'
 
@@ -2278,11 +2256,9 @@ d) LETTERA SOPPRESSA DAL D.LGS. 3 AGOSTO 2009, N.106.
 
 4\. Il rappresentante dei lavoratori per la sicurezza territoriale redige una relazione annuale sulla attivita' svolta, da inviare al Fondo.
 
-## Sezione VIII
+#### Sezione VIII - DOCUMENTAZIONE TECNICO AMMINISTRATIVA E STATISTICHE DEGLI INFORTUNI E DELLE MALATTIE PROFESSIONALI
 
-### DOCUMENTAZIONE TECNICO AMMINISTRATIVA E STATISTICHE DEGLI INFORTUNI E - DELLE MALATTIE PROFESSIONALI
-
-###### Art. 53
+##### Art. 53
 
 Tenuta della documentazione
 
@@ -2312,21 +2288,17 @@ g) sia redatta, a cura dell'esercente del sistema, una procedura in cui siano de
 
 6\. ((Fino ai 12 mesi)) successivi all'adozione del decreto interministeriale di cui all'articolo 8 comma 4, del presente decreto restano in vigore le disposizioni relative ai registri degli esposti ad agenti cancerogeni e biologici.
 
-###### Art. 54
+##### Art. 54
 
 Comunicazioni e trasmissione della documentazione
 
 1\. La trasmissione di documentazione e le comunicazioni a enti o amministrazioni pubbliche, comunque previste dal presente decreto legislativo possono avvenire tramite sistemi informatizzati, nel formato e con le modalita' indicati dalle strutture riceventi.
 
-## Capo IV
+### Capo IV - Disposizioni penali
 
-### Disposizioni penali
+#### Sezione I - SANZIONI
 
-#### Sezione I
-
-##### SANZIONI
-
-###### Art. 55 - Sanzioni per il datore di lavoro e il dirigente
+##### Art. 55 - Sanzioni per il datore di lavoro e il dirigente
 
 1\. E' punito con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro il datore di lavoro:
 
@@ -2372,7 +2344,7 @@ l) con la sanzione amministrativa pecuniaria da 50 a 300 euro in caso di violazi
 
 6-bis. In caso di violazione delle disposizioni previste dall'articolo 18, comma 1, lettera g), e dall'articolo 37, commi 1, 7, 9 e 10, se la violazione si riferisce a piu' di cinque lavoratori gli importi della sanzione sono raddoppiati, se la violazione si riferisce a piu' di dieci lavoratori gli importi della sanzione sono triplicati.
 
-###### Art. 56
+##### Art. 56
 
 Sanzioni per il preposto
 
@@ -2382,7 +2354,7 @@ a) con l'arresto fino a due mesi o con l'ammenda da 400 a 1.200 euro per la viol
 
 b) con l'arresto fino a un mese o con l'ammenda da 200 a 800 euro per la violazione dell'articolo 19, comma 1, lettere b), d) e g).
 
-###### Art. 57
+##### Art. 57
 
 (( (Sanzioni per i progettisti, i fabbricanti, i fornitori e gli installatori)
 
@@ -2392,7 +2364,7 @@ b) con l'arresto fino a un mese o con l'ammenda da 200 a 800 euro per la violazi
 
 3\. Gli installatori che violano il disposto dell'articolo 24 sono puniti con l'arresto fino a tre mesi o con l'ammenda da 1.200 a 5.200 euro.))
 
-###### Art. 58
+##### Art. 58
 
 (( (Sanzioni per il medico competente)
 
@@ -2408,7 +2380,7 @@ d) con la sanzione amministrativa pecuniaria da 600 a 2.000 euro per la violazio
 
 e) con la sanzione amministrativa pecuniaria da 1.000 a 4.000 euro per le violazione degli articoli 40, comma 1, e 41, commi 3, 5 e 6-bis. ))
 
-###### Art. 59
+##### Art. 59
 
 (( (Sanzioni per i lavoratori)
 
@@ -2418,7 +2390,7 @@ a) con l'arresto fino a un mese o con l'ammenda da 200 a 600 euro per la violazi
 
 b) con la sanzione amministrativa pecuniaria da 50 a 300 euro per la violazione dell'articolo 20, comma 3.))
 
-###### Art. 60
+##### Art. 60
 
 (( (Sanzioni per i componenti dell'impresa familiare di cui
 
@@ -2438,11 +2410,9 @@ b) con la sanzione amministrativa pecuniaria da 50 a 300 euro per ciascun sogget
 
 2\. I lavoratori autonomi sono puniti con la sanzione amministrativa pecuniaria da 50 a 300 euro per la violazione dell'articolo 20, comma 3.))
 
-## Sezione II
+#### Sezione II - DISPOSIZIONI IN TEMA DI PROCESSO PENALE
 
-### DISPOSIZIONI IN TEMA DI PROCESSO PENALE
-
-###### Art. 61
+##### Art. 61
 
 Esercizio dei diritti della persona offesa
 
@@ -2466,15 +2436,11 @@ Esercizio dei diritti della persona offesa
 
 > 4\. La persona offesa che ha revocato il consenso non puo' prestarlo successivamente ne' allo stesso ne' ad altro ente o associazione.».
 
-## Titolo II
+## Titolo II - LUOGHI DI LAVORO
 
-### LUOGHI DI LAVORO
+### Capo I - Disposizioni generali
 
-#### Capo I
-
-##### Disposizioni generali
-
-###### Art. 62
+##### Art. 62
 
 Definizioni
 
@@ -2492,7 +2458,7 @@ d) ai pescherecci.
 
 (( d-bis): ai campi, ai boschi e agli altri terreni facenti parte di un'azienda agricola o forestale.))
 
-###### Art. 63
+##### Art. 63
 
 Requisiti di salute e di sicurezza
 
@@ -2508,7 +2474,7 @@ Requisiti di salute e di sicurezza
 
 6\. ((COMMA ABROGATO DAL D. LGS. 3 AGOSTO 2009, N. 106)).
 
-###### Art. 64
+##### Art. 64
 
 Obblighi del datore di lavoro
 
@@ -2524,7 +2490,7 @@ d) i luoghi di lavoro, gli impianti e i dispositivi vengano sottoposti a regolar
 
 e) gli impianti e i dispositivi di sicurezza, destinati alla prevenzione o all'eliminazione dei pericoli, vengano sottoposti a regolare manutenzione e al controllo del loro funzionamento.
 
-###### Art. 65
+##### Art. 65
 
 Locali sotterranei o semisotterranei
 
@@ -2534,7 +2500,7 @@ Locali sotterranei o semisotterranei
 
 3\. Il datore di lavoro comunica tramite posta elettronica certificata al competente ufficio territoriale dell'Ispettorato nazionale del lavoro (INL) l'uso dei locali di cui al presente articolo allegando adeguata documentazione, individuata con apposita circolare dell'INL, che dimostri il rispetto dei requisiti di cui al comma 2. I locali possono essere utilizzati trascorsi trenta giorni dalla data della comunicazione di cui al primo periodo. Qualora l'ufficio territoriale dell'INL richieda ulteriori informazioni, l'utilizzo dei locali e' consentito trascorsi trenta giorni dalla comunicazione delle ulteriori informazioni richieste, salvo espresso divieto da parte dell'ufficio medesimo)).
 
-###### Art. 66
+##### Art. 66
 
 Lavori in ambienti sospetti di inquinamento
 
@@ -2542,7 +2508,7 @@ Lavori in ambienti sospetti di inquinamento
 
 L'apertura di accesso a detti luoghi deve avere dimensioni tali da poter consentire l'agevole recupero di un lavoratore privo di sensi.
 
-###### Art. 67
+##### Art. 67
 
 (( (Notifiche all'organo di vigilanza competente per territorio). ))
 
@@ -2560,11 +2526,9 @@ b) descrizione delle caratteristiche dei locali e degli impianti.
 
 5\. Fino alla data di entrata in vigore del decreto di cui al comma 2 trovano applicazione le disposizioni di cui al comma 1.))
 
-## Capo II
+### Capo II - Sanzioni
 
-### Sanzioni
-
-###### Art. 68
+##### Art. 68
 
 (( (Sanzioni per il datore di lavoro e il dirigente)
 
@@ -2578,17 +2542,11 @@ c) con la sanzione amministrativa pecuniaria da 500 a 1.800 euro per la violazio
 
 2\. La violazione di piu' precetti riconducibili alla categoria omogenea di requisiti di sicurezza relativi ai luoghi di lavoro di cui all'allegato IV, punti 1. 1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1. 10, 1.11, 1.12, 1.13, 1.14, 2.1, 2.2, 3, 4, 6.1, 6.2, 6.3, 6.4, 6.5, e 6.6, e' considerata una unica violazione ed e' punita con la pena prevista dal comma 1, lettera b). L'organo di vigilanza e' tenuto a precisare in ogni caso, in sede di contestazione, i diversi precetti violati."))
 
-## Titolo III
+## Titolo III - USO DELLE ATTREZZATURE DI LAVORO E DEI DISPOSITIVI DI PROTEZIONE INDIVIDUALE
 
-### USO DELLE ATTREZZATURE DI LAVORO E DEI DISPOSITIVI DI - PROTEZIONE INDIVIDUALE
+### Capo I - Uso delle attrezzature di lavoro
 
-#### Capo
-
-##### I
-
-###### Uso delle attrezzature di lavoro
-
-###### Art. 69
+##### Art. 69
 
 Definizioni
 
@@ -2604,7 +2562,7 @@ d) lavoratore esposto: qualsiasi lavoratore che si trovi interamente o in parte 
 
 e) operatore: il lavoratore incaricato dell'uso di una attrezzatura di lavoro ((o il datore di lavoro che ne fa uso)).
 
-###### Art. 70
+##### Art. 70
 
 Requisiti di sicurezza
 
@@ -2620,7 +2578,7 @@ a) dall'organo di vigilanza che ha accertato in sede di utilizzo la situazione d
 
 b) dall'organo di vigilanza territorialmente competente rispettivamente, nei confronti del fabbricante ovvero dei soggetti della catena della distribuzione, qualora, alla conclusione dell'accertamento tecnico effettuato dall'autorita' nazionale per la sorveglianza del mercato, risulti la non conformita' dell'attrezzatura ad uno o piu' requisiti essenziali di sicurezza previsti dalle disposizioni legislative e regolamentari di cui al comma 1 dell'articolo 70. ))
 
-###### Art. 71
+##### Art. 71
 
 Obblighi del datore di lavoro
 
@@ -2686,7 +2644,7 @@ c) Gli interventi di controllo di cui alle lettere a) e b) sono volti ad assicur
 
 14\. Con decreto del Ministro del lavoro, della salute e delle politiche sociali, di concerto con il Ministro dello sviluppo economico, d'intesa con la Conferenza permanente per i rapporti tra Stato, Regioni e province autonome di Trento e di Bolzano e sentita la Commissione consultiva di cui all'articolo 6, vengono apportate le modifiche all'allegato VII relativamente all'elenco delle attrezzature di lavoro da sottoporre alle verifiche di cui al comma 11.
 
-###### Art. 72
+##### Art. 72
 
 Obblighi dei noleggiatori e dei concedenti in uso
 
@@ -2694,7 +2652,7 @@ Obblighi dei noleggiatori e dei concedenti in uso
 
 2\. Chiunque noleggi o conceda in uso attrezzature di lavoro senza operatore deve, al momento della cessione, attestarne il buono stato di conservazione, manutenzione ed efficienza a fini di sicurezza. ((Deve altresi' acquisire e conservare agli atti, per tutta la durata del noleggio o della concessione dell'attrezzatura, una dichiarazione autocertificativa del soggetto che prende a noleggio, o in concessione in uso, o del datore di lavoro, che attesti l'avvenuta formazione e addestramento specifico, effettuati conformemente alle disposizioni del presente Titolo, dei soggetti individuati per l'utilizzo.))
 
-###### Art. 73
+##### Art. 73
 
 Informazione, formazione e addestramento
 
@@ -2716,7 +2674,7 @@ b) alle situazioni anormali prevedibili.
 
 5-bis. Al fine di garantire la continuita' e l'efficienza dei servizi di soccorso pubblico e di prevenzione ed estinzione degli incendi, la formazione e l'abilitazione del personale del Corpo nazionale dei vigili del fuoco all'utilizzo delle attrezzature di cui al comma 5 possono essere effettuate direttamente dal Corpo nazionale medesimo, con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-###### Art. 73-bis
+##### Art. 73-bis
 
 (( (Abilitazione alla conduzione dei generatori di vapore). ))
 
@@ -2726,11 +2684,9 @@ b) alle situazioni anormali prevedibili.
 
 3\. Fino all'emanazione del predetto decreto, resta ferma l'applicazione delle disposizioni di cui al decreto del Ministro del lavoro e della previdenza sociale 1° marzo 1974, pubblicato nella Gazzetta Ufficiale 16 aprile 1974, n. 99, cosi' come modificato dal decreto del Ministro del lavoro e della previdenza sociale 7 febbraio 1979, pubblicato nella Gazzetta Ufficiale 15 marzo 1979, n. 74.))
 
-## Capo II
+### Capo II - Uso dei dispositivi di protezione individuale
 
-### Uso dei dispositivi di protezione individuale
-
-###### Art. 74
+##### Art. 74
 
 Definizioni
 
@@ -2752,13 +2708,13 @@ f) i materiali per l'autodifesa o per la dissuasione;
 
 g) gli apparecchi portatili per individuare e segnalare rischi e fattori nocivi.
 
-###### Art. 75
+##### Art. 75
 
 Obbligo di uso
 
 1\. I DPI devono essere impiegati quando i rischi non possono essere evitati o sufficientemente ridotti da misure tecniche di prevenzione, da mezzi di protezione collettiva, da misure, metodi o procedimenti di riorganizzazione del lavoro.
 
-###### Art. 76
+##### Art. 76
 
 Requisiti dei DPI
 
@@ -2776,7 +2732,7 @@ d) poter essere adattati all'utilizzatore secondo le sue necessita'.
 
 3\. In caso di rischi multipli che richiedono l'uso simultaneo di piu' DPI, questi devono essere tra loro compatibili e tali da mantenere, anche nell'uso simultaneo, la propria efficacia nei confronti del rischio e dei rischi corrispondenti.
 
-###### Art. 77
+##### Art. 77
 
 Obblighi del datore di lavoro
 
@@ -2826,7 +2782,7 @@ a) per ogni DPI che, ai sensi del decreto legislativo 4 dicembre 1992, n. 475, a
 
 b) per i dispositivi di protezione dell'udito.
 
-###### Art. 78
+##### Art. 78
 
 Obblighi dei lavoratori
 
@@ -2844,7 +2800,7 @@ b) non vi apportano modifiche di propria iniziativa.
 
 5\. I lavoratori segnalano immediatamente al datore di lavoro o al dirigente o al preposto qualsiasi difetto o inconveniente da essi rilevato nei DPI messi a loro disposizione.
 
-###### Art. 79
+##### Art. 79
 
 Criteri per l'individuazione e l'uso
 
@@ -2858,11 +2814,9 @@ b) le circostanze e le situazioni in cui, ferme restando le priorita' delle misu
 
 2-bis. Fino alla adozione del decreto di cui al comma 2 restano ferme le disposizioni di cui al decreto del Ministro del lavoro e della previdenza sociale in data 2 maggio 2001, pubblicato nella Gazzetta Ufficiale n. 126 del 1 ° giugno 2001 ((, aggiornato con le edizioni delle norme UNI piu' recenti)).
 
-## Capo III
+### Capo III - Impianti e apparecchiature elettriche
 
-### Impianti e apparecchiature elettriche
-
-###### Art. 80
+##### Art. 80
 
 Obblighi del datore di lavoro
 
@@ -2894,7 +2848,7 @@ c) tutte le condizioni di esercizio prevedibili.
 
 3-bis. ((Il datore di lavoro prende, altresi', le misure necessarie affinche' le procedure di uso e manutenzione di cui al comma 3 siano predisposte ed attuate tenendo conto delle disposizioni legislative vigenti, delle indicazioni contenute nei manuali d'uso e manutenzione delle apparecchiature ricadenti nelle direttive specifiche di prodotto e di quelle indicate nelle pertinenti norme tecniche.))
 
-###### Art. 81
+##### Art. 81
 
 Requisiti di sicurezza
 
@@ -2904,7 +2858,7 @@ Requisiti di sicurezza
 
 3\. ((COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2009, N.106)).
 
-###### Art. 82
+##### Art. 82
 
 Lavori sotto tensione
 
@@ -2924,7 +2878,7 @@ a) le procedure adottate e le attrezzature utilizzate sono conformi ai criteri d
 
 3\. Hanno diritto al riconoscimento di cui al comma 2 le aziende gia' autorizzate ai sensi della legislazione vigente.
 
-###### Art. 83
+##### Art. 83
 
 Lavori in prossimita' di parti attive
 
@@ -2932,13 +2886,13 @@ Lavori in prossimita' di parti attive
 
 2\. Si considerano idonee ai fini di cui al comma 1 le disposizioni contenute ((nelle pertinenti norme tecniche)).
 
-###### Art. 84
+##### Art. 84
 
 Protezioni dai fulmini
 
 1\. Il datore di lavoro provvede affinche' gli edifici, gli impianti, le strutture, le attrezzature, siano protetti dagli effetti dei fulmini ((...)) realizzati secondo le norme ((tecniche)).
 
-###### Art. 85
+##### Art. 85
 
 Protezione di edifici, impianti strutture ed attrezzature
 
@@ -2946,7 +2900,7 @@ Protezione di edifici, impianti strutture ed attrezzature
 
 2\. Le protezioni di cui al comma 1 si realizzano utilizzando le specifiche disposizioni di cui al presente decreto legislativo e le pertinenti norme ((tecniche)) di cui all'allegato IX.
 
-###### Art. 86
+##### Art. 86
 
 (( (Verifiche e controlli)
 
@@ -2956,7 +2910,7 @@ Protezione di edifici, impianti strutture ed attrezzature
 
 3\. L'esito dei controlli di cui al comma 1 e' verbalizzato e tenuto a disposizione dell'autorita' di vigilanza.))
 
-###### Art. 87 - Sanzioni a carico del datore di lavoro, del dirigente, del noleggiatore e del concedente in uso
+##### Art. 87 - Sanzioni a carico del datore di lavoro, del dirigente, del noleggiatore e del concedente in uso
 
 1\. Il datore di lavoro e' punito con la pena dell'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione dell'articolo 80, comma 2.
 
@@ -2998,15 +2952,11 @@ d) dell'articolo 86, commi 1 e 3.
 
 7\. Il venditore, il noleggiatore o il concedente in uso e' punito con la sanzione amministrativa pecuniaria da 750 a 2.700 euro per la violazione dell'articolo 72.
 
-## Titolo IV
+## Titolo IV - CANTIERI TEMPORANEI O MOBILI
 
-### CANTIERI TEMPORANEI O MOBILI
+### Capo I - Misure per la salute e sicurezza nei cantieri temporanei o mobili
 
-#### Capo - I
-
-##### Misure per la salute e sicurezza nei cantieri temporanei o mobili
-
-###### Art. 88
+##### Art. 88
 
 Campo di applicazione
 
@@ -3034,7 +2984,7 @@ g-ter), alle attivita' di cui al decreto legislativo 27 luglio i1999, n. 272, ch
 
 2-bis. Le disposizioni di cui al presente titolo si applicano agli spettacoli musicali, cinematografici e teatrali e alle manifestazioni fieristiche tenendo conto delle particolari esigenze connesse allo svolgimento delle relative attivita', individuate con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro della salute, sentita la Commissione consultiva permanente per la salute e sicurezza sul lavoro, che deve essere adottato entro il 31 dicembre 2013.
 
-###### Art. 89
+##### Art. 89
 
 Definizioni
 
@@ -3062,7 +3012,7 @@ i) impresa affidataria: impresa titolare del contratto di appalto con il committ
 
 l) idoneita' tecnico-professionale: possesso di capacita' organizzative, nonche' disponibilita' di forza lavoro, di macchine e di attrezzature, in riferimento ((ai lavori da realizzare)).
 
-###### Art. 90
+##### Art. 90
 
 Obblighi del committente o del responsabile dei lavori
 
@@ -3102,7 +3052,7 @@ c) trasmette all'amministrazione concedente, prima dell'inizio dei lavori oggett
 
 11\. La disposizione di cui al comma 3 non si applica ai lavori privati non soggetti a permesso di costruire in base alla normativa vigente e comunque di importo inferiore ad euro 100.000. In tal caso, le funzioni del coordinatore per la progettazione sono svolte dal coordinatore per la esecuzione dei lavori.
 
-###### Art. 91
+##### Art. 91
 
 Obblighi del coordinatore per la progettazione
 
@@ -3130,7 +3080,7 @@ AGGIORNAMENTO (28)
 
 La L. 1 ottobre 2012, n. 177 come modificata dal D.L. 30 dicembre 2015, n. 210, convertito con modificazioni dalla L. 25 febbraio 2016, n. 21 ha disposto (con l'art. 1, comma 3) che "Le modificazioni al decreto legislativo 9 aprile 2008, n. 81, introdotte dal comma 1 del presente articolo, acquistano efficacia decorsi dodici mesi dalla data della pubblicazione del decreto del Ministro della difesa, di cui al comma 2 del presente articolo".
 
-###### Art. 92
+##### Art. 92
 
 Obblighi del coordinatore per l'esecuzione dei lavori
 
@@ -3150,7 +3100,7 @@ f) sospende, in caso di pericolo grave e imminente, direttamente riscontrato, le
 
 2\. Nei casi di cui all'articolo 90, comma 5, il coordinatore per l'esecuzione, oltre a svolgere i compiti di cui al comma 1, redige il piano di sicurezza e di coordinamento e predispone il fascicolo, di cui all'articolo 91, comma 1, lettere a) e b) ((, fermo restando quanto previsto al secondo periodo della medesima lettera b))).
 
-###### Art. 93
+##### Art. 93
 
 Responsabilita' dei committenti e dei responsabili dei lavori
 
@@ -3158,13 +3108,13 @@ Responsabilita' dei committenti e dei responsabili dei lavori
 
 2\. La designazione del coordinatore per la progettazione e del coordinatore per l'esecuzione ((dei lavori)), non esonera ((il committente o)) il responsabile dei lavori dalle responsabilita' connesse alla verifica dell'adempimento degli obblighi di cui agli articoli 91, comma 1, e 92, comma 1, ((lettere a), b), c) d) ed e))).
 
-###### Art. 94
+##### Art. 94
 
 Obblighi dei lavoratori autonomi
 
 1\. I lavoratori autonomi che esercitano la propria attivita' nei cantieri, fermo restando gli obblighi di cui al presente decreto legislativo, si adeguano alle indicazioni fornite dal coordinatore per l'esecuzione dei lavori, ai fini della sicurezza.
 
-###### Art. 95
+##### Art. 95
 
 Misure generali di tutela
 
@@ -3186,7 +3136,7 @@ g) la cooperazione ((e il coordinamento)) tra datori di lavoro e lavoratori auto
 
 h) le interazioni con le attivita' che avvengono sul luogo, all'interno o in prossimita' del cantiere.
 
-###### Art. 96
+##### Art. 96
 
 Obblighi dei datori di lavoro, dei dirigenti e dei preposti
 
@@ -3210,7 +3160,7 @@ g) redigono il piano operativo di sicurezza di cui all'articolo 89, comma 1, let
 
 2\. L'accettazione da parte di ciascun datore di lavoro delle imprese del piano di sicurezza e di coordinamento di cui all'articolo 100, nonche' la redazione del piano operativo di sicurezza costituiscono, limitatamente al singolo cantiere interessato, adempimento alle disposizioni di cui all'articolo 17 comma 1, lettera a), all'articolo 26, commi 1, lettera b), 2, 3, e 5, e all'articolo 29, comma 3.))
 
-###### Art. 97
+##### Art. 97
 
 Obblighi del datore di lavoro dell'impresa affidataria
 
@@ -3228,7 +3178,7 @@ b) verificare la congruenza dei piani operativi di sicurezza (POS) delle imprese
 
 3-ter) Per lo svolgimento delle attivita' di cui al presente articolo, il datore di lavoro dell'impresa affidataria, i dirigenti e i preposti devono essere in possesso di adeguata formazione.))
 
-###### Art. 98
+##### Art. 98
 
 Requisiti professionali del coordinatore per la progettazione del coordinatore per l'esecuzione dei lavori
 
@@ -3254,7 +3204,7 @@ L'allegato XIV e' aggiornato con accordo in sede di Conferenza permanente per i 
 
 6\. Le regioni determinano la misura degli oneri per il funzionamento dei corsi di cui al comma 2, da esse organizzati, da porsi a carico dei partecipanti.
 
-###### Art. 99
+##### Art. 99
 
 Notifica preliminare
 
@@ -3274,7 +3224,7 @@ c) cantieri in cui opera un'unica impresa la cui entita' presunta di lavoro non 
 
 3\. Gli organismi paritetici istituiti nel settore delle costruzioni in attuazione dell'articolo 51 possono chiedere copia dei dati relativi alle notifiche preliminari presso gli organi di vigilanza.
 
-###### Art. 100
+##### Art. 100
 
 Piano di sicurezza e di coordinamento
 
@@ -3304,7 +3254,7 @@ AGGIORNAMENTO (28)
 
 La L. 1 ottobre 2012, n. 177 come modificata dal D.L. 30 dicembre 2015, n. 210, convertito con modificazioni dalla L. 25 febbraio 2016, n. 21 ha disposto (con l'art. 1, comma 3) che "Le modificazioni al decreto legislativo 9 aprile 2008, n. 81, introdotte dal comma 1 del presente articolo, acquistano efficacia decorsi dodici mesi dalla data della pubblicazione del decreto del Ministro della difesa, di cui al comma 2 del presente articolo".
 
-###### Art. 101
+##### Art. 101
 
 Obblighi di trasmissione
 
@@ -3314,17 +3264,17 @@ Obblighi di trasmissione
 
 3\. Prima dell'inizio dei rispettivi lavori ciascuna impresa esecutrice trasmette il proprio piano operativo di sicurezza all'impresa affidataria, la quale, previa verifica della congruenza rispetto al proprio, lo trasmette al coordinatore per l'esecuzione. I lavori hanno inizio dopo l'esito positivo delle suddette verifiche che sono effettuate tempestivamente e comunque non oltre 15 giorni dall'avvenuta ricezione.
 
-###### Art. 102
+##### Art. 102
 
 Consultazione dei rappresentanti per la sicurezza
 
 1\. Prima dell'accettazione del piano di sicurezza e di coordinamento di cui all'articolo 100 e delle modifiche significative apportate allo stesso, il datore di lavoro di ciascuna impresa esecutrice consulta il rappresentante dei lavoratori per la sicurezza e gli fornisce eventuali chiarimenti sul contenuto del piano. Il rappresentante dei lavoratori per la sicurezza ha facolta' di formulare proposte al riguardo.
 
-###### Art. 103
+##### Art. 103
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2009, N.106))
 
-###### Art. 104
+##### Art. 104
 
 Modalita' attuative di particolari obblighi
 
@@ -3350,7 +3300,7 @@ AGGIORNAMENTO (28)
 
 La L. 1 ottobre 2012, n. 177 come modificata dal D.L. 30 dicembre 2015, n. 210, convertito con modificazioni dalla L. 25 febbraio 2016, n. 21 ha disposto (con l'art. 1, comma 3) che "Le modificazioni al decreto legislativo 9 aprile 2008, n. 81, introdotte dal comma 1 del presente articolo, acquistano efficacia decorsi dodici mesi dalla data della pubblicazione del decreto del Ministro della difesa, di cui al comma 2 del presente articolo".
 
-###### Art. 104-bis
+##### Art. 104-bis
 
 (( Misure di semplificazione nei cantieri temporanei o mobili )).
 
@@ -3362,21 +3312,17 @@ AGGIORNAMENTO (19)
 
 Il D.L. 21 giugno 2013, n. 69, convertito con modificazioni dalla L. 9 agosto 2013, n. 98 ha disposto (con l'art. 32, comma 2) che "I decreti di cui agli articoli 29, comma 6-ter e 104-bis, del decreto legislativo 9 aprile 2008, n. 81, introdotti dal comma 1, lettere b), ed h), del presente articolo sono adottati, rispettivamente, entro novanta giorni e sessanta giorni dalla data di entrata in vigore del presente decreto.".
 
-## Capo II
+### Capo II - Norme per la prevenzione degli infortuni sul lavoro nelle costruzioni e nei lavori in quota
 
-### Norme per la prevenzione degli infortuni sul lavoro nelle costruzioni e nei lavori in quota
+#### Sezione I - Campo di applicazione
 
-#### Sezione I
-
-##### Campo di applicazione
-
-###### Art. 105
+##### Art. 105
 
 Attivita' soggette
 
 1\. Le norme del presente capo si applicano alle attivita' che, da chiunque esercitate e alle quali siano addetti lavoratori subordinati o autonomi, concernono la esecuzione dei lavori di costruzione, manutenzione, riparazione, demolizione, conservazione, risanamento, ristrutturazione o equipaggiamento, la trasformazione, il rinnovamento o lo smantellamento di opere fisse, permanenti o temporanee, in muratura, in cemento armato, in metallo, in legno o in altri materiali, comprese le linee e gli impianti elettrici, le opere stradali, ferroviarie, idrauliche, marittime, idroelettriche, di bonifica, sistemazione forestale e di sterro. Costituiscono, inoltre, lavori di costruzione edile o di ingegneria civile gli scavi, ed il montaggio e lo smontaggio di elementi prefabbricati utilizzati per la realizzazione di lavori edili o di ingegneria civile. Le norme del presente capo si applicano ai lavori in quota di cui al presente capo e ad in ogni altra attivita' lavorativa.
 
-###### Art. 106
+##### Art. 106
 
 Attivita' escluse
 
@@ -3388,35 +3334,33 @@ b) alle attivita' di prospezione, ricerca, coltivazione e stoccaggio degli idroc
 
 c) ai lavori svolti in mare.
 
-###### Art. 107
+##### Art. 107
 
 Definizioni
 
 1\. Agli effetti delle disposizioni di cui al presente capo si intende per lavoro in quota: attivita' lavorativa che espone il lavoratore al rischio di caduta da una quota posta ad altezza superiore a 2 m rispetto ad un piano stabile.
 
-## Sezione II
+#### Sezione II - Disposizioni di carattere generale
 
-### Disposizioni di carattere generale
-
-###### Art. 108
+##### Art. 108
 
 Viabilita' nei cantieri
 
 ((1. Fermo restando quanto previsto al punto 1 dell'allegato XVIII, durante i lavori deve essere assicurata nei cantieri la viabilita' delle persone e dei veicoli.))
 
-###### Art. 109
+##### Art. 109
 
 Recinzione del cantiere
 
 1\. Il cantiere, in relazione al tipo di lavori effettuati, deve essere dotato di recinzione avente caratteristiche idonee ad impedire l'accesso agli estranei alle lavorazioni.
 
-###### Art. 110
+##### Art. 110
 
 Luoghi di transito
 
 1\. Il transito sotto ponti sospesi, ponti a sbalzo, scale aeree e simili deve essere impedito con barriere o protetto con l'adozione di misure o cautele adeguate.
 
-###### Art. 111
+##### Art. 111
 
 Obblighi del datore di lavoro nell'uso di attrezzature per lavori in quota
 
@@ -3442,7 +3386,7 @@ Il sistema di accesso adottato deve consentire l'evacuazione in caso di pericolo
 
 8\. Il datore di lavoro dispone affinche' sia vietato assumere e somministrare bevande alcoliche e superalcoliche ai lavoratori addetti ai ((cantieri temporanei e mobili e ai lavori in quota)).
 
-###### Art. 112
+##### Art. 112
 
 Idoneita' delle opere provvisionali
 
@@ -3450,7 +3394,7 @@ Idoneita' delle opere provvisionali
 
 2\. Prima di reimpiegare elementi di ponteggi di qualsiasi tipo si deve provvedere alla loro verifica per eliminare quelli non ritenuti piu' idonei ai sensi dell'allegato XIX.
 
-###### Art. 113
+##### Art. 113
 
 Scale
 
@@ -3506,7 +3450,7 @@ AGGIORNAMENTO (65)
 
 Il D.L. 31 ottobre 2025, n. 159, convertito con modificazioni dalla L. 29 dicembre 2025, n. 198, ha disposto (con l'art. 5, comma 1-bis) che "Per le scale verticali permanenti installate entro il 31 ottobre 2025, le disposizioni di cui al comma 2 dell'articolo 113 del citato decreto legislativo n. 81 del 2008, nel testo risultante dalla modifica di cui al comma 1, lettera h), del presente articolo, acquistano efficacia a decorrere dal 1° febbraio 2026".
 
-###### Art. 114
+##### Art. 114
 
 Protezione dei posti di lavoro
 
@@ -3516,7 +3460,7 @@ Protezione dei posti di lavoro
 
 3\. Nei lavori che possono dar luogo a proiezione di schegge, come quelli di spaccatura o scalpellatura di blocchi o pietre e simili, devono essere predisposti efficaci mezzi di protezione a difesa sia delle persone direttamente addette a tali lavori sia di coloro che sostano o transitano in vicinanza. Tali misure non sono richieste per i lavori di normale adattamento di pietrame nella costruzione di muratura comune.
 
-###### Art. 115 - Sistemi di protezione contro le cadute dall'alto
+##### Art. 115 - Sistemi di protezione contro le cadute dall'alto
 
 1\. Nei lavori in quota i sistemi di protezione collettiva a cui dare priorita' rispetto ai sistemi di protezione individuale, come previsto all'articolo 111, comma 1, lettera a), ((in via prioritaria sono)):
 
@@ -3540,7 +3484,7 @@ d) sistemi di arresto caduta.
 
 5\. I sistemi di cui al comma 2, lettera c), devono rispettare quanto previsto all'articolo 111, comma 4, e all'articolo 116.
 
-###### Art. 116
+##### Art. 116
 
 Obblighi dei datori di lavoro concernenti l'impiego di sistemi di accesso e di posizionamento mediante funi
 
@@ -3578,7 +3522,7 @@ f) le procedure di salvataggio.
 
 4\. I soggetti formatori, la durata, gli indirizzi ed i requisiti minimi di validita' dei corsi sono riportati nell'allegato XXI.
 
-###### Art. 117
+##### Art. 117
 
 Lavori in prossimita' di parti attive
 
@@ -3592,11 +3536,9 @@ c) tenere in permanenza, persone, macchine operatrici, apparecchi di sollevament
 
 2\. La distanza di sicurezza deve essere tale che non possano avvenire contatti diretti o scariche pericolose per le persone tenendo conto del tipo di lavoro, delle attrezzature usate e delle tensioni presenti ((e comunque la distanza di sicurezza non deve essere inferiore ai limiti di cui all'allegato IX o a quelli risultanti dall'applicazione delle pertinenti norme tecniche)).
 
-## Sezione III
+#### Sezione III - Scavi e fondazioni
 
-### Scavi e fondazioni
-
-###### Art. 118
+##### Art. 118
 
 Splateamento e sbancamento
 
@@ -3610,7 +3552,7 @@ Splateamento e sbancamento
 
 5\. Ai lavoratori deve essere fatto esplicito divieto di avvicinarsi alla base della parete di attacco e, in quanto necessario in relazione all'altezza dello scavo o alle condizioni di accessibilita' del ciglio della platea superiore, la zona superiore di pericolo deve essere almeno delimitata mediante opportune segnalazioni spostabili col proseguire dello scavo.
 
-###### Art. 119
+##### Art. 119
 
 Pozzi, scavi e cunicoli
 
@@ -3630,13 +3572,13 @@ Pozzi, scavi e cunicoli
 
 ((7-bis. Il sollevamento di materiale dagli scavi deve essere effettuato conformemente al punto 3.4. dell'Allegato XVIII.))
 
-###### Art. 120
+##### Art. 120
 
 Deposito di materiali in prossimita' degli scavi
 
 1\. E' vietato costituire depositi di materiali presso il ciglio degli scavi. Qualora tali depositi siano necessari per le condizioni del lavoro, si deve provvedere alle necessarie puntellature.
 
-###### Art. 121
+##### Art. 121
 
 Presenza di gas negli scavi
 
@@ -3650,23 +3592,21 @@ Presenza di gas negli scavi
 
 5\. Nei casi previsti dai commi 2, 3 e 4, i lavoratori devono essere abbinati nell'esecuzione dei lavori.
 
-## ((Sezione IV
+#### ((Sezione IV - Ponteggi in legname e altre opere provvisionali.))
 
-### Ponteggi in legname e altre opere provvisionali.))
-
-###### Art. 122
+##### Art. 122
 
 Ponteggi ed opere provvisionali
 
 1\. ((Nei lavori in quota)), devono essere adottate, seguendo lo sviluppo dei lavori stessi, adeguate impalcature o ponteggi o idonee opere provvisionali o comunque precauzioni atte ad eliminare i pericoli di caduta di persone e di cose conformemente ((ai punti 2, 3.1, 3.2 e 3.3)) dell'allegato XVIII.
 
-###### Art. 123
+##### Art. 123
 
 Montaggio e smontaggio delle opere provvisionali
 
 1\. Il montaggio e lo smontaggio delle opere provvisionali devono essere eseguiti sotto la diretta sorveglianza di un preposto ai lavori.
 
-###### Art. 124
+##### Art. 124
 
 Deposito di materiali sulle impalcature
 
@@ -3674,7 +3614,7 @@ Deposito di materiali sulle impalcature
 
 2\. Il peso dei materiali e delle persone deve essere sempre inferiore a quello che e' consentito dalla resistenza strutturale del ponteggio; lo spazio occupato dai materiali deve consentire i movimenti e le manovre necessarie per l'andamento del lavoro.
 
-###### Art. 125
+##### Art. 125
 
 Disposizione dei montanti
 
@@ -3690,19 +3630,19 @@ Disposizione dei montanti
 
 6\. Il ponteggio deve essere efficacemente ancorato alla costruzione almeno in corrispondenza ad ogni due piani di ponteggio e ad ogni due montanti, con disposizione di ancoraggi a rombo o di pari efficacia.
 
-###### Art. 126
+##### Art. 126
 
 Parapetti
 
 1\. Gli impalcati e ponti di servizio, le passerelle, le andatoie, che siano posti ad un'altezza maggiore di 2 metri, devono essere provvisti su tutti i lati verso il vuoto di robusto parapetto e in buono stato di conservazione.
 
-###### Art. 127
+##### Art. 127
 
 Ponti a sbalzo
 
 1\. Nei casi in cui particolari esigenze non permettono l'impiego di ponti normali, possono essere consentiti ponti a sbalzo purche' la loro costruzione risponda a idonei procedimenti di calcolo e ne garantisca la solidita' e la stabilita'.
 
-###### Art. 128
+##### Art. 128
 
 Sottoponti
 
@@ -3710,7 +3650,7 @@ Sottoponti
 
 2\. La costruzione del sottoponte puo' essere omessa per i ponti sospesi, ((per le torri di carico,)) per i ponti a sbalzo e quando vengano eseguiti lavori di manutenzione e di riparazione di durata non superiore a cinque giorni.
 
-###### Art. 129
+##### Art. 129
 
 Impalcature nelle costruzioni in conglomerato cementizio
 
@@ -3720,7 +3660,7 @@ Impalcature nelle costruzioni in conglomerato cementizio
 
 3\. In corrispondenza ai luoghi di transito o stazionamento deve essere sistemato, all'altezza del solaio di copertura del piano terreno, un impalcato di sicurezza (mantovana) a protezione contro la caduta di materiali dall'alto. Tale protezione puo' essere sostituita con una chiusura continua in graticci sul fronte del ponteggio, qualora presenti le stesse garanzie di sicurezza, o con la segregazione dell'area sottostante.
 
-###### Art. 130
+##### Art. 130
 
 Andatoie e passerelle
 
@@ -3728,11 +3668,9 @@ Andatoie e passerelle
 
 2\. Le andatoie lunghe devono essere interrotte da pianerottoli di riposo ad opportuni intervalli; sulle tavole delle andatoie devono essere fissati listelli trasversali a distanza non maggiore del passo di un uomo carico.
 
-## Sezione V
+#### Sezione V - Ponteggi fissi
 
-### Ponteggi fissi
-
-###### Art. 131
+##### Art. 131
 
 Autorizzazione alla costruzione ed all'impiego
 
@@ -3750,7 +3688,7 @@ Autorizzazione alla costruzione ed all'impiego
 
 7\. Il ((Ministero del lavoro, della salute e delle politiche sociali)) si avvale anche dell'ISPESL per il controllo delle caratteristiche tecniche dei ponteggi dichiarate dal titolare dell'autorizzazione, attraverso controlli a campione presso le sedi di produzione.
 
-###### Art. 132
+##### Art. 132
 
 Relazione tecnica
 
@@ -3770,7 +3708,7 @@ f) istruzioni per il montaggio, impiego e smontaggio del ponteggio;
 
 g) schemi-tipo di ponteggio con l'indicazione dei massimi ammessi di sovraccarico, di altezza dei ponteggi e di larghezza degli impalcati per i quali non sussiste l'obbligo del calcolo per ogni singola applicazione.
 
-###### Art. 133
+##### Art. 133
 
 Progetto
 
@@ -3784,7 +3722,7 @@ b) disegno esecutivo.
 
 3\. Copia dell'autorizzazione ministeriale di cui all'articolo 131 e copia del progetto e dei disegni esecutivi devono essere tenute ed esibite, a richiesta degli organi di vigilanza, nei cantieri in cui vengono usati i ponteggi e le opere provvisionali di cui al comma 1.
 
-###### Art. 134
+##### Art. 134
 
 Documentazione
 
@@ -3792,13 +3730,13 @@ Documentazione
 
 2\. Le eventuali modifiche al ponteggio, che devono essere subito riportate sul disegno, devono restare nell'ambito dello schema-tipo che ha giustificato l'esenzione dall'obbligo del calcolo.
 
-###### Art. 135
+##### Art. 135
 
 Marchio del fabbricante
 
 1\. Gli elementi dei ponteggi devono portare impressi, a rilievo o ad incisione, e comunque in modo visibile ed indelebile il marchio del fabbricante.
 
-###### Art. 136
+##### Art. 136
 
 Montaggio e smontaggio
 
@@ -3842,7 +3780,7 @@ f) qualsiasi altro rischio che le suddette operazioni di montaggio, smontaggio o
 
 8\. I soggetti formatori, la durata, gli indirizzi ed i requisiti minimi di validita' dei corsi sono riportati nell'allegato XXI.
 
-###### Art. 137
+##### Art. 137
 
 Manutenzione e revisione
 
@@ -3856,7 +3794,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 3 agosto 2009, n. 106 ha disposto (con l'art. 81, comma 1) che "All'articolo 137, comma 1, del decreto, le parole: "Il responsabile di cantiere" sono sostituite dalle seguenti: "Il preposto"."
 
-###### Art. 138
+##### Art. 138
 
 Norme particolari
 
@@ -3878,17 +3816,15 @@ c) alla disposizione di cui all'articolo 126, comma 1, a condizione che l'altezz
 
 d) ((LETTERA SOPPRESSA DAL D.LGS. 3 AGOSTO 2009, N.106)).
 
-## Sezione VI
+#### Sezione VI - Ponteggi movibili
 
-### Ponteggi movibili
-
-###### Art. 139
+##### Art. 139
 
 Ponti su cavalletti
 
 1\. I ponti su cavalletti non devono aver altezza superiore a metri 2 e non devono essere montati sugli impalcati dei ponteggi. ((I ponti su cavalletti devono essere conformi ai requisiti specifici indicati nel punto 2.2.2. dell'allegato XVIII.))
 
-###### Art. 140
+##### Art. 140
 
 Ponti su ruote a torre
 
@@ -3904,17 +3840,15 @@ Ponti su ruote a torre
 
 6\. I ponti, esclusi quelli usati nei lavori per le linee elettriche di contatto, non devono essere spostati quando su di essi si trovano lavoratori o carichi.
 
-## Sezione VII
+#### Sezione VII - Costruzioni edilizie
 
-### Costruzioni edilizie
-
-###### Art. 141
+##### Art. 141
 
 Strutture speciali
 
 1\. Durante la costruzione o il consolidamento di cornicioni di gronda e di opere sporgenti dai muri, devono essere adottate precauzioni per impedirne la caduta, ponendo armature provvisorie atte a sostenerle fino a che la stabilita' dell'opera sia completamente assicurata.
 
-###### Art. 142
+##### Art. 142
 
 Costruzioni di archi, volte e simili
 
@@ -3924,13 +3858,13 @@ Costruzioni di archi, volte e simili
 
 3\. I disegni esecutivi, firmati dal progettista di cui al comma precedente, devono essere esibiti sul posto di lavoro a richiesta degli organi di vigilanza.
 
-###### Art. 143
+##### Art. 143
 
 Posa delle armature e delle centine
 
 1\. Prima della posa delle armature e delle centine di sostegno delle opere di cui all'articolo precedente, e' fatto obbligo di assicurarsi della resistenza del terreno o delle strutture sulle quali esse debbono poggiare, in modo da prevenire cedimenti delle armature stesse o delle strutture sottostanti, con particolare riguardo a possibili degradazioni per presenza d'acqua.
 
-###### Art. 144
+##### Art. 144
 
 Resistenza delle armature
 
@@ -3938,7 +3872,7 @@ Resistenza delle armature
 
 2\. Il carico gravante al piede dei puntelli di sostegno deve essere opportunamente distribuito.
 
-###### Art. 145
+##### Art. 145
 
 Disarmo delle armature
 
@@ -3948,7 +3882,7 @@ Disarmo delle armature
 
 3\. Nel disarmo delle armature delle opere in calcestruzzo devono essere adottate le misure precauzionali previste dalle norme per la esecuzione delle opere in conglomerato cementizio.
 
-###### Art. 146
+##### Art. 146
 
 Difesa delle aperture
 
@@ -3958,7 +3892,7 @@ Difesa delle aperture
 
 3\. Le aperture nei muri prospicienti il vuoto o vani che abbiano una profondita' superiore a m 0,50 devono essere munite di normale parapetto e tavole fermapiede oppure essere convenientemente sbarrate in modo da impedire la caduta di persone.
 
-###### Art. 147
+##### Art. 147
 
 Scale in muratura
 
@@ -3968,7 +3902,7 @@ Scale in muratura
 
 3\. Sulle rampe delle scale in costruzione ancora mancanti di gradini, qualora non siano sbarrate per impedirvi il transito, devono essere fissati intavolati larghi almeno 60 centimetri, sui quali devono essere applicati trasversalmente listelli di legno posti a distanza non superiore a 40 centimetri.
 
-###### Art. 148
+##### Art. 148
 
 Lavori speciali
 
@@ -3976,7 +3910,7 @@ Lavori speciali
 
 2\. Nel caso in cui sia dubbia tale resistenza, devono essere adottati i necessari apprestamenti atti a garantire la incolumita' delle persone addette, disponendo, a seconda dei casi, tavole sopra le orditure, sottopalchi e facendo uso di idonei dispositivi di protezione individuale anticaduta.
 
-###### Art. 149
+##### Art. 149
 
 Paratoie e cassoni
 
@@ -3990,11 +3924,9 @@ b) provvisti dell'attrezzatura adeguata per consentire ai lavoratori di riparars
 
 3\. Il datore di lavoro assicura che le paratoie e i cassoni vengano ispezionati ad intervalli regolari.
 
-## Sezione VIII
+#### Sezione VIII - Demolizioni
 
-### Demolizioni
-
-###### Art. 150
+##### Art. 150
 
 Rafforzamento delle strutture
 
@@ -4002,7 +3934,7 @@ Rafforzamento delle strutture
 
 2\. In relazione al risultato di tale verifica devono essere eseguite le opere di rafforzamento e di puntellamento necessarie ad evitare che, durante la demolizione, si verifichino crolli intempestivi.
 
-###### Art. 151
+##### Art. 151
 
 Ordine delle demolizioni
 
@@ -4010,7 +3942,7 @@ Ordine delle demolizioni
 
 2\. La successione dei lavori deve risultare da apposito programma contenuto nel POS, tenendo conto di quanto indicato nel PSC, ove previsto, che deve essere tenuto a disposizione degli organi di vigilanza.
 
-###### Art. 152
+##### Art. 152
 
 Misure di sicurezza
 
@@ -4020,7 +3952,7 @@ Misure di sicurezza
 
 3\. Gli obblighi di cui ai commi 1 e 2 non sussistono quando trattasi di muri di altezza inferiore ai due metri.
 
-###### Art. 153
+##### Art. 153
 
 Convogliamento del materiale di demolizione
 
@@ -4034,7 +3966,7 @@ Convogliamento del materiale di demolizione
 
 5\. Durante i lavori di demolizione si deve provvedere a ridurre il sollevamento della polvere, irrorando con acqua le murature ed i materiali di risulta.
 
-###### Art. 154
+##### Art. 154
 
 Sbarramento della zona di demolizione
 
@@ -4042,7 +3974,7 @@ Sbarramento della zona di demolizione
 
 2\. L'accesso allo sbocco dei canali di scarico per il caricamento ed il trasporto del materiale accumulato deve essere consentito soltanto dopo che sia stato sospeso lo scarico dall'alto.
 
-###### Art. 155
+##### Art. 155
 
 Demolizione per rovesciamento
 
@@ -4056,17 +3988,15 @@ Demolizione per rovesciamento
 
 5\. Deve essere evitato in ogni caso che per lo scuotimento del terreno in seguito alla caduta delle strutture o di grossi blocchi possano derivare danni o lesioni agli edifici vicini o ad opere adiacenti pericolose per i lavoratori addetti.
 
-###### Art. 156
+##### Art. 156
 
 Verifiche
 
 1\. Il ((Ministro del lavoro, della salute e delle politiche sociali)), sentita la Commissione consultiva permanente, puo' stabilire l'obbligo di sottoporre a verifiche ponteggi e attrezzature per costruzioni, stabilendo le modalita' e l'organo tecnico incaricato.
 
-## Capo III
+### Capo III - Sanzioni
 
-### Sanzioni
-
-###### Art. 157 - Sanzioni per i committenti e i responsabili dei lavori
+##### Art. 157 - Sanzioni per i committenti e i responsabili dei lavori
 
 1\. Il committente o il responsabile dei lavori sono puniti:
 
@@ -4076,7 +4006,7 @@ b) con l'arresto da due a quattro mesi o con l'ammenda da 1.000 a 4.800 euro per
 
 ((c) con la sanzione amministrativa pecuniaria da 711,92 a 2.562,91 euro per la violazione degli articoli 90, commi 7, 9, lettere b-bis) e c), e 101, comma 1, primo periodo.))
 
-###### Art. 158
+##### Art. 158
 
 (( (Sanzioni per i coordinatori)
 
@@ -4088,7 +4018,7 @@ a) con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la 
 
 b) con l'arresto da due a quattro mesi o con l'ammenda da 1.000 a 4.800 euro per la violazione dell'articolo 92, comma 1, lettera d).))
 
-###### Art. 159
+##### Art. 159
 
 (( (Sanzioni per i datori di lavoro e dirigenti)
 
@@ -4106,7 +4036,7 @@ d) con la sanzione amministrativa pecuniaria da 500 a 1.800 euro per la violazio
 
 3\. La violazione di piu' precetti riconducibili alla categoria omogenea di requisiti di sicurezza relativi ai luoghi di lavoro di cui all'allegato XIII, nella parte relativa alle "Prescrizioni per i servizi igienico-assistenziali a disposizione dei lavoratori nei cantieri", punti 1, 2, 3, 4, 5 e 6, e nella parte relativa alle "Prescrizioni per i posti di lavoro nei cantieri" per i punti 1, 2, 3, 4, 5, 6, 7 e 8, e' considerata una unica violazione ed e' punita con la pena prevista dal comma 2, lettera c). L'organo di vigilanza e' tenuto a precisare in ogni caso, in sede di contestazione, i diversi precetti violati.))
 
-###### Art. 160
+##### Art. 160
 
 (( (Sanzioni per i lavoratori autonomi)
 
@@ -4118,15 +4048,11 @@ b) con l'arresto fino a un mese o con l'ammenda da 300 a 800 euro per la violazi
 
 c) con l'arresto fino a un mese o con l'ammenda da 200 a 600 euro per la violazione degli articoli 124, 138, commi 3 e 4, e 152, comma 2. ))
 
-## Titolo V
+## Titolo V - SEGNALETICA DI SALUTE E SICUREZZA SUL LAVORO
 
-### SEGNALETICA DI SALUTE E SICUREZZA SUL LAVORO
+### Capo I - Disposizioni generali
 
-#### Capo I
-
-##### Disposizioni generali
-
-###### Art. 161
+##### Art. 161
 
 Campo di applicazione
 
@@ -4136,7 +4062,7 @@ Campo di applicazione
 
 ((2-bis. Entro dodici mesi dalla data di entrata in vigore del presente decreto legislativo, con decreto dei Ministeri del lavoro, della salute e delle politiche sociali e delle infrastrutture e dei trasporti, acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentite le organizzazioni sindacali maggiormente rappresentative sul piano nazionale, e' emanato il regolamento per l'individuazione delle procedure di revisione, integrazione e apposizione della segnaletica stradale destinata alle attivita' lavorative che si svolgano in presenza di traffico veicolare.))
 
-###### Art. 162
+##### Art. 162
 
 Definizioni
 
@@ -4170,7 +4096,7 @@ o) comunicazione verbale: un messaggio verbale predeterminato, con impiego di vo
 
 p) segnale gestuale: un movimento o posizione delle braccia o delle mani in forma convenzionale per guidare persone che effettuano manovre implicanti un rischio o un pericolo attuale per i lavoratori.
 
-###### Art. 163
+##### Art. 163
 
 Obblighi del datore di lavoro
 
@@ -4180,7 +4106,7 @@ Obblighi del datore di lavoro
 
 3\. Il datore di lavoro, per regolare il traffico all'interno dell'impresa o dell'unita' produttiva, fa ricorso, se del caso, alla segnaletica prevista dalla legislazione vigente relativa al traffico stradale, ferroviario, fluviale, marittimo o aereo, fatto salvo quanto previsto nell'allegato XXVIII.
 
-###### Art. 164
+##### Art. 164
 
 Informazione e formazione
 
@@ -4190,11 +4116,9 @@ a) il rappresentante dei lavoratori per la sicurezza e i lavoratori siano inform
 
 b) i lavoratori ricevano una formazione adeguata, in particolare sotto forma di istruzioni precise, che deve avere per oggetto specialmente il significato della segnaletica di sicurezza, soprattutto quando questa implica l'uso di gesti o di parole, nonche' i comportamenti generali e specifici da seguire.
 
-## Capo II
+### Capo II - Sanzioni
 
-### Sanzioni
-
-###### Art. 165
+##### Art. 165
 
 (( (Sanzioni a carico del datore di lavoro e del dirigente)
 
@@ -4208,19 +4132,15 @@ b) con l'arresto da due a quattro mesi o con l'ammenda da 750 a 4.000 euro per l
 
 L'organo di vigilanza e' tenuto a precisare in ogni caso, in sede di contestazione, i diversi precetti violati.))
 
-###### Art. 166
+##### Art. 166
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2009, N. 106))
 
-## Titolo VI
+## Titolo VI - MOVIMENTAZIONE MANUALE DEI CARICHI
 
-### MOVIMENTAZIONE MANUALE DEI CARICHI
+### Capo I - Disposizioni generali
 
-#### Capo I
-
-##### Disposizioni generali
-
-###### Art. 167
+##### Art. 167
 
 Campo di applicazione
 
@@ -4232,7 +4152,7 @@ a) movimentazione manuale dei carichi: le operazioni di trasporto o di sostegno 
 
 b) patologie da sovraccarico biomeccanico: patologie delle strutture osteoarticolari, muscolotendinee e nervovascolari.
 
-###### Art. 168
+##### Art. 168
 
 Obblighi del datore di lavoro
 
@@ -4250,7 +4170,7 @@ d) sottopone i lavoratori alla sorveglianza sanitaria di cui all'articolo 41, su
 
 3\. Le norme tecniche costituiscono criteri di riferimento per le finalita' del presente articolo e dell'allegato XXXIII, ove applicabili. Negli altri casi si puo' fare riferimento alle buone prassi e alle linee guida.
 
-###### Art. 169
+##### Art. 169
 
 Informazione, formazione e addestramento
 
@@ -4262,11 +4182,9 @@ b) assicura ad essi la formazione adeguata in relazione ai rischi lavorativi ed 
 
 2\. Il datore di lavoro fornisce ai lavoratori l'addestramento adeguato in merito alle corrette manovre e procedure da adottare nella movimentazione manuale dei carichi.
 
-## Capo II
+### Capo II - Sanzioni
 
-### Sanzioni
-
-###### Art. 170
+##### Art. 170
 
 (( (Sanzioni a carico del datore di lavoro e del dirigente)
 
@@ -4276,19 +4194,15 @@ a) con l'arresto da tre a sei mesi o con l'ammenda da 2.500 fino a 6.400 euro pe
 
 b) con l'arresto da due a quattro mesi o con l'ammenda da 750 a 4.000 euro per la violazione dell'articolo 169, comma 1.))
 
-###### Art. 171
+##### Art. 171
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2009, N. 106))
 
-## Titolo VII
+## Titolo VII - ATTREZZATURE MUNITE DI VIDEOTERMINALI
 
-### ATTREZZATURE MUNITE DI VIDEOTERMINALI
+### Capo I - Disposizioni generali
 
-#### Capo I
-
-##### Disposizioni generali
-
-###### Art. 172
+##### Art. 172
 
 Campo di applicazione
 
@@ -4306,7 +4220,7 @@ d) alle macchine calcolatrici, ai registratori di cassa e a tutte le attrezzatur
 
 e) alle macchine di videoscrittura senza schermo separato.
 
-###### Art. 173
+##### Art. 173
 
 Definizioni
 
@@ -4318,11 +4232,9 @@ b) posto di lavoro: l'insieme che comprende le attrezzature munite di videotermi
 
 c) lavoratore: il lavoratore che utilizza un'attrezzatura munita di videoterminali, in modo sistematico o abituale, per venti ore settimanali, dedotte le interruzioni di cui all'articolo 175.
 
-## Capo II
+### Capo II - Obblighi del datore di lavoro, dei dirigenti e dei preposti
 
-### Obblighi del datore di lavoro, dei dirigenti e dei preposti
-
-###### Art. 174
+##### Art. 174
 
 Obblighi del datore di lavoro
 
@@ -4338,7 +4250,7 @@ c) alle condizioni ergonomiche e di igiene ambientale.
 
 3\. Il datore di lavoro organizza e predispone i posti di lavoro di cui all'articolo 173, in conformita' ai requisiti minimi di cui all'allegato XXXIV.
 
-###### Art. 175
+##### Art. 175
 
 Svolgimento quotidiano del lavoro
 
@@ -4356,7 +4268,7 @@ Svolgimento quotidiano del lavoro
 
 7\. La pausa e' considerata a tutti gli effetti parte integrante dell'orario di lavoro e, come tale, non e' riassorbibile all'interno di accordi che prevedono la riduzione dell'orario complessivo di lavoro.
 
-###### Art. 176
+##### Art. 176
 
 Sorveglianza sanitaria
 
@@ -4376,7 +4288,7 @@ b) ai rischi per l'apparato muscolo-scheletrico.
 
 6\. Il datore di lavoro fornisce a sue spese ai lavoratori i dispositivi speciali di correzione visiva, in funzione dell'attivita' svolta, quando l'esito delle visite di cui ai commi 1, 3 e 4 ne evidenzi la necessita' e non sia possibile utilizzare i dispositivi normali di correzione.
 
-###### Art. 177
+##### Art. 177
 
 Informazione e formazione
 
@@ -4392,11 +4304,9 @@ a) fornisce ai lavoratori informazioni, in particolare per quanto riguarda:
 
 b) assicura ai lavoratori una formazione adeguata in particolare in ordine a quanto indicato al comma 1, lettera a).
 
-## Capo III
+### Capo III - Sanzioni
 
-### Sanzioni
-
-###### Art. 178
+##### Art. 178
 
 (( (Sanzioni a carico del datore di lavoro e del dirigente)
 
@@ -4408,19 +4318,15 @@ b) con l'arresto da due a quattro mesi o con l'ammenda da 750 a 4.000 euro per l
 
 2\. La violazione di piu' precetti riconducibili alla categoria omogenea di requisiti di sicurezza relativi alle attrezzature munite di videoterminale di cui all'allegato XXXIV, punti 1, 2 e 3 e' considerata una unica violazione ed e' punita con la pena prevista dal comma 1, lettera a). L'organo di vigilanza e' tenuto a precisare in ogni caso, in sede di contestazione, i diversi precetti violati.))
 
-###### Art. 179
+##### Art. 179
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2009, N. 106))
 
-## Titolo VIII
+## Titolo VIII - AGENTI FISICI
 
-### AGENTI FISICI
+### Capo I - Disposizioni generali
 
-#### Capo I
-
-##### Disposizioni generali
-
-###### Art. 180
+##### Art. 180
 
 Definizioni e campo di applicazione
 
@@ -4430,7 +4336,7 @@ Definizioni e campo di applicazione
 
 ((3. La protezione dei lavoratori dalle radiazioni ionizzanti e' disciplinata, nel rispetto dei principi di cui al titolo I, dalle disposizioni speciali in materia)).
 
-###### Art. 181
+##### Art. 181
 
 Valutazione dei rischi
 
@@ -4440,7 +4346,7 @@ Valutazione dei rischi
 
 3\. Il datore di lavoro nella valutazione dei rischi precisa quali misure di prevenzione e protezione devono essere adottate. La valutazione dei rischi e' riportata sul documento di valutazione di cui all'articolo 28, essa puo' includere una giustificazione del datore di lavoro secondo cui la natura e l'entita' dei rischi non rendono necessaria una valutazione dei rischi piu' dettagliata.
 
-###### Art. 182
+##### Art. 182
 
 Disposizioni miranti ad eliminare o ridurre i rischi
 
@@ -4448,13 +4354,13 @@ Disposizioni miranti ad eliminare o ridurre i rischi
 
 2\. In nessun caso i lavoratori devono essere esposti a valori superiori ai valori limite di esposizione definiti nei capi II, III, IV e V. Allorche', nonostante i provvedimenti presi dal datore di lavoro in applicazione del presente capo i valori limite di esposizione risultino superati, il datore di lavoro adotta misure immediate per riportare l'esposizione al di sotto dei valori limite di esposizione, individua le cause del superamento dei valori limite di esposizione e adegua di conseguenza le misure di protezione e prevenzione per evitare un nuovo superamento.
 
-###### Art. 183
+##### Art. 183
 
 Lavoratori particolarmente sensibili
 
 1\. Il datore di lavoro adatta le misure di cui all'articolo 182 alle esigenze dei lavoratori appartenenti a gruppi particolarmente sensibili al rischio, incluse le donne in stato di gravidanza ed i minori.
 
-###### Art. 184
+##### Art. 184
 
 Informazione e formazione dei lavoratori
 
@@ -4474,7 +4380,7 @@ f) alle procedure di lavoro sicure per ridurre al minimo i rischi derivanti dall
 
 g) all'uso corretto di adeguati dispositivi di protezione individuale e alle relative indicazioni e controindicazioni sanitarie all'uso.
 
-###### Art. 185
+##### Art. 185
 
 Sorveglianza sanitaria
 
@@ -4488,23 +4394,21 @@ b) sottoporre a revisione le misure predisposte per eliminare o ridurre i rischi
 
 c) tenere conto del parere del medico competente nell'attuazione delle misure necessarie per eliminare o ridurre il rischio.
 
-###### Art. 186
+##### Art. 186
 
 Cartella sanitaria e di rischio
 
 1\. Nella cartella di cui all'articolo 25, comma 1, lettera c), il medico competente riporta i dati della sorveglianza sanitaria, ivi compresi i valori di esposizione individuali, ove previsti negli specifici capi del presente titolo, comunicati dal datore di lavoro per il tramite del servizio di prevenzione e protezione.
 
-## Capo II
+### Capo II - Protezione dei lavoratori contro i rischi di esposizione al rumore durante il lavoro
 
-### Protezione dei lavoratori contro i rischi di esposizione al rumore durante il lavoro
-
-###### Art. 187
+##### Art. 187
 
 Campo di applicazione
 
 1\. Il presente capo determina i requisiti minimi per la protezione dei lavoratori contro i rischi per la salute e la sicurezza derivanti dall'esposizione al rumore durante il lavoro e in particolare per l'udito.
 
-###### Art. 188
+##### Art. 188
 
 Definizioni
 
@@ -4516,7 +4420,7 @@ b) livello di esposizione giornaliera al rumore (LEX,8h): [dB(A) riferito a 20 \
 
 c) livello di esposizione settimanale al rumore (LEX,w): valore medio, ponderato in funzione del tempo, dei livelli di esposizione giornaliera al rumore per una settimana nominale di cinque giornate lavorative di otto ore, definito dalla norma internazionale ISO 1999: 1990 punto 3.6, nota 2.
 
-###### Art. 189
+##### Art. 189
 
 Valori limite di esposizione e valori di azione
 
@@ -4536,7 +4440,7 @@ b) siano adottate le adeguate misure per ridurre al minimo i rischi associati a 
 
 3\. Nel caso di variabilita' del livello di esposizione settimanale va considerato il livello settimanale massimo ricorrente.
 
-###### Art. 190
+##### Art. 190
 
 Valutazione del rischio
 
@@ -4572,7 +4476,7 @@ l) la disponibilita' di dispositivi di protezione dell'udito con adeguate caratt
 
 5-bis. ((L'emissione sonora di attrezzature di lavoro, macchine e impianti puo' essere stimata in fase preventiva facendo riferimento alle banche dati sul rumore approvate dalla Commissione consultiva permanente di cui all'articolo 6, riportando la fonte documentale cui si e' fatto riferimento.))
 
-###### Art. 191
+##### Art. 191
 
 Valutazione di attivita' a livello di esposizione molto variabile
 
@@ -4582,7 +4486,7 @@ b) l'informazione e la formazione; c) il controllo sanitario. In questo caso la 
 
 2\. Sul documento di valutazione di cui all'articolo 28, a fianco dei nominativi dei lavoratori cosi' classificati, va riportato il riferimento al presente articolo.
 
-###### Art. 192
+##### Art. 192
 
 Misure di prevenzione e protezione
 
@@ -4612,7 +4516,7 @@ g) riduzione del rumore mediante una migliore organizzazione del lavoro attraver
 
 4\. Nel caso in cui, data la natura dell'attivita', il lavoratore benefici dell'utilizzo di locali di riposo messi a disposizione dal datore di lavoro, il rumore in questi locali e' ridotto a un livello compatibile con il loro scopo e le loro condizioni di utilizzo.
 
-###### Art. 193
+##### Art. 193
 
 Uso dei dispositivi di protezione individuali
 
@@ -4628,7 +4532,7 @@ d) verifica l'efficacia dei dispositivi di protezione individuale dell'udito.
 
 2\. Il datore di lavoro tiene conto dell'attenuazione prodotta dai dispositivi di protezione individuale dell'udito indossati dal lavoratore solo ai fini di valutare l'efficienza dei DPI uditivi e il rispetto del valore limite di esposizione. I mezzi individuali di protezione dell'udito sono considerati adeguati ai fini delle presenti norme se, correttamente usati, ((e comunque rispettano le prestazioni richieste dalle normative tecniche)).
 
-###### Art. 194
+##### Art. 194
 
 Misure per la limitazione dell'esposizione
 
@@ -4640,13 +4544,13 @@ b) individua le cause dell'esposizione eccessiva;
 
 c) modifica le misure di protezione e di prevenzione per evitare che la situazione si ripeta.
 
-###### Art. 195
+##### Art. 195
 
 Informazione e formazione dei lavoratori
 
 1\. Fermo restando quanto previsto dall'articolo 184 nell'ambito degli obblighi di cui agli articoli 36 e 37, il datore di lavoro garantisce che i lavoratori esposti a valori uguali o superiori ai valori inferiori di azione vengano informati e formati in relazione ai rischi provenienti dall'esposizione al rumore.
 
-###### Art. 196
+##### Art. 196
 
 Sorveglianza sanitaria
 
@@ -4654,7 +4558,7 @@ Sorveglianza sanitaria
 
 2\. La sorveglianza sanitaria di cui al comma 1 e' estesa ai lavoratori esposti a livelli superiori ai valori inferiori di azione, su loro richiesta e qualora il medico competente ne confermi l'opportunita'.
 
-###### Art. 197
+##### Art. 197
 
 Deroghe
 
@@ -4666,23 +4570,21 @@ Deroghe
 
 4\. Il ((Ministero del lavoro, della salute e delle politiche sociali)) trasmette ogni quattro anni alla Commissione della Unione europea un prospetto globale e motivato delle deroghe concesse ai sensi del presente articolo.
 
-###### Art. 198
+##### Art. 198
 
 Linee Guida per i settori della musica delle attivita' ricreative e dei call center
 
 1\. Su proposta della Commissione permanente per la prevenzione degli infortuni e l'igiene del lavoro di cui all'articolo 6, sentite ((le)) parti sociali, ((entro due anni)) dalla data di entrata in vigore del presente capo, la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano definisce le linee guida per l'applicazione del presente capo nei settori della musica, delle attivita' ricreative e dei call center.
 
-## Capo III
+### Capo III - Protezione dei lavoratori dai rischi di esposizione a vibrazioni
 
-### Protezione dei lavoratori dai rischi di esposizione a vibrazioni
-
-###### Art. 199
+##### Art. 199
 
 Campo di applicazione
 
 1\. Il presente capo prescrive le misure per la tutela della salute e della sicurezza dei lavoratori che sono esposti o possono essere esposti a rischi derivanti da vibrazioni meccaniche. Nei riguardi dei soggetti indicati all'articolo 3, comma 2, del presente decreto legislativo le disposizioni del presente capo sono applicate tenuto conto delle particolari esigenze connesse al servizio espletato, quali individuate dai decreti ivi previsti.
 
-###### Art. 200
+##### Art. 200
 
 Definizioni
 
@@ -4696,7 +4598,7 @@ c) esposizione giornaliera a vibrazioni trasmesse al sistema mano-braccio A(8): 
 
 d) esposizione giornaliera a vibrazioni trasmesse al corpo intero A(8): [ms-2]: valore mediato nel tempo, ponderato, delle accelerazioni misurate per una giornata lavorativa nominale di otto ore.
 
-###### Art. 201
+##### Art. 201
 
 Valori limite di esposizione e valori d'azione
 
@@ -4716,7 +4618,7 @@ b) per le vibrazioni trasmesse al corpo intero:
 
 2\. Nel caso di variabilita' del livello di esposizione giornaliero va considerato il livello giornaliero massimo ricorrente.
 
-###### Art. 202
+##### Art. 202
 
 Valutazione dei rischi
 
@@ -4750,7 +4652,7 @@ h) condizioni di lavoro particolari, come le basse temperature, il bagnato, l'el
 
 i) informazioni raccolte dalla sorveglianza sanitaria, comprese, per quanto possibile, quelle reperibili nella letteratura scientifica.
 
-###### Art. 203
+##### Art. 203
 
 Misure di prevenzione e protezione
 
@@ -4776,7 +4678,7 @@ i) la fornitura, ai lavoratori esposti, di indumenti per la protezione dal fredd
 
 2\. Se, nonostante le misure adottate, il valore limite di esposizione e' stato superato, il datore di lavoro prende misure immediate per riportare l'esposizione al di sotto di tale valore, individua le cause del superamento e adatta, di conseguenza, le misure di prevenzione e protezione per evitare un nuovo superamento.
 
-###### Art. 204
+##### Art. 204
 
 Sorveglianza sanitaria
 
@@ -4784,7 +4686,7 @@ Sorveglianza sanitaria
 
 2\. I lavoratori esposti a vibrazioni sono altresi' sottoposti alla sorveglianza sanitaria quando, secondo il medico competente, si verificano una o piu' delle seguenti condizioni: l'esposizione dei lavoratori alle vibrazioni e' tale da rendere possibile l'individuazione di un nesso tra l'esposizione in questione e una malattia identificabile o ad effetti nocivi per la salute ed e' probabile che la malattia o gli effetti sopraggiungano nelle particolari condizioni di lavoro del lavoratore ed esistono tecniche sperimentate che consentono di individuare la malattia o gli effetti nocivi per la salute.
 
-###### Art. 205
+##### Art. 205
 
 Deroghe
 
@@ -4798,11 +4700,9 @@ Deroghe
 
 5\. Il ((Ministero del lavoro, della salute e delle politiche sociali)) trasmette ogni quattro anni alla Commissione della Unione europea un prospetto dal quale emergano circostanze e motivi delle deroghe concesse ai sensi del presente articolo.
 
-## Capo IV
+### Capo IV - Protezione dei lavoratori dai rischi di esposizione a campi elettromagnetici
 
-### Protezione dei lavoratori dai rischi di esposizione a campi elettromagnetici
-
-###### Art. 206
+##### Art. 206
 
 (( (Campo di applicazione).))
 
@@ -4814,7 +4714,7 @@ Deroghe
 
 4\. Per il personale che lavora presso impianti militari operativi o che partecipa ad attivita' militari, ivi comprese esercitazioni militari internazionali congiunte, in applicazione degli articoli 3, comma 2, e 13, comma 1-bis, ferme restando le disposizioni di cui agli articoli 182 e 210 del presente decreto, il sistema di protezione equivalente di cui all'articolo 10, paragrafo 1, lettera b), della direttiva 2013/35/UE e' costituito dalle particolari norme di tutela tecnico-militare per la sicurezza e la salute del personale, di cui agli articoli 245 e 253 del decreto del Presidente della Repubblica 15 marzo 2010, n. 90, nel rispetto dei criteri ivi previsti)).
 
-###### Art. 207
+##### Art. 207
 
 (( (Definizioni).))
 
@@ -4856,7 +4756,7 @@ Nell'allegato XXXVI, parte II:
 
 2\) per i campi magnetici, per "VA inferiori" s'intendono i valori connessi ai VLE relativi agli effetti sensoriali e per "VA superiori" i valori connessi ai VLE relativi agli effetti sanitari.))
 
-###### Art. 208
+##### Art. 208
 
 (( (Valori limite di esposizione e valori di azione). ))
 
@@ -4916,7 +4816,7 @@ f) le azioni adottate in caso di sintomi transitori;
 
 g) le informazioni fornite ai lavoratori e ai rappresentanti dei lavoratori per la sicurezza sulle situazioni di rischio di cui all'articolo 210-bis, comma 1, lettera b) )).
 
-###### Art. 209
+##### Art. 209
 
 (( (Valutazione dei rischi e identificazione dell'esposizione).))
 
@@ -4960,7 +4860,7 @@ n) esposizione simultanea a campi di frequenze diverse.
 
 7\. Fatti salvi gli articoli 50, 184, 210 e 210-bis del presente decreto, il datore di lavoro privato puo' consentire l'accesso al documento di valutazione di cui al comma 1 in tutti i casi in cui vi sia interesse e in conformita' alle disposizioni vigenti e lo puo' negare qualora tale accesso pregiudichi la tutela dei propri interessi commerciali, compresi quelli relativi alla proprieta' intellettuale e in conformita' alle disposizioni vigenti. Per i documenti di valutazione dei rischi elaborati o detenuti da pubbliche amministrazioni, si applica la disciplina del decreto legislativo 14 marzo 2013, n. 33. Qualora la valutazione contenga i dati personali dei lavoratori, l'accesso avviene nel rispetto delle disposizioni di cui al decreto legislativo 30 giugno 2003, n. 196.))
 
-###### Art. 210
+##### Art. 210
 
 (( (Disposizioni miranti ad eliminare o ridurre i rischi). ))
 
@@ -5002,7 +4902,7 @@ a) percezioni ed effetti sensoriali nel funzionamento del sistema nervoso centra
 
 b) effetti indotti da campi magnetici statici, quali vertigini e nausea.))
 
-###### Art. 210-bis
+##### Art. 210-bis
 
 (( (Informazione e formazione dei lavoratori e dei rappresentanti dei lavoratori per la sicurezza).))
 
@@ -5014,7 +4914,7 @@ b) alla possibilita' di sensazioni e sintomi transitori dovuti a effetti sul sis
 
 c) alla possibilita' di rischi specifici nei confronti di lavoratori appartenenti a gruppi particolarmente sensibili al rischio, quali i soggetti portatori di dispositivi medici o di protesi metalliche e le lavoratrici in stato di gravidanza.))
 
-###### Art. 211
+##### Art. 211
 
 (( (Sorveglianza sanitaria).))
 
@@ -5024,7 +4924,7 @@ c) alla possibilita' di rischi specifici nei confronti di lavoratori appartenent
 
 3\. I controlli e la sorveglianza di cui al presente articolo sono effettuati, a cura e spese del datore di lavoro, in orario scelto da lavoratore.))
 
-###### Art. 212
+##### Art. 212
 
 (( (Deroghe). ))
 
@@ -5044,17 +4944,15 @@ e) il datore di lavoro dimostra che i lavoratori sono sempre protetti contro gli
 
 f) nel caso di installazione, controllo, uso, sviluppo e manutenzione degli apparati di Risonanza magnetica (RM) per i pazienti nel settore sanitario o della ricerca correlata, il datore di lavoro dimostra che i lavoratori sono sempre protetti dagli effetti nocivi per la salute e dai rischi per la sicurezza, assicurando in particolare che siano seguite le istruzioni per l'uso in condizioni di sicurezza fornite dal fabbricante ai sensi del decreto legislativo 24 febbraio 1997, n. 46, e successive modificazioni, concernente "Attuazione della direttiva 93/42/CEE, concernente i dispositivi medici.")).
 
-## Capo V
+### Capo V - Protezione dei lavoratori dai rischi di esposizione a radiazioni ottiche artificiali
 
-### Protezione dei lavoratori dai rischi di esposizione a radiazioni ottiche artificiali
-
-###### Art. 213
+##### Art. 213
 
 Campo di applicazione
 
 1\. Il presente capo stabilisce prescrizioni minime di protezione dei lavoratori contro i rischi per la salute e la sicurezza che possono derivare, dall'esposizione alle radiazioni ottiche artificiali durante il lavoro con particolare riguardo ai rischi dovuti agli effetti nocivi sugli occhi e sulla cute.
 
-###### Art. 214
+##### Art. 214
 
 Definizioni
 
@@ -5084,7 +4982,7 @@ h) radianza (L): il flusso radiante o la potenza per unita' d'angolo solido per 
 
 i) livello: la combinazione di irradianza, esposizione radiante e radianza alle quali e' esposto un lavoratore.
 
-###### Art. 215
+##### Art. 215
 
 Valori limite di esposizione
 
@@ -5092,7 +4990,7 @@ Valori limite di esposizione
 
 2\. I valori limite di esposizione per le radiazioni laser sono riportati nell'allegato XXXVII, parte II.
 
-###### Art. 216
+##### Art. 216
 
 Identificazione dell'esposizione e valutazione dei rischi
 
@@ -5124,7 +5022,7 @@ m) le informazioni fornite dai fabbricanti delle sorgenti di radiazioni ottiche 
 
 3\. Il datore di lavoro nel documento di valutazione dei rischi deve precisare le misure adottate previste dagli articoli 217 e 218.
 
-###### Art. 217
+##### Art. 217
 
 Disposizioni miranti ad eliminare o a ridurre i rischi
 
@@ -5152,7 +5050,7 @@ Dette aree sono inoltre identificate e l'accesso alle stesse e' limitato, laddov
 
 3\. Il datore di lavoro adatta le misure di cui al presente articolo alle esigenze dei lavoratori appartenenti a gruppi particolarmente sensibili al rischio.
 
-###### Art. 218
+##### Art. 218
 
 Sorveglianza sanitaria
 
@@ -5166,11 +5064,9 @@ a) il medico o altra persona debitamente qualificata comunica al lavoratore i ri
 
 b) il datore di lavoro e' informato di tutti i dati significativi emersi dalla sorveglianza sanitaria tenendo conto del segreto professionale.
 
-## Capo VI
+### Capo VI - Sanzioni
 
-### Sanzioni
-
-###### Art. 219 - Sanzioni a carico del datore di lavoro e del dirigente
+##### Art. 219 - Sanzioni a carico del datore di lavoro e del dirigente
 
 1\. Il datore di lavoro e' punito:
 
@@ -5184,21 +5080,17 @@ a) con arresto da tre a sei mesi o con l'ammenda da 2.000 a 4.000 euro per la vi
 
 b) con l'arresto da due a quattro mesi o con l'ammenda da euro 750 a euro 4.000 per la violazione degli articoli 184, 192, comma 3, primo periodo((, 210, commi da 3 a 8.)) e 217, commi 2 e 3.
 
-###### Art. 220
+##### Art. 220
 
 (( (Sanzioni a carico del medico competente)
 
 1\. Il medico competente e' punito con l'arresto fino tre mesi o con l'ammenda da 400 a 1.600 euro per la violazione degli articoli 185 e 186.))
 
-## Titolo IX
+## Titolo IX - SOSTANZE PERICOLOSE
 
-### SOSTANZE PERICOLOSE
+### Capo I - Protezione da agenti chimici
 
-#### Capo I
-
-##### Protezione da agenti chimici
-
-###### Art. 221
+##### Art. 221
 
 Campo di applicazione
 
@@ -5256,7 +5148,7 @@ Campo di applicazione
 
 > l) «spedizioniere/caricatore»: una persona che ha stipulato un contratto per il trasporto di merci via mare, o la persona nel cui nome o per conto della quale, viene stipulato il contratto.».
 
-###### Art. 222
+##### Art. 222
 
 Definizioni
 
@@ -5298,7 +5190,7 @@ AGGIORNAMENTO (30)
 
 L'avviso di rettifica (in G.U. 26/5/2016, n. 122) nel modificare l'art. 1, comma 1, lettera a) del D.Lgs. 15 febbraio 2016, n. 39 ha conseguentemente disposto il venir meno della modifica disposta dal suindicato D.Lgs. 39/2016.
 
-###### Art. 223
+##### Art. 223
 
 Valutazione dei rischi
 
@@ -5330,7 +5222,7 @@ g) se disponibili, le conclusioni tratte da eventuali azioni di sorveglianza san
 
 7\. Il datore di lavoro aggiorna periodicamente la valutazione e, comunque, in occasione di notevoli mutamenti che potrebbero averla resa superata ovvero quando i risultati della sorveglianza medica ne mostrino la necessita'.
 
-###### Art. 224
+##### Art. 224
 
 Misure e principi generali per la prevenzione dei rischi
 
@@ -5352,7 +5244,7 @@ g) metodi di lavoro appropriati comprese le disposizioni che garantiscono la sic
 
 2\. Se i risultati della valutazione dei rischi dimostrano che, in relazione al tipo e alle quantita' di un agente chimico pericoloso e alle modalita' e frequenza di esposizione a tale agente presente sul luogo di lavoro, vi e' solo un rischio basso per la sicurezza e irrilevante per la salute dei lavoratori e che le misure di cui al comma 1 sono sufficienti a ridurre il rischio, non si applicano le disposizioni degli articoli 225, 226, 229, 230.
 
-###### Art. 225
+##### Art. 225
 
 Misure specifiche di protezione e di prevenzione
 
@@ -5384,7 +5276,7 @@ b) limitare, anche attraverso misure procedurali ed organizzative previste dalla
 
 8\. Il datore di lavoro informa i lavoratori del superamento dei valori limite di esposizione professionale, delle cause dell'evento e delle misure di prevenzione e protezione adottate e ne da' comunicazione, senza indugio, all'organo di vigilanza. ((Tale comunicazione puo' essere effettuata in via telematica, anche per mezzo degli organismi paritetici o delle organizzazioni sindacali dei datori di lavoro.))
 
-###### Art. 226
+##### Art. 226
 
 Disposizioni in caso di incidenti o di emergenze
 
@@ -5404,7 +5296,7 @@ b) qualunque altra informazione disponibile sui rischi specifici derivanti o che
 
 6\. Nel caso di incidenti o di emergenza i soggetti non protetti devono immediatamente abbandonare la zona interessata.
 
-###### Art. 227
+##### Art. 227
 
 Informazione e formazione per i lavoratori
 
@@ -5428,7 +5320,7 @@ b) aggiornate per tener conto del cambiamento delle circostanze.
 
 ((4. Il fornitore deve trasmettere ai datori di lavoro tutte le informazioni concernenti gli agenti chimici pericolosi prodotti o forniti secondo quanto stabilito dal regolamento (CE) n. 1907/2006.))
 
-###### Art. 228
+##### Art. 228
 
 Divieti
 
@@ -5458,7 +5350,7 @@ d) descrizione delle attivita' e delle reazioni o processi;
 
 e) misure previste per la tutela della salute e sicurezza e per prevenire l'esposizione dei lavoratori.
 
-###### Art. 229
+##### Art. 229
 
 Sorveglianza sanitaria
 
@@ -5492,7 +5384,7 @@ d) prendere le misure affinche' sia effettuata una visita medica straordinaria p
 
 8\. L'organo di vigilanza, con provvedimento motivato, puo' disporre contenuti e periodicita' della sorveglianza sanitaria diversi rispetto a quelli definiti dal medico competente.
 
-###### Art. 230
+##### Art. 230
 
 Cartelle sanitarie e di rischio
 
@@ -5500,13 +5392,13 @@ Cartelle sanitarie e di rischio
 
 2\. Su richiesta, e' fornita agli organi di vigilanza copia dei documenti di cui al comma 1.
 
-###### Art. 231
+##### Art. 231
 
 Consultazione e partecipazione dei lavoratori
 
 1\. La consultazione e partecipazione dei lavoratori o dei loro rappresentanti sono attuate ai sensi delle disposizioni di cui all'articolo 50.
 
-###### Art. 232
+##### Art. 232
 
 Adeguamenti normativi
 
@@ -5522,17 +5414,15 @@ AGGIORNAMENTO (59)
 
 Il D.Lgs. 4 settembre 2024, n. 135 ha disposto (con l'art. 7, comma 1, lettera a)) che "al comma 1, secondo periodo, [...] dopo le parole: «Ministero del lavoro e della previdenza sociale» sono aggiunte le seguenti: «, su proposta dell'INAIL»".
 
-## Capo II
+### Capo II - ((Protezione da agenti cancerogeni, mutageni o da sostanze tossiche per la riproduzione))
 
-### ((Protezione da agenti cancerogeni, mutageni o da sostanze tossiche per la riproduzione))
-
-###### Art. 233
+##### Art. 233
 
 Campo di applicazione
 
 1\. Fatto salvo quanto previsto per le attivita' disciplinate dal capo III e per i lavoratori esposti esclusivamente alle radiazioni previste dal trattato che istituisce la Comunita' europea dell'energia atomica, le norme del presente titolo si applicano a tutte le attivita' nelle quali i lavoratori sono o possono essere esposti ((ad agenti cancerogeni, mutageni o a sostanze tossiche per la riproduzione)) a causa della loro attivita' lavorativa.
 
-###### Art. 234
+##### Art. 234
 
 Definizioni
 
@@ -5560,11 +5450,9 @@ c) valore limite: se non altrimenti specificato, ((il limite della concentrazion
 
 c-ter) sorveglianza sanitaria: la valutazione dello stato di salute di un singolo lavoratore in funzione dell'esposizione a specifici agenti cancerogeni, mutageni o sostanze tossiche per la riproduzione durante il lavoro.))
 
-## Sezione II
+#### Sezione II - Obblighi del datore di lavoro
 
-### Obblighi del datore di lavoro
-
-###### Art. 235
+##### Art. 235
 
 Sostituzione e riduzione
 
@@ -5580,7 +5468,7 @@ Sostituzione e riduzione
 
 3-quater. L'esposizione non deve superare il valore limite dell'agente cancerogeno, mutageno o della sostanza tossica per la riproduzione stabilito nell'allegato XLIII.))
 
-###### Art. 236
+##### Art. 236
 
 Valutazione del rischio
 
@@ -5608,7 +5496,7 @@ f) le indagini svolte per la possibile sostituzione degli agenti cancerogeni, mu
 
 6\. Il rappresentante per la sicurezza puo' richiedere i dati di cui al comma 4, fermo restando l'obbligo di cui all'articolo 50, comma 6.
 
-###### Art. 237
+##### Art. 237
 
 Misure tecniche, organizzative, procedurali
 
@@ -5632,7 +5520,7 @@ h) assicura che la raccolta e l'immagazzinamento, ai fini dello smaltimento degl
 
 i) dispone, su conforme parere del medico competente, misure protettive particolari con quelle categorie di lavoratori per i quali l'esposizione ((a taluni agenti cancerogeni, mutageni o a sostanze tossiche per la riproduzione)) presenta rischi particolarmente elevati.
 
-###### Art. 238
+##### Art. 238
 
 Misure tecniche
 
@@ -5646,7 +5534,7 @@ c) provvede affinche' i dispositivi di protezione individuale siano custoditi in
 
 2\. Nelle zone di lavoro di cui all'articolo 237, comma 1, lettera b), e' vietato assumere cibi e bevande, fumare, conservare cibi destinati al consumo umano, usare pipette a bocca e applicare cosmetici.
 
-###### Art. 239
+##### Art. 239
 
 Informazione e formazione
 
@@ -5672,7 +5560,7 @@ e) il modo di prevenire il verificarsi di incidenti e le misure da adottare per 
 
 ((4. Il datore di lavoro provvede inoltre affinche' gli impianti, i contenitori, gli imballaggi contenenti agenti cancerogeni o mutageni o sostanze tossiche per la riproduzione siano etichettati in maniera chiaramente leggibile e comprensibile in conformita' al regolamento (CE) n. 1272/2008 o ad altre normative applicabili.))
 
-###### Art. 240
+##### Art. 240
 
 Esposizione non prevedibile
 
@@ -5682,7 +5570,7 @@ Esposizione non prevedibile
 
 3\. Il datore di lavoro comunica senza indugio all'organo di vigilanza il verificarsi degli eventi di cui al comma 1 indicando analiticamente le misure adottate per ridurre al minimo le conseguenze dannose o pericolose. Tale comunicazione puo' essere effettuata in via telematica, anche per mezzo degli organismi paritetici o delle organizzazioni sindacali dei datori di lavoro.
 
-###### Art. 241
+##### Art. 241
 
 Operazioni lavorative particolari
 
@@ -5694,11 +5582,9 @@ b) fornisce ai lavoratori speciali indumenti e dispositivi di protezione individ
 
 2\. La presenza nelle aree di cui al comma 1 dei lavoratori addetti e' in ogni caso ridotta al tempo strettamente necessario con riferimento alle lavorazioni da espletare.
 
-## Sezione III
+#### Sezione III - Sorveglianza sanitaria
 
-### Sorveglianza sanitaria
-
-###### Art. 242
+##### Art. 242
 
 Accertamenti sanitari e norme preventive e protettive specifiche
 
@@ -5718,7 +5604,7 @@ b) ove sia tecnicamente possibile, una misurazione della concentrazione dell'age
 
 6\. Il medico competente fornisce ai lavoratori adeguate informazioni sulla sorveglianza sanitaria cui sono sottoposti e, ove ne ricorrano le condizioni, segnala la necessita' che la stessa prosegua anche dopo che e' cessata l'esposizione, per il periodo di tempo che ritiene necessario per la tutela della salute del lavoratore interessato. Il medico competente fornisce, altresi', al lavoratore indicazioni riguardo all'opportunita' di sottoporsi ad accertamenti sanitari, anche dopo la cessazione dell'attivita' lavorativa, sulla base dello stato di salute del medesimo e dell'evoluzione delle conoscenze scientifiche.
 
-###### Art. 243
+##### Art. 243
 
 Registro di esposizione e cartelle sanitarie
 
@@ -5750,7 +5636,7 @@ d) in caso di assunzione di lavoratori che hanno in precedenza esercitato attivi
 
 ((10. L'INAIL trasmette annualmente al Ministero del lavoro e delle politiche sociali e al Ministero della salute i dati di sintesi relativi al contenuto dei registri di cui al comma 1 e a richiesta li rende disponibili alle regioni.))
 
-###### Art. 244
+##### Art. 244
 
 Registrazione dei tumori e degli effetti nocivi sulla funzione sessuale e sulla fertilita'
 
@@ -5772,7 +5658,7 @@ c-bis) ai casi di effetti avversi per la salute da esposizione a sostanze tossic
 
 5\. I contenuti, le modalita' di tenuta, raccolta e trasmissione delle informazioni e di realizzazione complessiva dei sistemi di monitoraggio di cui ai commi 1 e 3 sono determinati dal Ministero del lavoro, della salute e delle politiche sociali, d'intesa con le regioni e province autonome.
 
-###### Art. 245
+##### Art. 245
 
 Adeguamenti normativi
 
@@ -5784,21 +5670,17 @@ a) sono aggiornati gli allegati XLII e XLIII in funzione del progresso tecnico, 
 
 b) e' pubblicato l'elenco delle sostanze in funzione dell'individuazione effettuata ai sensi del comma 1.
 
-## Capo III
+### Capo III - Protezione dai rischi connessi all'esposizione all'amianto
 
-### Protezione dai rischi connessi all'esposizione all'amianto
+#### Sezione I - Disposizioni generali
 
-#### Sezione I
-
-##### Disposizioni generali
-
-###### Art. 246
+##### Art. 246
 
 (( (Campo di applicazione). ))
 
 1\. ((Fermo restando quanto previsto dalla legge 27 marzo 1992, n. 257, le norme del presente decreto si applicano a tutte le attivita' lavorative, ivi compresi i lavori di manutenzione, ristrutturazione e demolizione, la rimozione dell'amianto o dei materiali contenenti amianto, lo smaltimento e il trattamento dei relativi rifiuti, nonche' la bonifica delle aree interessate, l'attivita' estrattiva o di scavo in pietre verdi, la lotta antincendio o gestione delle emergenze in eventi naturali estremi, nelle quali vi e' rischio per la salute dei lavoratori, che deriva o puo' derivare dall'esposizione all'amianto, durante il lavoro.))
 
-###### Art. 247
+##### Art. 247
 
 Definizioni
 
@@ -5816,11 +5698,9 @@ e) la crocidolite, n. CAS 12001-28-4;
 
 f) la tremolite d'amianto, n. CAS 77536-68-6.
 
-## Sezione II
+#### Sezione II - Obblighi del datore di lavoro
 
-### Obblighi del datore di lavoro
-
-###### Art. 248
+##### Art. 248
 
 Individuazione della presenza di amianto
 
@@ -5828,7 +5708,7 @@ Individuazione della presenza di amianto
 
 2\. Se vi e' il minimo dubbio sulla presenza di amianto in un materiale o in una costruzione, si applicano le disposizioni previste dal presente capo.
 
-###### Art. 249
+##### Art. 249
 
 Valutazione del rischio
 
@@ -5850,7 +5730,7 @@ d) sorveglianza e controllo dell'aria e prelievo dei campioni ai fini dell'indiv
 
 4\. La Commissione consultiva permanente di cui all'articolo 6 provvede a definire orientamenti pratici per la determinazione delle esposizioni sporadiche e di debole intensita', di cui al comma 2.
 
-###### Art. 250
+##### Art. 250
 
 Notifica
 
@@ -5876,7 +5756,7 @@ f) delle misure adottate per limitare l'esposizione dei lavoratori all'amianto u
 
 4\. Il datore di lavoro, ogni qualvolta una modifica delle condizioni di lavoro possa comportare un aumento significativo dell'esposizione alla polvere proveniente dall'amianto o da materiali contenenti amianto, effettua una nuova notifica.
 
-###### Art. 251
+##### Art. 251
 
 Misure di prevenzione e protezione
 
@@ -5910,7 +5790,7 @@ h) ((i rifiuti di cui alla lettera g) sono raccolti e rimossi dal luogo di lavor
 
 Per i rifiuti derivanti da attivita' estrattive o di scavo in pietre verdi si applica la normativa specifica di riferimento.))
 
-###### Art. 252
+##### Art. 252
 
 Misure igieniche
 
@@ -5936,7 +5816,7 @@ f) i lavoratori possano disporre di impianti sanitari adeguati, provvisti di doc
 
 g) l'equipaggiamento protettivo sia custodito in locali a tale scopo destinati e controllato e pulito dopo ogni utilizzazione: siano prese misure per riparare o sostituire l'equipaggiamento difettoso o deteriorato prima di ogni utilizzazione.
 
-###### Art. 253
+##### Art. 253
 
 Controllo dell'esposizione
 
@@ -5956,7 +5836,7 @@ Controllo dell'esposizione
 
 7\. Ai fini della misurazione dell'amianto nell'aria, di cui al comma l, si prendono in considerazione unicamente le fibre che abbiano una lunghezza superiore a cinque micrometri e una larghezza inferiore a tre micrometri e il cui rapporto lunghezza/larghezza sia superiore a 3:1.
 
-###### Art. 254
+##### Art. 254
 
 Valore limite
 
@@ -5972,7 +5852,7 @@ Dal 21 dicembre 2029, i datori di lavoro provvedono affinche' nessun lavoratore 
 
 5\. Nell'ipotesi di cui al comma 4, il datore di lavoro, previa consultazione con i lavoratori o i loro rappresentanti, assicura i periodi di riposo ((regolari)), in funzione dell'impegno fisico e delle condizioni climatiche.
 
-###### Art. 255
+##### Art. 255
 
 Operazioni lavorative particolari
 
@@ -5986,7 +5866,7 @@ c) ((adotta le misure necessarie per impedire la dispersione della polvere al di
 
 d) consulta i lavoratori o i loro rappresentanti di cui all'articolo 46 sulle misure da adottare prima di procedere a tali attivita'.
 
-###### Art. 256
+##### Art. 256
 
 Lavori di demolizione o rimozione dell'amianto
 
@@ -6024,7 +5904,7 @@ l) caratteristiche delle attrezzature o dispositivi che si intendono utilizzare 
 
 7\. Il datore di lavoro provvede affinche' i lavoratori o i loro rappresentanti abbiano accesso alla documentazione di cui al comma 4.
 
-###### Art. 257
+##### Art. 257
 
 Informazione dei lavoratori
 
@@ -6042,7 +5922,7 @@ e) l'esistenza del valore limite di cui all'articolo 254 e la necessita' del mon
 
 2\. Oltre a quanto previsto al comma l, qualora dai risultati delle misurazioni della concentrazione di amianto nell'aria emergano valori superiori al valore limite fissato dall'articolo 254, il datore di lavoro informa il piu' presto possibile i lavoratori interessati e i loro rappresentanti del superamento e delle cause dello stesso e li consulta sulle misure da adottare o, nel caso in cui ragioni di urgenza non rendano possibile la consultazione preventiva, il datore di lavoro informa tempestivamente i lavoratori interessati e i loro rappresentanti delle misure adottate.
 
-###### Art. 258
+##### Art. 258
 
 Formazione dei lavoratori
 
@@ -6074,7 +5954,7 @@ i) la necessita' della sorveglianza medica.
 
 3-bis. ((I lavoratori che effettuano lavori di demolizione o di rimozione dell'amianto sono tenuti a ricevere, oltre alla formazione prevista ai sensi del comma 2, una formazione relativa all'uso di attrezzature tecnologiche e macchine per contenere l'emissione e la dispersione di fibre di amianto durante i processi lavorativi.))
 
-###### Art. 259
+##### Art. 259
 
 Sorveglianza sanitaria
 
@@ -6084,7 +5964,7 @@ Sorveglianza sanitaria
 
 4\. Il medico competente, sulla base dell'evoluzione delle conoscenze scientifiche e dello stato di salute del lavoratore, valuta l'opportunita' di effettuare altri esami quali la citologia dell'espettorato, l'esame radiografico del torace o la tomodensitometria. Ai fini della valutazione di cui al primo periodo il medico competente privilegia gli esami non invasivi e quelli per i quali e' documentata l'efficacia diagnostica.
 
-###### Art. 260
+##### Art. 260
 
 Registro di esposizione e cartelle sanitarie e di rischio
 
@@ -6096,17 +5976,15 @@ Registro di esposizione e cartelle sanitarie e di rischio
 
 4\. L'((INAIL)) provvede a conservare i documenti di cui al comma 3 per un periodo di quaranta anni dalla cessazione dell'esposizione.
 
-###### Art. 261
+##### Art. 261
 
 (( (Patologie da amianto). ))
 
 1\. ((In tutti i casi di malattia professionale correlati all'amianto con diagnosi medica di patologie di cui all'allegato XLIII-ter trovano applicazione le disposizioni contenute nell'articolo 244, comma 3.))
 
-## Capo IV
+### Capo IV - Sanzioni
 
-### Sanzioni
-
-###### Art. 262 - Sanzioni per il datore di lavoro e il dirigente
+##### Art. 262 - Sanzioni per il datore di lavoro e il dirigente
 
 1\. Il datore di lavoro e' punito:
 
@@ -6124,7 +6002,7 @@ c) con l'arresto fino a tre mesi o con l'ammenda da 800 a 2.000 euro ((per la vi
 
 d) con la sanzione amministrativa pecuniaria da 500 a 1.800 euro per la violazione degli articoli 243, commi 3, 4, 5, 6 e 8, 253, comma 3, e 260, commi 2 e 3.
 
-###### Art. 263
+##### Art. 263
 
 (( (Sanzioni per il preposto)
 
@@ -6134,7 +6012,7 @@ a) con l'arresto sino a due mesi o con l'ammenda da 400 a 1.600 euro per la viol
 
 b) con l'arresto fino a un mese o con l'ammenda da 250 a 1000 euro per la violazione degli articoli 229, commi 1, 2, 3 e 5, e 239, commi 1, 2 e 4.))
 
-###### Art. 264
+##### Art. 264
 
 (( Sanzioni per il medico competente
 
@@ -6144,23 +6022,21 @@ a) con l'arresto fino a due mesi o con l'ammenda da 300 a 1.200 euro per la viol
 
 b) con l'arresto fino a un mese o con l'ammenda da 200 a 800 euro per la violazione dell'articolo 243, comma 2.))
 
-###### Art. 264-bis
+##### Art. 264-bis
 
 (( (Sanzioni concernenti il divieto di assunzione in luoghi esposti)
 
 1\. Chiunque viola le disposizioni di cui all'articolo 238, comma 2, e' punito con la sanzione amministrativa pecuniaria da 100 a 450 euro.))
 
-###### Art. 265
+##### Art. 265
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2009, N. 106))
 
-## Titolo X
+## Titolo X - ESPOSIZIONE AD AGENTI BIOLOGICI
 
-### ESPOSIZIONE AD AGENTI BIOLOGICI
+### Capo I
 
-#### Capo I
-
-###### Art. 266
+##### Art. 266
 
 Campo di applicazione
 
@@ -6168,7 +6044,7 @@ Campo di applicazione
 
 2\. Restano ferme le disposizioni particolari di recepimento delle norme comunitarie sull'impiego confinato di microrganismi geneticamente modificati e sull'emissione deliberata nell'ambiente di organismi geneticamente modificati.
 
-###### Art. 267
+##### Art. 267
 
 Definizioni
 
@@ -6180,7 +6056,7 @@ b) microrganismo: qualsiasi entita' microbiologica, cellulare o meno, in grado d
 
 c) coltura cellulare: il risultato della crescita in vitro di cellule derivate da organismi pluricellulari.
 
-###### Art. 268
+##### Art. 268
 
 Classificazione degli agenti biologici
 
@@ -6198,7 +6074,7 @@ d) agente biologico del gruppo 4: un agente biologico che puo' provocare malatti
 
 3\. L'allegato XLVI riporta l'elenco degli agenti biologici classificati nei gruppi 2, 3 e 4.
 
-###### Art. 269
+##### Art. 269
 
 Comunicazione
 
@@ -6222,7 +6098,7 @@ b) il documento di cui all'articolo 271, comma 5.
 
 > \- Il testo dell'allegato IV del decreto legislativo 12 aprile 2001, n. 206 (Attuazione della direttiva 98/81/CE che modifica la direttiva 90/219/CE, concernente l'impiego confinato di microrganismi geneticamente modificati), e' pubblicato nella Gazzetta Ufficiale 1° giugno 2001, n. 126, supplemento ordinario.
 
-###### Art. 270
+##### Art. 270
 
 Autorizzazione
 
@@ -6242,11 +6118,9 @@ b) l'elenco degli agenti che si intende utilizzare.
 
 6\. Il ((Ministero del lavoro, della salute e delle politiche sociali)) comunica all'organo di vigilanza competente per territorio le autorizzazioni concesse e le variazioni sopravvenute nell'utilizzazione di agenti biologici del gruppo 4. Il ((Ministero del lavoro, della salute e delle politiche sociali)) istituisce ed aggiorna un elenco di tutti gli agenti biologici del gruppo 4 dei quali e' stata comunicata l'utilizzazione sulla base delle previsioni di cui ai commi 1 e 4.
 
-## Capo II
+### Capo II - Obblighi del datore di lavoro
 
-### Obblighi del datore di lavoro
-
-###### Art. 271
+##### Art. 271
 
 Valutazione del rischio
 
@@ -6284,7 +6158,7 @@ e) il programma di emergenza per la protezione dei lavoratori contro i rischi di
 
 6\. Il rappresentante per la sicurezza e' consultato prima dell'effettuazione della valutazione di cui al comma 1 ed ha accesso anche ai dati di cui al comma 5.
 
-###### Art. 272
+##### Art. 272
 
 Misure tecniche, organizzative, procedurali
 
@@ -6314,7 +6188,7 @@ l) predispone i mezzi necessari per la raccolta, l'immagazzinamento e lo smaltim
 
 m) concorda procedure per la manipolazione ed il trasporto in condizioni di sicurezza di agenti biologici all'interno ((e all'esterno)) del luogo di lavoro.
 
-###### Art. 273
+##### Art. 273
 
 Misure igieniche
 
@@ -6330,7 +6204,7 @@ d) gli indumenti di lavoro e protettivi che possono essere contaminati da agenti
 
 2\. Nelle aree di lavoro in cui c'e' rischio di esposizione e' vietato assumere cibi e bevande, fumare, conservare cibi destinati al consumo umano, usare pipette a bocca e applicare cosmetici.
 
-###### Art. 274
+##### Art. 274
 
 Misure specifiche per strutture sanitarie e veterinarie
 
@@ -6340,7 +6214,7 @@ Misure specifiche per strutture sanitarie e veterinarie
 
 ((3. Nelle strutture di isolamento che ospitano pazienti od animali che sono, o potrebbero essere, contaminati da agenti biologici del gruppo 2, 3 o 4, le misure di contenimento da attuare per ridurre al minimo il rischio di infezione sono scelte tra quelle indicate nell' allegato XLVII in funzione delle modalita' di trasmissione dell'agente biologico.))
 
-###### Art. 275
+##### Art. 275
 
 Misure specifiche per i laboratori e gli stabulari
 
@@ -6360,7 +6234,7 @@ c) in aree di lavoro corrispondenti almeno al quarto livello di contenimento, se
 
 5\. Per i luoghi di lavoro di cui ai commi 3 e 4, il ((Ministero del lavoro, della salute e delle politiche sociali)), sentito l'Istituto superiore di sanita', puo' individuare misure di contenimento piu' elevate.
 
-###### Art. 276
+##### Art. 276
 
 Misure specifiche per i processi industriali
 
@@ -6368,7 +6242,7 @@ Misure specifiche per i processi industriali
 
 2\. Nel caso di agenti biologici non ancora classificati, il cui uso puo' far sorgere un rischio grave per la salute dei lavoratori, il datore di lavoro adotta misure corrispondenti almeno a quelle del terzo livello di contenimento.
 
-###### Art. 277
+##### Art. 277
 
 Misure di emergenza
 
@@ -6378,7 +6252,7 @@ Misure di emergenza
 
 3\. I lavoratori segnalano immediatamente al datore di lavoro o al dirigente o al preposto, qualsiasi infortunio o incidente relativo all'uso di agenti biologici.
 
-###### Art. 278
+##### Art. 278
 
 Informazioni e formazione
 
@@ -6402,11 +6276,9 @@ f) il modo di prevenire il verificarsi di infortuni e le misure da adottare per 
 
 4\. Nel luogo di lavoro sono apposti in posizione ben visibile cartelli su cui sono riportate le procedure da seguire in caso di infortunio od incidente.
 
-## Capo III
+### Capo III - Sorveglianza sanitaria
 
-### Sorveglianza sanitaria
-
-###### Art. 279
+##### Art. 279
 
 Prevenzione e controllo
 
@@ -6424,7 +6296,7 @@ b) l'allontanamento temporaneo del lavoratore secondo le procedure dell'articolo
 
 5\. Il medico competente fornisce ai lavoratori adeguate informazioni sul controllo sanitario cui sono sottoposti e sulla necessita' di sottoporsi ad accertamenti sanitari anche dopo la cessazione dell'attivita' che comporta rischio di esposizione a particolari agenti biologici individuati nell'allegato XLVI nonche' sui vantaggi ed inconvenienti della vaccinazione e della non vaccinazione.
 
-###### Art. 280
+##### Art. 280
 
 Registri degli esposti e degli eventi accidentali
 
@@ -6456,7 +6328,7 @@ AGGIORNAMENTO (6)
 
 Il D. Lgs. 3 agosto 2009, n. 106 ha disposto (con l'art. 1, comma 1, lettera a)) che al presente articolo, le parole: "Ministero del lavoro e della previdenza sociale" e le parole: "Ministero della salute", ovunque presenti, sono sostituite dalle seguenti: "Ministero del lavoro, della salute e delle politiche sociali"; le parole: "Ministro del lavoro e della previdenza sociale" e le parole: "Ministro della salute", ovunque presenti, sono sostituite dalle seguenti: "Ministro del lavoro, della salute e delle politiche sociali".
 
-###### Art. 281
+##### Art. 281
 
 Registro dei casi di malattia e di decesso
 
@@ -6468,11 +6340,9 @@ Registro dei casi di malattia e di decesso
 
 4\. Il ((Ministero del lavoro, della salute e delle politiche sociali)) fornisce alla Commissione CE, su richiesta, informazioni su l'utilizzazione dei dati del registro di cui al comma 1.
 
-## Capo IV
+### Capo IV - Sanzioni
 
-### Sanzioni
-
-###### Art. 282
+##### Art. 282
 
 (( (Sanzioni a carico dei datori di lavoro e dei dirigenti)
 
@@ -6486,19 +6356,19 @@ b) con l'arresto fino a tre mesi o con l'ammenda da 800 a 2.000 euro per la viol
 
 c) con la sanzione amministrativa pecuniaria da 500 a 1.800 euro per la violazione dell'articolo 280, commi 3 e 4.))
 
-###### Art. 283
+##### Art. 283
 
 (( (Sanzioni a carico dei preposti)
 
 1\. Con riferimento alle previsioni di cui al presente titolo, il preposto e' punito con l'arresto fino a due mesi o con l'ammenda da 400 a 1.600 euro per la violazione degli articoli 271, comma 2, 272, 274, commi 2 e 3, 275, 276, e 278, commi 1 e 3.))
 
-###### Art. 284
+##### Art. 284
 
 (( (Sanzioni a carico del medico competente)
 
 1\. Il medico competente e' punito con l'arresto fino a due mesi o con l'ammenda da 300 a 1.200 euro per la violazione dell'articolo 279, comma 3.))
 
-###### Art. 285
+##### Art. 285
 
 (( (Sanzioni a carico dei lavoratori)
 
@@ -6508,23 +6378,21 @@ a) con l'arresto fino a un mese o con l'ammenda da 300 a 800 euro per la violazi
 
 b) con l'arresto fino a quindici giorni o con l'ammenda da 100 a 400 euro per la violazione dell'articolo 277, comma 1.))
 
-###### Art. 286
+##### Art. 286
 
 (( (Sanzioni concernenti il divieto di assunzione in luoghi esposti)
 
 1\. Chiunque viola le disposizioni di cui all'articolo 273, comma 2, e' punito con la sanzione amministrativa pecuniaria da 100 a 450 euro.))
 
-## ((Titolo X-bis
+## ((Titolo X-bis - PROTEZIONE DALLE FERITE DA TAGLIO E DA PUNTA NEL SETTORE OSPEDALIERO E SANITARIO))
 
-### PROTEZIONE DALLE FERITE DA TAGLIO E DA PUNTA NEL SETTORE OSPEDALIERO E SANITARIO))
-
-###### Art. 286-bis
+##### Art. 286-bis
 
 ((Ambito di applicazione))
 
 ((1. Le disposizioni del presente titolo si applicano a tutti i lavoratori che operano, nei luoghi di lavoro interessati da attivita' sanitarie, alle dipendenze di un datore di lavoro, indipendentemente dalla tipologia contrattuale, ivi compresi i tirocinanti, gli apprendisti, i lavoratori a tempo determinato, i lavoratori somministrati, gli studenti che seguono corsi di formazione sanitaria e i sub-fornitori.))
 
-###### Art. 286-ter
+##### Art. 286-ter
 
 ((Definizioni))
 
@@ -6538,7 +6406,7 @@ c) misure di prevenzione specifiche: misure adottate per prevenire le ferite e l
 
 d) subfornitore: ogni persona che operi in attivita' e servizi direttamente legati all'assistenza ospedaliera e sanitaria nel quadro di rapporti contrattuali di lavoro con il datore di lavoro.))
 
-###### Art. 286-quater
+##### Art. 286-quater
 
 ((Misure generali di tutela))
 
@@ -6558,7 +6426,7 @@ f) a pianificare ed attuare iniziative di prevenzione, sensibilizzazione, inform
 
 g) a promuovere la segnalazione degli infortuni, al fine di evidenziare le cause sistemiche.))
 
-###### Art. 286-quinquies
+##### Art. 286-quinquies
 
 ((Valutazione dei rischi))
 
@@ -6566,7 +6434,7 @@ g) a promuovere la segnalazione degli infortuni, al fine di evidenziare le cause
 
 2\. Il datore di lavoro, nella valutazione dei rischi di cui all'articolo 17, comma 1, lettera a), deve altresi' individuare le necessarie misure tecniche, organizzative e procedurali riguardanti le condizioni lavorative, il livello delle qualificazioni professionali, i fattori psicosociali legati al lavoro e l'influenza dei fattori connessi con l'ambiente di lavoro, per eliminare o diminuire i rischi professionali valutati.))
 
-###### Art. 286-sexies
+##### Art. 286-sexies
 
 ((Misure di prevenzione specifiche))
 
@@ -6598,7 +6466,7 @@ h) previsione delle procedure che devono essere adottate in caso di ferimento de
 
 2\) assicurare la corretta notifica e il successivo monitoraggio per l'individuazione di adeguate misure di prevenzione, da attuare attraverso la registrazione e l'analisi delle cause, delle modalita' e circostanze che hanno comportato il verificarsi di infortuni derivanti da punture o ferite e i successivi esiti, garantendo la riservatezza per il lavoratore.))
 
-###### Art. 286-septies
+##### Art. 286-septies
 
 ((Sanzioni))
 
@@ -6606,15 +6474,11 @@ h) previsione delle procedure che devono essere adottate in caso di ferimento de
 
 2\. Il datore di lavoro e i dirigenti sono puniti con l'arresto da tre a sei mesi o con l'ammenda da 2.740 euro a 7.014,40 euro per la violazione dell'articolo 286-sexies.))
 
-## Titolo XI
+## Titolo XI - PROTEZIONE DA ATMOSFERE ESPLOSIVE
 
-### PROTEZIONE DA ATMOSFERE ESPLOSIVE
+### Capo I - Disposizioni generali
 
-#### Capo I
-
-##### Disposizioni generali
-
-###### Art. 287
+##### Art. 287
 
 Campo di applicazione
 
@@ -6640,7 +6504,7 @@ e) all'impiego di mezzi di trasporto terrestre, marittimo, fluviale e aereo per 
 
 > \- Il testo del decreto legislativo 25 novembre 1996, n. 624 (Attuazione della direttiva 92/91/CEE relativa alla sicurezza e salute dei lavoratori nelle industrie estrattive per trivellazione e della direttiva 92/104/CEE relativa alla sicurezza e salute dei lavoratori nelle industrie estrattive a cielo aperto o sotterranee), e' pubblicato nella Gazzetta Ufficiale 14 dicembre 1996, n. 293, supplemento ordinario.
 
-###### Art. 288
+##### Art. 288
 
 Definizioni
 
@@ -6648,11 +6512,9 @@ Definizioni
 
 ((1-bis Per condizioni atmosferiche si intendono condizioni nelle quali la concentrazione di ossigeno nell'atmosfera e' approssimativamente del 21 per cento e che includono variazioni di pressione e temperatura al di sopra e al di sotto dei livelli di riferimento, denominate condizioni atmosferiche normali (pressione pari a 101325 Pa, temperatura pari a 293 K), purche' tali variazioni abbiano un effetto trascurabile sulle proprieta' esplosive della sostanza infiammabile o combustibile.))
 
-## Capo II
+### Capo II - Obblighi del datore di lavoro
 
-### Obblighi del datore di lavoro
-
-###### Art. 289
+##### Art. 289
 
 Prevenzione e protezione contro le esplosioni
 
@@ -6666,7 +6528,7 @@ b) attenuare gli effetti pregiudizievoli di un'esplosione in modo da garantire l
 
 3\. Se necessario, le misure di cui ai commi 1 e 2 sono combinate e integrate con altre contro la propagazione delle esplosioni e sono riesaminate periodicamente e, in ogni caso, ogniqualvolta si verifichino cambiamenti rilevanti.
 
-###### Art. 290
+##### Art. 290
 
 Valutazione dei rischi di esplosione
 
@@ -6684,7 +6546,7 @@ d) entita' degli effetti prevedibili.
 
 3\. Nella valutazione dei rischi di esplosione vanno presi in considerazione i luoghi che sono o possono essere in collegamento, tramite aperture, con quelli in cui possono formarsi atmosfere esplosive.
 
-###### Art. 291
+##### Art. 291
 
 Obblighi generali
 
@@ -6694,7 +6556,7 @@ a) dove possono svilupparsi atmosfere esplosive in quantita' tale da mettere in 
 
 b) negli ambienti di lavoro in cui possono svilupparsi atmosfere esplosive in quantita' tale da mettere in pericolo la sicurezza e la salute dei lavoratori, sia garantito un adeguato controllo durante la presenza dei lavoratori, in funzione della valutazione del rischio, mediante l'utilizzo di mezzi tecnici adeguati.
 
-###### Art. 292
+##### Art. 292
 
 Coordinamento
 
@@ -6702,7 +6564,7 @@ Coordinamento
 
 2\. ((Ferma)) restando la responsabilita' individuale di ciascun datore di lavoro e quanto previsto dall'articolo 26, il datore di lavoro che e' responsabile del luogo di lavoro, coordina l'attuazione di tutte le misure riguardanti la salute e la sicurezza dei lavoratori e specifica nel documento sulla protezione contro le esplosioni, di cui all'articolo 294, l'obiettivo, le misure e le modalita' di attuazione di detto coordinamento.
 
-###### Art. 293
+##### Art. 293
 
 Aree in cui possono formarsi atmosfere esplosive
 
@@ -6712,7 +6574,7 @@ Aree in cui possono formarsi atmosfere esplosive
 
 3\. Se necessario, le aree in cui possono formarsi atmosfere esplosive in quantita' tali da mettere in pericolo la sicurezza e la salute dei lavoratori sono segnalate nei punti di accesso a norma dell'allegato LI ((e provviste di allarmi ottico/acustici che segnalino l'avvio e la fermata dell'impianto, sia durante il normale ciclo sia nell'eventualita' di un'emergenza in atto)).
 
-###### Art. 294
+##### Art. 294
 
 Documento sulla protezione contro le esplosioni
 
@@ -6736,7 +6598,7 @@ f) che, ai sensi del titolo III, sono stati adottati gli accorgimenti per l'impi
 
 4\. Il documento di cui al comma 1 e' parte integrante del documento di valutazione dei rischi di cui all'articolo 17, comma 1.
 
-###### Art. 294-bis
+##### Art. 294-bis
 
 (( (Informazione e formazione dei lavoratori)
 
@@ -6758,7 +6620,7 @@ g) agli eventuali rischi connessi alla presenza di sistemi di prevenzione delle 
 
 h) all'uso corretto di adeguati dispositivi di protezione individuale e alle relative indicazioni e controindicazioni all'uso.))
 
-###### Art. 295
+##### Art. 295
 
 Termini per l'adeguamento
 
@@ -6768,7 +6630,7 @@ Termini per l'adeguamento
 
 3\. I luoghi di lavoro che comprendono aree in cui possono formarsi atmosfere esplosive devono soddisfare le prescrizioni minime stabilite dal presente titolo.
 
-###### Art. 296
+##### Art. 296
 
 Verifiche
 
@@ -6778,11 +6640,9 @@ Verifiche
 
 > \- Per il testo del decreto del Presidente della Repubblica n. 462 del 2001, si veda nota all'art. 86.
 
-## ((Capo III
+### ((Capo III - Sanzioni))
 
-### Sanzioni))
-
-###### Art. 297
+##### Art. 297
 
 (( (Sanzioni a carico dei datori di lavoro e dei dirigenti)
 
@@ -6790,23 +6650,21 @@ Verifiche
 
 2\. Il datore di lavoro e i dirigenti sono puniti con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione degli articoli 289, comma 2, 291, 292, comma 2, 293, commi 1 e 2, 294, commi 1, 2 e 3, 294-bis e 296. ))
 
-## Titolo XII
+## Titolo XII - DISPOSIZIONI IN MATERIA PENALE E DI PROCEDURA PENALE
 
-### DISPOSIZIONI IN MATERIA PENALE E DI PROCEDURA PENALE
-
-###### Art. 298
+##### Art. 298
 
 Principio di specialita'
 
 1\. Quando uno stesso fatto e' punito da una disposizione prevista dal titolo I e da una o piu' disposizioni previste negli altri titoli, si applica la disposizione speciale.
 
-###### Art. 299
+##### Art. 299
 
 Esercizio di fatto di poteri direttivi
 
 1\. Le posizioni di garanzia relative ai soggetti di cui all'articolo 2, comma 1, lettere b), d) ed e), gravano altresi' su colui il quale, pur sprovvisto di regolare investitura, eserciti in concreto i poteri giuridici riferiti a ciascuno dei soggetti ivi definiti.
 
-###### Art. 300
+##### Art. 300
 
 Modifiche al decreto legislativo 8 giugno 2001, n. 231
 
@@ -6824,19 +6682,19 @@ Modifiche al decreto legislativo 8 giugno 2001, n. 231
 
 > \- Per il testo dell'art. 589 del codice penale, si veda nota all'art. 2.
 
-###### Art. 301
+##### Art. 301
 
 Applicabilita' delle disposizioni di cui agli articoli 20 e seguenti del decreto legislativo 19 dicembre 1994, n. 758
 
 1\. Alle contravvenzioni in materia di igiene, salute e sicurezza sul lavoro previste dal presente decreto nonche' da altre disposizioni aventi forza di legge, per le quali sia prevista la pena alternativa dell'arresto o dell'ammenda ((ovvero la pena della sola ammenda)), si applicano le disposizioni in materia di prescrizione ed estinzione del reato di cui agli articoli 20, e seguenti, del decreto legislativo 19 dicembre 1994, n. 758.
 
-###### Art. 301-bis
+##### Art. 301-bis
 
 (( (Estinzione agevolata degli illeciti amministrativi a seguito di regolarizzazione)
 
 1\. In tutti i casi di inosservanza degli obblighi puniti con sanzione pecuniaria amministrativa il trasgressore, al fine di estinguere l'illecito amministrativo, e' ammesso al pagamento di una somma pari alla misura minima prevista dalla legge qualora provveda a regolarizzare la propria posizione non oltre il termine assegnato dall'organo di vigilanza mediante verbale di primo accesso ispettivo.))
 
-###### Art. 302
+##### Art. 302
 
 (( (Definizione delle contravvenzioni punite con la sola pena dell'arresto)
 
@@ -6846,7 +6704,7 @@ Applicabilita' delle disposizioni di cui agli articoli 20 e seguenti del decreto
 
 3\. Decorso un periodo di tre anni dal passaggio in giudicato della sentenza che ha operato la sostituzione di cui al comma 1 senza che l'imputato abbia commesso ulteriori reati tra quelli previsti dal presente testo unico, ovvero i reati di cui all'articolo 589, secondo comma, e 590, terzo comma, del codice penale, limitatamente all'ipotesi di violazione delle norme relative alla prevenzione degli infortuni sul lavoro, il reato si estingue.))
 
-###### Art. 302-bis
+##### Art. 302-bis
 
 (( (Potere di disposizione)
 
@@ -6854,15 +6712,13 @@ Applicabilita' delle disposizioni di cui agli articoli 20 e seguenti del decreto
 
 2\. Avverso le disposizioni di cui al comma 1 e' ammesso ricorso, entro trenta giorni, con eventuale richiesta di sospensione dell'esecutivita' dei provvedimenti, all'autorita' gerarchicamente sovraordinata nell'ambito dei rispettivi organi di vigilanza, che decide il ricorso entro quindici giorni. Decorso inutilmente il termine previsto per la decisione il ricorso si intende respinto. Con riferimento ai provvedimenti adottati dagli organi di vigilanza del Ministero del lavoro, della salute e delle politiche sociali, la autorita' gerarchicamente sovraordinata e' il dirigente della Direzione provinciale del lavoro territorialmente competente.))
 
-###### Art. 303
+##### Art. 303
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2009, N. 106))
 
-## Titolo XIII
+## Titolo XIII - NORME TRANSITORIE E FINALI
 
-### NORME TRANSITORIE E FINALI
-
-###### Art. 304
+##### Art. 304
 
 Abrogazioni
 
@@ -6888,13 +6744,13 @@ d-quater: il decreto del Presidente della Repubblica 3 luglio 2003, n. 222.
 
 3\. Fino all'emanazione dei decreti legislativi di cui al comma 2, laddove disposizioni di legge o regolamentari dispongano un rinvio a norme del decreto legislativo 19 settembre 1994, n. 626, e successive modificazioni, ovvero ad altre disposizioni abrogate dal comma 1, tali rinvii si intendono riferiti alle corrispondenti norme del presente decreto legislativo.
 
-###### Art. 305
+##### Art. 305
 
 Clausola finanziaria
 
 1\. Fatto salvo quanto disposto dall'articolo 11, commi 1 e 2, dall'esecuzione del presente decreto, ivi compreso quanto disposto dagli articoli 5 e 6, non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni competenti provvedono agli adempimenti derivanti dal presente decreto attraverso una diversa allocazione delle ordinarie risorse, umane, strumentali ed economiche, allo stato in dotazione alle medesime amministrazioni.
 
-###### Art. 306
+##### Art. 306
 
 Disposizioni finali
 
@@ -6952,11 +6808,9 @@ AGGIORNAMENTO (3)
 
 Il D.L. 30 dicembre 2008, n. 207, convertito con modificazioni dalla L. 27 febbraio 2009, n. 14, ha disposto ( con l'art. 32, comma 2) che il termine di cui al comma 2 del presente articolo 306, con riferimento alle disposizioni di cui all'articolo 28, commi 1 e 2, del presente decreto legislativo, concernenti la valutazione dello stress lavoro-correlato e la data certa, e' prorogato al 16 maggio 2009.
 
-## Titolo XIII
+## Titolo XIII - NORME TRANSITORIE E FINALI
 
-### NORME TRANSITORIE E FINALI
-
-###### Allegato I
+##### Allegato I
 
 ALLEGATO I
 
@@ -7038,7 +6892,7 @@ Fattispecie di violazione ai fini dell'adozione dei provvedimenti di cui all'art
   +-------+-------------------------------+-----------------------+
 ```
 
-###### Allegato I bis
+##### Allegato I bis
 
 Allegato I-bis
 
@@ -7232,7 +7086,7 @@ AGGIORNAMENTO (65)
 
 Il D.L. 31 ottobre 2025, n. 159 ha disposto (con l'art. 3, comma 5) che "Le decurtazioni alla patente a crediti derivanti dalle modifiche di cui al comma 4, lettera b), sono effettuate in relazione agli illeciti commessi a far data dal 1° gennaio 2026. In relazione agli illeciti commessi prima della predetta data continuano ad applicarsi le decurtazioni disciplinate dalla previgente formulazione del numero 21, nonche' dai numeri 22 e 23 dell'allegato I-bis al decreto legislativo 9 aprile 2008, n. 81".
 
-###### Allegato II
+##### Allegato II
 
 ALLEGATO II
 
@@ -7248,7 +7102,7 @@ Casi in cui e' consentito lo svolgimento diretto da parte del datore di lavoro d
 
 ))
 
-###### Allegato 3A
+##### Allegato 3A
 
 Allegato 3A
 
@@ -7264,7 +7118,7 @@ Il Decreto 9 luglio 2012 (in G.U. 26/7/2012, n. 173) ha disposto (con l'art. 2, 
 
 Ha inoltre disposto (con l'art. 2, comma 2) che "I contenuti previsti nell'allegato I sopra richiamato sono da considerarsi come informazioni minime della cartella sanitaria e di rischio".
 
-###### Allegato 3B
+##### Allegato 3B
 
 Allegato 3B
 
@@ -7294,7 +7148,7 @@ AGGIORNAMENTO (15)
 
 Il Decreto 9 luglio 2012 (in G.U. 26/7/2012, n. 173) ha disposto (con l'art. 3, comma 1) che "I contenuti delle informazioni da comunicare ai sensi del comma 1 dell'art. 40 del decreto legislativo 9 aprile 2008 n. 81, relative ai dati aggregati sanitari e di rischio dei lavoratori sottoposti a sorveglianza sanitaria, sono specificati nell'allegato II del presente decreto, recante le modifiche dell'allegato 3B del richiamato decreto legislativo".
 
-###### Allegato IV
+##### Allegato IV
 
 ALLEGATO IV
 
@@ -7976,7 +7830,7 @@ Alle porte per le quali e' prevista una larghezza minima di m 0,80 e' applicabil
 
 ))
 
-###### Allegato V
+##### Allegato V
 
 ALLEGATO V
 
@@ -9030,7 +8884,7 @@ Puo' derogarsi per gli apparecchi di sollevamento, per i mezzi di trazione, per 
 
 ))
 
-###### Allegato VI
+##### Allegato VI
 
 ALLEGATO VI
 
@@ -9210,7 +9064,7 @@ Le disposizioni del presente punto integrate con il richiamo all'obbligo di assi
 
 ))
 
-###### Allegato VII
+##### Allegato VII
 
 ALLEGATO VII
 
@@ -9224,7 +9078,7 @@ AGGIORNAMENTO (70)
 
 La L. 11 marzo 2026, n. 34 ha disposto (con l'art. 12, comma 1) che "All'allegato VII del decreto legislativo 9 aprile 2008, n. 81, dopo la voce: «Ponti mobili sviluppabili su carro ad azionamento motorizzato - Verifica annuale» e' inserita la seguente: «Piattaforme di lavoro mobili elevabili e piattaforme di lavoro fuori strada per operazioni in frutteto - Verifica triennale»".
 
-###### Allegato VIII
+##### Allegato VIII
 
 Allegato VIII
 
@@ -9688,7 +9542,7 @@ Parte di provvedimento in formato grafico
 
 ))
 
-###### Allegato IX
+##### Allegato IX
 
 ALLEGATO IX
 
@@ -9728,7 +9582,7 @@ Dove Un = tensione nominale.
 
 ))
 
-###### Allegato X
+##### Allegato X
 
 ALLEGATO X
 
@@ -9744,7 +9598,7 @@ di cui all'articolo 89 comma 1, lettera a)
 
 ))
 
-###### Allegato XI
+##### Allegato XI
 
 ALLEGATO XI
 
@@ -9784,7 +9638,7 @@ AGGIORNAMENTO (28)
 
 La L. 1 ottobre 2012, n. 177 come modificata dal D.L. 30 dicembre 2015, n. 210, convertito con modificazioni dalla L. 25 febbraio 2016, n. 21 ha disposto (con l'art. 1, comma 3) che "Le modificazioni al decreto legislativo 9 aprile 2008, n. 81, introdotte dal comma 1 del presente articolo, acquistano efficacia decorsi dodici mesi dalla data della pubblicazione del decreto del Ministro della difesa, di cui al comma 2 del presente articolo".
 
-###### Allegato XII
+##### Allegato XII
 
 ALLEGATO XII
 
@@ -9816,7 +9670,7 @@ Contenuto della notifica preliminare di cui all'articolo 99
 
 13\. Ammontare complessivo presunto dei lavori (€)
 
-###### Allegato XIII
+##### Allegato XIII
 
 ALLEGATO XIII
 
@@ -9938,7 +9792,7 @@ Le porte di emergenza non devono essere chiuse in modo tale da non poter essere 
 
 ))
 
-###### Allegato XIV
+##### Allegato XIV
 
 ALLEGATO XIV
 
@@ -10040,7 +9894,7 @@ E' inoltre previsto l'obbligo di aggiornamento a cadenza quinquennale della dura
 
 Per coloro che hanno conseguito l'attestato prima dell'entrata in vigore del presente decreto, l'obbligo di aggiornamento decorre dalla data di entrata in vigore del medesimo decreto.
 
-###### Allegato XV
+##### Allegato XV
 
 ALLEGATO XV
 
@@ -10350,7 +10204,7 @@ AGGIORNAMENTO (28)
 
 La L. 1 ottobre 2012, n. 177 come modificata dal D.L. 30 dicembre 2015, n. 210, convertito con modificazioni dalla L. 25 febbraio 2016, n. 21 ha disposto (con l'art. 1, comma 3) che "Le modificazioni al decreto legislativo 9 aprile 2008, n. 81, introdotte dal comma 1 del presente articolo, acquistano efficacia decorsi dodici mesi dalla data della pubblicazione del decreto del Ministro della difesa, di cui al comma 2 del presente articolo".
 
-###### Allegato XVI
+##### Allegato XVI
 
 ALLEGATO XVI
 
@@ -10440,7 +10294,7 @@ c) gli impianti installati.
 
 Parte di provvedimento in formato grafico
 
-###### Allegato XVII
+##### Allegato XVII
 
 ALLEGATO XVII
 
@@ -10474,7 +10328,7 @@ d) attestati inerenti la propria formazione e la relativa idoneita' sanitaria ov
 
 ))
 
-###### Allegato XVIII
+##### Allegato XVIII
 
 ALLEGATO XVIII
 
@@ -10638,7 +10492,7 @@ e) le parti interne dei traversi devono essere collegate rigidamente fra di loro
 
 ))
 
-###### Allegato XIX
+##### Allegato XIX
 
 ALLEGATO XIX
 
@@ -11503,7 +11357,7 @@ Controllare il mantenimento in opera dei dispositivi di blocco degli elementi di
 
 \- Controllare il mantenimento in opera dei dispositivi di blocco o dei sistemi antisfilamento dei fermapiedi.))
 
-###### Allegato XX
+##### Allegato XX
 
 ALLEGATO XX
 
@@ -11609,7 +11463,7 @@ e) un funzionario esperto effettivo ed uno supplente del Consiglio nazionale del
 
 6.2. Nel caso di verifica della non sussistenza dei presupposti di base dell'idoneita' medesima, l'autorizzazione viene sospesa con effetto immediato, dando luogo al controllo di tutta l'attivita' certificativa fino a quel momento effettuata. Nei casi di particolare gravita' si procede alla revoca dell'autorizzazione.
 
-###### Allegato XXI
+##### Allegato XXI
 
 ALLEGATO XXI
 
@@ -11867,7 +11721,7 @@ MODULO DI AGGIORNAMENTO
 
 I datori di lavoro provvederanno a far effettuare agli operatori con funzione di sorveglianza dei lavori un corso di aggiornamento ogni cinque anni. L'aggiornamento, per la funzione specifica, registrato sulla Scheda Personale di Formazione, ha durata minima di 4 ore La formazione e' inerente le tecniche gia' apprese, l'eventuale analisi e applicazione di nuove attrezzature o tecniche operative e prevede il rilascio di un giudizio di affidabilita' da parte dei docenti.))
 
-###### Allegato XXII
+##### Allegato XXII
 
 ALLEGATO XXII
 
@@ -11923,7 +11777,7 @@ Quando non sussiste l'obbligo del calcolo, ai sensi del comma 1, lettera g) dell
 
 ))
 
-###### Allegato XXIII
+##### Allegato XXIII
 
 ALLEGATO XXIII
 
@@ -11959,7 +11813,7 @@ e. per il montaggio, uso e smontaggio del ponte su ruote siano seguite le istruz
 
 ))
 
-###### Allegato XXIV
+##### Allegato XXIV
 
 ALLEGATO XXIV
 
@@ -12071,7 +11925,7 @@ I segnali luminosi o acustici devono essere reinseriti immediatamente dopo ogni 
 
 12\. Le zone, i locali o gli spazi utilizzati per il deposito di quantitativi notevoli di sostanze o ((miscele pericolose)) devono essere segnalati con un cartello di avvertimento appropriato, conformemente all'allegato XXV, punto 3.2, o indicati conformemente all'allegato XXVI, punto 1, tranne nel caso in cui l'etichettatura dei diversi imballaggi o recipienti stessi sia sufficiente a tale scopo.
 
-###### Allegato XXV
+##### Allegato XXV
 
 ALLEGATO XXV
 
@@ -12167,7 +12021,7 @@ Il D.Lgs. 15 febbraio 2016, n. 39 ha disposto (con l'art. 1, comma 1, lettera h)
 
 2\) e' aggiunta la seguente nota collegata al segnale di avvertimento «Pericolo generico»: «Questo cartello di avvertimento non deve essere utilizzato per mettere in guardia le persone circa le sostanze chimiche o miscele pericolose, fatta eccezione nei casi in cui il cartello di avvertimento e' utilizzato conformemente alla presente sezione per indicare i depositi di sostanze o miscele pericolose»".
 
-###### Allegato XXVI
+##### Allegato XXVI
 
 ALLEGATO XXVI
 
@@ -12215,7 +12069,7 @@ AGGIORNAMENTO (30)
 
 L'avviso di rettifica (in G.U. 26/5/2016, n. 122) nel modificare l'art. 1, comma 1, lettere a) e b) del D.Lgs. 15 febbraio 2016, n. 39 ha conseguentemente disposto il venir meno delle modifiche disposte dal suindicato D.Lgs. 39/2016.
 
-###### Allegato XXVII
+##### Allegato XXVII
 
 ALLEGATO XXVII
 
@@ -12235,7 +12089,7 @@ La superficie in rosso dovra' avere ampiezza sufficiente per consentire un'agevo
 
 4\. I cartelli descritti all'allegato XXV, punto 3.5 devono essere utilizzati per indicare l'ubicazione delle attrezzature in questione. ))
 
-###### Allegato XXVIII
+##### Allegato XXVIII
 
 Allegato XXVIII
 
@@ -12259,7 +12113,7 @@ Parte di provvedimento in formato grafico
 
 2.3. Le vie permanenti situate all'esterno nelle zone edificate vanno parimenti segnalate, nella misura in cui cio' si renda necessario, a meno che non siano provviste di barriere o di una pavimentazione appropriate.
 
-###### Allegato XXIX
+##### Allegato XXIX
 
 ALLEGATO XXIX
 
@@ -12289,7 +12143,7 @@ La durata di ciascun lampo e la frequenza dei lampeggiamenti di un segnale lumin
 
 ))
 
-###### Allegato XXX
+##### Allegato XXX
 
 Allegato XXX
 
@@ -12309,7 +12163,7 @@ b) essere facilmente riconoscibile in rapporto particolarmente alla durata degli
 
 Il suono di un segnale di sgombero deve essere continuo.
 
-###### Allegato XXXI
+##### Allegato XXXI
 
 ALLEGATO XXXI
 
@@ -12355,7 +12209,7 @@ PRESCRIZIONI PER LA COMUNICAZIONE VERBALE
 
 ))
 
-###### Allegato XXXII
+##### Allegato XXXII
 
 Allegato XXXII
 
@@ -12393,7 +12247,7 @@ La serie dei gesti convenzionali che si riporta di seguito non pregiudica la pos
 
 Parte di provvedimento in formato grafico
 
-###### Allegato XXXIII
+##### Allegato XXXIII
 
 ALLEGATO XXXIII
 
@@ -12473,7 +12327,7 @@ Le norme tecniche della serie ISO 11228 (parti 1-2-3) relative alle attivita' di
 
 ))
 
-###### Allegato XXXIV
+##### Allegato XXXIV
 
 ALLEGATO XXXIV
 
@@ -12595,7 +12449,7 @@ e) i principi dell'ergonomia devono essere applicati in particolare all'elaboraz
 
 ))
 
-###### Allegato XXXV
+##### Allegato XXXV
 
 ALLEGATO XXXV
 
@@ -12657,7 +12511,7 @@ Le disposizioni dell'articolo 202, comma 5, lettera g), si applicano in particol
 
 ))
 
-###### Allegato XXXVI
+##### Allegato XXXVI
 
 ALLEGATO XXXVI
 
@@ -13095,7 +12949,7 @@ frequenza tempo [mA] (RMS) arto [mA] (RMS)
 
 Nota B2-1: il [VA (IL )]2 deve essere mediato per ogni periodo di sei minuti.))
 
-###### Allegato XXXVII
+##### Allegato XXXVII
 
 Allegato XXXVII
 
@@ -13111,19 +12965,19 @@ Radiazioni laser
 
 Parte di provvedimento in formato grafico
 
-###### Allegato XXXVIII
+##### Allegato XXXVIII
 
 ALLEGATO XXXVIII
 
 ((Parte di provvedimento in formato grafico))
 
-###### Allegato XXXIX
+##### Allegato XXXIX
 
 ALLEGATO XXXIX
 
 ((ALLEGATO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 135))
 
-###### Allegato XL
+##### Allegato XL
 
 Allegato XL
 
@@ -13157,7 +13011,7 @@ Substance
 
 (2) CAS Chemical Abstracts Service
 
-###### Allegato XLI
+##### Allegato XLI
 
 Allegato XLI
 
@@ -13200,7 +13054,7 @@ UNI EN 1540:2001 |Atmosfera nell'ambiente di lavoro. Terminologia.
 
 UNI EN 12919:2001|maggiori di 5 1/min. Requisiti e metodi di prova.
 
-###### Allegato XLII
+##### Allegato XLII
 
 ALLEGATO XLII
 
@@ -13220,7 +13074,7 @@ Elenco di sostanze, miscele e processi
 
 6\. Lavori comportanti esposizione a polvere di silice cristallina respirabile generata da un procedimento di lavorazione.))
 
-###### Allegato XLIII
+##### Allegato XLIII
 
 ALLEGATO XLIII
 
@@ -13228,7 +13082,7 @@ ALLEGATO XLIII
 
 ((Parte di provvedimento in formato grafico))
 
-###### Allegato XLIII bis
+##### Allegato XLIII bis
 
 ((ALLEGATO XLIII-BIS))
 
@@ -13244,7 +13098,7 @@ Per le lavoratrici in eta' fertile il riscontro di valori di piombemia superiori
 
 l'esposizione a una concentrazione di piombo nell'aria, espressa come media ponderata nel tempo calcolata su 40 ore alla settimana, e' superiore a 0,075 mg/m³; nei singoli lavoratori e' riscontrato un contenuto di piombo nel sangue superiore a 40 ?g Pb/100 ml di sangue.))
 
-###### Allegato XLIII ter
+##### Allegato XLIII ter
 
 ((ALLEGATO XLIII-ter
 
@@ -13270,7 +13124,7 @@ In base alle conoscenze di cui si dispone attualmente, l'esposizione alle fibre 
 
 7\) malattie pleuriche non maligne.))
 
-###### Allegato XLIV
+##### Allegato XLIV
 
 ALLEGATO XLIV
 
@@ -13290,7 +13144,7 @@ Elenco esemplificativo di attivita' lavorative che possono comportare la presenz
 
 7\. Attivita' negli impianti per la depurazione delle acque di scarico.
 
-###### Allegato XLV
+##### Allegato XLV
 
 ALLEGATO XLV
 
@@ -13298,7 +13152,7 @@ Segnale di rischio biologico
 
 Parte di provvedimento in formato grafico
 
-###### Allegato XLVI
+##### Allegato XLVI
 
 ALLEGATO XLVI
 
@@ -13382,7 +13236,7 @@ AGGIORNAMENTO (41)
 
 Il D.L. 7 ottobre 2020, n. 125 ha disposto (con l'art. 4, comma 1) che "All'allegato XLVI del decreto legislativo 9 aprile 2008, n. 81, nella sezione VIRUS, dopo la voce: «Coronaviridae - 2» e' inserita la seguente: «Sindrome respiratoria acuta grave da coronavirus 2 (SARS-CoV-2)(0a) - 3»; la nota 0a) e' cosi' formulata: «0a) In linea con l'articolo 16, paragrafo 1, lettera c), della direttiva 2000/54/CE del Parlamento europeo e del Consiglio, il lavoro di laboratorio diagnostico non propagativo riguardante il SARS-CoV-2 deve essere condotto in una struttura in cui si utilizzano procedure equivalenti almeno al livello di contenimento 2. Il lavoro propagativo riguardante il SARS-CoV-2 deve essere condotto in un laboratorio con livello di contenimento 3 a una pressione dell'aria inferiore a quella atmosferica.»".
 
-###### Allegato XLVII
+##### Allegato XLVII
 
 ALLEGATO XLVII
 
@@ -13492,7 +13346,7 @@ Nella tabella, 'raccomandato' significa che le misure dovrebbero essere applicat
 
 (2) Airlock/zona filtro: l'accesso deve avvenire attraverso una zona filtro che e' un locale isolato dal laboratorio. La parte esente da contaminazione della zona filtro deve essere separata dalla parte ad accesso limitato tramite uno spogliatoio o docce e preferibilmente da porte interbloccanti.))
 
-###### Allegato XLVIII
+##### Allegato XLVIII
 
 ALLEGATO XLVIII
 
@@ -13632,7 +13486,7 @@ Puo' essere opportuno selezionare e combinare le prescrizioni di contenimento de
 
 (3) Airlock/zona filtro: l'accesso deve avvenire attraverso una zona filtro che e' un locale isolato dal laboratorio. La parte esente da contaminazione della zona filtro deve essere separata dalla parte ad accesso limitato tramite uno spogliatoio o docce e, preferibilmente, da porte interbloccanti)).
 
-###### Allegato XLIX
+##### Allegato XLIX
 
 ALLEGATO XLIX
 
@@ -13702,7 +13556,7 @@ EN 1127-1"Atmosfere esplosive. Prevenzione dell'esplosione e protezione contro l
 
 ))
 
-###### Allegato L
+##### Allegato L
 
 ALLEGATO L
 
@@ -13796,7 +13650,7 @@ EN 60079-19 "Atmosfere esplosive. Parte 17: Riparazioni, revisione e ripristino 
 
 ))
 
-###### Allegato LI
+##### Allegato LI
 
 ALLEGATO LI
 

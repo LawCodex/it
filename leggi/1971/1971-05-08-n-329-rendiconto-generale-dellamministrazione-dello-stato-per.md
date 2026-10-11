@@ -25,13 +25,13 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il rendiconto consuntivo dello Stato per l'esercizio 1969 e' approvato con le risultanze degli articoli seguenti:
 
 ## ENTRATE E SPESE DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1969
 
-### Art. 2
+## Art. 2
 
 Le entrate tributarie, extra tributarie, per alienazione ed ammortamento di beni patrimoniali e rimborso di crediti e per accensione di prestiti, accertate nell'esercizio finanziario 1969 per la competenza propria dell'esercizio stesso, risultano stabilite dal conto consuntivo del bilancio in. . . . . . . L. 12.563.386.168.695
 
@@ -47,7 +47,7 @@ rimasero da versare . . . ". 332.040.834.152
  --------------------- e rimasero da riscuotere . . . . . . . . . . L. 555.290.736.757
 ```
 
-### Art. 3
+## Art. 3
 
 Le spese correnti, in conto capitale e per rimborso di prestiti, accertate nell'esercizio finanziario 1969 per la competenza propria dell'esercizio stesso, risultano stabilite dal conto consuntivo del bilancio, in. . . . . . . . . . . . . . . . . . L. 13.932.699.993.962
 
@@ -58,7 +58,7 @@ delle quali furono pagate . . . . . . . . . . ". 10.717.272.242.307
  ------------------
 ```
 
-### Art. 4
+## Art. 4
 
 Il riepilogo generale delle entrate e delle spese di competenza dell'esercizio finanziario 1969 risulta stabilito dal conto consuntivo come segue:
 
@@ -72,7 +72,7 @@ Entrate tributarie ed extra-tributarie. . . . . L. 10.012.785.180.878 Spese corr
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO FINANZIARIO 1968 ED ESERCIZI - PRECEDENTI
 
-### Art. 5
+## Art. 5
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968
 
@@ -92,7 +92,7 @@ rimasero da versare. . . . . ". 425.402.327.070
  ----------------- e rimasero da riscuotere al 31 dicembre 1969 . . L. 472.672.670.956
 ```
 
-### Art. 6
+## Art. 6
 
 I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti dal conto consuntivo del bilancio in. .
 
@@ -104,7 +104,7 @@ dei quali furono pagati nel 1969 . . . . . . . ". 1.974.332.825.367
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1969
 
-### Art. 7
+## Art. 7
 
 I residui attivi alla chiusura dell'esercizio finanziario 1969,
 
@@ -121,7 +121,7 @@ Somme riscosse e non versate in Tesoreria (colonna p del riassunto generale). . 
  -----------------
 ```
 
-### Art. 8
+## Art. 8
 
 I residui passivi alla chiusura dell'esercizio finanziario 1969, risultano stabiliti, dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -137,7 +137,7 @@ Somme rimaste da pagare sui residui degli esercizi precedenti (articolo 6) . . .
 
 ## SITUAZIONE FINANZIARIA
 
-### Art. 9
+## Art. 9
 
 Il disavanzo finanziario del conto del tesoro alla fine dell'esercizio 1969 e' accertato nella somma di lire 9.331.484.296.692, come risulta dai seguenti dati:
 
@@ -186,11 +186,11 @@ Discarichi amministrativi a favore dei tesorieri per casi di forza maggiore ai s
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 10
+## Art. 10
 
 Sono stabiliti nella somma di lire 94.175 i discarichi consentiti, nell'esercizio 1969, ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con regio decreto 23 maggio 1924, n. 827.
 
-### Art. 11
+## Art. 11
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1969, come risulta dal dettaglio che segue:
 
@@ -208,7 +208,7 @@ Cap. n. 1831. - Vincite al lotto. . . . . . . . . . ". 16.137.665.000
 
 ## AZIENDE SPECIALI ED AUTONOME - AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 12
+## Art. 12
 
 Le entrate correnti ed in conto capitale del bilancio dell'Azienda
 
@@ -227,7 +227,7 @@ rimasero da versare. . . . . . ". 463.477.219
  --------------
 ```
 
-### Art. 13
+## Art. 13
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del
 
@@ -240,7 +240,7 @@ delle quali furono pagate. . . . . . . . . . . . .L. 2.442.535.216
  --------------
 ```
 
-### Art. 14
+## Art. 14
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968
 
@@ -259,7 +259,7 @@ rimasero da versare . . . . . . . ". 33.331.370
  -----------
 ```
 
-### Art. 15
+## Art. 15
 
 I residui passivi alla chiusura dell'esercizio finanziario 1968
 
@@ -270,7 +270,7 @@ risultano stabiliti in. . . . . . . . . . . . . . . L. 29.815.490.434 dei quali 
  --------------
 ```
 
-### Art. 16
+## Art. 16
 
 I residui attivi alla chiusura dell'esercizio finanziario 1969 risultano stabiliti nelle seguenti somme:
 
@@ -285,7 +285,7 @@ Somme riscosse e non versate (colonna p del riepilogo dell'entrata) ". 496.808.5
  -------------
 ```
 
-### Art. 17
+## Art. 17
 
 I residui passivi alla chiusura dell'esercizio finanziario 1969 risultano stabiliti nelle seguenti somme:
 
@@ -301,7 +301,7 @@ Somme rimaste da pagare sui residui degli esercizi precedenti (articolo 15) . . 
  --------------
 ```
 
-### Art. 18
+## Art. 18
 
 La situazione finanziaria dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1969, risulta come appresso:
 
@@ -345,7 +345,7 @@ al 31 dicembre 1969. . . . . . . ". 1.674.356.854
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 19
+## Art. 19
 
 Le entrate correnti dell'Istituto agronomico per l'Oltremare,
 
@@ -358,7 +358,7 @@ accertate nell'esercizio finanziario 1969, per la competenza propria dell'eserci
  -----------
 ```
 
-### Art. 20
+## Art. 20
 
 Le spese correnti dell'Istituto predetto, accertate nell'esercizio
 
@@ -369,7 +369,7 @@ finanziario 1969; per la competenza propria dell'esercizio medesimo, risultano s
  -----------
 ```
 
-### Art. 21
+## Art. 21
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968
 
@@ -384,7 +384,7 @@ riscossi e versati . . . . . . . . . . . . . . . . . . . ". 1.935.000
  ---------
 ```
 
-### Art. 22
+## Art. 22
 
 I residui passivi alla chiusura dell'esercizio finanziario 1968
 
@@ -395,7 +395,7 @@ risultano stabiliti in. . . . . . . . . . . . . . . . . L. 28.840.301 dei quali 
  ----------
 ```
 
-### Art. 23
+## Art. 23
 
 I residui attivi alla chiusura dell'esercizio 1969 risultano stabiliti nelle seguenti somme:
 
@@ -410,7 +410,7 @@ Somme riscosse e non versate (colonna p del riepilogo dell'entrata). . . . . . .
  ---------
 ```
 
-### Art. 24
+## Art. 24
 
 I residui passivi alla chiusura dell'esercizio 1969 risultano stabiliti nelle seguenti somme:
 
@@ -425,7 +425,7 @@ Somme rimaste da pagare sui residui degli esercizi precedenti (articolo 22) . . 
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 25
+## Art. 25
 
 Le entrate correnti, in conto capitale e per accensione di prestiti
 
@@ -444,7 +444,7 @@ rimasero da versare. . . . . ". 422.477.955
  ---------------
 ```
 
-### Art. 26
+## Art. 26
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del
 
@@ -455,7 +455,7 @@ bilancio dell'Amministrazione predetta, accertate nell'esercizio finanziario 196
  ---------------
 ```
 
-### Art. 27
+## Art. 27
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti in. . . . . . . . . . . . . . . L. 36.452.577.922
 
@@ -468,7 +468,7 @@ dei quali nell'esercizio 1969 furono riscossi e versati. . .
  --------------
 ```
 
-### Art. 28
+## Art. 28
 
 I residui passivi alla chiusura dell'esercizio finanziario 1963 risultano stabiliti in. . . . . . . . . . . . . . . L. 33.286.297.429 dei quali furono pagati nel 1969. . . . . . . . . . L. 26.557.909.708
 
@@ -477,7 +477,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1963 risultano stabil
  --------------
 ```
 
-### Art. 29
+## Art. 29
 
 I residui attivi alla chiusura dell'esercizio finanziario 1969 risultano stabiliti nelle seguenti somme:
 
@@ -490,7 +490,7 @@ Somme rimaste da riscuotere sulle entrate accertate per la competenza propria de
  --------------
 ```
 
-### Art. 30
+## Art. 30
 
 I residui passivi alla chiusura dell'esercizio finanziario 1969 risultano stabiliti nelle seguenti somme:
 
@@ -503,7 +503,7 @@ Somme rimaste da pagare sulle spese accertate per la competenza propria dell'ese
  --------------
 ```
 
-### Art. 31
+## Art. 31
 
 La situazione finanziaria dell'Amministrazione autonoma dei Monopoli di Stato, alla fine dello esercizio finanziario 1969, risulta come appresso:
 
@@ -519,7 +519,7 @@ Spese dell'esercizio 1969. . . . . . . . . . . . . L. 198.203.561.218
 
 ## ARCHIVI NOTARILI
 
-### Art. 32
+## Art. 32
 
 E' approvato il conto consuntivo degli Archivi notarili, per l'esercizio finanziario 1969, nelle risultanze seguenti:
 
@@ -532,7 +532,7 @@ Entrate. . . . . . . . . . . . . . . . . . . . . . L. 11.087.788.658 Spese. . . 
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 33
+## Art. 33
 
 Le entrate correnti ed in conto capitale del bilancio dell'Amministrazione del Fondo per il Culto, accertate nell'esercizio finanziario 1969 per la competenza propria dell'esercizio medesimo risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in. .
 
@@ -551,7 +551,7 @@ rimasero da versare. . . . . . ". 471.894
  --------------
 ```
 
-### Art. 34
+## Art. 34
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, accertate nell'esercizio finanziario 1969 per la competenza propria dell'esercizio stesso, risultano stabilite in. . . . . . . . . . . . . . . L. 23.629.535.722
 
@@ -562,7 +562,7 @@ delle quali furono pagate . . . . . . . . . . . . . ". 21.645.016.600
  --------------
 ```
 
-### Art. 35
+## Art. 35
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti in . . . . . . . . . . . . . . . L. 6.852.957.251 dei quali nell'esercizio 1969:
 
@@ -577,7 +577,7 @@ rimasero da versare. . . . . . . ". 378.784
  -------------
 ```
 
-### Art. 36
+## Art. 36
 
 I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti in . . . . . . . . . . . . . . . L. 1.794.385.062 dei quali furono pagati nel 1969 . . . . . . . . . . ". 1.588.584.716
 
@@ -586,7 +586,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabil
  -------------
 ```
 
-### Art. 37
+## Art. 37
 
 I residui attivi alla chiusura dell'esercizio finanziario 1969 risultano stabiliti nelle seguenti somme:
 
@@ -599,7 +599,7 @@ Somme rimaste da riscuotere sulle entrate accertate per la competenza propria de
  -------------
 ```
 
-### Art. 38
+## Art. 38
 
 I residui passivi alla chiusura dell'esercizio finanziario 1969 risultano stabiliti nelle seguenti somme:
 
@@ -612,7 +612,7 @@ Somme rimaste da pagare sulle spese accertate per la competenza propria dell'ese
  -------------
 ```
 
-### Art. 39
+## Art. 39
 
 Il saldo attivo del conto finanziario dell'Amministrazione del Fondo per il Culto alla fine dell'esercizio 1969, e' accertato nella somma di lire 1.677.329.252,30, come risulta dai seguenti dati:
 
@@ -648,7 +648,7 @@ Spese dell'esercizio finanziario 1969. . . . . . L. 23.629.535.722,- Saldo attiv
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 40
+## Art. 40
 
 Le entrate correnti ed in conto capitale del bilancio del Fondo di beneficenza e di religione nella citta' di Roma, accertate nell'esercizio 1969, per la competenza propria dell'esercizio medesimo, risultano stabilite dal conto consuntivo di detta Amministrazione, allegato al conto consuntivo del Ministero dell'interno, in . . . . . . . . . . . . . . . . . . . L. 749.872.095 delle quali:
 
@@ -664,7 +664,7 @@ e rimasero da riscuotere . . . . . . . . . . . . . . L. 178.463.666
  -----------
 ```
 
-### Art. 41
+## Art. 41
 
 Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, accertate nell'esercizio finanziario 1969, per la competenza propria dell'esercizio medesimo, risultano stabilite in . . . . . . . . . . . . . . . . . . . . . L. 749.872.095 delle quali furono pagate. . . . . . . . . . . . . . . ". 322.213.989
 
@@ -673,7 +673,7 @@ Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predett
  -----------
 ```
 
-### Art. 42
+## Art. 42
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti in. . . . . . . . . . . . . . . . L. 136.941.434 dei quali nell'esercizio 1969:
 
@@ -688,7 +688,7 @@ rimasero da versare. . . . . . . L. 272
  -----------
 ```
 
-### Art. 43
+## Art. 43
 
 I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti in . . . . . . . . . . . . . . . . L. 246.591.542 dei quali furono pagati nel 1969 . . . . . . . . . . . ". 202.321.861
 
@@ -697,7 +697,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabil
  -----------
 ```
 
-### Art. 44
+## Art. 44
 
 I residui attivi alla chiusura dell'esercizio finanziario 1969 risultano stabiliti nelle seguenti somme:
 
@@ -710,7 +710,7 @@ Somme rimaste da riscuotere sui residui degli esercizi precedenti (articolo 42).
  -----------
 ```
 
-### Art. 45
+## Art. 45
 
 I residui passivi alla chiusura dell'esercizio finanziario 1969 risultano stabiliti nelle seguenti somme:
 
@@ -723,7 +723,7 @@ Somme rimaste da pagare sui residui degli esercizi precedenti (articolo 43) . . 
  -----------
 ```
 
-### Art. 46
+## Art. 46
 
 Il saldo attivo del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1969, e' accertato nella somma di lire 19.810.962,58, come risulta dai seguenti dati:
 
@@ -768,7 +768,7 @@ al 31 dicembre 1969. . . . . . .". 136.941.434
 
 ## PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 47
+## Art. 47
 
 Le entrate correnti ed in conto capitale dell'Azienda dei patrimoni riuniti ex economali, accertate nell'esercizio finanziario 1969, per la competenza propria dell'esercizio stesso, risultano stabilite dal conto consuntivo dell'Amministrazione medesima, allegato al consuntivo del Ministero dell'interno, in. . . . . . L. 515.645.425 delle quali:
 
@@ -783,7 +783,7 @@ rimasero da versare . . . . . . .". 21.356
  -----------
 ```
 
-### Art. 48
+## Art. 48
 
 Le spese correnti ed in conto capitale dell'Azienda predetta, accertate nell'esercizio finanziario 1969 per la competenza propria dell'esercizio stesso, risultano stabilite, dal conto consuntivo, in . . . . . . . . . . . . . . . . . . . . . . . . . L. 516.166.158 delle quali furono pagate. . . . . . . . . . . . . . ". 361.968.824
 
@@ -792,7 +792,7 @@ Le spese correnti ed in conto capitale dell'Azienda predetta, accertate nell'ese
  -----------
 ```
 
-### Art. 49
+## Art. 49
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti dal conto consuntivo dell'Azienda, in. .
 
@@ -809,7 +809,7 @@ rimasero da versare . . . . . . ". 20.723
  ----------
 ```
 
-### Art. 50
+## Art. 50
 
 I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti dal conto consuntivo dell'Azienda, in. .
 
@@ -820,7 +820,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabil
  -----------
 ```
 
-### Art. 51
+## Art. 51
 
 I residui attivi alla chiusura dell'esercizio finanziario 1969, risultano stabiliti, dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -833,7 +833,7 @@ Somme rimaste da riscuotere sulle entrate accertate per la competenza propria de
  ----------
 ```
 
-### Art. 52
+## Art. 52
 
 I residui passivi alla chiusura dell'esercizio finanziario 1969, risultano stabiliti, dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -844,7 +844,7 @@ Somme rimaste da pagare sulle spese accertate per la competenza propria dell'ese
  -----------
 ```
 
-### Art. 53
+## Art. 53
 
 Il saldo attivo del conto finanziario dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1969, e' accertato nella somma di lire 37.038.109.88, come risulta dai seguenti dati:
 
@@ -887,7 +887,7 @@ al 31 dicembre 1969. . . . . .". 140.248.937
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 54
+## Art. 54
 
 Le entrate correnti ed in conto capitale del bilancio dell'Azienda nazionale autonoma delle strade, accertate nell'esercizio finanziario 1969 per la competenza propria dell'esercizio medesimo, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al consuntivo del Ministero dei lavori pubblici, in . . .
 
@@ -898,7 +898,7 @@ Le entrate correnti ed in conto capitale del bilancio dell'Azienda nazionale aut
  ---------------
 ```
 
-### Art. 55
+## Art. 55
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, accertate nell'esercizio finanziario 1969 per la competenza propria dell'esercizio medesimo, risultato stabilite in . . . . . . . . . . . . . . L. 288.688.002.668 delle quali furono pagate. . . . . . . . . . . . . L. 117.360.650.084
 
@@ -907,7 +907,7 @@ Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio del
  ---------------
 ```
 
-### Art. 56
+## Art. 56
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti in . . . . . . . . . . . . . . L. 366.557.812.524 dei quali nell'esercizio 1969 furono riscossi e versati . . .
 
@@ -918,7 +918,7 @@ I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabili
  ---------------
 ```
 
-### Art. 57
+## Art. 57
 
 I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti in . . . . . . . . . . . . . . L. 510.410.640.649 dei quali furono pagati nel 1969 . . . . . . . . . L. 198.375.963.236
 
@@ -927,7 +927,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabil
  ---------------
 ```
 
-### Art. 58
+## Art. 58
 
 I residui attivi alla chiusura dell'esercizio finanziario 1969 risultano stabiliti nelle seguenti somme:
 
@@ -940,7 +940,7 @@ Somme rimaste da riscuotere sulle entrate accertate per la competenza propria de
  ---------------
 ```
 
-### Art. 59
+## Art. 59
 
 I residui passivi alla chiusura dell'esercizio 1969 risultano stabiliti nelle seguenti somme:
 
@@ -955,7 +955,7 @@ Somme rimaste da pagare sulle spese accertate per la competenza propria dell'ese
 
 ## AMMINISTRAZIONE DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-### Art. 60
+## Art. 60
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione delle poste e delle telecomunicazioni, accertate nell'esercizio 1969 per la competenza propria dell'esercizio medesimo, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni per l'esercizio finanziario predetto, in . . . . . . . . . . . . . L. 539.707.548.672 delle quali furono riscosse e versate. . . . . . . L. 403.165.601.019
 
@@ -964,7 +964,7 @@ Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio
  ---------------
 ```
 
-### Art. 61
+## Art. 61
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, accertate nell'esercizio 1969, per la competenza propria dell'esercizio medesimo, risultano stabilite in . . . . . . . . . . . . . . . . . . . L. 539.707.548.672 delle quali furono pagate. . . . . . . . . . . . . L. 386.100.138.677
 
@@ -973,7 +973,7 @@ Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio del
  ---------------
 ```
 
-### Art. 62
+## Art. 62
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti in . . . . . . . . . . . . . . L. 345.868.834.419 dei quali nell'esercizio 1969 furono riscossi e versati. . .
 
@@ -984,7 +984,7 @@ I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabili
  ---------------
 ```
 
-### Art. 63
+## Art. 63
 
 I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti in . . . . . . . . . . . . . . L. 221.595.046.422 dei quali nell'esercizio 1969 furono pagati. . . . L. 144.452.191.704
 
@@ -993,7 +993,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabil
  ---------------
 ```
 
-### Art. 64
+## Art. 64
 
 I residui attivi alla chiusura dell'esercizio 1969 risultano stabiliti nelle seguenti somme:
 
@@ -1007,7 +1007,7 @@ Somme rimaste da riscuotere sulle entrate accertate per la competenza propria de
  ---------------
 ```
 
-### Art. 65
+## Art. 65
 
 I residui passivi alla chiusura dell'esercizio 1969 risultano stabiliti nelle seguenti somme:
 
@@ -1020,7 +1020,7 @@ Somme rimaste da pagare sulle spese accertate per la competenza propria dell'ese
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 66
+## Art. 66
 
 Le entrate correnti ed in conto capitale del bilancio dell'Azienda di Stato per i servizi telefonici, accertate nell'esercizio finanziario 1969 per la competenza propria dell'esercizio medesimo, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni per l'esercizio predetto in. . . L. 209.684.089.892 delle quali furono riscosse e versate. . . . . . . ". 192.336.098.262
 
@@ -1029,7 +1029,7 @@ Le entrate correnti ed in conto capitale del bilancio dell'Azienda di Stato per 
  ---------------
 ```
 
-### Art. 67
+## Art. 67
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, accertate nell'esercizio finanziario 1969 per la competenza propria dell'esercizio medesimo, risultano stabilite in . . . . . . . . . . . . . . L. 209.684.089.892 delle quali furono pagate. . . . . . . . . . . . . L. 107.536.980.799
 
@@ -1038,7 +1038,7 @@ Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio del
  ---------------
 ```
 
-### Art. 68
+## Art. 68
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti in. . . . . . . . . . . . . . . L. 30.341.113.827 dei quali nell'esercizio 1969:
 
@@ -1053,7 +1053,7 @@ rimasero da versare . . . . . .". 11.000.000.000
  --------------
 ```
 
-### Art. 69
+## Art. 69
 
 I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti in. . . . . . . . . . . . . . L. 129.766.719.153 dei quali nell'esercizio 1969 furono pagati . . . L. 76.640.967.972
 
@@ -1062,7 +1062,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabil
  ---------------
 ```
 
-### Art. 70
+## Art. 70
 
 I residui attivi alla chiusura dell'esercizio 1969 risultano stabiliti nelle seguenti somme:
 
@@ -1075,7 +1075,7 @@ Somme rimaste da riscuotere sulle entrate accertate per la competenza propria de
  --------------
 ```
 
-### Art. 71
+## Art. 71
 
 I residui passivi alla chiusura dell'esercizio 1969 risultano stabiliti nelle seguenti somme:
 
@@ -1088,7 +1088,7 @@ Somme rimaste da pagare sulle spese accertate per la competenza propria dell'ese
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 72
+## Art. 72
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione delle ferrovie dello Stato, comprese quelle delle gestioni speciali ed autonome, accertate nell'esercizio finanziario 1969, per la competenza propria dell'esercizio medesimo, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al consuntivo del Ministero dei trasporti e dell'aviazione civile per l'esercizio predetto, in. .
 
@@ -1099,7 +1099,7 @@ Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio
  -----------------
 ```
 
-### Art. 73
+## Art. 73
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali ed autonome accertate nell'esercizio finanziario 1969, risultano stabilite in . . . . . . . . . . L. 2.484.045.246.337 delle quali furono pagate. . . . . . . . . . . . ". 1.972.045.084.962
 
@@ -1108,7 +1108,7 @@ Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio del
  -----------------
 ```
 
-### Art. 74
+## Art. 74
 
 Il riassunto generale dei risultati delle, entrate e delle spese dell'Amministrazione delle ferrovie dello Stato, di competenza dell'esercizio finanziario: 1969, risulta cosi' stabilito:
 
@@ -1130,7 +1130,7 @@ Spese (escluse le gestioni speciali ed autonome). . . . . . . . .
  -----------------
 ```
 
-### Art. 75
+## Art. 75
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti in . . . . . . . . . . . . . . L. 581.989.613.359 dei quali nell'esercizio 1969 furono riscossi e versati. . . .
 
@@ -1141,7 +1141,7 @@ I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabili
  ---------------
 ```
 
-### Art. 76
+## Art. 76
 
 I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti in . . . . . . . . . . . . . . L. 675.936.197.715 dei quali nell'esercizio 1969 furono pagati. . . . ". 368.097.361.361
 
@@ -1150,7 +1150,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabil
  ---------------
 ```
 
-### Art. 77
+## Art. 77
 
 I residui attivi alla chiusura dell'esercizio 1969 risultano stabiliti nelle seguenti somme:
 
@@ -1161,7 +1161,7 @@ Somme rimaste da riscuotere sulle entrate accertate per la competenza propria de
  ---------------
 ```
 
-### Art. 78
+## Art. 78
 
 I residui passivi alla chiusura dell'esercizio 1969 risultano stabiliti nelle seguenti somme:
 

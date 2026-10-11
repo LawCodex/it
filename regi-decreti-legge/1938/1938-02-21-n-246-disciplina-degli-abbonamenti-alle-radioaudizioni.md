@@ -56,9 +56,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 Abbiamo decretato e decretiamo:
 
-## TITOLO I. - Disposizioni generali.
-
-### Dell'abbonamento alle radioaudizioni.
+## TITOLO I. - Disposizioni generali. Dell'abbonamento alle radioaudizioni.
 
 #### Art. 1
 
@@ -122,7 +120,7 @@ Per il primo pagamento da parte dei nuovi abbonati, l'utente che inizia l'abbona
 
 Se l'utente intende eseguire il versamento in rate semestrali e' obbligato al pagamento del canone in ragione di L. 7 al mese, giusta la citata tabella, a decorrere dal mese in cui ha avuto inizio la detenzione dell'apparecchio e per quanti sono i mesi del semestre in corso mancanti per arrivare al 30 giugno o al 31 dicembre.
 
-## Capo II. - Termini per il pagamento del canone.
+### Capo II. - Termini per il pagamento del canone.
 
 #### Art. 5
 
@@ -138,7 +136,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. del Capo Provvisorio dello Stato 11 aprile 1947, n. 274 ha disposto (con l'articolo unico, comma 1) che "La scadenza del termine di cui all'art. 5 del regio decreto-legge 21 febbraio 1938, n. 246, per il pagamento dei canoni di rinnovazione degli abbonamenti alle radioaudizioni circolari e' stabilita, per l'anno 1947, al 15 aprile 1947".
 
-## CAPO III. - Del Libretto di iscrizione alle radioaudizioni.
+### CAPO III. - Del Libretto di iscrizione alle radioaudizioni.
 
 #### Art. 6
 
@@ -172,9 +170,7 @@ Sul libretto deve essere apposta dallo stesso ufficio la leggenda:
 
 La richiesta del duplicato del libretto a norma del presente articolo non esclude l'applicazione delle sanzioni di cui ai successivi articoli 19 e 20 qualora l'abbonato, al momento della richiesta, non sia in regola con i pagamenti giusta le norme del presente decreto.
 
-## CAPO IV. - Cambiamento di residenza o di abitazione dell'abbonato.
-
-### Denunzia all'Ufficio del Registro.
+### CAPO IV. - Cambiamento di residenza o di abitazione dell'abbonato. Denunzia all'Ufficio del Registro.
 
 #### Art. 9
 
@@ -182,7 +178,7 @@ L'abbonato alle radioaudizioni e chi, pur non essendo abbonato, detenga un appar
 
 Nella denunzia deve essere indicato il numero di ruolo risultante dal libretto di iscrizione o gli estremi della licenza in prova, il luogo ove viene trasferito il domicilio, la residenza e l'abitazione con il relativo indirizzo.
 
-## Capo V. - Cessazione dell'uso dell'apparecchio da parte degli abbonati.
+### Capo V. - Cessazione dell'uso dell'apparecchio da parte degli abbonati.
 
 #### Art. 10
 
@@ -260,7 +256,7 @@ La variazione della intestazione del libretto deve essere fatta direttamente dal
 
 Analoga variazione deve essere fatta dal procuratore sul ruolo di consistenza degli abbonati.
 
-## CAPO VI. - Licenza di temporanea importazione.
+### CAPO VI. - Licenza di temporanea importazione.
 
 #### Art. 14
 
@@ -274,7 +270,7 @@ Per gli apparecchi installati stabilmente su autovetture il periodo di validita'
 
 Qualora il turista o viaggiatore ritorni all'estero entro i periodi sopra contemplati, e sempre che non risulti manomissione o rottura nei timbri e sigilli apposti dalla dogana, ha diritto al rimborso del deposito effettuato.
 
-## CAPO VII. - Obblighi dei rivenditori di apparecchi radioriceventi.
+### CAPO VII. - Obblighi dei rivenditori di apparecchi radioriceventi.
 
 #### Art. 15
 
@@ -334,7 +330,7 @@ AGGIORNAMENTO (7)
 
 La L. 12 novembre 1949, n. 996 ha disposto (con l'art. 1, comma 1) che "L'obbligo della tenuta del registro di carico e scarico di cui [...] all'art. 17 del regio decreto-legge 21 febbraio 1938, n. 246, e' abolito per i commercianti, riparatori, rappresentanti ed agenti di vendita".
 
-## CAPO VIII. - Esenzioni.
+### CAPO VIII. - Esenzioni.
 
 #### Art. 18
 
@@ -342,7 +338,7 @@ Indipendentemente dalle esenzioni stabilite dal R. decreto-legge, 9 settembre 19
 
 Sono altresi' esenti dal pagamento del canone gli apparecchi adoperati per uso militare, siano essi sistemati a terra od a bordo di navi o di aeromobili.
 
-## Capo IX. - Sanzioni.
+### Capo IX. - Sanzioni.
 
 #### Art. 19
 
@@ -426,7 +422,7 @@ Il D.Lgs. 18 dicembre 1997, n. 473 ha disposto (con l'art. 19, comma 3) che "le 
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 DICEMBRE 1997, N. 473))
 
-## CAPO X. - Competenza per l'accertamento delle violazioni.
+### CAPO X. - Competenza per l'accertamento delle violazioni.
 
 #### Art. 24
 
@@ -450,9 +446,7 @@ Nel privilegio, di cui all'art. 1958, n. 1, del Codice civile, devono ritenersi 
 
 Tali crediti sono pure compresi nel privilegio sulla generalita' dei mobili di cui all'art. 1957 dello stesso Codice civile.
 
-## TITOLO III. - Canone di abbonamento per audizioni in locali pubblici od aperti al
-
-### pubblico.
+## TITOLO III. - Canone di abbonamento per audizioni in locali pubblici od aperti al pubblico.
 
 #### Art. 27
 

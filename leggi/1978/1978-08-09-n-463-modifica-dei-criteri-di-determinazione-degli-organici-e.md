@@ -26,19 +26,15 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - MODIFICHE ALLE NORME SUL CONFERIMENTO DEGLI INCARICHI E DELLE
+## TITOLO I - MODIFICHE ALLE NORME SUL CONFERIMENTO DEGLI INCARICHI E DELLE SUPPLENZE - DISPOSIZIONI CONCERNENTI IL PERSONALE INCARICATO E SUPPLENTE.
 
-### SUPPLENZE - DISPOSIZIONI CONCERNENTI IL PERSONALE INCARICATO E - SUPPLENTE.
+### Capo I - MODIFICHE ALLE NORME SUL CONFERIMENTO DEGLI INCARICHI E DELLE SUPPLENZE
 
-#### Capo I
-
-##### MODIFICHE ALLE NORME SUL CONFERIMENTO DEGLI INCARICHI E DELLE - SUPPLENZE
-
-###### Art. 1
+#### Art. 1
 
 ((ARTICOLO ABROGATO DALLA L. 20 MAGGIO 1982, N. 270)).
 
-###### Art. 2 - Conferimento degli incarichi e delle supplenze al personale docente delle scuole materne, elementari, secondarie ed artistiche
+#### Art. 2 - Conferimento degli incarichi e delle supplenze al personale docente delle scuole materne, elementari, secondarie ed artistiche
 
 Le graduatorie provinciali per il conferimento dei nuovi incarichi e delle supplenze al personale docente delle scuole materne, elementari, secondarie ed artistiche sono compilate ogni biennio, ad anni alterni rispetto alle graduatorie da compilare per il personale non docente ai sensi del successivo articolo 3.
 
@@ -76,7 +72,7 @@ AGGIORNAMNTO (4)
 
 Il D.L. 6 novembre 1989, n.357, convertito, con modificazioni dalla L. 27 dicembre 1989, n. 417 ha disposto (con l'art. 8, comma 1) che le graduatorie di cui al presente articolo", da compilare dopo la data di entrata in vigore del presente decreto, hanno carattere permanente."
 
-###### Art. 3 - Conferimento degli incarichi e delle supplenze al personale non docente nelle scuole materne, elementari, secondarie ed artistiche
+#### Art. 3 - Conferimento degli incarichi e delle supplenze al personale non docente nelle scuole materne, elementari, secondarie ed artistiche
 
 Le graduatorie provinciali per il conferimento dei nuovi incarichi e delle supplenze al personale non docente delle scuole materne, elementari, secondarie ed artistiche sono compilate ogni biennio, ad anni alterni rispetto alle graduatorie da compilare per il personale docente ai sensi del precedente articolo 2.
 
@@ -106,15 +102,13 @@ Per la notifica del ricorso ai controinteressati si applica l'articolo 4 del dec
 
 La commissione decide, in via definitiva, entro trenta giorni dalla data della presentazione dei ricorsi. Scaduto infruttuosamente tale termine, i ricorsi si intendono respinti.
 
-###### Art. 4 - Norme particolari sul conferimento di incarichi
+#### Art. 4 - Norme particolari sul conferimento di incarichi
 
 Le operazioni di conferimento di incarichi si effettuano ai sensi del primo comma dell'articolo 6 della legge 22 dicembre 1977, n. 951.
 
-## TITOLO II - REVISIONE DEI CRITERI DI DETERMINAZIONE DEI RUOLI ORGANICI DEL
+## TITOLO II - REVISIONE DEI CRITERI DI DETERMINAZIONE DEI RUOLI ORGANICI DEL PERSONALE DOCENTE DELLA SCUOLA SECONDARIA ED ARTISTICA.
 
-### PERSONALE DOCENTE DELLA SCUOLA SECONDARIA ED ARTISTICA.
-
-###### Art. 5
+#### Art. 5
 
 (Revisione dei criteri di determinazione dei ruoli organici del
 
@@ -128,13 +122,11 @@ Le dotazioni organiche saranno determinate, su base provinciale, dal provveditor
 
 Quando i ruoli sono nazionali, i provveditori agli studi, definite le dotazioni organiche su base provinciale, le comunicano al Ministero della pubblica istruzione, che, accertano la conformita' ai criteri stabiliti nell'ordinanza di cui al precedente comma, provvede alla determinazione delle dotazioni organiche nazionali.
 
-## TITOLO III - IMMISSIONE DI INSEGNANTI NEI RUOLI DELLA SCUOLA MATERNA,
+## TITOLO III - IMMISSIONE DI INSEGNANTI NEI RUOLI DELLA SCUOLA MATERNA, ELEMENTARE, SECONDARIA ED ARTISTICA.
 
-### ELEMENTARE, SECONDARIA ED ARTISTICA.
+### Capo I - DISPOSIZIONI RELATIVE ALLE SCUOLE MATERNE STATALI
 
-#### Capo I - DISPOSIZIONI RELATIVE ALLE SCUOLE MATERNE STATALI
-
-###### Art. 6 - Immissione di insegnanti nei ruoli delle scuole materne statali
+#### Art. 6 - Immissione di insegnanti nei ruoli delle scuole materne statali
 
 Con decorrenza, ai soli effetti giuridici, dall'inizio dell'anno scolastico 1977-78, le insegnanti incaricate a tempo indeterminato nelle scuole materne statali, in servizio nell'anno scolastico 1976-77 o nell'anno scolastico 1977-78, sono nominate in ruolo, previo superamento, qualora non fornite del prescritto titolo di abilitazione all'insegnamento nelle scuole materne, di un corso abilitante speciale della durata di non meno di duecento ore di lezioni, organizzato nel corso dell'intero anno scolastico, secondo le modalita' di cui alla legge 19 luglio 1974, n. 349.
 
@@ -148,13 +140,13 @@ L'assegnazione della sede alle insegnanti nominate in ruolo per effetto di quant
 
 4\) insegnanti abilitate a seguito del corso previsto dal precedente primo comma, in servizio nell'anno scolastico 1977-78.
 
-###### Art. 7 - Immissione di assistenti nei ruoli del personale insegnante delle scuole materne statali
+#### Art. 7 - Immissione di assistenti nei ruoli del personale insegnante delle scuole materne statali
 
 Con decorrenza, ai soli effetti giuridici, dall'inizio dell'anno scolastico 1977-78, le assistenti di ruolo e le assistenti incaricate a tempo indeterminato nelle scuole materne statali, in servizio alla data di entrata in vigore della presente legge, sono collocate d'ufficio nei ruoli delle insegnanti delle scuole materne statali, purche' siano in possesso del titolo di studio prescritto dalla legge 18 marzo 1968, n. 444, e previo superamento qualora non fornite dal prescritto titolo di abilitazione, del corso abilitante speciale di cui al precedente articolo 6, primo comma.
 
 L'assegnazione della sede alle assistenti di ruolo in possesso del titolo prescritto per l'insegnamento dalla legge 18 marzo 1968, n. 444, e' disposta assieme a quella delle insegnanti di cui al punto n. 2 del precedente articolo 6.
 
-###### Art. 8 - Soppressione dei ruoli provinciali delle assistenti delle scuole materne statali
+#### Art. 8 - Soppressione dei ruoli provinciali delle assistenti delle scuole materne statali
 
 Con decorrenza dall'inizio dell'anno scolastico 1982-1983, i ruoli provinciali delle assistenti delle scuole materne statali, di cui all'articolo 2, secondo comma, del decreto del Presidente della Repubblica 31 maggio 1974, n. 420, sono soppressi.
 
@@ -176,7 +168,7 @@ Con effetto dalla stessa data di soppressione dei ruoli provinciali ai sensi del
 
 Per l'iscrizione nei suddetti ruoli si applicano i criteri di cui ai commi quinto, sesto e settimo dell'articolo 29 dello stesso decreto del Presidente della Repubblica 31 maggio 1974, n. 420.
 
-###### Art. 9 - Disposizioni particolari sul funzionamento delle scuole materne statali
+#### Art. 9 - Disposizioni particolari sul funzionamento delle scuole materne statali
 
 L'orario di funzionamento delle scuole materne statali e' di otto ore e puo' raggiungere un massimo di dieci ore giornaliere, anche su proposta del consiglio di circolo.
 
@@ -196,9 +188,9 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 8-16 giugno 1983, n. 1973 (in G.U. 1a s.s. 22/06/1983, n. 170) ha dichiarato l'illegittimita' costituzionale del presente articolo "nella parte in cui tali disposizioni si riferiscono alle insegnanti, invece che al corpo docente di ambo i sessi."
 
-## Capo II - DISPOSIZIONI RELATIVE ALLE SCUOLE ELEMENTARI STATALI
+### Capo II - DISPOSIZIONI RELATIVE ALLE SCUOLE ELEMENTARI STATALI
 
-###### Art. 10 - Immissione di insegnanti nei ruoli delle scuole elementari statali
+#### Art. 10 - Immissione di insegnanti nei ruoli delle scuole elementari statali
 
 Con decorrenza dall'inizio dell'anno scolastico 1978-1979 e fino all'inizio dell'anno scolastico 1980-81 incluso, tutti i posti disponibili nel ruolo normale e nel ruolo in soprannumero degli insegnanti delle scuole elementari di ciascuna provincia, dopo aver effettuato i trasferimenti annuali su tutti i posti di ruolo normale senza tener conto delle aliquote previste dalle vigenti disposizioni e dopo aver detratto i posti di cui alla riserva prevista dall'articolo 40 della legge 26 maggio 1975, n. 327, e quelli occorrenti per le immissioni in ruolo da disporre ai sensi dell'ultimo comma del presente articolo, sono destinati all'immissione in ruolo degli insegnanti elementari iscritti nelle graduatorie provinciali permanenti di cui alla legge 25 luglio 1966, n. 574, modificata dalla legge 24 settembre 1971, n. 820.
 
@@ -230,19 +222,17 @@ Le nomine per effetto delle graduatorie provinciali permanenti sono disposte con
 
 Con decorrenza, ai soli effetti giuridici, dall'inizio dell'anno scolastico 1977-78, gli insegnanti delle scuole elementari incaricati a tempo indeterminato, in servizio alla data di entrata in vigore della presente legge, compresi gli insegnanti delle scuole elementari carcerarie e gli insegnanti delle materie speciali previste dal secondo comma dell'articolo 27 del regio decreto 1 luglio 1933, n. 786, che non abbiano beneficiato dell'immissione in ruolo disposta a norma dell'articolo 5 della legge 10 maggio 1976, n. 317, sono nominati in ruolo.
 
-###### Art. 11 - Nomina dei vincitori del concorso a 1025 posti di direttore didattico in prova, bandito con decreto ministeriale del 28 gennaio 1977
+#### Art. 11 - Nomina dei vincitori del concorso a 1025 posti di direttore didattico in prova, bandito con decreto ministeriale del 28 gennaio 1977
 
 In deroga a quanto stabilito dall'articolo 56 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417, la nomina dei vincitori del concorso a 1025 posti di direttore didattico in prova, bandito con decreto ministeriale del 28 gennaio 1977, puo' avvenire anche nel corso dell'anno scolastico.
 
-###### Art. 12 - Disposizioni particolari concernenti i ruoli organici delle scuole elementari
+#### Art. 12 - Disposizioni particolari concernenti i ruoli organici delle scuole elementari
 
 Fino all'inizio dell'anno scolastico 1981-82, i posti di insegnante elementare di ruolo istituiti per le normali attivita' educative e didattiche non saranno soppressi a seguito di contrazioni della popolazione scolastica della provincia o per altre cause, nella misura in cui possono essere utilizzati per l'estensione delle attivita' integrative e degli insegnamenti speciali di cui all'articolo 1 della legge 24 settembre 1971, n. 820, entro i limiti delle richieste avanzate dagli organi competenti e comprese nella programmazione dai consigli scolastici distrettuali, nonche' per iniziative a sostegno dell'integrazione nelle classi normali di alunni portatori di handicaps.
 
-## Capo III - NORME RELATIVE AGLI ISTITUTI E SCUOLE DI ISTRUZIONE SECONDARIA ED
+### Capo III - NORME RELATIVE AGLI ISTITUTI E SCUOLE DI ISTRUZIONE SECONDARIA ED ARTISTICA
 
-### ARTISTICA
-
-###### Art. 13 - Immissione nei ruoli degli istituti e scuole di istruzione secondaria e artistica
+#### Art. 13 - Immissione nei ruoli degli istituti e scuole di istruzione secondaria e artistica
 
 Le graduatorie ad esaurimento previste dalle leggi 28 luglio 1961, n. 831, 29 marzo 1965, n. 336, 25 luglio 1966, n. 603, 28 marzo 1968, n. 359, 2 aprile 1968, n. 468 e 6 dicembre 1971, n. 1074, e da successive modificazioni e integrazioni, sono soppresse e trasformate in corrispondenti graduatorie provinciali, che saranno compilate dal provveditore agli studi in base alle classi di concorso stabilite dal decreto ministeriale 2 marzo 1972, e successive modificazioni ed integrazioni.
 
@@ -322,19 +312,19 @@ AGGIORNAMENTO (3)
 
 La Corte Costituzionale, con sentenza 9-23 giugno 1988, n. 690 (in G.U. 1a s.s. 29/06/1988, n. 26) ha dichiarato l'illegittimita' costituzionale del comma 7 del presente articolo "nella parte in cui, ai fini della immissione in ruolo di insegnanti di scuole secondarie, non equipara a coloro che hanno conseguito l'abilitazione a seguito della partecipazione ai corsi abilitanti indetti ai sensi dell'art. 5 della legge 6 dicembre 1971 n. 1074, coloro che l'abbiano conseguita per effetto della partecipazione a concorsi a cattedre, banditi anteriormente alla entrata in vigore della predetta legge."
 
-###### Art. 14 - Utilizzazione di insegnanti immessi in ruolo
+#### Art. 14 - Utilizzazione di insegnanti immessi in ruolo
 
 Qualora, a seguito delle immissioni in ruolo disposte per effetto del precedente articolo 13, si determini un soprannumero rispetto alle cattedre o posti di ruolo organico disponibili, si applica per l'utilizzazione del personale il disposto di cui all'articolo unico della legge 14 agosto 1974, n. 391.
 
 Gli insegnanti dei corsi sperimentali di scuola media per lavoratori e gli insegnanti delle libere attivita' complementari, immessi in ruolo per effetto di quanto disposto dal precedente articolo 13, sono utilizzati, rispettivamente, nei corsi medesimi e nell'insegnamento di libere attivita' complementari nella scuola media, fino a quando non verra' loro assegnata la sede definitiva ai sensi del sedicesimo comma del precedente articolo 13.
 
-###### Art. 15 - Disposizioni particolari concernenti il personale gia' dipendente dal soppresso ente ONAIRC
+#### Art. 15 - Disposizioni particolari concernenti il personale gia' dipendente dal soppresso ente ONAIRC
 
 Al personale di ruolo e non di ruolo ispettivo tecnico, direttivo, docente, non docente ed amministrativo - quest'ultimo assegnato ai provveditorati agli studi o, a domanda, alle direzioni didattiche - gia' dipendente dell'ente ONAIRC, soppresso con decreto del Presidente della Repubblica 4 luglio 1977, n. 599, e trasferito allo Stato ai sensi dell'articolo 20 della legge 8 agosto 1977, n. 546, viene riconosciuta la posizione giuridica, economica e pensionistica acquisita all'atto del trasferimento, o, se piu' favorevole, quella risultante dalla ricostruzione della carriera ai sensi del decreto-legge 30 gennaio 1976, n. 13, convertito in legge 30 marzo 1976, n. 88, del decreto del Presidente della Repubblica 31 maggio 1974, n. 417, articolo 81 e del decreto del Presidente della Repubblica 31 maggio 1974, n. 420, e successive integrazioni e modifiche, equiparando al servizio prestato nello Stato l'anzianita' maturata nei ruoli di provenienza.
 
 Le eventuali differenze tra il trattamento economico maturato al momento del nuovo inquadramento e le retribuzioni derivanti dalla ricostruzione della carriera, sono trasformate in assegni ad personam riassorbibili con gli aumenti individuali e collettivi.
 
-###### Art. 16 - Immissione in ruolo di personale educativo
+#### Art. 16 - Immissione in ruolo di personale educativo
 
 Con decorrenza, ai soli effetti giuridici, dall'inizio dell'anno scolastico 1978-79 il personale educativo incaricato a tempo indeterminato nei convitti nazionali, negli educandati femminili dello Stato, nei convitti annessi agli istituti tecnici e professionali e nelle scuole speciali statali, in servizio nell'anno scolastico 1977-78, e' nominato in ruolo.
 
@@ -342,7 +332,7 @@ Il disposto di cui al precedente comma si applica anche al personale educativo n
 
 Al personale educativo si applicano le norme di cui all'articolo 1 della presente legge.
 
-###### Art. 17 - Norme particolari per gli istituti di istruzione artistica
+#### Art. 17 - Norme particolari per gli istituti di istruzione artistica
 
 Negli istituti di istruzione artistica le graduatorie degli aspiranti ad incarichi relativi a discipline per le quali le vigenti disposizioni non richiedono titoli di studio o di abilitazione specifici sono compilate da commissioni provinciali formate secondo criteri che saranno stabiliti con decreto del Ministro della pubblica istruzione, sentito il consiglio nazionale della pubblica istruzione.
 
@@ -360,7 +350,7 @@ La L. 20 maggio 1982, n. 270, ha disposto (con l'art. 16, comma 1) che "L'artico
 
 ## TITOLO IV - IMMISSIONE IN RUOLO DI PERSONALE NON DOCENTE
 
-###### Art. 18 - Immissione in ruolo di personale non docente
+#### Art. 18 - Immissione in ruolo di personale non docente
 
 Con decorrenza, ai soli effetti giuridici, dall'inizio dell'anno scolastico 1977-78, il personale non insegnante incaricato a tempo indeterminato, ivi compreso il personale contemplato dall'articolo 32, terzo comma, del decreto del Presidente della Repubblica 31 maggio 1974, n. 420, in servizio alla data di entrata in vigore della presente legge, e' nominato in ruolo.
 
@@ -382,11 +372,9 @@ I modelli viventi sono nominati a domanda nei ruoli dei bidelli, via via che si 
 
 Il servizio prestato in qualita' di modelli viventi e' riconosciuto nel ruolo di bidelli ai sensi e nei limiti di cui all'articolo 23 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420, quale risulta modificato dall'articolo 19 della presente legge.
 
-## TITOLO V - RICONOSCIMENTO DEL SERVIZIO AGLI EFFETTI DELLA CARRIERA DEL PERSONALE
+## TITOLO V - RICONOSCIMENTO DEL SERVIZIO AGLI EFFETTI DELLA CARRIERA DEL PERSONALE NON DOCENTE.
 
-### NON DOCENTE.
-
-###### Art. 19 - Riconoscimento del servizio non di ruolo del personale non docente
+#### Art. 19 - Riconoscimento del servizio non di ruolo del personale non docente
 
 Il primo comma dell'articolo 23 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420, e' modificato nel senso che il servizio non di ruolo prestato dal personale non docente nelle scuole od istituzioni educative statali e' riconosciuto sino ad un massimo di tre anni agli effetti giuridici ed economici e, per la restante parte, nella misura di due terzi, ai soli fini economici.
 
@@ -394,19 +382,17 @@ Il disposto di cui al precedente comma si applica anche al personale non docente
 
 ## TITOLO VI - NORME VARIE E TRANSITORIE
 
-### Capo I
+### Capo I - NORME CONCERNENTI PARTICOLARI CATEGORIE DI PERSONALE DOCENTE
 
-#### NORME CONCERNENTI PARTICOLARI CATEGORIE DI PERSONALE DOCENTE
-
-###### Art. 20 - Insegnanti di libere attivita' complementari nelle scuole medie
+#### Art. 20 - Insegnanti di libere attivita' complementari nelle scuole medie
 
 Agli insegnanti delle libere attivita' complementari, confermati in base all'articolo 9 della ordinanza ministeriale 1 luglio 1976, e' riservato il 20 per cento dei posti destinati al conferimento di incarichi al personale non docente di carriera corrispondente al titolo di studio posseduto.
 
-###### Art. 21 - Insegnanti elementari in servizio nelle segreterie dei circoli didattici
+#### Art. 21 - Insegnanti elementari in servizio nelle segreterie dei circoli didattici
 
 Gli insegnanti elementari che siano gia' stati inquadrati o saranno inquadrati nei ruoli provinciali dei segretari ai sensi dell'articolo 28, comma terzo, del decreto del Presidente della Repubblica 31 maggio 1974, n. 420, ferma restando la loro assegnazione alle segreterie dei circoli didattici, possono optare, entro il termine di sessanta giorni dalla data di entrata in vigore della presente legge, tra il collocamento permanente fuori ruolo, ai sensi dell'articolo 8 della legge 2 dicembre 1967, n. 1213, e l'inquadramento nei ruoli provinciali dei segretari.
 
-###### Art. 22 - Personale non di ruolo iscritto nel quadro speciale o nell'albo speciale dell'ex territorio di Trieste
+#### Art. 22 - Personale non di ruolo iscritto nel quadro speciale o nell'albo speciale dell'ex territorio di Trieste
 
 Agli insegnanti non di ruolo degli istituti e scuole di istruzione secondaria ed artistica, iscritti nel quadro speciale e nell'albo speciale dell'ex territorio di Trieste, ai sensi del decreto legislativo del Capo provvisorio dello Stato 10 luglio 1947, n. 677, e della legge 13 marzo 1958, n. 248, si applicano, qualora siano forniti, ove prescritto, del titolo di abilitazione, le disposizioni che i precedenti articoli 13 e 14 dettano per gli insegnanti incaricati a tempo indeterminato.
 
@@ -414,9 +400,9 @@ Agli insegnanti elementari non di ruolo iscritti nel quadro speciale o nell'albo
 
 Al personale non insegnante non di ruolo iscritto nel medesimo quadro od albo speciale si applicano le disposizioni di cui al precedente articolo 18.
 
-## Capo II - ESONERI E SEMIESONERI PER I DOCENTI CON FUNZIONI VICARIE
+### Capo II - ESONERI E SEMIESONERI PER I DOCENTI CON FUNZIONI VICARIE
 
-###### Art. 23
+#### Art. 23
 
 (Esoneri e semiesoneri a favore degli insegnanti incaricati di
 
@@ -440,7 +426,7 @@ Un ulteriore semiesonero puo' essere autorizzato nelle scuole funzionanti con un
 
 Nei circoli didattici affidati in reggenza l'autorizzazione dell'esonero puo' essere disposta a prescindere dal numero delle classi funzionanti.
 
-###### Art. 24 - Intervento delle organizzazioni sindacali
+#### Art. 24 - Intervento delle organizzazioni sindacali
 
 Presso ogni ufficio scolastico provinciale si costituisce una commissione sindacale di cui fa parte un rappresentante per ciascuno dei sindacati piu' rappresentativi, che organizzano su scala nazionale le categorie del personale direttivo, docente, educativo e non docente delle scuole materne, elementari, secondarie, artistiche e delle istituzioni educative.
 
@@ -454,23 +440,23 @@ Le graduatorie compilate per il conferimento di incarichi o ad altri fini sarann
 
 ## TITOLO VII - NORME RELATIVE AL RECLUTAMENTO DEL PERSONALE DOCENTE ED EDUCATIVO
 
-###### Art. 25 - Reclutamento di personale insegnante ed educativo e conseguimento dell'abilitazione
+#### Art. 25 - Reclutamento di personale insegnante ed educativo e conseguimento dell'abilitazione
 
 Dalla data di entrata in vigore della presente legge, il reclutamento del personale insegnante ed educativo e il conseguimento dell'abilitazione all'insegnamento sono disciplinati in conformita' a quanto previsto negli articoli successivi.
 
-###### Art. 26 - Accesso ai ruoli del personale insegnante ed educativo
+#### Art. 26 - Accesso ai ruoli del personale insegnante ed educativo
 
 L'accesso ai ruoli del personale insegnante ed educativo ha luogo mediante concorsi per esami, integrati dalla valutazione del titolo di studio richiesto per l'ammissione al concorso e dell'eventuale titolo di abilitazione.
 
 I concorsi sono banditi con frequenza non superiore al biennio in relazione al numero dei posti che si prevedono vacanti e disponibili per l'anno o per il biennio cui si riferisce il concorso e che possono essere maggiorati fino al dieci per cento, qualora se ne verifichi la disponibilita' all'atto della conclusione del concorso.
 
-###### Art. 27 - Concorsi per il reclutamento del personale
+#### Art. 27 - Concorsi per il reclutamento del personale
 
 I concorsi si svolgono nella forma decentrata in conformita' a quanto previsto dall'articolo 10 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417.
 
 Possono essere decentrati a livello provinciale anche i concorsi per il personale insegnante della scuola media.
 
-###### Art. 28 - Disposizioni sulle commissioni esaminatrici
+#### Art. 28 - Disposizioni sulle commissioni esaminatrici
 
 Le commissioni esaminatrici sono composte, avuto riguardo alle finalita' e alle materie dei singoli concorsi, da:
 
@@ -488,7 +474,7 @@ Per i concorsi su scala provinciale hanno la precedenza nella
 
 nomina i commissari che non risiedono ne' insegnano nella provincia.
 
-###### Art. 29 - Modalita' ed effettuazione dei concorsi
+#### Art. 29 - Modalita' ed effettuazione dei concorsi
 
 I concorsi constano di una o piu' prove scritte o pratiche, di una prova orale e di un tirocinio della durata di un anno scolastico.
 
@@ -504,7 +490,7 @@ personale educativo, superano le prove scritte o pratiche i candidati che abbian
 
 Per i candidati dei concorsi a cattedre nelle scuole di istruzione secondaria e artistica e a posti di insegnante nelle scuole materne l'esito positivo con votazione non inferiore a 28 quarantesimi delle prove scritte o pratiche e della prova orale del concorso ha anche valore abilitante.
 
-###### Art. 30 - Determinazione delle graduatorie e modalita' di effettuazione del tirocinio pratico
+#### Art. 30 - Determinazione delle graduatorie e modalita' di effettuazione del tirocinio pratico
 
 Terminate le prove scritte o pratiche e la prova orale, si da' luogo alla valutazione dei titoli nei riguardi dei soli candidati che hanno superato dette prove.
 
@@ -550,7 +536,7 @@ I candidati che conseguono un giudizio positivo sono nominati in ruolo, con asse
 
 Il personale nominato in ruolo ai sensi del precedente comma e esonerato dal periodo di prova.
 
-###### Art. 31 - Disposizioni particolari sulla compilazione delle graduatorie
+#### Art. 31 - Disposizioni particolari sulla compilazione delle graduatorie
 
 Le graduatorie di merito saranno comunque compilate in tempo utile per dare inizio al tirocinio in coincidenza con l'inizio dell'anno scolastico.
 
@@ -558,11 +544,11 @@ A tal fine, e perche' tutte le fasi del concorso possano svolgersi nel periodo p
 
 Il Ministro della pubblica istruzione e' tenuto ad intervenire tempestivamente per assicurare il rispetto delle scadenze.
 
-###### Art. 32 - Disposizioni transitorie
+#### Art. 32 - Disposizioni transitorie
 
 Restano ferme, fino all'approvazione della riforma della scuola secondaria superiore e dell'Universita', le norme vigenti in materia di assunzione per gli insegnamenti di natura tecnica, professionale ed artistica, di cui all'articolo 6 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417.
 
-###### Art. 33 - Norme transitorie ed abrogative
+#### Art. 33 - Norme transitorie ed abrogative
 
 Per quanto non previsto dalle norme del presente titolo si applicano le precedenti disposizioni in materia, in quanto non incompatibili.
 
@@ -572,11 +558,11 @@ Sono abrogate le norme di cui alle leggi 6 dicembre 1971, n. 1074, e 14 agosto 1
 
 ## TITOLO VIII - RELAZIONE AL PARLAMENTO E COPERTURA FINANZIARIA
 
-###### Art. 34 - Relazione al Parlamento
+#### Art. 34 - Relazione al Parlamento
 
 Il Governo presenta ogni biennio una relazione al Parlamento relativa alla situazione degli organici nella scuola e alle previsioni relative.
 
-###### Art. 35 - Copertura finanziaria
+#### Art. 35 - Copertura finanziaria
 
 All'onere derivante dall'attuazione della presente legge si provvede a carico degli stanziamenti iscritti sui competenti capitoli dello stato di previsione della spesa del Ministero della pubblica istruzione per l'anno finanziario 1978 e successivi.
 

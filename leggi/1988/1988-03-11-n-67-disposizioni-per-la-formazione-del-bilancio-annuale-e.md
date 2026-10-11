@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - DISPOSIZIONI
+## CAPO I - DISPOSIZIONI DI CARATTERE FINANZIARIO
 
-### DI CARATTERE FINANZIARIO
-
-#### Art. 1
+### Art. 1
 
 1\. Il limite massimo del saldo netto da finanziare per l'anno 1988 resta determinato in termini di competenza in lire 191.060 miliardi, comprese lire 40.000 miliardi concernenti regolazione di debiti pregressi e lire 11.108 miliardi relativi a trasferimenti di bilancio sostitutivi di anticipazioni di tesoreria all'INPS. Tenuto conto delle operazioni di rimborso di prestiti, il livello massimo del ricorso al mercato finanziario di cui all'articolo 11 della legge 5 agosto 1978, n. 468 - ivi compresi l'indebitmento all'estero per un importo complessivo non superiore a lire 4.000 miliardi relativo ad interventi non considerati nel bilancio di previsione per il 1988, nonche' le suddette regolazioni contabili - resta fissato, in termini di competenza, in lire 249.070 miliardi per l'anno finanziario 1988.
 
@@ -146,19 +144,17 @@ Trascorso tale termine le somme non impegnate sono considerate economie di bilan
 
 > Il comma 1 dell'art. 6 della legge n. 41/1986 (Legge finanziaria 1986) prevede che: "Per gli anni 1986, 1987 e 1988, la spesa complessiva per gli aumenti dei trattamenti economici del personale di ruolo e non di ruolo dipendente dalle Amministrazioni dello Stato, anche ad ordinamento autonomo, compresa la gestione commissariale della cessata Cassa per il Mezzogiorno, dalle Aziende di Stato, dalle regioni, dagli enti locali, dagli enti pubblici non economici, dalle aziende municipalizzate, dalle unita' sanitarie locali, dalle societa' e dai consorzi di diritto privato il cui capitale sia interamente posseduto da regioni o da enti locali, dai consorzi amministrativi cui partecipino regioni o enti locali, dalle aziende pubbliche in gestione commissariale governativa, dalle aziende esercenti pubblici servizi di trasporto in regime di concessione, dovuti a variazioni dell'indennita' integrativa speciale, all'attribuzione di classi e scatti di stipendio e a qualsiasi altro titolo, compresi i miglioramenti relativi ai rinnovi contrattuali, non deve superare, rispettivamente, il 6, il 5 ed il 4 per cento degli oneri sostenuti nell'anno immediatamente precedente per stipendi, indennita' integrativa speciale, tredicesima mensilita' ed ogni altro assegno comunque denominato, escluse le quote di aggiunta di famiglia e le indennita' di missione e di trasferimento".
 
-#### Art. 2
+### Art. 2
 
 (( ARTICOLO ABROGATO DALLA L. 23 AGOSTO 1988, N. 362 ))
 
-#### Art. 3
+### Art. 3
 
 (( ARTICOLO ABROGATO DALLA L. 23 AGOSTO 1988, N. 362 ))
 
-## CAPO II - DISPOSIZIONI
+## CAPO II - DISPOSIZIONI IN MATERIA DI ENTRATE
 
-### IN MATERIA DI ENTRATE
-
-#### Art. 4
+### Art. 4
 
 1\. La misura del versamento d'acconto dell'imposta sul reddito delle persone giuridiche e dell'imposta locale sui redditi prevista dalla legge 23 marzo 1977, n. 97, e successive modificazioni, e dal decreto-legge 23 dicembre 1977, n. 936, convertito, con modificazioni dalla legge 23 febbraio 1978, n. 38, da effettuarsi da parte dei
 
@@ -188,7 +184,7 @@ reddito delle persone giuridiche per gli anni 1988, 1989 e 1990 ovvero per i tre
 
 > A norma dell'art. 9 della legge 5 dicembre 1986, n. 856, recante norme per la ristrutturazione della flotta pubblica (gruppo Finmare) e interventi per l'armamento privato, l'aliquota dell'imposta per le assicurazioni contro i rischi della navigazione ed assimilate, di cui all'art. 2 della predetta tariffa generale e' diminuita al 6% a decorrere dal 1 gennaio 1987 (l'aliquota precedente era del 10%).
 
-#### Art. 5
+### Art. 5
 
 1\. Le disposizioni di cui ai commi 1 e 2 dell'articolo 5-bis del decreto-legge 29 ottobre 1986, n. 708, convertito, con modificazioni, dalla legge 23 dicembre 1986, n. 899, concernenti agevolazioni tributarie per i trasferimenti a titolo oneroso di immobili ad uso abitativo, sono prorogate fino al 31 dicembre 1988.
 
@@ -220,11 +216,11 @@ reddito delle persone giuridiche per gli anni 1988, 1989 e 1990 ovvero per i tre
 
 > Il termine del 31 dicembre 1985 era stato gia' in precedenza prorogato al 31 dicembre 1986 dall'art. 37 della legge 28 febbraio 1986, n. 41 (Legge finanziaria 1986).
 
-#### Art. 6
+### Art. 6
 
 (( ARTICOLO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115 ))
 
-#### Art. 7
+### Art. 7
 
 1\. (( COMMA SOPPRESSO DAL D.L. 2 MARZO 1989, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 27 APRILE 1989, N. 154 )).
 
@@ -256,7 +252,7 @@ reddito delle persone giuridiche per gli anni 1988, 1989 e 1990 ovvero per i tre
 
 Per gli anni 1989 e 1990 il suddetto versamento di acconto e' fissato al 50 per cento per ciascuna delle due scadenze stabilite.
 
-#### Art. 8
+### Art. 8
 
 1\. Le tasse sulle concessioni governative previste dalla tariffa annessa al decreto del Presidente della Repubblica 26 ottobre 1972, n. 641, e successive modificazioni, sono aumentate del 20 per cento, con esclusione delle tasse di cui al n. 125 della medesima tariffa nonche' dell'imposta sulle concessioni governative di cui alla legge 6 giugno 1973, n. 312. Si applicano le disposizioni del secondo e del terzo periodo del ventinovesimo comma dell'articolo 5 del decreto- legge 30 dicembre 1982, n. 953, nel testo sostituito dalla legge 28 febbraio 1983, n. 53, di conversione del decreto stesso. Per le patenti di guida la differenza di tassa annuale puo' essere corrisposta anche con le normali marche di concessione governativa da annullarsi a cura del contribuente. L'aumento si applica alle tasse sulle concessioni governative il cui termine di pagamento decorre dal 1 gennaio 1988.
 
@@ -380,7 +376,7 @@ AGGIORNAMENTO (62)
 
 Il D.L. 16 settembre 2024, n. 131, convertito con modificazioni dalla L. 14 novembre 2024, n. 166, ha disposto (con l'art. 16-ter, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai prestiti e ai distacchi di personale stipulati o rinnovati a decorrere dal 1° gennaio 2025; sono fatti salvi i comportamenti adottati dai contribuenti anteriormente a tale data in conformita' alla sentenza della Corte di giustizia dell'Unione europea dell'11 marzo 2020, nella causa C-94/19, o in conformita' all'articolo 8, comma 35, della legge n. 67 del 1988, per i quali non siano intervenuti accertamenti definitivi".
 
-#### Art. 9
+### Art. 9
 
 1\. A decorrere dal 1 gennaio 1988 la misura del contributo capitario aggiuntivo di cui all'articolo 22, comma 1, lettera f), della legge 28 febbraio 1986, n. 41, e' elevata a lire 370.000 annue.
 
@@ -456,7 +452,7 @@ AGGIORNAMENTO (61)
 
 Il D.L. 15 maggio 2024, n. 63, ha disposto (con l'art. 2, comma 1) che per i periodi di contribuzione dal 1° gennaio 2024 al 31 dicembre 2024, le agevolazioni contributive previste dall'articolo 9, commi 5, 5-bis e 5-ter, della legge 11 marzo 1988, n. 67, con riferimento ai premi e contributi dovuti per il proprio personale dipendente dai datori di lavoro agricolo operanti nelle zone agricole di cui all'allegato 1 al decreto-legge 1° giugno 2023, n. 61, convertito, con modificazioni, dalla legge 31 luglio 2023, n. 100, trovano applicazione nella misura determinata dall'articolo 01, comma 2, lettera b), del decreto-legge 10 gennaio 2006, n. 2, convertito, con modificazioni, dalla legge 11 marzo 2006, n. 81.
 
-#### Art. 10
+### Art. 10
 
 1\. A decorrere dal periodo di paga in corso al 1 gennaio 1988 la quota di contributo per le prestazioni del Servizio sanitario nazionale di cui all'articolo 31, comma 1, della legge 28 febbraio 1986, n. 41, e' stabilita nella misura del 10,65 per cento, di cui il 9,60 per cento a carico dei datori di lavoro e l'1,05 per cento a carico dei lavoratori dipendenti. Per i periodi di paga successivi al 31 dicembre 1988, l'aliquota contributiva e' ridotta al 10,50 per cento, di cui il 9,60 per cento a carico dei datori di lavoro e lo 0,90 per cento a carico dei lavoratori dipendenti.
 
@@ -496,7 +492,7 @@ Il D.L. 15 maggio 2024, n. 63, ha disposto (con l'art. 2, comma 1) che per i per
 
 > Si vedano le precedenti note all'art. 10.
 
-#### Art. 11
+### Art. 11
 
 1\. L'articolo 129, primo comma, del regio decreto-legge 4 ottobre 1935, n. 1827, convertito, con modificazioni, dalla legge 6 aprile 1936, n. 1155, va interpretato nel senso che la prescrizione ivi prevista si applica anche alle rate di pensione comunque non poste in pagamento. ((11))
 
@@ -506,7 +502,7 @@ AGGIORNAMENTO (11)
 
 La Corte Costituzionale, con sentenza 17-25 maggio 1989, n. 283 (in G.U. 1a s.s. 31/5/1989, n. 22) ha dichiarato l'illegittimita' costituzionale del presente articolo.
 
-#### Art. 12
+### Art. 12
 
 1\. L'istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL), in deroga al disposto dell'articolo 14, terzo comma, lettera q), della legge 23 dicembre 1978, n. 833, provvede agli accertamenti, alle certificazioni e ad ogni altra prestazione medico- legale sui lavoratori infortunati e tecnopatici.
 
@@ -516,11 +512,9 @@ La Corte Costituzionale, con sentenza 17-25 maggio 1989, n. 283 (in G.U. 1a s.s.
 
 > L'art. 14, terzo comma, lettera q), della legge n. 833/1978 (Istituzione del Servizio sanitario nazionale) affida all'unita' sanitaria locale territorialmente competente le incombenze indicate nel presente comma.
 
-## CAPO III - DISPOSIZIONI PER I SETTORI
+## CAPO III - DISPOSIZIONI PER I SETTORI DEI TRASPORTI E DELLE COMUNICAZIONI
 
-### DEI TRASPORTI E DELLE COMUNICAZIONI
-
-#### Art. 13
+### Art. 13
 
 1\. Per l'anno 1988, il fondo nazionale per il ripiano dei disavanzi di esercizio delle aziende di trasporto pubbliche e private e' stabilito in lire 4.643 miliardi, ivi compresa la variazione da determinarsi ai sensi dell'articolo 9 della legge 10 aprile 1981, n. 151, modificato dall'articolo 27-quater del decreto-legge 22 dicembre 1981, n. 786, convertito con modificazioni, della legge 26 febbraio 1982, n. 51.
 
@@ -616,7 +610,7 @@ AGGIORNAMENTO (49)
 
 La L. 23 dicembre 2014, n. 190, ha disposto (con l'art. 1, comma 359) che "L'autorizzazione di spesa di cui all'articolo 13, comma 12, della legge 11 marzo 1988, n. 67, e' ridotta di 8,9 milioni di euro per l'anno 2015 e di 10 milioni di euro a decorrere dall'anno 2016".
 
-#### Art. 14
+### Art. 14
 
 1\. L'autorizzazione di spesa di cui all'articolo 1 della legge 22 agosto 1985, n. 449, e' incrementata di lire 1.200 miliardi, in ragione di lire 200 miliardi per l'anno 1988, di lire 400 miliardi per l'anno 1989 e di lire 600 miliardi per l'anno 1990. Detto importo e' destinato all'aeroporto di Roma-Fiumicino per lire 720 miliardi e all'aeroporto di Milano-Malpensa per lire 480 miliardi. Il parere favorevole espresso dalle regioni e dagli enti locali interessati in base all'articolo 81 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, sui piani regolatori generali dell'aeroporto di Roma-Fiumicino e di Milano-Malpensa, comprende ed assorbe, a tutti gli effetti, la verifica di conformita' urbanistica delle singole opere inserite negli stessi piani regolatori.
 
@@ -638,7 +632,7 @@ La L. 23 dicembre 2014, n. 190, ha disposto (con l'art. 1, comma 359) che "L'aut
 
 ## CAPO IV - Interventi in Campo Economico
 
-#### Art. 15
+### Art. 15
 
 1\. E' autorizzata la spesa di lire 210 miliardi per ciascuno degli anni 1988, 1989 e 1990 per consentire all'IMI, all'EFIM, all'ENI e all'IRI di concorrere, con le modalita' e nelle proporzioni di cui all'articolo 14, decimo comma, della legge 22 dicembre 1984, n. 887, all'ulteriore aumento, di pari importo, del capitale sociale della GEPI S.p.A., costituita ai sensi dell'articolo 5 della legge 22 marzo 1971, n. 184.
 
@@ -790,7 +784,7 @@ AGGIORNAMENTO (46)
 
 Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 23, comma 11) che "I procedimenti avviati in data anteriore a quella di entrata in vigore del presente decreto-legge sono disciplinati, ai fini della concessione e dell'erogazione delle agevolazioni e comunque fino alla loro definizione, dalle disposizioni delle leggi di cui all'Allegato 1 e dalle norme di semplificazione recate dal presente decreto-legge".
 
-#### Art. 16
+### Art. 16
 
 1\. E' autorizzata la spesa di lire 10 miliardi in ragione di 3 miliardi per l'anno 1988 e di 3,5 miliardi per ciascuno degli anni 1989 e 1990 da destinare agli organismi di normalizzazione ai sensi dell'articolo 8 della legge 21 giugno 1986, n. 317.
 
@@ -808,11 +802,9 @@ Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 20
 
 > Il testo del quattordicesimo comma dell'art. 19 della legge n. 887/1984 e' riportato nella nota all'art. 1, comma 6.
 
-## CAPO V - INTERVENTI IN FAVORE DEL
+## CAPO V - INTERVENTI IN FAVORE DEL TERRITORIO, PER CALAMITA' NATURALI E IN MATERIA DI OPERE PUBBLICHE
 
-### TERRITORIO, PER CALAMITA' NATURALI - E IN MATERIA DI OPERE PUBBLICHE
-
-#### Art. 17
+### Art. 17
 
 1\. Per assicurare la prosecuzione degli interventi di cui alla legge 14 maggio 1981, n. 219, il fondo previsto dall'articolo 3 della stessa legge e' incrementato della somma di lire 300 miliardi per l'anno 1988, di lire 2.000 miliardi per l'anno 1989 e di lire 3.700 miliardi per l'anno 1990. Il fondo e' ripartito dal CIPE entro sessanta giorni dalla data di entrata in vigore della presente legge.
 
@@ -950,7 +942,7 @@ AGGIORNAMENTO (47)
 
 La L. 24 dicembre 2012, n. 228 ha disposto (con l'art. 1, comma 7) che "Le risorse disponibili per gli interventi recati dalle autorizzazioni di spesa di cui all'elenco n. 2, allegato alla presente legge, sono ridotte per ciascuno degli anni 2013, 2014, 2015 e successivi per gli importi ivi indicati."
 
-#### Art. 18
+### Art. 18
 
 1\. In attuazione della legge 8 luglio 1986, n. 349 ed in attesa della nuova disciplina relativa al programma triennale di salvaguardia ambientale, e' autorizzata, per l'anno 1988, la spesa di lire 870 miliardi, per un programma annuale, concernente l'esercizio in corso, di interventi urgenti per la salvaguardia ambientale, contenente:
 
@@ -978,11 +970,9 @@ g) avvio di rilevamenti e delle altre attivita' strumentali alla formazione e al
 
 5\. (( IL D.P.R. 14 MAGGIO 2007, N. 90, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA )).
 
-## CAPO VI - DISPOSIZIONI
+## CAPO VI - DISPOSIZIONI IN MATERIA SANITARIA
 
-### IN MATERIA SANITARIA
-
-#### Art. 19
+### Art. 19
 
 1\. Per l'esecuzione di prestazioni di diagnostica strumentale e di laboratorio, compresa la diagnostica radioimmunologica, la medicina nucleare e la fisiochinesiterapia in regime di convenzionamento esterno, salvi gli interventi di riabilitazione e per malattie croniche che richiedono trattamenti periodici, non puo' essere superato annualmente di oltre il 5 per cento il limite delle prestazioni erogate nell'ambito di ciascuna regione nell'anno 1986 al medesimo titolo. Il termine di tre giorni, entro il quale i cittadini sono tenuti a servirsi delle strutture pubbliche prima di poter accedere alle convenzionate per le prestazioni sopraindicate, e' elevato a quattro giorni. Nelle strutture ospedaliere va assicurata comunque la precedenza ai ricoverati per le prestazioni sopraindicate. Eventuali inosservanze da parte di unita' sanitarie locali del termine massimo di quattro giorni per l'accesso al convenzionamento esterno possono essere segnalate dagli interessati alle regioni e alle province autonome di Trento e Bolzano nonche' al Ministero della sanita'. Il Ministro della sanita' regolamenta con proprio decreto la materia.
 
@@ -1050,7 +1040,7 @@ AGGIORNAMENTO (33)
 
 La L. 23 dicembre 2000, n. 388, ha disposto (con l'art. 85, comma 11) che "La disposizione si applica a decorrere dal periodo di imposta in corso al 31 dicembre 2000."
 
-#### Art. 20
+### Art. 20
 
 1\. E' autorizzata l'esecuzione di un programma pluriennale di interventi in materia di ristrutturazione edilizia e di ammodernamento teconologico del patrimonio sanitario pubblico e di realizzazione di residenze per anziani e soggetti non autosufficienti per l'importo complessivo di lire 30.000 miliardi. Al finanziamento degli interventi si provvede mediante operazioni di mutuo che le regioni e le province autonome di Trento e Bolzano sono autorizzate ad effettuare, nel limite del 95 per cento della spesa ammissibile risultante dal progetto, con la BEI, con la Cassa depositi e prestiti e con gli istituti e aziende di credito all'uopo abilitati, secondo modalita' e procedure da stabilirsi con decreto del Ministro del tesoro, di concerto con il Ministro della sanita'. (33)(43a)((59))
 
@@ -1156,11 +1146,9 @@ AGGIORNAMENTO (59)
 
 La L. 30 dicembre 2021, n. 234, ha disposto (con l'art. 1, comma 263) che "Ai fini del finanziamento del programma pluriennale di interventi in materia di ristrutturazione edilizia e di ammodernamento tecnologico, l'importo fissato dall'articolo 20 della legge 11 marzo 1988, n. 67, rideterminato, da ultimo, in 32 miliardi di euro dall'articolo 1, comma 442, della legge 30 dicembre 2020, n. 178, e' incrementato di ulteriori 2 miliardi di euro, fermo restando, per la sottoscrizione di accordi di programma con le regioni e per il trasferimento delle risorse, il limite annualmente definito in base alle effettive disponibilita' del bilancio dello Stato".
 
-## CAPO VII - DISPOSIZIONI
+## CAPO VII - DISPOSIZIONI IN MATERIA DI OCCUPAZIONE E PREVIDENZA
 
-### IN MATERIA DI OCCUPAZIONE - E PREVIDENZA
-
-#### Art. 21
+### Art. 21
 
 1\. In attesa del riordino del sistema pensionistico, ad integrazione di quanto disposto dall'articolo 8, comma 1, della legge 22 dicembre 1986, n. 910, in ordine al ripiano dei disavanzi patrimoniali del fondo pensioni lavoratori dipendenti e della gestione speciale dei coltivatori diretti, mezzadri e coloni, e autorizzata l'assunzione a carico del bilancio dello Stato per l'anno 1988, a titolo di regolazione debitoria pregressa, di una ulteriore quota di lire 10.000 miliardi per ciascuna delle predette gestioni, in aggiunta a quella di pari importo disposta con il richiamato articolo 8. Le predette anticipazioni di tesoreria sono autorizzate senza oneri di interessi.
 
@@ -1222,7 +1210,7 @@ AGGIORNAMENTO (21a)
 
 Il D.L. 18 gennaio 1993, n. 11, convertito dalla L. 19 marzo 1993, n. 70 ha disposto (con l'art. 5, comma 1) che " Le disposizioni di cui alla legge 11 marzo 1988, n. 67, articolo 21, comma 6, devono essere interpretate nel senso che si applicano anche all'assicurazione generale obbligatoria per l'invalidita' la vecchiaia ed i superstiti gestita dall'Ente nazionale di previdenza ed assistenza per i lavoratori dello spettacolo (ENPALS)."
 
-#### Art. 22
+### Art. 22
 
 1\. I contributi di cui al primo comma, lettere b) e c), dell'articolo 10 della legge 14 febbraio 1963, n. 60, sono dovuti fino al periodo di paga in corso al 31 dicembre 1992.
 
@@ -1236,7 +1224,7 @@ AGGIORNAMENTO (8)
 
 La Corte Costituzionale, con sentenza 13-26 aprile 1989, n. 241 (in G.U. 1a s.s. 3/5/1989, n. 18) ha dichiarato l'illegittimita' costituzionale del comma 2 del presente articolo "nella parte in cui non assegna all'edilizia residenziale pubblica, per la costruzione di abitazioni per i lavoratori dipendenti, l'intero gettito - e non le sole quote residue - dei contributi dovuti ai sensi del primo comma, lettere b) e c) dell'articolo 10 della legge 14 febbraio 1963, n. 60".
 
-#### Art. 23
+### Art. 23
 
 1\. Per gli anni 1988, 1989 e 1990 il Ministero del lavoro e della previdenza sociale finanzia, nel limite di lire 500 miliardi per ciascun anno, la realizzazione nei territori del Mezzogiorno di cui al testo unico approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218, di iniziative a livello locale, temporalmente limitate, consistenti nello svolgimento di attivita' di utilita' collettiva mediante l'impiego, a tempo parziale, di giovani di eta' compresa tra i diciotto e i ventinove anni, privi di occupazione ed iscritti nella prima classe delle liste di collocamento.
 
@@ -1292,7 +1280,7 @@ h) i nominativi delle persone di cui alla lettera g) tenute ad attestare lo svol
 
 ## CAPO VIII - DISPOSIZIONI DIVERSE
 
-#### Art. 24
+### Art. 24
 
 1\. E' autorizzata la spesa di lire 30 miliardi nel triennio 1988-1990, in ragione di lire 10 miliardi annui, per contributi alle associazioni combattentistiche e alle associazioni previste dalla legge 6 febbraio 1985, n. 14, e successive modificazioni.
 
@@ -1366,7 +1354,7 @@ AGGIORNAMENTO (15)
 
 La L. 12 dicembre 1990, n. 377 ha disposto (con l'art. 1, comma 3) che "Il numero massimo di cinque ragionerie centrali di maggiore importanza, stabilito dal comma 10 dell'articolo 24 della legge 11 marzo 1988, n. 67, e' elevato di una unita'. Con il relativo decreto del Presidente della Repubblica i posti di dirigente generale sono incrementati di una unita' e i posti di qualifica dirigenziale sono ridotti in numero tale da escludere in ogni caso nuove o maggiori spese a carico del bilancio dello Stato."
 
-#### Art. 25
+### Art. 25
 
 1\. I tassi di interesse agevolati per le operazioni previste dalla legge 18 ottobre 1955, n. 908, modificato dalla legge 29 gennaio 1986, n. 26, sono determinati con decreto del Ministro del tesoro, sentito il Comitato interministeriale per il credito ed il risparmio, in relazione all'andamento del mercato finanziario.
 
@@ -1386,7 +1374,7 @@ La L. 12 dicembre 1990, n. 377 ha disposto (con l'art. 1, comma 3) che "Il numer
 
 > Le somme affluite alla gestione separata di cui al primo comma per quote di ammortamento, per capitale ed interesse, per gli altri interessi di qualsiasi natura, nonche' per recuperi ed estinzione anticipata dei mutui, potranno essere destinate a promuovere iniziative economiche in tutto il territorio della regione Friuli-Venezia Giulia con le modalita' e le prescrizioni della legge 23 gennaio 1970, n. 8".
 
-#### Art. 26
+### Art. 26
 
 1\. Per il finanziamento dei progetti finalizzati all'ampliamento ed al miglioramento dei servizi, dei progetti sperimentali di tipo strumentale e per obiettivi, e dei progetti-pilota finalizzati al recupero della produttivita', previsti rispettivamente dagli articoli 3, 12 e 13 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13, e' istituito, nello stato di previsione del Ministero del tesoro, un apposito fondo di lire 50 miliardi per ciascuno degli anni 1988, 1989 e 1990.
 
@@ -1452,7 +1440,7 @@ AGGIORNAMENTO (27)
 
 Il D.L. 28 agosto 1995, n. 361, converttito con modificazioni dalla L. 27 ottobre 1995, n. 437 ha disposto (con l'art. 1, comma 1) che "La disciplina prevista dall'articolo 26 della legge 11 marzo 1988, n. 67, e dall'articolo 10 della legge 29 dicembre 1988, n. 554, come modificata ed integrata dall'articolo 2, commi da 1 a 6, della legge 24 dicembre 1993, n. 537, nonche' dal decreto del Presidente della Repubblica 19 aprile 1994, n. 303, emanato ai sensi dell'articolo 2 della citata legge n. 537 del 1993, e' prorogata, con le stesse modalita', fino al 31 dicembre 1996."
 
-#### Art. 27
+### Art. 27
 
 1\. Per le opere e programmi di opere a carico o con contributo dello Stato dichiarati con decreto del Presidente del Consiglio dei ministri, su delibera del Consiglio dei ministri, di preminente interesse nazionale, nonche' per le opere pubbliche dello Stato anche articolate in lotti di importo non inferiore a lire 80 miliardi riferito al valore iniziale dell'intero progetto, le amministrazioni e gli altri soggetti preposti alla realizzazione sono tenuti a comunicare trimestralmente alla Presidenza del Consiglio dei ministri lo stato di attuazione dei procedimenti. Per le medesime opere, nonche' per quelle necessarie ed urgenti individuate su proposta del ministro competente e per le opere di competenza delle regioni, prov- ince e comuni e di altri enti pubblici dichiarate, su loro richiesta, di "rilevante interesse" dal Presidente del Consiglio dei ministri, gli atti di intesa, autorizzazione, approvazione o nulla osta per l'attuazione delle suddette opere sono adottati o movimentate negati dalle amministrazioni rispettivamente competenti, entro 90 giorni dalla data della richiesta. Nello stesso termine gli organi tenuti, in base alle disposizioni vigenti, ad esprimersi in sede consultiva sui progetti e sui contratti concernenti l'esecuzione delle predette opere pubbliche, debbono esprimere il relativo parere. Sono escluse dalle procedure di cui al presente commala localizzazione e la costruzione di centrali elettronucleari e di centrali a carbone.
 
@@ -1468,7 +1456,7 @@ Il D.L. 28 agosto 1995, n. 361, converttito con modificazioni dalla L. 27 ottobr
 
 > Per il testo del comma 3 dell'art. 7 della legge n. 64/1986 si veda la nota all'art. 17, comma 20.
 
-#### Art. 28
+### Art. 28
 
 1\. A decorrere dall'anno 1988, e' autorizzato un contributo massimo di lire 7.000 milioni in favore della regione autonoma della Sardegna da destinare ai comuni dell'Isola che si trovano nelle condizioni in- dicate nell'articolo 6, settimo comma, della legge 22 dicembre 1984, n. 887. La relativa documentazione, a firma del sindaco e del segretario generale del comune, deve essere presentata, a pena di decadenza, alla Regione entro il termine perentorio del 28 febbraio di ciascuno anno per l'esercizio precedente.
 
@@ -1476,7 +1464,7 @@ Il D.L. 28 agosto 1995, n. 361, converttito con modificazioni dalla L. 27 ottobr
 
 > Il settimo comma dell'art. 6 della legge n. 887/1984 (Legge finanziaria 1985) prevede che: "Ai comuni che abbiano provveduto all'assorbimento delle istituzioni pubbliche di assistenza e beneficenza in base a norme di leggi regionali e che non abbiano usufruito dei benefici di cui all'art. 26- bis del decreto-legge 28 febbraio 1981, n. 38, convertito in legge, con modificazioni, dalla legge 23 aprile 1981, n. 153, e' corrisposto per l'anno 1985 un contributo straordinario pari agli oneri per il personale da esse provenienti. I comuni sono tenuti a comunicare al Ministero dell'interno, con apposita certificazione a firma del sindaco e del segretario comunale, l'importo relativo alla predetta spesa entro il termine perentorio, a pena di decadenza, del 28 febbraio 1985. Gli importi sono prelevati dalla quota del fondo perequativo di cui alla lettera c) dell'art. 4- bis del decreto-legge 28 febbraio 1983, n. 55, convertito in legge, con modificazioni, dalla legge 26 aprile 1983, n. 131".
 
-#### Art. 29
+### Art. 29
 
 1\. I trasferimenti statali disposti dal decreto-legge 31 agosto 1987, n. 359, convertito, con modificazioni, dalla legge 29 ottobre 1987, n. 440, per il finanziamento dei bilanci degli enti locali sono integrati degli importi di lire 1.178.073 milioni per l'anno 1988 e di lire 23.644 milioni per l'anno 1989 che saranno ripartiti a favore dei comuni, delle province e delle comunita' montane, con successivo provvedimento legislativo. Conseguentemente, il termine per la deliberazione dei bilanci e' stabilito entro trenta giorni dall'entrata in vigore di tale provvedimento ed e' parimenti differito il termine per l'esericizio provvisorio. A decorrere dall'anno 1988 e' altresi' autorizzata la spesa di lire 400 milioni annui ad integrazione della autorizzazione di spesa di cui all'articolo 18 del decreto-legge 28 febbraio 1983, n. 55, convertito, con modificazioni, dalla legge 26 aprile 1983, n. 131, e successive modificazioni.
 
@@ -1632,7 +1620,7 @@ Il D.L. 28 agosto 1995, n. 361, converttito con modificazioni dalla L. 27 ottobr
 
 > Il comma 1 dell'art. 36 della legge n. 41/1986 (Legge finanziaria 1986) prevede che: "A decorrere dall'anno 1986, per fare fronte alle esigenze eccezionali ed urgenti connesse all'unitaria attuazione del regolamento CEE n. 2088/85 del Consiglio del 23 luglio 1985, comprese l'integrazione temporanea di esperti e di personale dell'ufficio competente nonche' l'erogazione di contributi ad associazioni o consorzi, approvati o rinosciuti dal Presidente del Consiglio dei ministri, o se nominato, dal Ministro per il coordinamento delle politiche comunitarie, e disposto lo stanziamento di lire 2 miliardi nello stato di previsione della Presidenza del Consiglio dei ministri, mediante corrispondente riduzione dell'accantonamento "Disciplina dell'attivita' di Governo ed ordinamento della Presidenza del Consiglio dei ministri" iscritto al capitolo n. 6856 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1986".
 
-#### Art. 30
+### Art. 30
 
 1\. Per le finalita' di cui al decreto-legge 12 febbraio 1986, n. 24, convertito dalla legge 9 aprile 1986, n. 96, compreso lo svolgimento di attivita' utili, e' autorizzata l'ulteriore spesa di lire 75 miliardi per l'anno 1988. Anche per tale esercizio resta ferma la facolta' del comune di Palermo di procedere all'assunzione di non piu' di 200 unita' di lavoratori, di quelle previste all'articolo 8, comma 17, della legge 22 dicembre 1986, n. 910, per sopperire, in via transatoria ed urgente, alle necessita' derivanti dall'esigenza di assicurare l'esercizio delle funzioni di direzione tecnico- amministrativa e di controllo degli interventi previsti dall'articolo 1 del decreto-legge 12 febbraio 1986, n. 24, convertito dalla legge 9 aprile 1986, n. 96. A tal fine si applica la disposizione di cui all'articolo 13, comma 2, ultima parte, del decreto-legge 4 settembre 1987, n. 366, convertito, con modificazioni, dalla legge 3 novembre 1987, n. 452.
 
@@ -1662,7 +1650,7 @@ Il D.L. 28 agosto 1995, n. 361, converttito con modificazioni dalla L. 27 ottobr
 
 > "Per la prosecuzione dell'intervento statale avviato con decreto-legge 2 agosto 1984, n. 409, convertito con modificazioni, dalla legge 28 settembre 1984, n. 618, e' autorizzata, per l'anno 1987, l'ulteriore spesa di lire 90 miliardi, da iscriversi nello stato di previsione del Ministero dell'interno, per essere ripartita fra il comune e la provincia di Napoli sulla base di un programma concertato tra le due amministrazioni interessate. Le modalita' di erogazione delle somme a favore degli enti locali interessati sono disciplinate con decreto del Ministro dell'interno".
 
-#### Art. 31
+### Art. 31
 
 1\. Le disposizioni della presente legge sono applicabili nelle regioni a statuto speciale e nelle province autonome di Trento e Bolzano compatibilmente con le norme dei rispettivi statuti.
 
@@ -1692,7 +1680,7 @@ Visto, il Guardasigilli: VASSALLI
 
 ## CAPO VIII - DISPOSIZIONI DIVERSE
 
-#### Tabella A
+### Tabella A
 
 TABELLA A IMPORTI DA ISCRIVERE IN BILANCIO IN RELAZIONE ALLE
 
@@ -4435,7 +4423,7 @@ zioni (cap. 550) .. (a)
 
 (a) Comprende milioni 300.000 relativi all'anno 1985, milioni 200.000 relativi all'anno 1986 e milioni 200.000 relativi all'anno 1987.
 
-#### Tabella B
+### Tabella B
 
 TABELLA B
 
@@ -5248,7 +5236,7 @@ TOTALE TABELLA B .. .. ...
 
 (b) Accantonamento collegato, ai sensi dell'articolo 1, comma 5, alla voce: "Ministero delle finanze - Revisione IRPEF" e, limitatamente agli anni 1989 e 1990, a parte della voce: "Ministero delle finanze - Detrazioni IRPEF", nonche' alla voce: "Amministrazioni diverse - Perequazione dei trattamenti pensionistici pubblici e privati" e a parte della voce: "Ministero del lavoro e della previdenza sociale - Proroga fiscalizzazione dei contributi di malattia ivi compreso il settore del commercio".
 
-#### Tabella C
+### Tabella C
 
 TABELLA C INDICAZIONE DELLE VOCI
 
@@ -6031,7 +6019,7 @@ TOTALE TABELLA C .. .. ...
 
 (a) Accantonamento collegato, ai sensi dell'articolo 1, comma 5, alla voce: "Ministero dei trasporti - Contributi in conto interessi per la realizzazione di infrastrutture a servizio della rete autostradale".
 
-#### Tabella D
+### Tabella D
 
 TABELLA D
 

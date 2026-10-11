@@ -54,7 +54,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Disposizioni in materia di rapporto di lavoro
 
-##### Art. 1
+#### Art. 1
 
 Forma contrattuale comune
 
@@ -126,7 +126,7 @@ Forma contrattuale comune
 
 > In attesa del decreto ministeriale i concessionari del servizio sono individuati nell'I.N.P.S. e nelle agenzie per il lavoro di cui agli articoli 4, comma 1, lettere a) e c) e 6, commi 1, 2 e 3 del presente decreto.».
 
-##### Art. 2
+#### Art. 2
 
 Collaborazioni organizzate dal committente
 
@@ -190,7 +190,7 @@ AGGIORNAMENTO (43)
 
 Il D.Lgs. 28 febbraio 2021, n. 36, come modificato dal D.L. 29 dicembre 2022, n. 198, convertito con modificazioni dalla L. 24 febbraio 2023, n. 14 ha disposto (con l'art. 51, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° luglio 2023, ad esclusione delle disposizioni di cui agli articoli 10, 39 e 40 e del titolo VI che si applicano a decorrere dal 1° gennaio 2022 e ad esclusione delle disposizioni di cui all'articolo 13, comma 7, che si applicano a decorrere dal 1° luglio 2024".
 
-##### Art. 2-bis
+#### Art. 2-bis
 
 (( (Ampliamento delle tutele in favore degli iscritti alla gestione separata). ))
 
@@ -198,7 +198,7 @@ Il D.Lgs. 28 febbraio 2021, n. 36, come modificato dal D.L. 29 dicembre 2022, n.
 
 2\. Per i soggetti di cui al comma 1 la misura vigente dell'indennita' di degenza ospedaliera e' aumentata del 100 per cento. Conseguentemente e' aggiornata la misura dell'indennita' giornaliera di malattia)).
 
-##### Art. 3
+#### Art. 3
 
 Disciplina delle mansioni
 
@@ -234,17 +234,15 @@ Salvo che ricorrano le condizioni di cui al secondo e al quarto comma e fermo qu
 
 ## Capo II - Lavoro a orario ridotto e flessibile
 
-### Sezione I
+### Sezione I - Lavoro a tempo parziale
 
-#### Lavoro a tempo parziale
-
-##### Art. 4
+#### Art. 4
 
 Definizione
 
 1\. Nel rapporto di lavoro subordinato, anche a tempo determinato, l'assunzione puo' avvenire a tempo pieno, ai sensi dell'articolo 3 del decreto legislativo 8 aprile 2003, n. 66, o a tempo parziale.
 
-##### Art. 5
+#### Art. 5
 
 Forma e contenuti del contratto
 
@@ -256,7 +254,7 @@ di lavoro a tempo parziale
 
 3\. Quando l'organizzazione del lavoro e' articolata in turni, l'indicazione di cui al comma 2 puo' avvenire anche mediante rinvio a turni programmati di lavoro articolati su fasce orarie prestabilite.
 
-##### Art. 6
+#### Art. 6
 
 Lavoro supplementare, lavoro straordinario,
 
@@ -298,7 +296,7 @@ clausole elastiche
 
 > «Art. 10. (Lavoratori studenti) - I lavoratori studenti, iscritti e frequentanti corsi regolari di studio in scuole di istruzione primaria, secondaria e di qualificazione professionale, statali, pareggiate o legalmente riconosciute o comunque abilitate al rilascio di titoli di studio legali, hanno diritto a turni di lavoro che agevolino la frequenza ai corsi e la preparazione agli esami e non sono obbligati a prestazioni di lavoro straordinario durante i riposi settimanali.».
 
-##### Art. 7
+#### Art. 7
 
 Trattamento del lavoratore a tempo parziale
 
@@ -306,7 +304,7 @@ Trattamento del lavoratore a tempo parziale
 
 2\. Il lavoratore a tempo parziale ha i medesimi diritti di un lavoratore a tempo pieno comparabile ed il suo trattamento economico e normativo e' riproporzionato in ragione della ridotta entita' della prestazione lavorativa. I contratti collettivi possono modulare la durata del periodo di prova, del periodo di preavviso in caso di licenziamento o dimissioni e quella del periodo di conservazione del posto di lavoro in caso di malattia ed infortunio in relazione all'articolazione dell'orario di lavoro.
 
-##### Art. 8
+#### Art. 8
 
 Trasformazione del rapporto
 
@@ -330,7 +328,7 @@ Trasformazione del rapporto
 
 8\. In caso di assunzione di personale a tempo parziale il datore di lavoro e' tenuto a darne tempestiva informazione al personale gia' dipendente con rapporto a tempo pieno occupato in unita' produttive site nello stesso ambito comunale, anche mediante comunicazione scritta in luogo accessibile a tutti nei locali dell'impresa, ed a prendere in considerazione le domande di trasformazione a tempo parziale dei rapporti dei dipendenti a tempo pieno.
 
-##### Art. 9
+#### Art. 9
 
 Criteri di computo dei lavoratori
 
@@ -338,7 +336,7 @@ a tempo parziale
 
 1\. Ai fini della applicazione di qualsiasi disciplina di fonte legale o contrattuale per la quale sia rilevante il computo dei dipendenti del datore di lavoro, i lavoratori a tempo parziale sono computati in proporzione all'orario svolto, rapportato al tempo pieno. A tal fine, l'arrotondamento opera per le frazioni di orario che eccedono la somma degli orari a tempo parziale corrispondente a unita' intere di orario a tempo pieno.
 
-##### Art. 10
+#### Art. 10
 
 Sanzioni
 
@@ -348,7 +346,7 @@ Sanzioni
 
 3\. Lo svolgimento di prestazioni in esecuzione di clausole elastiche senza il rispetto delle condizioni, delle modalita' e dei limiti previsti dalla legge o dai contratti collettivi comporta il diritto del lavoratore, in aggiunta alla retribuzione dovuta, a un'ulteriore somma a titolo di risarcimento del danno.
 
-##### Art. 11
+#### Art. 11
 
 Disciplina previdenziale
 
@@ -374,7 +372,7 @@ Qualora non si possa individuare l'attivita' principale per gli effetti dell'art
 
 > Il lavoratore deve indicare al datore di lavoro, presso cui presta attivita' secondaria, l'azienda presso cui esplica l'attivita' principale per la quale gli vengono corrisposti gli assegni.».
 
-##### Art. 12
+#### Art. 12
 
 Lavoro a tempo parziale
 
@@ -406,9 +404,9 @@ nelle amministrazioni pubbliche
 
 > 2\. La Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica ed i comitati metropolitani di cui all'articolo 18 del decreto-legge 24 novembre 1990, n. 344, convertito, con modificazioni, dalla legge 23 gennaio 1991, n. 21, promuovono, utilizzando il personale degli uffici di cui all'articolo 11, la costituzione di servizi di accesso polifunzionale alle amministrazioni pubbliche nell'ambito dei progetti finalizzati di cui all'articolo 26 della legge 11 marzo 1988, n. 67, e successive modificazioni ed integrazioni.».
 
-## Sezione II - Lavoro intermittente
+### Sezione II - Lavoro intermittente
 
-##### Art. 13
+#### Art. 13
 
 Definizione e casi di ricorso al lavoro intermittente
 
@@ -422,7 +420,7 @@ Definizione e casi di ricorso al lavoro intermittente
 
 5\. Le disposizioni della presente sezione non trovano applicazione ai rapporti di lavoro alle dipendenze delle pubbliche amministrazioni.
 
-##### Art. 14
+#### Art. 14
 
 Divieti
 
@@ -498,7 +496,7 @@ c) ai datori di lavoro che non hanno effettuato la valutazione dei rischi in app
 
 > 6\. Il presente articolo non si applica ai licenziamenti intimati prima della data di entrata in vigore della presente legge.».
 
-##### Art. 15
+#### Art. 15
 
 Forma e comunicazioni
 
@@ -526,7 +524,7 @@ AGGIORNAMENTO (41)
 
 Il D.Lgs. 27 giugno 2022, n. 104 ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
 
-##### Art. 16
+#### Art. 16
 
 Indennita' di disponibilita'
 
@@ -542,7 +540,7 @@ Indennita' di disponibilita'
 
 6\. Con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, e' stabilita la misura della retribuzione convenzionale in riferimento alla quale il lavoratore intermittente puo' versare la differenza contributiva per i periodi in cui ha percepito una retribuzione inferiore a quella convenzionale ovvero ha usufruito dell'indennita' di disponibilita' fino a concorrenza del medesimo importo.
 
-##### Art. 17
+#### Art. 17
 
 Principio di non discriminazione
 
@@ -550,7 +548,7 @@ Principio di non discriminazione
 
 2\. Il trattamento economico, normativo e previdenziale del lavoratore intermittente, e' riproporzionato in ragione della prestazione lavorativa effettivamente eseguita, in particolare per quanto riguarda l'importo della retribuzione globale e delle singole componenti di essa, nonche' delle ferie e dei trattamenti per malattia e infortunio, congedo di maternita' e parentale.
 
-##### Art. 18
+#### Art. 18
 
 Computo del lavoratore intermittente
 
@@ -558,7 +556,7 @@ Computo del lavoratore intermittente
 
 ## Capo III - Lavoro a tempo determinato
 
-##### Art. 19
+#### Art. 19
 
 Apposizione del termine e durata massima
 
@@ -624,7 +622,7 @@ AGGIORNAMENTO (58)
 
 Il D.L. 30 aprile 2026, n. 62, convertito con modificazioni dalla L. 25 giugno 2026, n. 112 ha disposto (con l'art. 16-quinquies, comma 2) che "Il limite temporale di cui al comma 2-bis dell'articolo 19 del decreto legislativo 15 giugno 2015, n. 81, introdotto dal comma 1 del presente articolo, decorre dalla data di entrata in vigore della legge di conversione del presente decreto. Eventuali precedenti periodi di missione di lavoratori gia' assunti dal somministratore con contratto di lavoro a tempo indeterminato non rilevano ai fini del suddetto computo".
 
-##### Art. 20
+#### Art. 20
 
 Divieti
 
@@ -660,7 +658,7 @@ AGGIORNAMENTO (24)
 
 Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, nel modificare l'art. 19-bis, comma 1, del D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, ha conseguentemente disposto (con l'art. 12-bis, comma 1) che "Sono prorogati al 15 novembre 2020 i termini decadenziali di invio delle domande di accesso ai trattamenti collegati all'emergenza da COVID-19 di cui agli articoli da 19 a 22-quinquies del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27, e quelli di trasmissione dei dati necessari per il pagamento o per il saldo degli stessi che, in applicazione della disciplina ordinaria, si collocano tra il 1° e il 30 settembre 2020".
 
-##### Art. 21
+#### Art. 21
 
 Proroghe e rinnovi
 
@@ -742,7 +740,7 @@ AGGIORNAMENTO (54)
 
 La L. 13 dicembre 2024, n. 203, ha disposto (con l'art. 11, comma 1) che "L'articolo 21, comma 2, secondo periodo, del decreto legislativo 15 giugno 2015, n. 81, si interpreta nel senso che rientrano nelle attivita' stagionali, oltre a quelle indicate dal decreto del Presidente della Repubblica 7 ottobre 1963, n. 1525, le attivita' organizzate per fare fronte a intensificazioni dell'attivita' lavorativa in determinati periodi dell'anno, nonche' a esigenze tecnico-produttive o collegate ai cicli stagionali dei settori produttivi o dei mercati serviti dall'impresa, secondo quanto previsto dai contratti collettivi di lavoro, ivi compresi quelli gia' sottoscritti alla data di entrata in vigore della presente legge, stipulati dalle organizzazioni dei datori di lavoro e dei lavoratori comparativamente piu' rappresentative nella categoria, ai sensi dell'articolo 51 del citato decreto legislativo n. 81 del 2015".
 
-##### Art. 22
+#### Art. 22
 
 Continuazione del rapporto oltre la scadenza del termine
 
@@ -758,7 +756,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 30 dicembre 2016, n. 244, convertito con modificazioni dalla L. 27 febbraio 2017, n. 19, ha disposto (con l'art. 1, comma 5-bis) che "Nelle more della conclusione delle procedure concorsuali, di cui all'articolo 4, comma 6, del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125, da bandire entro il 31 dicembre 2018 e i cui requisiti di partecipazione devono essere posseduti dal personale dell'Istituto nazionale di statistica (ISTAT) con contratto di lavoro a tempo determinato alla data di entrata in vigore della legge di conversione del presente decreto, il termine di scadenza dei contratti del personale in servizio a tempo determinato, fissato al 31 dicembre 2017, e' prorogato, anche in deroga alla normativa vigente sul rapporto di lavoro a tempo determinato di cui agli articoli da 19 a 29 del decreto legislativo 15 giugno 2015, n. 81, fino alla conclusione delle medesime procedure e comunque non oltre il 31 dicembre 2019".
 
-##### Art. 23
+#### Art. 23
 
 Numero complessivo di contratti a tempo determinato
 
@@ -796,7 +794,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 30 dicembre 2016, n. 244, convertito con modificazioni dalla L. 27 febbraio 2017, n. 19, ha disposto (con l'art. 1, comma 5-bis) che "Nelle more della conclusione delle procedure concorsuali, di cui all'articolo 4, comma 6, del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125, da bandire entro il 31 dicembre 2018 e i cui requisiti di partecipazione devono essere posseduti dal personale dell'Istituto nazionale di statistica (ISTAT) con contratto di lavoro a tempo determinato alla data di entrata in vigore della legge di conversione del presente decreto, il termine di scadenza dei contratti del personale in servizio a tempo determinato, fissato al 31 dicembre 2017, e' prorogato, anche in deroga alla normativa vigente sul rapporto di lavoro a tempo determinato di cui agli articoli da 19 a 29 del decreto legislativo 15 giugno 2015, n. 81, fino alla conclusione delle medesime procedure e comunque non oltre il 31 dicembre 2019".
 
-##### Art. 24
+#### Art. 24
 
 Diritti di precedenza
 
@@ -816,7 +814,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 30 dicembre 2016, n. 244, convertito con modificazioni dalla L. 27 febbraio 2017, n. 19, ha disposto (con l'art. 1, comma 5-bis) che "Nelle more della conclusione delle procedure concorsuali, di cui all'articolo 4, comma 6, del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125, da bandire entro il 31 dicembre 2018 e i cui requisiti di partecipazione devono essere posseduti dal personale dell'Istituto nazionale di statistica (ISTAT) con contratto di lavoro a tempo determinato alla data di entrata in vigore della legge di conversione del presente decreto, il termine di scadenza dei contratti del personale in servizio a tempo determinato, fissato al 31 dicembre 2017, e' prorogato, anche in deroga alla normativa vigente sul rapporto di lavoro a tempo determinato di cui agli articoli da 19 a 29 del decreto legislativo 15 giugno 2015, n. 81, fino alla conclusione delle medesime procedure e comunque non oltre il 31 dicembre 2019".
 
-##### Art. 25
+#### Art. 25
 
 Principio di non discriminazione
 
@@ -832,7 +830,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 30 dicembre 2016, n. 244, convertito con modificazioni dalla L. 27 febbraio 2017, n. 19, ha disposto (con l'art. 1, comma 5-bis) che "Nelle more della conclusione delle procedure concorsuali, di cui all'articolo 4, comma 6, del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125, da bandire entro il 31 dicembre 2018 e i cui requisiti di partecipazione devono essere posseduti dal personale dell'Istituto nazionale di statistica (ISTAT) con contratto di lavoro a tempo determinato alla data di entrata in vigore della legge di conversione del presente decreto, il termine di scadenza dei contratti del personale in servizio a tempo determinato, fissato al 31 dicembre 2017, e' prorogato, anche in deroga alla normativa vigente sul rapporto di lavoro a tempo determinato di cui agli articoli da 19 a 29 del decreto legislativo 15 giugno 2015, n. 81, fino alla conclusione delle medesime procedure e comunque non oltre il 31 dicembre 2019".
 
-##### Art. 26
+#### Art. 26
 
 Formazione
 
@@ -846,7 +844,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 30 dicembre 2016, n. 244, convertito con modificazioni dalla L. 27 febbraio 2017, n. 19, ha disposto (con l'art. 1, comma 5-bis) che "Nelle more della conclusione delle procedure concorsuali, di cui all'articolo 4, comma 6, del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125, da bandire entro il 31 dicembre 2018 e i cui requisiti di partecipazione devono essere posseduti dal personale dell'Istituto nazionale di statistica (ISTAT) con contratto di lavoro a tempo determinato alla data di entrata in vigore della legge di conversione del presente decreto, il termine di scadenza dei contratti del personale in servizio a tempo determinato, fissato al 31 dicembre 2017, e' prorogato, anche in deroga alla normativa vigente sul rapporto di lavoro a tempo determinato di cui agli articoli da 19 a 29 del decreto legislativo 15 giugno 2015, n. 81, fino alla conclusione delle medesime procedure e comunque non oltre il 31 dicembre 2019".
 
-##### Art. 27
+#### Art. 27
 
 Criteri di computo
 
@@ -860,7 +858,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 30 dicembre 2016, n. 244, convertito con modificazioni dalla L. 27 febbraio 2017, n. 19, ha disposto (con l'art. 1, comma 5-bis) che "Nelle more della conclusione delle procedure concorsuali, di cui all'articolo 4, comma 6, del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125, da bandire entro il 31 dicembre 2018 e i cui requisiti di partecipazione devono essere posseduti dal personale dell'Istituto nazionale di statistica (ISTAT) con contratto di lavoro a tempo determinato alla data di entrata in vigore della legge di conversione del presente decreto, il termine di scadenza dei contratti del personale in servizio a tempo determinato, fissato al 31 dicembre 2017, e' prorogato, anche in deroga alla normativa vigente sul rapporto di lavoro a tempo determinato di cui agli articoli da 19 a 29 del decreto legislativo 15 giugno 2015, n. 81, fino alla conclusione delle medesime procedure e comunque non oltre il 31 dicembre 2019".
 
-##### Art. 28
+#### Art. 28
 
 Decadenza e tutele
 
@@ -892,7 +890,7 @@ AGGIORNAMENTO (11)
 
 Il D.L. 12 luglio 2018, n. 87, convertito con modificazioni dalla L. 9 agosto 2018, n. 96, come modificato dalla L. 30 dicembre 2018, n. 145, ha disposto (con l'art. 1, comma 3) che "Le disposizioni di cui al presente articolo, nonche' quelle di cui agli articoli 2 e 3, non si applicano ai contratti stipulati dalle pubbliche amministrazioni nonche' ai contratti di lavoro a tempo determinato stipulati dalle universita' private, incluse le filiazioni di universita' straniere, istituti pubblici di ricerca, societa' pubbliche che promuovono la ricerca e l'innovazione ovvero enti privati di ricerca e lavoratori chiamati a svolgere attivita' di insegnamento, di ricerca scientifica o tecnologica, di trasferimento di know-how, di supporto all'innovazione, di assistenza tecnica alla stessa o di coordinamento e direzione della stessa, ai quali continuano ad applicarsi le disposizioni vigenti anteriormente alla data di entrata in vigore del presente decreto".
 
-##### Art. 29
+#### Art. 29
 
 Esclusioni e discipline specifiche
 
@@ -958,7 +956,7 @@ Il D.L. 13 giugno 2023, n. 69, convertito con modificazioni dalla L. 10 agosto 2
 
 ## Capo IV - Somministrazione di lavoro
 
-##### Art. 30
+#### Art. 30
 
 Definizione
 
@@ -968,7 +966,7 @@ Definizione
 
 > \- Per i riferimenti al citato decreto legislativo n. 276 del 2003, si veda nella nota alle premesse.
 
-##### Art. 31
+#### Art. 31
 
 Somministrazione di lavoro a tempo indeterminato e determinato
 
@@ -992,7 +990,7 @@ AGGIORNAMENTO (11)
 
 Il D.L. 12 luglio 2018, n. 87, convertito con modificazioni dalla L. 9 agosto 2018, n. 96, come modificato dalla L. 30 dicembre 2018, n. 145, ha disposto (con l'art. 1, comma 3) che "Le disposizioni di cui al presente articolo, nonche' quelle di cui agli articoli 2 e 3, non si applicano ai contratti stipulati dalle pubbliche amministrazioni nonche' ai contratti di lavoro a tempo determinato stipulati dalle universita' private, incluse le filiazioni di universita' straniere, istituti pubblici di ricerca, societa' pubbliche che promuovono la ricerca e l'innovazione ovvero enti privati di ricerca e lavoratori chiamati a svolgere attivita' di insegnamento, di ricerca scientifica o tecnologica, di trasferimento di know-how, di supporto all'innovazione, di assistenza tecnica alla stessa o di coordinamento e direzione della stessa, ai quali continuano ad applicarsi le disposizioni vigenti anteriormente alla data di entrata in vigore del presente decreto".
 
-##### Art. 32
+#### Art. 32
 
 Divieti
 
@@ -1018,7 +1016,7 @@ AGGIORNAMENTO (24)
 
 Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, nel modificare l'art. 19-bis, comma 1, del D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, ha conseguentemente disposto (con l'art. 12-bis, comma 1) che "Sono prorogati al 15 novembre 2020 i termini decadenziali di invio delle domande di accesso ai trattamenti collegati all'emergenza da COVID-19 di cui agli articoli da 19 a 22-quinquies del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27, e quelli di trasmissione dei dati necessari per il pagamento o per il saldo degli stessi che, in applicazione della disciplina ordinaria, si collocano tra il 1° e il 30 settembre 2020".
 
-##### Art. 33
+#### Art. 33
 
 Forma del contratto di somministrazione
 
@@ -1046,7 +1044,7 @@ AGGIORNAMENTO (41)
 
 Il D.Lgs. 27 giugno 2022, n. 104 ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
 
-##### Art. 34
+#### Art. 34
 
 Disciplina dei rapporti di lavoro
 
@@ -1070,7 +1068,7 @@ AGGIORNAMENTO (11)
 
 Il D.L. 12 luglio 2018, n. 87, convertito con modificazioni dalla L. 9 agosto 2018, n. 96, come modificato dalla L. 30 dicembre 2018, n. 145, ha disposto (con l'art. 1, comma 3) che "Le disposizioni di cui al presente articolo, nonche' quelle di cui agli articoli 2 e 3, non si applicano ai contratti stipulati dalle pubbliche amministrazioni nonche' ai contratti di lavoro a tempo determinato stipulati dalle universita' private, incluse le filiazioni di universita' straniere, istituti pubblici di ricerca, societa' pubbliche che promuovono la ricerca e l'innovazione ovvero enti privati di ricerca e lavoratori chiamati a svolgere attivita' di insegnamento, di ricerca scientifica o tecnologica, di trasferimento di know-how, di supporto all'innovazione, di assistenza tecnica alla stessa o di coordinamento e direzione della stessa, ai quali continuano ad applicarsi le disposizioni vigenti anteriormente alla data di entrata in vigore del presente decreto".
 
-##### Art. 35
+#### Art. 35
 
 Tutela del lavoratore, esercizio del potere
 
@@ -1116,7 +1114,7 @@ Il contratto di somministrazione puo' prevedere che tale obbligo sia adempiuto d
 
 > Non puo' tenersi conto ad alcun effetto delle sanzioni disciplinari decorsi due anni dalla loro applicazione.».
 
-##### Art. 36
+#### Art. 36
 
 Diritti sindacali e garanzie collettive
 
@@ -1130,7 +1128,7 @@ Diritti sindacali e garanzie collettive
 
 > \- Il testo della citata legge 300 del 1970 (Norme sulla tutela della liberta' e dignita' dei lavoratori, della liberta' sindacale e dell'attivita' sindacale nei luoghi di lavoro e norme sul collocamento) e' pubblicato nella Gazzetta Ufficiale 27 maggio 1970, n. 131.
 
-##### Art. 37
+#### Art. 37
 
 Norme previdenziali
 
@@ -1194,7 +1192,7 @@ Norme previdenziali
 
 > \- Il decreto del Presidente della Repubblica 30 giugno 1965, n. 1124, e successive modificazioni (Testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali), e' pubblicato nella Gazzetta Ufficiale 13 ottobre 1965, n. 257, S.O.
 
-##### Art. 38
+#### Art. 38
 
 Somministrazione irregolare
 
@@ -1212,11 +1210,11 @@ AGGIORNAMENTO (20)
 
 Il D.L. 19 maggio 2020, n. 34, convertito con modificazioni dalla L. 17 luglio 2020, n. 77, ha disposto (con l'art. 80-bis, comma 1) che "Il secondo periodo del comma 3 dell'articolo 38 del decreto legislativo 15 giugno 2015, n. 81, ai sensi del quale tutti gli atti compiuti o ricevuti dal somministratore nella costituzione o nella gestione del rapporto, per il periodo durante il quale la somministrazione ha avuto luogo, si intendono come compiuti o ricevuti dal soggetto che ha effettivamente utilizzato la prestazione, si interpreta nel senso che tra gli atti di costituzione e di gestione del rapporto di lavoro non e' compreso il licenziamento".
 
-##### Art. 38-bis
+#### Art. 38-bis
 
 ((ARTICOLO ABROGATO DAL D.L. 2 MARZO 2024, N. 19))
 
-##### Art. 39
+#### Art. 39
 
 Decadenza e tutele
 
@@ -1230,7 +1228,7 @@ Decadenza e tutele
 
 > \- Per il testo dell'articolo 8 della citata legge n. 604 del 1966, si veda nelle note all'art. 28.
 
-##### Art. 40
+#### Art. 40
 
 Sanzioni
 
@@ -1240,7 +1238,7 @@ Sanzioni
 
 ## Capo V - Apprendistato
 
-##### Art. 41
+#### Art. 41
 
 Definizione
 
@@ -1276,7 +1274,7 @@ c) apprendistato di alta formazione e ricerca.
 
 > 4\. Il Ministero del lavoro e delle politiche sociali e il Ministero dell'istruzione, dell'universita' e della ricerca, secondo criteri definiti con le linee guida di cui all' articolo 3, rendono pubblicamente accessibile e consultabile per via telematica il repertorio nazionale.».
 
-##### Art. 42
+#### Art. 42
 
 Disciplina generale
 
@@ -1336,7 +1334,7 @@ Il D.Lgs. 14 settembre 2015, n. 150, ha disposto (con l'art. 32, comma 1, letter
 
 c) e' riconosciuto lo sgravio totale dei contributi a carico del datore di lavoro di finanziamento dell'ASpI di cui all'articolo 42, comma 6, lettera f), del decreto legislativo 15 giugno 2015, n. 81 e dello 0,30 per cento, previsto dall'articolo 25 della legge n. 845 del 1978".
 
-##### Art. 43
+#### Art. 43
 
 Apprendistato per la qualifica e il diploma professionale, il diploma di istruzione secondaria superiore e il certificato di specializzazione tecnica superiore.
 
@@ -1368,7 +1366,7 @@ a) ((apprendistato professionalizzante, allo scopo di conseguire la qualificazio
 
 b) ((apprendistato di alta formazione e di ricerca e per la formazione professionale regionale, secondo la durata e le finalita' definite ai sensi e per gli effetti dell'articolo 45, nel rispetto dei requisiti dei titoli di studio richiesti per l'accesso ai percorsi)).
 
-##### Art. 44
+#### Art. 44
 
 Apprendistato professionalizzante
 
@@ -1388,7 +1386,7 @@ AGGIORNAMENTO (34)
 
 La L. 30 dicembre 2021, n. 234, ha disposto (con l'art. 1, comma 154) che "Per le societa' e le associazioni sportive professionistiche che assumono lavoratori sportivi con contratto di apprendistato professionalizzante il limite massimo di eta' di cui all'articolo 44, comma 1, primo periodo, del decreto legislativo 15 giugno 2015, n. 81, e' ridotto a 23 anni".
 
-##### Art. 45
+#### Art. 45
 
 Apprendistato di alta formazione e di ricerca
 
@@ -1402,7 +1400,7 @@ Apprendistato di alta formazione e di ricerca
 
 ((5. In assenza delle regolamentazioni regionali di cui al comma 4, l'attivazione dei percorsi di apprendistato di alta formazione e ricerca e' disciplinata dalle disposizioni del decreto di cui all'articolo 46, comma 1. Sono fatte salve fino alla regolamentazione regionale le convenzioni stipulate dai datori di lavoro o dalle loro associazioni con le universita', gli istituti tecnici superiori e le altre istituzioni formative o di ricerca, senza nuovi o maggiori oneri a carico della finanza pubblica.))
 
-##### Art. 46
+#### Art. 46
 
 Standard professionali e formativi
 
@@ -1446,7 +1444,7 @@ e certificazione delle competenze
 
 > \- Per il testo del decreto legislativo n. 13 del 2013, si vedano le note all'articolo 41.
 
-##### Art. 47
+#### Art. 47
 
 Disposizioni finali
 
@@ -1474,11 +1472,9 @@ L'autorita' competente a ricevere il rapporto ai sensi dell'articolo 17 della le
 
 10\. Con successivo decreto, ai sensi dell'articolo 1, comma 4, lettera a), della legge 10 dicembre 2014, n. 183, sono definiti gli incentivi per i datori di lavoro che assumono con l'apprendistato per la qualifica e il diploma professionale, il diploma di istruzione secondaria superiore e il certificato di specializzazione tecnica superiore e con l'apprendistato di alta formazione e ricerca.
 
-## ((Capo V-bis - Tutela del lavoro tramite piattaforme digitali
+## ((Capo V-bis - Tutela del lavoro tramite piattaforme digitali ))
 
-### ))
-
-##### Art. 47-bis - Scopo, oggetto e ambito di applicazione
+#### Art. 47-bis - Scopo, oggetto e ambito di applicazione
 
 1\. Fatto salvo quanto previsto dall'articolo 2, comma 1, le disposizioni del presente capo stabiliscono livelli minimi di tutela per i lavoratori autonomi che svolgono attivita' di consegna di beni per conto altrui, in ambito urbano e con l'ausilio di velocipedi o veicoli a motore di cui all'articolo 47, comma 2, lettera a), del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, attraverso piattaforme anche digitali.
 
@@ -1488,7 +1484,7 @@ L'autorita' competente a ricevere il rapporto ai sensi dell'articolo 17 della le
 
 ((2.ter.)) La piattaforma ((digitale)) non puo' rilasciare piu' di un account per ogni singolo codice fiscale, ne' commissionare prestazioni temporalmente inconciliabili allo stesso lavoratore. La violazione della presente disposizione comporta ((l'applicazione della sanzione amministrativa pecuniaria da euro 1.000 a euro 1.500.
 
-##### Art. 47-ter - Forma contrattuale e informazioni
+#### Art. 47-ter - Forma contrattuale e informazioni
 
 ((1. I contratti individuali di lavoro di cui all'articolo 47-bis sono provati per iscritto e i lavoratori devono ricevere entro la data di instaurazione del rapporto di lavoro le informazioni di cui agli articoli 1 e 1-bis del decreto legislativo 26 maggio 1997, n. 152, in quanto compatibili, nonche' le informazioni inerenti alla tutela della sicurezza ai sensi del comma 3 dell'articolo 47-septies.)) ((41))
 
@@ -1502,7 +1498,7 @@ AGGIORNAMENTO (41)
 
 Il D.Lgs. 27 giugno 2022, n. 104 ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
 
-##### Art. 47-quater - Compenso
+#### Art. 47-quater - Compenso
 
 1\. I contratti collettivi stipulati dalle organizzazioni sindacali e datoriali comparativamente piu' rappresentative a livello nazionale possono definire criteri di determinazione del compenso complessivo che tengano conto delle modalita' di svolgimento della prestazione e dell'organizzazione del committente.
 
@@ -1520,7 +1516,7 @@ AGGIORNAMENTO (14)
 
 Il D.L. 3 settembre 2019, n. 101, convertito con modificazioni dalla L. 2 novembre 2019, n. 128, ha disposto (con l'art. 1, comma 2) che "L'articolo 47-quater del decreto legislativo 15 giugno 2015, n. 81, introdotto dal comma 1, lettera c), si applica decorsi dodici mesi dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-##### Art. 47-quinquies
+#### Art. 47-quinquies
 
 (( (Divieto di discriminazione). ))
 
@@ -1528,13 +1524,13 @@ Il D.L. 3 settembre 2019, n. 101, convertito con modificazioni dalla L. 2 novemb
 
 2\. L'esclusione dalla piattaforma e le riduzioni delle occasioni di lavoro ascrivibili alla mancata accettazione della prestazione sono vietate)).
 
-##### Art. 47-sexies
+#### Art. 47-sexies
 
 (( (Protezione dei dati personali). ))
 
 ((1. I dati personali dei lavoratori che svolgono la loro attivita' attraverso le piattaforme digitali sono trattati in conformita' alle disposizioni del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, e al codice di cui al decreto legislativo 30 giugno 2003, n. 196)).
 
-##### Art. 47-septies - Copertura assicurativa obbligatoria contro gli infortuni sul lavoro e le malattie professionali
+#### Art. 47-septies - Copertura assicurativa obbligatoria contro gli infortuni sul lavoro e le malattie professionali
 
 1\. I prestatori di lavoro di cui al presente capo sono comunque soggetti alla copertura assicurativa obbligatoria contro gli infortuni sul lavoro e le malattie professionali prevista dal testo unico di cui al decreto del Presidente della Repubblica 30 giugno 1965, n. 1124. Il premio di assicurazione INAIL e' determinato ai sensi dell'articolo 41 del citato decreto del Presidente della Repubblica n. 1124 del 1965, in base al tasso di rischio corrispondente all'attivita' svolta. Ai fini del calcolo del premio assicurativo, si assume come retribuzione imponibile, ai sensi dell'articolo 30 del decreto del Presidente della Repubblica n. 1124 del 1965, la retribuzione convenzionale giornaliera di importo corrispondente alla misura del limite minimo di retribuzione giornaliera in vigore per tutte le contribuzioni dovute in materia di previdenza e assistenza sociale, rapportata ai giorni di effettiva attivita'.
 
@@ -1552,7 +1548,7 @@ AGGIORNAMENTO (14)
 
 Il D.L. 3 settembre 2019, n. 101, convertito con modificazioni dalla L. 2 novembre 2019, n. 128, ha disposto (con l'art. 1, comma 2) che "L'articolo 47-septies del decreto legislativo 15 giugno 2015, n. 81, introdotto dal comma 1, lettera c), si applica decorsi novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-##### Art. 47-octies
+#### Art. 47-octies
 
 (( (Osservatorio). ))
 
@@ -1562,7 +1558,7 @@ L'osservatorio verifica, sulla base dei dati forniti dal Ministero del lavoro e 
 
 ## Capo VI - Lavoro accessorio
 
-##### Art. 48
+#### Art. 48
 
 ((ARTICOLO ABROGATO DAL D.L. 17 MARZO 2017, N. 25, CONVERTITO SENZA MODIFICAZIONI DALLA L. 20 APRILE 2017, N. 49))
 
@@ -1574,7 +1570,7 @@ AGGIORNAMENTO (6)
 
 Il D.L. 17 marzo 2017, n. 25, convertito senza modificazioni dalla L. 20 aprile 2017, n. 49, ha disposto (con l'art. 1, comma 2) che "I buoni per prestazioni di lavoro accessorio richiesti alla data di entrata in vigore del presente decreto possono essere utilizzati fino al 31 dicembre 2017".
 
-##### Art. 49
+#### Art. 49
 
 ((ARTICOLO ABROGATO DAL D.L. 17 MARZO 2017, N. 25, CONVERTITO SENZA MODIFICAZIONI DALLA L. 20 APRILE 2017, N. 49))
 
@@ -1586,7 +1582,7 @@ AGGIORNAMENTO (6)
 
 Il D.L. 17 marzo 2017, n. 25, convertito senza modificazioni dalla L. 20 aprile 2017, n. 49, ha disposto (con l'art. 1, comma 2) che "I buoni per prestazioni di lavoro accessorio richiesti alla data di entrata in vigore del presente decreto possono essere utilizzati fino al 31 dicembre 2017".
 
-##### Art. 50
+#### Art. 50
 
 ((ARTICOLO ABROGATO DAL D.L. 17 MARZO 2017, N. 25, CONVERTITO SENZA MODIFICAZIONI DALLA L. 20 APRILE 2017, N. 49))
 
@@ -1600,13 +1596,13 @@ Il D.L. 17 marzo 2017, n. 25, convertito senza modificazioni dalla L. 20 aprile 
 
 ## Capo VII - Disposizioni finali
 
-##### Art. 51
+#### Art. 51
 
 Norme di rinvio ai contratti collettivi
 
 1\. Salvo diversa previsione, ai fini del presente decreto, per contratti collettivi si intendono i contratti collettivi nazionali, territoriali o aziendali stipulati da associazioni sindacali comparativamente piu' rappresentative sul piano nazionale e i contratti collettivi aziendali stipulati dalle loro rappresentanze sindacali aziendali ovvero dalla rappresentanza sindacale unitaria.
 
-##### Art. 52
+#### Art. 52
 
 Superamento del contratto a progetto
 
@@ -1714,7 +1710,7 @@ Superamento del contratto a progetto
 
 > 5\) rapporti di lavoro dei dipendenti di enti pubblici ed altri rapporti di lavoro pubblico, sempreche' non siano devoluti dalla legge ad altro giudice.».
 
-##### Art. 53
+#### Art. 53
 
 Superamento dell'associazione
 
@@ -1738,7 +1734,7 @@ b) il comma terzo e' abrogato.
 
 > Nel caso in cui l'associato sia una persona fisica l'apporto di cui al primo comma non puo' consistere, nemmeno in parte, in una prestazione di lavoro".
 
-##### Art. 54
+#### Art. 54
 
 Stabilizzazione dei collaboratori coordinati e continuativi anche a progetto e di persone titolari di partita IVA
 
@@ -1762,7 +1758,7 @@ b) nei dodici mesi successivi alle assunzioni di cui al comma 2, i datori di lav
 
 > Le disposizioni del presente articolo non si applicano alla conciliazione intervenuta ai sensi degli articoli 185, 410, 411, 412-ter e 412-quater del codice di procedura civile.».
 
-##### Art. 55
+#### Art. 55
 
 Abrogazioni e norme transitorie
 
@@ -1796,7 +1792,7 @@ m) le disposizioni vigenti alla data di entrata in vigore del presente decreto, 
 
 3\. Sino all'emanazione dei decreti richiamati dalle disposizioni del presente decreto legislativo, trovano applicazione le regolamentazioni vigenti.
 
-##### Art. 56
+#### Art. 56
 
 Copertura finanziaria e clausola di salvaguardia
 
@@ -1844,7 +1840,7 @@ c) quanto a 7 milioni di euro per l'anno 2017 e a 9 milioni di euro per l'anno 2
 
 > 2\. Nello stato di previsione del Ministero dell'economia e delle finanze e' istituito, con una dotazione, in termini di sola cassa, di 435 milioni di euro per l'anno 2010 e di 175 milioni di euro per l'anno 2011, un Fondo per la compensazione degli effetti finanziari non previsti a legislazione vigente conseguenti all'attualizzazione di contributi pluriennali, ai sensi del comma 177-bis dell'articolo 4 della legge 24 dicembre 2003, n. 350 , introdotto dall' articolo 1, comma 512, della legge 27 dicembre 2006, n. 296 , e, fino al 31 dicembre 2012, per le finalita' previste dall' articolo 5-bis, comma 1, del decreto-legge 13 agosto 2011, n. 138 , convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148 , limitatamente alle risorse del Fondo per lo sviluppo e la coesione, di cui all' articolo 4 del decreto legislativo 31 maggio 2011, n. 88 . All'utilizzo del Fondo per le finalita' di cui al primo periodo si provvede con decreto del Ministro dell'economia e delle finanze, da trasmettere al Parlamento, per il parere delle Commissioni parlamentari competenti per materia e per i profili finanziari, nonche' alla Corte dei conti.».
 
-##### Art. 57
+#### Art. 57
 
 Entrata in vigore
 

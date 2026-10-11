@@ -54,11 +54,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Principi generali e campo di applicazione
 
-### Principi generali e campo di applicazione
-
-#### Art. 1
+### Art. 1
 
 Finalita'
 
@@ -202,7 +200,7 @@ Finalita'
 
 > 3\. Il trasferimento di cui al comma 1 avviene subordinatamente all'adozione della normativa di cui al comma 2, previa attivazione dell'Agenzia regionale protezione ambiente di cui all'art. 3 del decreto-legge 4 dicembre 1993, n. 496, convertito con modificazioni dalla legge 21 gennaio 1994, n. 61, e a seguito di accordo di programma tra Stato e regione per la verifica dei presupposti per lo svolgimento delle funzioni, nonche' per le procedure di dichiarazione.».
 
-#### Art. 2
+### Art. 2
 
 Ambito di applicazione
 
@@ -236,7 +234,7 @@ b) quando effettuano una specifica attivita' di deposito, diversa da quella prop
 
 5\. Le disposizioni di cui al presente decreto si applicano fatte salve le disposizioni in materia di sicurezza e salute dei lavoratori sul luogo di lavoro.
 
-#### Art. 3
+### Art. 3
 
 Definizioni
 
@@ -290,7 +288,7 @@ v) «ispezioni»: tutte le azioni di controllo, incluse le visite in situ, delle
 
 > \- Per i riferimenti normativi del decreto legislativo 17 agosto 1999, n. 334, si veda nelle note alle premesse.
 
-#### Art. 4
+### Art. 4
 
 Valutazione dei pericoli di incidente rilevante
 
@@ -366,11 +364,9 @@ f) informazioni sulle specifiche condizioni operative per la sostanza (ad esempi
 
 > \- Per i riferimenti normativi della direttiva 2012/18/UE, si veda nelle note alle premesse.
 
-## Capo II
+## Capo II - Competenze
 
-### Competenze
-
-#### Art. 5
+### Art. 5
 
 Funzioni del Ministero dell'ambiente
 
@@ -398,7 +394,7 @@ e) comunica alla Commissione europea il nome e la ragione sociale del gestore, l
 
 > \- Per i riferimenti normativi della direttiva 2012/18/UE, si veda nelle note alle premesse.
 
-#### Art. 6
+### Art. 6
 
 Funzioni del Ministero dell'interno
 
@@ -422,7 +418,7 @@ d) fornisce al Ministero dell'ambiente e della tutela del territorio e del mare 
 
 6\. Il Prefetto competente per territorio predispone i piani di emergenza esterna per gli stabilimenti di soglia superiore ed inferiore e ne dispone l'attuazione, secondo quanto previsto agli articoli 21 e 25.
 
-#### Art. 7
+### Art. 7
 
 Funzioni della Regione
 
@@ -438,7 +434,7 @@ d) disciplina le modalita' anche contabili relative al versamento delle tariffe 
 
 2\. La Regione o il soggetto da essa designato ai fini dell'esercizio delle funzioni di cui al comma 1, fermo restando il supporto tecnico scientifico dell'agenzia regionale per l'ambiente territorialmente competente, puo' stipulare apposita convenzione con la Direzione regionale o interregionale dei vigili del fuoco competente per territorio.
 
-#### Art. 8
+### Art. 8
 
 Funzioni degli altri enti territoriali
 
@@ -454,13 +450,13 @@ b) relative alla informazione, consultazione e partecipazione ai processi decisi
 
 > \- Per il testo dei commi 2 e 3 dell'art. 1 della legge 7 aprile 2014, n. 56, si veda nelle note all'art. 1.
 
-#### Art. 9
+### Art. 9
 
 Organi tecnici nazionali e regionali
 
 1\. Ai fini dell'applicazione del presente decreto i ministeri competenti si avvalgono, in relazione alle specifiche competenze, dell'ISPRA, dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL), dell'Istituto superiore di sanita' (ISS) e del Corpo nazionale dei Vigili del fuoco (CNVVF) i quali, nell'ambito delle ordinarie disponibilita' dei propri bilanci, possono elaborare e promuovere programmi di formazione in materia di rischi di incidenti rilevanti. Le Regioni o i soggetti da esse designati si possono avvalere, in relazione alle specifiche competenze, dell'ARPA e, tramite convenzioni, degli organi tecnici nazionali.
 
-#### Art. 10
+### Art. 10
 
 Comitato tecnico regionale:
 
@@ -514,7 +510,7 @@ o) un rappresentante dell'ente territoriale di area vasta di cui all'articolo 1,
 
 > \- Per il testo dei commi 2 e 3 dell'art. 1 della legge 7 aprile 2014, n. 56, si veda nelle note all'art. 1.
 
-#### Art. 11
+### Art. 11
 
 Coordinamento per l'uniforme applicazione
 
@@ -542,11 +538,9 @@ sul territorio nazionale
 
 > 2\. Il Ministro, al solo fine di ottenere, per la prima composizione del Consiglio nazionale per l'ambiente, le terne di cui al precedente art. 12, comma 1, lettera c), effettua, entro trenta giorni dall'entrata in vigore della presente legge, una prima individuazione delle associazioni a carattere nazionale e di quelle presenti in almeno cinque regioni, secondo i criteri di cui al precedente comma 1, e ne informa il Parlamento.».
 
-## Capo III
+## Capo III - Adempimenti
 
-### Adempimenti
-
-#### Art. 12
+### Art. 12
 
 Obblighi generali del gestore
 
@@ -554,7 +548,7 @@ Obblighi generali del gestore
 
 2\. Il gestore e' tenuto a dimostrare in qualsiasi momento alle autorita' competenti e di controllo, in particolare ai fini delle ispezioni e dei controlli, l'adozione di tutte le misure necessarie previste dal presente decreto legislativo.
 
-#### Art. 13
+### Art. 13
 
 Notifica
 
@@ -612,7 +606,7 @@ d) variazione delle informazioni di cui ai commi 2 e 4.
 
 > \- La decisione di esecuzione 10/12/2014, n. 2014/895/UE della Commissione che definisce il formato per la trasmissione delle informazioni di cui all'art. 21, paragrafo 3, della direttiva 2012/18/UE del Parlamento europeo e del Consiglio sul controllo del pericolo di incidenti rilevanti connessi con sostanze pericolose, e' pubblicata nella G.U.U.E. 12 dicembre 2014, n. L 355.
 
-#### Art. 14
+### Art. 14
 
 Politica di prevenzione degli incidenti rilevanti
 
@@ -644,7 +638,7 @@ b) in tutti gli altri casi, entro un anno dalla data a decorrere dalla quale la 
 
 > \- Per i riferimenti normativi al decreto legislativo 17 agosto 1999, n. 334, si veda nelle note alle premesse.
 
-#### Art. 15
+### Art. 15
 
 Rapporto di sicurezza
 
@@ -698,7 +692,7 @@ c) a seguito di un incidente rilevante nel proprio stabilimento e in qualsiasi a
 
 > \- Per i riferimenti normativi della direttiva 2012/18/UE, si veda nelle note alle premesse.
 
-#### Art. 16
+### Art. 16
 
 Nuovi stabilimenti: rapporti di sicurezza
 
@@ -706,7 +700,7 @@ Nuovi stabilimenti: rapporti di sicurezza
 
 2\. Prima di dare inizio all'attivita', il gestore deve ottenere il parere tecnico conclusivo di cui all'articolo 17, comma 2; a tal fine il gestore presenta al CTR il rapporto di sicurezza di cui all'articolo 15, nella versione definitiva.
 
-#### Art. 17
+### Art. 17
 
 Procedura per la valutazione del rapporto di sicurezza
 
@@ -724,7 +718,7 @@ Procedura per la valutazione del rapporto di sicurezza
 
 7\. Le istruttorie di cui ai commi 2 e 3 comprendono sopralluoghi tesi a garantire che i dati e le informazioni contenuti nel rapporto di sicurezza descrivano fedelmente la situazione dello stabilimento e a verificare l'ottemperanza alle prescrizioni. Tali sopralluoghi sono effettuati anche ai fini delle verifiche di prevenzione incendi.
 
-#### Art. 18
+### Art. 18
 
 Modifiche di uno stabilimento
 
@@ -738,7 +732,7 @@ c) comunica la modifica all'autorita' competente in materia di valutazione di im
 
 2\. Le modifiche che potrebbero costituire aggravio del preesistente livello di rischio di incidenti rilevanti, e le procedure e i termini di cui al comma 1, sono definiti all'allegato D.
 
-#### Art. 19
+### Art. 19
 
 Effetto domino
 
@@ -776,7 +770,7 @@ b) i criteri per l'individuazione e la perimetrazione delle aree soggette ad eff
 
 c) le procedure per lo scambio delle informazioni fra i gestori e per la predisposizione dell'eventuale studio di sicurezza integrato dell'area.
 
-#### Art. 20
+### Art. 20
 
 Piano di emergenza interna
 
@@ -814,7 +808,7 @@ d) provvedere al ripristino e al disinquinamento dell'ambiente dopo un incidente
 
 > \- Per il testo dell'art. 17 della legge 23 agosto 1988, n. 400 si veda nelle note all'art. 4.
 
-#### Art. 21
+### Art. 21
 
 Piano di emergenza esterna
 
@@ -882,7 +876,7 @@ d) provvedere sulla base delle disposizioni vigenti al ripristino e al disinquin
 
 > \- Per il testo dell'art. 17 della legge 23 agosto 1988, n. 400, si veda nelle note all'art. 4.
 
-#### Art. 22
+### Art. 22
 
 Assetto del territorio e controllo dell'urbanizzazione
 
@@ -934,7 +928,7 @@ Le informazioni contenute nell'elaborato tecnico sono trasmesse alla regione e a
 
 > \- Per il testo dei commi 2 e 3, dell'art. 1 della legge 7 aprile 2014, n. 56 si veda nelle note all'art. 1.
 
-#### Art. 23
+### Art. 23
 
 Informazioni al pubblico e accesso all'informazione
 
@@ -1060,7 +1054,7 @@ Tali informazioni, predisposte anche sulla base delle linee guida di cui all'art
 
 > 7\. caso di prolungato inadempimento all'obbligo di cui al comma 1 dell'art. 18, le misure ivi previste sono adottate dalla Commissione di cui al presente articolo.».
 
-#### Art. 24
+### Art. 24
 
 Consultazione pubblica
 
@@ -1134,7 +1128,7 @@ Nel caso di piani o programmi soggetti a valutazione ai sensi della direttiva 20
 
 > \- La direttiva 2001/42/CE e' pubblicata nella G.U.C.E. 21 luglio 2001, n. L 197.
 
-#### Art. 25
+### Art. 25
 
 Accadimento di incidente rilevante
 
@@ -1176,7 +1170,7 @@ c) formula raccomandazioni sulle misure preventive per il futuro.
 
 > \- Per il testo dei commi 2 e 3 dell'art. 1 della legge 7 aprile 2014, n. 56, si veda nelle note all'art. 1.
 
-#### Art. 26
+### Art. 26
 
 Informazione sull'incidente rilevante
 
@@ -1202,7 +1196,7 @@ d) esito delle proprie analisi e le proprie raccomandazioni.
 
 > \- Per la direttiva 2012/18/UE, si veda nelle note alle premesse.
 
-#### Art. 27
+### Art. 27
 
 Ispezioni
 
@@ -1268,11 +1262,9 @@ b) alle autorita' competenti la raccolta delle informazioni necessarie per effet
 
 > \- Per il decreto legislativo 3 aprile 2006, n. 152, si veda nelle note all'art. 24.
 
-## Capo IV
+## Capo IV - Sanzioni, disposizioni finanziarie e transitorie ed abrogazioni
 
-### Sanzioni, disposizioni finanziarie e transitorie ed abrogazioni
-
-#### Art. 28
+### Art. 28
 
 Sanzioni
 
@@ -1328,13 +1320,13 @@ Sanzioni
 
 > Il delitto e' punibile a querela della persona offesa.».
 
-#### Art. 29
+### Art. 29
 
 Disposizioni finanziarie
 
 1\. Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le Amministrazioni ed i soggetti pubblici interessati provvedono agli adempimenti previsti dal presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 30
+### Art. 30
 
 Disposizioni tariffarie
 
@@ -1344,7 +1336,7 @@ Disposizioni tariffarie
 
 3\. Le tariffe di cui ai commi 1 e 2 devono coprire il costo effettivo del servizio reso. Le medesime tariffe sono aggiornate, almeno ogni tre anni, con lo stesso criterio della copertura del costo effettivo del servizio.
 
-#### Art. 31
+### Art. 31
 
 Prevenzione incendi
 
@@ -1424,7 +1416,7 @@ h) regio decreto 9 gennaio 1927, n. 147, e dal regio decreto 18 giugno 1931, n. 
 
 > \- Il regio decreto 18 giugno 1931, n. 773 (Approvazione del testo unico delle leggi di pubblica sicurezza) e' pubblicato nella Gazzetta Ufficiale 26 giugno 1931, n. 146.
 
-#### Art. 32
+### Art. 32
 
 Norme finali e transitorie
 
@@ -1452,7 +1444,7 @@ Norme finali e transitorie
 
 > \- Per la direttiva 2012/18/UE, si veda nelle note alle premesse.
 
-#### Art. 33
+### Art. 33
 
 Riferimenti normativi e abrogazione di norme
 
@@ -1610,7 +1602,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Allegato 1
+### Allegato 1
 
 Allegato 1
 
@@ -2235,7 +2227,7 @@ Le quantita' di poli-cloro-dibenzofurani e poli-cloro-dibenzodiossine si calcola
 
 6 Il tenore di azoto del 28 % in peso derivato dal nitrato di ammonio corrisponde all'80 % di nitrato di ammonio.
 
-#### Allegato 2
+### Allegato 2
 
 Allegato 2
 
@@ -2301,7 +2293,7 @@ c) descrizione delle risorse, interne o esterne, che possono essere mobilitate;
 
 d) descrizione di qualsiasi misura tecnica e non tecnica pertinente ai fini della riduzione dell'impatto di un incidente rilevante.
 
-#### Allegato 3
+### Allegato 3
 
 Allegato 3
 
@@ -2333,7 +2325,7 @@ vii. controllo e revisione: adozione e applicazione di procedure relative alla v
 
 1 Per la definizione di "quasi incidente" si puo' fare riferimento alla norma UNI 10617 e ad altra normativa tecnica di settore emanata da Enti di normazione nazionali, europei o internazionali.
 
-#### Allegato 4
+### Allegato 4
 
 Allegato 4
 
@@ -2377,7 +2369,7 @@ f) disposizioni adottate per fornire al pubblico e agli stabilimenti o siti di a
 
 g) disposizioni intese a garantire che siano informati i servizi di emergenza di altri Stati membri in caso di incidenti rilevanti che potrebbero avere conseguenze al di la' delle frontiere.
 
-#### Allegato 5
+### Allegato 5
 
 Allegato 5
 
@@ -2409,7 +2401,7 @@ Il presente allegato e' cosi' costituito:
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 6
+### Allegato 6
 
 Allegato 6
 
@@ -2477,7 +2469,7 @@ Dovrebbero essere notificati alla Commissione gli incidenti e i «quasi incident
 
 1 Per la definizione di "quasi incidente" si puo' fare riferimento alla norma UNI 10617 e ad altra normativa tecnica di settore emanata da Enti di normazione nazionali, europei o internazionali.
 
-#### Allegato A
+### Allegato A
 
 Allegato A (art. 4)
 
@@ -2787,7 +2779,7 @@ AGGIORNAMENTO (2)
 
 Il Decreto 1 luglio 2016, n. 148 ha disposto (con l'art. 3, comma 1) che "Ai sensi dell'articolo 32, comma 2, del decreto legislativo 26 giugno 2015, n. 105, dalla data di entrata in vigore del presente regolamento non trova piu' applicazione l'allegato A del suddetto decreto legislativo".
 
-#### Allegato B
+### Allegato B
 
 Allegato B (art. 14)
 
@@ -3245,7 +3237,7 @@ Tabella riassuntiva
 +----------------+-------------------+----------------+-------------+
 ```
 
-#### Allegato C
+### Allegato C
 
 Allegato C (art. 15)
 
@@ -4109,7 +4101,7 @@ In questi casi e' necessario fornire al gestore indicazioni chiare ed univoche a
 
 6 Nelle more dell'attuazione di quanto previsto al comma 3 dell'art. 22 del presente decreto, valgono, in quanto applicabili, le disposizioni previste dal decreto del Ministero dei lavori pubblici del 9 maggio 2001, pubblicato nella Gazzetta Ufficiale n. 138 del 16 giugno 2001 (S.O. n. 151).
 
-#### Allegato D
+### Allegato D
 
 Allegato D (art. 18)
 
@@ -4195,7 +4187,7 @@ I gestori degli stabilimenti di soglia inferiore e superiore devono comunque ten
 
 I gestori degli stabilimenti di soglia superiore devono comunque tenere conto delle modifiche in occasione dell'aggiornamento quinquennale del rapporto di sicurezza, ai sensi della lettera a) del comma 8 dell'art. 15 del presente decreto.
 
-#### Allegato E
+### Allegato E
 
 Allegato E (art. 19)
 
@@ -4767,7 +4759,7 @@ Nel caso, infine, in cui le informazioni desunte dalla sez. M del Modulo di cui 
 
 10 In assenza di varianti urbanistiche, sono considerate come categorie non compatibili con le condizioni di inizio letalita' anche per eventi con frequenza inferiore a 10-6 occasioni/anno.
 
-#### Allegato F
+### Allegato F
 
 Allegato F (art. 20)
 
@@ -4813,7 +4805,7 @@ AGGIORNAMENTO (1)
 
 Il Decreto 6 giugno 2016, n. 138 ha disposto (con l'art. 4, comma 1) che "Ai sensi dell'articolo 32, comma 2, del decreto legislativo 26 giugno 2015, n. 105, dalla data di entrata in vigore del presente regolamento non trova piu' applicazione l'allegato F allo stesso decreto legislativo".
 
-#### Allegato G
+### Allegato G
 
 Allegato G (art. 21)
 
@@ -4859,7 +4851,7 @@ Le informazioni di cui sopra sono messe a disposizione della popolazione per un 
 
 Durante tale periodo, la popolazione puo' presentare al Prefetto osservazioni, proposte o richieste relativamente a quanto forma oggetto della consultazione, delle quali si tiene conto nell'ambito stesso di applicazione del presente allegato
 
-#### Allegato H
+### Allegato H
 
 Allegato H (art. 27)
 
@@ -5877,7 +5869,7 @@ Parte di provvedimento in formato grafico
 
 1 Per la definizione di "quasi incidente" si puo' fare riferimento alla norma UNI 10617 e ad altra normativa tecnica di settore emanata da Enti di normazione nazionali, europei o internazionali.
 
-#### Allegato I
+### Allegato I
 
 Allegato I (art.30)
 
@@ -5991,7 +5983,7 @@ APPENDICE 1 - Tariffe
 
 Parte di provvedimento in formato grafico
 
-#### Allegato L
+### Allegato L
 
 Allegato L (art. 31)
 
@@ -6109,7 +6101,7 @@ d) modifica delle misure di protezione per le persone: modifica sostanziale dei 
 
 8.3 Le attivita', che al momento della presentazione del Riesame periodico del rapporto di sicurezza non sono in possesso del certificato di prevenzione incendi, sono soggette alla procedura di cui al punto 3 del presente allegato.
 
-#### Allegato M
+### Allegato M
 
 Allegato M (art. 2)
 

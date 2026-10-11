@@ -70,7 +70,7 @@ il seguente decreto legislativo:
 
 ### Capo I - Ambito di applicazione e definizioni
 
-#### Art. 1
+##### Art. 1
 
 O g g e t t o
 
@@ -80,7 +80,7 @@ O g g e t t o
 
 2\. Restano salve le disposizioni vigenti che disciplinano il profilo dell'accesso al pubblico impiego.
 
-#### Art. 2
+##### Art. 2
 
 Ambito di applicazione
 
@@ -100,7 +100,7 @@ c) ai cittadini dell'Unione europea legalmente stabiliti in Italia, che richiedo
 
 3\. Per il riconoscimento dei titoli di formazione acquisiti dai cittadini dei Paesi aderenti allo Spazio economico europeo e della Confederazione Svizzera, si applicano gli accordi in vigore con l'Unione europea.
 
-#### Art. 3
+##### Art. 3
 
 Effetti del riconoscimento
 
@@ -110,7 +110,7 @@ Effetti del riconoscimento
 
 3\. Salvo quanto previsto dagli articoli 12 e 16, comma 10, con riguardo all'uso del titolo professionale, il prestatore puo' usare nella professione la denominazione del proprio titolo di studio, ed eventualmente la relativa abbreviazione, nella lingua dello Stato membro nel quale il titolo di studio e' stato conseguito. L'uso di detta denominazione o dell'abbreviazione non e' tuttavia consentito se idoneo ad ingenerare confusione con una professione regolamentata nel territorio nazionale, per la quale l'interessato non ha ottenuto il riconoscimento della qualifica professionale; in tal caso la denominazione potra' essere utilizzata a condizione che ad essa siano apportate le modifiche o aggiunte idonee alla differenziazione, stabilite dall'autorita' competente di cui all'articolo 5.
 
-#### Art. 4
+##### Art. 4
 
 Definizioni
 
@@ -166,7 +166,7 @@ n-quinquies) «motivi imperativi di interesse generale»: motivi riconosciuti ta
 
 n-sexies) «Sistema europeo di accumulazione e trasferimento dei crediti o crediti ECTS»: il sistema di crediti per l'istruzione superiore utilizzato nello Spazio europeo dell'istruzione superiore; ((n-septies) "legalmente stabilito": un cittadino dell'Unione europea e' legalmente stabilito in uno Stato membro quando soddisfa tutti i requisiti per l'esercizio di una professione in detto Stato membro e non e' oggetto di alcun divieto, neppure temporaneo, all'esercizio di tale professione. E' possibile essere legalmente stabilito come lavoratore autonomo o lavoratore dipendente)).
 
-#### Art. 5
+##### Art. 5
 
 Autorita' competente
 
@@ -226,7 +226,7 @@ e) il Ministero del lavoro e delle politiche sociali per le attivita' di cui all
 
 f) il Ministero dei trasporti per le attivita' di cui all'allegato IV, Lista II e Lista III, nelle parti afferenti ad attivita' di trasporto.
 
-#### Art. 5-bis
+##### Art. 5-bis
 
 (( (Tessera professionale europea (EPC) ))
 
@@ -250,7 +250,7 @@ e) agente immobiliare.
 
 5\. Qualora i soggetti di cui all'articolo 2, comma 1-ter, titolari di una qualifica professionale, intendano stabilirsi in un altro Stato membro o fornire servizi a norma dell'articolo 11, l'autorita' competente di cui all'articolo 5 completa tutte le fasi preparatorie concernenti il fascicolo personale del richiedente creato nell'ambito del sistema di informazione del mercato interno (IMI) di cui agli articoli 5-ter e 5-quinquies. In tal caso la tessera professionale europea e' rilasciata dall'autorita' competente dello Stato membro ospitante conformemente alle disposizioni di cui alla normativa europea vigente sul riconoscimento delle qualifiche professionali e del regolamento di esecuzione (UE) n. 2015/983 della Commissione del 24 giugno 2015. Ai fini dello stabilimento, il rilascio della tessera professionale europea non conferisce un diritto automatico all'esercizio della professione se esistono requisiti di registrazione o altre procedure di controllo gia' vigenti nello Stato membro ospitante prima dell'introduzione della tessera professionale europea per quella professione.))
 
-#### Art. 5-ter - Domanda di tessera professionale europea e creazione di un fascicolo IMI
+##### Art. 5-ter - Domanda di tessera professionale europea e creazione di un fascicolo IMI
 
 1\. La domanda di rilascio della tessera professionale europea puo' essere presentata esclusivamente online.
 
@@ -258,7 +258,7 @@ e) agente immobiliare.
 
 3\. Entro una settimana dal ricevimento della domanda, l'autorita' competente da' notizia dell'avvenuta ricezione della domanda e informa il richiedente di eventuali documenti mancanti. ((Se del caso, l'autorita' competente rilascia ogni certificato di supporto richiesto sulla base del presente decreto)). L'autorita' competente verifica che il richiedente sia legalmente stabilito sul territorio nazionale nonche' l'autenticita' e la validita' di tutti i documenti necessari rilasciati dallo Stato stesso. In caso di dubbi debitamente giustificati, l'autorita' competente consulta l'organismo competente che ha rilasciato il documento e puo' chiedere al richiedente copie certificate dei documenti. Se il richiedente presenta ulteriori domande di rilascio di tessera professionale, le autorita' competenti non possono chiedere nuovamente la presentazione dei documenti gia' inclusi nel fascicolo IMI e ancora validi.
 
-#### Art. 5-quater
+##### Art. 5-quater
 
 (( (Tessera professionale europea per la prestazione temporanea e occasionale di servizi diversi da quelli di cui all'articolo 11) ))
 
@@ -272,7 +272,7 @@ e) agente immobiliare.
 
 5\. La tessera professionale europea e' valida sull'intero territorio nazionale, per tutto il tempo in cui il rispettivo titolare conserva il diritto di esercitare, sulla base dei documenti e delle informazioni contenute nel fascicolo IMI.))
 
-#### Art. 5-quinquies - Tessera professionale europea per lo stabilimento e per la prestazione temporanea e occasionale di servizi di cui all'articolo 11
+##### Art. 5-quinquies - Tessera professionale europea per lo stabilimento e per la prestazione temporanea e occasionale di servizi di cui all'articolo 11
 
 1\. L'autorita' competente di cui all'articolo 5, in qualita' di Stato membro di origine, verifica l'autenticita' e la validita' dei documenti giustificativi caricati dal richiedente nel fascicolo IMI ai fini del rilascio di una tessera professionale europea per lo stabilimento o per la prestazione temporanea e occasionale di servizi di cui all'articolo 11. Tale verifica e' effettuata entro un mese ((dalla scadenza del termine di cui all'articolo 5-ter, comma 3,)) o, nel caso di documenti mancanti, entro un mese dal ricevimento degli stessi, ai sensi dell'articolo 5-ter, comma 3. L'autorita' competente trasmette immediatamente la domanda all'autorita' competente dello Stato membro nel quale il richiedente voglia stabilirsi o verso il quale voglia effettuare la prestazione temporanea e occasionale di servizi di cui all'articolo 11, informando contestualmente il richiedente.
 
@@ -286,7 +286,7 @@ e) agente immobiliare.
 
 6\. Le misure intraprese dall'autorita' competente conformemente al comma 1, sostituiscono la domanda di riconoscimento della qualifica professionale ai sensi della legislazione nazionale dello Stato membro ospitante.
 
-#### Art. 5-sexies
+##### Art. 5-sexies
 
 (( (Elaborazione e accesso ai dati riguardanti la tessera professionale europea) ))
 
@@ -318,7 +318,7 @@ e) il periodo nel quale si applica la restrizione o il divieto.
 
 9\. Fatto salvo il comma 3, le Autorita' competenti prevedono la possibilita' per datori di lavoro, consumatori, pazienti, autorita' pubbliche e altre parti interessate di verificare l'autenticita' e la validita' di una tessera professionale europea presentata loro dal titolare. Le norme in materia di accesso al fascicolo IMI, i mezzi tecnici e le procedure di verifica di cui al primo comma sono quelli stabiliti nel regolamento di esecuzione (UE) n. 2015/983 della Commissione del 24 giugno 2015.))
 
-#### Art. 5-septies
+##### Art. 5-septies
 
 (( (Accesso parziale) ))
 
@@ -340,7 +340,7 @@ c) l'attivita' professionale puo' essere oggettivamente separata da altre attivi
 
 6\. Il presente articolo non si applica ai professionisti che beneficiano del riconoscimento automatico delle qualifiche professionali a norma del titolo III, capi III , IV e IV-bis)).
 
-#### Art. 6 - Centro di assistenza
+##### Art. 6 - Centro di assistenza
 
 1\. La Presidenza del Consiglio dei ministri - Dipartimento per le politiche europee assolve i compiti di:
 
@@ -376,7 +376,7 @@ c) valuta le questioni di particolare rilevanza o complessita', congiuntamente c
 
 ((5-bis. Le autorita' competenti di cui all'articolo 5 prestano piena collaborazione al centro di assistenza dello Stato membro ospitante e, se del caso, dello Stato membro d'origine e, su richiesta, trasmettono ai centri di assistenza degli Stati membri ospitanti tutte le informazioni pertinenti sui singoli casi, fatte salve le disposizioni in materia di protezione dei dati personali. In ogni caso, le autorita' competenti di cui all'articolo 5, prima della trasmissione, danno avviso della suddetta richiesta al soggetto interessato)).
 
-#### Art. 7
+##### Art. 7
 
 Conoscenze linguistiche
 
@@ -402,15 +402,15 @@ Conoscenze linguistiche
 
 1-undecies. In considerazione delle risultanze dello specifico monitoraggio effettuato sulla qualita' dell'assistenza sanitaria erogata a bordo delle navi di cui al comma 1-novies, il Ministro della salute, di concerto con il Ministro delle infrastrutture e della mobilita' sostenibili, sentito il Ministro del turismo, con decreto da adottare decorsi due anni dalla data di entrata in vigore della presente disposizione e, successivamente, con cadenza biennale, puo' disporre la cessazione dell'applicazione delle disposizioni di cui ai commi 1-novies e 1-decies)).
 
-#### Art. 7-bis
+##### Art. 7-bis
 
 (( (Procedure telematiche). ))
 
 ((1. Le procedure di cui agli articoli 10 e 17 del presente decreto sono eseguite ai sensi dell'articolo 25, comma 5, del decreto legislativo 26 marzo 2010, n. 59. I termini procedurali di cui all'articolo 11, comma 3, e all'articolo 16, comma 2, del presente decreto iniziano a decorrere dal momento in cui l'interessato presenta, rispettivamente, la richiesta o un documento mancante presso il punto di contatto unico o direttamente all'autorita' competente. Ai fini del presente articolo l'eventuale richiesta di copie autenticate non e' considerata come richiesta di documenti mancanti)).
 
-## Capo II - Rapporti con autorita' non nazionali
+### Capo II - Rapporti con autorita' non nazionali
 
-#### Art. 8
+##### Art. 8
 
 Cooperazione amministrativa
 
@@ -432,7 +432,7 @@ b) il titolo di formazione in oggetto sia lo stesso titolo rilasciato dall'autor
 
 c) i titoli di formazione di cui alla lettera b) conferiscano gli stessi diritti d'accesso e di esercizio della relativa professione.
 
-#### Art. 8-bis
+##### Art. 8-bis
 
 (( (Meccanismo di allerta) ))
 
@@ -496,7 +496,7 @@ e) il periodo durante il quale si applica la limitazione o il divieto.
 
 ### Capo I - Principi generali
 
-#### Art. 9
+##### Art. 9
 
 Libera prestazione di servizi e prestazione occasionale e temporanea 1. Fatti salvi gli articoli da 10 a 15, la libera prestazione di servizi sul territorio nazionale non puo' essere limitata per ragioni attinenti alle qualifiche professionali:
 
@@ -512,9 +512,9 @@ b) in caso di spostamento del prestatore; in tal caso, se nello Stato membro di 
 
 4\. In caso di spostamento, il prestatore e' soggetto ((a norme professionali, di carattere professionale, legale o amministrativo, direttamente connesse alle qualifiche professionali, quali la definizione della professione, all'uso dei titoli, alla disciplina relativa ai gravi errori professionali connessi direttamente e specificamente alla tutela e alla sicurezza dei consumatori, nonche' alle disposizioni disciplinari applicabili ai professionisti che esercitano la professione corrispondente nel territorio italiano)).
 
-## Capo II - Adempimenti per l'esercizio della prestazione di servizi temporanea e occasionale.
+### Capo II - Adempimenti per l'esercizio della prestazione di servizi temporanea e occasionale.
 
-#### Art. 10
+##### Art. 10
 
 Dichiarazione preventiva in caso di spostamento del prestatore
 
@@ -544,7 +544,7 @@ e-ter) per le professioni riguardanti le attivita' di cui all'articolo 27, conte
 
 4-bis. Le autorita' competenti di cui all'articolo 5 assicurano che tutti i requisiti, le procedure e le formalita', fatta eccezione per la prova attitudinale prevista dall'articolo 11, possano essere espletate con facilita' mediante connessione remota e per via elettronica. Cio' non impedisce alle stesse autorita' competenti di richiedere le copie autenticate in una fase successiva, in caso di dubbio fondato e ove strettamente necessario.
 
-#### Art. 11
+##### Art. 11
 
 Verifica preliminare
 
@@ -558,7 +558,7 @@ Verifica preliminare
 
 5\. In mancanza di determinazioni da parte dell'autorita' competente entro il termine fissato nei commi precedenti, la prestazione di servizi puo' essere effettuata.
 
-#### Art. 12
+##### Art. 12
 
 Titolo professionale
 
@@ -570,7 +570,7 @@ Titolo professionale
 
 4\. Nei casi in cui il suddetto titolo professionale non esista nello Stato membro di stabilimento il prestatore indica il suo titolo di formazione nella lingua ufficiale o in una delle lingue ufficiali di detto Stato membro.
 
-#### Art. 13
+##### Art. 13
 
 Iscrizione automatica
 
@@ -586,7 +586,7 @@ Parimenti l'autorita' competente che rilascia una tessera professionale per la p
 
 4\. L'iscrizione all'ordine non comporta l'iscrizione ad enti di previdenza obbligatoria.
 
-#### Art. 14
+##### Art. 14
 
 Cooperazione tra autorita' competenti
 
@@ -594,7 +594,7 @@ Cooperazione tra autorita' competenti
 
 2\. Le autorita' di cui all'articolo 5 provvedono affinche' lo scambio di tutte le informazioni necessarie per un reclamo del destinatario di un servizio contro un prestatore avvenga correttamente. I destinatari sono informati dell'esito del reclamo.
 
-#### Art. 15
+##### Art. 15
 
 Informazioni al destinatario della prestazione
 
@@ -620,7 +620,7 @@ f) le prove di qualsiasi copertura assicurativa o analoghi mezzi di tutela perso
 
 ### Capo I - Norme procedurali
 
-#### Art. 16
+##### Art. 16
 
 Procedura di riconoscimento in regime di stabilimento
 
@@ -650,7 +650,7 @@ c) del Ministero degli affari esteri.
 
 10\. I beneficiari del riconoscimento esercitano la professione facendo uso della denominazione del titolo professionale, e della sua eventuale abbreviazione, prevista dalla legislazione italiana.
 
-#### Art. 17
+##### Art. 17
 
 Domanda per il riconoscimento
 
@@ -682,7 +682,7 @@ c) nei casi di cui all'articolo 27, un attestato relativo alla natura ed alla du
 
 ((9-bis. Le autorita' competenti di cui all'articolo 5 assicurano che tutti i requisiti, le procedure e le formalita' per il riconoscimento di una qualifica professionale, fatta eccezione per lo svolgimento del periodo di adattamento o della prova attitudinale, possano essere espletate, con facilita', mediante connessione remota e per via elettronica. Cio' non impedisce alle stesse autorita' competenti di richiedere le copie autenticate dei documenti presentati in una fase successiva, in caso di dubbio fondato e ove strettamente necessario.))
 
-#### Art. 17-bis
+##### Art. 17-bis
 
 (( (Riconoscimento del tirocinio professionale) ))
 
@@ -694,9 +694,9 @@ c) nei casi di cui all'articolo 27, un attestato relativo alla natura ed alla du
 
 4\. Per tutte le professioni che non rientrano nel comma 3, le linee guida sull'organizzazione e il riconoscimento dei tirocini professionali effettuati in un altro Stato membro o in un Paese terzo, in particolare sul ruolo del supervisore del tirocinio professionale, sono pubblicate, entro sessanta giorni dalla data di entrata in vigore del presente articolo, dalle autorita' incaricate di fissare i criteri e le modalita' per lo svolgimento del tirocinio in Italia sui rispettivi siti istituzionali)).
 
-## Capo II - Regime generale di riconoscimento di titoli di formazione
+### Capo II - Regime generale di riconoscimento di titoli di formazione
 
-#### Art. 18
+##### Art. 18
 
 Ambito di applicazione
 
@@ -716,7 +716,7 @@ f) agli infermieri specializzati sprovvisti della formazione di infermiere respo
 
 g) ai migranti in possesso dei requisiti previsti all'articolo 4, comma 1, lettera c), secondo periodo.
 
-#### Art. 19
+##### Art. 19
 
 Livelli di qualifica
 
@@ -744,7 +744,7 @@ d) diploma: diploma che attesta il compimento di una formazione a livello di ins
 
 e) diploma: diploma che attesta che il titolare ha completato un ciclo di studi post-secondari della durata di almeno quattro anni, o di una durata equivalente a tempo parziale, presso un'universita' o un istituto d'insegnamento superiore ovvero un altro istituto di livello equivalente e, se del caso, che ha completato con successo la formazione professionale richiesta in aggiunta al ciclo di studi post-secondari.
 
-#### Art. 20
+##### Art. 20
 
 Titoli di formazione assimilati
 
@@ -752,7 +752,7 @@ Titoli di formazione assimilati
 
 2\. E' altresi' assimilata ad un titolo di formazione, alle stesse condizioni del comma 1, ogni qualifica professionale che, pur non rispondendo ai requisiti delle norme legislative, regolamentari o amministrative dello Stato membro d'origine per l'accesso a una professione o il suo esercizio, conferisce al suo titolare diritti acquisiti in virtu' di tali disposizioni. La disposizione trova applicazione se lo Stato membro d'origine eleva il livello di formazione richiesto per l'ammissione ad una professione e per il suo esercizio, e se una persona che ha seguito una precedente formazione, che non risponde ai requisiti della nuova qualifica, beneficia dei diritti acquisiti in forza delle disposizioni nazionali legislative, regolamentari o amministrative; in tale caso, detta formazione precedente e' considerata, ai fini dell'applicazione dell'articolo 21, corrispondente al livello della nuova formazione.
 
-#### Art. 21
+##### Art. 21
 
 Condizioni per il riconoscimento
 
@@ -772,7 +772,7 @@ c) attestare la preparazione del titolare all'esercizio della professione intere
 
 ((4. In deroga ai commi 1 e 2 del presente articolo e all'articolo 22, l'autorita' competente di cui all'articolo 5 puo' rifiutare l'accesso alla professione e l'esercizio della stessa ai titolari di un attestato di competenza classificato a norma dell'articolo 19, comma 1, lettera a), qualora la qualifica professionale nazionale richiesta per esercitare tale professione in Italia sia classificata a norma dell'articolo 19, comma 1, lettera e).))
 
-#### Art. 22
+##### Art. 22
 
 Misure compensative
 
@@ -818,7 +818,7 @@ b) le differenze sostanziali di cui al comma 5 e le ragioni per cui tali differe
 
 8-ter. Al richiedente dovra' essere data la possibilita' di svolgere la prova attitudinale di cui al comma 1 entro sei mesi dalla decisione iniziale di imporre tale prova al richiedente.
 
-#### Art. 23
+##### Art. 23
 
 Tirocinio di adattamento e prova attitudinale
 
@@ -830,31 +830,31 @@ Tirocinio di adattamento e prova attitudinale
 
 3\. Ai fini della prova attitudinale le autorita' competenti di cui all'articolo 5 predispongono un elenco delle materie che, in base ad un confronto tra la formazione richiesta sul territorio nazionale e quella posseduta dal richiedente, non sono contemplate dai titoli di formazione del richiedente. La prova verte su materie da scegliere tra quelle che figurano nell'elenco e la cui conoscenza e' una condizione essenziale per poter esercitare la professione sul territorio dello Stato. Lo status del richiedente che desidera prepararsi per sostenere la prova attitudinale e' stabilito dalla normativa vigente.
 
-#### Art. 24
+##### Art. 24
 
 Esecuzione delle misure compensative
 
 1\. Con riferimento all'articolo 5, comma 1, con ((provvedimento dell'Autorita' competente)), sono definite, con riferimento alle singole professioni, le procedure necessarie per assicurare lo svolgimento, la conclusione, l'esecuzione e la valutazione delle misure di cui agli articoli 23 e 11.
 
-#### Art. 25
+##### Art. 25
 
 Disposizioni finanziarie
 
 1\. Gli eventuali oneri aggiuntivi derivanti dall'attuazione delle misure previste ((dagli articoli da 5-bis a 5-sexies, nonche')) dagli articoli 11 e 23 sono a carico dell'interessato sulla base del costo effettivo del servizio, secondo modalita' da stabilire con decreto del Ministro competente da emanarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto.
 
-#### Art. 26
+##### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.LGS. 28 GENNAIO 2016, N. 15))
 
-## Capo III - Riconoscimento sulla base dell'esperienza professionale
+### Capo III - Riconoscimento sulla base dell'esperienza professionale
 
-#### Art. 27
+##### Art. 27
 
 Requisiti in materia di esperienza professionale
 
 1\. Per le attivita' elencate nell'allegato IV il cui accesso o esercizio e' subordinato al possesso di conoscenze e competenze generali, commerciali o professionali, il riconoscimento professionale e' subordinato alla dimostrazione dell'esercizio effettivo dell'attivita' in questione in un altro Stato membro ai sensi degli articoli 28, 29 e 30.
 
-#### Art. 28
+##### Art. 28
 
 Condizioni per il riconoscimento delle attivita' di cui alla Lista I dell'allegato IV
 
@@ -876,7 +876,7 @@ e) per cinque anni consecutivi in funzioni direttive, di cui almeno tre anni con
 
 3\. Il comma 1, lettera e), non si applica alle attivita' del gruppo ex 855 (parrucchieri) della nomenclatura ISIC.
 
-#### Art. 29
+##### Art. 29
 
 Condizioni per il riconoscimento delle attivita' di cui alla Lista II dell'Allegato IV
 
@@ -894,7 +894,7 @@ f) per sei anni consecutivi come lavoratore subordinato, se il beneficiario prov
 
 2\. Nei casi di cui alle lettere a) e d) del comma 1, l'attivita' non deve essere cessata da piu' di 10 anni alla data di presentazione della documentazione completa dell'interessato alle autorita' competenti di cui all'articolo 5.
 
-#### Art. 30
+##### Art. 30
 
 Condizioni per il riconoscimento delle attivita' di cui alla Lista III dell'allegato IV
 
@@ -910,11 +910,11 @@ d) per tre anni consecutivi come lavoratore subordinato, se il beneficiario prov
 
 2\. Nei casi di cui alle lettere a) e c) del comma 1, l'attivita' non deve essere cessata da piu' di 10 anni alla data di presentazione della documentazione completa dell'interessato alle autorita' competenti di cui all'articolo 5.
 
-## Capo IV - Riconoscimento sulla base del coordinamento delle condizioni minime di formazione
+### Capo IV - Riconoscimento sulla base del coordinamento delle condizioni minime di formazione
 
-### SEZIONE I - Disposizioni comuni
+#### SEZIONE I - Disposizioni comuni
 
-#### Art. 31
+##### Art. 31
 
 Principio di riconoscimento automatico
 
@@ -944,7 +944,7 @@ Principio di riconoscimento automatico
 
 12\. Non hanno diritto al riconoscimento professionale ai sensi del presente decreto come medico chirurgo e infermiere responsabile dell'assistenza generale le persone in possesso del titolo bulgaro di feldsher rilasciato in Bulgaria anteriormente al 31 dicembre 1999 e che esercitavano questa professione nell'ambito del regime nazionale di sicurezza sociale bulgaro alla data del 1° gennaio 2000.
 
-#### Art. 32
+##### Art. 32
 
 Diritti acquisiti
 
@@ -966,9 +966,9 @@ b) prima del 3 aprile 1992 per i medici specialisti.
 
 7\. I titoli di formazione di medico, di infermiere responsabile dell'assistenza generale, di odontoiatra, di veterinario, di ostetrica e di farmacista rilasciati ai cittadini di cui all'articolo 2, comma 1, da un altro Stato membro e che non corrispondono alle denominazioni che compaiono per tale Stato all'allegato V, 5.1.1, 5.1.2, 5.1.3, 5.1.4, 5.2.2, 5.3.2, 5.3.3, 5.4.2, 5.5.2, e 5.6.2 sono riconosciuti se accompagnati da un certificato rilasciato da autorita' od organi competenti di detto Stato membro che attesti che tali titoli di formazione sanciscono il compimento di una formazione ai sensi degli articoli 33, 34, 36, 38, 41, 42, 44, 46 e 50 e che sono assimilati dallo Stato membro che li ha rilasciati a quelli le cui denominazioni appaiono nell'allegato V, punti 5.1.1, 5.1.2, 5.1.3, 5.1.4, 5.2.2, 5.3.2, 5.3.3, 5.4.2, 5.5.2 e 5.6.2.
 
-## SEZIONE II - Medico chirurgo
+#### SEZIONE II - Medico chirurgo
 
-#### Art. 33
+##### Art. 33
 
 Formazione dei medici chirurghi
 
@@ -990,7 +990,7 @@ d) adeguata esperienza clinica acquisita sotto opportuno controllo in ospedale.
 
 5\. Fermo restando il principio dell'invarianza della spesa, la formazione continua, ai sensi del decreto legislativo 19 giugno 1999, n. 229, assicura la formazione professionale e l'aggiornamento permanente di coloro che hanno completato i loro studi, per tutto l'arco della vita professionale.
 
-#### Art. 34
+##### Art. 34
 
 Formazione medica specialistica e denominazione medica specialistica 1. L'ammissione alla formazione medica specializzata e' subordinata al compimento e alla convalida di cinque anni di studi nel quadro del ciclo di formazione di cui all'articolo 33 durante i quali sono state acquisite appropriate conoscenze di medico chirurgo.
 
@@ -1014,7 +1014,7 @@ L'esenzione non puo' superare la meta' della durata minima del corso di formazio
 
 5\. I titoli di formazione di medico specialista di cui all'articolo 31 sono quelli rilasciati dalle autorita' od organi competenti di cui all'allegato V, punto 5.1.2 che corrispondono per la formazione specialistica in questione alle denominazioni vigenti negli Stati membri cosi' come riportato all'allegato V, 5.1.3.
 
-#### Art. 35
+##### Art. 35
 
 Diritti acquisiti specifici dei medici specialisti
 
@@ -1026,7 +1026,7 @@ Diritti acquisiti specifici dei medici specialisti
 
 ((3-bis. Il Ministero della salute, previi opportuni accertamenti, attesta il possesso delle qualifiche di medico specialista acquisite in Italia ed elencate ai punti 5.1.2 e 5.1.3 dell'allegato V, a chi ha iniziato la formazione specialistica in Italia dopo il 31 dicembre 1983 e prima del 1° gennaio 1991. L'attestato deve certificare che il medico specialista interessato ha effettivamente e in maniera legale esercitato l'attivita' di medico specialista in Italia, nella stessa area specialistica in questione, per almeno sette anni consecutivi durante i dieci anni che precedono il conferimento dell'attestato.))
 
-#### Art. 36
+##### Art. 36
 
 Formazione specifica in medicina generale
 
@@ -1042,7 +1042,7 @@ Formazione specifica in medicina generale
 
 6\. Il corso di formazione specifica in medicina generale, che si svolge a tempo pieno sotto il controllo delle regioni e province autonome, e' di natura piu' pratica che teorica.
 
-#### Art. 37
+##### Art. 37
 
 Diritti acquisiti specifici dei medici di medicina generale
 
@@ -1062,9 +1062,9 @@ Diritti acquisiti specifici dei medici di medicina generale
 
 > \- La legge 22 maggio 1978, n. 217, reca: «Diritto di stabilimento e libera prestazione dei servizi da parte dei medici cittadini di Stati membri delle Comunita' europee.»
 
-## SEZIONE III - Infermiere responsabile dell'assistenza generale
+#### SEZIONE III - Infermiere responsabile dell'assistenza generale
 
-#### Art. 38
+##### Art. 38
 
 Formazione d'infermiere responsabile dell'assistenza generale
 
@@ -1116,13 +1116,13 @@ g) la competenza di comunicare in modo esaustivo e professionale e di cooperare 
 
 h) la competenza di analizzare la qualita' dell'assistenza in un'ottica di miglioramento della propria pratica professionale come infermiere responsabile dell'assistenza generale.
 
-#### Art. 39
+##### Art. 39
 
 Esercizio delle attivita' professionali d'infermiere responsabile dell'assistenza generale
 
 1\. Le attivita' professionali d'infermiere responsabile dell'assistenza generale sono le attivita' esercitate a titolo professionale e indicate nell'allegato V, punto 5.2.2.
 
-#### Art. 40
+##### Art. 40
 
 Diritti acquisiti specifici agli infermieri responsabili dell'assistenza generale
 
@@ -1146,7 +1146,7 @@ b) attestati dal diploma di «licenza di infermiere» ottenuto sulla base di uno
 
 4\. COMMA SOPPRESSO DAL D.LGS. 28 GENNAIO 2016, N. 15.
 
-#### Art. 40-bis
+##### Art. 40-bis
 
 (( (Diritti acquisiti specifici degli infermieri responsabili dell'assistenza generale che hanno completato la formazione in Romania). ))
 
@@ -1166,9 +1166,9 @@ b) uno qualsiasi dei titoli di formazione elencati alla lettera a), numeri 2) e 
 
 c) uno qualsiasi dei titoli di formazione di livello post-secondario elencati all'articolo 4 dell'ordinanza del Ministro dell'istruzione nazionale n. 5114/2014 sull'approvazione della metodologia per l'organizzazione, lo svolgimento e il completamento dello speciale programma di rivalorizzazione della formazione iniziale degli infermieri responsabili dell'assistenza generale completata prima del 1° gennaio 2007 per chi ha conseguito un diploma di istruzione post-secondaria (Gazzetta Ufficiale della Romania n. 5 del 6 gennaio 2015), a condizione che tale titolo sia corredato del seguente titolo di formazione ottenuto sulla base di uno speciale programma di rivalorizzazione: Certificatul de revalorizare a competentelor profesionale di cui all'articolo 3, paragrafo 1, e all'allegato 3 dell'ordinanza congiunta del Ministro dell'istruzione nazionale e del Ministro della sanita' n. 4317/943/2014 e all'articolo 16 dell'ordinanza del Ministro dell'istruzione nazionale n. 5114/2014.))
 
-## SEZIONE IV - Odontoiatra
+#### SEZIONE IV - Odontoiatra
 
-#### Art. 41
+##### Art. 41
 
 Formazione dell'odontoiatra
 
@@ -1194,7 +1194,7 @@ f) ((un'adeguata conoscenza dell'odontoiatria digitale e una buona comprensione 
 
 5\. Le attivita' professionali dell'odontoiatra sono stabilite dall'articolo 1 della legge 24 luglio 1985, n. 409.
 
-#### Art. 42
+##### Art. 42
 
 Formazione di odontoiatra specialista
 
@@ -1206,7 +1206,7 @@ Formazione di odontoiatra specialista
 
 4\. La formazione di odontoiatra specialista si svolge a tempo pieno, per un periodo non inferiore a tre anni, sotto il controllo delle autorita' od organi competenti. Essa richiede la partecipazione personale dello specializzando alle attivita' e responsabilita' proprie della disciplina.
 
-#### Art. 43
+##### Art. 43
 
 Diritti acquisiti specifici degli odontoiatri
 
@@ -1244,9 +1244,9 @@ b) il professionista in questione ha esercitato effettivamente, in maniera legal
 
 c) il professionista in questione e' autorizzato a esercitare o esercita effettivamente, in maniera legale e a titolo principale le attivita' di cui all'articolo 41, comma 4, alle stesse condizioni dei titolari del titolo di formazione indicato per la Spagna all'allegato V, punto 5.3.2.))
 
-## SEZIONE V - Veterinario
+#### SEZIONE V - Veterinario
 
-#### Art. 44
+##### Art. 44
 
 Formazione del medico veterinario
 
@@ -1274,15 +1274,15 @@ g) ((LETTERA ABROGATA DAL D.LGS. 28 GENNAIO 2016, N. 15));
 
 h) ((LETTERA ABROGATA DAL D.LGS. 28 GENNAIO 2016, N. 15)).
 
-#### Art. 45
+##### Art. 45
 
 Diritti acquisiti specifici dei medici veterinari
 
 1\. Fatto salvo l'articolo 32, ai cittadini di cui all'articolo 2, comma 1, i cui titoli di formazione di veterinario sono stati rilasciati in Estonia o per i quali la corrispondente formazione e' iniziata in tale Stato anteriormente al 1 maggio 2004 e' riconosciuto il titolo di medico veterinario se corredato di un certificato rilasciato dall'autorita' competente dell'Estonia attestante che detti cittadini hanno effettivamente e lecitamente svolto l'attivita' professionale di medico veterinario in tale territorio per almeno cinque anni consecutivi nei sette anni precedenti il rilascio di detto certificato.
 
-## SEZIONE VI - Ostetrica
+#### SEZIONE VI - Ostetrica
 
-#### Art. 46
+##### Art. 46
 
 Formazione di ostetrica
 
@@ -1306,7 +1306,7 @@ b) un'adeguata conoscenza della deontologia e della legislazione professionale;
 
 e) ((una comprensione adeguata)) della formazione del personale sanitario e un'esperienza di collaborazione con tale personale.
 
-#### Art. 47
+##### Art. 47
 
 Condizioni per il riconoscimento del titolo di formazione di ostetrica
 
@@ -1320,7 +1320,7 @@ c) una formazione a tempo pieno di ostetrica di almeno 18 mesi ((che possono ess
 
 2\. L'attestato di cui al comma 1 e' rilasciato dalle autorita' competenti dello Stato membro d'origine e certifica che il titolare, dopo l'acquisizione del titolo di formazione di ostetrica, ha esercitato in modo soddisfacente, in un ospedale o in un istituto di cure sanitarie a tal fine autorizzato, tutte le attivita' di ostetrica per il periodo corrispondente.
 
-#### Art. 48
+##### Art. 48
 
 Esercizio delle attivita' professionali di ostetrica
 
@@ -1350,7 +1350,7 @@ l) praticare le cure prescritte da un medico;
 
 m) redigere i necessari rapporti scritti.
 
-#### Art. 49
+##### Art. 49
 
 Diritti acquisiti specifici alle ostetriche
 
@@ -1372,9 +1372,9 @@ b) all'articolo 53, paragrafo 3, della legge del 15 luglio 2011 relativa alle pr
 
 (( 5-bis. I diritti acquisiti in ostetricia non si applicano ai seguenti titoli ottenuti in Croazia anteriormente al 1° luglio 2013: visa medicinska sestra ginekolosko-opstetrickog smjera (infermiere di livello superiore in area ostetrico-ginecologica), medicinska sestra ginekolosko-opstetrickog smjera (infermiere in area ostetrico-ginecologica), visa medicinska sestra primaljskog smjera (infermiere di livello superiore con diploma in ostetricia), medicinska sestra primaljskog smjera (infermiere con diploma in ostetricia), ginekolosko-opstetricka primalja (ostetrica in area ostetrico-ginecologica) e primalja (ostetrica) )).
 
-## SEZIONE VII - Farmacista
+#### SEZIONE VII - Farmacista
 
-#### Art. 50
+##### Art. 50
 
 Formazione di farmacista
 
@@ -1402,7 +1402,7 @@ h) ((conoscenze e abilita' adeguate in materia di collaborazione interdisciplina
 
 i) ((conoscenza adeguata delle tecnologie dell'informazione e della tecnologia digitale e competenze relative all'applicazione pratica.))
 
-#### Art. 51
+##### Art. 51
 
 Esercizio delle attivita' professionali di farmacista
 
@@ -1428,9 +1428,9 @@ g-ter) accompagnamento personalizzato dei pazienti che praticano l'automedicazio
 
 g-quater) contributo a campagne istituzionali di sanita' pubblica.))
 
-## SEZIONE VIII - Architetto
+#### SEZIONE VIII - Architetto
 
-#### Art. 52
+##### Art. 52
 
 Formazione di architetto
 
@@ -1468,7 +1468,7 @@ m) conoscenza adeguata delle industrie, organizzazioni, regolamentazioni e proce
 
 1-quater. Il tirocinio professionale di cui al comma 1, lettera b), deve aver luogo solo dopo il completamento dei primi tre anni di insegnamento accademico. Almeno un anno del tirocinio professionale deve fare riferimento alle conoscenze, abilita' e competenze acquisite nel corso dell'insegnamento di cui al comma 1-bis. A tal fine il tirocinio professionale deve essere effettuato sotto la supervisione di un professionista o di un organismo professionale autorizzato dall'autorita' competente di cui all'articolo 5. Detto tirocinio puo' essere anche effettuato in un altro Stato membro a condizione che si attenga alle linee guida sul tirocinio pubblicate dal Ministero dell'istruzione, dell'universita' e della ricerca. Il tirocinio professionale e' valutato dall'autorita' competente di cui all'articolo 5.))
 
-#### Art. 53
+##### Art. 53
 
 Deroghe alle condizioni della formazione di architetto
 
@@ -1478,7 +1478,7 @@ Deroghe alle condizioni della formazione di architetto
 
 3\. In deroga all'articolo 52, e' riconosciuta ((soddisfacente ai sensi dell'articolo)) 31 anche la formazione acquisita nel quadro della promozione sociale o di studi universitari a tempo parziale, nonche' la formazione sancita dal superamento di un esame in architettura da parte di chi lavori da sette anni o piu' nel settore dell'architettura sotto il controllo di un architetto o di un ufficio di architetti. L'esame deve essere di livello universitario ed equivalente ((all'esame finale di cui all'articolo 52, comma 1, lettera b).)).
 
-#### Art. 54
+##### Art. 54
 
 Esercizio dell'attivita'
 
@@ -1486,7 +1486,7 @@ Esercizio dell'attivita'
 
 2\. Il riconoscimento attribuisce il diritto di far uso del titolo di architetto secondo la legge italiana e consente di far uso del titolo riconosciuto e della relativa abbreviazione, secondo la legge dello Stato membro di origine o di provenienza e nella lingua di questi.
 
-#### Art. 55
+##### Art. 55
 
 Diritti acquisiti specifici degli architetti
 
@@ -1510,13 +1510,13 @@ d) 5 agosto 1987 per gli altri Stati membri.
 
 2-quater. Ai fini dell'accesso e dell'esercizio delle attivita' professionali di architetto, sono riconosciuti titoli di completamento della formazione vigente al 5 agosto 1985 e iniziata non oltre il 17 gennaio 2014, impartita da «Fachhochschulen» nella Repubblica federale di Germania per un periodo di tre anni, conforme ai requisiti di cui all'articolo 52, comma 2, e idonea all'accesso alle attivita' esercitate in detto Stato membro con il titolo professionale di «architetto» purche' la formazione sia completata da un periodo di esperienza professionale di 4 anni, nella Repubblica federale di Germania, attestato da un certificato rilasciato dall'autorita' competente cui e' iscritto l'architetto che desidera beneficiare delle disposizioni del presente decreto.))
 
-#### Art. 56
+##### Art. 56
 
 Esercizio della professione di architetto in altri Stati membri
 
 1\. Ai fini del riconoscimento in altri Stati dell'Unione europea o negli altri Stati aderenti all'Accordo sullo spazio economico europeo, il Ministero dell'universita' e della ricerca certifica il valore abilitante all'esercizio della professione dei titoli conseguiti in Italia.
 
-#### Art. 57
+##### Art. 57
 
 Servizi di informazione
 
@@ -1524,7 +1524,7 @@ Servizi di informazione
 
 2\. Gli ordini possono attivare corsi, con oneri a carico degli interessati, per fornire loro le conoscenze linguistiche necessarie all'esercizio dell'attivita' professionale.
 
-#### Art. 58
+##### Art. 58
 
 Regolamento
 
@@ -1534,9 +1534,9 @@ Regolamento
 
 > \- Per l'art. 17, commi 3 e 4, della legge 23 agosto 1988, n. 400, vedi note all'art. 24.
 
-## ((Capo IV-bis - Riconoscimento automatico sulla base di principi di formazione comuni))
+### ((Capo IV-bis - Riconoscimento automatico sulla base di principi di formazione comuni))
 
-#### Art. 58-bis
+##### Art. 58-bis
 
 (( (Quadro comune di formazione) ))
 
@@ -1556,7 +1556,7 @@ c) sussistono differenze sostanziali tra il quadro di formazione comune e la for
 
 5\. Le qualifiche e i titoli professionali nazionali che fruiscono del riconoscimento automatico ai sensi del quadro di formazione comune sono elencate nel regolamento di esecuzione della Commissione europea sui quadri comuni di formazione adottato ai sensi dell'articolo 49-bis, paragrafo 6, della direttiva 2013/55/UE.))
 
-#### Art. 58-ter
+##### Art. 58-ter
 
 (( (Prove di formazione comuni) ))
 
@@ -1578,7 +1578,7 @@ c) i contenuti della prova di formazione comune renderebbero l'accesso alla prof
 
 ## Titolo IV - DISPOSIZIONI FINALI
 
-#### Art. 59
+##### Art. 59
 
 Libera prestazione di servizi per l'attivita' di guida turistica e di accompagnatore turistico
 
@@ -1616,7 +1616,7 @@ Libera prestazione di servizi per l'attivita' di guida turistica e di accompagna
 
 > n) i criteri uniformi per l'espletamento degli esami di abilitazione all'esercizio delle professioni turistiche.
 
-#### Art. 59-bis - Accesso centralizzato online alle informazioni
+##### Art. 59-bis - Accesso centralizzato online alle informazioni
 
 1\. Le autorita' competenti di cui all'articolo 5 garantiscono che le seguenti informazioni siano disponibili online attraverso il punto di contatto unico, di cui all'articolo 25 del decreto legislativo 26 marzo 2010, n. 59, e che siano regolarmente aggiornate:
 
@@ -1636,7 +1636,7 @@ f) le modalita' di ricorso, conformemente alle disposizioni legislative, regolam
 
 1-ter. Il Coordinatore nazionale di cui all'articolo 6 adotta ogni misura idonea a consentire al punto di contatto unico di fornire le informazioni di cui al comma 1 del presente articolo in un'altra lingua ufficiale dell'Unione europea)).
 
-#### Art. 59-ter
+##### Art. 59-ter
 
 (( (Trasparenza). ))
 
@@ -1656,7 +1656,7 @@ b) i requisiti devono essere giustificati da un motivo imperativo di interesse g
 
 c) i requisiti devono essere tali da garantire il raggiungimento dell'obiettivo perseguito e non vanno al di la' di quanto e' necessario per raggiungere tale obiettivo.))
 
-#### Art. 60
+##### Art. 60
 
 Abrogazioni
 
@@ -1668,7 +1668,7 @@ Abrogazioni
 
 4\. Ogni riferimento contenuto in vigenti disposizioni di legge ai decreti legislativi 27 gennaio 1992, n. 115, ((. . . )) 2 maggio 1994, n. 319, ((e 20 settembre 2002, n. 229,))si intende fatto alle corrispondenti disposizioni del presente decreto.
 
-#### Art. 61
+##### Art. 61
 
 Clausola di invarianza finanziaria
 
@@ -1712,31 +1712,31 @@ Visto, il Guardasigilli: Mastella
 
 ## Titolo IV - DISPOSIZIONI FINALI
 
-#### Allegato I
+##### Allegato I
 
 Allegato I
 
 Parte di provvedimento in formato grafico
 
-#### Allegato II
+##### Allegato II
 
 Allegato II
 
 ((ALLEGATO ABROGATO DAL D.LGS. 28 GENNAIO 2016, N. 15))
 
-#### Allegato III
+##### Allegato III
 
 Allegato III
 
 ((ALLEGATO ABROGATO DAL D.LGS. 28 GENNAIO 2016, N. 15))
 
-#### Allegato IV
+##### Allegato IV
 
 Allegato IV
 
 Parte di provvedimento in formato grafico
 
-#### Allegato V
+##### Allegato V
 
 Allegato V
 
@@ -2397,7 +2397,7 @@ Farmacoeconomia
 
 La ripartizione tra insegnamento teorico e pratico deve lasciare spazio sufficiente alla teoria, per conservare all'insegnamento il suo carattere universitario".
 
-#### Allegato VI
+##### Allegato VI
 
 Allegato VI
 

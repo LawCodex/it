@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 L'articolo 82 del testo unico delle leggi per la composizione e la elezione degli organi delle Amministrazioni comunali, approvato con decreto del Presidente della Repubblica 16 maggio 1960, n. 570, e sostituito dai seguenti:
 
@@ -56,11 +56,11 @@ Articolo 82/3. - "Le sentenze pronunciate in secondo grado dalla Corte di appell
 
 La sentenza e' Immediatamente pubblicata".
 
-### Art. 2
+## Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 LUGLIO 2010, N. 104))
 
-### Art. 3
+## Art. 3
 
 ((COMMA ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150)). ((4))
 
@@ -74,7 +74,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, comma 1) che "Le 
 
 Ha inoltre disposto (con l'art. 36, comma 2) che "Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
-### Art. 4
+## Art. 4
 
 L'articolo 84 del testo unico delle leggi per la composizione e l'elezione degli organi delle Amministrazioni comunali, approvato con decreto del Presidente della Repubblica 16 maggio 1960, n. 570, e' sostituito dal seguente:
 
@@ -84,7 +84,7 @@ Le sentenze e le decisioni devono essere immediatamente comunicate al sindaco, c
 
 L'esecuzione delle sentenze emesse dal tribunale civile resta sospesa in pendenza di ricorso alla Corte di appello".
 
-### Art. 5
+## Art. 5
 
 Dopo l'articolo 9 del testo unico delle leggi per la composizione e l'elezione degli organi delle Amministrazioni comunali, approvato con decreto del Presidente della Repubblica 16 maggio 1960, n. 570, e' aggiunto il seguente:
 
@@ -104,11 +104,11 @@ La pronuncia della decadenza dalla carica di consigliere comunale produce di pie
 
 Le norme del presente articolo si applicano anche ai procedimenti relativi alla ineleggibilita' e alla decadenza dalla qualita' di sindaco, per le cause di ineleggibilita' alla carica stessa previste dall'articolo 6".
 
-### Art. 6
+## Art. 6
 
 ((ARTICOLO ABROGATO DALLA L. 23 APRILE 1981, N. 154)).
 
-### Art. 7
+## Art. 7
 
 L'articolo 2 della legge 18 maggio 1951, n. 328, e' abrogato.
 
@@ -128,7 +128,7 @@ Ha inoltre disposto (con l'art. 36, comma 2) che "Le norme abrogate o modificate
 
 ## Norme transitorie
 
-### Art. 8
+## Art. 8
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 LUGLIO 2010, N. 104))
 

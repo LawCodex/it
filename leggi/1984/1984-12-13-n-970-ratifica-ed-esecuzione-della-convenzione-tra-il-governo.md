@@ -25,21 +25,21 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione tra il Governo della Repubblica italiana ed il Consiglio esecutivo federale dell'Assemblea della Repubblica socialista federativa di Jugoslavia per la manutenzione del confine di Stato, firmata a Nuova Gorizia il 29 ottobre 1980.
 
-#### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 16 della convenzione stessa.
 
-#### Art. 3
+## Art. 3
 
 All'onere derivante dall'attuazione della presente legge, valutato in lire 105 milioni per l'anno finanziario 1984, si provvede a carico del capitolo n. 2802 dello stato di previsione del Ministero della difesa per l'anno medesimo e dei corrispondenti capitoli per gli anni successivi.
 
 Il Ministro del tesoro e' autorizzato a provvedere, con propri decreti, alle occorrenti variazioni di bilancio.
 
-#### Art. 4
+## Art. 4
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -65,7 +65,7 @@ CONVENZIONE TRA IL GOVERNO DELLA REPUBBLICA ITALIANA ED IL CONSIGLIO ESECUTIVO F
 
 Il Governo della Repubblica italiana ed il Consiglio esecutivo federale dell'Assemblea della Repubblica socialista federativa di Jugoslavia, allo scopo di regolamentare di comune accordo tutte le questioni relative alla manutenzione del confine di Stato, hanno convenuto quanto segue:
 
-#### Art. 1
+## Art. 1
 
 1\. Il confine di Stato fra la Repubblica italiana e la Repubblica socialista federativa di Jugoslavia si sviluppa secondo il tracciato stabilito dal trattato di pace con l'Italia firmato a Parigi il 10 febbraio 1947 e dal Trattato fra la Repubblica italiana e la Repubblica socialista federativa di Jugoslavia firmato ad Osimo il 10 novembre 1975.
 
@@ -85,23 +85,21 @@ I suddetti documenti sono stati redatti dalle Commissioni miste italo-jugoslave 
 
 3\. La linea di confine nel golfo di Trieste e' descritta nel testo dell'allegato III e segnata sulla carta allegato IV al Trattato fra la Repubblica italiana e la Repubblica socialista federativa di Jugoslavia firmato ad Osimo il 10 novembre 1975.
 
-#### Art. 2
+## Art. 2
 
 1\. Il confine di Stato dal punto triconfinale italo-austro-jugoslavo fino al mare Adriatico (nel testo che segue: confine terrestre) e' materializzato sul terreno mediante termini di confine principali, speciali, secondari e sussidiari. Essi sono di norma situati direttamente sulla linea di confine ovvero, dove le condizioni del terreno lo hanno imposto, da un lato o dall'altro della linea di confine.
 
 2\. I dati relativi ai termini di confine (tipo, forma, dimensione, numerazione, ubicazione, ecc.) sono contenuti nei documenti di confine di cui al punto 2 dell'articolo 1 della presente convenzione.
 
-#### Art. 3
+## Art. 3
 
 1\. Il confine di Stato delimita il territorio dei due Stati in superficie e, verticalmente, nello spazio aereo e sotto la superficie.
 
 2\. Nei casi in cui la linea di confine coincida con corsi d'acqua, essa resta invariata anche qualora l'andamento del corso d'acqua venga modificato.
 
-## MANUTENZIONE DEL CONFINE - E RIPARTIZIONE
+## MANUTENZIONE DEL CONFINE - E RIPARTIZIONE IN SETTORI
 
-### IN SETTORI
-
-#### Art. 4
+## Art. 4
 
 1\. Le Parti contraenti si impegnano a mantenere chiaramente individuabile il confine terrestre e ad eseguire a questo scopo, congiuntamente, i seguenti lavori come disposto dalla presente convenzione:
 
@@ -119,7 +117,7 @@ adozione di ogni altro provvedimento ai fini della manutenzione della linea e de
 
 2\. Il ripristino del termine triconfinale italo-austro-jugoslavo sara' effettuato in accordo fra tutti e tre gli Stati interessati.
 
-#### Art. 5
+## Art. 5
 
 1\. Le Parti contraenti provvederanno affinche' una fascia lungo il confine di Stato, avente la larghezza di 1,5 metri da ciascun lato della linea di confine, rimanga libera da alberi, cespugli od altra vegetazione. Il terreno intorno a ciascun termine, situato sull'uno o sull'altro lato della linea di confine, va tenuto sgombero per un raggio di un metro.
 
@@ -131,7 +129,7 @@ I vincoli di cui sopra non si applicano alle opere gia' esistenti.
 
 4\. Nella fascia di confine possono essere conservati alberi ornamentali od altre colture di particolare pregio.
 
-#### Art. 6
+## Art. 6
 
 1\. Al fine di garantire l'adempimento degli impegni derivanti dalla presente convenzione, le Parti contraenti effettueranno ogni sei anni, congiuntamente, i lavori di manutenzione della linea e dei termini di confine, oltre al disboscamento della fascia di confine.
 
@@ -139,13 +137,13 @@ Il periodo di sei anni verra' calcolato a partire dal 1979.
 
 2\. Indipendentemente dalla norma che precede, le Parti contraenti possono, di comune accordo e prima dello scadere del termine suddetto, eseguire lavori sul confine con lo scopo di rinfittire la demarcazione della linea di confine, di accertare la posizione di alcuni termini di confine, ovvero a seguito della costruzione di opere di rilievo sul confine.
 
-#### Art. 7
+## Art. 7
 
 1\. Le persone fisiche o giuridiche che possiedono o gestiscono terreni, ponti, miniere, gallerie ed altri manufatti situati sul confine di Stato o nelle sue adiacenze, sulla superficie o nel sottosuolo, sono tenute a consentire l'esecuzione dei lavori di manutenzione del confine previsti dalla presente convenzione.
 
 2\. Gli indennizzi per i lavori di cui al punto 1 del presente articolo vengono stabiliti secondo le norme della Parte contraente nel cui territorio sono situati terreni e manufatti. Sono escluse richieste di indennizzo nei riguardi dell'altra Parte contraente.
 
-#### Art. 8
+## Art. 8
 
 Il confine terrestre e' suddiviso negli otto settori sottoindicati:
 
@@ -165,7 +163,7 @@ Settore VII dal termine principale 66 fino al termine principale 78 (escluso) si
 
 Settore VIII dal termine principale 78 fino al termine principale 92 situato alla baia di S. Bartolomeo.
 
-#### Art. 9
+## Art. 9
 
 Gli impegni derivanti dalla presente convenzione nei riguardi della manutenzione del confine e le spese relative a detti impegni vengono ripartite come segue:
 
@@ -175,7 +173,7 @@ la Parte jugoslava e' responsabile per i settori I, III, V e VII; ciascuna Parte
 
 ## COMMISSIONE MISTA
 
-#### Art. 10
+## Art. 10
 
 1\. Al fine di garantire l'adempimento degli impegni derivanti dalla presente convenzione, le Parti contraenti istituiscono una Commissione mista italo-jugoslava per la manutenzione del confine di Stato (nel testo che segue: Commissione mista).
 
@@ -201,19 +199,19 @@ e) adottare ogni altra misura che si renda opportuna per la manutenzione della l
 
 7\. La Commissione mista provvede affinche' la linea di confine descritta nei documenti di confine, di cui all'articolo 1 della presente convenzione, rimanga fissa ed immutata alla fine dei lavori di manutenzione.
 
-#### Art. 11
+## Art. 11
 
 Per l'esecuzione dei compiti derivanti dalla presente convenzione la Commissione mista costituisce un gruppo misto di esperti, mentre per l'effettiva esecuzione dei lavori sul terreno costituisce dei nuclei tecnico-operativi misti.
 
 Il lavoro del gruppo misto di esperti e dei nuclei tecnico-operativi misti si svolge in base alle istruzioni scritte emanate dalla Commissione mista.
 
-#### Art. 12
+## Art. 12
 
 1\. Le Parti contraenti si impegnano alla manutenzione dei punti della rete di triangolazione del confine necessari per la determinazione dei termini di confine. Qualora intervengano variazioni nei dati relativi ai suddetti punti trigonometrici, le, due Delegazioni nella Commissione mista si impegnano a darsene reciproca comunicazione.
 
 2\. Nello svolgimento delle proprie mansioni gli esperti delle due Delegazioni possono utilizzare i punti trigonometrici esistenti sulla linea di confine o che sono inclusi nella rete di triangolazione del confine situati nel territorio delle due Parti.
 
-#### Art. 13
+## Art. 13
 
 1\. La Commissione mista elabora un regolamento per la propria attivita' con il quale vengono meglio precisate le modalita' di funzionamento della Commissione stessa.
 
@@ -231,7 +229,7 @@ La soluzione delle questioni che la Commissione mista non possa eventualmente ri
 
 ## ATTRAVERSAMENTO DEL CONFINE
 
-#### Art. 14
+## Art. 14
 
 1\. Per lo svolgimento delle attivita' derivanti dalla presente convenzione, i membri della Commissione mista, gli esperti ed il personale ausiliario della Commissione stessa vengono muniti di regolare passaporto; le stesse persone, nonche' il personale dei nuclei tecnico-operativi misti, vengono muniti di un documento stabilito dalla Commissione mista ovvero dagli organi competenti delle due Parti, in occasione dei lavori sul terreno.
 
@@ -239,7 +237,7 @@ La soluzione delle questioni che la Commissione mista non possa eventualmente ri
 
 3\. In occasione dell'organizzazione ed esecuzione dei lavori sul confine, la Commissione mista stabilisce norme per il movimento del personale dei nuclei tecnico-operativi misti lungo la linea di confine e nel territorio dell'altra Parte contraente.
 
-#### Art. 15
+## Art. 15
 
 1\. Ai membri della Commissione mista, agli esperti, al personale ausiliario ed al personale dei nuclei tecnico-operativi misti viene garantita, durante la permanenza nel territorio dell'altra Parte contraente, per l'assolvimento dei compiti derivanti dalla presente convenzione, l'immunita' personale e l'inviolabilita' dei documenti ufficiali, del carteggio e dei timbri che portano seco.
 
@@ -255,7 +253,7 @@ Detti autoveicoli debbono essere muniti di regolari documenti di circolazione e 
 
 ## DISPOSIZIONI FINALI
 
-#### Art. 16
+## Art. 16
 
 1\. La presente convenzione e' soggetta a ratifica, in conformita' all'ordinamento interno delle Parti contraenti.
 

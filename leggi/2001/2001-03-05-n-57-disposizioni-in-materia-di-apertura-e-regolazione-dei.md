@@ -22,39 +22,35 @@ retrieved: 2026-10-11
 
 ## Titolo I - REGOLAZIONE DEI MERCATI
 
-### Capo I
+### Capo I - INTERVENTI NEL SETTORE ASSICURATIVO
 
-#### INTERVENTI NEL SETTORE ASSICURATIVO
-
-##### Art. 1
+#### Art. 1
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 2
+#### Art. 2
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 3
+#### Art. 3
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 4
+#### Art. 4
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 5
+#### Art. 5
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 6
+#### Art. 6
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-## Capo II - INTERVENTI NEI SETTORI AGRICOLO, FORESTALE,
+### Capo II - INTERVENTI NEI SETTORI AGRICOLO, FORESTALE, DELLA PESCA E DELL'ACQUACOLTURA
 
-### DELLA PESCA E DELL'ACQUACOLTURA
-
-##### Art. 7
+#### Art. 7
 
 (Delega per la modernizzazione nei settori dell'agricoltura,
 
@@ -86,7 +82,7 @@ h) favorire la cura e la manutenzione dell'ambiente rurale, anche attraverso la 
 
 i) favorire lo sviluppo sostenibile del sistema forestale, in aderenza ai criteri e principi individuati dalle Conferenze ministeriali sulla protezione delle foreste in Europa.
 
-##### Art. 8 - Principi e criteri direttivi
+#### Art. 8 - Principi e criteri direttivi
 
 1\. Nell'attuazione della delega di cui all'articolo 7, il Governo si atterra' ai principi e criteri contenuti nel capo I e nell'articolo 20, comma 5, della legge 15 marzo 1997, n. 59, e successive modificazioni, nonche' ai seguenti principi e criteri direttivi:
 
@@ -148,7 +144,7 @@ gg) quantificazione degli oneri derivanti da ciascuna azione avviata in attuazio
 
 2\. I termini per l'emanazione dei testi unici in materia di agricoltura e di pesca e acquacoltura di cui all'articolo 7 della legge 8 marzo 1999, n. 50, sono prorogati fino a ventiquattro mesi dalla data di entrata in vigore della presente legge. I testi unici di cui al presente comma entrano in vigore il sessantesimo giorno successivo alla data della loro pubblicazione nella Gazzetta Ufficiale.
 
-##### Art. 9
+#### Art. 9
 
 (Modifica dell'articolo 2 del decreto-legge n. 321 del 1996
 
@@ -156,9 +152,9 @@ convertito, con modificazioni, dalla legge n. 421 del 1996)
 
 1\. All'articolo 2, comma 6, del decreto-legge 17 giugno 1996, n. 321, convertito, con modificazioni, dalla legge 8 agosto 1996, n. 421, sono aggiunti, in fine, i seguenti periodi: "Tali agevolazioni sono riconosciute nella forma di un contributo in conto capitale pari all'80 per cento delle spese ammesse per la realizzazione del predetto programma di investimenti. Con decreto di natura non regolamentare il Ministro dell'industria, del commercio e dell'artigianato provvede a determinare le spese ammissibili e le modalita' di erogazione del contributo".
 
-## Capo III - DISPOSIZIONI IN MATERIA DI PRIVATIZZAZIONI
+### Capo III - DISPOSIZIONI IN MATERIA DI PRIVATIZZAZIONI
 
-##### Art. 10
+#### Art. 10
 
 (Interpretazione autentica dell'articolo 14, commi 3 e 4, del
 
@@ -174,7 +170,7 @@ dalla legge 359 del 1992. Norme sulla cessione di energia elettrica) 1. L'artico
 
 "5-bis. A decorrere dal novantesimo giorno dalla cessione, da parte dell'ENEL Spa, di non meno di 15.000 MW di capacita' produttiva ai sensi dell'articolo 8, comma 1, e' cliente idoneo ogni cliente finale, singolo o associato, il cui consumo, misurato in un unico punto del territorio nazionale, destinato alle attivita' esercitate da imprese individuali o costituite in forma societaria, nonche' ai soggetti di cui all'articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29, e' risultato, nell'anno precedente, superiore a 0,1 GWh. Con la medesima decorrenza cessano di avere applicazione i commi 2, 3, 4 e 5 del presente articolo".
 
-##### Art. 11 - Abuso di dipendenza economica e concorrenza
+#### Art. 11 - Abuso di dipendenza economica e concorrenza
 
 1\. Il comma 3 dell'articolo 9 della legge 18 giugno 1998, n. 192, e' sostituito dal seguente:
 
@@ -200,11 +196,9 @@ dalla legge 359 del 1992. Norme sulla cessione di energia elettrica) 1. L'artico
 
 ## Titolo II - INCENTIVI E INTERNAZIONALIZZAZIONE DEI MERCATI
 
-### Capo I
+### Capo I - INTERVENTI A TUTELA E SOSTEGNO DELLE PICCOLE E MEDIE IMPRESE
 
-#### INTERVENTI A TUTELA E SOSTEGNO DELLE PICCOLE E MEDIE IMPRESE
-
-##### Art. 12 - Modifiche ed integrazioni alla legge 27 febbraio 1985, n. 49
+#### Art. 12 - Modifiche ed integrazioni alla legge 27 febbraio 1985, n. 49
 
 1\. Alla legge 27 febbraio 1985, n. 49, e successive modificazioni, sono apportate le modifiche di cui ai commi da 2 a 7.
 
@@ -238,7 +232,7 @@ dalla legge 359 del 1992. Norme sulla cessione di energia elettrica) 1. L'artico
 
 9\. Resta fermo quanto disposto dai decreti legislativi adottati ai sensi dell'articolo 1 della legge 15 marzo 1997, n. 59, e successive modificazioni.
 
-##### Art. 13 - Modifiche ed integrazioni alla legge 8 agosto 1985, n. 443
+#### Art. 13 - Modifiche ed integrazioni alla legge 8 agosto 1985, n. 443
 
 1\. All'articolo 3, secondo comma, della legge 8 agosto 1985, n. 443, sono soppresse le parole: "la responsabilita' limitata e".
 
@@ -250,7 +244,7 @@ dalla legge 359 del 1992. Norme sulla cessione di energia elettrica) 1. L'artico
 
 4\. Agli oneri derivanti dall'attuazione del presente articolo, valutati in lire 36.000 milioni annue a decorrere dall'anno 2001, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2001-2003, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 2001, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero medesimo.
 
-##### Art. 14
+#### Art. 14
 
 (Misure per favorire l'accesso delle imprese artigiane agli incentivi di cui al decreto-legge n. 415 del 1992, convertito,
 
@@ -272,7 +266,7 @@ AGGIORNAMENTO (7)
 
 Il D.L. 22 giugno 2012, n. 83, convertito, con modificazioni, dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 23, comma 11) che "I procedimenti avviati in data anteriore a quella di entrata in vigore del presente decreto-legge sono disciplinati, ai fini della concessione e dell'erogazione delle agevolazioni e comunque fino alla loro definizione, dalle disposizioni delle leggi di cui all'Allegato 1 e dalle norme di semplificazione recate dal presente decreto-legge."
 
-##### Art. 15 - Agevolazioni regionali e disposizioni in materia di turismo
+#### Art. 15 - Agevolazioni regionali e disposizioni in materia di turismo
 
 1\. Il comma 2-bis dell'articolo 11 del decreto-legge 29 agosto 1994, n. 516, convertito, con modificazioni, dalla legge 27 ottobre
 
@@ -284,7 +278,7 @@ lettera b) del comma 2 sono concesse, anche nella forma del contributo in conto 
 
 2\. All'articolo 21, comma 2, del decreto legislativo 17 marzo 1995, n. 111, le parole: "allo 0,5 per cento" sono sostituite dalle seguenti: "al 2 per cento".
 
-##### Art. 16 - Agevolazioni per l'informazione al consumatore
+#### Art. 16 - Agevolazioni per l'informazione al consumatore
 
 1\. E' autorizzata la spesa di lire 3 miliardi per l'anno 2001 per il finanziamento fino alla misura del 70 per cento, di progetti promossi dalle associazioni dei consumatori e degli utenti iscritte nell'elenco di cui all'articolo 5 della legge 30 luglio 1998, n. 281, per servizi di assistenza, informazione ed educazione resi a consumatori e utenti compresi quelli della pubblica amministrazione.
 
@@ -292,7 +286,7 @@ lettera b) del comma 2 sono concesse, anche nella forma del contributo in conto 
 
 3\. All'onere derivante dall'attuazione del presente articolo si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2001-2003, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 2001, utilizzando parzialmente l'accantonamento relativo al Ministero dei trasporti e della navigazione.
 
-##### Art. 17 - Misure atte a favorire la riqualificazione delle imprese di facchinaggio e di movimentazione delle merci
+#### Art. 17 - Misure atte a favorire la riqualificazione delle imprese di facchinaggio e di movimentazione delle merci
 
 1\. Le imprese che esercitano attivita' di facchinaggio debbono essere iscritte nel registro delle imprese di cui alla legge 29 dicembre 1993, n. 580, oppure nell'albo delle imprese artigiane di cui all'articolo 5 della legge 8 agosto 1985, n. 443. L'iscrizione al registro o all'albo e' subordinata alla dimostrazione della sussistenza di specifici requisiti ((...)) di onorabilita' che saranno indicati con decreto del Ministro dell'industria, del commercio e dell'artigianato da emanare, di concerto con il Ministro del lavoro e della previdenza sociale, entro novanta giorni dalla data di entrata in vigore della presente legge.
 
@@ -300,7 +294,7 @@ lettera b) del comma 2 sono concesse, anche nella forma del contributo in conto 
 
 3\. Per attivita' di facchinaggio si intendono quelle previste dalla tabella allegata al decreto del Ministro del lavoro e della previdenza sociale 3 dicembre 1999, pubblicato nella Gazzetta Ufficiale n. 297 del 20 dicembre 1999.
 
-##### Art. 18 - Modifiche alla legge 3 febbraio 1989, n. 39
+#### Art. 18 - Modifiche alla legge 3 febbraio 1989, n. 39
 
 1\. Alla legge 3 febbraio 1989, n. 39, sono apportate le seguenti modificazioni:
 
@@ -320,7 +314,7 @@ a) con l'attivita' svolta in qualita' di dipendente da persone, societa' o enti,
 
 b) con l'esercizio di attivita' imprenditoriali e professionali, escluse quelle di mediazione comunque esercitate".
 
-##### Art. 19
+#### Art. 19
 
 (Norme per l'ammodernamento della rete distributiva dei carburanti) 1. Al fine di assicurare la qualita' e l'efficienza del servizio, il contenimento dei prezzi di vendita ed il raggiungimento degli obiettivi di razionalizzazione del sistema distributivo dei carburanti di cui al decreto legislativo 11 febbraio 1998, n. 32, il Ministro dell'industria, del commercio e dell'artigianato adotta, d'intesa con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, entro sessanta giorni dalla data di entrata in vigore della presente legge, il Piano nazionale contenente le linee guida per l'ammodernamento del sistema distributivo dei carburanti. In coerenza con il Piano nazionale, le regioni, nell'ambito dei poteri programmatori loro attribuiti, provvedono a redigere i piani regionali sulla base dei seguenti indirizzi:
 
@@ -352,13 +346,13 @@ i) determinazione, nel rispetto delle disposizioni di cui all'articolo 3, comma 
 
 4\. All'articolo 1, comma 6, del decreto legislativo 11 febbraio 1998, n. 32, le parole "tutte le attrezzature fisse e mobili" devono intendersi riferite anche alle attrezzature per l'erogazione e il pagamento sia anticipato che posticipato del rifornimento.
 
-##### Art. 20 - Norme in materia di apertura di esercizi commerciali
+#### Art. 20 - Norme in materia di apertura di esercizi commerciali
 
 1\. Fino alla definizione da parte delle regioni delle modalita' di attuazione dell'articolo 10, comma 3, del decreto legislativo 31 marzo 1998, n. 114, non puo' essere negata l'autorizzazione all'apertura di un esercizio avente una superficie di vendita non superiore a 1.500 mq. in caso di concentrazione di esercizi di vendita di cui all'articolo 4, comma 1, lettera d), del citato decreto legislativo n. 114 del 1998, operanti nello stesso comune e autorizzati ai sensi dell'articolo 24 della legge 11 giugno 1971, n. 426, per la vendita di generi di largo e generale consumo. La superficie di vendita del nuovo esercizio non puo' essere superiore alla somma dei limiti massimi indicati alla citata lettera d) del comma 1 dell'articolo 4 del decreto legislativo n. 114 del 1998, tenuto conto del numero degli esercizi concentrati. Il rilascio dell'autorizzazione comporta la revoca dei titoli autorizzatori preesistenti.
 
-## Capo II - INTERNAZIONALIZZAZIONE DELLE IMPRESE
+### Capo II - INTERNAZIONALIZZAZIONE DELLE IMPRESE
 
-##### Art. 21 - Misure di sostegno all'internazionalizzazione delle imprese
+#### Art. 21 - Misure di sostegno all'internazionalizzazione delle imprese
 
 1\. All'articolo 1, comma 4, ultimo periodo, della legge 24 aprile 1990, n. 100, dopo le parole: "enti pubblici," sono inserite le seguenti: "da regioni nonche' dalle province autonome di Trento e Bolzano e da societa' finanziarie di sviluppo controllate dalle regioni o dalle province autonome,".
 
@@ -396,9 +390,9 @@ b) all'articolo 3, il comma 4 e' sostituito dal seguente:
 
 Allo scopo il Ministero dell'industria, del commercio e dell'artigianato adotta specifiche misure per la concessione, a valere su detta somma, di contributi in conto capitale nei limiti degli aiuti de minimis. Sulla stessa somma gravano altresi' gli oneri per le azioni e le iniziative per la formazione di tecnici specializzati nelle metodologie, nelle procedure gestionali e nelle tecnologie anzidette, con riferimento alle filiere produttive del settore tessile, dell'abbigliamento e calzaturiero. Al relativo onere si provvede mediante corrispondente riduzione per l'anno 2000, dello stanziamento iscritto, ai fini del bilancio triennale 2000-2002, nell'ambito dell'unita' previsionale di base di conto capitale "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 2000, allo scopo utilizzando l'accantonamento relativo al Ministero dell'industria, del commercio e dell'artigianato.
 
-## Capo III - MISURE DI INTERVENTO NEL SETTORE DELLE COMUNICAZIONI
+### Capo III - MISURE DI INTERVENTO NEL SETTORE DELLE COMUNICAZIONI
 
-##### Art. 22
+#### Art. 22
 
 (Contributo per l'acquisto di ricevitori-decodificatori e disposizioni in favore della ricerca nel campo delle comunicazioni) 1. Alle persone fisiche, ai pubblici esercizi ed agli alberghi che acquistano un apparato ricevitore-decodificatore per la ricezione e trasmissione di dati, di programmi digitali con accesso condizionato e di programmi radiotelevisivi digitali in chiaro conforme alle caratteristiche determinate dall'Autorita' per le garanzie nelle comunicazioni ai sensi del decreto-legge 30 gennaio 1999, n. 15, convertito, con modificazioni, dalla legge 29 marzo 1999, n. 78, nonche' alle persone fisiche e giuridiche che acquistano un apparato di utente per la trasmissione e la ricezione a larga banda dei dati via INTERNET e' riconosciuto per una sola volta un contributo statale fino a lire 150.000 fino a concorrenza di lire 36,5 miliardi per l'anno 2000, lire 31 miliardi per l'anno 2001, lire 113,1 miliardi per l'anno 2002 e lire 25 miliardi per l'anno 2003. Con decreto del Ministro delle comunicazioni, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica e con il Ministro dell'industria, del commercio e dell'artigianato, previo parere delle competenti Commissioni parlamentari, sono definite le modalita' di erogazione del contributo ai fini del rispetto dei limiti di stanziamento.
 
@@ -418,7 +412,7 @@ AGGIORNAMENTO (5)
 
 La L. 27 dicembre 2002, n. 289, ha disposto (con l'art. 89, comma 1) che "Per l'anno 2003, in sostituzione di quanto previsto dall'articolo 22 della legge 5 marzo 2001, n. 57, alle persone fisiche, ai pubblici esercizi e agli alberghi che acquistano o noleggiano un apparato idoneo a consentire la ricezione dei segnali televisivi in tecnica digitale terrestre (T-DVB) e la conseguente interattivita', e' riconosciuto un contributo statale pari a 150 euro".
 
-##### Art. 23
+#### Art. 23
 
 Contributi a favore delle emittenti televisive locali
 
@@ -428,9 +422,9 @@ Contributi a favore delle emittenti televisive locali
 
 3\. All'onere derivante dall'attuazione del comma 1, nel limite di lire 165,3 miliardi nell'anno 2000, di lire 84,8 miliardi nell'anno 2001 e di lire 101,7 miliardi nell'anno 2002, si provvede, per l'anno 2000, mediante corrispondente riduzione dello stanziamento iscritto ai fini del bilancio triennale 2000-2002, nell'ambito dell'unita' previsionale di base di conto capitale "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 2000, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle comunicazioni, e, per gli anni 2001 e 2002, mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2001-2003, nell'ambito dell'unita' previsionale di base di conto capitale "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 2001, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle comunicazioni.
 
-## Capo IV - INTERVENTI A FAVORE DELLE INFRASTRUTTURE INTERMODALI
+### Capo IV - INTERVENTI A FAVORE DELLE INFRASTRUTTURE INTERMODALI
 
-##### Art. 24
+#### Art. 24
 
 Delega per il completamento della rete interportuale nazionale
 
@@ -466,7 +460,7 @@ La L. 1 agosto 2002, n. 166 ha disposto (con l'art. 37, comma 1) che "Il termine
 
 ## Titolo III - DISPOSIZIONI FINALI
 
-##### Art. 25 - Norme applicative
+#### Art. 25 - Norme applicative
 
 1\. Le disposizioni della presente legge si applicano alle regioni a statuto speciale e alle province autonome di Trento e di Bolzano nel rispetto e nei limiti degli statuti di autonomia e delle relative norme di attuazione.
 
@@ -490,7 +484,7 @@ Visto, il Guardasigilli: Fassino
 
 ## Titolo III - DISPOSIZIONI FINALI
 
-##### Allegato A
+#### Allegato A
 
 ALLEGATO A
 

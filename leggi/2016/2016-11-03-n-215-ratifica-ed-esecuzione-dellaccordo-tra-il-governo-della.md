@@ -30,19 +30,19 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica di Armenia sulla cooperazione e sulla mutua assistenza in materia doganale, fatto a Yerevan il 6 marzo 2009.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 23 dell'Accordo stesso.
 
-### Art. 3
+## Art. 3
 
 Disposizioni finanziarie
 
@@ -56,7 +56,7 @@ Disposizioni finanziarie
 
 5\. Agli eventuali oneri derivanti dall'articolo 19, paragrafo 2, dell'Accordo di cui all'articolo 1 della presente legge si fa fronte con apposito provvedimento legislativo.
 
-### Art. 4
+## Art. 4
 
 Entrata in vigore
 
@@ -102,7 +102,7 @@ Hanno convenuto
 
 quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 Ai fini del presente Accordo si intende per:
 
@@ -130,7 +130,7 @@ Ai fini del presente Accordo si intende per:
 
 ## Campo d'applicazione dell'accordo
 
-### Articolo 2
+## Articolo 2
 
 1\. Le Parti contraenti, per il tramite delle loro Amministrazioni doganali si prestano reciprocamente assistenza amministrativa in conformita' alle disposizioni stabilite nel presente accordo:
 
@@ -148,7 +148,7 @@ c) nei casi che riguardano la consegna e la notifica di decisioni amministrative
 
 ## Scambio di informazioni
 
-### Articolo 3
+## Articolo 3
 
 1\. Le Amministrazioni doganali si forniscono reciprocamente, su richiesta o di propria iniziativa, tutte le informazioni che possono essere utili ad assicurare l'esatta:
 
@@ -176,7 +176,7 @@ i) le informazioni statistiche relative alle attivita' doganali.
 
 3\. L'Amministrazione doganale adita cerca le informazioni come se agisse per conto proprio.
 
-### Articolo 4
+## Articolo 4
 
 Le Amministrazioni doganali si forniscono reciprocamente, su richiesta, tutte le informazioni comprovanti che:
 
@@ -188,7 +188,7 @@ c) le merci alle quali si conferisce un trattamento favorevole all'atto dell'esp
 
 d) il transito delle merci attraverso il territorio dello Stato di una Parte contraente sia avvenuto legalmente.
 
-### Articolo 5
+## Articolo 5
 
 L'Amministrazione doganale di una Parte contraente fornisce, di propria iniziativa o su richiesta, all'Amministrazione doganale dell'altra Parte contraente tutte le informazioni utili di cui dispone relative alle infrazioni contro la legislazione doganale ed in particolare che riguardano:
 
@@ -200,13 +200,13 @@ c) i mezzi di trasporto e i container, conosciuti o sospettati di essere utilizz
 
 d) nuovi metodi e mezzi impiegati per commettere infrazioni alla legislazione doganale.
 
-### Articolo 6
+## Articolo 6
 
 1\. L'Amministrazione doganale di una Parte contraente fornisce, di propria iniziativa o su richiesta, all'Amministrazione doganale dell'altra Parte contraente rapporti, prove o copie conformi di documenti fornendo tutte le informazioni disponibili sull'attivita' rilevata o progettata, che costituisce o sembra costituire una infrazione alla legislazione doganale in vigore nel territorio dello Stato di quella Parte contraente.
 
 2\. I file e i documenti in originale sono richiesti solo nei casi in cui le copie conformi siano insufficienti. Gli originali, che sono stati trasmessi, devono essere restituiti, senza indugio, non appena la ragione per la quale essi sono stati forniti all'Amministrazione doganale dell'altra Parte contraente cessi di esistere.
 
-### Articolo 7
+## Articolo 7
 
 1\. I documenti forniti ai sensi del presente Accordo possono essere sostituiti da informazioni computerizzate, prodotte in qualsiasi forma per lo stesso scopo. Tutte le informazioni relative all'interpretazione o all'impiego del materiale devono essere fornite nello stesso tempo. L'utilizzo, le conseguenze legali e la forza dimostrativa delle informazioni computerizzate devono essere determinate in conformita' alle norme nazionali.
 
@@ -214,15 +214,15 @@ d) nuovi metodi e mezzi impiegati per commettere infrazioni alla legislazione do
 
 ## Particolari forme di cooperazione
 
-### Articolo 8
+## Articolo 8
 
 In conformita' del presente Accordo le Parti contraenti cooperano per semplificare i controlli doganali di trasporto merce e passeggeri, le consegne postali, per migliorare le metodologie e le modalita' di detto controllo, nonche' allo scopo di prevenire l'importazione, esportazione e transito illeciti di merce, mezzi di trasporto, passeggeri, consegne postali, valori monetari attraverso i territori degli Stati delle Parti contraenti.
 
-### Articolo 9
+## Articolo 9
 
 Le Parti contraenti, sulla base della normativa vigente nei propri Stati, cooperano, nel quadro del presente accordo, allo scopo di accertare il contrabbando e la violazione della normativa doganale, nonche' di prevenire il volume d'affari illecito di stupefacenti, sostanze psicotrope e precursori, armi, munizioni, gas velenosi, materiali nucleari ed esplosivi.
 
-### Articolo 10
+## Articolo 10
 
 In base alla normativa vigente nei propri Stati, le Parti contraenti cooperano nell'attivita' di contrasto al traffico illecito di valori artistici, nel quadro del presente Accordo.
 
@@ -230,7 +230,7 @@ Le Parti contraenti restituiscono i pezzi di antiquariato e i beni di valore art
 
 ## Sorveglianza di persone, merci e mezzi di trasporto
 
-### Articolo 11
+## Articolo 11
 
 L'Amministrazione doganale di una Parte contraente, nell'ambito della propria competenza e dei propri mezzi, di propria iniziativa o su richiesta dell'Amministrazione doganale dell'altra Parte contraente, esercita una sorveglianza speciale su:
 
@@ -242,7 +242,7 @@ c) la circolazione di merci segnalate o sospettate dall'Amministrazione doganale
 
 ## Consegna controllata
 
-### Articolo 12
+## Articolo 12
 
 1\. Le Amministrazioni doganali possono, d'intesa e nel rispetto delle proprie competenze stabilite dalla legislazione nazionale, ricorrere allo strumento della consegna controllata in caso di infrazioni doganali relative a merci di cui al paragrafo 9 e 10 dell'art. 1 del presente Accordo allo scopo di identificare le persone coinvolte in una infrazione doganale.
 
@@ -250,7 +250,7 @@ c) la circolazione di merci segnalate o sospettate dall'Amministrazione doganale
 
 ## Indagini
 
-### Articolo 13
+## Articolo 13
 
 1\. Su richiesta, l'Amministrazione doganale adita avvia indagini ufficiali relative ad operazioni, che sono o sembrano essere contrarie alla legislazione doganale in vigore nel territorio dello Stato della Parte contraente richiedente. Essa comunica i risultati di tali indagini all'Amministrazione doganale richiedente.
 
@@ -266,7 +266,7 @@ Essi non possono indossare uniformi ne' portare armi.
 
 ## Esperti e testimoni
 
-### Articolo 14
+## Articolo 14
 
 1\. Su richiesta, l'Amministrazione doganale della Parte contraente adita puo' autorizzare i propri funzionari a testimoniare in processi o procedure amministrative relative a infrazioni alla legislazione doganale, come esperti o testimoni, perseguite sul territorio della Parte contraente richiedente e a produrre oggetti, atti e altri documenti o copie conformi di quest'ultimi necessari al procedimento. Tali funzionari produrranno elementi di prova circa fatti da essi riscontrati nel corso del loro servizio. La richiesta di comparizione deve indicare chiaramente, in quale caso e in quale veste il funzionario deve comparire.
 
@@ -278,7 +278,7 @@ Essi non possono indossare uniformi ne' portare armi.
 
 ## Uso delle informazioni
 
-### Articolo 15
+## Articolo 15
 
 1\. Le informazioni ricevute nell'ambito dell'assistenza prevista dal presente Accordo sono utilizzate unicamente per gli scopi previsti dal presente Accordo e dalle Amministrazioni doganali.
 
@@ -292,7 +292,7 @@ Queste disposizioni non si applicano alle informazioni concernenti infrazioni ri
 
 ## Tutela dei dati personali
 
-### Articolo 16
+## Articolo 16
 
 1\. Allorquando dei dati personali sono scambiati ai sensi di questo Accordo, le Parti contraenti assicurano loro un livello di protezione almeno equivalente a quello che scaturisce dall'attuazione delle rispettive disposizioni legislative e regolamentari nazionali.
 
@@ -304,7 +304,7 @@ Queste disposizioni non si applicano alle informazioni concernenti infrazioni ri
 
 ## Forma e sostanza delle richieste di assistenza
 
-### Articolo 17
+## Articolo 17
 
 1\. Le richieste di assistenza, ai sensi del presente Accordo, sono presentate per iscritto e devono essere accompagnate da ogni documento ritenuto utile per la loro esecuzione. Quando le circostanze lo esigano per motivi di urgenza, le richieste possono anche essere formulate oralmente; in tal caso esse devono essere tempestivamente confermate per iscritto.
 
@@ -334,7 +334,7 @@ g) il nesso tra l'assistenza richiesta e la materia a cui si riferisce.
 
 ## Eccezioni alla responsabilità di fornire assistenza
 
-### Articolo 18
+## Articolo 18
 
 1\. Qualora l'Amministrazione doganale adita ritenga che l'assistenza richiesta potrebbe pregiudicare la sovranita', l'ordine pubblico, la sicurezza od altri interessi nazionali essenziali dello Stato della Parte contraente adita o potrebbe comportare la violazione di un segreto commerciale o professionale nonche' un segreto d'ufficio o di Stato nel territorio dello Stato di quella Parte contraente, essa puo' rifiutarsi di prestare tale assistenza, fornirla parzialmente o fornirla a determinate condizioni o requisiti.
 
@@ -344,7 +344,7 @@ g) il nesso tra l'assistenza richiesta e la materia a cui si riferisce.
 
 ## Costi
 
-### Articolo 19
+## Articolo 19
 
 1\. Ciascuna Amministrazione doganale rinuncia a tutte le rivendicazioni per il rimborso dei costi sostenuti nell'esecuzione del presente Accordo, fatta eccezione per le spese per esperti, testimoni, e per gli interpreti e traduttori che non siano funzionari governativi.
 
@@ -352,7 +352,7 @@ g) il nesso tra l'assistenza richiesta e la materia a cui si riferisce.
 
 ## Attuazione
 
-### Articolo 20
+## Articolo 20
 
 1\. L'attuazione del presente Accordo e' demandata direttamente alle Amministrazioni doganali delle Parti contraenti che concordano reciprocamente intese dettagliate per agevolare l'attuazione delle disposizioni del presente Accordo.
 
@@ -364,19 +364,19 @@ La Commissione mista agisce sulla base del regolamento da essa adottato.
 
 ## Ambito territoriale
 
-### Articolo 21
+## Articolo 21
 
 Il presente Accordo si applica ai territori doganali degli Stati di entrambe le Parti contraenti.
 
 ## Disposizioni finali
 
-### Articolo 22
+## Articolo 22
 
 Le Parti contraenti concordano di incontrarsi per esaminare il presente Accordo, su richiesta di una delle Parti o alla scadenza di un termine di cinque anni dalla data della sua entrata in vigore, salvo se esse si notifichino l'un l'altra per iscritto che questo esame non e' necessario.
 
 Le modifiche e integrazioni al presente Accordo sono redatte con protocolli separati che entreranno in vigore in conformita' alle procedure previste per l'entrata in vigore del presente Accordo e ne sono parte integrante.
 
-### Articolo 23
+## Articolo 23
 
 1\. Il presente Accordo entra in vigore il primo giorno del secondo mese dalla data di ricezione della seconda delle due notifiche con le quali le Parti contraenti si saranno comunicate, per via diplomatica, l'avvenuto espletamento delle rispettive procedure previste per l'entrata in vigore del presente Accordo.
 
@@ -392,7 +392,7 @@ In caso di divergenza di interpretazione delle disposizioni del presente Accordo
 
 Parte di provvedimento in formato grafico
 
-### Agreement
+## Agreement
 
 AGREEMENT
 

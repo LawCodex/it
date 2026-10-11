@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione sul riconoscimento degli studi e dei diplomi relativi all'insegnamento superiore negli Stati della regione Europa, adottata a Parigi il 21 dicembre 1979.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 18 della convenzione stessa.
 
@@ -45,7 +45,7 @@ Visto, il Guardasigilli: DARIDA
 
 ## Allegati
 
-### Convention
+## Convention
 
 CONVENTION
 
@@ -101,7 +101,7 @@ RICORDANDO che l'obiettivo finale fissato dalla Conferenza generale dell'Unesco 
 
 HANNO CONVENUTO QUANTO SEGUE:
 
-### ARTICOLO 1
+## ARTICOLO 1
 
 1\. Ai fini della presente Convenzione si intende per "riconoscimento" di un diploma, titolo o grado dell'insegnamento superiore ottenuto all'estero, la sua accettazione, da parte delle competenti autorita' di uno Stato contraente, quale attestato valido e la concessione al suo titolare dei diritti di cui beneficiano le persone in possesso di diploma, titolo o grado nazionale al quale e' comparabile il diploma, titolo o grado straniero.
 
@@ -117,7 +117,7 @@ c) Tuttavia, il riconoscimento di un diploma, titolo o grado non dovra' conferir
 
 ## II. - OBIETTIVI
 
-### ARTICOLO 2
+## ARTICOLO 2
 
 1\. Gli Stati contraenti intendono contribuire, con un'azione comune, sia alla promozione di una cooperazione attiva di tutte le nazioni della regione Europa per la pace e la comprensione internazionale, sia ad una maggiore efficacia della loro collaborazione con altri Stati membri dell'Unesco per quanto concerne una migliore utilizzazione del proprio potenziale educativo, tecnologico e scientifico.
 
@@ -145,13 +145,13 @@ c) promuovere la cooperazione regionale e mondiale per la soluzione dei "problem
 
 ## III. - IMPEGNI D'APPLICAZIONE IMMEDIATA
 
-### ARTICOLO 3
+## ARTICOLO 3
 
 1\. Gli Stati contraenti convengono di adottare, oltre agli obblighi spettanti ai governi, ogni possibile misura per incoraggiare le competenti autorita' a riconoscere, in conformita' alla definizione del riconoscimento figurante all'articolo 1, paragrafo 1, i diplomi rilasciati al termine degli studi secondari e ogni altro titolo rilasciato negli altri Stati contraenti, che consenta l'accesso all'insegnamento superiore, allo scopo di permettere ai detentori di tali titoli e diplomi d'intraprendere degli studi negli istituti d'insegnamento superiore situati nel territorio di tali Stati contraenti.
 
 2\. Tuttavia, e senza pregiudizio delle disposizioni dell'articolo 1, paragrafo 1 a), l'ammissione in un istituto di insegnamento superiore potra' esser subordinata all'esistenza delle capacita' logistiche di accoglimento e alle condizioni relative alle conoscenze linguistiche richieste per intraprendere con profitto gli studi in questione.
 
-### ARTICOLO 4
+## ARTICOLO 4
 
 1\. Gli Stati contraenti convengono di adottare, oltre agli obblighi spettanti ai governi, ogni possibile misura per incoraggiare le autorita' competenti a:
 
@@ -161,15 +161,15 @@ b) definire nella misura piu' ampia possibile le modalita' secondo cui potranno 
 
 2\. Le disposizioni del paragrafo 2 dell'articolo 3 summenzionato sono applicabili ai corsi previsti dal presente articolo.
 
-### ARTICOLO 5
+## ARTICOLO 5
 
 Gli Stati contraenti convengono di adottare, oltre agli obblighi spettanti ai governi, ogni possibile misura per incoraggiare le autorita' competenti, ai fini dell'esercizio di una professione, a rendere effettivo il riconoscimento, ai sensi dell'articolo 1 paragrafo 1 b) summenzionato, dei diplomi, titoli o gradi d'insegnamento superiore conferiti dalle autorita' competenti degli altri Stati contraenti.
 
-### ARTICOLO 6
+## ARTICOLO 6
 
 Nel caso in cui l'ammissione negli istituti d'insegnamento situati nel territorio di uno Stato contraente non dipenda dall'autorita' di tale Stato, quest'ultimo trasmettera' il testo della Convenzione agli istituti interessati e fara' quanto in suo potere affinche' tali istituti accettino i principi enunciati nelle sezioni II e III della Convenzione.
 
-### ARTICOLO 7
+## ARTICOLO 7
 
 1\. In considerazione del fatto che il riconoscimento verte sugli studi effettuati e sui diplomi, titoli o gradi riconosciuti dagli istituti riconosciuti dalle autorita' competenti del paese dove il diploma, titolo o grado e' stato rilasciato, il beneficio di cui agli articoli 3, 4 e 5 summenzionati puo' esser acquisito da ogni persona che abbia seguito tali studi o ottenuto tali diplomi, titoli o gradi, quale ne sia la nazionalita' o la condizione politica o giuridica.
 
@@ -177,7 +177,7 @@ Nel caso in cui l'ammissione negli istituti d'insegnamento situati nel territori
 
 ## IV. - MECCANISMI DI FUNZIONAMENTO
 
-### ARTICOLO 8
+## ARTICOLO 8
 
 Gli Stati contraenti si impegnano ad agire ai fini del raggiungimento degli obiettivi definiti dall'articolo 2 e faranno quanto e' in loro potere per assicurare l'esecuzione degli impegni previsti agli articoli 3, 4, 5 e 6 summenzionati, per mezzo:
 
@@ -187,7 +187,7 @@ b) del Comitato regionale definito dal seguente articolo 10;
 
 c) di organismi bilaterali o sub-regionali.
 
-### ARTICOLO 9
+## ARTICOLO 9
 
 1\. Gli Stati contraenti riconoscono che il raggiungimento degli obiettivi e l'esecuzione degli impegni definiti dalla presente Convenzione esigono, sul piano nazionale, una stretta coordinazione e cooperazione degli sforzi di autorita' nazionali molto diverse, governative o non governative, in particolare universita', organismi di riconoscimento e altre istituzioni educative. Gli Stati contraenti si impegnano di conseguenza ad affidare lo studio delle questioni relative all'applicazione della presente Convenzione ad appropriati organismi nazionali ai quali verranno associati tutti i settori interessati e che saranno abilitati a proporre soluzioni adeguate.
 
@@ -197,7 +197,7 @@ Gli Stati contraenti si impegnano inoltre ad adottare tutte le misure in loro po
 
 3\. Ogni organismo nazionale dovra' disporre dei mezzi necessari che gli permettano sia il raccogliere, analizzare e classificare tutte le informazioni utili alle proprie attivita' concernenti gli studi e i diplomi d'insegnamento superiore, sia d'ottenere, entro tempi brevi, da un centro nazionale di documentazione le informazioni di cui potra' aver bisogno in tale settore.
 
-### ARTICOLO 10
+## ARTICOLO 10
 
 1\. E' istituito un Comitato regionale composto dai rappresentanti dei governi dei paesi contraenti. Il suo Segretariato e' affidato al Direttore generale dell'Unesco.
 
@@ -207,7 +207,7 @@ Gli Stati contraenti si impegnano inoltre ad adottare tutte le misure in loro po
 
 4\. Il Comitato regionale indirizza agli Stati parti della Convenzione, qualora necessario, delle raccomandazioni di carattere generale o specifico relative all'applicazione della Convenzione stessa.
 
-### ARTICOLO 11
+## ARTICOLO 11
 
 1\. Il Comitato regionale elegge, per ognuna delle proprie sessioni, un Presidente ed adotta il proprio regolamento interno.
 
@@ -217,7 +217,7 @@ Il Comitato si riunisce in sessione ordinaria almeno una volta ogni due anni. Il
 
 ## V. - DOCUMENTAZIONE
 
-### ARTICOLO 12
+## ARTICOLO 12
 
 1\. Gli Stati contraenti procederanno tra di essi a scambi di informazioni e di documentazione relativi agli studi e diplomi dell'insegnamento superiore.
 
@@ -225,23 +225,23 @@ Il Comitato si riunisce in sessione ordinaria almeno una volta ogni due anni. Il
 
 ## VI. - COOPERAZIONE CON GLI ORGANISMI INTERNAZIONALI
 
-### ARTICOLO 13
+## ARTICOLO 13
 
 Il Comitato regionale adotta tutte le misure utili al fine di associare ai propri sforzi miranti ad assicurare la migliore applicazione possibile della presente Convenzione, le organizzazioni internazionali governative e non governative competenti. Quanto sopra riguarda in particolare le istituzioni e gli organismi internazionali investiti di responsabilita' nell'applicazione delle convenzioni o degli accordi sub-regionali relativi al riconoscimento dei diplomi negli Stati appartenenti alla regione Europa.
 
 ## VII. - ISTITUTI D'INSEGNAMENTO SUPERIORE SOTTOPOSTI ALL'AUTORITA' DI UNO STATO CONTRAENTE MA SITUATI AL DI FUORI DEL SUO TERRITORIO
 
-### ARTICOLO 14
+## ARTICOLO 14
 
 Le disposizioni della presente Convenzione si applicheranno agli studi intrapresi, ai diplomi e gradi ottenuti in tutti gli istituti di insegnamento superiore sottoposti all'autorita' di uno Stato contraente anche qualora tali istituti siano situati fuori dal suo territorio, a condizione che le autorita' competenti dello Stato contraente nel quale l'istituto e' situato non sollevino obiezioni in proposito.
 
 ## VIII. - RATIFICA, ADESIONE, ENTRATA IN VIGORE
 
-### ARTICOLO 15
+## ARTICOLO 15
 
 La presente Convenzione e' aperta alla firma e alla ratifica degli Stati appartenenti alla regione Europa invitati a prendere parte alla Conferenza diplomatica incaricata di adottare la presente Convenzione, e della Santa Sede.
 
-### ARTICOLO 16
+## ARTICOLO 16
 
 1\. Altri Stati, membri dell'ONU, di una delle istituzioni specializzate o dell'AIEA o Parti dello Statuito della Corte internazionale di giustizia, potranno esser autorizzati ad aderire alla presente Convenzione.
 
@@ -251,17 +251,17 @@ La presente Convenzione e' aperta alla firma e alla ratifica degli Stati apparte
 
 4\. Questa procedura potra' applicarsi solo quando la Convenzione sara' stata ratificata da almeno venti degli Stati di cui all'articolo 15.
 
-### ARTICOLO 17
+## ARTICOLO 17
 
 La ratifica della presente Convenzione o l'adesione ad essa si effettua con il deposito di uno strumento di ratifica o di adesione presso il Direttore generale dell'Unesco.
 
-### ARTICOLO 18
+## ARTICOLO 18
 
 La presente Convenzione entrera' in vigore un mese dopo il deposito del quinto strumento di ratifica ma soltanto nei confronti degli Stati che abbiano depositato i propri strumenti di ratifica.
 
 Essa entrera' in vigore per ogni altro Stato un mese dopo il deposito del suo strumento di ratifica o di adesione.
 
-### ARTICOLO 19
+## ARTICOLO 19
 
 1\. Gli Stati contraenti hanno la facolta' di denunciare la presente Convenzione.
 
@@ -269,11 +269,11 @@ Essa entrera' in vigore per ogni altro Stato un mese dopo il deposito del suo st
 
 3\. La denuncia ha effetto dodici mesi dopo la ricezione dello strumento di denuncia. Tuttavia, le persone che hanno beneficiato di quanto stabilito nella presente Convenzione e che stiano seguendo un corso di studi nel territorio dello Stato contraente che denuncia la Convenzione, potranno terminare il ciclo di studi iniziato.
 
-### ARTICOLO 20
+## ARTICOLO 20
 
 Il Direttore generale dell'Unesco informera' gli Stati contraenti e gli altri Stati menzionati ai precedenti articoli 15 e 16, cosi' come l'Organizzazione delle Nazioni Unite, del deposito di tutti gli strumenti di ratifica o di adesione di cui all'articolo 17 e delle denunce di cui all'articolo 19 della presente Convenzione.
 
-### ARTICOLO 21
+## ARTICOLO 21
 
 In conformita' all'articolo 102 della Carta delle Nazioni Unite, la presente Convenzione sara' registrata presso il Segretariato delle Nazioni Unite a richiesta del Direttore generale dell'Unesco.
 

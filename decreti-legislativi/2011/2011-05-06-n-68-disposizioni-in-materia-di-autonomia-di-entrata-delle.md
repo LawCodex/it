@@ -40,11 +40,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Autonomia di entrata delle Regioni a statuto ordinario
 
-### Autonomia di entrata delle Regioni a statuto ordinario
-
-##### Art. 1
+### Art. 1
 
 Oggetto
 
@@ -58,7 +56,7 @@ Oggetto
 
 > Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-##### Art. 2
+### Art. 2
 
 (( (Attribuzione alle regioni a statuto ordinario di una compartecipazione al gettito dell'imposta sul reddito delle persone fisiche (IRPEF) ). ))
 
@@ -78,7 +76,7 @@ b) ((per la restante parte, nel rispetto dei percorsi di perequazione e dei cost
 
 6\. ((In considerazione degli esiti del predetto monitoraggio e al fine di tenere conto della dinamicita' del gettito dell'IRPEF, potra' procedersi, nel rispetto degli equilibri di finanza pubblica, alla revisione delle aliquote di compartecipazione di cui al comma 1.))
 
-##### Art. 3
+### Art. 3
 
 Fabbisogno sanitario
 
@@ -132,7 +130,7 @@ Resta altresi' fermo che al finanziamento della spesa sanitaria fino all'anno 20
 
 > 7\. Ai soli fini dell'applicazione delle disposizioni di cui ai commi 3, 4, 5 e 6 si considerano i gettiti dell'IRAP e dell'addizionale regionale all'IRPEF, commisurata all'aliquota dello 0,5 per cento, affluiti sui conti correnti infruttiferi di tesoreria centrale di cui all'art. 40 del decreto legislativo 15 dicembre 1997, n. 446.».
 
-##### Art. 4
+### Art. 4
 
 Compartecipazione regionale all'imposta sul valore aggiunto
 
@@ -144,7 +142,7 @@ Compartecipazione regionale all'imposta sul valore aggiunto
 
 3-bis. ((Nelle more della definizione dell'aliquota di compartecipazione all'IVA di cui all'articolo 15, commi 3 e 5, l'aliquota di cui al comma 2, destinata al finanziamento del settore sanitario, e' stabilita in misura pari a quella individuata annualmente dal decreto del Presidente del Consiglio dei ministri di cui all'articolo 5, comma 1, del decreto legislativo 18 febbraio 2000, n. 56.))
 
-##### Art. 5
+### Art. 5
 
 Riduzione dell'imposta regionale sulle attivita' produttive
 
@@ -156,7 +154,7 @@ Riduzione dell'imposta regionale sulle attivita' produttive
 
 4\. Restano fermi gli automatismi fiscali previsti dalla vigente legislazione nel settore sanitario nei casi di squilibrio economico, nonche' le disposizioni in materia di applicazione di incrementi delle aliquote fiscali per le regioni sottoposte ai Piani di rientro dai deficit sanitari.
 
-##### Art. 6
+### Art. 6
 
 Addizionale regionale all'IRPEF
 
@@ -200,7 +198,7 @@ Il D.L. 6 dicembre 2011, n. 201, convertito con modificazioni dalla L. 22 dicemb
 
 Ha inoltre disposto (con l'art. 28, comma 2) che "L'aliquota di cui al comma 1, si applica anche alle Regioni a statuto speciale e alle Province autonome di Trento e Bolzano".
 
-##### Art. 7
+### Art. 7
 
 Soppressione dei trasferimenti dallo Stato alle regioni a statuto ordinario
 
@@ -212,7 +210,7 @@ Sono esclusi dalla soppressione i trasferimenti relativi al fondo perequativo di
 
 3\. In caso di trasferimento di funzioni amministrative dallo Stato alle regioni, in attuazione dell'articolo 118 della Costituzione, con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, sono definite le modalita' che assicurano adeguate forme di copertura finanziaria, in conformita' a quanto previsto dall'articolo 8, comma 1, lettera i), della legge 5 maggio 2009, n. 42.
 
-##### Art. 8
+### Art. 8
 
 Ulteriori tributi regionali
 
@@ -226,7 +224,7 @@ Ulteriori tributi regionali
 
 5\. Fermo restando quanto previsto dall'articolo 4, spettano altresi' alle regioni a statuto ordinario le altre compartecipazioni al gettito di tributi erariali, secondo quanto previsto dalla legislazione vigente alla data di entrata in vigore del presente decreto.
 
-##### Art. 9
+### Art. 9
 
 Attribuzione alle regioni del gettito derivante dalla lotta all'evasione fiscale
 
@@ -302,7 +300,7 @@ Attribuzione alle regioni del gettito derivante dalla lotta all'evasione fiscale
 
 > b) definizione, con apposita e specifica convenzione fra il Ministero dell'economia e delle finanze, le singole regioni e gli enti locali, delle modalita' gestionali, operative, di ripartizione degli oneri, degli introiti di attivita' di recupero dell'evasione.».
 
-##### Art. 10
+### Art. 10
 
 Gestione dei tributi regionali
 
@@ -320,7 +318,7 @@ Gestione dei tributi regionali
 
 7\. Per la gestione dei tributi il cui gettito sia ripartito tra gli enti di diverso livello di governo la convenzione di cui al comma 2 prevede l'istituzione presso ciascuna sede regionale dell'Agenzia delle Entrate di un Comitato regionale di indirizzo, di cui stabilisce la composizione con rappresentanti designati dal direttore dell'Agenzia delle entrate, dalla regione e dagli enti locali. La citata gestione dei tributi e' svolta sulla base di linee guida concordate nell'ambito della Conferenza Stato-Regioni, con l'Agenzia delle entrate. Dal presente comma non possono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### Art. 11
+### Art. 11
 
 Misure compensative di interventi statali sulle basi imponibili e sulle aliquote dei tributi regionali
 
@@ -334,7 +332,7 @@ Misure compensative di interventi statali sulle basi imponibili e sulle aliquote
 
 > \- Per il testo dell'art. 5 della legge n. 42 del 2009 si veda nelle note all'art. 10.
 
-##### Art. 12
+### Art. 12
 
 Soppressione dei trasferimenti dalle regioni a statuto ordinario ai comuni e compartecipazione comunale alla addizionale regionale all'IRPEF.
 
@@ -382,7 +380,7 @@ Soppressione dei trasferimenti dalle regioni a statuto ordinario ai comuni e com
 
 > La legge definisce le procedure atte a garantire che i poteri sostitutivi siano esercitati nel rispetto del principio di sussidiarieta' e del principio di leale collaborazione.».
 
-##### Art. 13
+### Art. 13
 
 Livelli essenziali delle prestazioni e obiettivi di servizio
 
@@ -400,7 +398,7 @@ Livelli essenziali delle prestazioni e obiettivi di servizio
 
 Trasmette altresi' tali risultati alla Conferenza di cui all'articolo 5 della citata legge n. 42 del 2009. I risultati confluiscono nella banca dati delle amministrazioni pubbliche di cui all'articolo 13 della legge 31 dicembre 2009, n. 196, nonche' in quella di cui all'articolo 5 della citata legge n. 42 del 2009. Sulla base delle rilevazioni effettuate da SOSE S.p.a., il Governo adotta linee di indirizzo per la definizione dei livelli essenziali delle prestazioni in apposito allegato al Documento di economia e finanza ai fini di consentire l'attuazione dell'articolo 20, comma 2, della citata legge n. 42 del 2009, dei relativi costi standard e obiettivi di servizio.
 
-##### Art. 14
+### Art. 14
 
 Classificazione delle spese regionali
 
@@ -424,7 +422,7 @@ e) ulteriori materie individuate in base all'articolo 20, comma 2, della medesim
 
 > \- Per il testo dell'art. 20 della legge n. 42 del 2009 si veda nelle note all'art. 13.
 
-##### Art. 15
+### Art. 15
 
 Fase a regime e fondo perequativo
 
@@ -476,11 +474,9 @@ d) la ripartizione del fondo perequativo tiene conto, per le regioni con popolaz
 
 8-bis. ((Le disposizioni del presente articolo si applicano decorsi tre anni di operativita' transitoria del fondo di cui all'articolo 2, comma 3. A decorrere dalla data di cui al primo periodo, le risorse del fondo di cui all'articolo 2, comma 3, confluiscono nell'ambito dei fondi perequativi di cui al presente articolo.))
 
-## Capo II
+## Capo II - Autonomia di entrata delle province
 
-### Autonomia di entrata delle province
-
-##### Art. 16
+### Art. 16
 
 Oggetto
 
@@ -490,7 +486,7 @@ Oggetto
 
 3\. Il gettito delle fonti di finanziamento di cui al comma 2 e' senza vincolo di destinazione.
 
-##### Art. 17
+### Art. 17
 
 Tributi propri connessi al trasporto su gomma
 
@@ -538,7 +534,7 @@ AGGIORNAMENTO (4)
 
 Il D.L. 2 marzo 2012, n. 16, convertito, con modificazioni dalla L. 26 aprile 2012, n. 44 ha disposto (con l'art. 4, comma 2) che "Le disposizioni concernenti l'imposta sulle assicurazioni contro la responsabilita' civile derivante dalla circolazione dei veicoli a motore, esclusi i ciclomotori, di cui all'articolo 17 del decreto legislativo 6 maggio 2011, n. 68, si applicano, in deroga all'articolo 16 del citato decreto legislativo n. 68 del 2011, su tutto il territorio nazionale. Sono fatte salve le deliberazioni emanate prima dell'approvazione del presente decreto."
 
-##### Art. 18
+### Art. 18
 
 Soppressione dei trasferimenti statali alle province e compartecipazione provinciale all'IRPEF
 
@@ -556,7 +552,7 @@ Soppressione dei trasferimenti statali alle province e compartecipazione provinc
 
 7\. Alle province e' garantito che le variazioni annuali del gettito relativo alla compartecipazione provinciale all'IRPEF loro devoluta ai sensi del presente articolo non determinano la modifica delle aliquote di cui al comma 1.
 
-##### Art. 19
+### Art. 19
 
 Soppressione dei trasferimenti dalle regioni a statuto ordinario alle province e compartecipazione provinciale alla tassa automobilistica regionale
 
@@ -590,7 +586,7 @@ Soppressione dei trasferimenti dalle regioni a statuto ordinario alle province e
 
 > 6\. Il Governo puo' promuovere la stipula di intese in sede di Conferenza Stato-Regioni o di Conferenza unificata, dirette a favorire l'armonizzazione delle rispettive legislazioni o il raggiungimento di posizioni unitarie o il conseguimento di obiettivi comuni; in tale caso e' esclusa l'applicazione dei commi 3 e 4 dell'art. 3 del decreto legislativo 28 agosto 1997, n. 281. Nelle materie di cui all'art. 117, terzo e quarto comma, della Costituzione non possono essere adottati gli atti di indirizzo e di coordinamento di cui all'art. 8 della legge 15 marzo 1997, n. 59, e all'art. 4 del decreto legislativo 31 marzo 1998, n. 112.».
 
-##### Art. 20
+### Art. 20
 
 Ulteriori tributi provinciali
 
@@ -648,7 +644,7 @@ Ulteriori tributi provinciali
 
 > 2\. Resta in ogni caso fermo l'obbligo di restituzione previsto dall'art. 1, comma 151, della citata legge n. 296 del 2006 nel caso di mancato inizio dell'opera entro due anni dalla data prevista dal progetto esecutivo.».
 
-##### Art. 21
+### Art. 21
 
 Fondo sperimentale di riequilibrio provinciale
 
@@ -684,7 +680,7 @@ Fondo sperimentale di riequilibrio provinciale
 
 > h) i fondi ricevuti dalle regioni a titolo di fondo perequativo per i comuni e per le province e le citta' metropolitane del territorio sono trasferiti dalla regione agli enti di competenza entro venti giorni dal loro ricevimento. Le regioni, qualora non provvedano entro tale termine alla ridefinizione della spesa standardizzata e delle entrate standardizzate, e di conseguenza delle quote del fondo perequativo di competenza dei singoli enti locali secondo le modalita' previste dalla lettera g), applicano comunque i criteri di riparto del fondo stabiliti dai decreti legislativi di cui all' art. 2 della presente legge. La eventuale ridefinizione della spesa standardizzata e delle entrate standardizzate non puo' comportare ritardi nell'assegnazione delle risorse perequative agli enti locali. Nel caso in cui la regione non ottemperi alle disposizioni di cui alla presente lettera, lo Stato esercita il potere sostitutivo di cui all' art. 120, secondo comma, della Costituzione, in base alle disposizioni di cui all' art. 8 della legge 5 giugno 2003, n. 131.».
 
-##### Art. 22
+### Art. 22
 
 Classificazione delle spese provinciali
 
@@ -748,13 +744,9 @@ Classificazione delle spese provinciali
 
 > 5\. I decreti legislativi di cui all' art. 2 disciplinano la possibilita' che l'elenco delle funzioni di cui ai commi 3 e 4 sia adeguato attraverso accordi tra Stato, regioni, province e comuni, da concludere in sede di Conferenza unificata.».
 
-## Capo III
+## Capo III - Perequazione ai sensi dell'articolo 13 della legge n. 42 del 2009 e sistema finanziario delle citta' metropolitane nelle regioni a statuto ordinario
 
-### Perequazione ai sensi dell'articolo 13 della legge n. 42 del 2009 e - sistema finanziario delle citta' metropolitane nelle regioni a
-
-#### statuto ordinario
-
-##### Art. 23
+### Art. 23
 
 Fondo perequativo per le province e per le citta' metropolitane
 
@@ -772,7 +764,7 @@ Fondo perequativo per le province e per le citta' metropolitane
 
 > \- Per il testo vigente dell'art. 13, della citata legge 5 maggio 2009, n. 42, si vedano le note all'art. 21.
 
-##### Art. 24
+### Art. 24
 
 Sistema finanziario delle citta' metropolitane
 
@@ -832,11 +824,9 @@ e) le altre funzioni delle citta' metropolitane.
 
 > 20\.
 
-## Capo IV
+## Capo IV - COSTI E FABBISOGNI STANDARD NEL SETTORE SANITARIO
 
-### COSTI E FABBISOGNI STANDARD NEL SETTORE SANITARIO
-
-##### Art. 25
+### Art. 25
 
 Oggetto
 
@@ -854,7 +844,7 @@ Oggetto
 
 > Nell'ambito della prevenzione delle malattie infettive nell'infanzia le regioni, nell'ambito delle loro disponibilita' finanziarie, devono concedere gratuitamente i vaccini per le vaccinazioni non obbligatorie quali antimorbillosa, antirosolia, antiparotite e antihaemophulius influenza e tipo B quando queste vengono richieste dai genitori con prescrizione medica. Di tale norma possono usufruire anche i bambini extracomunitari non residenti sul territorio nazionale».
 
-##### Art. 26
+### Art. 26
 
 Determinazione del fabbisogno sanitario nazionale standard
 
@@ -880,7 +870,7 @@ Determinazione del fabbisogno sanitario nazionale standard
 
 > «12. In funzione di quanto disposto dai commi da 6 a 11 il livello del finanziamento del Servizio sanitario nazionale a cui concorre ordinariamente lo Stato, previsto dall'art. 2, comma 67, della legge 23 dicembre 2009, n. 191, e' rideterminato in riduzione di 600 milioni di euro a decorrere dall'anno 2011.».
 
-##### Art. 27
+### Art. 27
 
 Determinazione dei costi e dei fabbisogni standard regionali
 
@@ -950,7 +940,7 @@ e) e' applicato, per ciascuna regione, alla relativa popolazione pesata regional
 
 14\. Eventuali risparmi nella gestione del servizio sanitario nazionale effettuati dalle regioni rimangono nella disponibilita' delle regioni stesse.
 
-##### Art. 28
+### Art. 28
 
 Interventi strutturali straordinari in materia di sanita'
 
@@ -1012,7 +1002,7 @@ Interventi strutturali straordinari in materia di sanita'
 
 > 7\. Il limite di eta' per l'accesso ai concorsi banditi dal Servizio sanitario nazionale e' elevato, per il personale laureato che partecipi a concorsi del ruolo sanitario, a 38 anni, per un periodo di tre anni a decorrere dal 1° gennaio 1988».
 
-##### Art. 29
+### Art. 29
 
 Revisione a regime dei fabbisogni standard
 
@@ -1026,7 +1016,7 @@ Revisione a regime dei fabbisogni standard
 
 > \- Per il testo dell'art. 5 della gia' citata legge 5 maggio 2009, n. 42 si vedano le note all'art. 10.
 
-##### Art. 30
+### Art. 30
 
 Disposizioni relative alla prima applicazione
 
@@ -1038,7 +1028,7 @@ b) restano altresi' ferme le ulteriori disposizioni in materia di finanziamento 
 
 2\. Il Ministro della salute, d'intesa con la Conferenza Stato-Regioni, implementa un sistema adeguato di valutazione della qualita' delle cure e dell'uniformita' dell'assistenza in tutte le regioni ed effettua un monitoraggio costante dell'efficienza e dell'efficacia dei servizi, anche al fine degli adempimenti di cui all'articolo 27, comma 11.
 
-##### Art. 31
+### Art. 31
 
 Disposizioni particolari per regioni a statuto speciale e per le province autonome di Trento e di Bolzano
 
@@ -1134,7 +1124,7 @@ Disposizioni particolari per regioni a statuto speciale e per le province autono
 
 > f) i dati raccolti ed elaborati per le attivita' di cui al presente articolo confluiscono nella banca dati delle amministrazioni pubbliche di cui all'art. 13 della legge 31 dicembre 2009, n. 196, nonche' in quella di cui all'art. 5 della legge 5 maggio 2009, n. 42».
 
-##### Art. 32
+### Art. 32
 
 Misure in materia di finanza pubblica
 
@@ -1146,11 +1136,9 @@ Misure in materia di finanza pubblica
 
 4\. Fermo restando quanto previsto dall'articolo 39, commi 3 e 4, ((a decorrere dall'anno 2013)), lo Stato provvede alla soppressione dei trasferimenti statali alle regioni, aventi carattere di generalita' e permanenza, relativi al trasporto pubblico locale e alla conseguente fiscalizzazione degli stessi trasferimenti.
 
-## Capo V
+## Capo V - Conferenza permanente per il coordinamento della finanza pubblica
 
-### Conferenza permanente per il coordinamento della finanza pubblica
-
-##### Art. 33
+### Art. 33
 
 Oggetto
 
@@ -1160,7 +1148,7 @@ Oggetto
 
 > \- Per il testo dell'art. 5 della gia' citata legge 5 maggio 2009, n. 42 si vedano le note all'art. 29.
 
-##### Art. 34
+### Art. 34
 
 Composizione
 
@@ -1174,7 +1162,7 @@ Composizione
 
 > \- Il gia' citato decreto legislativo 28 agosto 1997, n. 281 recante «Definizione ed ampliamento delle attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato-citta' ed autonomie locali» e' pubblicato nella Gazz. Uff. 30 agosto 1997, n. 202.
 
-##### Art. 35
+### Art. 35
 
 Modalita' di funzionamento
 
@@ -1204,7 +1192,7 @@ Modalita' di funzionamento
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.».
 
-##### Art. 36
+### Art. 36
 
 Funzioni
 
@@ -1280,7 +1268,7 @@ e) la Conferenza vigila sull'applicazione dei meccanismi di premialita', sul ris
 
 > e) definizione delle modalita' per cui gli obiettivi e i criteri di utilizzazione delle risorse stanziate dallo Stato ai sensi del presente articolo sono oggetto di intesa in sede di Conferenza unificata e disciplinati con i provvedimenti annuali che determinano la manovra finanziaria. L'entita' delle risorse e' determinata dai medesimi provvedimenti».
 
-##### Art. 37
+### Art. 37
 
 Supporto tecnico
 
@@ -1320,11 +1308,9 @@ Supporto tecnico
 
 > 4\. Agli oneri derivanti dall'attuazione del presente articolo, pari complessivamente a 10 milioni di euro per l'anno 2010, 11 milioni di euro per l'anno 2011 e 5 milioni di euro a decorrere dall'anno 2012, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa prevista dall'art. 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307, relativa al Fondo per interventi strutturali di politica economica. Con il medesimo decreto di cui al comma 3 possono essere stabilite le modalita' di ripartizione delle risorse tra le amministrazioni preposte alla realizzazione della banca dati».
 
-## Capo VI
+## Capo VI - Norme finali ed abrogazioni
 
-### Norme finali ed abrogazioni
-
-##### Art. 38
+### Art. 38
 
 Tributi previsti dall'articolo 2, comma 2, lettera q), della legge n. 42 del 2009
 
@@ -1346,7 +1332,7 @@ Tributi previsti dall'articolo 2, comma 2, lettera q), della legge n. 42 del 200
 
 > (Omissis)».
 
-##### Art. 39
+### Art. 39
 
 Disposizioni finali di coordinamento
 
@@ -1362,7 +1348,7 @@ Disposizioni finali di coordinamento
 
 6\. Si applicano anche alle province le disposizioni di cui all'articolo 14, comma 6, del citato decreto legislativo n. 23 del 2011.
 
-##### Art. 40
+### Art. 40
 
 Trasporto pubblico locale
 
@@ -1402,7 +1388,7 @@ Trasporto pubblico locale
 
 > g-bis) delle spese finanziate con le risorse di cui ai commi 6, 7 e 38. L'esclusione delle spese di cui al comma 38 opera nel limite di 200 milioni di euro».
 
-##### Art. 41
+### Art. 41
 
 Disposizione finanziaria
 

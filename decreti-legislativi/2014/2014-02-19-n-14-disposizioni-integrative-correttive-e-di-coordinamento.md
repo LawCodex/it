@@ -48,17 +48,11 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni correttive, integrative e di coordinamento delle disposizioni recanti la nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero
 
-### Disposizioni correttive, integrative e di coordinamento delle - disposizioni recanti la nuova organizzazione dei tribunali ordinari e
+### Sezione I - Disposizioni generali
 
-#### degli uffici del pubblico ministero
-
-##### Sezione I
-
-###### Disposizioni generali
-
-###### Art. 1
+#### Art. 1
 
 Modifiche al regio decreto 30 gennaio 1941, n. 12, e al decreto legislativo 7 settembre 2012, n. 155
 
@@ -138,7 +132,7 @@ Modifiche al regio decreto 30 gennaio 1941, n. 12, e al decreto legislativo 7 se
 
 > \- Il regio decreto 30 gennaio 1941, n. 12 reca: «Ordinamento giudiziario».
 
-###### Art. 2
+#### Art. 2
 
 Modifiche alla legge 26 luglio 1975, n. 354
 
@@ -148,7 +142,7 @@ Modifiche alla legge 26 luglio 1975, n. 354
 
 > \- La legge 26 luglio 1975, n. 354 reca: «Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della liberta'».
 
-###### Art. 3
+#### Art. 3
 
 Modifiche al decreto del Presidente della Repubblica 30 agosto 1951, n. 757
 
@@ -158,7 +152,7 @@ Modifiche al decreto del Presidente della Repubblica 30 agosto 1951, n. 757
 
 > \- Il decreto del Presidente della Repubblica 30 agosto 1951, n. 757 reca: «Revisione delle piante organiche degli uffici giudiziari e istituzione delle sedi di Corti di assise».
 
-###### Art. 4
+#### Art. 4
 
 Liste dei giudici popolari
 
@@ -176,7 +170,7 @@ Liste dei giudici popolari
 
 > \- Per i riferimenti al decreto legislativo 7 settembre 2012, n. 155, si veda nelle note alle premesse.
 
-###### Art. 5
+#### Art. 5
 
 Organico dei magistrati del tribunale di Napoli nord e della procura della Repubblica presso il medesimo tribunale.
 
@@ -206,7 +200,7 @@ Organico dei magistrati del tribunale di Napoli nord e della procura della Repub
 
 > 8\. Con decreto del Ministro della giustizia, da adottarsi entro il 31 dicembre 2012, sono determinate le piante organiche del personale amministrativo assegnato agli uffici giudiziari.».
 
-###### Art. 6
+#### Art. 6
 
 Trasferimenti dei magistrati titolari di funzioni dirigenziali e applicazioni e trasferimenti dei giudici onorari di tribunale e dei vice procuratori onorari.
 
@@ -280,7 +274,7 @@ Trasferimenti dei magistrati titolari di funzioni dirigenziali e applicazioni e 
 
 > \- Per il testo del comma 4 dell'art. 5 del citato decreto legislativo 7 settembre 2012, n. 155, modificato dal presente decreto, si veda nelle note all'art. 5.
 
-###### Art. 7
+#### Art. 7
 
 Edilizia giudiziaria
 
@@ -294,7 +288,7 @@ Edilizia giudiziaria
 
 > 2\. - 3. - 4. - 4-bis. (Omissis).».
 
-###### Art. 8
+#### Art. 8
 
 Disposizioni transitorie
 
@@ -334,7 +328,7 @@ Disposizioni transitorie
 
 > 4\. I capi degli uffici di cui al comma 3 curano che, ove possibile, alla trattazione dei procedimenti civili provvedano il magistrato o uno dei magistrati originariamente designati.».
 
-###### Art. 9
+#### Art. 9
 
 Disposizioni relative alla gestione degli uffici giudiziari di Napoli nord
 
@@ -358,11 +352,9 @@ b) al comma 2, in fine, e' aggiunto il seguente periodo: «Le attivita' di cui a
 
 > \- Il decreto del Presidente della Repubblica 6 marzo 2001, n. 55 reca: «Regolamento di organizzazione del Ministero della giustizia».
 
-## Sezione II
+### Sezione II - Ripristino delle sezioni distaccate di tribunale nelle isole
 
-### Ripristino delle sezioni distaccate di tribunale nelle isole
-
-###### Art. 10
+#### Art. 10
 
 Temporaneo ripristino di sezioni distaccate insulari
 
@@ -458,13 +450,9 @@ AGGIORNAMENTO (10)
 
 Il D.L. 8 agosto 2025, n. 117 ha disposto (con l'art. 6, comma 7, lettera a)) che "il termine di cui al comma 13, limitatamente alle sezioni distaccate di Ischia, Lipari e Portoferraio, e' differito al 1° gennaio 2027".
 
-## Capo II
+## Capo II - Disposizioni correttive e integrative delle disposizioni recanti la revisione delle circoscrizioni giudiziarie - Uffici del giudice di pace
 
-### Disposizioni correttive e integrative delle disposizioni recanti la - revisione delle circoscrizioni giudiziarie - Uffici del giudice di
-
-#### pace
-
-###### Art. 11
+#### Art. 11
 
 Modifiche in materia di riduzione degli uffici del giudice di pace
 
@@ -478,7 +466,7 @@ b) la tabella B e' sostituita dalla tabella di cui all'allegato VI.
 
 > \- Per i riferimenti al decreto legislativo 7 settembre 2012, n. 155, si veda nelle note alle premesse.
 
-###### Art. 12
+#### Art. 12
 
 Modifiche alla legge 21 novembre 1991, n. 374 e disposizioni correttive e di coordinamento
 
@@ -524,7 +512,7 @@ Modifiche alla legge 21 novembre 1991, n. 374 e disposizioni correttive e di coo
 
 > 3-bis. Si applicano, in quanto compatibili, le disposizioni di cui all'art. 9, commi 2-bis e 2-ter, del decreto legislativo 7 settembre 2012, n. 155."».
 
-###### Art. 13
+#### Art. 13
 
 Clausola di invarianza finanziaria
 
@@ -532,7 +520,7 @@ Clausola di invarianza finanziaria
 
 2\. Le amministrazioni provvedono agli adempimenti previsti con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-###### Art. 14
+#### Art. 14
 
 Entrata in vigore
 
@@ -556,7 +544,7 @@ Visto, il Guardasigilli: Cancellieri
 
 ## Allegati
 
-###### Allegato I
+#### Allegato I
 
 Allegato I
 
@@ -1159,7 +1147,7 @@ Tabella A del Dlgs. 7 settembre 2012, n. 155
 +-----------------+-----------------+----------+--------------------+
 ```
 
-###### Allegato II
+#### Allegato II
 
 Allegato II
 
@@ -1769,7 +1757,7 @@ TRIBUNALE DI VICENZA
 
 Agugliaro, Albettone, Alonte, Altavilla Vicentina, Altissimo, Arcugnano, Arsiero, Arzignano, Asiago, Asigliano Veneto, Barbarano Vicentino, Bassano del Grappa, Bolzano Vicentino, Breganze, Brendola, Bressanvido, Brogliano, Caldogno, Caltrano, Calvene, Camisano Vicentino, Campiglia dei Berici, Campolongo sul Brenta, Carre', Cartigliano, Cassola, Castegnero, Castelgomberto, Chiampo, Chiuppano, Cismon del Grappa, Cogollo del Cengio, Conco, Cornedo Vicentino, Costabissara, Creazzo, Crespadoro, Dueville, Enego, Fara Vicentino, Foza, Gallio, Gambellara, Gambugliano, Grancona, Grisignano di Zocco, Grumolo delle Abbadesse, Isola Vicentina, Laghi, Lastebasse, Longare, Lonigo, Lugo di Vicenza, Lusiana, Malo, Marano Vicentino, Marostica, Mason Vicentino, Molvena, Monte di Malo, Montebello Vicentino, Montecchio Maggiore, Montecchio Precalcino, Montegalda, Montegaldella, Monteviale, Monticello Conte Otto, Montorso Vicentino, Mossano, Mussolente, Nanto, Nogarole Vicentino, Nove, Noventa Vicentina, Orgiano, Pedemonte, Pianezze, Piovene Rocchette, Poj ana Maggiore, Posina, Pove del Grappa, Pozzoleone, Quinto Vicentino, Recoaro Terme, Roana, Romano d'Ezzelino, Rosa', Rossano Veneto, Rotzo, Salcedo, San Germano dei Berici, San Nazario, San Pietro Mussolino, San Vito di Leguzzano, Sandrigo, Santorso, Sarcedo, Sarego, Schiavon, Schio, Solagna, Sossano, Sovizzo, Tezze sul Brenta, Thiene, Tonezza del Cimone, Torrebelvicino, Torri di Quartesolo, Trissino, Valdagno, Valdastico, Valli del Pasubio, Valstagna, Velo d'Astico, Vicenza, Villaga, Villaverla, Zane', Zermeghedo, Zovencedo, Zugliano
 
-###### Allegato III
+#### Allegato III
 
 Allegato III
 
@@ -1922,7 +1910,7 @@ Tabella A della L. 26 luglio 1975, n. 354
 +----------------------+----------------------+---------------------+
 ```
 
-###### Allegato IV
+#### Allegato IV
 
 Allegato IV
 
@@ -1930,7 +1918,7 @@ Tabella N del D.P.R. 30 agosto 1951, n. 757
 
 Parte di provvedimento in formato grafico
 
-###### Allegato V
+#### Allegato V
 
 Allegato V
 
@@ -3295,7 +3283,7 @@ Tabella A del Dlgs. 7 settembre 2012, n. 156
 +-------------------+-------------------+---------------------------+
 ```
 
-###### Allegato VI
+#### Allegato VI
 
 Allegato VI
 
@@ -4719,7 +4707,7 @@ Tabella B del Dlgs. 7 settembre 2012, n. 156
 +---------------+--------------+--------------------+---------------+
 ```
 
-###### Allegato VII
+#### Allegato VII
 
 Allegato VII
 

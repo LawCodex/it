@@ -28,11 +28,9 @@ la seguente legge:
 
 ## TITOLO I - Edilizia scolastica
 
-### CAPO I
+### CAPO I - INCREMENTO E PROROGA DELLE PROVVIDENZE STRAORDINARIE PREVISTE DALLA LEGGE 9 AGOSTO 1954, N. 645
 
-#### INCREMENTO E PROROGA DELLE PROVVIDENZE STRAORDINARIE - PREVISTE DALLA LEGGE 9 AGOSTO 1954, N. 645
-
-##### Art. 1
+#### Art. 1
 
 Incremento e proroga dei programmi dell'edilizia scolastica - Ripartizione dei contributi per tipi di scuole.
 
@@ -58,7 +56,7 @@ AGGIORNAMENTO (5a)
 
 La L. 18 dicembre 1964, n.1358 ha disposto (con l'art. 13 comma 1) che "A tutti gli effetti e' abrogata la ripartizione dei contributi, di cui ai nn. 1, 2 e 3 del secondo comma dell'articolo 1 della legge 24 luglio 1962, n. 1073."
 
-##### Art. 2
+#### Art. 2
 
 Misura dei contributi - Enti ammessi al godimento.
 
@@ -80,7 +78,7 @@ g) del 4 per cento per le altre scuole d'istruzione secondaria e artistica nel r
 
 Le somme occorrenti per il pagamento dei contributi di cui al comma precedente saranno stanziate nello stato di previsione della spesa del Ministero dei lavori pubblici a partire dall'esercizio finanziario 1962-63.
 
-##### Art. 3
+#### Art. 3
 
 Spese ammesse a contributo.
 
@@ -96,7 +94,7 @@ d) quelle occorrenti per la progettazione, la direzione dei lavori, la vigilanza
 
 Per gli edifici finanziati dalla presente legge il limite di 50 milioni previsto dall'articolo 1 della legge 29 luglio 1949, n. 717, e successive modificazioni e' elevato a 100 milioni.
 
-##### Art. 4
+#### Art. 4
 
 Assegnazione dei mutui della Cassa, depositi e prestiti e di altre Aziende di credito - Garanzia dello Stato.
 
@@ -112,7 +110,7 @@ In relazione alla garanzia prestata dallo Stato ai sensi del comma precedente il
 
 I Comuni o le Province sono autorizzati a contrarre mutui per fruire dei benefici della presente legge anche in deroga al disposto dell'articolo 333 della legge 3 marzo 1934, n. 383.
 
-##### Art. 5
+#### Art. 5
 
 Prestazione delle domande e criteri per la compilazione dei programmi.
 
@@ -126,13 +124,13 @@ b) ripartizione regionale delle somme in proporzione delle aule mancanti e delle
 
 c) completamento di opere gia' finanziate a norma della legge 9 agosto 1954, n. 645.
 
-##### Art. 6
+#### Art. 6
 
 Approvazione dei progetti e concessione dei contributi.
 
 L'approvazione dei progetti e la concessione dei contributi per le opere previste dall'articolo 2 della presente legge hanno luogo in conformita' ai programmi di cui all'articolo 5, con decreto del Ministro per i lavori pubblici, sentito il parere del Consiglio superiore dei lavori pubblici, ovvero con decreto del provveditore alle opere pubbliche, sentito il Comitato tecnico-amministrativo, secondo la rispettiva competenza stabilita dal decreto presidenziale 30 giugno 1955, n. 1534.
 
-##### Art. 7
+#### Art. 7
 
 Giudizio sull'idoneita' delle aree - Determinazione delle aree nei piani regolatori.
 
@@ -140,7 +138,7 @@ Il giudizio sull'idoneita' delle aree, la determinazione delle aree nei piani re
 
 Il decreto di vincolo emesso dal provveditore alle opere pubbliche per le aree riconosciute idonee deve essere notificato ai proprietari interessati e cessa di avere effetto dopo tre anni dalla notifica.
 
-##### Art. 8
+#### Art. 8
 
 Stralcio del contributo per l'acquisto dell'area e impegno della Cassa depositi e prestiti per la concessione del mutuo relativo.
 
@@ -148,7 +146,7 @@ Il Ministro per i lavori pubblici ovvero il provveditore alle opere pubbliche, s
 
 Il finanziamento per l'acquisto dell'area e' effettuato dalla Cassa depositi e prestiti con i criteri di priorita' di cui all'articolo 4, fermo restando ad ogni altro effetto il disposto dell'articolo stesso.
 
-##### Art. 9
+#### Art. 9
 
 Modalita' per l'approvazione dei progetti da parte delle
 
@@ -158,7 +156,7 @@ Tutte le deliberazioni dei Consigli comunali e provinciali necessarie ai fini de
 
 I progetti di massima ed esecutivi ai quali si riferiscono dette deliberazioni sono inviati direttamente dall'Amministrazione comunale o provinciale al Genio civile per l'inoltro al provveditore alle opere pubbliche o al Ministero dei lavori pubblici.
 
-##### Art. 10
+#### Art. 10
 
 Parere degli organi del Ministero dei lavori pubblici sui progetti di edifici scolastici compilati dai Comuni e dalle Province.
 
@@ -168,7 +166,7 @@ I progetti per la costruzione di edifici, destinati a scuole statali dei Comuni 
 
 I funzionari del Ministero della pubblica istruzione, i quali, a norma di quanto dispongono la legge 29 novembre 1957, n. 1208, e la legge 3 febbraio 1951, n. 164 e successive modificazioni, fanno parte del Consiglio superiore dei lavori pubblici e dei Comitati tecnico-amministrativi presso i Provveditorati alle opere pubbliche, sono componenti della Commissione relatrice sui progetti di edifici scolastici, secondo le rispettive competenze, presso i rispettivi organi consultivi.
 
-##### Art. 11
+#### Art. 11
 
 Emanazione delle nuove norme regolamentari
 
@@ -176,7 +174,7 @@ per i progetti delle scuole secondarie.
 
 Entro sei mesi dalla pubblicazione della presente legge sara' emanato su proposta del Ministro per i lavori pubblici, di concerto con i Ministri per la pubblica istruzione, per il tesoro e per la sanita', il nuovo regolamento per la compilazione dei progetti per la costruzione degli edifici destinati alle scuole per il completamento dell'obbligo e alle scuole secondarie di ogni tipo.
 
-##### Art. 12
+#### Art. 12
 
 Provvidenze speciali.
 
@@ -190,7 +188,7 @@ Essa e' autorizzata a provvedere direttamente alla progettazione degli edifici s
 
 L' U.N.R.R.A.- Casas avra' diritto, in aggiunta ai contributi di cui alla presente legge, alla somma occorrente a coprire l'intero ammortamento. Tale somma sara' annualmente stanziata nel bilancio dei lavori pubblici, in aggiunta alle somme di cui alla legge 9 agosto 1954, n. 645, e alla presente legge.
 
-##### Art. 13
+#### Art. 13
 
 ((Quando il Comune o la Provincia, previo invito da parte del
 
@@ -198,9 +196,9 @@ Provveditorato agli studi competente, non assumano tempestivamente l'iniziativa 
 
 Entro un anno dall'entrata in vigore dalla presente legge il Ministro per la pubblica istruzione emanera', di concerto col Ministro per l'interno, le norme per gli adempimenti di cui al precedente comma)).
 
-## CAPO II. - PROVVIDENZE PARTICOLARI
+### CAPO II. - PROVVIDENZE PARTICOLARI
 
-##### Art. 14
+#### Art. 14
 
 Costruzione di edifici per scuole materne statali.
 
@@ -216,7 +214,7 @@ AGGIORNAMENTO (5d)
 
 La L. 13 luglio 1965, n. 874 ha disposto (con l'art. 2, comma 1) che "Le provvidenze previste dagli articoli 14, primo e secondo comma, 15, 16, 28, 31, primo comma, 36 37, 40, 43 e 48 della legge 24 luglio 1962, n. 1073, per il triennio dal 1 luglio 1962 al 30 giugno 1965 e con scadenza a quest'ultima data, sono prorogate al 31 dicembre 1965."
 
-##### Art. 15
+#### Art. 15
 
 Contributi per la costruzione di edifici per scuole materne
 
@@ -238,7 +236,7 @@ AGGIORNAMENTO (5d)
 
 La L. 13 luglio 1965, n. 874 ha disposto (con l'art. 2, comma 1) che "Le provvidenze previste dagli articoli 14, primo e secondo comma, 15, 16, 28, 31, primo comma, 36 37, 40, 43 e 48 della legge 24 luglio 1962, n. 1073, per il triennio dal 1 luglio 1962 al 30 giugno 1965 e con scadenza a quest'ultima data, sono prorogate al 31 dicembre 1965."
 
-##### Art. 16
+#### Art. 16
 
 Contributi ad alcune categorie di comuni per l'adattamento
 
@@ -262,7 +260,7 @@ AGGIORNAMENTO (5d)
 
 La L. 13 luglio 1965, n. 874 ha disposto (con l'art. 2, comma 1) che "Le provvidenze previste dagli articoli 14, primo e secondo comma, 15, 16, 28, 31, primo comma, 36 37, 40, 43 e 48 della legge 24 luglio 1962, n. 1073, per il triennio dal 1 luglio 1962 al 30 giugno 1965 e con scadenza a quest'ultima data, sono prorogate al 31 dicembre 1965."
 
-##### Art. 17
+#### Art. 17
 
 Presentazione delle domande di contributo - Ammissione al finanziamento
 
@@ -272,7 +270,7 @@ La scelta delle opere da finanziare e la determinazione dei contributi sono pred
 
 La ripartizione delle somme e' pubblicata nel Bollettino ufficiale del Ministero della pubblica istruzione.
 
-##### Art. 18
+#### Art. 18
 
 Provvidenze della Cassa per il Mezzogiorno a favore delle scuole materne.
 
@@ -284,7 +282,7 @@ La Cassa per il Mezzogiorno e' autorizzata a provvedere direttamente alle proget
 
 La spesa che la Cassa puo' assumere ai fini del presente articolo viene determinata annualmente dal Comitato dei Ministri per il Mezzogiorno in coordinamento con le concessioni di contributi disposte a termini della presente legge.
 
-##### Art. 19
+#### Art. 19
 
 Provvidenze della Cassa per il Mezzogiorno a favore dell'istruzione tecnica
 
@@ -292,9 +290,9 @@ In funzione degli interventi di sviluppo economico, il Comitato dei ministri, di
 
 Il Comitato d'intesa col Ministero della pubblica istruzione puo' altresi' autorizzare la Cassa a promuovere e finanziare istituzioni ed attivita' a carattere sociale ed educativo.
 
-## CAPO III - PROVVIDENZE PER L'UNIVERSITA'
+### CAPO III - PROVVIDENZE PER L'UNIVERSITA'
 
-##### Art. 20
+#### Art. 20
 
 Costruzioni di edifici.
 
@@ -302,7 +300,7 @@ Per ciascuno degli esercizi finanziari 1962-63, 1963-1964 e 1964-65 e' stanziata
 
 Le Regioni, le Province, i Comuni e le amministrazioni degli ospedali clinicizzati possono concorrere nelle spese per le opere di cui al comma precedente.
 
-##### Art. 21
+#### Art. 21
 
 Stipulazione dei mutui.
 
@@ -318,7 +316,7 @@ Qualora i mutui non siano contratti con la Cassa depositi e prestiti, lo Stato i
 
 Gli Enti che abbiano ottenuto mutui garantiti dallo Stato sono tenuti ad affidare il servizio di tesoreria ad una delle Aziende di credito previste dal citato articolo 5 del regio decreto-legge 12 marzo 1936, n. 375, e successive modificazioni.
 
-##### Art. 22
+#### Art. 22
 
 Domande di contributo statale.
 
@@ -328,7 +326,7 @@ Le Universita' e gli Istituti d'istruzione universitaria debbono far pervenire a
 
 Nelle richieste le opere da realizzare debbono essere graduate secondo l'urgenza. Nel caso di concorso nelle spese da parte di Enti le richieste vanno accompagnate dalle deliberazioni degli Enti stessi, da cui risulti specificata la somma per cui e' assunto l'impegno del contributo.
 
-##### Art. 23
+#### Art. 23
 
 Criteri di ripartizione dei contributi.
 
@@ -338,7 +336,7 @@ Nel decreto di ripartizione delle somme sara' fatta esplicita menzione di tutte 
 
 Il decreto di ripartizione delle somme e' pubblicato nel Bollettino ufficiale del Ministero.
 
-##### Art. 24
+#### Art. 24
 
 Approvazione dei progetti.
 
@@ -348,7 +346,7 @@ L'approvazione dei progetti equivale a dichiarazione di pubblica utilita' ed i r
 
 Per le espropriazioni occorrenti si applicano gli articoli 12 e 13 della legge 15 gennaio 1885, n. 2892.
 
-##### Art. 25
+#### Art. 25
 
 Edifici demaniali - Manutenzione
 
@@ -356,17 +354,15 @@ Le disposizioni di cui all'articolo 46 del testo, unico delle leggi sull'istruzi
 
 Le opere di manutenzione ordinaria e straordinaria agli edifici demaniali in uso perpetuo e gratuito alle Universita' ed agli enti di cui al precedente comma fanno carico al Ministero dei lavori pubblici.
 
-##### Art. 26
+#### Art. 26
 
 Provvedimenti per i Conservatori di musica e le Accademie di belle arti
 
 Sono ammessi a concorrere alle provvidenze di cui agli articoli 20 e seguenti i Conservatori di musica e le Accademie di belle arti.
 
-## CAPO IV. - PROVVIDENZE PER GLI ISTITUTI
+### CAPO IV. - PROVVIDENZE PER GLI ISTITUTI STATALI DI EDUCAZIONE
 
-### STATALI DI EDUCAZIONE
-
-##### Art. 27
+#### Art. 27
 
 Immobili di proprieta' dello Stato.
 
@@ -374,7 +370,7 @@ Ad ogni Convitto nazionale ed Educandato femminile statale e' concesso il gratui
 
 Le opere di manutenzione ordinaria, e straordinaria degli immobili statali di cui al precedente comma fanno carico al Ministero dei lavori pubblici.
 
-##### Art. 28
+#### Art. 28
 
 Spese per ricostruzione, ampliamento e adattamento di immobili di proprieta' dello Stato.
 
@@ -388,7 +384,7 @@ AGGIORNAMENTO (5d)
 
 La L. 13 luglio 1965, n. 874 ha disposto (con l'art. 2, comma 1) che "Le provvidenze previste dagli articoli 14, primo e secondo comma, 15, 16, 28, 31, primo comma, 36 37, 40, 43 e 48 della legge 24 luglio 1962, n. 1073, per il triennio dal 1 luglio 1962 al 30 giugno 1965 e con scadenza a quest'ultima data, sono prorogate al 31 dicembre 1965."
 
-##### Art. 29
+#### Art. 29
 
 Contributi agli Istituti che dispongono di propri edifici.
 
@@ -398,17 +394,15 @@ A tal fine, in aggiunta agli stanziamenti disposti dall'articolo 1 della present
 
 I mutui richiesti dalle Amministrazioni degli Istituti sono garantiti dallo Stato con le modalita' di cui all'articolo 4 della presente legge.
 
-##### Art. 30
+#### Art. 30
 
 Agevolazioni tributarie.
 
 Ai fini dell'esenzione da imposte e tasse, gli istituti statali di educazione sono equiparati ad ogni effetto alle Amministrazioni dello Stato.
 
-## TITOLO II - Provvidenze per lo sviluppo di particolari istituzioni scolastiche -
+## TITOLO II - Provvidenze per lo sviluppo di particolari istituzioni scolastiche - Borse di studio e assistenza
 
-### Borse di studio e assistenza
-
-##### Art. 31
+#### Art. 31
 
 Sussidi alle scuole materne.
 
@@ -442,13 +436,13 @@ per il 1966. . . . . . . . . . . . . . . . . . . . L. 900 milioni per il 1967. .
 
 Successivamente la Corte Costituzionale con sentenza 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (che ha modificato l'art. 31 della presente legge) "limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-##### Art. 32
+#### Art. 32
 
 Scuole speciali e classi differenziali presso le scuole comuni.
 
 Per l'istituzione di scuole speciali per minorati psicofisici e per la rieducazione sociale, di classi differenziali nella scuola di completamento dell'obbligo, per l'incremento delle classi differenziali nelle scuole elementari, per l'assistenza igienico-sanitaria, didattica e per l'attrezzatura necessaria al funzionamento delle scuole e classi predette, per il razionale reperimento degli alunni e per l'organizzazione di corsi di specializzazione per gli insegnanti, e' stanziata, nello stato di previsione della spesa del Ministero della pubblica istruzione, la somma di lire 1.200 milioni per l'esercizio finanziario 1962-63 con un progressivo aumento di lire 300 milioni per ciascuno degli esercizi successivi fino a raggiungere, con l'esercizio finanziario 1964-65, la somma di lire 1.800 milioni.
 
-##### Art. 33
+#### Art. 33
 
 Contributi ai Patronati scolastici.
 
@@ -462,7 +456,7 @@ AGGIORNAMENTO (4b)
 
 La L. 31 ottobre 1963, n. 1529 ha disposto (con l'art. 8) che "Le autorizzazioni di spesa relative all'esercizio finanziario 1963-64, previste dagli articoli 33, 40, secondo e terzo comma, e 46 della legge 24 luglio 1962, n. 1073, sono ridotte ciascuna di lire 50 milioni."
 
-##### Art. 34
+#### Art. 34
 
 Trasporto degli alunni.
 
@@ -470,7 +464,7 @@ Al fine di favorire la frequenza delle scuole elementari e per il complemento de
 
 I Comuni sono autorizzati a intervenire con loro contributi al fine di facilitare i trasporti di cui al precedente comma.
 
-##### Art. 35
+#### Art. 35
 
 Libri di testo per le scuole elementari.
 
@@ -482,7 +476,7 @@ AGGIORNAMENTO (5c)
 
 La L. 10 agosto 1964, n. 719 ha disposto (con l'art. 3, comma 1) che "In relazione all'onere, sostenuto negli anni scolastici 1962-63 e 1963-64 per la fornitura gratuita dei libri di testo agli alunni della scuola elementare e a quello da sostenere per lo stesso titolo nell'anno scolastico 1964-1965, lo stanziamento di L. 12.837.000.000 previsto per il triennio dal 1962 al 1965, di cui all'articolo 35 della legge 24 luglio 1962, n. 1073, e' aumentato di L. 6 miliardi."
 
-##### Art. 36
+#### Art. 36
 
 Contributi per la scuola popolare.
 
@@ -500,7 +494,7 @@ AGGIORNAMENTO (5d)
 
 La L. 13 luglio 1965, n. 874 ha disposto (con l'art. 2, comma 1) che "Le provvidenze previste dagli articoli 14, primo e secondo comma, 15, 16, 28, 31, primo comma, 36 37, 40, 43 e 48 della legge 24 luglio 1962, n. 1073, per il triennio dal 1 luglio 1962 al 30 giugno 1965 e con scadenza a quest'ultima data, sono prorogate al 31 dicembre 1965."
 
-##### Art. 37
+#### Art. 37
 
 Servizio nazionale di lettura.
 
@@ -512,7 +506,7 @@ AGGIORNAMENTO (5d)
 
 La L. 13 luglio 1965, n. 874 ha disposto (con l'art. 2, comma 1) che "Le provvidenze previste dagli articoli 14, primo e secondo comma, 15, 16, 28, 31, primo comma, 36 37, 40, 43 e 48 della legge 24 luglio 1962, n. 1073, per il triennio dal 1 luglio 1962 al 30 giugno 1965 e con scadenza a quest'ultima data, sono prorogate al 31 dicembre 1965."
 
-##### Art. 38
+#### Art. 38
 
 Borse di studio.
 
@@ -538,7 +532,7 @@ A decorrere dall'esercizio finanziar o 1962-63 e' altresi' autorizzato l'aumento
 
 Le norme del presente articolo sono applicate anche agli alunni della scuola di completamento dell'obbligo fino all'entrata in vigore di nuove disposizioni ad essi relative.
 
-##### Art. 39
+#### Art. 39
 
 Assistenza universitaria
 
@@ -552,11 +546,9 @@ La ripartizione della rimanente somma fra diverse forme di assistenza universita
 
 L'assegnazione delle borse al merito, previste nel comma terzo, sara' effettuata a seguito di concorsi per titoli: quella delle borse conferire dal Ministero della pubblica istruzione sara' etfettuata da una Commissione nazionale di professori universitari di ruolo nominata dal Ministro per la pubblica istruzione sentita la, prima sezione del Consiglio superiore della pubblica istruzione. L'elenco dei borsisti sara' annualmente pubblicato sul Bollettino ufficiale del Ministero della pubblica istruzione.
 
-## TITOLO III - Dotazioni tecnico-scientifiche - contributi e agevolazioni per le
+## TITOLO III - Dotazioni tecnico-scientifiche - contributi e agevolazioni per le Universita' - Incremento di organici
 
-### Universita' - Incremento di organici
-
-##### Art. 40
+#### Art. 40
 
 Dotazione dei gabinetti laboratori, officine e biblioteche degli
 
@@ -580,7 +572,7 @@ AGGIORNAMENTO (5d)
 
 La L. 13 luglio 1965, n. 874 ha disposto (con l'art. 2, comma 1) che "Le provvidenze previste dagli articoli 14, primo e secondo comma, 15, 16, 28, 31, primo comma, 36 37, 40, 43 e 48 della legge 24 luglio 1962, n. 1073, per il triennio dal 1 luglio 1962 al 30 giugno 1965 e con scadenza a quest'ultima data, sono prorogate al 31 dicembre 1965."
 
-##### Art. 41
+#### Art. 41
 
 Attrezzature didattiche e scientifiche per gli Istituti universitari
 
@@ -588,7 +580,7 @@ A decorrere dall'esercizio finanziario 1962-1963 sono annualmente stanziati nell
 
 Alla ripartizione del fondo di cui al presente articolo provvede il Ministro della pubblica istruzione con proprio decreto che viene pubblicato sul Bollettino ufficiale del Ministero.
 
-##### Art. 42
+#### Art. 42
 
 Contributo ordinario dello Stato alle Universita'
 
@@ -598,7 +590,7 @@ Dallo stesso esercizio finanziario 1962-63 l'ammontare, complessivo dei contribu
 
 La determinazione della misura del contributo da corrispondere a ciascuna Universita' e a ciascun Istituto e' effettuata dal Ministro per la pubblica istruzione con proprio decreto, tenuto conto delle esigenze di funzionamento dei singoli Enti, del numero, del tipo e delle particolari esigenze delle Facolta' e della popolazione scolastica. Il decreto di ripartizione e' pubblicato nel Bollettino ufficiale del Ministero della pubblica istruzione.
 
-##### Art. 43
+#### Art. 43
 
 Biblioteche universitarie statali
 
@@ -610,7 +602,7 @@ AGGIORNAMENTO (5d)
 
 La L. 13 luglio 1965, n. 874 ha disposto (con l'art. 2, comma 1) che "Le provvidenze previste dagli articoli 14, primo e secondo comma, 15, 16, 28, 31, primo comma, 36 37, 40, 43 e 48 della legge 24 luglio 1962, n. 1073, per il triennio dal 1 luglio 1962 al 30 giugno 1965 e con scadenza a quest'ultima data, sono prorogate al 31 dicembre 1965."
 
-##### Art. 44
+#### Art. 44
 
 Contributi per Accademie, Conservatori e Istituti d'arte
 
@@ -624,7 +616,7 @@ AGGIORNAMENTO (5b)
 
 La L. 10 agosto 1964, n. 720 ha disposto (con l'art. 1) che "Il contributo statale annuo, fissato in L. 28.000.000 dalla legge 18 ottobre 1955, n. 1059, e dall'articolo 44 della legge 24 luglio 1962, n. 1073, per le spese di funzionamento dell'Accademia nazionale d'arte drammatica, e' elevato, dall'esercizio finanziario 1963-64, a L. 48.000.000."
 
-##### Art. 45
+#### Art. 45
 
 Agevolazioni tributarie
 
@@ -640,7 +632,7 @@ Tali imposte saranno dovute nel caso in cui le Universita' e gli Istituti univer
 
 Le pubblicazioni di carattere scientifico e culturale sono liberamente importabili in franchigia doganale".
 
-##### Art. 46
+#### Art. 46
 
 Incremento degli organici delle scuole elementari, secondarie ed artistiche
 
@@ -660,7 +652,7 @@ AGGIORNAMENTO (5d)
 
 La L. 13 luglio 1965, n. 874 ha disposto (con l'art. 7) che " Per l'incremento, l'aggiornamento e la revisione degli organici del personale direttivo e insegnante delle scuole e degli istituti di ogni ordine e grado dal 1 ottobre 1065, gli stanziamenti di lire 40,10 milioni e di lire 8.000 milioni previsti previsti per l'esercizio finanziario 1064-65, rispettivamente degli articoli 46 e 47 della legge 21 luglio 1962, n. 1073, sono maggiorati per l'anno finanziario 1965, complessivamente, di lire 3.500 milioni da iscriversi nello stato di previsione della spesa del Ministero della pubblica istruzione."
 
-##### Art. 47
+#### Art. 47
 
 Aggiornamento e revisione degli organici di scuole secondarie
 
@@ -678,7 +670,7 @@ AGGIORNAMENTO (5d)
 
 La L. 13 luglio 1965, n. 874 ha disposto (con l'art. 7) che " Per l'incremento, l'aggiornamento e la revisione degli organici del personale direttivo e insegnante delle scuole e degli istituti di ogni ordine e grado dal 1 ottobre 1065, gli stanziamenti di lire 40,10 milioni e di lire 8.000 milioni previsti previsti per l'esercizio finanziario 1064-65, rispettivamente degli articoli 46 e 47 della legge 21 luglio 1962, n. 1073, sono maggiorati per l'anno finanziario 1965, complessivamente, di lire 3.500 milioni da iscriversi nello stato di previsione della spesa del Ministero della pubblica istruzione."
 
-##### Art. 48
+#### Art. 48
 
 Aggiornamento culturale e didattico del personale insegnante
 
@@ -690,13 +682,13 @@ AGGIORNAMENTO (5d)
 
 La L. 13 luglio 1965, n. 874 ha disposto (con l'art. 2, comma 1) che "Le provvidenze previste dagli articoli 14, primo e secondo comma, 15, 16, 28, 31, primo comma, 36 37, 40, 43 e 48 della legge 24 luglio 1962, n. 1073, per il triennio dal 1 luglio 1962 al 30 giugno 1965 e con scadenza a quest'ultima data, sono prorogate al 31 dicembre 1965."
 
-##### Art. 49
+#### Art. 49
 
 Organi degli ispettori scolastici
 
 Sono aumentati di 6 posti per ciascuno degli esercizi finanziari 1962-63, 1963-64, 1964-65 i ruoli degli ispettori scolastici per l'istruzione elementare.
 
-##### Art. 50
+#### Art. 50
 
 Istituzione di cattedre universitario
 
@@ -726,7 +718,7 @@ AGGIORNAMENTO (5)
 
 La L. 20 marzo 1964, n. 115 ha disposto (con l'art. 1, comma 1) che "In aggiunta ai posti di professore universitario di ruolo istituiti con l'articolo 50, comma primo, della legge 24 luglio 1962, n. 1073, e con l'articolo 1 della legge 2 marzo 1963, n. 166, sono istituiti 20 nuovi posti di professore universitario di ruolo a decorrere dallo anno accademico 1964-65."
 
-##### Art. 51
+#### Art. 51
 
 Istituzione di posti di assistente
 
@@ -742,7 +734,7 @@ AGGIORNAMENTO (3a)
 
 La L. 2 marzo 1963, n. 166 ha disposto (con l'art. 2, comma 1) che "In aggiunta ai posti di assistente ordinario istituiti con l'articolo 51, comma primo, della legge 24 luglio 1962, n. 1073, sono istituiti 100 nuovi posti dall'anno accademico 1962-1963."
 
-##### Art. 52
+#### Art. 52
 
 Conferma dei benefici delle leggi precedenti
 
@@ -752,7 +744,7 @@ Restano fermi i benefici a favore dell'edilizia scolastica contenuti in leggi pr
 
 ## Norme finali e transitorie
 
-##### Art. 53
+#### Art. 53
 
 Iscrizione e utilizzo degli stanziamenti
 
@@ -762,7 +754,7 @@ Con gli stanziamenti ordinari a carico dei competenti capitoli, si provvedera' a
 
 Tutti gli stanziamenti previsti dalla presente legge non utilizzati nell'esercizio per cui sono stabiliti potranno essere utilizzati negli esercizi successivi, in deroga alle vigenti norme, ai fini di cui alla loro iscrizione negli stati di previsione.
 
-##### Art. 54
+#### Art. 54
 
 Relazione sull'applicazione della legge
 
@@ -780,7 +772,7 @@ La L. 26 giugno 1964, n. 436 ha disposto (con l'articolo unico) che "Le linee di
 
 I relativi disegni di legge saranno presentati in parte entro il 30 giugno 1964 e in parte entro il 31 dicembre 1964."
 
-##### Art. 55
+#### Art. 55
 
 Commissione d'indagine
 
@@ -798,7 +790,7 @@ AGGIORNAMENTO (4)
 
 La L. 2 marzo 1963, n.310 ha disposto (con l'articolo unico) che "Il termine del 31 marzo 1963 fissato dal terzo comma dell'articolo 55 della legge 24 luglio 1962, n. 1073, e' prorogato al 15 luglio 1963."
 
-##### Art. 56
+#### Art. 56
 
 Obiettivi dell'indagine
 
@@ -830,7 +822,7 @@ La Commissione e' autorizzata a interrogare le persone e a
 
 consultare i documenti che siano indispensabili all'espletamento del suo mandato.
 
-##### Art. 57
+#### Art. 57
 
 Copertura della spesa
 

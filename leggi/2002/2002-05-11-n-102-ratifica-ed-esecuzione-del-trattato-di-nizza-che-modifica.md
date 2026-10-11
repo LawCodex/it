@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica eautorizzato a ratificare il Trattato di Nizza che modifica il Trattato sull'Unione europea, i Trattati che istituiscono le Comunita' europee e alcuni atti connessi, con atto finale, protocolli e dichiarazioni, fatto a Nizza il 26 febbraio 2001.
 
-### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data al Trattato di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 12, comma 2, del Trattato stesso.
 
-### Art. 3
+#### Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -163,7 +163,7 @@ I QUALI, dopo aver scambiato i loro pieni poteri, riconosciuti in buona e debita
 
 HANNO CONVENUTO LE DISPOSIZIONI CHE SEGUONO:
 
-### ARTICOLO 1
+#### ARTICOLO 1
 
 Il trattato sull'Unione europea e' modificato in base alle disposizioni del presente articolo.
 
@@ -427,7 +427,7 @@ e) unicamente le disposizioni di carattere procedurale di cui all'articolo 7, pe
 
 f) gli articoli da 46 a 53."
 
-### ARTICOLO 2
+#### ARTICOLO 2
 
 Il trattato che istituisce la Comunita' europea e' modificato in base alle disposizioni del presente articolo.
 
@@ -1039,7 +1039,7 @@ a) al paragrafo 1, i termini "articolo 7, paragrafo 2" sono sostituiti dai termi
 
 b) al paragrafo 2, i termini "articolo 7, paragrafo 1" sono sostituiti dai termini "articolo 7, paragrafo 2".
 
-### ARTICOLO 3
+#### ARTICOLO 3
 
 Il trattato che istituisce la Comunita' europea dell'energia atomica e' modificato in base alle disposizioni del presente articolo.
 
@@ -1343,7 +1343,7 @@ a) al paragrafo 1, i termini "articolo F.1, paragrafo 2" sono sostituiti dai ter
 
 b) al paragrafo 2, i termini "articolo F.1, paragrafo 1" sono sostituiti dai termini "articolo 7, paragrafo 2" e i termini "articolo F, paragrafo 1." sono sostituiti dai termini "articolo 6, paragrafo 1".
 
-### ARTICOLO 4
+#### ARTICOLO 4
 
 Il trattato che istituisce la Comunita' europea del carbone e dell'acciaio e' modificato in base alle disposizioni del presente articolo.
 
@@ -1577,7 +1577,7 @@ a) al paragrafo 1, i termini "articolo F.1, paragrafo 2" sono sostituiti dai ter
 
 b) al paragrafo 2, i termini "articolo F.1, paragrafo 1" sono sostituiti dai termini "articolo 7, paragrafo 2" e i termini "articolo F, paragrafo 1" sono sostituiti dai termini "articolo 6, paragrafo 1".
 
-### ARTICOLO 5
+#### ARTICOLO 5
 
 Il protocollo sullo statuto del Sistema europeo di banche centrali e della Banca centrale europea e' modificato in base alle disposizioni del presente articolo.
 
@@ -1589,7 +1589,7 @@ Una raccomandazione formulata dalla BCE in virtu' del presente
 
 paragrafo richiede una decisione unanime del consiglio direttivo."
 
-### ARTICOLO 6
+#### ARTICOLO 6
 
 Il protocollo sui privilegi e sulle immunita' delle Comunita' europee e' modificato in base alle disposizioni del presente articolo.
 
@@ -1603,33 +1603,33 @@ degli avvocati generali."
 
 ## PARTE SECONDA - DISPOSIZIONI TRANSITORIE E FINALI
 
-### ARTICOLO 7
+#### ARTICOLO 7
 
 I protocolli sullo statuto della Corte di giustizia allegati al trattato che istituisce la Comunita' europea e al trattato che istituisce la Comunita' europea dell'energia atomica sono abrogati e sostituiti dal protocollo sullo statuto della Corte di giustizia allegato dal presente trattato al trattato sull'Unione europea, al trattato che istituisce la Comunita' europea e al trattato che istituisce la Comunita' europea dell'energia atomica.
 
-### ARTICOLO 8
+#### ARTICOLO 8
 
 Gli articoli da 1 a 20, gli articoli 44 e 45, l'articolo 46, secondo e terzo comma, gli articoli da 47 a 49 e gli articoli 51, 52, 54 e 55 del protocollo sullo statuto della Corte di giustizia della Comunita' europea del carbone e dell'acciaio sono abrogati.
 
-### ARTICOLO 9
+#### ARTICOLO 9
 
 Fatti salvi gli articoli del protocollo sullo statuto della Corte di giustizia della Comunita' europea del carbone e dell'acciaio che restano in vigore, le disposizioni del protocollo sullo statuto della Corte di giustizia allegato dal presente trattato al trattato sull'Unione europea, al trattato che istituisce la Comunita' europea e al trattato che istituisce la Comunita' europea dell'energia atomica si applicano allorche' la Corte di giustizia esercita le sue competenze in virtu' delle disposizioni del trattato che istituisce la Comunita' europea del carbone e dell'acciaio.
 
-### ARTICOLO 10
+#### ARTICOLO 10
 
 La decisione 88/591/CECA, CEE, Euratom del Consiglio del 24 ottobre 1988 che istituisce un Tribunale di primo grado delle Comunita' europee, quale modificata, e' abrogata ad eccezione dell'articolo 3, purche' il Tribunale di primo grado eserciti, ai sensi di detto articolo, attribuzioni demandate alla Corte di giustizia dal trattato che istituisce la Comunita' europea del carbone e dell'acciaio.
 
-### ARTICOLO 11
+#### ARTICOLO 11
 
 Il presente trattato e' concluso per un periodo illimitato.
 
-### ARTICOLO 12
+#### ARTICOLO 12
 
 1\. Il presente trattato e' ratificato dalle Alte Parti Contraenti secondo le rispettive norme costituzionali. Gli strumenti di ratifica sono depositati presso il governo della Repubblica italiana.
 
 2\. Il presente trattato entra in vigore il primo giorno del secondo mese successivo a quello in cui lo strumento di ratifica e' depositato dallo Stato firmatario che procede per ultimo a tale formalita'.
 
-### ARTICOLO 13
+#### ARTICOLO 13
 
 Il presente trattato, redatto in unico esemplare in lingua danese, finlandese, francese, greca, inglese, irlandese, italiana, olandese, portoghese, spagnola, svedese e tedesca, testi facenti tutti ugualmente fede, sara' depositato negli archivi del governo della Repubblica italiana che provvedera' a rimetterne copia certificata conforme a ciascuno dei governi degli altri Stati firmatari.
 
@@ -1645,13 +1645,13 @@ LE ALTE PARTI CONTRAENTI
 
 HANNO ADOTTATO le seguenti disposizioni, che sono allegate al trattato sull'Unione europea e ai trattati che istituiscono le Comunita' europee:
 
-### ARTICOLO 1
+#### ARTICOLO 1
 
 Abrogazione del protocollo sulle istituzioni
 
 Il protocollo sulle istituzioni nella prospettiva dell'allargamento dell'Unione europea, allegato al trattato sull'Unione europea e ai trattati che istituiscono le Comunita' europee, e' abrogato.
 
-### ARTICOLO 2
+#### ARTICOLO 2
 
 Disposizioni relative al Parlamento europeo
 
@@ -1697,7 +1697,7 @@ Il Consiglio adotta una decisione a tal fine.
 
 4\. In deroga all'articolo 189, secondo comma del trattato che istituisce la Comunita' europea e all'articolo 107, secondo comma del trattato che istituisce la Comunita' europea dell'energia atomica, in caso di entrata in vigore di trattati di adesione dopo l'adozione della decisione del Consiglio di cui al paragrafo 3, secondo comma del presente articolo, il numero dei membri del Parlamento europeo puo' essere temporaneamente superiore a settecentotrentadue durante il periodo di applicazione di detta decisione. La stessa correzione prevista al paragrafo 3, primo comma del presente articolo sara' applicata al numero di rappresentanti da eleggere negli Stati membri in questione.
 
-### ARTICOLO 3
+#### ARTICOLO 3
 
 Disposizioni relative alla ponderazione dei voti in sede di Consiglio:
 
@@ -1757,7 +1757,7 @@ c) all'articolo 34 del trattato sull'Unione europea, il paragrafo 3 e' sostituit
 
 2\. All'atto di ciascuna adesione, la soglia di cui all'articolo 205, paragrafo 2, secondo comma del trattato che istituisce la Comunita' europea e all'articolo 118, paragrafo 2, secondo comma del trattato che istituisce la Comunita' europea dell'energia atomica e' calcolata in modo che la soglia della maggioranza qualificata espressa in voti non superi quella risultante dalla tabella che figura nella dichiarazione relativa all'allargamento dell'Unione europea iscritta nell'atto finale del trattato di Nizza.
 
-### ARTICOLO 4
+#### ARTICOLO 4
 
 Disposizioni relative alla Commissione
 
@@ -1801,17 +1801,17 @@ DESIDERANDO definire lo statuto della Corte di giustizia previsto all'articolo 2
 
 HANNO CONVENUTO le seguenti disposizioni che sono allegate al trattato sull'Unione europea, al trattato che istituisce la Comunita' europea e al trattato che istituisce la Comunita' europea dell'energia atomica:
 
-### ARTICOLO 1
+#### ARTICOLO 1
 
 La Corte di giustizia e' costituita ed esercita le proprie funzioni conformemente alle disposizioni del trattato sull'Unione europea (trattato UE), del trattato che istituisce la Comunita' europea (trattato CE), del trattato che istituisce la Comunita' europea dell'energia atomica (trattato CEEA) e del presente statuto.
 
-## TITOLO I - STATUTO DEI GIUDICI E DEGLI AVVOCATI GENERALI
+### TITOLO I - STATUTO DEI GIUDICI E DEGLI AVVOCATI GENERALI
 
-### ARTICOLO 2
+#### ARTICOLO 2
 
 Ogni giudice, prima di assumere le proprie funzioni, deve, in seduta pubblica, prestare giuramento di esercitare tali funzioni in piena imparzialita' e secondo coscienza e di nulla divulgare del segreto delle deliberazioni.
 
-### ARTICOLO 3
+#### ARTICOLO 3
 
 I giudici godono dell'immunita' di giurisdizione. Per quanto concerne gli atti da loro compiuti in veste ufficiale, comprese le loro parole e i loro scritti, essi continuano a godere dell'immunita' dopo la cessazione dalle funzioni.
 
@@ -1821,7 +1821,7 @@ Qualora, tolta l'immunita', venga promossa un'azione penale contro un giudice, q
 
 Gli articoli da 12 a 15 e l'articolo 18 del protocollo sui privilegi e sulle immunita' delle Comunita' europee sono applicabili ai giudici, agli avvocati generali, al cancelliere e ai relatori aggiunti della Corte, senza pregiudizio delle disposizioni relative all'immunita' di giurisdizione dei giudici che figurano nei commi precedenti.
 
-### ARTICOLO 4
+#### ARTICOLO 4
 
 I giudici non possono esercitare alcuna funzione politica o amministrativa.
 
@@ -1831,7 +1831,7 @@ Al momento del loro insediamento, essi assumono l'impegno solenne di rispettare,
 
 In caso di dubbio, la Corte decide.
 
-### ARTICOLO 5
+#### ARTICOLO 5
 
 A parte i rinnovi regolari e i decessi, le funzioni di giudice cessano individualmente per dimissioni.
 
@@ -1839,7 +1839,7 @@ In caso di dimissioni di un giudice, la lettera di dimissioni e' indirizzata al 
 
 Salvo i casi in cui si applica l'articolo 6, ogni giudice rimane in carica fino a quando il suo successore non assuma le proprie funzioni.
 
-### ARTICOLO 6
+#### ARTICOLO 6
 
 I giudici possono essere rimossi dalle loro funzioni oppure essere dichiarati decaduti dal loro diritto a pensione o da altri vantaggi sostitutivi soltanto qualora, a giudizio unanime dei giudici e degli avvocati generati della Corte, non siano piu' in possesso dei requisiti previsti ovvero non soddisfino piu' agli obblighi derivanti dalla loro carica. L'interessato non prende parte a tali deliberazioni.
 
@@ -1847,49 +1847,49 @@ Il cancelliere comunica la decisione della Corte ai presidenti del Parlamento eu
 
 Quest'ultima notificazione, in caso di decisione che rimuove un giudice dalle sue funzioni, importa vacanza di seggio.
 
-### ARTICOLO 7
+#### ARTICOLO 7
 
 I giudici le cui funzioni cessano prima dello scadere del loro mandato sono sostituiti per la restante durata del mandato stesso.
 
-### ARTICOLO 8
+#### ARTICOLO 8
 
 Le disposizioni degli articoli da 2 a 7 sono applicabili agli avvocati generali.
 
-## TITOLO II - ORGANIZZAZIONE
+### TITOLO II - ORGANIZZAZIONE
 
-### ARTICOLO 9
+#### ARTICOLO 9
 
 Il rinnovo parziale dei giudici, che ha luogo ogni tre anni, riguarda alternatamente otto e sette giudici.
 
 Il rinnovo parziale degli avvocati generali, che ha luogo ogni tre anni, riguarda ogni volta quattro avvocati generali.
 
-### ARTICOLO 10
+#### ARTICOLO 10
 
 Il cancelliere presta giuramento davanti alla Corte di esercitare le proprie funzioni in piena imparzialita' e secondo coscienza e di nulla divulgare del segreto delle deliberazioni.
 
-### ARTICOLO 11
+#### ARTICOLO 11
 
 La Corte predispone la sostituzione del cancelliere in caso di impedimento di questi.
 
-### ARTICOLO 12
+#### ARTICOLO 12
 
 Funzionari e altri agenti sono addetti alla Corte allo scopo di assicurarne il funzionamento. Essi dipendono dal cancelliere sotto l'autorita' del presidente.
 
-### ARTICOLO 13
+#### ARTICOLO 13
 
 Una deliberazione unanime del Consiglio, presa su proposta della Corte, puo' prevedere la nomina di relatori aggiunti e definirne lo statuto. I relatori aggiunti possono essere chiamati, alle condizioni che saranno definite dal regolamento di procedura, a partecipare all'istruzione delle cause sottoposte all'esame della Corte e a collaborare con il giudice relatore.
 
 I relatori aggiunti, scelti tra persone che offrano ogni garanzia di indipendenza e abbiano le qualificazioni giuridiche necessarie, sono nominati dal Consiglio. Essi prestano giuramento davanti alla Corte di esercitare le loro funzioni in piena imparzialita' e secondo coscienza e di nulla divulgare del segreto delle deliberazioni.
 
-### ARTICOLO 14
+#### ARTICOLO 14
 
 I giudici, gli avvocati generali e il cancelliere devono risiedere dove la Corte ha la propria sede.
 
-### ARTICOLO 15
+#### ARTICOLO 15
 
 La Corte funziona in modo permanente. La durata delle vacanze giudiziarie e' fissata dalla Corte, tenuto conto delle necessita' del servizio.
 
-### ARTICOLO 16
+#### ARTICOLO 16
 
 La Corte istituisce nel proprio ambito sezioni composte di tre e di cinque giudici. I giudici eleggono nel loro ambito i presidenti delle sezioni. I presidenti delle sezioni di cinque giudici sono eletti per una durata di tre anni. Il loro mandato e' rinnovabile una volta.
 
@@ -1901,7 +1901,7 @@ La Corte si riunisce in seduta plenaria quando e' adita ai sensi dell'articolo 1
 
 Inoltre, ove reputi che un giudizio pendente dinanzi ad essa rivesta un importanza eccezionale, la Corte puo' decidere, sentito l'avvocato generale, di rinviare la causa alla seduta plenaria.
 
-### ARTICOLO 17
+#### ARTICOLO 17
 
 La Corte puo' deliberare validamente soltanto in numero dispari.
 
@@ -1913,7 +1913,7 @@ Le deliberazioni della Corte riunita in seduta plenaria sono valide soltanto se 
 
 In caso di impedimento di uno dei giudici componenti una sezione, si puo' ricorrere a un giudice che faccia parte di un'altra sezione, alle condizioni definite dal regolamento di procedura.
 
-### ARTICOLO 18
+#### ARTICOLO 18
 
 I giudici e gli avvocati generali non possono partecipare alla trattazione di alcuna causa nella quale essi siano in precedenza intervenuti come agenti, consulenti o avvocati di una delle parti, o sulla quale essi siano stati chiamati a pronunciarsi come membri di un tribunale, di una commissione d'inchiesta o a qualunque altro titolo.
 
@@ -1923,9 +1923,9 @@ In caso di difficolta' nell'applicazione del presente articolo, la Corte decide.
 
 Una parte non puo' invocare la nazionalita' di un giudice, ne' l'assenza in seno alla Corte o ad una sua sezione di un giudice della propria nazionalita', per richiedere la modificazione della composizione della Corte o di una delle sue sezioni.
 
-## TITOLO III - PROCEDURA
+### TITOLO III - PROCEDURA
 
-### ARTICOLO 19
+#### ARTICOLO 19
 
 Tanto gli Stati membri quanto le istituzioni delle Comunita' sono rappresentati davanti alla Corte da un agente nominato per ciascuna causa; l'agente puo' essere assistito da un consulente o da un avvocato.
 
@@ -1941,7 +1941,7 @@ La Corte gode, nei confronti dei consulenti e degli avvocati che si presentano d
 
 I professori cittadini degli Stati membri la cui legislazione riconosce loro il diritto di patrocinare godono davanti alla Corte dei diritti riconosciuti agli avvocati dal presente articolo.
 
-### ARTICOLO 20
+#### ARTICOLO 20
 
 La procedura davanti alla Corte comprende due fasi: l'una scritta, l'altra orale.
 
@@ -1953,7 +1953,7 @@ La procedura orale comprende la lettura della relazione presentata da un giudice
 
 Ove ritenga che la causa non sollevi nuove questioni di diritto, la Corte puo' decidere, sentito l'avvocato generale, che la causa sia giudicata senza conclusioni dell'avvocato generale.
 
-### ARTICOLO 21
+#### ARTICOLO 21
 
 La Corte e' adita mediante istanza trasmessa al cancelliere.
 
@@ -1961,7 +1961,7 @@ L'istanza deve contenere l'indicazione del nome e del domicilio dell'istante e d
 
 All'istanza deve essere allegato, ove occorra, l'atto di cui e' richiesto l'annullamento ovvero, nell'ipotesi contemplata dagli articoli 232 del trattato CE e 148 del trattato CEEA, un documento che certifichi la data della richiesta prevista da tali articoli. Se questi documenti non sono stati allegati all'istanza, il cancelliere invita l'interessato a produrli entro un termine ragionevole, senza che si possa eccepire decadenza qualora la regolarizzazione intervenga dopo la scadenza del termine per ricorrere.
 
-### ARTICOLO 22
+#### ARTICOLO 22
 
 Nei casi contemplati dall'articolo 18 del trattato CEEA, la Corte e' adita mediante ricorso trasmesso al cancelliere. Il ricorso deve contenere l'indicazione del nome e del domicilio del ricorrenze e della qualita' del firmatario, l'indicazione della decisione avverso la quale e' proposto ricorso, l'indicazione delle parti avverse, l'oggetto della causa, le conclusioni e un'esposizione sommaria dei motivi invocati.
 
@@ -1971,7 +1971,7 @@ Se la Corte rigetta il ricorso, la decisione del Collegio arbitrale diventa defi
 
 Se la Corte annulla la decisione del Collegio arbitrale la procedura puo' essere ripresa, eventualmente, a cura di una delle parti in causa, dinanzi al Collegio arbitrale. Quest'ultimo deve uniformarsi ai principi di diritto enunciati dalla Corte.
 
-### ARTICOLO 23
+#### ARTICOLO 23
 
 Nei casi contemplati dall'articolo 35, paragrafo 1 del trattato UE, dall'articolo 234 del trattato CE e dall'articolo 150 del trattato CEEA, la decisione del giudice nazionale che sospende la procedura e si rivolge alla Corte e' notificata a quest'ultima a cura di tale giudice nazionale. Tale decisione e' quindi notificata a cura del cancelliere della Corte alle parti in causa, agli Stati membri e alla Commissione, nonche' al Consiglio o alla Banca centrale europea, quando l'atto di cui si contesta la validita' o l'interpretazione emani da questi ultimi, e al Parlamento europeo e al Consiglio quando l'atto di cui si contesta la validita' o l'interpretazione sia stato emanato congiuntamente da queste due istituzioni.
 
@@ -1979,29 +1979,29 @@ Nel termine di due mesi da tale ultima notificazione, le parti, gli Stati membri
 
 Nei casi contemplati dall'articolo 234 deI trattato CE, la decisione del giudice nazionale e' inoltre notificata, a cura del cancelliere della Corte, agli Stati parti contraenti dell'accordo sullo Spazio economico europeo diversi dagli Stati membri nonche' all'Autorita' di vigilanza AELS (EFTA) prevista da detto accordo, i quali, entro due mesi dalla notifica, laddove si tratti di uno dei settori di applicazione dell'accordo, possono presentare alla Corte memorie ovvero osservazioni scritte.
 
-### ARTICOLO 24
+#### ARTICOLO 24
 
 La Corte puo' richiedere alle parti di produrre tutti i documenti e di dare tutte le informazioni che essa reputi desiderabili. In caso di rifiuto, ne prende atto.
 
 La Corte puo' parimenti richiedere agli Stati membri e alle istituzioni che non siano parti in causa tutte le informazioni che ritenga necessarie ai fini del processo.
 
-### ARTICOLO 25
+#### ARTICOLO 25
 
 In ogni momento, la Corte puo' affidare una perizia a qualunque persona, ente, ufficio, commissione od organo di sua scelta.
 
-### ARTICOLO 26
+#### ARTICOLO 26
 
 Alle condizioni che saranno determinate dal regolamento di procedura si puo' procedere all'audizione di testimoni.
 
-### ARTICOLO 27
+#### ARTICOLO 27
 
 La Corte gode, nei confronti dei testimoni non comparsi, dei poteri generalmente riconosciuti in materia alle corti e ai tribunali e puo' infliggere sanzioni pecuniarie, alle condizioni che saranno determinate dal regolamento di procedura.
 
-### ARTICOLO 28
+#### ARTICOLO 28
 
 I testimoni e i periti possono essere uditi sotto il vincolo del giuramento, secondo la formula stabilita dal regolamento di procedura ovvero secondo le modalita' previste dalla legislazione nazionale del testimone o del perito.
 
-### ARTICOLO 29
+#### ARTICOLO 29
 
 La Corte puo' ordinare che un testimone o un perito sia udito dall'autorita' giudiziaria del suo domicilio.
 
@@ -2009,43 +2009,43 @@ Tale ordinanza e' diretta, per la sua esecuzione, all'autorita' giudiziaria comp
 
 La Corte sostiene le spese, con riserva di porle, quando ne sia il caso, a carico delle parti.
 
-### ARTICOLO 30
+#### ARTICOLO 30
 
 Ogni Stato membro considera qualsiasi violazione dei giuramenti dei testimoni e dei periti alla stregua del corrispondente reato commesso davanti a un tribunale nazionale giudicante in materia civile. Su denuncia della Corte esso procede contro gli autori di tale reato davanti al giudice nazionale competente.
 
-### ARTICOLO 31
+#### ARTICOLO 31
 
 L'udienza e' pubblica, salvo decisione contraria presa dalla Corte, d'ufficio o su richiesta delle parti, per motivi gravi.
 
-### ARTICOLO 32
+#### ARTICOLO 32
 
 Nel corso del dibattimento la Corte puo' interrogare i periti, i testimoni e le parti stesse. Tuttavia queste ultime possono provvedere alla propria difesa orale soltanto tramite il proprio rappresentante.
 
-### ARTICOLO 33
+#### ARTICOLO 33
 
 Di ogni udienza e' redatto un verbale firmato dal presidente e dal cancelliere.
 
-### ARTICOLO 34
+#### ARTICOLO 34
 
 Il ruolo delle udienze e' fissato dal presidente.
 
-### ARTICOLO 35
+#### ARTICOLO 35
 
 Le deliberazioni della Corte sono e restano segrete.
 
-### ARTICOLO 36
+#### ARTICOLO 36
 
 Le sentenze sono motivate. Esse menzionano i nomi dei giudici che hanno partecipato alla deliberazione.
 
-### ARTICOLO 37
+#### ARTICOLO 37
 
 Le sentenze sono firmate dal presidente e dal cancelliere. Esse sono lette in pubblica udienza.
 
-### ARTICOLO 38
+#### ARTICOLO 38
 
 La Corte delibera sulle spese.
 
-### ARTICOLO 39
+#### ARTICOLO 39
 
 Il presidente della Corte puo' decidere secondo una procedura sommaria che deroghi, per quanto necessario, ad alcune norme contenute nel presente statuto e che sara' fissata dal regolamento di procedura, in merito alle conclusioni intese sia ad ottenere la sospensione prevista dall'articolo 242 del trattato CE e dall'articolo 157 del trattato CEEA, sia all'applicazione dei provvedimenti provvisori a norma dell'articolo 243 del trattato CE o dell'articolo 158 del trattato CEEA, sia alla sospensione dell'esecuzione forzata conformemente all'articolo 256, quarto comma del trattato CE o all'articolo 164, terzo comma del trattato CEEA.
 
@@ -2053,7 +2053,7 @@ Il presidente, in caso d'impedimento, e' sostituito da un altro giudice alle con
 
 L'ordinanza pronunciata dal presidente o dal suo sostituto ha soltanto carattere provvisorio e non pregiudica in nulla la decisione della Corte sul merito.
 
-### ARTICOLO 40
+#### ARTICOLO 40
 
 Gli Stati membri e le istituzioni delle Comunita' possono intervenire nelle controversie proposte alla Corte.
 
@@ -2063,21 +2063,21 @@ Salvo quanto dispone il secondo comma, gli Stati parti contraenti dell'accordo s
 
 Le conclusioni dell'istanza d'intervento possono avere come oggetto soltanto l'adesione alle conclusioni di una delle parti.
 
-### ARTICOLO 41
+#### ARTICOLO 41
 
 Quando la parte convenuta, regolarmente chiamata in causa, si astiene dal depositare conclusioni scritte, la sentenza viene pronunziata in sua contumacia. La sentenza puo' essere impugnata entro il termine di un mese a decorrere dalla sua notificazione.
 
 Salvo decisione contraria della Corte, l'opposizione non sospende l'esecuzione della sentenza pronunziata in contumacia.
 
-### ARTICOLO 42
+#### ARTICOLO 42
 
 Gli Stati membri, le istituzioni delle Comunita' e ogni altra persona fisica o giuridica possono, nei casi e alle condizioni che saranno determinati dal regolamento di procedura, proporre opposizione di terzo contro le sentenze pronunziate senza che essi siano stati chiamati in causa, qualora tali sentenze siano pregiudizievoli ai loro diritti.
 
-### ARTICOLO 43
+#### ARTICOLO 43
 
 In caso di difficolta' sul senso e la portata di una sentenza, spetta alla Corte d'interpretarla, a richiesta di una parte o di una istituzione delle Comunita' che dimostri di avere a cio' interesse.
 
-### ARTICOLO 44
+#### ARTICOLO 44
 
 La revocazione delle sentenze puo' essere richiesta alla Corte solo in seguito alla scoperta di un fatto di natura tale da avere un'influenza decisiva e che, prima della pronunzia della sentenza, era ignoto alla Corte e alla parte che domanda la revocazione.
 
@@ -2085,29 +2085,29 @@ La procedura di revocazione si apre con una sentenza della Corte che constata es
 
 Nessuna istanza di revocazione puo' essere proposta dopo la scadenza di un termine di dieci anni dalla data della sentenza.
 
-### ARTICOLO 45
+#### ARTICOLO 45
 
 Il regolamento di procedura stabilira' termini in ragione della distanza.
 
 Nessuna decadenza risultante dallo spirare dei termini puo' essere eccepita quando l'interessato provi l'esistenza di un caso fortuito o di forza maggiore.
 
-### ARTICOLO 46
+#### ARTICOLO 46
 
 Le azioni contro le Comunita' in materia di responsabilita' extracontrattuale si prescrivono in cinque anni a decorrere dal momento in cui avviene il fatto che da' loro origine. La prescrizione e' interrotta sia dall'istanza presentata alla Corte, sia dalla preventiva richiesta che il danneggiato puo' rivolgere all'istituzione competente delle Comunita'. In quest'ultimo caso l'istanza deve essere proposta nel termine di due mesi previsto dall'articolo 230 del trattato CE e dall'articolo 146 del trattato CEEA; sono applicabili, quando ne sia il caso, rispettivamente le disposizioni di cui all'articolo 232, secondo comma del trattato CE e dall'articolo 148, secondo comma del trattato CEEA.
 
-## TITOLO IV - IL TRIBUNALE DI PRIMO GRADO DELLE COMUNITA' EUROPEE
+### TITOLO IV - IL TRIBUNALE DI PRIMO GRADO DELLE COMUNITA' EUROPEE
 
-### ARTICOLO 47
+#### ARTICOLO 47
 
 Gli articoli da 2 a 8, gli articoli 14 e 15, l'articolo 17, primo, secondo, quarto e quinto comma, e l'articolo 13 si applicano al Tribunale e ai suoi membri. Il giuramento di cui all'articolo 2 e' prestato dinanzi alla Corte e le decisioni di cui agli articoli 3, 4 e 6 sono adottate da quest'ultima, previa consultazione del Tribunale.
 
 L'articolo 3, quarto comma, e gli articoli 10, 11 e 14 si applicano, coi necessari adattamenti, al cancelliere del Tribunale.
 
-### ARTICOLO 48
+#### ARTICOLO 48
 
 Il Tribunale e' composto di quindici giudici.
 
-### ARTICOLO 49
+#### ARTICOLO 49
 
 I membri del Tribunale possono essere chiamati ad esercitare le funzioni di avvocato generale.
 
@@ -2117,7 +2117,7 @@ I criteri per la determinazione di dette cause, nonche' le modalita' di designaz
 
 Un membro del Tribunale chiamato ad esercitare le funzioni di avvocato generale in una causa non puo' prendere parte alla decisione di detta causa.
 
-### ARTICOLO 50
+#### ARTICOLO 50
 
 Il Tribunale si riunisce in sezioni, composte di tre o cinque giudici. I giudici eleggono nel loro ambito i presidenti delle sezioni. I presidenti delle sezioni di cinque giudici sono eletti per una durata di tre anni. Il loro mandato e' rinnovabile una volta.
 
@@ -2125,15 +2125,15 @@ La composizione delle sezioni e l'assegnazione ad esse delle cause sono discipli
 
 Il regolamento di procedura puo' inoltre prevedere che il Tribunale si riunisca in grande sezione nei casi e alle condizioni da esso definite.
 
-### ARTICOLO 51
+#### ARTICOLO 51
 
 In deroga alla norma di cui all'articolo 225, paragrafo 1 del trattato CE e all'articolo 140 A, paragrafo 1 del trattato CEEA, i ricorsi proposti dagli Stati membri, dalle istituzioni delle Comunita' e dalla Banca centrale europea sono' di competenza della Corte.
 
-### ARTICOLO 52
+#### ARTICOLO 52
 
 Il presidente della Corte e il presidente del Tribunale stabiliscono di comune accordo le condizioni alle quali funzionari e altri agenti addetti alla Corte possono prestare servizio presso il Tribunale onde assicurarne il funzionamento. Taluni funzionari o altri agenti dipendono dal cancelliere del Tribunale sotto l'autorita' del presidente del Tribunale.
 
-### ARTICOLO 53
+#### ARTICOLO 53
 
 La procedura dinanzi al Tribunale e' disciplinata dal titolo III.
 
@@ -2141,7 +2141,7 @@ La procedura dinanzi al Tribunale e' precisata e completata, per quanto necessar
 
 In deroga all'articolo 20, quarto comma, l'avvocato generale puo' presentare per iscritto le sue conclusioni motivate.
 
-### ARTICOLO 54
+#### ARTICOLO 54
 
 Se un'istanza o un altro atto processuale destinati al Tribunale sono depositati per errore presso il cancelliere della Corte, questo li trasmette immediatamente al cancelliere del Tribunale; allo stesso modo, se un'istanza o un altro atto processuale destinati alla Corte sono depositati per errore presso il cancelliere del Tribunale, questo li trasmette immediatamente al cancelliere della Corte.
 
@@ -2149,11 +2149,11 @@ Quando il Tribunale constata d'essere incompetente a conoscere di un ricorso che
 
 Quando la Corte e il Tribunale sono investiti di cause che abbiano lo stesso oggetto, sollevino lo stesso problema d'interpretazione o mettano in questione la validita' dello stesso atto, il Tribunale, dopo aver ascoltato le parti, puo' sospendere il procedimento sino alla pronunzia della sentenza della Corte. Laddove si tratti di ricorsi diretti all'annullamento dello stesso atto, il Tribunale puo' anche declinare la propria competenza, affinche' la Corte di giustizia statuisca anche su tali ricorsi. Nei casi contemplati dal presente comma, anche la Corte puo' decidere di sospendere il procedimento dinanzi ad essa; in tal caso continua il procedimento dinanzi al Tribunale.
 
-### ARTICOLO 55
+#### ARTICOLO 55
 
 Le decisioni del Tribunale che concludono il procedimento, le pronunzie che decidono parzialmente la controversia nel merito o che pongono termine ad un incidente di procedura relativo ad un'eccezione di incompetenza o di irricevibilita' vengono notificate dal cancelliere del Tribunale a tutte le parti come pure a tutti gli Stati membri e alle istituzioni delle Comunita' anche qualora non siano parti intervenienti nella controversia dinanzi al Tribunale.
 
-### ARTICOLO 56
+#### ARTICOLO 56
 
 Puo' essere proposta impugnazione dinanzi alla Corte, entro un termine di due mesi a decorrere dalla notifica della decisione impugnata, contro le decisioni del Tribunale che concludono il procedimento nonche' contro le pronunzie che decidono parzialmente la controversia nel merito o che pongono termine ad un incidente di procedura relativo ad un'eccezione di incompetenza o di irricevibilita'.
 
@@ -2163,7 +2163,7 @@ Tuttavia le parti intervenienti diverse dagli Stati membri e dalle istituzioni d
 
 Ad eccezione delle cause relative a controversie tra le Comunita' e i loro agenti, l'impugnazione puo' essere proposta anche dagli Stati membri o dalle istituzioni delle Comunita' che non siano intervenuti nella controversia dinanzi al Tribunale. In tal caso, gli Stati membri e le istituzioni si trovano in una posizione identica a quella di Stati membri o istituzioni che siano intervenuti in primo grado.
 
-### ARTICOLO 57
+#### ARTICOLO 57
 
 Puo' essere proposta impugnazione dinanzi alla Corte contro le decisioni del Tribunale che respingono un'istanza d'intervento, entro un termine di due settimane a decorrere dalla notifica della decisione di rigetto, da qualsiasi soggetto la cui istanza sia stata respinta.
 
@@ -2171,23 +2171,23 @@ Contro le decisioni adottate dal Tribunale ai sensi dell'articolo 242 o 243 o de
 
 La Corte provvede conformemente alla procedura di cui all'articolo 39 sull'impugnazione proposta ai sensi del primo e secondo comma del presente articolo.
 
-### ARTICOLO 58
+#### ARTICOLO 58
 
 L'impugnazione proposta dinanzi alla Corte deve limitarsi ai motivi di diritto. Essa puo' essere fondata su motivi relativi all'incompetenza del Tribunale, a vizi della procedura dinanzi al Tribunale recanti pregiudizio agli interessi della parte ricorrente, nonche' alla violazione del diritto comunitario da parte del Tribunale.
 
 L'impugnazione non puo' avere ad oggetto unicamente l'onere e l'importo delle spese.
 
-### ARTICOLO 59
+#### ARTICOLO 59
 
 In caso d'impugnazione proposta contro una decisione del Tribunale, il procedimento dinanzi alla Corte consta di una fase scritta e di una fase orale. La Corte puo', sentiti l'avvocato generale e le parti, statuire senza trattazione orale, alle condizioni stabilite dal regolamento di procedura.
 
-### ARTICOLO 60
+#### ARTICOLO 60
 
 L'impugnazione non ha effetto sospensivo, salvi gli articoli 242 e 243 del trattato CE o gli articoli 157 e 158 del trattato CEEA.
 
 In deroga all'articolo 244 del trattato CE e all'articolo 159 del trattato CEEA, le decisioni del Tribunale che annullano un regolamento hanno effetto soltanto a decorrere dalla scadenza del termine contemplato nell'articolo 56, primo comma del presente statuto, oppure, se entro tale termine e' stata proposta impugnazione, a decorrere dal relativo rigetto, salva la facolta' delle parti di presentare alla Corte, in forza degli articoli 242 e 243 del trattato CE o degli articoli 157 e 158 del trattato CEEA, un'istanza volta alla sospensione dell'efficacia del regolamento annullato o all'adozione di un qualsiasi altro provvedimento provvisorio.
 
-### ARTICOLO 61
+#### ARTICOLO 61
 
 Quando l'impugnazione e' accolta, la Corte annulla la decisione del Tribunale. In tal caso, essa puo' statuire definitivamente sulla controversia qualora lo stato degli atti lo consenta, oppure rinviare la causa al Tribunale affinche' sia decisa da quest'ultimo.
 
@@ -2195,19 +2195,19 @@ In caso di rinvio, il Tribunale e' vincolato dalla decisione emessa dalla Corte 
 
 Quando un'impugnazione proposta da uno Stato membro o da una istituzione delle Comunita' che non sono intervenuti nel procedimento dinanzi al Tribunale e' accolta, la Corte puo', ove lo reputi necessario, precisare gli effetti della decisione annullata del Tribunale che debbono essere considerati definitivi nei confronti delle parti della controversia.
 
-### ARTICOLO 62
+#### ARTICOLO 62
 
 Nei casi di cui all'articolo 225, paragrafi 2 e 3 del trattato CE e all'articolo 140 A, paragrafi 2 e 3 del trattato CEEA, il primo avvocato generale, allorche' ritiene che esista un grave rischio per l'unita' o la coerenza del diritto comunitario, puo' proporre alla Corte di riesaminare la decisione del Tribunale.
 
 La proposta deve essere presentata entro un mese a decorrere dalla pronuncia della decisione del Tribunale. La Corte decide, entro un mese a decorrere dalla proposta presentatale dal primo avvocato generale, sull'opportunita' o meno di riesaminare la decisione.
 
-## TITOLO V - DISPOSIZIONI FINALI
+### TITOLO V - DISPOSIZIONI FINALI
 
-### ARTICOLO 63
+#### ARTICOLO 63
 
 I regolamenti di procedura della Corte e del Tribunale contengono tutte le disposizioni necessarie per applicare e, per quanto necessario, completare il presente statuto.
 
-### ARTICOLO 64
+#### ARTICOLO 64
 
 Sino all'adozione delle norme relative al regime linguistico applicabile alla Corte e al Tribunale nel presente statuto, le disposizioni del regolamento di procedura della Corte e del regolamento di procedura del Tribunale relative al regime linguistico restano applicabili. Ogni modifica o abrogazione di tali disposizioni deve essere effettuata secondo la procedura prevista per la modifica del presente statuto.
 
@@ -2225,7 +2225,7 @@ TENENDO CONTO del desiderio di utilizzare tali fondi a fini di ricerca in settor
 
 HANNO CONVENUTO le seguenti disposizioni, che sono allegate al trattato che istituisce la Comunita' europea:
 
-### ARTICOLO 1
+#### ARTICOLO 1
 
 1\. Tutte le attivita' e passivita' della CECA, esistenti al 23 luglio 2002, sono trasferite alla Comunita' europea a partire dal 24 luglio 2002.
 
@@ -2233,15 +2233,15 @@ HANNO CONVENUTO le seguenti disposizioni, che sono allegate al trattato che isti
 
 3\. Le entrate derivanti da detto patrimonio, denominate "Fondo di ricerca carbone e acciaio", sono utilizzate esclusivamente a fini di ricerca in settori correlati all'industria del carbone e dell'acciaio al di fuori del programma quadro di ricerca, conformemente alle disposizioni del presente protocollo e degli atti in virtu' di esso adottati.
 
-### ARTICOLO 2
+#### ARTICOLO 2
 
 Il Consiglio, deliberando all'unanimita' su proposta della Commissione e previa consultazione del Parlamento europeo, adotta tutte le disposizioni necessarie all'attuazione del presente protocollo, ivi compresi i principi essenziali e le appropriate procedure decisionali, in particolare per l'adozione degli orientamenti finanziari pluriennali per la gestione del patrimonio del Fondo di ricerca carbone e acciaio e degli orientamenti tecnici per il programma di ricerca di detto Fondo.
 
-### ARTICOLO 3
+#### ARTICOLO 3
 
 Salvo se altrimenti previsto dal presente protocollo e dagli atti in virtu' di esso adottati, si applicano le disposizioni del trattato che istituisce la Comunita' europea.
 
-### ARTICOLO 4
+#### ARTICOLO 4
 
 Il presente protocollo si applica a decorrere dal 24 luglio 2002.
 
@@ -2251,11 +2251,11 @@ LE ALTE PARTI CONTRAENTI
 
 HANNO CONVENUTO la seguente disposizione, che e' allegata al trattato che istituisce la Comunita' europea:
 
-### ARTICOLO UNICO
+#### ARTICOLO UNICO
 
 A decorrere dal 1 maggio 2004 il Consiglio delibera a maggioranza qualificata, su proposta della Commissione e previa consultazione del Parlamento europeo, per adottare le misure di cui all'articolo 66 del trattato che istituisce la Comunita' europea.
 
-### art. 1
+#### art. 1
 
 ATTO FINALE
 
@@ -2383,7 +2383,7 @@ europea
 
 3\. Dichiarazione della Danimarca, della Germania, dei Paesi Bassi e dell'Austria relativa all'articolo 161 del trattato che istituisce la Comunita' europea.
 
-### art. 1
+#### art. 1
 
 DICHIARAZIONI ADOTTATE DALLA CONFERENZA
 
@@ -2841,7 +2841,7 @@ FONDO DI RICERCA CARBONE E ACCIAIO
 
 La Conferenza invita il Consiglio a provvedere, a norma dell'articolo 2 del protocollo, affinche' il sistema di statistiche CECA sia mantenuto oltre la scadenza del trattato CECA fino al 31 dicembre 2002 e a invitare la Commissione a presentare le raccomandazioni appropriate.
 
-### art. 1
+#### art. 1
 
 DICHIARAZIONI DI CUI LA CONFERENZA HA PRESO NOTA
 

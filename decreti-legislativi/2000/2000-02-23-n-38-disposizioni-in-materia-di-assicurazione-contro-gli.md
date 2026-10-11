@@ -38,11 +38,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - Disposizioni in materia di premi dell'Istituto nazionale per
+## Capo I - Disposizioni in materia di premi dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro e le malattie professionali (INAIL).
 
-### l'assicurazione contro gli infortuni sul lavoro e le malattie - professionali (INAIL).
-
-#### Art. 1
+### Art. 1
 
 Ambito di applicazione delle gestioni
 
@@ -58,7 +56,7 @@ d) altre attivita', per le attivita' non rientranti fra quelle di cui alle lette
 
 2\. A ciascuna delle quattro gestioni di cui al comma 1 sono riferite le attivita' protette di cui all'articolo 1 del testo unico.
 
-#### Art. 2
+### Art. 2
 
 Classificazione dei datori di lavoro
 
@@ -70,7 +68,7 @@ Classificazione dei datori di lavoro
 
 4\. I datori di lavoro devono denunciare all'INAIL le modifiche soggettive ed oggettive che comportino la variazione della classificazione prevista dal presente articolo ai sensi dell'articolo 12 del testo unico.
 
-#### Art. 3
+### Art. 3
 
 Tariffe dei premi
 
@@ -88,7 +86,7 @@ Tariffe dei premi
 
 7\. Ai fini del finanziamento del disavanzo della gestione agricoltura e' autorizzata per gli anni 2000 e 2001 la spesa di lire 700 miliardi annui, ai sensi dell'articolo 55, comma 1, lettera o), della legge 17 maggio 1999, n. 144, e relative disposizioni attuative. Per gli anni successivi, nei limiti di lire 700 miliardi annui, la spesa e' autorizzata subordinatamente all'adozione dei decreti del Presidente del Consiglio dei Ministri di cuiall'articolo 8 della legge 23 dicembre 1998, n. 448, emanati successivamente alla data di entrata in vigore del presente decreto.
 
-#### Art. 4
+### Art. 4
 
 Assicurazione dei lavoratori dell'area dirigenziale
 
@@ -98,7 +96,7 @@ Assicurazione dei lavoratori dell'area dirigenziale
 
 3\. Ferma restando la decorrenza dell'obbligo assicurativo e del diritto alle prestazioni dalla data di cui al comma 1, in sede di prima applicazione, i termini per la presentazione delle denunce di cui all'articolo 12 del testo unico sono stabiliti in trenta giorni dalla data di entrata in vigore del presente decreto legislativo.
 
-#### Art. 5
+### Art. 5
 
 Assicurazione dei lavoratori parasubordinati
 
@@ -112,7 +110,7 @@ Assicurazione dei lavoratori parasubordinati
 
 5\. Ferma restando la decorrenza dell'obbligo assicurativo e del diritto alle prestazioni dalla data di cui al comma 1, in sede di prima applicazione, i termini per la presentazione delle denunce di cui all'articolo 12 del testo unico sono stabiliti in trenta giorni dalla data di entrata in vigore del presente decreto legislativo.
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 28 FEBBRAIO 2021, N. 36))
 
@@ -130,7 +128,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 28 febbraio 2021, n. 36, come modificato dal D.L. 29 dicembre 2022, n. 198, ha disposto (con l'art. 52, comma 1) che l'abrogazione del presente articolo e' prorogata dal 1° gennaio 2023 al 1° luglio 2023.
 
-#### Art. 7
+### Art. 7
 
 Lavoratori italiani operanti nei Paesi extracomunitari
 
@@ -138,7 +136,7 @@ Lavoratori italiani operanti nei Paesi extracomunitari
 
 2\. In caso di insussistenza dell'ultima condizione indicata nell'articolo 2, comma 6-bis, del decreto-legge 21 marzo 1988, n. 86, convertito, con modificazioni, dalla legge 20 maggio 1988, n. 160, i datori di lavoro sono tenuti al pagamento, nei confronti dell'INAIL, di un premio integrativo, da applicarsi con decorrenza dalla data di entrata in vigore del suddetto decreto-legge, a copertura delle prestazioni dovute dall'Istituto stesso ai sensi del testo unico. La misura del premio integrativo e' determinata con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, da emanarsi entro tre mesi dalla data di entrata in vigore del presente decreto legislativo, su delibera del consiglio di amministrazione dell'INAIL. I premi versati anteriormente alla data di entrata in vigore del presente decreto legislativo restano acquisiti e conservano la loro efficacia anche ai fini delle relative prestazioni.
 
-#### Art. 8
+### Art. 8
 
 Retribuzioni di ragguaglio
 
@@ -146,7 +144,7 @@ Retribuzioni di ragguaglio
 
 ## Capo II - Disposizioni in materia di prestazioni
 
-#### Art. 9
+### Art. 9
 
 Rettifica per errore
 
@@ -170,7 +168,7 @@ AGGIORNAMENTO (5)
 
 La Corte costituzionale, con sentenza 5-10 maggio 2005, n. 191 (in G.U. 1a s.s. 18/5/2005, n. 20) ha dichiarato "l'illegittimita' costituzionale dell'art. 9, commi 5, 6 e 7, del decreto legislativo 23 febbraio 2000, n. 38 (Disposizioni in materia di assicurazione contro gli infortuni sul lavoro e le malattie professionali, a norma dell'articolo 55, comma 1, della legge 17 maggio 1999, n. 144)".
 
-#### Art. 10
+### Art. 10
 
 Malattie professionali
 
@@ -186,7 +184,7 @@ Gli aggiornamenti dell'elenco sono effettuati con cadenza annuale con decreto de
 
 5\. Ai fini del presente articolo, e' istituito, presso la banca dati INAIL, il registro nazionale delle malattie causate dal lavoro ovvero ad esso correlate. Al registro possono accedere, in ragione della specificita' di ruolo e competenza e nel rispetto delle disposizioni di cui alla legge 31 dicembre 1996, n. 675, e successive modificazioni ed integrazioni, oltre la commissione di cui al comma 1, le strutture del Servizio sanitario nazionale, le direzioni provinciali del lavoro e gli altri soggetti pubblici cui, per legge o regolamento, sono attribuiti compiti in materia di protezione della salute e di sicurezza dei lavoratori sui luoghi di lavoro.
 
-#### Art. 11
+### Art. 11
 
 Rivalutazione delle rendite
 
@@ -194,7 +192,7 @@ Rivalutazione delle rendite
 
 2\. I principi di cui al comma 1 si applicano anche alle rendite corrisposte da altri enti gestori dell'assicurazione obbligatoria contro gli infortuni sul lavoro previsti dal testo unico.
 
-#### Art. 12
+### Art. 12
 
 Infortunio in itinere
 
@@ -202,7 +200,7 @@ Infortunio in itinere
 
 "Salvo il caso di interruzione o deviazione del tutto indipendenti dal lavoro o, comunque, non necessitate, l'assicurazione comprende gli infortuni occorsi alle persone assicurate durante il normale percorso di andata e ritorno dal luogo di abitazione a quello di lavoro, durante il normale percorso che collega due luoghi di lavoro se il lavoratore ha piu' rapporti di lavoro e, qualora non sia presente un servizio di mensa aziendale, durante il normale percorso di andata e ritorno dal luogo di lavoro a quello di consumazione abituale dei pasti. L'interruzione e la deviazione si intendono necessitate quando sono dovute a cause di forza maggiore, ad esigenze essenziali ed improrogabili o all'adempimento di obblighi penalmente rilevanti. L'assicurazione opera anche nel caso di utilizzo del mezzo di trasporto privato, purche' necessitato. Restano, in questo caso, esclusi gli infortuni direttamente cagionati dall'abuso di alcolici e di psicofarmaci o dall'uso non terapeutico di stupefacenti ed allucinogeni; l'assicurazione, inoltre, non opera nei confronti del conducente sprovvisto della prescritta abilitazione di guida.".
 
-#### Art. 13
+### Art. 13
 
 Danno biologico
 
@@ -248,7 +246,7 @@ AGGIORNAMENTO (10)
 
 La Corte Costituzionale, con sentenza 25 febbraio - 13 aprile 2021 n. 63 (in G.U. 1ª s.s. 14/04/2021, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'art. 13, comma 6, secondo periodo, del decreto legislativo 23 febbraio 2000, n. 38 (Disposizioni in materia di assicurazione contro gli infortuni sul lavoro e le malattie professionali, a norma dell'articolo 55, comma 1, della legge 17 maggio 1999, n. 144), nella parte in cui non prevede che, per le patologie aggravate da menomazioni preesistenti concorrenti, trovi applicazione la medesima disciplina contemplata dal primo periodo in aggiunta alla persistente erogazione della rendita di cui al terzo periodo del medesimo comma 6".
 
-#### Art. 13-bis
+### Art. 13-bis
 
 (( (Disposizioni in tema di menomazione
 
@@ -268,11 +266,9 @@ dell'integrita' psicofisica) ))
 
 7\. All'articolo 10, terzo comma, della legge 5 maggio 1976, n. 248, al numero 1) sono aggiunte, in fine, le seguenti parole: "e, per gli infortuni sul lavoro verificatisi nonche' le malattie professionali denunciate a decorrere dal 1° gennaio 2007, dell'integrita' psicofisica di grado superiore al 20 per cento")).
 
-## Capo III - Disposizioni in materia di semplificazione e snellimento delle
+## Capo III - Disposizioni in materia di semplificazione e snellimento delle procedure
 
-### procedure
-
-#### Art. 14
+### Art. 14
 
 Norme in materia di procedure e speditezza
 
@@ -288,11 +284,9 @@ AGGIORNAMENTO (4)
 
 Il D.Lgs. 21 aprile 2000, n. 181, come modificato dal D. Lgs. 19 dicembre 2002, n. 297 ha disposto (con l'art. 5, comma 2-bis) che "A decorrere dalla medesima data il comma 2 dell'articolo 14 del decreto legislativo 23 febbraio 2000, n. 38, e' soppresso."
 
-## Capo IV - Disposizioni in materia di riordinamento dei compiti e della gestione
+## Capo IV - Disposizioni in materia di riordinamento dei compiti e della gestione del Casellario centrale infortuni.
 
-### del Casellario centrale infortuni.
-
-#### Art. 15
+### Art. 15
 
 Natura e funzione del Casellario centrale infortuni
 
@@ -300,7 +294,7 @@ Natura e funzione del Casellario centrale infortuni
 
 2\. Il Casellario e' titolare della banca dati, relativa agli infortuni professionali e non professionali ed alle malattie professionali, la quale viene alimentata dai soggetti indicati nell'articolo 17, in seguito denominati utenti.
 
-#### Art. 16
+### Art. 16
 
 Compiti del Casellario
 
@@ -314,7 +308,7 @@ c) favorire l'integrazione ed il raccordo della propria banca dati con altre ana
 
 2\. Puo', altresi', fornire dati in forma aggregata per indagini conoscitive alle istituzioni pubbliche e private di studi e ricerche.
 
-#### Art. 17
+### Art. 17
 
 Utenti del Casellario
 
@@ -324,7 +318,7 @@ a) gli istituti che esercitano l'assicurazione obbligatoria contro gli infortuni
 
 b) gli enti che esercitano, congiuntamente o disgiuntamente, l'assicurazione contro i rischi di infortunio e l'assicurazione conto i rischi derivanti dalla circolazione di automezzi, soggetti al controllo dell'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo (ISVAP).
 
-#### Art. 18
+### Art. 18
 
 Obblighi e diritti degli utenti
 
@@ -338,7 +332,7 @@ Obblighi e diritti degli utenti
 
 5\. Per consentire l'adeguamento delle strutture organizzative ed informative, l'obbligo di cui al comma 1 relativo agli enti che esercitano l'assicurazione contro i rischi derivanti dalla circolazione di automezzi decorre a partire dall'anno successivo alla data di entrata in vigore del regolamento di esecuzione di cui all'articolo 22.
 
-#### Art. 19
+### Art. 19
 
 Organi del Casellario
 
@@ -404,13 +398,13 @@ e) esercita in genere tutte le attribuzioni a lui demandate dal comitato;
 
 f) svolge una funzione di collegamento con le strutture competenti dell'INAIL, in ordine all'acquisizione e gestione delle risorse ed alla regolazione dei flussi finanziari nell'ambito del bilancio dell'INAIL.
 
-#### Art. 20
+### Art. 20
 
 S a n z i o n i
 
 1\. L'inosservanza degli obblighi di cui all'articolo 18, comma 1, comporta l'applicazione di una sanzione amministrativa di L. 50.000, maggiorata del 10 per cento in ogni caso di reiterazione. Ai proventi derivanti dalla comminazione di detta sanzione si applicano le disposizioni di cui all'articolo 197 del testo unico, e successive modificazioni e integrazioni.
 
-#### Art. 21
+### Art. 21
 
 Contributi
 
@@ -418,7 +412,7 @@ Contributi
 
 2\. Il contributo viene determinato, annualmente, dal comitato, in base alla spesa effettivamente sostenuta per il servizio e commisurato ad una percentuale dei premi e contributi di assicurazione, ivi compresi, nel limite del 10 per cento i premi di assicurazione relativi alla responsabilita' civile auto, incassati nell'anno di riferimento.
 
-#### Art. 22
+### Art. 22
 
 Regolamento di esecuzione
 
@@ -428,7 +422,7 @@ Regolamento di esecuzione
 
 ## Capo V - Interventi per il miglioramento delle misure di prevenzione
 
-#### Art. 23
+### Art. 23
 
 Programmi e progetti in materia di sicurezza e igiene del lavoro
 
@@ -456,7 +450,7 @@ d) l'entita' delle risorse da destinare annualmente alle finalita' di cui al com
 
 5\. Il consiglio di amministrazione dell'INAIL, sulla base dei principi e dei criteri definiti dalle norme regolamentari di cui al comma 3, provvede all'approvazione dei singoli progetti.
 
-#### Art. 24
+### Art. 24
 
 Progetti formativi e per l'abbattimento delle barriere architettoniche
 
@@ -464,11 +458,9 @@ Progetti formativi e per l'abbattimento delle barriere architettoniche
 
 2\. Sulla base degli indirizzi programmatici di cui al comma 1, il consiglio di amministrazione dell'INAIL definisce i criteri e le modalita' per l'approvazione dei singoli progetti in analogia a quanto previsto dall'articolo 23, comma 3.
 
-## Capo VI - Primi interventi di riordino dell'assicurazione infortuni in
+## Capo VI - Primi interventi di riordino dell'assicurazione infortuni in agricoltura
 
-### agricoltura
-
-#### Art. 25
+### Art. 25
 
 Denuncia degli infortuni sul lavoro
 
@@ -476,13 +468,13 @@ Denuncia degli infortuni sul lavoro
 
 2\. Le modalita' operative per la denuncia di cui al comma 1 sono stabilite con delibera del consiglio di amministrazione dell'INAIL da approvarsi con decreto del Ministro del lavoro e della previdenza sociale.
 
-#### Art. 26
+### Art. 26
 
 Verifiche ispettive per l'evasione e l'elusione assicurativa
 
 1\. Sulla base delle risultanze dell'istruttoria per la liquidazione delle prestazioni per infortuni o malattia professionale, l'INAIL provvede ad effettuare adeguati controlli ispettivi circa la regolarita' assicurativa delle aziende di riferimento, nell'ambito di piani di attivita' concordati con IINPS.
 
-#### Art. 27
+### Art. 27
 
 Banca dati
 
@@ -490,7 +482,7 @@ Banca dati
 
 2\. Alla banca dati di cui al comma 1 possono accedere le organizzazioni sindacali di categoria maggiormente rappresentative del settore.
 
-#### Art. 28
+### Art. 28
 
 Rideterminazione dei contributi
 

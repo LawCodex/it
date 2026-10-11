@@ -53,7 +53,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Attuazione della direttiva n. 2001/24/CE
 
-#### Art. 1
+### Art. 1
 
 Definizione di Stato d'origine e di Stato ospitante
 
@@ -183,7 +183,7 @@ g-ter) "Stato ospitante" indica lo Stato comunitario nel quale la banca ha una s
 
 > m) "Ministro dell'economia e delle finanze" indica il Ministro dell'economia e delle finanze.».
 
-#### Art. 2
+### Art. 2
 
 Disposizioni in tema di procedure di risanamento di banche operanti in ambito comunitario
 
@@ -263,7 +263,7 @@ Applicazione
 
 1\. Le disposizioni della presente sezione si applicano ai provvedimenti di amministrazione straordinaria, gestione provvisoria e liquidazione coatta amministrativa, nonche' ai provvedimenti di risanamento e liquidazione delle competenti autorita' degli Stati comunitari adottati dopo il 5 maggio 2004.
 
-#### Art. 3
+### Art. 3
 
 Informazione alle autorita' di vigilanza degli Stati comunitari, relativamente a procedure che interessano banche extracomunitarie
 
@@ -283,7 +283,7 @@ Informazione alle autorita' di vigilanza degli Stati comunitari, relativamente a
 
 > 2\. Si applicano, in quanto compatibili, le disposizioni della presente sezione.».
 
-#### Art. 4
+### Art. 4
 
 Sospensione dei pagamenti e delle restituzioni
 
@@ -303,7 +303,7 @@ Sospensione dei pagamenti e delle restituzioni
 
 > 3\. Dal termine previsto nel comma 1 contro la banca in liquidazione non puo' essere promossa ne' proseguita alcuna azione, salvo quanto disposto dagli articoli 87, 88, 89 e 92, comma 3, ne', per qualsiasi titolo, puo' essere parimenti promosso ne' proseguito alcun atto di esecuzione forzata o cautelare. Per le azioni civili di qualsiasi natura derivanti dalla liquidazione e' competente esclusivamente il tribunale del luogo dove la banca ha la sede legale.».
 
-#### Art. 5
+### Art. 5
 
 Informativa ai creditori
 
@@ -329,7 +329,7 @@ Informativa ai creditori
 
 > 7\. I commissari, previa autorizzazione della Banca d'Italia e con il parere favorevole del comitato di sorveglianza, possono farsi coadiuvare nello svolgimento delle operazioni da terzi, sotto la propria responsabilita' e con oneri a carico della liquidazione. In casi eccezionali, i commissari, previa autorizzazione della Banca d'Italia, possono a proprie spese delegare a terzi il compimento di singoli atti.».
 
-#### Art. 6
+### Art. 6
 
 Disposizioni applicabili alle succursali di banche extracomunitarie
 
@@ -341,7 +341,7 @@ Succursali di banche extracomunitarie
 
 1\. Alle succursali di banche extracomunitarie si applicano le disposizioni previste dalla presente sezione e dall'articolo 77, comma 1-bis, in quanto compatibili.».
 
-#### Art. 7
+### Art. 7
 
 Disposizioni in tema di liquidazione ordinaria
 
@@ -359,11 +359,9 @@ Liquidazione ordinaria
 
 4\. Nei confronti della societa' in liquidazione restano fermi i poteri delle autorita' creditizie previsti nel presente decreto.».
 
-## Capo II - Coordinamento del testo unico bancario e del testo unico della
+## Capo II - Coordinamento del testo unico bancario e del testo unico della finanza con il decreto legislativo 8 giugno 2001, n. 231.
 
-### finanza con il decreto legislativo 8 giugno 2001, n. 231.
-
-#### Art. 8
+### Art. 8
 
 Disposizioni in tema di illeciti amministrativi dipendenti da reato
 
@@ -387,7 +385,7 @@ Responsabilita' per illecito amministrativo dipendente da reato
 
 5\. Il presente articolo si applica, in quanto compatibile, alle succursali italiane di banche comunitarie o extracomunitarie.».
 
-#### Art. 9
+### Art. 9
 
 Disposizioni applicabili agli intermediari finanziari che si debbono iscrivere nell'elenco speciale
 
@@ -421,7 +419,7 @@ Disposizioni applicabili agli intermediari finanziari che si debbono iscrivere n
 
 > 5\. Possono proporre opposizione allo stato passivo, relativamente alla propria posizione e contro il riconoscimento dei diritti in favore dei soggetti inclusi negli elenchi indicati nella disposizione del comma 4, i soggetti le cui pretese non siano state accolte, in tutto o in parte, entro quindici giorni dal ricevimento della raccomandata prevista dall'art. 86, comma 8, del testo unico bancario e i soggetti ammessi entro lo stesso termine decorrente dalla data di pubblicazione dell'avviso previo dal medesimo comma 8. Il presente comma si applica in luogo dell'art. 87, comma 1, del testo unico bancario.».
 
-#### Art. 10
+### Art. 10
 
 Disposizioni in tema di responsabilita' delle SIM, delle SGR e delle SICAV per illecito amministrativo dipendente da reato
 
@@ -443,7 +441,7 @@ Nel corso del procedimento, ove il pubblico ministero ne faccia richiesta, vengo
 
 5\. Il presente articolo si applica, in quanto compatibile, alle succursali italiane di imprese di investimento comunitarie o extracomunitarie.».
 
-#### Art. 11
+### Art. 11
 
 Entrata in vigore
 

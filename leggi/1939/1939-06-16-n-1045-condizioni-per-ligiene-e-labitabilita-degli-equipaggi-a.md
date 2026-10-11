@@ -36,7 +36,7 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 ## TITOLO I. - CAMPO DI APPLICAZIONE DELLA LEGGE.
 
-#### Art. 1
+### Art. 1
 
 Le norme contenute nella presente legge si applicano alle navi mercantili nazionali di nuova costruzione, siano esse a propulsione meccanica od a vela (compresi i moto e piropescherecci), superiori alle 200 tonnellate di stazza lorda.
 
@@ -52,11 +52,9 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-## TITOLO II. - ALLOGGI, DORMITORI, REFETTORI.
+## TITOLO II. - ALLOGGI, DORMITORI, REFETTORI. Alloggi.
 
-### Alloggi.
-
-#### Art. 2
+### Art. 2
 
 Agli effetti della presente legge si intendono per « alloggi », i dormitori, i refettori, e gli eventuali locali di convegno per l'equipaggio.
 
@@ -68,7 +66,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 3
+### Art. 3
 
 Gli alloggi devono essere ubicati e costruiti a seconda delle possibilita' di utilizzazione degli spazi nei diversi tipi di navi, in maniera tale da non essere soggetti a irradiazioni di eccessivo calore, a emanazioni dannose o moleste derivanti dalle stive, dai motori, dalle latrine, dal pozzo delle catene, dalle cucine, e in genere dagli ambienti male odoranti; e altresi' in modo da non essere soggetti a eccessive vibrazioni e rumori bruschi e improvvisi, tali da disturbare sensibilmente il riposo dell'equipaggio.
 
@@ -82,7 +80,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 4
+### Art. 4
 
 Deve essere evitato, per quanto possibile, il passaggio attraverso gli alloggi, di condutture che possano creare ostacolo o disturbo specialmente in corrispondenza delle cuccette e della parte centrale del locale. In ogni caso tali condutture devono essere opportunamente rivestite di materiale coibente e impermeabile.
 
@@ -94,7 +92,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 5
+### Art. 5
 
 Le lamiere esterne degli alloggi devono essere protette da un rivestimento.
 
@@ -106,7 +104,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 6
+### Art. 6
 
 Il materiale da impiegare per il rivestimento delle pareti, del pavimento e del soffitto, deve rispondere ai requisiti della sicurezza.
 
@@ -120,7 +118,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 7
+### Art. 7
 
 Gli oggetti di arredamento devono essere solidi, comodi e semplici con il minimo di anfrattuosita' e di angoli. Devono altresi' essere facilmente lavabili, asportabili e, possibilmente, di materiale metallico.
 
@@ -132,7 +130,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 8
+### Art. 8
 
 In ogni locale di alloggio, compresi i relativi corridoi, deve essere sistemato un numero sufficiente di sputacchiere di tipo razionale.
 
@@ -144,7 +142,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 9
+### Art. 9
 
 I locali costituenti gli alloggi devono essere utilizzati esclusivamente per l'uso al quale sono destinati e in essi non puo' in alcun caso essere consentito l'immagazzinamento, neppure temporaneo, di qualsiasi merce.
 
@@ -156,7 +154,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 10
+### Art. 10
 
 Gli alloggi per gli ufficiali devono essere decorosi e adeguati al grado. La cubatura delle cabine ad essi assegnate deve essere non inferiore a metri cubi 12, se la nave ha piu' di 1600 tonnellate di stazza lorda, e non inferiore a metri cubi 8, se la nave ha una stazza lorda minore.
 
@@ -174,7 +172,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 11
+### Art. 11
 
 Le norme di cui agli articoli 13, 14, 15, 16, 17, 18, 19, 20, 21, valgono anche per gli alloggi dei sottufficiali, che devono essere distinti da quelli della bassa forza e devono rispondere a buone norme igieniche ed a criteri di decoro.
 
@@ -194,7 +192,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## Dormitori.
 
-#### Art. 12
+### Art. 12
 
 I dormitori per il personale di bassa forza devono essere ripartiti per categoria, e, quando il numero delle persone imbarcate lo renda possibile, anche per turno di guardia.
 
@@ -208,7 +206,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 13
+### Art. 13
 
 I dormitori devono avere le seguenti dimensioni:
 
@@ -226,7 +224,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 14
+### Art. 14
 
 In ogni dormitorio deve sistemarsi per ciascuna persona, oltre la cuccetta, uno stipetto della capacita' di circa metri cubi 0,3 con gli sportelli muniti di fori e di farfalletta, una sedia o un solido sgabello pieghevole e un attaccapanni.
 
@@ -238,7 +236,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 15
+### Art. 15
 
 Ad ogni persona deve essere assegnata una cuccetta delle seguenti dimensioni:
 
@@ -254,7 +252,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 16
+### Art. 16
 
 Non e' consentito di raggruppare le cuccette oltre il numero di quattro sul piano orizzontale; ognuna di esse deve avere un lato libero e direttamente accessibile. E' fatto divieto altresi' di ubicarle in corrispondenza dell'apertura di maniche a vento.
 
@@ -266,7 +264,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 17
+### Art. 17
 
 Le cuccette devono essere distanti dalla murata o dalla paratia di almeno centimetri 5.
 
@@ -278,7 +276,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 18
+### Art. 18
 
 Ciascuna cuccetta deve essere di metallo e corredata di un materasso e di un guanciale ripieni di crine vegetale o di zostera marina, nonche' di due coperte di lana, di quattro lenzuoli e di due federe bianche per guanciale.
 
@@ -294,7 +292,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 19
+### Art. 19
 
 Fuori dei dormitori deve esservi un apposito spazio con adattamenti per appendervi cappotti impermeabili e per depositarvi berretti impermeabili e stivaloni di gomma.
 
@@ -306,7 +304,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 20
+### Art. 20
 
 Sulla porta di ciascun dormitorio, oltre che l'indicazione della categoria del personale al quale e' destinato, deve essere indicato il numero massimo delle persone che il dormitorio puo' contenere.
 
@@ -318,7 +316,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 21
+### Art. 21
 
 La cubatura, di cui agli articoli 10, 11 e 13, deve essere. calcolata al netto degli spazi occupati da boccaporti, scale, tunnel, maniche a vento, o da qualsiasi altro ingombro fisso.
 
@@ -336,7 +334,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## Refettori.
 
-#### Art. 22
+### Art. 22
 
 Per gli ufficiali e per i sottufficiali devono esistere appositi distinti locali a uso di mensa, convenientemente arredati.
 
@@ -364,11 +362,9 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-## TITOLO III. - LAVANDINI, DOCCE, BAGNI, LATRINE.
+## TITOLO III. - LAVANDINI, DOCCE, BAGNI, LATRINE. Lavandini.
 
-### Lavandini.
-
-#### Art. 23
+### Art. 23
 
 In prossimita' degli alloggi devono essere convenientemente installati lavandini nella seguente proporzione:
 
@@ -394,7 +390,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## Docce e bagni.
 
-#### Art. 24
+### Art. 24
 
 In adatti locali e in prossimita' dei lavandini, devono essere installate le docce per i comuni di coperta, di macchina e di camera, nelle seguenti proporzioni:
 
@@ -418,7 +414,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 25
+### Art. 25
 
 Per i sottufficiali devono essere sistemati impianti separati, compresa la doccia, nelle stesse proporzioni e con i requisiti di cui all'articolo precedente.
 
@@ -430,7 +426,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 26
+### Art. 26
 
 Al comandante, al direttore di macchina e al medico spetta rispettivamente un bagno con doccia, separato ed esclusivo.
 
@@ -454,7 +450,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## Latrine.
 
-#### Art. 27
+### Art. 27
 
 Le latrine devono essere ubicate in vicinanza degli alloggi e dei lavandini e fornite di sufficiente getto di acqua da assicurarsi mediante congegni solidi e pratici.
 
@@ -478,7 +474,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 28
+### Art. 28
 
 Quando tra l'equipaggio vi sia personale femminile, deve essergli assegnato un numero proporzionato di latrine separate.
 
@@ -492,7 +488,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 29
+### Art. 29
 
 Nell'anbito di ogni gruppo di latrine deve essere sistemato un orinatoio e un lavamano munito di distributore di sapone liquido, o in polvere, o in pasta.
 
@@ -504,7 +500,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 30
+### Art. 30
 
 I locali destinati alle docce e ai bagni, ai lavandini e alle latrine devono essere verniciati e pavimentati in maniera tale che ne sia facile il ripetuto lavaggio a grande acqua. A tale uopo devono esistere in essi ombrinali adeguati e in numero sufficiente.
 
@@ -520,11 +516,9 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-## TITOLO IV. - UFFICI E SEGRETERIE, CAMBUSE, CUCINE, PANIFICI.
+## TITOLO IV. - UFFICI E SEGRETERIE, CAMBUSE, CUCINE, PANIFICI. Uffici e segreterie.
 
-### Uffici e - segreterie.
-
-#### Art. 31
+### Art. 31
 
 Agli uffici e alle segreterie sono applicabili le disposizioni degli articoli 4, 5, 7, 8 nonche' quelle degli articoli 39, 40, 42, 43, 44 e 45.
 
@@ -538,7 +532,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## Cambusa.
 
-#### Art. 32
+### Art. 32
 
 La cambusa per la conservazione dei viveri e' obbligatoria a bordo di ogni nave destinata a traversate di oltre 24 ore.
 
@@ -558,7 +552,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 33
+### Art. 33
 
 Se la nave compia traversate di oltre otto giorni o sia adibita a traffici in zone a clima tropicale, dovra' esistere a bordo un impianto refrigerante adeguato al numero delle persone imbarcate e alla durata del viaggio.
 
@@ -572,7 +566,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## Cucine.
 
-#### Art. 34
+### Art. 34
 
 I locali delle cucine devono essere bene illuminati e aereati, sufficientemente spaziosi e situati, per quanto possibile, sui ponti superiori.
 
@@ -594,7 +588,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## Panificio.
 
-#### Art. 35
+### Art. 35
 
 Per le navi da carico che abbiano piu' di 30 persone di equipaggio e che siano destinate a traversate che durino piu' di quattro giorni, deve esistere a bordo un impianto speciale per la fabbricazione del pane. Tale impianto puo' essere sistemato anche nel locale della cucina.
 
@@ -608,11 +602,11 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## TITOLO V. - DISPOSIZIONI SPECIALI.
 
-#### Art. 36
+### Art. 36
 
 ((ARTICOLO ABROGATO DALLA L. 23 SETTEMBRE 2013, N. 113))
 
-#### Art. 37
+### Art. 37
 
 Sulle navi che trafficano in zone ove abbondano le zanzare devono esistere opportune installazioni per ostacolare la penetrazione di tali insetti nei locali dove vive l'equipaggio (reti ai finestrini, alle porte, ventilatori e altri mezzi idonei). Tali installazioni devono essere particolarmente efficienti nei porti ove esiste malaria, febbre gialla, dengue, filariosi.
 
@@ -626,7 +620,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 38
+### Art. 38
 
 Le navi mercantili devono essere costruite ed allestite in maniera da possedere tutti i requisiti atti a rendere quanto possibile la nave priva di ratti.
 
@@ -642,11 +636,9 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-## TITOLO VI. - AEREAZIONE, RISCALDAMENTO E CONDIZIONAMENTO DELL'ARIA,
+## TITOLO VI. - AEREAZIONE, RISCALDAMENTO E CONDIZIONAMENTO DELL'ARIA, ILLUMINAZIONE. Aerazione e ventilazione.
 
-### ILLUMINAZIONE. - Aerazione e ventilazione.
-
-#### Art. 39
+### Art. 39
 
 Per l'aereazione degli alloggi e dei locali di lavoro, a prescindere dalla ventilazione naturale mediante gli sportelli e le porte, e dai comuni agitatori d'aria, devono essere eseguite installazioni tali da consentire, anche con cattivo tempo, un rinnovamento completo dell'aria dell'ambiente almeno quattro volte all'ora.
 
@@ -666,7 +658,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 40
+### Art. 40
 
 Le installazioni dei condotti di aereazione devono essere effettuate in modo che, quelli destinati all'estrazione dell'aria, abbiano la loro apertura inferiore all'altezza del soffitto e quelli destinati all'immissione di aria pura, abbiano l'apertura situata a circa metri 0,40 dal pavimento e possibilmente situati su pareti opposte.
 
@@ -678,7 +670,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 41
+### Art. 41
 
 Per le navi a vapore adibite normalmente a viaggi in zone a clima tropicale, la ventilazione del locale delle macchine dovra' essere particolarmente curata adottando, se necessario, la ventilazione meccanica.
 
@@ -692,7 +684,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 42
+### Art. 42
 
 Qualora sulle navi siano installati negli alloggi dei passeggeri di tutte le classi impianti per distribuzione di aria condizionata, essi dovranno essere estesi a tutti gli alloggi dell'equipaggio.
 
@@ -706,7 +698,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## Riscaldamento e condizionamento dell'aria.
 
-#### Art. 43
+### Art. 43
 
 Sulle navi che devono oltrepassare il 36° parallelo di latitudine nord o sud, deve essere impiantato un sistema di riscaldamento completo ed efficace (con esclusione delle stufe a carbone ovvero ad altro combustibile) in tutti gli alloggi e in tutti gli altri locali destinati all'equipaggio.
 
@@ -722,7 +714,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 44
+### Art. 44
 
 Sulle navi che intraprendono viaggi toccando porti situati nel Mar Rosso, nel Golfo di Aden, nel Golfo Persico, nel Golfo di Guinea e Congo, nel Golfo di Bengala, nei mari della Sonda, nel Brasile settentrionale, e' obbligatoria una installazione di aria condizionata in almeno due locali destinati all'equipaggio e cioe', nell'ambulatorio o, dove esista, nella infermeria e in un locale di ristoro facilmente accessibile dal locale di macchina.
 
@@ -738,7 +730,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## Illuminazione.
 
-#### Art. 45
+### Art. 45
 
 Ogni locale destinato all'alloggio e al lavoro dell'equipaggio deve essere provvisto di luce sufficiente. Quando con tempo chiaro risulti insufficiente la luce naturale, dovra' ricorrersi all'illuminazione artificiale.
 
@@ -760,7 +752,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## TITOLO VII. - INFERMERIE E AMBULATORI.
 
-#### Art. 46
+### Art. 46
 
 Sulle navi che intraprendono traversate senza scalo di oltre 48 ore aventi a bordo piu' di 10 persone di equipaggio dovra' sistemarsi un locale di medicazione (ambulatorio), bene illuminato e ventilato, lavabile su ogni superficie, convenientemente arredato e fornito di impianto per acqua dolce calda e fredda, nonche' della dotazione di medicinali e del prescritto strumentario.
 
@@ -776,7 +768,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 47
+### Art. 47
 
 Sulle navi che intraprendano traversate senza scalo di durata superiore a 48 ore e aventi a bordo piu' di 20 persone di equipaggio deve essere preventivamente designata, tra quelle esistenti, una cabina atta a isolare un malato, provvista di almeno una cuccetta e un lavandino.
 
@@ -788,7 +780,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 48
+### Art. 48
 
 Sulle navi di cui al precedente articolo deve essere sistemata una stufa di disinfezione a vapore a pressione, di dimensioni tali da consentire l'introduzione di un materasso da cuccetta opportunamente piegato.
 
@@ -800,7 +792,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 49
+### Art. 49
 
 A bordo di ogni nave il personale di bassa forza deve essere messo in condizioni di poter lavare con mezzi idonei la propria biancheria.
 
@@ -812,7 +804,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 50
+### Art. 50
 
 Le navi di oltre tonn. 3000 di stazza lorda che intraprendono traversate di durata superiore a 5 giorni, devono avere una infermeria bene aereata e illuminata, situata sopra i ponti superiori e, in ogni caso, al disopra della linea di galleggiamento.
 
@@ -830,7 +822,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 51
+### Art. 51
 
 Nell'infermeria devono essere installate due cuccette (o letti) qualunque sia il numero delle persone imbarcate fino a un massimo di venticinque: al di sopra di tale numero deve calcolarsi una cuccetta per ogni 50 persone o frazione di 50 in piu'.
 
@@ -848,7 +840,7 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 52
+### Art. 52
 
 Il locale destinato a infermeria deve disporre di un armadio metallico, di un lavandino con acqua dolce calda e fredda, di un tavolo abbattibile lungo la parete e di una sedia.
 
@@ -860,7 +852,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 53
+### Art. 53
 
 All'infermeria devono essere annessi, in locali del tutto separati ma contigui, un bagno, una latrina provvista di orinatoio e lavandino, per uso esclusivo dei ricoverati.
 
@@ -872,7 +864,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 54
+### Art. 54
 
 Fermo il disposto dell'art. 43 per il riscaldamento degli alloggi, il locale destinato a infermeria deve disporre di mezzi autonomi di riscaldamento, rispondenti ai requisiti igienici, atti ad assicurare una temperatura costante, non inferiore ai 18° C. con zero gradi all'esterno.
 
@@ -884,7 +876,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 55
+### Art. 55
 
 Oltre la comune illuminazione, compresa quella sussidiaria azzurra, deve esistere nell'infermeria una lampada elettrica portatile.
 
@@ -898,7 +890,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## TITOLO VIII. - ACQUA.
 
-#### Art. 56
+### Art. 56
 
 Il quantitativo minimo giornaliero di acqua dolce per i vari usi, escluso il bucato, non deve essere, nei climi temperati, inferiore a litri 15 pro capite pel personale di coperta e di camera e a litri 20 per quello di macchina.
 
@@ -914,7 +906,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 57
+### Art. 57
 
 Fermo il disposto dell'articolo precedente, e' consentito l'uso di acqua salata, fredda e calda, nei bagni e nelle doccie, a condizione che l'acqua di mare sia attinta fuori dei porti e sia condotta a bordo con le precauzioni necessarie e con l'osservanza delle norme igieniche.
 
@@ -926,7 +918,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 58
+### Art. 58
 
 L'approvvigionamento idrico deve essere effettuato; per quanto concerne la provvista di acqua dolce, secondo le disposizioni stabilite nei vigenti regolamenti di sanita'.
 
@@ -952,7 +944,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 59
+### Art. 59
 
 Le casse di deposito, da destinarsi esclusivamente per l'acqua dolce, ad eccezione dei gavoni e dei doppi fondi devono essere di metallo, cementate a pennello, munite di passo d'uomo situato su una delle pareti laterali, con portello a chiusura ermetica e con tubi d'aria conformati in modo che non permettano l'introduzione di corpi estranei. La capacita' totale delle casse di deposito deve essere tale da contenere, oltre la quantita' d'acqua prevista nell'art. 56 per ogni persona dell'equipaggio, anche un supplemento di riserva pari alla meta' del fabbisogno complessivo stabilito nell'articolo stesso e cio' indipendentemente dai quantitativi di acqua fissati per i passeggeri.
 
@@ -964,7 +956,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 60
+### Art. 60
 
 Le casse di deposito devono essere munite di adatti tubi di scarico situati in posizione tale da consentire l'esaurimento completo dell'acqua.
 
@@ -976,7 +968,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 61
+### Art. 61
 
 Tali casse, tra loro indipendenti, devono essere munite di tubi di livello che permettano di controllare la quantita' di acqua esistente, senza dar luogo a immissione di strumenti dall'esterno.
 
@@ -994,7 +986,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 62
+### Art. 62
 
 Qualora venga distribuita ai passeggeri di tutte le classi acqua refrigerata, questa deve del pari essere distribuita alle persone dell'equipaggio.
 
@@ -1012,7 +1004,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 63
+### Art. 63
 
 Le navi che abbiano a bordo piu' di 30 persone tra equipaggio e passeggeri e che compiano traversate di oltre 10 giorni, devono essere munite di un apparecchio per distillare l'acqua del mare, tale da garantire ad ogni persona imbarcata una quantita' di acqua dolce potabile non inferiore a 5 litri al giorno.
 
@@ -1026,7 +1018,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## TITOLO IX. - DISPOSIZIONI VARIE.
 
-#### Art. 64
+### Art. 64
 
 A bordo di ogni nave e sopra un ponte aperto, devono essere riservati uno o piu' spazi liberi, per la ricreazione delle persone dell'equipaggio franche dal servizio. Tale spazio libero deve essere calcolato computando come minimo un metro quadrato per ciascun componente dell'equipaggio sulle navi da carico e mezzo metro quadrato sulle navi da passeggeri.
 
@@ -1040,7 +1032,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 65
+### Art. 65
 
 Gli spazi di cui al precedente articolo devono essere provvisti di adatti ombrinali e di tubi di scolo delle acque. A tali tubi devono essere applicati adatti dispositivi per impedire il riflusso a bordo dei materiali di rifiuto in via di essere scaricati nel mare.
 
@@ -1052,7 +1044,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 66
+### Art. 66
 
 Durante le soste per operazioni di commercio in porti del Mar Rosso, del Golfo Persico, del Golfo di Aden o di zone aventi clima analogo, le navi devono avere l'installazione della doppia tenda sul ponte di coperta, in corrispondenza degli alloggi dell'equipaggio, dei posti di ricreazione e dei posti fissi di lavoro situati immediatamente sotto coperta, e che non siano protetti da soprastrutture.
 
@@ -1066,7 +1058,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 67
+### Art. 67
 
 Le navi di cui all'articolo precedente devono essere provviste di cortine di tela da mettere fuori bordo, in corrispondenza degli alloggi, mediante adatti mezzi di sospensione (puntali, sagole, ecc.) in modo da assicurare una efficace protezione del fianco della nave esposto ai raggi solari.
 
@@ -1080,7 +1072,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 68
+### Art. 68
 
 I locali, comunque destinati all'equipaggio devono essere tenuti in perfette condizioni di pulizia e convenientemente pitturati; i dormitori scrupolosamente disinfettati e le latrine costantemente disinfettate.
 
@@ -1102,7 +1094,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## TITOLO X. - ALIMENTAZIONE.
 
-#### Art. 69
+### Art. 69
 
 Le tabelle viveri allegate ai contratti collettivi di lavoro, quando si tratti di navi destinate a traffici in zone tropicali od in climi freddi, devono essere formate con l'osservanza delle disposizioni di cui ai seguenti articoli.
 
@@ -1114,7 +1106,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 70
+### Art. 70
 
 Per i climi tropicali, deve sostituirsi una o due volte la settimana, la razione di carne con una di uova equivalente in potere alimentare e calorifico; il pesce conservato (secco o in scatola) deve sostituirsi con pesce fresco ogni qualvolta sia possibile al bordo di procurarlo.
 
@@ -1128,7 +1120,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 71
+### Art. 71
 
 La nave deve essere provvista della quantita' di limoni occorrente per la distribuzione giornaliera all'equipaggio nonche' della quantita' di caffe' o di te' e di zucchero occorrente per la confezione della bibita da distribuire al personale di guardia in macchina e caldaie (15 grammi di polvere di caffe' o 10 grammi di te' e non meno di 25 grammi di zucchero pro capite) in sostituzione del rhum il cui uso predispone al colpo di calore.
 
@@ -1142,7 +1134,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 72
+### Art. 72
 
 Per i climi glaciali o particolarmente freddi, si deve:
 
@@ -1162,7 +1154,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## TITOLO XI. - VESTIARIO.
 
-#### Art. 73
+### Art. 73
 
 Nei climi tropicali, per la profilassi del colpo di sole, e' obbligatorio l'uso continuo dell'elmo di sughero.
 
@@ -1178,7 +1170,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 74
+### Art. 74
 
 Nei suddetti climi, durante le ore piu' calde del giorno, le persone dell'equipaggio devono indossare vestiti leggeri, di colore bianco o chiaro, per evitare l'assorbimento dei raggi solari, e dopo il tramonto devono indossare abiti piu' pesanti per prevenire il raffreddamento del corpo.
 
@@ -1192,7 +1184,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 75
+### Art. 75
 
 Il personale di servizio in coperta o a terra deve usare gli occhiali affumicati, infrangibili, non refrangenti, di colore bruno scuro, non celeste, per proteggere gli occhi dall'azione termica e chimica solare.
 
@@ -1204,7 +1196,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 76
+### Art. 76
 
 Nei climi glaciali o particolarmente freddi, e' obbligatorio l'uso di abiti di lana pesante e della fascia di lana addominale: il personale di guardia sul ponte, oltre gli stivali, deve portare il cappotto di pelliccia.
 
@@ -1222,7 +1214,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## TITOLO XII. - NORME PER L'APPLICAZIONE DELLA PRESENTE LEGGE.
 
-#### Art. 77
+### Art. 77
 
 Ai fini dall'applicazione della presente legge alle navi di nuova costruzione, valgono le norme seguenti:
 
@@ -1244,7 +1236,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 78
+### Art. 78
 
 Per le navi di cui al 2° comma dell'art. 1°, le Commissioni locali di cui all'art. 82, in base a disposizione dell'Autorita' marittima, formuleranno proposte di modifiche e aggiunte alle sistemazioni e dotazioni esistenti per rendere le navi rispondenti alle condizioni igienico-sanitarie risultanti dalla presente legge.
 
@@ -1264,7 +1256,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 79
+### Art. 79
 
 All'atto del compimento dei lavori prescritti a termine dell'articolo 78, e dopo constatato dalla Commissione locale che sono stati eseguiti in conformita' di quanto stabilito a mente dell'articolo stesso, sara' rilasciato alla nave un certificato dal quale risulti che la nave stessa e' stata posta in regola con le norme della presente legge.
 
@@ -1278,7 +1270,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 80
+### Art. 80
 
 Presso il Ministero delle comunicazioni - Sottosegretariato per la marina mercantile - e' costituita una Commissione centrale per l'igiene degli equipaggi, composta:
 
@@ -1310,7 +1302,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 81
+### Art. 81
 
 La Commissione centrale, di cui all'articolo precedente, oltre ai compiti di cui agli articoli 77 e 78, dovra' anche esprimere parere su tutte le questioni, che, per l'applicazione delle norme contenute nella presente legge, le fossero sottoposte dal Ministero delle comunicazioni.
 
@@ -1322,7 +1314,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 82
+### Art. 82
 
 Nei porti di Genova, Livorno, Napoli, Cagliari, Palermo, Messina, Catania, Bari, Ancona, Venezia, Trieste, Fiume sono istituite « Commissioni locali per l'igiene degli equipaggi » composte dal Comandante del porto o da un ufficiale superiore da lui designato, che la presiede, dal medico di porto, da un ingegnere o perito del Registro italiano navale, da un rappresentante della Federazione nazionale fascista degli armatori e degli ausiliari dell'armamento e da un rappresentante della Federazione nazionale fascista della gente del mare.
 
@@ -1342,7 +1334,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 31, comma 8) che "La Co
 
 Ha inoltre disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 83
+### Art. 83
 
 Spetta alle Commissioni locali di cui all'articolo precedente:
 
@@ -1360,7 +1352,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 84
+### Art. 84
 
 Le visite di cui al precedente articolo sono periodiche od occasionali.
 
@@ -1380,7 +1372,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 85
+### Art. 85
 
 L'Autorita' marittima, di propria iniziativa, o su richiesta della Federazione nazionale fascista della gente del mare o dei lavoratori della pesca, o di persone dell'equipaggio in numero non minore di un terzo, puo' disporre che le Commissioni locali procedano al controllo delle provviste di bordo destinate all'equipaggio, sia per la loro qualita', sia per la loro quantita' in relazione al viaggio da compiere.
 
@@ -1396,7 +1388,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 86
+### Art. 86
 
 Dei controlli eseguiti e delle prescrizioni fatte, sia al proprietario della nave che al Comando di bordo aventi relazione con le disposizioni della presente legge, sara' fatta menzione su di un apposito registro, la cui istituzione e' obbligatoria a bordo di tutte le navi nazionali di qualunque tipo e stazza entro 60 giorni dalla entrata in vigore della presente legge. Spetta al Ministro delle comunicazioni approvare il modello di tale registro.
 
@@ -1408,7 +1400,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 87
+### Art. 87
 
 Le disposizioni di cui agli articoli 8, 37, 48, 64, 66, 67, 70, 71, 72, 73, 74, 75, 76 e 88 sono obbligatorie per le navi facenti parti del naviglio mercantile nazionale alla data dell'entrata in vigore della presente legge, ma a partire dal novantesimo giorno dalla data stessa.
 
@@ -1424,7 +1416,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 88
+### Art. 88
 
 I medicinali, gli oggetti di medicatura e gli utensili vari di cui debbono essere provviste le navi mercantili da traffico, da pesca e da diporto, sono quelli indicati nelle tabelle A, B e C annesse alla presente legge.
 
@@ -1440,7 +1432,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## TITOLO XIII. - SANZIONI.
 
-#### Art. 89
+### Art. 89
 
 E' in facolta' dell'Autorita' marittima di non concedere le spedizioni alle navi le cui condizioni d'igiene per l'equipaggio non siano conformi alle norme della presente legge.
 
@@ -1452,7 +1444,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l'entrata in vigore del regolamento di cui al comma 1, la legge 16 giugno 1939, n.1045 e' abrogata".
 
-#### Art. 90
+### Art. 90
 
 In caso di inosservanza delle disposizioni di cui alla presente legge il colpevole e' punito con l'ammenda non inferiore a lire cinquecento ne' superiore a lire diecimila, salvo che il fatto costituisca reato piu' grave.
 
@@ -1476,7 +1468,7 @@ Il D.Lgs. 27 luglio 1999, n. 271 ha disposto (con l'art. 34, comma 2) che "Con l
 
 ## TITOLO XIII. - SANZIONI.
 
-#### Tabelle
+### Tabelle
 
 TABELLA A
 

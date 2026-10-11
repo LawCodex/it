@@ -30,25 +30,25 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione del Consiglio d'Europa su un approccio integrato in materia di sicurezza fisica, sicurezza pubblica e assistenza alle partite di calcio ed altri eventi sportivi, fatta a Saint-Denis il 3 luglio 2016.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data alla Convenzione di cui all'articolo 1 della presente legge, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 17 della medesima Convenzione.
 
-### Art. 3
+## Art. 3
 
 Punto d'informazione nazionale per il calcio
 
 1\. Il Punto d'informazione nazionale per il calcio, ai sensi dell'articolo 11 della Convenzione di cui all'articolo 1 della presente legge, e' individuato presso il Ministero dell'interno - Dipartimento della pubblica sicurezza.
 
-### Art. 4
+## Art. 4
 
 Copertura finanziaria
 
@@ -56,7 +56,7 @@ Copertura finanziaria
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 5
+## Art. 5
 
 Entrata in vigore
 
@@ -76,7 +76,7 @@ Visto, il Guardasigilli: Bonafede
 
 ## Allegati
 
-### Allegato
+## Allegato
 
 Allegato
 
@@ -128,13 +128,13 @@ Tenendo conto che l'ampia esperienza e le buone prassi europee hanno portato all
 
 Hanno convenuto quanto segue
 
-### ARTICOLO 1 -- Ambito di applicazione
+## ARTICOLO 1 -- Ambito di applicazione
 
 1\. Le Parti, nei limiti delle rispettive disposizioni costituzionali, adottano le misure necessarie per applicare le disposizioni della presente Convenzione con riguardo alle partite o ai tornei di calcio disputati nel loro territorio da squadre professionali e da squadre nazionali.
 
 2\. Le Parti possono applicare le disposizioni della presente Convenzione ad altri sport o eventi sportivi nel loro territorio, tra cui partite di calcio non professionali, in particolare in circostanze in cui sono insiti rischi di sicurezza fisica o sicurezza pubblica.
 
-### ARTICOLO 2 -- Scopo
+## ARTICOLO 2 -- Scopo
 
 Lo scopo della presente Convenzione e' fornire un ambiente sicuro e accogliente per partite di calcio ed altri eventi sportivi. A questo scopo, le Parti:
 
@@ -144,7 +144,7 @@ b. garantiscono che tutti gli enti pubblici e private, e le parti interessate, r
 
 c. tengono conto delle buone prassi nello sviluppare un approccio integrato con riguardo a sicurezza fisica, sicurezza pubblica e assistenza.
 
-### ARTICOLO 3 -- Definizioni
+## ARTICOLO 3 -- Definizioni
 
 Per gli scopi della presente Convenzione, i termini:
 
@@ -166,7 +166,7 @@ h. "buone prassi" indica misure applicate in uno o piu' Paesi che si sono dimost
 
 i. "ente pertinente" indica ogni organo (pubblico o privato) coinvolta nell'organizzazione e/o nella gestione di una partita di calcio o di un altro evento sportivo tenuto dentro o fuori uno stadio sportivo.
 
-### art. 4
+## art. 4
 
 ARTICOLO 4 -- Meccanismi per il coordinamento nazionale
 
@@ -180,7 +180,7 @@ ARTICOLO 4 -- Meccanismi per il coordinamento nazionale
 
 5\. Le Parti assicurano che il quadro legale, regolamentare o amministrativo nazionale chiarifichi i rispettivi ruoli e le rispettive responsabilita' degli enti pertinenti e che questi ruoli siano complementari, coerenti con un approccio integrato e ampiamente comprese a livello strategico e operativo.
 
-### art. 5
+## art. 5
 
 ARTICOLO 5 -- Sicurezza fisica, sicurezza pubblica e assistenza negli stadi sportivi
 
@@ -204,7 +204,7 @@ ARTICOLO 5 -- Sicurezza fisica, sicurezza pubblica e assistenza negli stadi spor
 
 7\. Le Parti incoraggiano gli enti pertinenti ad evidenziare il bisogno per giocatori, allenatori o altri rappresentanti delle squadre partecipanti ad agire in accordo con i principi fondamentali dello sport, come la tolleranza, il rispetto ed il fair play, e a riconoscere che agire in una maniera violenta, razzista o provocatoria puo' avere un impatto negativo su sul comportamento degli spettatori.
 
-### art. 6
+## art. 6
 
 ARTICOLO 6 -- sicurezza fisica, sicurezza pubblica e assistenza nei luoghi pubblici
 
@@ -216,13 +216,13 @@ b. creare per i tifosi un ambiente sicuro e accogliente nelle aree pubbliche pre
 
 2\. Le Parti assicurano che la valutazione del rischio e le misure di sicurezza fisica e sicurezza pubblica tengano conto del viaggio per e dallo stadio.
 
-### art. 7
+## art. 7
 
 ARTICOLO 7 -- Piani alternativi e emergenza
 
 Le Parti assicurano che siano sviluppati piani pluri-istituzionali alternativi e di emergenza, e che questi piani siano testati e perfezionati in regolari esercitazioni congiunte. Il quadro legale, regolamentare ed amministrativo nazionale chiarisce quale ente e' responsabile per avviare, supervisionare e ceritificare le esercitazioni.
 
-### art. 8
+## art. 8
 
 ARTICOLO 8 -- Impegno con tifosi e comunita' locali
 
@@ -230,7 +230,7 @@ ARTICOLO 8 -- Impegno con tifosi e comunita' locali
 
 2\. Le Parti incoraggiano tutti gli enti pubblici e private e le altre parti interessate, tra cui le comunita' locali e rappresentanti dei tifosi, ad avviare e partecipare a comuni progetti pluri-istituzionali sociali, educativi, di prevenzione del crimine o altro tipo destinati a favorire il rispetto e la comprensione reciproca, in particolare tra tifosi, club sportivi ed associazioni cosi' come enti responsabili per sicurezza fisica e sicurezza pubblica.
 
-### art. 9
+## art. 9
 
 ARTICOLO 9 -- Strategie e operazioni di polizia
 
@@ -240,7 +240,7 @@ ARTICOLO 9 -- Strategie e operazioni di polizia
 
 3\. La Parti assicurano che la polizia lavori in collaborazione con organizzatori, tifosi, comuita' locali e altre parti interessate nel rendere le partite di calcio e gli altri eventi sportivi sicuri ed accoglienti per tutti gli interessati.
 
-### art. 10
+## art. 10
 
 ARTICOLO 10 -- Prevenzione e sanzione dei comportamenti illeciti
 
@@ -252,7 +252,7 @@ ARTICOLO 10 -- Prevenzione e sanzione dei comportamenti illeciti
 
 4\. Ove opportuno, ed in conformita' con il diritto nazionale ed internazionale, le Parti valutano di dotare le autorita' giudiziarie o amministrative responsabili di imporre sanzioni a individui che hanno causato o contributito a episodi di violenza e/o disordini legati al calcio, della possibilita' di imporre restrizioni al viaggio verso eventi calcistici tenuti in un altro Paese.
 
-### art. 11
+## art. 11
 
 ARTICOLO 11 -- Cooperazione internazionale
 
@@ -276,13 +276,13 @@ d. deve essere in grado di svolgere efficacemente e prontamente le funzioni cui 
 
 ## CLAUSOLE PROCEDURALI
 
-### art. 12
+## art. 12
 
 ARTICOLO 12 -- Comunicazione di informazioni
 
 Ogni Parte inoltra al Comitato sulla Sicurezza Fisica e Sicurezza Pubblica per gli Eventi Sportivi, in una delle lingue ufficiali del Consiglio d'europa, tutte le informazioni pertinenti in merito alle misure legislative o di altro tipo intraprese con lo scopo di osservare i termini della presente Convenzione, in merito al calcio o ad altri sport.
 
-### art. 13
+## art. 13
 
 ARTICOLO 13 -- Comitato sulla Sicurezza Fisica e Sicurezza Pubblica per gli Eventi Sportivi
 
@@ -304,7 +304,7 @@ Esso si riunisce almeno ogni anno dopo la sua prima riunione. Inoltre si riunisc
 
 7\. Facendo riserva delle disposizioni della presente Convenzione, il comitato redige e adotta per consenso il proprio regolamento procedurale.
 
-### art. 14
+## art. 14
 
 ARTICOLO 14 -- Funzioni del Comitato sulla Sicurezza Fisica e Sicurezza Pubblica per gli Eventi Sportivi
 
@@ -330,7 +330,7 @@ g. facilitare la raccolta, l'analisi e lo scambio di informazioni, esperienze e 
 
 4\. allo scopo di assolvere alle proprie funzioni, il comitato puo', di propria iniziativa, organizzare riunioni di gruppi di esperti.
 
-### ARTICOLO 15 -- Emendamenti
+## ARTICOLO 15 -- Emendamenti
 
 1\. Emendamenti alla presente Convenzione possono essere proposti da una Parte, dal Comitato sulla Sicurezza Fisica e Sicurezza Pubblica per gli Eventi Sportivi o dal Comitato dei Ministri del Consiglio d'Europa.
 
@@ -346,7 +346,7 @@ g. facilitare la raccolta, l'analisi e lo scambio di informazioni, esperienze e 
 
 ## CALUSOLE FINALI
 
-### ARTICOLO 16 -- Firma
+## ARTICOLO 16 -- Firma
 
 1\. La presente Convenzione e' aperta alla firma degli Stati membri del Consiglio d'Europa, degli Stati Parte della Convenzione Culturale Europea e di qualsiasi Stato non membro del Consiglio d'Europa che abbia aderito alla Convenzione europea sulla violenza e i disordini degli spettatori durante le manifestazioni sportive, segnatamente nelle partite di calcio (ETS No. 120), aperta alla firma a Strasburgo il 19 agosto 1985, prima della data di apertura alla firma della Presente Convenzione.
 
@@ -356,13 +356,13 @@ g. facilitare la raccolta, l'analisi e lo scambio di informazioni, esperienze e 
 
 4\. Nel momento in cui deposita il proprio strumento di ratifica, accettazione o approvazione in conformita' con il paragrafo precedente, uno Stato Contraente puo' dichiarare che continuera' ad applicare la Convenzione No. 120 fino all'entrata in vigore della presente Convenzione in base alle disposizioni dell'Articolo 17.1.
 
-### ARTICOLO 17 -- Entrata in vigore
+## ARTICOLO 17 -- Entrata in vigore
 
 1\. La convenzione entra in vigore il primo giorno del mese successivo al termine di un periodo di un mese a partire dalla data in cui tre Stati membri del Consiglio d'Europa hanno espresso il proprio consenso ad essere vincolati alla Convenzione in conformita' con le disposizioni dell'Articolo 16.
 
 2\. Con riferimento a qualsiasi Stato firmatario che successivamente esprime il proprio consenso ad esserne vincolato, la Convenzione entra in vigore il primo giorno del mese successivo al termine di un periodo di un mese a partire dalla data di deposito dello strumento di ratifica, accettazione o approvazione.
 
-### art. 18
+## art. 18
 
 ARTICOLO 18 -- Accesso da Stati non membri
 
@@ -372,7 +372,7 @@ ARTICOLO 18 -- Accesso da Stati non membri
 
 3\. Una Parte che non e' membro del Consiglio d'Europa contribuisce al finanziamento del Comitato sulla Sicurezza Fisica e Sicurezza Pubblica per gli Eventi Sportivi secondo le modalita' stabilite dal Comitato dei Ministri.
 
-### art. 19
+## art. 19
 
 ARTICOLO 19 -- Effetti della Convenzione
 
@@ -380,7 +380,7 @@ ARTICOLO 19 -- Effetti della Convenzione
 
 2\. Dopo l'entrata in vigore della presente Convenzione, se uno Stato ha denunciato la Convenzione No. 120 ma tale denuncia non e' ancora efficace al momento della ratifica della presente Convenzione, la presente Convenzione si applica in conformita' con le disposizioni dell'Articolo 17.2.
 
-### art. 20
+## art. 20
 
 ARTICOLO 20 -- Applicazione territoriale
 
@@ -390,13 +390,13 @@ ARTICOLO 20 -- Applicazione territoriale
 
 3\. Qualsiasi dichiarazione resa secondo i due precedent paragrafi puo', con riguardo a qualsiasi territorio menzionato nella dichiarazione, essere ritirata con una notifica indirizzata al Segretario Generale. Tale ritiro diventa effettivo il primo giorno del mese successivo al termine di un periodo di sei mesi dalla data di ricezione della notifica da parte dei Segretario Generale.
 
-### ARTICOLO 21 -- Denuncia
+## ARTICOLO 21 -- Denuncia
 
 1\. Qualsiasi Parte puo', in qualisiasi momento, denunciare la presente Dichiarazione tramite una notifica indirizzata al Segretario Generale del Consiglio d'Europa.
 
 2\. Tale denuncia diventa efficace il primo giorno del mese successive al termine di un periodo di sei mesi dalla data di ricezione della notifica da parte del Segretario Generale.
 
-### ARTICOLO 22 -- Notifiche
+## ARTICOLO 22 -- Notifiche
 
 Il Segretario Generale del Consiglio d'Europa notifica agli Stati membri del Consiglio d'Europa, agli altri Stati Parte della Convenzione Culturale Europea e a qualsiasi altro Stato che ha aderito alla presente dichiarazione:
 

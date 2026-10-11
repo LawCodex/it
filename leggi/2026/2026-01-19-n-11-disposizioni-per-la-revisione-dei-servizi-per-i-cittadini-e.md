@@ -27,11 +27,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Disposizioni in materia di cittadinanza, di anagrafe e di legalizzazione di firme
 
-### Disposizioni in materia di cittadinanza, di anagrafe e di - legalizzazione di firme
-
-#### Art. 1
+### Art. 1
 
 Disposizioni in materia di procedimenti di riconoscimento della cittadinanza per i residenti all'estero nonche' di dotazione organica e proventi del Ministero degli affari esteri e della cooperazione internazionale
 
@@ -99,7 +97,7 @@ d) la spesa di 4 milioni di euro annui per ciascuno degli anni 2026 e 2027 per g
 
 > \- Il decreto legislativo 3 febbraio 2011, n. 71, recante: «Ordinamento e funzioni degli uffici consolari, ai sensi dell'articolo 14, comma 18, della legge 28 novembre 2005, n. 246» e' pubblicato nella Gazzetta Ufficiale n. 110 del 13 maggio 2011.
 
-#### Art. 2
+### Art. 2
 
 Disposizioni in materia di legalizzazione di firme di atti
 
@@ -121,7 +119,7 @@ formati da autorita' estere e da valere nello Stato
 
 > 5\. Sono fatte salve le esenzioni dall'obbligo della legalizzazione e della traduzione stabilite da leggi o da accordi internazionali.».
 
-#### Art. 3
+### Art. 3
 
 Disposizioni in materia di anagrafe degli italiani
 
@@ -367,11 +365,9 @@ b) all'articolo 6, comma 1, le parole: «del Ministero dell'interno e» sono sop
 
 > 2\. (Abrogato).».
 
-## Capo II
+## Capo II - Disposizioni in materia di passaporti e di validita' della carta d'identita' ai fini dell'espatrio
 
-### Disposizioni in materia di passaporti e di validita' della carta - d'identita' ai fini dell'espatrio
-
-#### Art. 4
+### Art. 4
 
 Adeguamento della disciplina in materia di passaporti
 
@@ -545,7 +541,7 @@ o) l'articolo 25 e' abrogato.
 
 > 6\. Dall'attuazione dell'articolo 7-vicies ter e del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.».
 
-#### Art. 5
+### Art. 5
 
 Disposizioni in materia di carta d'identita' valida per l'espatrio
 
@@ -575,11 +571,9 @@ Disposizioni in materia di carta d'identita' valida per l'espatrio
 
 > «Art. 22 (Carte d'identita'). - 1. Il capo dell'ufficio consolare rilascia le carte d'identita' ai cittadini residenti nella circoscrizione consolare e iscritti all'AIRE. Resta ferma per i cittadini di cui al primo periodo la facolta' di presentare domanda di rilascio della carta d'identita' elettronica presso qualsiasi comune, secondo le modalita' organizzative e tecniche stabilite dai Ministeri dell'interno e degli affari esteri e della cooperazione internazionale.».
 
-## Capo III
+## Capo III - Disposizioni organizzative, finali e finanziarie
 
-### Disposizioni organizzative, finali e finanziarie
-
-#### Art. 6
+### Art. 6
 
 Disposizioni organizzative
 
@@ -689,7 +683,7 @@ f) alla tabella 19 e' aggiunto, in fine, il seguente capoverso: «Nell'ambito de
 
 > Nell'ambito dei posti di funzione individuati dai quadri C e D, il personale non dirigenziale appartenente all'area delle elevate professionalita' puo' essere destinato a posti di commissario amministrativo, consolare e sociale o commissario economico-finanziario e commerciale o commissario tecnico informatico e telecomunicazioni ovvero, se inquadrato nell'area della promozione culturale, a posti di direttore di istituto italiano di cultura di livello non dirigenziale.».
 
-#### Art. 7
+### Art. 7
 
 Disposizioni finanziarie
 

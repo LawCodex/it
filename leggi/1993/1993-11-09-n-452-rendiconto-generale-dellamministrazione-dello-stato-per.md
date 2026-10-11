@@ -27,7 +27,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1 - Rendiconti
+## Art. 1 - Rendiconti
 
 1\. Il rendiconto generale delle Amministrazioni dello Stato e i rendiconti delle Aziende autonome per l'esercizio 1992 sono approvati nelle risultanze di cui ai seguenti articoli.
 
@@ -37,7 +37,7 @@ la seguente legge:
 
 ## AMMINISTRAZIONI DELLO STATO
 
-### Art. 2 - Entrate
+## Art. 2 - Entrate
 
 1.Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossione di crediti, e per accensione di prestiti, accertate nell'esercizio finanziario 1992 per la competenza propria dell'esercizio, risultano stabilite in lire 716.252.135.452.404.
 
@@ -75,7 +75,7 @@ dell'esercizio 1991
  ---------------------------------------
 ```
 
-### Art. 3 - Spese
+## Art. 3 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti, impegnate nell'esercizio finanziario 1992 per la competenza propria dell'esercizio, risultano stabilite in lire 738.461.099.958.382.
 
@@ -105,7 +105,7 @@ dell'esercizio 1991
  =====================
 ```
 
-### Art. 4 - Disavanzo della gestione di competenza
+## Art. 4 - Disavanzo della gestione di competenza
 
 1\. Il disavanzo della gestione di competenza dell'esercizio finanziario 1992, di lire 22.208.964.505.978, risulta stabilito come segue:
 
@@ -121,7 +121,7 @@ riscossione di crediti ................... " 1.656.330.304.202 Accensione di pre
  ----------------------- Disavanzo della gestione di competenza ... L. 22.208.964.505.978 =======================
 ```
 
-### Art. 5 - Situazione finanziaria
+## Art. 5 - Situazione finanziaria
 
 1\. Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1992, di lire 609.869.305.967.126, risulta stabilito come segue:
 
@@ -179,7 +179,7 @@ al 31 dicembre 1992 ....
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 6 - Approvazione degli allegati
+## Art. 6 - Approvazione degli allegati
 
 1.Sono approvati gli allegati n. 1 e n. 2, di cui rispettivamente all'articolo 9, ultimo comma, e all'articolo 12, ultimo comma, della legge 5 agosto 1978, n. 468.
 
@@ -189,7 +189,7 @@ al 31 dicembre 1992 ....
 
 > \- Per il testo dell'intero art. 12 della predetta legge n.468/1978 si veda in nota all'allegato 2.
 
-### Art. 7 - Eccedenze
+## Art. 7 - Eccedenze
 
 1\. Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, relative ai capitoli degli stati di previsione della spesa dei Ministeri sotto indicati per
 
@@ -1070,7 +1070,7 @@ n. 13 - - 33.482.840.563
 
 > 2\. Tale fondo, da gestire in sede di contrattazione decentrata, a norma degli articoli 11 e 14 della legge- quadro sul pubblico impiego 29 marzo 1983, n. 93, sulla base di criteri stabiliti nell'accordo di comparto, dovra' concorrere a finanziare gli oneri derivanti da processi di mobilita' e turnazione, nonche' riconoscimenti retributivi conseguenti alla realizzazione di progetti speciali di produttivita' e a incrementi di efficienza".
 
-### Art. 8 - Conservazione fondi
+## Art. 8 - Conservazione fondi
 
 1\. Le somme assegnate nell'esercizio finanziario 1992 al Ministero dell'ambiente per le attivita' di educazione e di informazione ambientale di cui all'articolo 4 e per le attivita' di cui agli articoli 18, 34 e 35 della legge 6 dicembre 1991, n. 394, non utilizzate alla chiusura di tale esercizio, sono conservate nel conto dei residui per essere utilizzate nel 1993.
 
@@ -1162,7 +1162,7 @@ n. 13 - - 33.482.840.563
 
 ## AZIENDE SPECIALI ED AUTONOME GESTIONE DELL'EX AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 9 - Entrate
+## Art. 9 - Entrate
 
 1\. Le entrate correnti ed in conto capitale del bilancio della gestione dell'ex Azienda di Stato per le foreste demaniali, accertate nell'esercizio finanziario 1992 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo della gestione stessa, allegato al conto consuntivo del Ministero dell'agricoltura e delle foreste, in lire 58.996.585.709.
 
@@ -1192,7 +1192,7 @@ dell'esercizio
  =======================================
 ```
 
-### Art. 10 - Spese
+## Art. 10 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio della gestione predetta, impegnate nell'esercizio finanziario 1992 per la competenza propria dell'esercizio, risultano stabilite in lire 56.771.091.560.
 
@@ -1218,7 +1218,7 @@ dell'esercizio
  =====================
 ```
 
-### Art. 11 - Situazione finanziaria
+## Art. 11 - Situazione finanziaria
 
 1\. La situazione finanziaria della gestione dell'ex Azienda di Stato per le foreste demaniali alla fine dell'esercizio 1992 risulta come appresso:
 
@@ -1276,7 +1276,7 @@ Saldo attivo effettivo dell'esercizio 1991 ....... " 28.868.942.985
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 12 - Entrate
+## Art. 12 - Entrate
 
 1\. Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 1992 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in lire 6.447.363.950.
 
@@ -1304,7 +1304,7 @@ dell'esercizio
  =================
 ```
 
-### Art. 13 - Spese
+## Art. 13 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Istituto predetto, impegnate nell'esercizio finanziario 1992 per la competenza propria dell'esercizio, risultano stabilite in lire 6.447.363.950.
 
@@ -1332,7 +1332,7 @@ dell'esercizio
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 14 - Entrate
+## Art. 14 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei monopoli di Stato, comprese quelle delle gestioni speciali ed autonome, accertate nell'esercizio finanziario 1992 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle finanze, in lire 3.656.764.792.364.
 
@@ -1362,7 +1362,7 @@ dell'esercizio
  ================================
 ```
 
-### Art. 15 - Spese
+## Art. 15 - Spese
 
 1\. Le spese correnti ed in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali ed autonome, impegnate nell'esercizio 1992 per la competenza propria dell'esercizio, risultano stabilite in lire 3.656.764.792.364.
 
@@ -1388,7 +1388,7 @@ dell'esercizio
  =====================
 ```
 
-### Art. 16 - Riassunto generale
+## Art. 16 - Riassunto generale
 
 1\. Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei monopoli di Stato, di competenza dell'esercizio 1992, risulta cosi' stabilito:
 
@@ -1400,7 +1400,7 @@ Spese (escluse le gestioni speciali) ........... L. 3.315.937.022.580 Spese dell
  -------------------- L. 3.656.764.792.364 ====================
 ```
 
-### Art. 17 - Situazione finanziaria
+## Art. 17 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio 1992, risulta come appresso:
 
@@ -1463,7 +1463,7 @@ al 31 dicembre
 
 ## ARCHIVI NOTARILI
 
-### Art. 18 - Avanzo
+## Art. 18 - Avanzo
 
 1\. L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 1992, risulta stabilito come segue:
 
@@ -1473,7 +1473,7 @@ Entrate .......................................... L. 252.349.309.084 Spese ....
 
 ## FONDO EDIFICI DI CULTO
 
-### Art. 19 - Entrate
+## Art. 19 - Entrate
 
 1\. Le entrate correnti e in conto capitale del bilancio del Fondo edifici di culto, accertate nell'esercizio finanziario 1992 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 6.687.429.862.
 
@@ -1501,7 +1501,7 @@ dell'esercizio
  =================
 ```
 
-### Art. 20 - Spese
+## Art. 20 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio 1992 per la competenza propria dell'esercizio, risultano stabilite in lire 7.352.236.135.
 
@@ -1529,7 +1529,7 @@ dell'esercizio
  =====================
 ```
 
-### Art. 21 - Situazione finanziaria
+## Art. 21 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione del Fondo edifici di culto, alla fine dell'esercizio 1992, risulta come appresso:
 
@@ -1583,7 +1583,7 @@ Saldo attivo dell'esercizio 1991 ................... L. 937.704.451
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 22 - Entrate
+## Art. 22 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda nazionale autonoma delle strade, accertate nell'esercizio finanziario 1992 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dei lavori pubblici, in lire 9.579.205.139.879.
 
@@ -1609,7 +1609,7 @@ dell'esercizio
  ==================
 ```
 
-### Art. 23 - Spese
+## Art. 23 - Spese
 
 1\. Le spese correnti, in conto capitale e per il rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1992 per la competenza propria dell'esercizio, risultano stabilite in lire 9.595.077.561.145.
 
@@ -1635,7 +1635,7 @@ dell'esercizio
  =====================
 ```
 
-### Art. 24 - Situazione finanziaria
+## Art. 24 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Azienda nazionale autonoma delle strade, alla fine dell'esercizio 1992, risulta come appresso:
 
@@ -1690,7 +1690,7 @@ Saldo attivo dell'esercizio 1991 .................. " 15.872.421.266
 
 ## AMMINISTRAZIONE DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-### Art. 25 - Entrate
+## Art. 25 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione delle poste e delle telecomunicazioni, accertate nell'esercizio finanziario 1992 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 15.716.749.473.145.
 
@@ -1716,7 +1716,7 @@ dell'esercizio
  ===================
 ```
 
-### Art. 26 - Spese
+## Art. 26 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, impegnate nell'esercizio finanziario 1992 per la competenza propria dell'esercizio, risultano stabilite in lire 15.716.749.473.145.
 
@@ -1742,7 +1742,7 @@ dell'esercizio
  =====================
 ```
 
-### Art. 27 - Copertura maggior disavanzo
+## Art. 27 - Copertura maggior disavanzo
 
 1\. Per la copertura del maggior disavanzo di gestione dell'esercizio finanziario 1992 accertato per l'Amministrazione delle poste e delle telecomunicazioni rispetto a quello stabilito in lire 1.666.534.860.000 dall'articolo 3 - comma 2 - della legge 31 dicembre 1991, n. 416 (legge di bilancio 1992), la Cassa depositi e prestiti e' autorizzata a concedere alla Amministrazione predetta sui fondi dei conti correnti postali, di cui all'articolo 1 del decreto legislativo luogotenenziale 22 novembre 1945, n. 822, anticipazioni per complessive lire 1.397.847.647.870, estinguibili in 20 anni al saggio del 4,05 per cento annuo.
 
@@ -1766,7 +1766,7 @@ dell'esercizio
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 28 - Entrate
+## Art. 28 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda di Stato per i servizi telefonici, accertate nell'esercizio finanziario 1992 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 6.034.090.162.565.
 
@@ -1796,7 +1796,7 @@ dell'esercizio
  ============================
 ```
 
-### Art. 29 - Spese
+## Art. 29 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1992 per la competenza propria dell'esercizio, risultano stabilite in lire 6.034.090.162.565.
 
@@ -1836,7 +1836,7 @@ VISTO IL GUARDASIGILLI: CONSO
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Allegato n. 1
+## Allegato n. 1
 
 Allegato n. 1
 
@@ -2052,7 +2052,7 @@ Tenuto conto degli utilizzi sopra citati, residuano lire 2.031.915.000 che costi
 
 > \- Per il testo dell'ultimo comma dell'art. 9 della legge n. 468/1978 si veda in nota all'art. 6.
 
-### Allegato n. 2
+## Allegato n. 2
 
 Allegato n. 2
 

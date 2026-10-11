@@ -42,7 +42,7 @@ HA SANZIONATO E PROMULGA:
 
 ## CAPO I. - ISTITUZIONE E BASE DI APPLICAZIONE DEL TRIBUTO
 
-#### Art. 1
+### Art. 1
 
 Soppressione dell'addizionale sui tessili e istituzione
 
@@ -54,7 +54,7 @@ In sua sostituzione viene istituita una imposta sulla fabbricazione dei filati d
 
 Per il 1° biennio di applicazione, anche per quanto riguarda le giacenze esistenti alla data di entrata in vigore del presente decreto, l'imposta potra' essere riscossa in abbonamento con le norme di cui agli articoli 43 e 44.
 
-#### Art. 2
+### Art. 2
 
 Base e misura dell'imposta.
 
@@ -126,7 +126,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 20 dicembre 1948, n. 1427, convertito con modificazioni dalla L.18 febbraio 1949, n. 27 ha disposto (con l'art. 14, comma 1) che "E' soppresso il disposto di cui ai numeri 10 e 11 dell'art. 2 del decreto legislativo 3 gennaio 1947, n. 1, ferma rimanendo l'applicazione dell'imposta sui filati impiegati nella fabbricazione di cucirini, di cordami, di spago, di forzina, di rafforzina, di lusino e simili."
 
-#### Art. 3
+### Art. 3
 
 Esenzioni.
 
@@ -134,7 +134,7 @@ Sono esenti dalla imposta le produzioni domestiche di filati nonche' quelle eseg
 
 ((Gli Istituti di istruzione, di educazione e di beneficenza che producano anche filati assoggettabili ad imposta, in quanto destinati ad essere comunque commerciati, ovvero soltanto prodotti per conto di terzi, sono ammessi a pagare l'imposta per detti filati con le modalita' di cui ai precedenti articoli 11 e 12)).
 
-#### Art. 4
+### Art. 4
 
 Prodotti importati dall'estero.
 
@@ -146,7 +146,7 @@ Sui manufatti tessili e sulle confezioni importate dall'estero,
 
 fabbricati con i filati di cui all'art. 2 e' dovuta la sovrimposta di confine in funzione delle aliquote fissate per i filati di cui risultano costituiti secondo le norme da stabilirsi dal Ministro per le finanze.
 
-#### Art. 5
+### Art. 5
 
 Attivazione delle fabbriche.
 
@@ -170,7 +170,7 @@ La medesima denuncia deve essere presentata entro 20 giorni dalla data di pubbli
 
 Ogni modificazione agli impianti dovra' essere previamente denunziata alla Sezione dell'Ufficio tecnico delle imposte di fabbricazione, alla quale il fabbricante dovra' presentare lo schema delle modificazioni che in - tende apportare.
 
-#### Art. 6
+### Art. 6
 
 ((L'Ufficio tecnico delle imposte di fabbricazione, ricevuta la denuncia, procede alla verifica degli impianti e dei macchinari, provvede al loro suggellamento e puo' ordinare, a spese del fabbricante, le opere che ritenga necessarie per la tutela degli interessi fiscali.
 
@@ -190,7 +190,7 @@ Il diritto deve essere pagato nella quindicina che precede l'inizio di ogni anno
 
 I diritti di licenza nella misura di cui sopra si applicano alle licenze da rilasciare, mentre per quelle gia' rinnovate per l'anno 1954, sara' provveduto alla riscossione della differenza fra la nuova e la vecchia misura)).
 
-#### Art. 7
+### Art. 7
 
 Vigilanza.
 
@@ -202,13 +202,13 @@ Le fabbriche soggette a vigilanza continuativa, sono tenute a provvedere all'app
 
 I funzionari dell'Amministrazione finanziaria, gli ufficiali ed agenti della polizia tributaria hanno facolta' di accedere in qualsiasi momento nei locali ove si svolgono attivita', contemplate nel presente decreto ed eseguirvi verifiche, riscontri e ricerche ai fini della imposta.
 
-#### Art. 8
+### Art. 8
 
 Riscontri.
 
 L'Amministrazione finanziaria ha la facolta', ai fini della imposta, di prendere visione delle registrazioni in contabilita' attinenti all'esercizio dell'industria ed alla vendita dei prodotti ed i fabbricanti hanno l'obbligo di assistere i funzionari dell'Amministrazione nelle operazioni che questi compiono a tutti gli effetti del presente decreto.
 
-#### Art. 9
+### Art. 9
 
 Dichiarazione di lavoro.
 
@@ -224,7 +224,7 @@ d) gli apparecchi e i meccanismi da adoperare, gia' descritti nello schema, degl
 
 e) le quantita' dei prodotti da fabbricare e le loro qualita' e caratteristiche determinate in base, all'art. 2.
 
-#### Art. 10
+### Art. 10
 
 Laboratori artigiani.
 
@@ -250,7 +250,7 @@ e) il quantitativo complessivo di filati da produrre, nel, periodo di lavorazion
 
 I quantitativi di filati indicati nella dichiarazione suppletiva devono essere prodotti in misura tale che la relativa imposta non superi il 50% di quella corrispondente ai filati della lavorazione principale gia' dichiarata, fermo rimanendo tuttavia il limite massimo della produzione corrispondente all'imposta complessiva annua prevista dal primo comma del presente articolo)).
 
-#### Art. 11
+### Art. 11
 
 Cauzione
 
@@ -260,13 +260,13 @@ Puo' essere inoltre prestata mediante fideiussione da parte di un istituto di cr
 
 Accettata sotto la propria responsabilita', dall'intendente di finanza, ovvero con iscrizione ipotecaria di primo grado accettata dei pari dall'Intendente, sia sul compendio costituito dalla fabbrica e dai macchinari in essa installati, purche' tanto l'uno quanto gli altri appartengano al proprietario dell'area e dei locali sopraedificati, sia su altri beni stabili.
 
-#### Art. 12
+### Art. 12
 
 Regime delle materie prime.
 
 Le materie prime devono essere custodite in appositi magazzini ed il loro movimento deve risultare da un registro di carico e scarico, fornito dall'Amministrazione e tenuto dal fabbricante, nel quale si annoteranno a carico, i quantitativi delle materie stesse a mano a mano che vengono introdotte in magazzino, ed a scarico, i quantitativi estratti per la lavorazione, con riferimento alla dichiarazione di lavoro.
 
-#### Art. 13
+### Art. 13
 
 Sistema di accertamento.
 
@@ -278,7 +278,7 @@ In dette fabbriche non possono, per qualsiasi motivo, apportarsi variazioni in q
 
 Contro la determinazione del sistema di accertamento adottata dall'Ufficio tecnico delle imposte di fabbricazione e' ammesso ricorso da parte del fabbricante al Ministero delle finanze, il quale provvede con decisione non soggetta ad alcun gravame.
 
-#### Art. 14
+### Art. 14
 
 Accertamento dei prodotti in fabbriche
 
@@ -296,7 +296,7 @@ Il fabbricante deve mettere a disposizione le bilance e gli strumenti necessari 
 
 Al registro di carico e scarico di cui al primo comma devono essere allegate le dichiarazioni di introduzione e quelle di estrazione presentate dal fabbricante, e munite delle attestazioni di verifica da parte degli agenti finanziari.
 
-#### Art. 15
+### Art. 15
 
 Accertamento dei prodotti in fabbriche
 
@@ -314,7 +314,7 @@ Il movimento dei prodotti nelle fabbriche in parola e' tenuto in evidenza dalla 
 
 Tanto le dichiarazioni di lavoro, munite della liquidazione della imposta, quanto le dichiarazioni di estrazioni provviste dell'attestazione di verifica da parte del delegato della finanza, debbono essere allegate al sopraindicato registro.
 
-#### Art. 16
+### Art. 16
 
 Pagamento del tributo.
 
@@ -330,7 +330,7 @@ mediante versamento alla competente Sezione provinciale di tesoreria.
 
 Nel caso che vengano presentate dichiarazioni di lavoro suppletive, la imposte relativa deve essere pagata anticipatamente e la rispettiva quietanza allegata alla dichiarazione stessa.
 
-#### Art. 17
+### Art. 17
 
 Magazzini di commercianti all'ingrosso.
 
@@ -338,7 +338,7 @@ Alle ditte esercenti il commercio all'ingrosso di filati puo' essere consentito 
 
 Le ditte commerciali, che abbiano ottenuta la concessione di cui al precedente comma, devono prestare cauzione nella misura e con le modalita' stabilite dalla legge e dal regolamento doganale e corrispondere previamente l'imposta sui filati che, vengono estratti per il consumo.
 
-#### Art. 18
+### Art. 18
 
 Abbuoni e restituzioni d'imposta sui prodotti esportati.
 
@@ -358,19 +358,19 @@ AGGIORNAMENTO (5)
 
 Il D.L. 19 dicembre 1953, n. 916, convertito con modificazioni dalla L. 14 febbraio 1954, n. 5, ha disposto (con l'art. 7) che "La misura dell'ammenda nei casi contemplati dagli articoli 18 e 31 del decreto legislativo del Capo provvisorio dello Stato 3 gennaio 1947, n. 1, successivamente modificato, e' elevata nel minimo a L. 30.000 e nel massimo a L. 300.000."
 
-#### Art. 19
+### Art. 19
 
 Abbuono d'imposta sui prodotti distrutti.
 
 Nel caso di distruzione di filati esistenti nei magazzini di fabbrica, e' accordato lo sgravio dell'imposta di fabbricazione, purche' sia provato che la distruzione e' avvenuta esclusivamente per causa di forza maggiore.
 
-#### Art. 20
+### Art. 20
 
 Controversie doganali.
 
 Nelle controversie sulla qualificazione dei prodotti, agli effetti del presente decreto, viene osservata la procedura stabilita per la risoluzione delle controversie doganali.
 
-#### Art. 21
+### Art. 21
 
 Modalita' per la riscossione coattiva del tributo.
 
@@ -380,7 +380,7 @@ Contro l'ingiunzione puo' farsi opposizione nel termine perentorio di giorni qui
 
 L'opposizione non e' ammissibile se non sia stata preceduta dal pagamento della somma richiesta.
 
-#### Art. 22
+### Art. 22
 
 Recupero - Estinzione dell'azione.
 
@@ -390,13 +390,13 @@ Il termine della prescrizione decorre dal giorno in cui si sarebbe dovuto esegui
 
 La prescrizione dell'azione penale non estingue il diritto alla riscossione dell'imposta, qualora non si sia verificata la prescrizione di cui al 1° comma.
 
-#### Art. 23
+### Art. 23
 
 Rimborso del tributo.
 
 Il fabbricante ha diritto ad rimborso della imposta indebitamente pagata per errore di liquidazione, purche' ne faccia domanda nel termine di cinque anni dalla data del pagamento ed esibisca la quietanza di Tesoreria relativa Al pagamento medesimo.
 
-#### Art. 24
+### Art. 24
 
 Privilegio.
 
@@ -406,7 +406,7 @@ Similmente le materie prime, i prodotti, il macchinario, gli impianti e tutto il
 
 ## CAPO II. - DEI REATI E DELLE PENE.
 
-#### Art. 25
+### Art. 25
 
 Fabbricazione clandestina.
 
@@ -418,7 +418,7 @@ E' considerata fabbrica clandestina anche la sola esistenza nei locali della fab
 
 Gli apparecchi e i macchinari, i prodotti e le materie prime, oggetto della violazione di cui al primo comma del presente articolo, sono soggetti a confisca ai termini della legge doganale 25 settembre 1940, n. 1424, e in deroga alle disposizioni dell'art. 240 del Codice Penale)).
 
-#### Art. 26
+### Art. 26
 
 Sottrazione dei prodotti all'accertamento ed
 
@@ -430,7 +430,7 @@ La multa non puo' essere in nessun caso inferiore a lire duecentomila. Il contra
 
 I prodotti sottratti o che si tentasse di sottrarre e le cose adoperate per commettere la frode sono soggetti a confisca ai termini della legge doganale 25 settembre 1940, n. 1424, e in deroga alle disposizioni dell'art. 240 del Codice penale)).
 
-#### Art. 27
+### Art. 27
 
 Lavorazione di prodotti in violazione alle dichiarazioni di lavoro.
 
@@ -440,7 +440,7 @@ La stessa multa proporzionale in misura non minore del doppio, ne maggiore del d
 
 Il contravventore puo' incorrere nel ritiro della licenza)).
 
-#### Art. 28
+### Art. 28
 
 Irregolare tenuta dei registri.
 
@@ -448,7 +448,7 @@ Chiunque non tenga o tenga irregolarmente i registri prescritti dall'Amministraz
 
 Alla stessa pena soggiace chi rifiuta di presentare i registri medesimi o di far ispezionare le scritture e le contabilita' previste nel precedente art. 8.
 
-#### Art. 29
+### Art. 29
 
 Manomissione di congegni bolli e sigilli.
 
@@ -456,13 +456,13 @@ Chiunque manometta o alteri in qualsiasi modo i congegni, i bolli e i sigilli po
 
 Qualora si verifichi il caso della violazione colposa sono applicabili le pene previste dall'art. 350 del Codice penale.
 
-#### Art. 30
+### Art. 30
 
 Ritardo nel pagamento del diritto di licenza.
 
 Il fabbricante che ometta o ritardi di effettuare entro i termini il pagamento del diritto di licenza di cui all'art. 6 del presente decreto, e' punito con l'applicazione di una ammenda da una a tre volte il diritto di licenza stesso, indipendentemente da ogni altra sanzione applicabile per l'esercizio arbitrario della fabbrica.
 
-#### Art. 31
+### Art. 31
 
 Altre violazioni.
 
@@ -474,7 +474,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 19 dicembre 1953, n. 916, convertito con modificazioni dalla L. 14 febbraio 1954, n. 5, ha disposto (con l'art. 7) che "La misura dell'ammenda nei casi contemplati dagli articoli 18 e 31 del decreto legislativo del Capo provvisorio dello Stato 3 gennaio 1947, n. 1, successivamente modificato, e' elevata nel minimo a L. 30.000 e nel massimo a L. 300.000."
 
-#### Art. 32
+### Art. 32
 
 Pagamento dei tributi in dipendenza di accertamento di reato.
 
@@ -482,13 +482,13 @@ Il contravventore, che debba rispondere di reati preveduti nel presente decreto,
 
 Sulle somme non pagate entro il termine suddetto e' dovuta, la indennita' di mora del 6%.
 
-#### Art. 33
+### Art. 33
 
 Conversione delle pene pecuniarie in pene corporali.
 
 Le pene della multa e dell'ammenda, non eseguite per insolvibilita' del condannato, si convertono rispettivamente nella reclusione o nell'arresto in conformita' di quanto dispone l'art. 136 del Codice penale.
 
-#### Art. 34
+### Art. 34
 
 Prescrizione dei reati.
 
@@ -496,25 +496,25 @@ I reati previsti dal presente decreto si prescrivono in cinque anni se trattasi 
 
 ## CAPO III - PROCEDURE CONTRAVVENZIONALI
 
-#### Art. 35
+### Art. 35
 
 Esecuzione delle condanne - Privilegi.
 
 Nei limiti delle attribuzioni stabilite dalla legge 7 gennaio 1929, n. 4, l'accertamento delle violazioni alle disposizioni del presente decreto, oltre che ai pubblici ufficiali, indicati nel capo II del titolo II della stessa legge, spetta anche ai funzionari dell'Amministrazione finaziaria, muniti dell'apposita tessera di riconoscimento.
 
-#### Art. 36
+### Art. 36
 
 Ripartizione delle multe tra gli scopritori.
 
 Per la ripartizione delle multe e delle ammende relative a violazioni del presente decreto, saranno applicate le norme della legge doganale e del relativo regolamento, in deroga agli articoli 24 e 26 del Codice penale.
 
-#### Art. 37
+### Art. 37
 
 Processi verbali.
 
 I processi verbali di accertamento dei reati sono compilati dai funzionari od agenti scopritori e saranno trasmessi alla Intendenza di finanza per il loro ulteriore corso, previa liquidazione da parte della Sezione dell'Ufficio tecnico delle imposte di fabbricazione dei diritti dovuti e della penalita'.
 
-#### Art. 38
+### Art. 38
 
 Decisioni amministrative
 
@@ -530,7 +530,7 @@ La decisione amministrativa spetta all'Intendente di finanza senza limiti di som
 
 ## CAPO IV - DISPOSIZIONI TRANSITORIE
 
-#### Art. 39
+### Art. 39
 
 Denuncia delle giacenze.
 
@@ -558,7 +558,7 @@ Le Sezione dell'Ufficio tecnico delle imposte di fabbricazione procede alla liqu
 
 Sulle somme non pagate entro il suddetto termine e' dovuta in indennita' di mora del 6%.
 
-#### Art. 40
+### Art. 40
 
 Prodotti destinati all'esportazione.
 
@@ -568,7 +568,7 @@ La spedizione della merce all'estero dovra' essere preventivamente notificata al
 
 Il diritto all'abbuono deve, a pena di decadenza, essere fatto valere entro centoottanta giorni dalla data di entrata in vigore del presente decreto.
 
-#### Art. 41
+### Art. 41
 
 Restituzione d'imposta per i prodotti esportati.
 
@@ -576,13 +576,13 @@ La restituzione della imposta, di cui all'art. 18, e' accordata per i prodotti c
 
 Possono tuttavia ammettersi alla restituzione i prodotti presentati e dichiarati per la esportazione dai fabbricanti e commercianti all'ingrosso anche prima di tale data, purche' alla dichiarazione di esportazione da presentarsi alla dogana sia allegato un certificato della competente Sezione dell'Ufficio tecnico delle imposte di fabbricazione attestante trattarsi di prodotti per i quali sia stata pagata l'imposta di cui si chiede la restituzione.
 
-#### Art. 42
+### Art. 42
 
 Denuncia ommessa od infedele - Penalita'.
 
 Chiunque ommetta di presentare la denuncia di cui al precedente art. 39, o presenti denuncia infedele, e' punito con la multa dal doppio al decuplo dell'imposta frodata o che siasi tentato di frodare.
 
-#### Art. 43
+### Art. 43
 
 Riscossione della imposta in abbonamento.
 
@@ -608,7 +608,7 @@ Il D.L. 20 dicembre 1948, n. 1427, convertito con modificazioni dalla L. 18 febb
 
 In tal senso e' modificato il disposto del quarto comma dell'art. 43 del decreto legislativo 3 gennaio 1947, n. 1."
 
-#### Art. 44
+### Art. 44
 
 Denuncia delle giacenze nel caso di riscossione
 
@@ -618,7 +618,7 @@ Nei casi in cui l'imposta sia riscossa in abbonamento, l'obbligo delle dichiaraz
 
 La imposta corrispondente potra' essere determinata per ciascuna categoria nel decreto del Ministro previsto nell'articolo precedente, tenuto conto della quota destinata alla esportazione.
 
-#### Art. 45
+### Art. 45
 
 Applicazione della imposta col sistema forfetario.
 
@@ -636,19 +636,19 @@ Qualora, in applicazione del disposto del terzo comma del presente articolo, e d
 
 Per il periodo di tempo intercorrente tra il 31 dicembre 1946 e la data di entrata in vigore del presente decreto, la imposta di cui ad 1° comma sara' liquidata proporzionalmente e in aggiunta ai 47 milioni ivi stabiliti.
 
-#### Art. 46
+### Art. 46
 
 Verifiche e controlli.
 
 Ai fini dell'applicazione dell'imposta di cui ai precedente articolo, gli Uffici tecnici delle imposte di fabbricazione possono eseguire verifiche e riscontri presso il competente organo dell' Associazione nazionale fra i produttori di fibre tessili artificiali ed affini in Milano, nonche' nelle fabbriche, con facolta' di ispezionare le contabilita' attinenti alle attivita' delle fabbriche stesse.
 
-#### Art. 47
+### Art. 47
 
 Fibre artificiali esportate durante il regime forfetario.
 
 Agli effetti del comma secondo dell'art. 9 dell'allegato B del regio decreto-legge 16 gennaio 1936, n. 54, la restituzione dell'imposta sui prodotti estratti dalle fabbriche a tutto il 31 dicembre 1946 ed impiegati nella fabbricazione dei manufatti di fibra artificiali o misti con fibra artificiale che saranno esportati con bolletta doganale entro il 120° giorno dalla data di entrata in vigore del presente decreto, fara' carico esclusivamente ed in solido alla industria delle fibre tessili artificiali, fermo il diritto dell'Amministrazione finanziaria di riscuotere per intero la imposta forfetariamente dovuta al netto di qualsiasi onere.
 
-#### Art. 48
+### Art. 48
 
 Abrogazione della imposta di fabbricazione
 
@@ -656,23 +656,21 @@ sulle fibre tessili artificiali.
 
 Dall'entrata in vigore del presente decreto resta abrogata la imposta di fabbricazione sulle fibre tessili artificiali di cui all'allegato B al regio decretolegge 16 gennaio 1936, n. 54, convertito nella legge 4 giugno 1836, n. 1334, sostituito dall'art. 1 del regio decreto-legge 29 giugno 1942, n. 742, convertito ed integrato dal regio decreto-legge 25 giugno 1943, n. 546, modificato dall'allegato L al decreto legislativo luogotenenziale 26 aprile 1945, n. 223.
 
-#### Art. 49
+### Art. 49
 
 Per gli acquisti di prodotti tessili eseguiti entro il 31 dicembre 1946, il diritto di corrispondere l'imposta generale sulle entrate, in esenzione da sanzione previsto nell'art. 3, secondo comma del decreto legislativo luogotenenziale 7 settembre 1945, n. 528, puo' essere fatto valere entro il 31 gennaio 1947.
 
 Nello stesso termine del 31 gennaio 1947 puo' essere soddisfatta in esenzione da penalita' l'addizionale sul prezzo dei prodotti tessili di cui al precedente articolo, non corrisposta in tempi di pace.
 
-## CAPO V.
+## CAPO V. - DISPOSIZIONI FINALI.
 
-### DISPOSIZIONI FINALI.
-
-#### Art. 50
+### Art. 50
 
 Riorganizzazione degli Uffici e dei ruoli del personale.
 
 Il Ministro per le finanze e' autorizzato, d'intesa col Ministro per il tesoro, a provvedere con suo decreto ad una nuova ripartizione territoriale degli Uffici tecnici delle imposte di fabbricazione e alla riorganizzazione dei ruoli del personale delle Imposte di fabbricazione e dei Laboratori chimici delle dogane e delle imposte indirette, in dipendenza delle necessita' di servizio che si renderanno necessarie a seguito dell'attuazione del presente decreto.
 
-#### Art. 51
+### Art. 51
 
 Autorizzazione di spesa.
 
@@ -680,13 +678,13 @@ E' autorizzata l'iscrizione, nello stato di previsione della spesa del Ministero
 
 Con decreto del Ministro per il tesoro saranno introdotte in bilancio le conseguenti variazioni.
 
-#### Art. 52
+### Art. 52
 
 Norme di applicazione.
 
 Il Ministro per le finanze e' autorizzato ad adottare con propri decreti le modalita' occorrenti per l'applicazione del presente decreto.
 
-#### Art. 53
+### Art. 53
 
 Entrata in vigore.
 

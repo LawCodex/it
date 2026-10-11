@@ -26,19 +26,19 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare l'atto costitutivo dell'Organizzazione delle Nazioni Unite per lo sviluppo industriale (UNIDO), con allegati, adottato a Vienna l'8 aprile 1979.
 
-### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data all'accordo di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 25 dell'atto stesso.
 
-### Art. 3
+#### Art. 3
 
 Con riferimento ai paragrafi 1 e 2 dell'articolo 21, riguardante i privilegi e le immunita', gli emolumenti corrisposti dall'Organizzazione delle Nazioni Unite per lo sviluppo industriale (UNIDO) ai propri dipendenti cittadini italiani o residenti permanenti in Italia, in ((esenzione)) della imposizione sul reddito, sono presi in considerazione ai fini del calcolo delle imposte dovute sui redditi provenienti da altre fonti.
 
-### Art. 4
+#### Art. 4
 
 All'onere derivante dall'attuazione della presente legge, valutato in lire 3.000.000.000 per l'anno 1984, si provvede mediante riduzione del capitolo n. 9005 dello stato di previsione del Ministero del tesoro per l'anno medesimo.
 
@@ -70,13 +70,13 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 ## Allegati
 
-### Acte Constitutif
+#### Acte Constitutif
 
 ACTE CONSTITUTIF DE L'ORGANISATION DES NATIONS UNIES POUR LE DEVELOPPEMENT INDUSTRIEL
 
 Parte di provvedimento in formato grafico
 
-## CAPITOLO PRIMO - OBIETTIVI E FUNZIONI
+### CAPITOLO PRIMO - OBIETTIVI E FUNZIONI
 
 TRADUZIONE NON UFFICIALE
 
@@ -108,7 +108,7 @@ Desiderosi di istituire, a norma del Capitolo II della Carta delle Nazioni Unite
 
 Hanno convenuto il presente Atto costitutivo.
 
-### Articolo primo
+#### Articolo primo
 
 Obiettivi
 
@@ -120,7 +120,7 @@ Promuovera' inoltre lo sviluppo e la cooperazione industriali a livello globale,
 
 (Il testo del presente Atto costitutivo e' stato adottato a Vienna, l'8 Aprile 1979, dalla Conferenza delle Nazioni Unite per la costituenda Organizzazione delle Nazioni Unite per lo Sviluppo industriale quale agenzia specializzata.)
 
-### Articolo 2
+#### Articolo 2
 
 Funzioni
 
@@ -162,9 +162,11 @@ q) Contribuira' alla creazione ed alla gestione di una infrastruttura istituzion
 
 r) Concorrera', su richiesta dei governi dei paesi emergenti, all'ottenimento di capitali esteri per il finanziamento di determinati progetti industriali a condizioni oneste, eque e reciprocamente accettabili.
 
-## CAPITOLO II - PARTECIPAZIONE
+### CAPITOLO II
 
-### Articolo 3
+## PARTECIPAZIONE
+
+#### Articolo 3
 
 Membri
 
@@ -174,7 +176,7 @@ a) Gli Stati membri dell'Organizzazione delle Nazioni Unite o di un'agenzia spec
 
 b) Gli Stati non contemplati alla lettera a) potranno essere ammessi quali membri dell'Organizzazione divenendo parti al presente Atto costitutivo conformemente all'Art. 24, paragrafo 3 nonche' all'Art. 25, paragrafo 2, lettera e), dopo che la loro ammissione sara' stata approvata dalla Conferenza a maggioranza dei due terzi dei Membri presenti e votanti, dietro raccomandazione del Consiglio.
 
-### Articolo 4
+#### Articolo 4
 
 Osservatori
 
@@ -184,7 +186,7 @@ Osservatori
 
 3\. Gli osservatori saranno autorizzati a partecipare ai lavori dell'Organizzazione conformemente agli appositi regolamenti interni ed alle disposizioni del presente Atto costitutivo.
 
-### Articolo 5
+#### Articolo 5
 
 Sospensione
 
@@ -192,7 +194,7 @@ Sospensione
 
 2\. Qualsiasi Membro in ritardo nel pagamento dei propri contributi all'Organizzazione non potra' partecipare agli scrutini dell'Organizzazione qualora l'ammontare dei suoi arretrati sia pari o superiore ai contributi posti in riscossione e da lui dovuti per i due precedenti esercizi finanziari. Nondimeno, qualsiasi organo potra' autorizzare detto Membro a votare nel proprio ambite qualora constati che il mancato pagamento e' ascrivibile a circostanze indipendenti dalla volonta' di tale Membro.
 
-### Articolo 6
+#### Articolo 6
 
 Ritiro
 
@@ -202,9 +204,9 @@ Ritiro
 
 3\. I contributi che il Membro che intende ritirarsi dovra' versare per l'esercizio finanziario successivo a quello in cui avra' notificato il proprio ritiro saranno pari ai contributi poeti in riscossione per l'esercizio finanziario nel corso del quale sia avvenuta la suddetta notifica. Il Membro che si ritira versera' inoltre tutti i contributi volontari sottoscritti incondizionatamente prima della notifica del suo ritiro.
 
-## CAPITOLO III - ORGANI
+### CAPITOLO III - ORGANI
 
-### Articolo 7
+#### Articolo 7
 
 Organi principali e organi accessori
 
@@ -220,7 +222,7 @@ c) Il Segretariato.
 
 3\. Altri organi accessori, specie comitati tecnici, potranno essere creati dalla Conferenza o dal Consiglio, tenendo in debito conto il principio di un'equa rappresentazione geografica.
 
-### Articolo 8
+#### Articolo 8
 
 Conferenza generale
 
@@ -258,7 +260,7 @@ all'Art. 18; all'Art. 23, paragrafo 2, lettera b) e paragrafo 3, lettera b); e a
 
 6\. Ciascun Membro disporra' di un voto in seno alla Conferenza. Le decisioni saranno prese alla maggioranza dei Membri presenti e votanti, salvo disposizione contraria del presente Atto costitutivo o del regolamento interno della Conferenza.
 
-### Articolo 9
+#### Articolo 9
 
 Consiglio per lo sviluppo industriale
 
@@ -294,7 +296,7 @@ h) Assolvera' altri compiti che si rendessero necessari per il conseguimento deg
 
 Le decisioni saranno prese alla maggioranza dei membri presenti e votanti, salvo che diversamente disposto dal presente Atto costitutivo o dal regolamento interno del Consiglio, 7. Il Consiglio invitera' ciascun Membro non rappresentato al suo interno a partecipare, senza diritto di voto, alle sue delibere qualora la materia discussa interessi detto Membro in modo particolare.
 
-### Articolo 10
+#### Articolo 10
 
 Comitato Programmi e bilanci
 
@@ -322,7 +324,7 @@ d) Rendera' conto al Consiglio di tutte le sue attivita' nel corso delle sue ses
 
 6\. Ciascun membro del Comitato disporra' di un voto. Le decisioni del Comitato saranno prese a maggioranza dei due terzi dei membri presenti e votanti.
 
-### Articolo 11
+#### Articolo 11
 
 Segretariato
 
@@ -338,15 +340,15 @@ Segretariato
 
 6\. Il Direttore generale partecipera' in tale veste a tutte le riunioni della Conferenza, del Consiglio e del Comitato Programmi e bilanci, ed assolvera' ogni altro compito attribuitogli da detti organi. Redigera' un rapporto annuo sulle attivita' dell'Organizzazione. Inoltre, sottoporra' alla Conferenza o al Consiglio, secondo i casi, tutti i rapporti che si rendessero necessari.
 
-## CAPITOLO IV - PROGRAMMA DI LAVORO E QUESTIONI FINANZIARIE
+### CAPITOLO IV - PROGRAMMA DI LAVORO E QUESTIONI FINANZIARIE
 
-### Articolo 12
+#### Articolo 12
 
 Spese delle delegazioni
 
 Ciascun Membro e osservatore si assumera' le spese della propria delegazione alla Conferenza, al Consiglio o ad altro organo cui partecipera'.
 
-### Articolo 13
+#### Articolo 13
 
 Composizione dei bilanci
 
@@ -362,7 +364,7 @@ b) Spese sostenute attraverso i contributi volontari a favore dell'Organizzazion
 
 4\. Il bilancio operativo provvedera' alle spese per l'assistenza tecnica e per altre attivita' connesse.
 
-### Articolo 14
+#### Articolo 14
 
 Programma e bilanci
 
@@ -382,7 +384,7 @@ Ove necessario, previsioni di spesa suppletive e rivedute a carico del bilancio 
 
 Nessuna risoluzione o decisione ne' emendamento comportante degli impegni finanziari, che non sia stato precedentemente esaminato conformemente ai paragrafi 2 e 3, potra' essere approvato dalla Conferenza se non accompagnato da uno stato degli impegni finanziari stabilito del Direttore generale. Nessuna risoluzione o decisione ne' emendamento che il Direttore generale preveda che dia adito a delle spese potra' essere approvato della Conferenza fintanto che il Comitato Programmi e bilanci, e successivamente il Consiglio, riunito contemporaneamente alla Conferenza, non avranno avuto modo di conformarsi alle disposizioni di cui ai paragrafi 2 e 3. Il Consiglio presentera' le proprie decisioni alla Conferenza. Teli risoluzioni, decisioni ed emendamenti verranno approvati dalla Conferenza della maggioranza dei due terzi di tutti i propri membri.
 
-### Articolo 15
+#### Articolo 15
 
 Contributi da porre in riscossione
 
@@ -390,21 +392,21 @@ Contributi da porre in riscossione
 
 2\. In tabella delle quote si ispirera' per quanto possibile alla tabella piu' recente in uso presso l'Organizzazione delle Nozioni Unite, la quota di nessun Membro potra' superare il venticinque per cento del bilancio ordinario dell'Organizzazione.
 
-### Articolo 16
+#### Articolo 16
 
 Contributi volontari a favore dell'Organizzazione
 
 Subordinatamente al regolamento finanziario dell'Organizzazione, il Direttore generale potra', a nome dell'Organizzazione, accettare contributi volontari a favore dell'Organizzazione - quali donazione, lasciti e sovvenzioni - da parte di governi, organismi intergovernativi od organismi o oltre fonti non governative, purche' le condizioni di tali contributi volontari siano compatibili con gli obiettivi e la politica della Organizzazione.
 
-### Articolo 17
+#### Articolo 17
 
 Fondo di sviluppo industriale
 
 Onde accrescere le proprie risorse nonche' la propria capacita' di rispondere celermente e prontamente ai bisogni dei paesi in via di sviluppo, l'Organizzazione disporra' di un Fondo di sviluppo industriale finanziato con i contributi volontari a favore dell'Organizzazione contemplati all'Art. 16 e con altre risorse eventualmente previste dal regolamento finanziario dell'Organizzazione. Il Direttore generale amministrera' il Fondo di sviluppo industriale conformemente alle direttive generali regolanti il funzionamento del Fondo fissate dalla Conferenza o dal Consiglio su mandato della Conferenza, e conformemente al regolamento finanziario dell'Organizzazione.
 
-## CAPITOLO V - COOPERAZIONE E COORDINAMENTO
+### CAPITOLO V - COOPERAZIONE E COORDINAMENTO
 
-### Articolo 18
+#### Articolo 18
 
 Rapporti con l'Organizzazione delle Nazioni Unite
 
@@ -412,7 +414,7 @@ L'Organizzazione e' collegata con l'Organizzazione delle Nazioni Unite: ne costi
 
 Qualsiasi accordo concluso conformemente all'Art. 63 della Carta dovra' essere approvato dalla Conferenza della maggioranza dei due terzi dei Membri presenti e votanti su raccomandazione del Consiglio.
 
-### Articolo 19
+#### Articolo 19
 
 Rapporti con altre organizzazioni
 
@@ -424,9 +426,9 @@ b) Stabilire appropriati rapporti con organismi non governativi ed altri aventi 
 
 2\. Subordinatamente agli accordi ed ai rapporti suddetti, il Direttore generale puo' allacciare rapporti di lavoro con gli organismi sopraddetti.
 
-## CAPITOLO VI - QUESTIONI GIURIDICHE
+### CAPITOLO VI - QUESTIONI GIURIDICHE
 
-### Articolo 20
+#### Articolo 20
 
 Sede
 
@@ -434,7 +436,7 @@ Sede
 
 2\. L'Organizzazione concludera' un accordo per la propria Sede con il governo ospite.
 
-### Articolo 21
+#### Articolo 21
 
 Capacita' giuridica, privilegi ed immunita'
 
@@ -448,7 +450,7 @@ b) Sul territorio di ciascun Membro che non abbia aderito, per quanto riguarda l
 
 c) Quelli definiti in altri accordi conclusi dall'Organizzazione.
 
-### Articolo 22
+#### Articolo 22
 
 Risoluzione delle vertenze e richieste di parere consultivo
 
@@ -468,7 +470,7 @@ Le norme regolanti le procedure ed il funzionamento del tribunale arbitrale e de
 
 2\. Conferenza e Consiglio sono abilitati entrambi, previa autorizzazione dell'Assemblea generale delle Nazioni Unite, a chiedere alla Corte internazionale di giustizia di esprimere un parere consultivo su qualsiasi questione giuridica che si ponga nell'ambito delle attivita' dell'Organizzazione.
 
-### Articolo 23
+#### Articolo 23
 
 Emendamenti
 
@@ -490,7 +492,7 @@ b) Sara' stato approvato dalla Conferenza alla maggioranza dei due terzi di tutt
 
 c) Tre quarti dei Membri avranno deposto strumenti di ratifica, accettazione o approvazione di detto emendamento presso il Depositario.
 
-### Articolo 24
+#### Articolo 24
 
 Firma, ratifica, accettazione, approvazione e adesione
 
@@ -502,7 +504,7 @@ Gli strumenti di ratifica, accettazione o approvazione di tali Stati saranno dep
 
 3\. Successivamente all'entrate in vigore del presente Atto costitutivo conformemente al paragrafo 1 dell'Art. 25, gli Stati contemplati al capoverso a) dell'Art. 3 che non avranno firmato l'Atto costitutivo, come pure gli Stati la cui domanda di ammissione sara' stata approvata conformemente al capoverso b) di detto Articolo, potranno aderire al presente Atto costitutivo depositando uno strumento di adesione.
 
-### Articolo 25
+#### Articolo 25
 
 Entrata in vigore
 
@@ -516,7 +518,7 @@ b) Per gli Stati che abbiano depositato il proprio strumento di ratifica, accett
 
 c) Per gli Stati che abbiano depositato il proprio strumento di ratifica, accettazione, approvazione o adesione dopo l'entrata in vigore del presente Atto costitutivo, alla data di detto deposito.
 
-### Articolo 26
+#### Articolo 26
 
 Disposizioni transitorie
 
@@ -524,13 +526,13 @@ Disposizioni transitorie
 
 2\. Le norme ed i regolamenti che regolano l'organizzazione create dall'Assemblea generale delle Nazioni Unite con la risoluzione 2152 (XXI) vigeranno sull'Organizzazione ed i suoi organi fino a che nuove disposizioni non saranno adottate da questi ultimi.
 
-### Articolo 27
+#### Articolo 27
 
 Riserve
 
 Nessuna riserva potra' essere formulata riguardo al presente Atto costitutivo.
 
-### Articolo 28
+#### Articolo 28
 
 Depositario
 
@@ -538,11 +540,11 @@ Depositario
 
 2\. Il Depositario informera' gli Stati interessati ed il Direttore generale di qualsiasi questione inerente al presente Atto costitutivo.
 
-### Articolo 29
+#### Articolo 29
 
 I testi in inglese, arabo, cinese, spagnolo, francese e russo del presente Atto costitutivo fanno ugualmente fede.
 
-### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -558,7 +560,7 @@ Liste
 
 (Le liste di Stati da inserire nel presente Allegato da parte del Depositario sono quelle stabilite dall'Assemblea generale delle Nazioni Unite ai fini del paragrafo 4, sezione II della sua risoluzione 2152 (XXI) e valide alla data dell'entrata in vigore del presente Atto costitutivo)
 
-### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -580,7 +582,7 @@ B. Onde rendere pin efficace il programma di lavoro dell'Organizzazione nel camp
 
 Tali attivita' saranno destinate a rafforzare il contributo dell'Organizzazione al sistema di sviluppo delle Nazioni Unite, considerata l'importanza di ricorrere al meccanismo di programmazione per paese del Programma delle Nazioni Unite per lo sviluppo - subordinato al consenso dei paesi interessati - quale quadro di riferimento per dette attivita'.
 
-### Allegato III
+#### Allegato III
 
 ALLEGATO III
 

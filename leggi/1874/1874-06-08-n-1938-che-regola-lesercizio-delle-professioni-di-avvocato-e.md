@@ -160,7 +160,7 @@ La professione di avvocato e' incompatibile con quella di notaro, di agente di c
 
 Sotto la denominazione di professori di diritto si intendono anche quelli di discipline morali, storiche o filologiche.
 
-## Sezione II. - Dei diritti e dei doveri degli avvocati.
+### Sezione II. - Dei diritti e dei doveri degli avvocati.
 
 #### Art. 14
 
@@ -184,7 +184,7 @@ La relativa deliberazione viene comunicata per cura del presidente del Consiglio
 
 Contro la detta deliberazione e' concesso il richiamo come nell'articolo 11.
 
-## Sezione III. - Del Consiglio dell'Ordine.
+### Sezione III. - Del Consiglio dell'Ordine.
 
 #### Art. 16
 
@@ -318,7 +318,7 @@ Qualora il Consiglio di cui l'incolpato fa parte, si trovi nella sede di una Cor
 
 I Consigli dell'Ordine provvederanno con regolamenti interni all'esercizio delle attribuzioni di cui si trovano investiti, ai pareri legislativi domandati dal Governo, alle pubbliche conferenze di giovani avvocati, alla formazione di biblioteche giuridiche, ed a tutto quello che possa elevare la dignita' e la coltura dell'Ordine stesso.
 
-## Sezione IV. - Delle adunanze generali.
+### Sezione IV. - Delle adunanze generali.
 
 #### Art. 34
 
@@ -422,7 +422,7 @@ Sono applicabili ai procuratori le disposizioni degli articoli 4, 5, 7 e 12.
 
 L'ufficio di procuratore e' incompatibile col notariato e con qualunque altra professione, salvo la disposizione dell'articolo 2, non che con qualunque ufficio o impiego pubblico non gratuito, tranne quello di professore di diritto nelle Universita', nei licei, e altri istituti pubblici, di segretario di Camera di commercio e di segretario comunale nei comuni la cui popolazione non oltrepassi i diecimila abitanti.
 
-## Sezione II. - Dei diritti e dei doveri dei procuratori.
+### Sezione II. - Dei diritti e dei doveri dei procuratori.
 
 #### Art. 44
 
@@ -452,7 +452,7 @@ Essi devono prestarlo gratuitamente ai poveri, giusta le norme stabilite dai reg
 
 I procuratori non possono ritenere gli atti della causa e le scritture ricevute dai clienti, per mancanza di pagamento degli onorari loro dovuti o di rimborso delle spese da essi anticipate. Ma i clienti non possono ritirare gli atti se non dopo l'accertamento del loro debito, mediante annotazione di esso negli atti medesimi, e con dichiarazione a parte consegnata al procuratore, salvo sempre il disposto dagli articoli 373 e 379 del Codice di procedura civile.
 
-## Sezione III. - Del Consiglio di disciplina.
+### Sezione III. - Del Consiglio di disciplina.
 
 #### Art. 49
 

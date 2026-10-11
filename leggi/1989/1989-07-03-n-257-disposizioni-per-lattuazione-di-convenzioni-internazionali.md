@@ -29,11 +29,9 @@ PROMULGA
 
 la seguente legge:
 
-## Titolo I - NORME DI ATTUAZIONE DELLA CONVENZIONE
+## Titolo I - NORME DI ATTUAZIONE DELLA CONVENZIONE SUL TRASFERIMENTO DELLE PERSONE CONDANNATE
 
-### SUL TRASFERIMENTO DELLE PERSONE CONDANNATE
-
-##### Art. 1
+### Art. 1
 
 1\. Ai fini dell'esecuzione della pena in Italia nei casi di applicazione della convenzione sul trasferimento delle persone condannate, adottata a Strasburgo il 21 marzo 1983, il Ministro di grazia e giustizia richiede il riconoscimento della sentenza penale straniera. A tale scopo trasmette al procuratore generale presso la corte di appello, nel distretto della quale ha sede l'ufficio del casellario competente ai fini della iscrizione, una copia della sentenza, unitamente alla traduzione in lingua italiana, con gli atti che vi siano allegati, e con la documentazione e le informazioni disponibili. Trasmette, inoltre, la domanda di esecuzione nello Stato da parte dello Stato estero ovvero l'atto con cui questo Stato acconsente all'esecuzione.
 
@@ -57,7 +55,7 @@ la seguente legge:
 
 > Quando la corte dichiara il riconoscimento, il procuratore generale comunica l'estratto della sentenza al casellario competente, perche' ne sia fatta la relativa menzione".
 
-##### Art. 2
+### Art. 2
 
 1\. Alla sentenza penale straniera e' dato riconoscimento se ricorrono, oltre quelle previste dalla convenzione, le seguenti condizioni:
 
@@ -67,7 +65,7 @@ b) per lo stesso fatto e nei confronti della stessa persona non e' stata pronunc
 
 c) per lo stesso fatto e nei confronti della stessa persona non e' in corso nello Stato procedimento penale.
 
-##### Art. 3
+### Art. 3
 
 1\. Con la sentenza di riconoscimento la corte di appello determina, sulla base della pena stabilita nella sentenza straniera, la pena, prevista dalla legge italiana, che deve essere ancora eseguita.
 
@@ -107,13 +105,13 @@ c) per lo stesso fatto e nei confronti della stessa persona non e' in corso nell
 
 > In ogni momento il condannato puo' estinguere la pena mediante un unico pagamento".
 
-##### Art. 4
+### Art. 4
 
 1\. All'esecuzione provvede di ufficio il procuratore generale pesso la corte di appello che ha deliberato il riconoscimento. Tale corte e' equiparata, a ogni effetto, al giudice che ha pronunciato sentenza di condanna in un procedimento penale ordinario.
 
 2\. Il condannato trasferito in applicazione della convenzione non puo' essere ne' estradato ne' sottoposto di nuovo a procedimento penale nello Stato per lo stesso fatto, neppure se questo viene diversamente considerato per il titolo, per il grado o per le circostanze.
 
-##### Art. 5
+### Art. 5
 
 1\. L'esecuzione all'estero di una sentenza di condanna non e' ammessa se non vi e' stata deliberazione favorevole della corte di appello nel cui distretto fu pronunciata la condanna. A tale scopo il Ministro di grazia e giustizia trasmette gli atti al procuratore generale affinche' promuova il procedimento davanti alla corte di appello.
 
@@ -125,19 +123,15 @@ c) per lo stesso fatto e nei confronti della stessa persona non e' in corso nell
 
 > Per il testo del secondo comma dell'art. 674 c.p.p. si veda nelle note all'art. 1.
 
-##### Art. 6
+### Art. 6
 
 1\. L'esecuzione della pena nello Stato e' sospesa dal momento in cui ha inizio l'esecuzione nell'altro Stato e per tutta la durata della medesima.
 
 2\. La pena non puo' essere eseguita nello Stato quando, secondo le leggi dell'altro Stato, essa e' stata interamente espiata.
 
-## Titolo II - NORME DI ATTUAZIONE DEL TRATTATO DI COOPERAZIONE PER L'ESECUZIONE
+## Titolo II - NORME DI ATTUAZIONE DEL TRATTATO DI COOPERAZIONE PER L'ESECUZIONE DELLE SENTENZE PENALI TRA IL GOVERNO DELLA REPUBBLICA ITALIANA E IL GOVERNO DEL REGNO DI THAILANDIA, FIRMATO A BANGKOK IL 28 FEBBRAIO 1984.
 
-### DELLE SENTENZE PENALI TRA IL GOVERNO DELLA REPUBBLICA ITALIANA E - IL GOVERNO DEL REGNO DI THAILANDIA, FIRMATO A BANGKOK IL 28
-
-#### FEBBRAIO 1984.
-
-##### Art. 7
+### Art. 7
 
 1\. Ai fini dell'applicazione del trattato di cooperazione per l'esecuzione delle sentenze penali tra il Governo della Repubblica italiana ed il Governo del Regno di Thailandia, firmato a Bangkok il 28 febbraio 1984, si osservano le disposizioni degli articoli 1 e 2, dell'articolo 3, comma 1, e degli articoli 4, 5 e 6 della presente legge.
 
@@ -149,11 +143,9 @@ c) per lo stesso fatto e nei confronti della stessa persona non e' in corso nell
 
 > Il trattato di cooperazione per l'esecuzione delle sentenze penali tra il Governo della Repubblica italiana ed il Governo del Regno di Thailandia, firmato a Bangkok il 28 febbraio 1984, e' stato ratificato con la legge 27 luglio 1988, n. 369, la quale ha altresi' dato piena ed intera esecuzione al trattato medesimo.
 
-## Titolo III - NORME DI ATTUAZIONE DELLA CONVENZIONE EUROPEA PER LA SORVEGLIANZA
+## Titolo III - NORME DI ATTUAZIONE DELLA CONVENZIONE EUROPEA PER LA SORVEGLIANZA DELLE PERSONE CONDANNATE O LIBERATE CONDIZIONALMENTE.
 
-### DELLE PERSONE CONDANNATE O LIBERATE CONDIZIONALMENTE.
-
-##### Art. 8
+### Art. 8
 
 1\. Ai fini dell'esecuzione della sentenza di condanna nei casi di applicazione della convenzione europea per la sorveglianza delle persone condannate o liberate condizionalmente, adottata a Strasburgo il 30 novembre 1964, si osservano, anche per quanto concerne il titolo II della convenzione, le disposizione degli articoli 1 e 2 e degli articoli 3, comma 1; 4, comma 1; 5, commi 1 e 3, della presente legge.
 
@@ -161,7 +153,7 @@ c) per lo stesso fatto e nei confronti della stessa persona non e' in corso nell
 
 > La convenzione europea per la sorveglianza delle persone condannate o liberate condizionalmente, adottata a Strasburgo il 30 novembre 1964, e' stata ratificata con la legge 15 novembre 1973, n. 772, la quale ha altresi' dato piena ed intera esecuzione alla convenzione medesima.
 
-##### Art. 9
+### Art. 9
 
 1\. Agli effetti dell'articolo 7, paragrafo 2, della convenzione, il riconoscimento della sentenza straniera non e' ammesso soltanto nei casi previsti dalle lettere
 
@@ -197,7 +189,7 @@ b) e d).
 
 ## Titolo IV - DISPOSIZIONE FINALE
 
-##### Art. 10
+### Art. 10
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 

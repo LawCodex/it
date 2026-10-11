@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - AUMENTO DELLE PENSIONI DEI DOTTORI COMMERCIALISTI E DEI RAGIONIERI E
+## CAPO I - AUMENTO DELLE PENSIONI DEI DOTTORI COMMERCIALISTI E DEI RAGIONIERI E PERITI COMMERCIALI
 
-### PERITI COMMERCIALI
-
-#### Art. 1
+### Art. 1
 
 Le prestazioni previdenziale delle Casse nazionali di previdenza e di assistenza a favore dei dottori commercialisti e dei ragionieri e periti commerciali consistono nella liquidazione di pensioni dirette di vecchiaia e di invalidita', di pensioni ai superstiti e di indennita' una tantum, nella misura e con le norme stabilite negli articoli successivi.
 
@@ -38,7 +36,7 @@ Per provvedere alla determinazione, dell'importo delle prestazioni di cui al pre
 
 Le pensioni annuali sono corrisposte in tredici rate mensili posticipati di uguale misura.
 
-#### Art. 2
+### Art. 2
 
 Il contributo fisso personale obbligatorio annuo a carico degli iscritti alle Casse nazionali di previdenza ed assistenza a favore dei dottori commercialisti e dei ragionieri e periti commerciali a' elevato, a partire dal 1969, a lire 81.500, senza distinzione di eta' dell'iscritto. ((1))
 
@@ -52,11 +50,11 @@ AGGIORNAMENTO (1)
 
 Il D.L. 12 settembre 1983, n.463, convertito con modificazioni dalla L. 11 novembre 1983, n.638, ha disposto (con l'art. 4, comma 6-bis) che "Il contributo annuo fisso personale a carico degli iscritti alle Casse nazionali di previdenza ed assistenza a favore dei dottori commercialisti e dei ragionieri e periti commerciali, previsto dall'articolo 2 della legge 23 dicembre 1970, n. 1140, e' elevato a L. 960.000 a partire dal 1 gennaio 1984."
 
-#### Art. 3
+### Art. 3
 
 La percentuale prevista dagli articoli 20 rispettivamente delle leggi 3 febbraio 1963, n. 100, e 9 febbraio 1963, n. 160, relativa all'incarico di sindaco in enti o societa', escluse comunque quelle a forma cooperativa, e' trattenuta dalle societa' stesse e versata entro trenta giorni alle rispettive Casse nazionali di previdenza ed assistenza, a seconda che il sindaco appartenga all'albo dei dottori commercialisti o a quello dei ragionieri e periti commerciali.
 
-#### Art. 4
+### Art. 4
 
 Alla lettera a) dell'articolo 1 della legge 12 marzo 1968, n. 410, sono aggiunte in fine le seguenti parole:
 
@@ -66,7 +64,7 @@ All'ultimo comma dell'articolo 2 della legge 12 marzo 1968, n. 410, sono aggiunt
 
 Al primo comma dell'articolo 8 della legge 12 marzo 1968, n. 410, le parole "nonche' al prelievo stabilito nel primo comma" sono sostituite con le seguenti "nonche' al prelievo ed alla ripartizione stabilita al primo ed al secondo comma".
 
-#### Art. 5
+### Art. 5
 
 La pensione diretta di vecchiaia e' corrisposta ai dottori commercialisti ed ai ragionieri e periti commerciali:
 
@@ -74,13 +72,13 @@ a) al compimento del 650 anno di eta' e dopo almeno 25 anni di contribuzione all
 
 b) al compimento del 70° anno di eta' purche' abbiano maturato almeno venti anni di contribuzione.
 
-#### Art. 6
+### Art. 6
 
 L'ammontare della pensione di vecchiaia si determina trasformando in rendita, mediante i coefficienti di cui alla allegata tabella 1, il montante finanziario al 4,25 per cento delle somme accreditate sul conto individuale dell'iscritto.
 
 L'ammontare della pensione, qualora risulti inferiore a lire 1.300.000 annue, e' integrato, dalle rispettive Casse, sino a tale importo.
 
-#### Art. 7
+### Art. 7
 
 La pensione di invalidita' spetta, previa cancellazione dall'albo, all'iscritto che per sopravvenuta malattia o infortunio abbia perduto in modo permanente, ed in misura non inferiore al 50 per cento, la capacita' all'esercizio della sua professione.
 
@@ -90,7 +88,7 @@ L'ammontare della pensione di invalidita' si determina trasformando in rendita, 
 
 L'ammontare della pensione, qualora risulti inferiore a lire 1.300.000 annue, e' integrato sino a tale importo dalle rispettive Casse.
 
-#### Art. 8
+### Art. 8
 
 La pensione ai superstiti del pensionato e' corrisposta al coniuge ed ai figli nei casi, con le condizioni nelle misure stabilite per gli impiegati dello Stato.
 
@@ -100,11 +98,11 @@ L'ammontare della pensione di cui al comma precedente si determina trasformando 
 
 Qualora l'ammontare della pensione ai superstiti risulti inferiore lire 650.000 annue, esso e' integrato si no a tale importo dalle rispettive Casse.
 
-#### Art. 9
+### Art. 9
 
 La misura delle pensioni gia' corrisposte dalle due Casse di previdenza dei dottori commercialisti e dei ragionieri e periti commerciali, a partire dal mese successivo all'entrata in vigore della presente legge e' elevata a lire 1 milione e 300 mila lire annue per le pensioni dirette ed a lire 650.000 annue per le pensioni ai superstiti; per quelle corrisposte ai sensi dell'articolo 5 della legge 12 marzo 1968, n. 410, la misura e' elevata a lire 520 mila annue.
 
-#### Art. 10
+### Art. 10
 
 Gli importi delle pensioni di cui ai precedenti articoli, ivi compresi i trattamenti minimi, con effetto dal 1 gennaio di ciascun anno sono aumentati in misura percentuale pari all'aumento percentuale dell'indice del costo della vita calcolato dall'Istituto centrale di statistica ai fini della scala mobile delle retribuzioni dei lavoratori dell'industria. Sono escluse dall'aumento le pensioni aventi decorrenza compresa nell'anno anteriore a quello da cui ha effetto l'aumento, salvo quanto disposto nel penultimo comma del presente articolo.
 
@@ -116,7 +114,7 @@ Le misure dei trattamenti minimi, raggiunte al 1 gennaio di ciascun anno in base
 
 La variazione percentuale d'aumento dell'indice di cui al primo comma e' accertata con decreto del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per il tesoro.
 
-#### Art. 11
+### Art. 11
 
 L'indennita' una tantum costituita dal montante finanziario al 4,25 per cento delle somme accreditate sul conto individuale dell'iscritto e' corrisposta:
 
@@ -128,7 +126,7 @@ c) all'iscritto che abbia raggiunto il 70° anno di eta' senza aver maturato il 
 
 Ove, nelle ipotesi previste dai punti a) e b), l'indennita' liquidabile risulti inferiore ad un milione di lire, essa e' integrata dalle rispettive Casse sino a tale importo.
 
-#### Art. 12
+### Art. 12
 
 I dottori commercialisti e i ragionieri e periti commerciali che all'entrata in vigore delle leggi 3 febbraio 1963, n. 100, e 9 febbraio 1963, n. -166, avevano compiuto il 40° anno di eta' e risultavano iscritti ai rispettivi albi, sono ammessi (e gli ultracinquantenni alla stessa data riammessi) nei termini di iscrizione e di riscatto per conseguire il diritto alla pensione diretta di vecchiaia ai sensi dei precedenti articoli 5 e 6 purche' presentino le relative domande alle rispettive Casse di previdenza nel termine di sei mesi dall'entrata in vigore della presente legge e paghino, entro lo stesso termine ed in unica soluzione, i contributi personali obbligatori annui a partire dal 1963, nonche' le quote di riscatto previste dall'ammessa tabella 4 in corrispondenza alla eta' compiuta alla data di entrata in vigore della presente legge.
 
@@ -144,7 +142,7 @@ Coloro che, trovandosi nelle condizioni di cui al precedente comma, hanno compiu
 
 In favore di coloro che esibiscono un certificato dell'ufficio distrettuale delle imposte dal quale risultino tassati per imposta complementare, ivi compreso il reddito di RM CI, per un imponibile non superiore a lire 1 milione e che si trovino nell'impossibilita' di pagare, anche ratealmente, il residuo dovuto, le giunte delle rispettive Casse di previdenza possono accreditare in un conto speciale intestato all'interessato la differenza, al netto del 4,25 per cento di interesse annuo scalare, tra l'ammontare della pensione immediatamente riconosciuta in lire 100 mila mensili e l'ammontare della pensione effettivamente corrisposta; questa ultima, variabile di mese in mese, e' proporzionale alle 100 mila lire mensili riconosciute, nello stesso rapporto esistente tra il saldo alla fine del mese precedente del conto speciale e l'ammontare di quanto dall'interessato originariamente dovuto.
 
-#### Art. 13
+### Art. 13
 
 Presso le rispettive Casse sono istituiti quattro distinti fondi:
 
@@ -156,7 +154,7 @@ Presso le rispettive Casse sono istituiti quattro distinti fondi:
 
 4\) un fondo per l'assistenza, alimentato dalle entrate di cui al precedente punto 2).
 
-#### Art. 14
+### Art. 14
 
 Ogni anno, dall'ammontare delle entrate previste dalle lettere b) e c) dell'articolo 17 rispettivamente delle leggi 3 febbraio 1963, n. 100, e 9 febbraio 1963, n. 160, e dagli articoli 1 e 4 della legge 12 marzo 1968; n. 410, sono prelevate le somme occorrenti per le spese di gestione delle Casse, ivi comprese quelle necessarie per colmare gli eventuali deficit tecnici che fossero rilevati dai bilanci tecnici quadriennali, nonche' le somme necessarie per l'accreditamento, nei conti individuali degli iscritti-, degli interessi per la parte eventualmente non coperta dal reddito degli investimenti della rispettiva Cassa.
 
@@ -172,19 +170,17 @@ Ove il fondo di riserva, di integrazione dei minimi e per l'adeguamento automati
 
 Qualora si verifichi nel numero degli iscritti alle Casse una diminuzione superiore al dieci per cento rispetto agli iscritti risultanti alla data del 31 dicembre 1969, le percentuali di cui al secondo comma del presente articolo possono essere modificate con decreto del Ministro per il lavoro e la previdenza sociale di concerto con il Ministro per il tesoro.
 
-#### Art. 15
+### Art. 15
 
 I miglioramenti delle prestazioni previsti dai precedenti articoli si applicano alle pensioni in corso di godimento, con decorrenza dal primo mese successivo a quello dell'entrata in vigore della presente legge.
 
-## CAPO II - ASSISTENZA SANITARIA A FAVORE DEI DOTTORI COMMERCIALISTI E DEI
+## CAPO II - ASSISTENZA SANITARIA A FAVORE DEI DOTTORI COMMERCIALISTI E DEI RAGIONIERI E PERITI COMMERCIALI
 
-### RAGIONIERI E PERITI COMMERCIALI
-
-#### Art. 16
+### Art. 16
 
 Oltre a quanto previsto dall'articolo 34 rispettivamente delle leggi 3 febbraio 1963, n. 100, e 9 febbraio 1963, n. 160, le Casse nazionali di previdenza ed assistenza a favore dei dottori commercialisti e dei ragionieri e periti commerciali provvedono all'attuazione dell'assistenza di malattia in favore dei propri iscritti e dei loro familiari, con gestioni e contabilita' separate.
 
-#### Art. 17
+### Art. 17
 
 Il servizio di assistenza sanitaria e' prestato da uno degli enti pubblici che gia' provvedono all'assistenza contro le malattie, con il quale le Casse nazionali di previdenza ed assistenza a favore dei dottori commercialisti e dei ragionieri e periti commerciali sono singolarmente autorizzate a stipulare la relativa convenzione, che dovra' essere approvata dai rispettivi comitati dei delegati e dal Ministro per il lavoro e la previdenza sociale.
 
@@ -194,13 +190,13 @@ In ogni caso dovranno essere garantite le cure ospedaliere, sia mediche che chir
 
 Eventuali convenzioni con ospedali, cliniche o case di cura e sanitarie in genere sono approvate dalle giunte esecutive delle predette Casse nazionali di previdenza ed assistenza.
 
-#### Art. 18
+### Art. 18
 
 Sono obbligatoriamente soggetti all'assistenza sanitaria, ad eccezione di coloro che hanno diritto all'assistenza di malattia da parte di altri enti assicurativi di diritto pubblico, tutti coloro che sono iscritti rispettivamente alle Casse di previdenza ed assistenza a favore dei dottori commercialisti e dei ragionieri e periti commerciali, nonche' i dottori commercialisti, ragionieri, periti commerciali e loro superstiti che fruiscono di pensione.
 
 Gli iscritti che abbiano in corso polizze di assistenza malattie con compagnie private potranno ritardare la loro iscrizione obbligatoria, di cui al presente articolo, sino alla data di scadenza della polizza contratta. A questo fine essi dovranno inoltrare alla Cassa, entro 60 giorni dall'entrata in vigore della presente legge, fotocopia autenticata della polizza da essi come sopra contratta.
 
-#### Art. 19
+### Art. 19
 
 Ai fini delle disposizioni contenute nel presente capo sono considerati componenti la famiglia:
 
@@ -216,7 +212,7 @@ Il diritto dei familiari dell'assicurato rimane in essere e cessa in una con que
 
 Sono esclusi dalle prestazioni i familiari assistiti da altra forma obbligatoria di assistenza o assicurazione malattia.
 
-#### Art. 20
+### Art. 20
 
 Ai fondi occorrenti per l'assistenza contro le malattie, le due Casse nazionali di previdenza ed assistenza a favore dei dottori commercialisti e dei ragionieri e periti commerciali provvedono:
 
@@ -224,25 +220,25 @@ a) con un contributo personale annuo che e' fissato dai rispettivi consigli di a
 
 b) con eventuale contributo da prelevarsi dalle somme destinate all'assistenza a norma dei precedenti articoli 13 e 14.
 
-#### Art. 21
+### Art. 21
 
 Quando ambedue i coniugi sono iscritti nello stesso albo, professionale dei dottori commercialisti o dei ragionieri e periti commerciali per l'assistenza sanitaria e' dovuto un solo contributo personale che e' posto a carico del marito.
 
 ## CAPO III - NORME TRANSITORIE E FINALI
 
-#### Art. 22
+### Art. 22
 
 Ai superstiti di iscritti deceduti anteriormente alla data di entrata in vigore della presente legge spetta egualmente la pensione indiretta, secondo le norme contenute nella presente legge, previa restituzione, da attuarsi mediante conguaglio, delle somme gia' liquidate dalla Cassa a titolo di indennita' una tantum a norma dell'articolo 29 rispettivamente della legge 3 febbraio 1963, n. 100, e della legge 9 febbraio 1963, n. 160.
 
 La disposizione di cui al precedente comma si applica anche a coloro che siano stati colpiti da invalidita' prima della data di entrata in vigore della presente legge ed ai quali non sia stato riconosciuto il diritto a pensione di invalidita' per difetto, dei requisiti contributivi.
 
-#### Art. 23
+### Art. 23
 
 Sono abrogati il primo comma, dell'articolo, 18 e gli articoli 24, 25, 26, 27, 28, 29, 35, 36, 38, 39, 42 e 43 rispettivamente delle leggi 3 febbraio 1963, n. 100, e 9 febbraio 1963, n. 160.
 
 Al primo comma dell'articolo 19 rispettivamente della legge 3 febbraio 1963, n. 100, e della legge 9 febbraio 1963, n. 160, e' aggiunto il seguente punto: "3) da lire 250 sugli atti relativi a procedure concorsuali".
 
-#### Art. 24
+### Art. 24
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -258,7 +254,7 @@ Visto, il Guardasigilli: REALE
 
 ## CAPO III - NORME TRANSITORIE E FINALI
 
-#### Tabelle
+### Tabelle
 
 TABELLA 1
 

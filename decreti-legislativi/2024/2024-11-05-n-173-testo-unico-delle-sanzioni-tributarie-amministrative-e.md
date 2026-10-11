@@ -100,13 +100,11 @@ Visto, il Guardasigilli: Nordio
 
 > «Art. 1 (Proroga di termine). - 1. All'articolo 21, comma 1, alinea, della legge 9 agosto 2023, n. 111, le parole: "entro dodici mesi dalla data di entrata in vigore della presente legge" sono sostituite dalle seguenti: "entro il 31 dicembre 2025."».
 
-## PARTE I - Disposizioni in materia
+## PARTE I - Disposizioni in materia di sanzioni amministrative
 
-### di sanzioni amministrative - Titolo I
+### Titolo I - DISPOSIZIONI GENERALI IN MATERIA DI SANZIONI AMMINISTRATIVE PER LE VIOLAZIONI DI NORME TRIBUTARIE
 
-#### DISPOSIZIONI GENERALI IN MATERIA DI SANZIONI AMMINISTRATIVE - PER LE VIOLAZIONI DI NORME TRIBUTARIE
-
-##### Capo I - Disposizioni generali
+#### Capo I - Disposizioni generali
 
 Allegato
 
@@ -506,9 +504,9 @@ Abolizione della soprattassa e della pena pecuniaria
 
 3\. Salvo diversa espressa previsione, i procedimenti di irrogazione delle sanzioni disciplinati nel presente titolo si applicano all'irrogazione di tutte le sanzioni tributarie non penali.
 
-## Titolo II - SANZIONI IN MATERIA DI IMPOSTE SUI REDDITI E DI IMPOSTA SUL VALORE AGGIUNTO
+### Titolo II - SANZIONI IN MATERIA DI IMPOSTE SUI REDDITI E DI IMPOSTA SUL VALORE AGGIUNTO
 
-### Capo I - Sanzioni in materia di imposte sui redditi
+#### Capo I - Sanzioni in materia di imposte sui redditi
 
 ###### Art. 27
 
@@ -574,7 +572,7 @@ Omessa denuncia delle variazioni dei redditi fondiari
 
 1\. In caso di omessa denuncia, nel termine previsto per legge, delle situazioni che danno luogo a variazioni in aumento del reddito dominicale e del reddito agrario dei terreni, si applica la sanzione amministrativa da euro 250 a euro 2.000.
 
-## Capo II - Sanzioni in materia di imposta sul valore aggiunto
+#### Capo II - Sanzioni in materia di imposta sul valore aggiunto
 
 ###### Art. 30
 
@@ -720,9 +718,7 @@ Qualora la dichiarazione sia stata rilasciata in mancanza dei presupposti richie
 
 2\. ((In caso di violazione degli obblighi di comunicazione di cui all'articolo 104 del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10, si applica la sanzione di cui all'articolo 35, comma 1.))
 
-## Capo III - Disposizioni comuni alle imposte sui redditi
-
-### e all'imposta sul valore aggiunto
+#### Capo III - Disposizioni comuni alle imposte sui redditi e all'imposta sul valore aggiunto
 
 ###### Art. 33
 
@@ -898,9 +894,9 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 5 agosto 2026, n. 141, ha disposto (con l'art. 8, comma 1, lettera s)) che al presente articolo, al comma 3, terzo periodo, "«articolo 2, commi 1, 1-bis, 2 e 3, del decreto legislativo 5 agosto 2015, n. 127» sono sostituite dalle seguenti: «articolo 82, commi 1, 2, 4 e 5, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10»".
 
-## Titolo III - SANZIONI IN MATERIA DI RISCOSSIONE
+### Titolo III - SANZIONI IN MATERIA DI RISCOSSIONE
 
-### Capo I - Sanzioni in materia di riscossione
+#### Capo I - Sanzioni in materia di riscossione
 
 ###### Art. 38
 
@@ -970,11 +966,9 @@ Incompletezza dei documenti di versamento
 
 3\. Per l'omessa presentazione del modello di versamento contenente i dati relativi alla eseguita compensazione, si applica la sanzione di euro 100, ridotta a euro 50 se il ritardo non e' superiore a cinque giorni lavorativi.
 
-## Titolo IV - SANZIONI IN MATERIA DI IMPOSTA DI REGISTRO, IPOTECARIA E CATASTALE,
+### Titolo IV - SANZIONI IN MATERIA DI IMPOSTA DI REGISTRO, IPOTECARIA E CATASTALE, SUCCESSIONI E DONAZIONI, BOLLO
 
-### SUCCESSIONI E DONAZIONI, BOLLO - Capo I
-
-#### Sanzioni in materia di imposta di registro
+#### Capo I - Sanzioni in materia di imposta di registro
 
 ###### Art. 41
 
@@ -1070,7 +1064,7 @@ Altre infrazioni
 
 2\. Per le violazioni conseguenti alle richieste di cui all'((articolo 302 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)) si applicano le disposizioni di cui ai titoli II e III.
 
-## Capo II - Sanzioni in materia di imposte ipotecaria e catastale
+#### Capo II - Sanzioni in materia di imposte ipotecaria e catastale
 
 ###### Art. 46
 
@@ -1082,7 +1076,7 @@ Omissione della trascrizione e delle annotazioni
 
 2\. Se l'omissione riguarda trascrizioni o annotazioni soggette ad imposta fissa o non soggette ad imposta o da eseguirsi a debito, ovvero per le quali l'imposta e' stata gia' pagata entro il termine stabilito, si applica la sanzione amministrativa da euro 100 a euro 2.000, ridotta a euro 50 se la richiesta e' effettuata con ritardo non superiore a trenta giorni.
 
-## Capo III - Sanzioni in materia di imposta sulle successioni e donazioni
+#### Capo III - Sanzioni in materia di imposta sulle successioni e donazioni
 
 ###### Art. 47
 
@@ -1154,7 +1148,7 @@ Determinazione della sanzione amministrativa
 
 1\. ((Nel caso di mancato rispetto delle condizioni di cui all'articolo 89, comma 6, periodi dal primo al quarto, del testo unico delle disposizioni legislative in materia di imposta di registro e altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123, si applica la sanzione amministrativa di cui all'articolo 38, comma 1.))
 
-## Capo IV - Sanzioni in materia di imposta di bollo
+#### Capo IV - Sanzioni in materia di imposta di bollo
 
 ###### Art. 51
 
@@ -1202,11 +1196,9 @@ Violazioni in materia di valori di bollo precedentemente usati
 
 1\. ((Per l'omesso versamento dell'imposta di cui all'articolo 167, comma 1, del testo unico delle disposizioni legislative in materia di imposta di registro e altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123, si applica una sanzione pari all'importo non versato.))
 
-## Titolo V - SANZIONI IN MATERIA DI TRIBUTI ERARIALI MINORI (IMPOSTA SULLE CONCESSIONI GOVERNATIVE; IMPOSTA SU ASSICURAZIONI PRIVATE E CONTRATTI VITALIZI; IMPOSTA SUGLI INTRATTENIMENTI; CANONE RAI ((;TASSE SULLE CONCESSIONI GOVERNATIVE)))
+### Titolo V - SANZIONI IN MATERIA DI TRIBUTI ERARIALI MINORI (IMPOSTA SULLE CONCESSIONI GOVERNATIVE; IMPOSTA SU ASSICURAZIONI PRIVATE E CONTRATTI VITALIZI; IMPOSTA SUGLI INTRATTENIMENTI; CANONE RAI ((;TASSE SULLE CONCESSIONI GOVERNATIVE)))
 
-### Capo I - Sanzioni in materia di imposte sulle concessioni governative
-
-#### e su assicurazioni private e contratti vitalizi
+#### Capo I - Sanzioni in materia di imposte sulle concessioni governative e su assicurazioni private e contratti vitalizi
 
 ###### Art. 55
 
@@ -1258,7 +1250,7 @@ Altre disposizioni
 
 1\. Le somme riscosse per le sanzioni amministrative previste dall'articolo 56 sono ripartite a norma della legge 7 febbraio 1951, n. 168, detratto il 10 per cento per spese inerenti alla riscossione.
 
-## Capo II - Sanzioni in materia di imposta sugli intrattenimenti
+#### Capo II - Sanzioni in materia di imposta sugli intrattenimenti
 
 ###### Art. 58
 
@@ -1306,7 +1298,7 @@ Violazioni relative agli apparecchi misuratori fiscali e alle biglietterie autom
 
 2\. La mancata tempestiva richiesta di intervento per la manutenzione dei misuratori fiscali e' punita con la sanzione da euro 250 a euro 2.000.
 
-## Capo III - Sanzioni in materia di abbonamenti alle radioaudizioni e canone rai in bolletta
+#### Capo III - Sanzioni in materia di abbonamenti alle radioaudizioni e canone rai in bolletta
 
 ###### Art. 61
 
@@ -1342,7 +1334,7 @@ Pagamento tardivo dell'abbonamento
 
 1\. ((In caso di violazione degli obblighi di comunicazione e di versamento dei canoni di cui all'articolo 61, comma 1, del testo unico dei tributi erariali minori, di cui al decreto legislativo 5 novembre 2024, n. 174, si applicano, rispettivamente, le sanzioni di cui agli articoli 30, comma 1, e 38, comma 1.))
 
-## ((Capo III-bis)) - ((Sanzioni in materia di tasse sulle concessioni governative))
+#### ((Capo III-bis)) - ((Sanzioni in materia di tasse sulle concessioni governative))
 
 ###### Art. 62-ter
 
@@ -1360,9 +1352,9 @@ Pagamento tardivo dell'abbonamento
 
 1\. ((Per il ritardo della tassa annuale di cui all'articolo 9, comma 1, lettera b), della tariffa di cui all'allegato 4 del testo unico dei tributi erariali minori, di cui al decreto legislativo 5 novembre 2024, n. 174, entro il semestre si applica la sanzione pecuniaria di euro 361,52.))
 
-## Titolo VI - ALTRE SANIZIONI
+### Titolo VI - ALTRE SANIZIONI
 
-### Capo I - Sanzioni in materia di anagrafe tributaria e codice fiscale dei contribuenti
+#### Capo I - Sanzioni in materia di anagrafe tributaria e codice fiscale dei contribuenti
 
 ###### Art. 63
 
@@ -1394,7 +1386,7 @@ Applicazione della sanzione
 
 1\. Le sanzioni amministrative previste nell'articolo 63 sono irrogate dagli uffici dell'Agenzia delle entrate o dalle conservatorie dei registri immobiliari. Si applica la disciplina sul procedimento prevista nelle disposizioni generali sulle sanzioni amministrative per la violazione di norme tributarie di cui al titolo I.
 
-## Capo II - Sanzioni in materia di documento di accompagnamento dei beni viaggianti
+#### Capo II - Sanzioni in materia di documento di accompagnamento dei beni viaggianti
 
 ###### Art. 65
 
@@ -1424,9 +1416,7 @@ Recidiva e sanzioni accessorie
 
 4\. Agli effetti dei commi 1, 2 e 3 si tiene conto anche delle violazioni per le quali e' intervenuto il procedimento di cui all'articolo 65, comma 4.
 
-## Capo III - Violazioni in materia di rilevazione ai fini fiscali di taluni trasferimenti
-
-### da e per l'estero di denaro, titoli e valori
+#### Capo III - Violazioni in materia di rilevazione ai fini fiscali di taluni trasferimenti da e per l'estero di denaro, titoli e valori
 
 ###### Art. 67
 
@@ -1444,7 +1434,7 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 5 agosto 2026, n. 141, ha disposto (con l'art. 8, comma 1, lettera tt)) che al presente articolo, al comma 1, "le parole: «all'articolo 1 del decreto-legge 28 giugno 1990, n. 167, convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227» sono sostituite dalle seguenti: «all'articolo 18 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento»".
 
-## Capo IV - Violazioni in materia di trasmissione telematica delle dichiarazioni e violazioni degli intermediari
+#### Capo IV - Violazioni in materia di trasmissione telematica delle dichiarazioni e violazioni degli intermediari
 
 ###### Art. 68
 
@@ -1498,9 +1488,9 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 7 agosto 2026, n. 148 ha disposto (con l'art. 18, comma 3) che "Le disposizioni del presente articolo si applicano a partire dalle attivita' di controllo effettuate sulle dichiarazioni relative al periodo d'imposta 2023".
 
-## ((Capo IV-bis - Violazioni relative a comunicazioni
+#### ((Capo IV-bis - Violazioni relative a comunicazioni
 
-### Sezione I - Violazioni relative a comunicazioni in materia di imposte sui redditi))
+##### Sezione I - Violazioni relative a comunicazioni in materia di imposte sui redditi))
 
 ###### Art. 69-bis
 
@@ -1518,7 +1508,7 @@ Il D.Lgs. 7 agosto 2026, n. 148 ha disposto (con l'art. 18, comma 3) che "Le dis
 
 L'omessa, ritardata, errata o incompleta comunicazione prevista all'articolo 351, comma 4, del citato testo unico delle disposizioni legislative in materia di imposte sui redditi e' punita con la sanzione amministrativa da 250 euro a 2.000 euro. Per i primi tre esercizi di applicazione delle disposizioni del presente titolo, le sanzioni amministrative previste al primo e al terzo periodo sono ridotte del 50 per cento.))
 
-## ((Sezione II - Violazioni relative a comunicazioni di crediti d'imposta derivanti dall'esercizio delle opzioni di cui all'articolo 121 del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77))
+##### ((Sezione II - Violazioni relative a comunicazioni di crediti d'imposta derivanti dall'esercizio delle opzioni di cui all'articolo 121 del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77))
 
 ###### Art. 69-quater
 
@@ -1542,7 +1532,7 @@ Qualora sia accertata la mancata sussistenza, anche parziale, dei requisiti che 
 
 1\. ((La sanzione di cui all'articolo 38, comma 5, si applica nei casi di violazione dell'articolo 4-bis, comma 1, del decreto-legge 29 marzo 2024, n. 39, convertito, con modificazioni, dalla legge 23 maggio 2024, n. 67.))
 
-## ((Sezione III - Violazioni relative a comunicazioni in materia di riscossione))
+##### ((Sezione III - Violazioni relative a comunicazioni in materia di riscossione))
 
 ###### Art. 69-septies
 
@@ -1584,7 +1574,7 @@ Qualora sia accertata la mancata sussistenza, anche parziale, dei requisiti che 
 
 1\. ((In caso di mancato adempimento da parte di soggetti terzi, debitori del soggetto che e' iscritto a ruolo o dei coobbligati, degli obblighi rivenienti dalle richieste formulate ai sensi dell'articolo 175, commi 1 e 2, del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33, si applica la sanzione di cui all'articolo 35.))
 
-## ((Sezione IV - Altre violazioni relative a comunicazioni))
+##### ((Sezione IV - Altre violazioni relative a comunicazioni))
 
 ###### Art. 69-duodecies
 
@@ -1662,9 +1652,9 @@ Qualora sia accertata la mancata sussistenza, anche parziale, dei requisiti che 
 
 2\. ((Nei casi di incompleta o inesatta comunicazione delle informazioni di cui all'articolo 206 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento si applica la sanzione amministrativa pecuniaria prevista dall'articolo 35, comma 1, ridotta della meta'.))
 
-## ((Capo VI-ter - Disposizioni speciali in materia di aumento e riduzione della sanzione amministrativa
+#### ((Capo VI-ter - Disposizioni speciali in materia di aumento e riduzione della sanzione amministrativa
 
-### Sezione I - Riduzioni della sanzione amministrativa))
+##### Sezione I - Riduzioni della sanzione amministrativa))
 
 ###### Art. 69-vicies
 
@@ -1754,7 +1744,7 @@ c) e' ridotto a un terzo se il contribuente provvede a pagare le somme dovute ai
 
 1\. ((Le sanzioni amministrative si applicano nella misura del quaranta per cento del minimo previsto dalla legge, in caso di perfezionamento della conciliazione nel corso del primo grado di giudizio e nella misura del cinquanta per cento del minimo previsto dalla legge, in caso di perfezionamento nel corso del secondo grado di giudizio e nella misura del sessanta per cento del minimo previsto dalla legge, in caso di perfezionamento della conciliazione nel corso del giudizio di Cassazione.))
 
-## ((Sezione II - Aumenti della sanzione amministrativa))
+##### ((Sezione II - Aumenti della sanzione amministrativa))
 
 ###### Art. 69-triciessemel
 
@@ -1812,9 +1802,9 @@ Omissioni del pubblico ufficiale o dell'incaricato di un pubblico servizio
 
 1\. Il pubblico ufficiale o l'incaricato di un pubblico servizio, che al fine d'interrompere o di turbare la regolarita' dei servizi di accertamento e di riscossione delle imposte, rifiuta, omette o ritarda atti del proprio ufficio o servizio, e' punito con la reclusione da un anno a sei anni.
 
-## Capo II - Disciplina dei reati in materia di imposte sui redditi e sul valore aggiunto
+#### Capo II - Disciplina dei reati in materia di imposte sui redditi e sul valore aggiunto
 
-### Sezione I - Definizioni
+##### Sezione I - Definizioni
 
 ###### Art. 73
 
@@ -1856,7 +1846,7 @@ m) per «crediti non spettanti» si intendono:
 
 3\) i crediti utilizzati in difetto dei prescritti adempimenti amministrativi espressamente previsti a pena di decadenza.
 
-## Sezione II - Delitti in materia di dichiarazione
+##### Sezione II - Delitti in materia di dichiarazione
 
 ###### Art. 74
 
@@ -1926,7 +1916,7 @@ Tentativo
 
 2\. Quando la condotta e' posta in essere al fine di evadere l'imposta sul valore aggiunto nell'ambito di sistemi fraudolenti transfrontalieri, connessi al territorio di almeno un altro Stato membro dell'Unione europea, dai quali consegua o possa conseguire un danno complessivo pari o superiore a euro 10.000.000, il delitto previsto dall'articolo 76 e' punibile a titolo di tentativo. Fuori dei casi di concorso nel delitto di cui all'articolo 79, i delitti previsti dagli articoli 74 e 75 sono punibili a titolo di tentativo, quando ricorrono le medesime condizioni di cui al primo periodo.
 
-## Sezione III - Delitti in materia di documenti, pagamento di imposte e disposizioni varie
+##### Sezione III - Delitti in materia di documenti, pagamento di imposte e disposizioni varie
 
 ###### Art. 79
 

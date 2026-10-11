@@ -27,21 +27,21 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo di collaborazione culturale tra il Governo della Repubblica italiana ed il Governo della Repubblica del Venezuela, fatto a Caracas il 17 ottobre 1990.
 
-### Art. 2
+## Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 12 dell'accordo medesimo.
 
-### Art. 3
+## Art. 3
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 372 milioni per l'anno 1997 e in lire 405 milioni annue a decorrere dal 1998, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1997-1999, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1997, all'uopo parzialmente utilizzando l'accantonamento riguardante al Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 4
+## Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -59,7 +59,7 @@ Visto, il Guardasigilli: FLICK
 
 ## Allegati
 
-### art. 1
+## art. 1
 
 ACCORDO DI COLLABORAZIONE CULTURALE
 
@@ -71,15 +71,15 @@ Il Governo della Repubblica Italiana ed il Governo della Repubblica del Venezuel
 
 Art. 1. - Il presente Accordo ha lo scopo di promuovere e realizzare attivita' che favoriscano la conoscenza reciproca dei rispettivi patrimoni culturali e che stimolino la cooperazione culturale e artistica tra i due Paesi.
 
-### art. 2
+## art. 2
 
 Art. 2. - Ciascuna delle due Parti favorira' sul proprio territorio, di comune accordo e nella misura delle proprie disponibilita', l'attivita' di Istituzioni culturali quali Centri culturali, Associazioni culturali ed Istituti di insegnamento e d'arte. Tali Istituzioni usufruiranno delle piu' ampie facilitazioni per il proprio funzionamento, nell'ambito delle norme vigenti nel Paese dove esse operano.
 
-### art. 3
+## art. 3
 
 Art. 3. - Le Parti si impegnano a mettere allo studio nel tempo piu' breve la possibilita di giungere, nell'ambito delle rispettive legislazioni, a un Accordo separato che regoli a tutti gli effetti i titoli di studio rilasciati dalle Istituzioni scolastiche statali e legalmente riconosciute da ciascuna delle Parti operanti nel territorio dell'altra, sempre che i programmi di studio corrispondano a quelli vigenti nel Paese nel quale si chiede il riconoscimento dei sistemi educativi. Le Parti si impegnano altresi' ad esaminare la possibilita' di regolamentare il riconoscimento reciproco dei titoli di studio rilasciati da Universita' o Istituti universitari dei due Paesi, sempreche' i programmi di studio corrispondano a quelli vigenti nel Paese nel quale si chiede il riconoscimento di tali titoli.
 
-### art. 4
+## art. 4
 
 Art. 4. - Le Parti favoriranno ed agevoleranno, nei limiti delle proprie possibilita', l'elaborazione e la messa in atto di programmi e progetti di collaborazione culturale di reciproco interesse.
 
@@ -97,19 +97,19 @@ Tale collaborazione comprendera' attivita' quali:
 
 \- invio ed interscambio di artisti, scrittori, storiografi, direttori di gruppi culturali e specialisti per partecipare a seminari, simposi, conferenze ed altri eventi culturali.
 
-### art. 5
+## art. 5
 
 Art. 5. - Le Parti favoriranno lo studio, l'elaborazione e l'attuazione congiunta o coordinata di programmi e progetti di ricerca e di sviluppo culturale.
 
-### art. 6
+## art. 6
 
 Art. 6. - Le Parti potranno, sempre che lo ritengano necessario, richiedere di comune accordo la partecipazione di organismi internazionali al finanziamento o all'attuazione di programmi o di progetti derivanti dalle forme di cooperazione contemplate nel presente Accordo o negli accordi complementari da esso derivanti.
 
-### art. 7
+## art. 7
 
 Art. 7. - Le Parti faciliteranno la realizzazione di viaggi e l'invio di missioni, da effettuarsi da propri docenti, ricercatori ed esperti, scrittori, artisti, musicisti ed altre personalita' con il fine di partecipare a riunioni o colloqui, dare conferenze, scrivere o preparare opere e articoli letterari, tenere corsi, presentare esposizioni, offrire concerti o dare corso ad attivita' similari su temi culturali, artistici, storici, letterari o musicali che interessino entrambi i Paesi. Le Parti contraenti promuoveranno altresi' le visite e la esibizione di orchestre, di gruppi musicali, di danza, di teatro e di folklore.
 
-### art. 8
+## art. 8
 
 Art. 8. - Le Parti stimoleranno la migliore conoscenza delle loro rispettive culture con i mezzi seguenti:
 
@@ -131,25 +131,25 @@ Art. 8. - Le Parti stimoleranno la migliore conoscenza delle loro rispettive cul
 
 \- organizzazioni di rassegne cinematografiche e scambio di informazioni e documentazione cinematografiche.
 
-### art. 9
+## art. 9
 
 Art. 9. - Le opere letterarie, artistiche, musicali, drammatiche, liriche, folkloristiche, cinematografiche, radiofoniche, televisive e le altre opere di natura analoga, protette dalla legislazione di una delle Parti contraenti, usufruiranno nel territorio sotto la giurisdizione dell'altra Parte della protezione da questa ultima concessa alle opere in questione sul proprio territorio, senza pregiudizio di quanto previsto dagli accordi o convenzioni internazionali cui sono soggette entrambe le Parti.
 
-### art. 10
+## art. 10
 
 Art. 10. - Le Parti contraenti stabiliranno, mediante accordi specifici, le modalita attraverso le quali le Biblioteche, i Musei, i Centri di formazione ed altre Istituzioni pubbliche o private potranno scambiare opere d'arte originali o riproduzioni, fotografie, diapositive, films, microfilms, documenti, mobilio, costumi, oggetti folkloristici e qualsiasi altro elemento relativo al patrimonio storico, artistico od archeologico dell'uno o dell'altro Paese.
 
 ## DISPOSIZIONI FINALI
 
-### art. 11
+## art. 11
 
 Art. 11. - Ogni controversia fra le Parti, relativa alla interpretazione o esecuzione del presente Accordo, sara' risolta mediante negoziati per le vie diplomatiche.
 
-### art. 12
+## art. 12
 
 Art. 12. - Il presente Accordo sara' ratificato dopo l'adempimento delle formalita' legali e costituzionali stabiliti in ciascuno dei due Paesi contraenti, ed entrera' in vigore un mese dopo lo scambio degli strumenti di ratifica, che verra' effettuato a Roma.
 
-### art. 13
+## art. 13
 
 Art. 13. - Il presente Accordo avra' la durata di cinque anni, rinnovabili tacitamente, e potra' essere denunciato in qualsiasi momento da ciascuna delle due Parti, con un anno di anticipo rispetto alla data cui si vorra' porgli termine.
 

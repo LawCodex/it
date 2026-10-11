@@ -29,17 +29,15 @@ la seguente legge:
 
 ## TITOLO I - APPROVAZIONE DEI RENDICONTI
 
-##### Art. 1 - Rendiconti
+#### Art. 1 - Rendiconti
 
 1\. Il rendiconto generale dell'Amministrazione dello Stato e i rendiconti delle Amministrazioni e delle Aziende autonome per l'esercizio 2008 sono approvati nelle risultanze di cui ai seguenti articoli.
 
 ## TITOLO II - AMMINISTRAZIONE DELLO STATO
 
-### CAPO I
+### CAPO I - CONTO DEL BILANCIO
 
-#### CONTO DEL BILANCIO
-
-##### Art. 2 - Entrate
+#### Art. 2 - Entrate
 
 1\. Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossione di crediti, e per accensione di prestiti, accertate nell'esercizio finanziario 2008 per la competenza propria dell'esercizio, risultano stabilite in euro 720.235.907.865,34.
 
@@ -49,7 +47,7 @@ la seguente legge:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 3 - Spese
+#### Art. 3 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di passivita' finanziarie, impegnate nell'esercizio finanziario 2008 per la competenza propria dell'esercizio, risultano stabilite in euro 720.544.491.614,05.
 
@@ -75,7 +73,7 @@ l'esercizio  |                  |                 |
 ---------------------------------------------------------------------
 ```
 
-##### Art. 4 - Disavanzo della gestione di competenza
+#### Art. 4 - Disavanzo della gestione di competenza
 
 1\. Il disavanzo della gestione di competenza dell'esercizio finanziario 2008, di euro 308.583.748,71, risulta stabilito come segue:
 
@@ -109,7 +107,7 @@ gestione di competenza  |                     |       308.583.748,71
 ---------------------------------------------------------------------
 ```
 
-##### Art. 5 - Situazione finanziaria
+#### Art. 5 - Situazione finanziaria
 
 1\. Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 2008, di euro 302.578.811.168,80 risulta stabilito come segue:
 
@@ -151,11 +149,11 @@ Disavanzo al 31 dicembre 2007  302.270.227.420,09
 
 Disavanzo finanziario al 31 dicembre 2008  302.578.811.168,80
 
-##### Art. 6 - Approvazione allegato
+#### Art. 6 - Approvazione allegato
 
 1\. E' approvato l'allegato n. 1, di cui all'articolo 9, ultimo comma, della legge 5 agosto 1978, n. 468.
 
-##### Art. 7 - Eccedenze
+#### Art. 7 - Eccedenze
 
 1\. Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo per l'esercizio 2008 rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, relative alle unita' previsionali di base degli stati di previsione della spesa dei Ministeri sotto indicati, nonche' dell'Amministrazione dei Monopoli di Stato come risulta dal dettaglio che segue:
 
@@ -326,9 +324,9 @@ speciali e      |                |                 |
 autonome        |  4.670.415,00  |        -        |        -
 ```
 
-## CAPO II - CONTO GENERALE DEL PATRIMONIO
+### CAPO II - CONTO GENERALE DEL PATRIMONIO
 
-##### Art. 8 - Risultati generali della gestione patrimoniale
+#### Art. 8 - Risultati generali della gestione patrimoniale
 
 1\. La situazione patrimoniale dell'Amministrazione dello Stato, al 31 dicembre 2008, resta stabilita come segue:
 
@@ -364,7 +362,7 @@ al 31 dicembre 2008............ € 1.504.321.434.724,90
 
 ### CAPO I - ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-##### Art. 9 - Entrate
+#### Art. 9 - Entrate
 
 1\. Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 2008 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in euro 6.216.715,36.
 
@@ -385,7 +383,7 @@ dell'esercizio 2007 |    58.079,00|                    -|   58.079,00
                     |             |            22.599,00|
 ```
 
-##### Art. 10 - Spese
+#### Art. 10 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Istituto predetto, impegnate nell'esercizio finanziario 2008 per la competenza propria dell'esercizio, risultano stabilite in euro 6.216.715,36.
 
@@ -406,9 +404,9 @@ dell'esercizio 2007 | 3.869.063,58|         3.727.972,03|7.597.035,61
                     |             |         5.928.422,66|
 ```
 
-## CAPO II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
+### CAPO II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-##### Art. 11 - Entrate
+#### Art. 11 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei monopoli di Stato, comprese quelle delle gestioni speciali ed autonome, accertate nell'esercizio finanziario 2008 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'economia e delle finanze, in euro 14.334.804.824,91.
 
@@ -418,7 +416,7 @@ dell'esercizio 2007 | 3.869.063,58|         3.727.972,03|7.597.035,61
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 12 - Spese
+#### Art. 12 - Spese
 
 1\. Le spese correnti ed in conto capitale e per rimborso di passivita' finanziarie del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali ed autonome, impegnate nell'esercizio 2008 per la competenza propria dell'esercizio, risultano stabilite in euro 14.334.804.824,91.
 
@@ -441,7 +439,7 @@ dell'esercizio  |                |                 |
 =====================================================================
 ```
 
-##### Art. 13 - Riassunto generale
+#### Art. 13 - Riassunto generale
 
 1\. E riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei monopoli di Stato, di competenza dell'esercizio 2008, risulta cosi' stabilito:
 
@@ -461,7 +459,7 @@ Spese delle gestioni speciali............. €13.284.978.519,99
 
 € 14.334.804.824,91
 
-##### Art. 14 - Situazione finanziaria
+#### Art. 14 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio 2008, risulta come appresso:
 
@@ -471,9 +469,9 @@ Spese dell'esercizio 2008 » 14.334.804.824,91
 
 Saldo della gestione di competenza  -
 
-## CAPO III - ARCHIVI NOTARILI
+### CAPO III - ARCHIVI NOTARILI
 
-##### Art. 15 - Avanzo
+#### Art. 15 - Avanzo
 
 1\. L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 2008, risulta stabilito come segue:
 
@@ -485,9 +483,9 @@ Spese...........................€ 273.928.833,45
 
 € 47.298.298,98
 
-## CAPO IV - FONDO EDIFICI DI CULTO
+### CAPO IV - FONDO EDIFICI DI CULTO
 
-##### Art. 16 - Entrate
+#### Art. 16 - Entrate
 
 1\. Le entrate correnti e in conto capitale del bilancio del Fondo edifici di culto, accertate nell'esercizio finanziario 2008 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in euro 9.312.225,48.
 
@@ -511,7 +509,7 @@ dell'esercizio|             |             |             |
               |             |             | 1.911.736,15|
 ```
 
-##### Art. 17 - Spese
+#### Art. 17 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio 2008 per la competenza propria dell'esercizio, risultano stabilite in euro 9.464.591,53.
 
@@ -521,7 +519,7 @@ dell'esercizio|             |             |             |
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 18 - Situazione finanziaria
+#### Art. 18 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione del Fondo edifici di culto, alla fine dell'esercizio 2008, risulta come appresso:
 
@@ -581,9 +579,9 @@ Visto, il Guardasigilli: Alfano
 
 > Alla legge di approvazione del rendiconto generale dello Stato e' allegato un elenco dei decreti di cui al secondo comma, con le indicazioni dei motivi per i quali si e' proceduto ai prelevamenti dal fondo di cui al presente articolo.».
 
-## CAPO IV - FONDO EDIFICI DI CULTO
+### CAPO IV - FONDO EDIFICI DI CULTO
 
-##### Allegato
+#### Allegato
 
 Allegato
 

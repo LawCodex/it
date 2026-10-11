@@ -34,11 +34,11 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 ## CAPO I. - Disposizioni generali.
 
-#### Art. 1
+### Art. 1
 
 A decorrere dal 28 ottobre 1942-XX e' costituito in Roma, con sede presso la Direzione generale delle poste e dei telegrafi, un ente di diritto pubblico, dotato di propria personalita' giuridica, con la denominazione di «Istituto di assistenza e previdenza per il personale delle ricevitorie postali e telegrafiche».
 
-#### Art. 2
+### Art. 2
 
 L'Istituto provvede:
 
@@ -54,7 +54,7 @@ e) ad altre forme di assistenza deliberate dal Consiglio di amministrazione ed a
 
 ## CAPO II. - Assistenza sanitaria.
 
-#### Art. 3
+### Art. 3
 
 Sono iscritti all'assistenza sanitaria tutti i ricevitori ed i gerenti postali e telegrafici, i quali debbono versare all'Istituto un contributo mensile di lire sei.
 
@@ -70,11 +70,9 @@ Il D.Lgs. Luogotenenziale 4 maggio 1946, n. 591 ha disposto (con l'art. 2, comma
 
 Ha inoltre disposto (con l'art. 8, comma 1) che la presente modifica ha effetto dal 1° luglio 1945.
 
-## CAPO III. - Gestione, educazione ed istruzione orfani
+## CAPO III. - Gestione, educazione ed istruzione orfani e colonie estive.
 
-### e colonie estive.
-
-#### Art. 4
+### Art. 4
 
 Sono inscritti alle gestioni per l'educazione ed istruzione degli orfani e per le colonie estive tutti i ricevitori e gerenti postali-telegrafici e gli agenti rurali effettivi.
 
@@ -104,7 +102,7 @@ Il D.Lgs. 9 aprile 1948, n. 523 ha disposto (con l'art. 2, comma 1) che "Alle ge
 
 ## CAPO IV. - Sussidi agenti rurali.
 
-#### Art. 5
+### Art. 5
 
 Sono inscritti alla gestione sussidi tutti gli agenti rurali effettivi.
 
@@ -138,11 +136,11 @@ La L. 10 agosto 1950, n. 730 ha disposto (con l'art. 1, comma 1) che "Il contrib
 
 ## CAPO V. - Proventi e norme.
 
-#### Art. 6
+### Art. 6
 
 ((All'Istituto e' devoluto un quarto dell'importo annuo dell'aggio corrisposto dall'Istituto nazionale della previdenza sociale per vendita di marche per le assicurazioni sociali effettuata nelle ricevitorie e nelle agenzie, restando i rimanenti tre quarti suddivisi in parti uguali fra il ricevitore interessato e l'Amministrazione postale)).
 
-#### Art. 7
+### Art. 7
 
 Le norme per l'attuazione delle singole provvidenze di cui all'art. 2 saranno stabilite dal Consiglio di amministrazione e approvate dal Ministro per le comunicazioni.
 
@@ -152,7 +150,7 @@ Il Consiglio stesso puo' accettare oblazioni e contributi eventuali da parte del
 
 ## CAPO VI. - Norme comuni alle varie gestioni.
 
-#### Art. 8
+### Art. 8
 
 L'Istituto e' considerato Amministrazione dello Stato agli effetti di tutte le imposte e tasse, anche per quanto riguarda l'applicazione dei tributi sulle erogazioni da esso disposte.
 
@@ -160,21 +158,21 @@ Esso inoltre gode dell'esenzione delle tasse postali telegrafiche di ogni specie
 
 Le domande per il conseguimento dei benefici dell'Istituto e i documenti che le corredano sono esenti dalle tasse di bollo.
 
-#### Art. 9
+### Art. 9
 
 I crediti dell'Istituto verso gli iscritti o loro aventi causa sono considerati crediti dello Stato per ogni effetto di legge.
 
 Con le norme stabilite dal testo unico 14 aprile 1910, n. 639, l'Istituto puo' procedere su tutti i beni mobili ed immobili, presenti e futuri dell'iscritto e suoi aventi causa per il recupero dei propri crediti.
 
-#### Art. 10
+### Art. 10
 
 L'assistenza legale e la rappresentanza e difesa in giudizio dell'Istituto sono affidate alla Regia avvocatura dello Stato. A tal fine l'Istituto e' considerato Amministrazione dello Stato, ferme restando le norme ordinarie di procedura civile relative alla notifica degli atti e alla competenza dell'autorita' giudiziaria.
 
-#### Art. 11
+### Art. 11
 
 L'Amministrazione delle poste e dei telegrafi concede all'Istituto l'uso gratuito dei locali di ufficio.
 
-#### Art. 12
+### Art. 12
 
 L'Istituto e' soggetto alla vigilanza del Ministro per le comunicazioni.
 
@@ -186,27 +184,27 @@ L'esercizio finanziario decorre dal 1° luglio.
 
 Il presidente riferisce annualmente al Ministro per le comunicazioni sull'opera svolta dall'Istituto e sul bilancio. La relazione e' allegata a quella annuale dell'Amministrazione delle poste e dei telegrafi.
 
-#### Art. 13
+### Art. 13
 
 I contributi ordinari e straordinari dovuti all'Istituto a norma della presente legge sono esenti da imposte, tasse o diritti.
 
 L'Amministrazione delle poste e dei telegrafi provvede a ritenere le corrispondenti somme sulle retribuzioni mensili dovute ai suoi dipendenti ed a versarne contemporaneamente l'importo all'Istituto.
 
-#### Art. 14
+### Art. 14
 
 A decorrere dal 28 ottobre 1942-XX le gestioni, alle quali l'Istituto di assicurazione e previdenza per i postelegrafonici provvede per le materie contemplate nella presente legge passano nello stato attivo e passivo in cui si trovano e con tutti i rapporti giuridici ad esse inerenti all'Istituto di assistenza e previdenza per il personale delle ricevitorie postali e telegrafiche per i compiti a questo affidati dalla presente legge.
 
 Con decreto del Ministro per le comunicazioni da emanarsi di intesa col Ministro per le finanze e coi Segretario del Partito Nazionale Fascista, Ministro Segretario di Stato, sara' stabilita la quota di patrimonio da devolvere all'Istituto di cui alla presente legge.
 
-#### Art. 15
+### Art. 15
 
 Con decreto Reale da emanare ai sensi dell'art. 3, n. 1, della legge 31 gennaio 1926-IV, n. 100, su proposta del Ministro per l'Africa Italiana di concerto con quelli per le comunicazioni e per le finanze, saranno emanate le norme integrative e complementari necessarie per rendere applicabile la presente legge anche nei confronti del personale delle ricevitorie postali e telegrafiche dell'Africa italiana.
 
-#### Art. 16
+### Art. 16
 
 Con regolamento, da deliberare dal Consiglio di amministrazione dell'Istituto e da assoggettare all'approvazione del Ministro per le comunicazioni e del Ministro per le finanze, saranno stabilite la dotazione organica, le norme di assunzione e lo stato giuridico, il trattamento economico di attivita' a qualsiasi titolo e di previdenza per il personale, compreso il direttore, comunque necessario per il funzionamento dell'Istituto.
 
-#### Art. 17
+### Art. 17
 
 Fino all'entrata in vigore del regolamento organico da stabilire per l'Istituto di assistenza e previdenza per il personale delle ricevitorie postali e telegrafiche, ai sensi del precedente art. 16, alle esigenze dell'Istituto stesso sara' provveduto col personale in servizio presso l'Istituto di assicurazione e previdenza per i postelegrafonici.
 
@@ -216,7 +214,7 @@ Il personale stesso, peraltro, puo' essere assunto dall'Istituto di assistenza e
 
 Il personale che non venga assunto ai sensi del precedente comma sara' liquidato con le norme vigenti.
 
-#### Art. 18
+### Art. 18
 
 Le disposizioni contrarie o comunque incompatibili con quelle della presente legge sono abrogate.
 

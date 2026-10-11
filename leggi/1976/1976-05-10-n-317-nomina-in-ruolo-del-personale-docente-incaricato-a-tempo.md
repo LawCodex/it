@@ -25,11 +25,9 @@ PROMULGA
 
 la seguente legge:
 
-## Capo I - INSEGNANTI INCARICATI A TEMPO INDETERMINATO NELLE SCUOLE ELEMENTARI
+## Capo I - INSEGNANTI INCARICATI A TEMPO INDETERMINATO NELLE SCUOLE ELEMENTARI STATALI - NOMINA IN RUOLO
 
-### STATALI - NOMINA IN RUOLO
-
-#### Art. 1
+### Art. 1
 
 Gli insegnanti elementari in servizio nell'anno scolastico 1974-75, quali incaricati a tempo indeterminato con dichiarazione di non licenziabilita' ai sensi dell'articolo 9, primo e secondo comma, della legge 24 settembre 1971, n. 820, sono con decorrenza 1 ottobre 1975 nominati in ruolo.
 
@@ -37,7 +35,7 @@ Gli insegnanti elementari in servizio nell'anno scolastico 1974-75, ai quali l'i
 
 Gli insegnanti di cui ai precedenti commi sono iscritti con la qualifica di straordinario nel ruolo in soprannumero delle province in cui ottennero l'incarico o - per quanto concerne gli incaricati non licenziabili - nelle quali sono stati trasferiti per compensazione.
 
-#### Art. 2
+### Art. 2
 
 Gli insegnanti elementari, in servizio nell'anno scolastico 1974-75 in virtu' del conferimento per la prima volta dell'incarico a tempo indeterminato senza dichiarazione di non licenziabilita' e che al medesimo titolo abbiano prestato servizio nell'anno scolastico 1975-76, sono nominati in ruolo con decorrenza 1 ottobre 1976, venendo iscritti con la qualifica di straordinario nel ruolo in soprannumero delle province in cui ottennero l'incarico.
 
@@ -45,15 +43,15 @@ Sono del pari nominati in ruolo con la medesima decorrenza 1 ottobre 1976 gli in
 
 Gli insegnanti di cui al primo comma sono confermati in servizio nell'anno scolastico 1975-76, in qualita' di incaricati.
 
-#### Art. 3
+### Art. 3
 
 Le disposizioni di cui agli articoli 1 e 2 si applicano agli insegnanti con incarico a tempo indeterminato nelle scuole elementari statali del ruolo normale, del ruolo speciale per l'insegnamento nelle scuole elementari statali presso le carceri e gli stabilimenti penitenziari e dei ruoli speciali per l'insegnamento nelle scuole elementari statali per l'assolvimento dell'obbligo scolastico da parte dei fanciulli ciechi.
 
-#### Art. 4
+### Art. 4
 
 Gli insegnanti che, iscritti nelle graduatorie provinciali permanenti, abbiano contemporaneamente titolo alla nomina in ruolo per effetto delle graduatorie medesime e delle disposizioni di cui agli articoli 1 e 2, conseguono la nomina per il diritto conseguente dal posto occupato nella graduatoria provinciale permanente.
 
-#### Art. 5
+### Art. 5
 
 Coloro che, in possesso dei titoli di studio indicati nella legge 21 dicembre 1955, n. 1363 e nel prescritto orario abbiano prestato servizio nell'anno scolastico 1974-75, con l'incarico a tempo indeterminato nelle scuole elementari statali, per insegnamento di materie speciali previste dall'articolo 27, secondo comma, del regio decreto 1 luglio 1933, n. 786, sono - a decorrere dal 1 ottobre 1976 - assunti a domanda in un ruolo magistrale, aggiuntivo ad esaurimento, da istituire nelle province dove tuttora sussistono posti per impartire i predetti insegnamenti, con lo sviluppo di carriera e il trattamento giuridico ed economico del normale ruolo organico degli insegnanti elementari.
 
@@ -65,11 +63,9 @@ A decorrere dal 1 ottobre 1975 e' abrogato l'articolo 27, secondo comma, del reg
 
 Gli insegnamenti in atto di svolgimento saranno esperti nell'ambito dell'articolo 1 della legge 24 settembre 1971, n. 820 e con l'osservanza dell'orario di servizio in vigore per gli insegnanti elementari del ruolo normale.
 
-## Capo II - PERSONALE DOCENTE E ASSISTENTE DEGLI ISTITUTI STATALI
+## Capo II - PERSONALE DOCENTE E ASSISTENTE DEGLI ISTITUTI STATALI PER SORDOMUTI INCARICATO A TEMPO INDETERMINATO - NOMINA IN RUOLO.
 
-### PER SORDOMUTI INCARICATO A TEMPO INDETERMINATO - NOMINA IN RUOLO.
-
-#### Art. 6
+### Art. 6
 
 Gli insegnanti elementari, forniti del titolo di speciale abilitazione e in servizio nell'anno scolastico 1974-1975 con incarico a tempo indeterminato nelle scuole elementari degli istituti statali per sordomuti, sono nominati nel ruolo organico del personale docente di cui alla tabella annessa alla legge 30 luglio 1973, n. 488, con la qualifica di straordinario, a decorrere dal 1 ottobre 1975.
 
@@ -79,7 +75,7 @@ Sono del pari nominati in ruolo con decorrenza 1 ottobre 1976 gli insegnanti ele
 
 ## Capo III - COPERTURA FINANZIARIA
 
-#### Art. 7
+### Art. 7
 
 Al maggiore onere derivante dall'attuazione della presente legge, valutato in L. 7.200.000.000 in ragione di anno, si provvede, per l'anno finanziario 1976, mediante riduzione dello stanziamento del capitolo 6856 dello stato di previsione della spesa del Ministero del tesoro per l'anno finanziario medesimo.
 

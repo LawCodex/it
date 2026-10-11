@@ -26,99 +26,93 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - Modifiche alla legge 12 novembre 1955, n. 1137, sull'avanzamento
+## CAPO I - Modifiche alla legge 12 novembre 1955, n. 1137, sull'avanzamento degli ufficiali dell'Esercito, della Marina e dell'Aeronautica
 
-### degli ufficiali dell'Esercito, della Marina e dell'Aeronautica
-
-#### Art. 1
+### Art. 1
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66 ))
 
-#### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-#### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-## CAPO II - Modifiche alla legge 6 marzo 1958, n. 247, sulla costituzione e
+## CAPO II - Modifiche alla legge 6 marzo 1958, n. 247, sulla costituzione e ordinamento dei reparti elicotteri dell'Esercito e della Marina
 
-### ordinamento dei reparti elicotteri dell'Esercito e della Marina
-
-#### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010 N. 66))
 
-## CAPO III - Modifiche alla legge 15 dicembre 1959, n. 1089, sullo stato ed
+## CAPO III - Modifiche alla legge 15 dicembre 1959, n. 1089, sullo stato ed avanzamento degli ufficiali della Guardia di finanza
 
-### avanzamento degli ufficiali della Guardia di finanza
-
-#### Art. 21
+### Art. 21
 
 Le disposizioni di cui all'articolo 7 della presente legge si applicano anche per l'avanzamento dei tenenti e sottotenenti di complemento della Guardia di finanza.
 
@@ -128,7 +122,7 @@ Il corso di applicazione per i sottotenenti della Guardia di finanza provenienti
 
 Il nuovo ordine di anzianita' dei sottotenenti che superino il corso di applicazione di cui al precedente comma e' stabilito, in deroga a quanto dispone il primo comma dell'articolo 65 della legge 12 novembre 1955, n. 1137, esteso alla Guardia di finanza per effetto dell'articolo 1 della legge 15 dicembre 1959, n. 1089, in base alla media fra il punto, ridotto in centesimi, riportato nella classifica finale dell'Accademia ed i punti, espressi in centesimi, attribuiti all'ufficiale al termine del corso annuale di applicazione.
 
-#### Art. 22
+### Art. 22
 
 L'articolo 7 della legge 15 dicembre 1959, n. 1089, e' sostituito dal seguente:
 
@@ -138,7 +132,7 @@ La Commissione superiore di avanzamento esprime giudizi sull'avanzamento degli u
 
 La Commissione ordinaria di avanzamento esprime giudizi sull'avanzamento degli ufficiali aventi grado da sottotenente a maggiore. Essa e' composta del generale di Corpo di armata comandante generale, che la presiede, del generale di divisione comandante in 2ª e di quattro ufficiali generali o colonnelli della Guardia di finanza designati dal Ministro su proposta del comandante generale".
 
-#### Art. 23
+### Art. 23
 
 La presente legge entra in vigore il giorno successivo alla pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 

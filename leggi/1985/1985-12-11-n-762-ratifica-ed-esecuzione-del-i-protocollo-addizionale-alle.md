@@ -25,7 +25,7 @@ PROMULGA
 
 la seguente legge:
 
-###### Art. 1
+##### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare il I protocollo addizionale alle convenzioni di Ginevra del 12 agosto 1949, relativo alla protezione delle vittime dei conflitti armati internazionali, e il II protocollo addizionale alle convenzioni stesse, relativo alla protezione delle vittime dei conflitti armati non internazionali, con atto finale, adottati a Ginevra l'8 giugno 1977 dalla conferenza per la riaffermazione e lo sviluppo del diritto internazionale umanitario applicabile nei conflitti armati e aperti alla firma a Berna il 12 dicembre 1977.
 
@@ -35,11 +35,11 @@ Il Presidente della Repubblica e' autorizzato a ratificare il I protocollo addiz
 
 > Le convenzioni di Ginevra del 12 agosto 1949 sono state ratificate e rese esecutive in Italia con legge 27 ottobre 1951, n. 1739, pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 53 del 1 marzo 1952.
 
-###### Art. 2
+##### Art. 2
 
 Piena ed intera esecuzione e' data ai protocolli di cui all'articolo precedente a decorrere dalla loro entrata in vigore in conformita' a quanto disposto rispettivamente all'articolo 95 del I protocollo e dall'articolo 23 del II protocollo.
 
-###### Art. 3
+##### Art. 3
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -57,7 +57,7 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 ## Allegati
 
-###### Protocole
+##### Protocole
 
 PROTOCOLE ADDITIONNEL AUX CONVENTIONS DE GENEVE DU 12 AOUT
 
@@ -93,7 +93,7 @@ Riaffermando, inoltre, che le disposizioni delle Convenzioni di Ginevra del 12 a
 
 Hanno convenuto quanto segue:
 
-###### Articolo 1
+##### Articolo 1
 
 Principi generali e campo di applicazione
 
@@ -105,7 +105,7 @@ Principi generali e campo di applicazione
 
 4\. Le situazioni indicate nel paragrafo precedente comprendono i conflitti armati nei quali i popoli lottano contro la dominazione coloniale e l'occupazione straniera e contro i regimi razzisti, nell'esercizio del diritto dei popoli di disporre di se' stessi, consacrato nella Carta delle Nazioni Unite e nella Dichiarazione relativa ai principi di diritto internazionale concernenti le relazioni amichevoli e la cooperazione fra gli Stati in conformita' della Carta delle Nazioni Unite.
 
-###### Articolo 2
+##### Articolo 2
 
 Definizioni
 
@@ -119,7 +119,7 @@ c) con l'espressione "Potenza protettrice" si intende uno Stato neutrale o un al
 
 d) con il termine "sostituto" si intende una organizzazione che sostituisce la Potenza protettrice conformemente all'art. 5.
 
-###### Articolo 3
+##### Articolo 3
 
 Inizio e fine dell'applicazione
 
@@ -129,13 +129,13 @@ a) le Convenzioni e il presente Protocollo si applicheranno fin dall'inizio di u
 
 b) l'applicazione delle Convenzioni e del presente Protocollo cessera', sul territorio delle Parti in conflitto, alla fine generale delle operazioni militari e, nel caso dei territori occupati, alla fine dell'occupazione, salvo, nei due casi, per le persone la cui liberazione definitiva, il rimpatrio o lo stabilimento abbiano luogo in tempo successivo. Dette persone continueranno a beneficiare delle disposizioni pertinenti delle Convenzioni e del presente Protocollo fino alla loro liberazione definitiva, rimpatrio o stabilimento.
 
-###### Articolo 4
+##### Articolo 4
 
 Statuto giuridico delle Parti in conflitto
 
 L'applicazione delle Convenzioni e del presente Protocollo, nonche' la conclusione degli accordi previsti in detti strumenti non produrranno effetto alcuno sullo statuto giuridico delle Parti in conflitto. Sia l'occupazione di un territorio che l'applicazione delle Convenzioni e del presente Protocollo non avranno effetto alcuno sullo statuto giuridico del territorio stesso.
 
-###### Articolo 5
+##### Articolo 5
 
 Designazione delle Potenze protettrici e del loro sostituto
 
@@ -155,7 +155,7 @@ Dette liste dovranno essere comunicate al Comitato entro due settimane dalla ric
 
 7\. Ogni volta che nel presente Protocollo si fara' menzione della Potenza protettrice, tale menzione indichera' anche il sostituto.
 
-###### Articolo 6
+##### Articolo 6
 
 Personale qualificato
 
@@ -167,7 +167,7 @@ Personale qualificato
 
 4\. Le condizioni in base alle quali detto personale sara' impiegato fuori del territorio nazionale saranno oggetto, in ogni singolo caso, di accordi speciali fra le Parti interessate.
 
-###### Articolo 7
+##### Articolo 7
 
 Riunioni
 
@@ -175,11 +175,9 @@ Il depositario del presente Protocollo convochera', su richiesta di una o piu' d
 
 ## Titolo II - Feriti, malati e naufraghi
 
-### Sezione I
+#### Sezione I - Protezione generale
 
-#### Protezione generale
-
-###### Articolo 8
+##### Articolo 8
 
 Terminologia
 
@@ -227,7 +225,7 @@ l) con l'espressione "segno distintivo" si intende qualsiasi segno distintivo de
 
 m) con l'espressione "segnale distintivo" si intende qualsiasi segnale o messaggio specificato nel Capitolo III dell'Allegato I al presente Protocollo e destinato esclusivamente all'identificazione delle unita' e mezzi di trasporto sanitario.
 
-###### Articolo 9
+##### Articolo 9
 
 Campo d'applicazione
 
@@ -241,7 +239,7 @@ b) da una societa' di soccorso riconosciuta e autorizzata da detto Stato;
 
 c) da una organizzazione internazionale imparziale di carattere umanitario.
 
-###### Articolo 10
+##### Articolo 10
 
 Protezione e cure
 
@@ -249,7 +247,7 @@ Protezione e cure
 
 2\. Saranno trattati, in ogni circostanza, con umanita' e riceveranno, nella maggiore misura possibile e nei termini piu' brevi, le cure mediche richieste dalle loro condizioni. Fra di essi, non sara' fatta alcuna distinzione fondata su criteri diversi da quelli sanitari.
 
-###### Articolo 11
+##### Articolo 11
 
 Protezione della persona
 
@@ -273,7 +271,7 @@ c) prelevamenti di tessuti o organi per trapianti, a meno che detti interventi n
 
 Inoltre, ciascuna Parte in conflitto procurera' di tenere una documentazione di tutti gli interventi medici effettuati nei confronti delle persone internate, detenute o in qualsiasi altro modo private della liberta' a causa di una delle situazioni indicate nell'articolo 1. Tali pratiche e documentazioni dovranno essere, in qualsiasi momento, a disposizione della Potenza protettrice per fini di controllo.
 
-###### Articolo 12
+##### Articolo 12
 
 Protezione delle unita' sanitarie
 
@@ -291,7 +289,7 @@ c) essere autorizzate conformemente agli articoli 9 paragrafo 2 del presente Pro
 
 4\. In nessuna circostanza, le unita' sanitarie saranno utilizzate per cercare di mettere obiettivi militari al riparo da attacchi. Ogni volta che sia possibile, le Parti in conflitto cureranno che le unita' sanitarie siano situate in modo tale che gli attacchi contro obiettivi militari non le mettano in pericolo.
 
-###### Articolo 13
+##### Articolo 13
 
 Cessazione della protezione delle unita' sanitarie civili
 
@@ -309,7 +307,7 @@ c) il fatto che si trovino nell'unita' armi portatili e munizioni ritirate ai fe
 
 d) il fatto che appartenenti alle forze armate o altri combattenti si trovino in dette unita' per ragioni mediche.
 
-###### Articolo 14
+##### Articolo 14
 
 Limitazioni alla requisizione di unita' sanitarie civili
 
@@ -325,7 +323,7 @@ b) che la requisizione non ecceda il periodo di tempo in cui tale necessita' sus
 
 c) che disposizioni immediate siano prese affinche' le esigenze di assistenza sanitaria della popolazione civile, nonche' quelle dei feriti e dei malati in cura colpiti dalla requisizione, continuino ad essere soddisfatte.
 
-###### Articolo 15
+##### Articolo 15
 
 Protezione del personale sanitario e religioso civile
 
@@ -341,7 +339,7 @@ Detto personale non sara' costretto ad attivita' incompatibili con la sua missio
 
 5\. Il personale religioso civile sara' rispettato e protetto. Sono ad esso applicabili le disposizioni delle Convenzioni e del presente Protocollo relative alla protezione e all'identificazione del personale sanitario.
 
-###### Articolo 16
+##### Articolo 16
 
 Protezione generale della missione medica
 
@@ -351,7 +349,7 @@ Protezione generale della missione medica
 
 3\. Nessuna persona che esercita un'attivita' di carattere medico dovra' essere costretta a dare a chiunque appartenga sia ad una Parte avversaria che alla stessa propria Parte, salvo nei casi previsti dalla legge di quest'ultima, informazioni concernenti i feriti e i malati che ha o ha avuto in cura, se essa ritiene che tali informazioni possano portare pregiudizio a costoro o alle loro famiglie. Nondimeno, dovranno essere rispettati i regolamenti che disciplinano la denuncia obbligatoria delle malattie contagiose.
 
-###### Articolo 17
+##### Articolo 17
 
 Ruolo della popolazione civile e delle societa' di soccorso
 
@@ -361,7 +359,7 @@ Nessuno sara' molestato, perseguito, condannato o punito per tali atti umanitari
 
 2\. Le Parti in conflitto potranno fare appello alla popolazione civile e alle societa' di soccorso indicate nel paragrafo 1 per raccogliere e curare i feriti, malati e naufraghi, e per ricercare i morti e indicare i luoghi in cui questi si trovano; esse accorderanno la protezione e le facilitazioni necessarie a chi avra' risposto a un tale appello. Nel caso in cui la Parte avversaria prenda o riprenda il controllo della regione, essa manterra' in vigore detta protezione e dette facilitazioni fino a che saranno necessarie.
 
-###### Articolo 18
+##### Articolo 18
 
 Identificazione
 
@@ -381,27 +379,27 @@ Identificazione
 
 8\. Le disposizioni delle Convenzioni e del presente Protocollo relative al controllo dell'uso del segno distintivo e alla prevenzione e repressione del suo impiego abusivo, sono applicabili ai segnali distintivi.
 
-###### Articolo 19
+##### Articolo 19
 
 Stati neutrali e altri Stati che non sono Parti in conflitto
 
 Gli Stati neutrali e gli altri Stati che non sono Parti in conflitto applicheranno le disposizioni pertinenti del presente Protocollo alle persone protette da questo Titolo che siano accolte o internate nel loro territorio, nonche' ai morti delle Parti in conflitto eventualmente raccolti.
 
-###### Articolo 20
+##### Articolo 20
 
 Divieto delle rappresaglie
 
 Le rappresaglie contro le persone e i beni protetti dal presente Titolo sono vietate.
 
-## Sezione II - Trasporti sanitari
+#### Sezione II - Trasporti sanitari
 
-###### Articolo 21
+##### Articolo 21
 
 Veicoli sanitari
 
 I veicoli sanitari saranno rispettati e protetti nel modo previsto dalle Convenzioni e dal presente Protocollo per le unita' sanitarie mobili.
 
-###### Articolo 22
+##### Articolo 22
 
 Navi-ospedale e imbarcazioni costiere di salvataggio
 
@@ -427,7 +425,7 @@ b) da una organizzazione internazionale imparziale di carattere umanitario, purc
 
 3\. Le imbarcazioni descritte nell'articolo 27 della II Convenzione saranno protette anche se non sia stata fatta la notifica stabilita in detto articolo. Le Parti in conflitto sono tuttavia invitate a comunicarsi reciprocamente qualsiasi dato che faciliti la identificazione ed il riconoscimento di dette imbarcazioni.
 
-###### Articolo 23
+##### Articolo 23
 
 Altre navi e imbarcazioni sanitarie
 
@@ -445,13 +443,13 @@ Qualsiasi rifiuto di obbedire a un ordine dato conformemente al paragrafo 2 cost
 
 6\. Le disposizioni pertinenti della II Convenzione si applicheranno ai feriti, malati e naufraghi appartenenti alle categorie indicate nell'articolo 13 della II Convenzione e nell'articolo 44 del presente Protocollo, che si trovano a bordo di dette navi e imbarcazioni sanitarie. I feriti, malati e naufraghi civili che non appartengono a nessuna delle categorie citate nell'articolo 13 della II Convenzione non potranno, se si trovano in mare, essere consegnati ad una Parte che non sia la loro, ne' essere obbligati a lasciare dette navi o imbarcazioni; se, tuttavia, si trovano in potere di una Parte in conflitto che non e' la loro, saranno protetti dalla IV Convenzione e dal presente Protocollo.
 
-###### Articolo 24
+##### Articolo 24
 
 Protezione degli aeromobili sanitari
 
 Gli aeromobili sanitari saranno rispettati e protetti conformemente alle disposizioni del presente Titolo.
 
-###### Articolo 25
+##### Articolo 25
 
 Aeromobili sanitari nelle zone non dominate dalla Parte avversaria
 
@@ -459,7 +457,7 @@ Nelle zone terrestri dominate di fatto da forze amiche o nelle zone marittime ch
 
 Tuttavia, una Parte in conflitto che impiega i propri aeromobili sanitari in dette zone potra', per maggiore sicurezza, fare alla Parte avversaria le notifiche previste nell'articolo 29, in particolare quando detti aeromobili effettuano voli che possono metterli a portata dei sistemi di armi terra-aria della Parte avversaria.
 
-###### Articolo 26
+##### Articolo 26
 
 Aeromobili sanitari nelle zone contatto o similari
 
@@ -467,7 +465,7 @@ Aeromobili sanitari nelle zone contatto o similari
 
 2\. Con l'espressione "zone di contatto" si intende qualsiasi zona terrestre in cui gli elementi avanzati delle forze opposte siano in contatto fra di loro, specialmente laddove essi sono esposti al tiro diretto proveniente da terra.
 
-###### Articolo 27
+##### Articolo 27
 
 Aeromobili sanitari nelle zone dominate dalla Parte avversaria
 
@@ -475,7 +473,7 @@ Aeromobili sanitari nelle zone dominate dalla Parte avversaria
 
 2\. Un aeromobile sanitario che sorvola una zona dominata di fatto da una Parte avversaria in assenza dell'accordo previsto nel paragrafo 1, o contravvenendo a un tale accordo, a causa di un errore di navigazione o di una situazione di urgenza concernente la sicurezza del volo, dovra' fare tutto il possibile per farsi identificare e informare la Parte avversaria della situazione in cui si trova. La Parte avversaria, non appena avra' riconosciuto detto aeromobile sanitario, dovra' fare ogni ragionevole sforzo per dare l'ordine di atterrare o di ammarare indicato nell'articolo 30 paragrafo 1, o per adottare altre misure onde salvaguardare i propri interessi e dare all'aeromobile, in ambedue i casi, il tempo di ottemperare, prima di ricorrere a un attacco.
 
-###### Articolo 28
+##### Articolo 28
 
 Restrizioni all'impiego degli aeromobili sanitari
 
@@ -487,7 +485,7 @@ Restrizioni all'impiego degli aeromobili sanitari
 
 4\. Salvo accordo preventivo con la parte avversaria, gli aeromobili sanitari non potranno essere utilizzati, nell'effettuare i voli indicati negli articoli 26 e 27, per ricercare feriti, malati e naufraghi.
 
-###### Articolo 29
+##### Articolo 29
 
 Notifiche e accordi concernenti gli aeromobili sanitari
 
@@ -507,7 +505,7 @@ c) o una proposta ragionevole alternativa alla richiesta. Essa potra' anche prop
 
 5\. Le Parti prenderanno anche le misure necessarie affinche' il contenuto di dette notifiche e di detti accordi sia diffuso rapidamente alle unita' militari interessate, e queste siano istruite circa i mezzi di identificazione che saranno usati dagli aeromobili sanitari in questione.
 
-###### Articolo 30
+##### Articolo 30
 
 Atterraggio e ispezione degli aeromobili sanitari
 
@@ -531,7 +529,7 @@ b) contravviene alle condizioni prescritte nell'articolo 28, o
 
 c) ha intrapreso il volo in assenza o in violazione di un accordo preventivo, nel caso in cui un tale accordo sia richiesto, l'aeromobile potra' essere sequestrato. Le persone presenti a bordo saranno trattate in conformita' delle disposizioni pertinenti delle Convenzioni e del presente Protocollo. Nel caso in cui l'aeromobile sequestrato sia destinato come aeromobile sanitario permanente, esso potra' essere in seguito usato soltanto come aeromobile sanitario.
 
-###### Articolo 31
+##### Articolo 31
 
 Stati neutrali o altri Stati che non sono Parti in conflitto
 
@@ -549,15 +547,15 @@ Essa curera' in ogni caso che l'ispezione o lo sbarco non aggravi lo stato di sa
 
 5\. Gli stati neutrali o gli altri Stati non Parti in conflitto applicheranno in modo eguale a tutte le Parti in conflitto le eventuali condizioni e restrizioni relative al sorvolo del loro territorio da parte degli aeromobili sanitari, o all'atterraggio di detti aeromobili.
 
-## Sezione III - Persone disperse e decedute
+#### Sezione III - Persone disperse e decedute
 
-###### Articolo 32
+##### Articolo 32
 
 Principio generale
 
 Nell'applicazione della presente Sezione, le attivita' delle Alte Parti contraenti, delle Parti in conflitto e delle organizzazioni umanitarie internazionali menzionate nelle Convenzioni e nel presente Protocollo, dovranno essere motivate soprattutto dal diritto che hanno le famiglie di conoscere la sorte dei loro membri.
 
-###### Articolo 33
+##### Articolo 33
 
 Persone disperse
 
@@ -575,7 +573,7 @@ b) facilitare al massimo possibile e, se necessario, effettuare la ricerca e la 
 
 tali disposizioni potranno prevedere, occorrendolo, che dette squadre siano accompagnate da personale della Parte avversaria mentre svolgono il loro compito nelle zone che si trovano sotto il controllo di detta parte avversaria. Il personale di dette squadre dovra' essere rispettato e protetto mentre attende esclusivamente ai compiti in questione.
 
-###### Articolo 34
+##### Articolo 34
 
 Resti delle persone decedute
 
@@ -599,11 +597,9 @@ b) quando l'esumazione si impone per motivi di pubblica necessita', inclusi i ca
 
 ## Titolo III - Metodi e mezzi di guerra Statuto di combattente e di prigioniero di guerra
 
-### Sezione I
+#### Sezione I - Metodi e mezzi di guerra
 
-#### Metodi e mezzi di guerra
-
-###### Articolo 35
+##### Articolo 35
 
 Regole fondamentali
 
@@ -613,13 +609,13 @@ Regole fondamentali
 
 3\. E' vietato l'impiego di metodi o mezzi di guerra concepiti con lo scopo di provocare, o dai quali ci si puo' attendere che provochino, danni estesi, durevoli e gravi all'ambiente naturale.
 
-###### Articolo 36
+##### Articolo 36
 
 Nuove armi
 
 Nello studio, messa a punto, acquisizione o adozione di una nuova arma, di nuovi mezzi o metodi di guerra, un'Alta Parte contraente ha l'obbligo di stabilire se il suo impiego non sia vietato, in talune circostanze o in qualunque circostanza, dalle disposizioni del presente Protocollo o da qualsiasi altra regola del diritto internazionale applicabile a detta Alta Parte contraente.
 
-###### Articolo 37
+##### Articolo 37
 
 Divieto della perfidia
 
@@ -637,7 +633,7 @@ d) simulare di avere uno statuto protetto facendo uso di segni, emblemi o unifor
 
 mascheramenti, inganni, operazioni simulate e false informazioni.
 
-###### Articolo 38
+##### Articolo 38
 
 Emblemi riconosciuti
 
@@ -645,7 +641,7 @@ Emblemi riconosciuti
 
 2\. E' vietato di fare uso dell'emblema distintivo delle Nazioni Unite fuori dei casi in cui l'uso sia autorizzato da detta Organizzazione.
 
-###### Articolo 39
+##### Articolo 39
 
 Segni di nazionalita'
 
@@ -655,13 +651,13 @@ Segni di nazionalita'
 
 3\. Nessuna delle disposizioni del presente articolo o dell'articolo 37 paragrafo I d, potra' modificare le regole esistenti e generalmente riconosciute del diritto internazionale applicabile allo spionaggio o all'uso delle bandiere nella condotta dei conflitti armati sul mare.
 
-###### Articolo 40
+##### Articolo 40
 
 Quartiere
 
 E' vietato di ordinare che non ci siano sopravvissuti, di minacciarne l'avversario o di condurre le ostilita' in funzione di tale decisione.
 
-###### Articolo 41
+##### Articolo 41
 
 Salvaguardia del nemico fuori combattimento
 
@@ -679,7 +675,7 @@ a condizione che, nei vari casi, essa si astenga da qualsiasi atto di ostilita' 
 
 3\. Quando persone che hanno diritto alla protezione prevista per i prigionieri di guerra sono cadute in mano di una Parte avversaria in condizioni eccezionali di combattimento che impediscono di sgomberarle come previsto nel Titolo III, Sezione I della III Convenzione, esse dovranno essere liberate e tutte le precauzioni possibili dovranno essere prese per garantire la loro sicurezza.
 
-###### Articolo 42
+##### Articolo 42
 
 Persone a bordo di aeromobili
 
@@ -689,9 +685,9 @@ Persone a bordo di aeromobili
 
 3\. Le truppe aeroportate non saranno protette dal presente articolo.
 
-## Sezione II - Statuto di combattente e di prigioniero di guerra
+#### Sezione II - Statuto di combattente e di prigioniero di guerra
 
-###### Articolo 43
+##### Articolo 43
 
 Forze armate
 
@@ -701,7 +697,7 @@ Forze armate
 
 3\. La Parte in conflitto che incorpora nelle proprie forze armate una organizzazione paramilitare o un servizio armato incaricato di fare rispettare l'ordine, dovra' notificarlo alle altre Parti in conflitto.
 
-###### Articolo 44
+##### Articolo 44
 
 Combattenti e prigionieri di guerra
 
@@ -727,7 +723,7 @@ Gli atti che rispondono alle condizioni previste dal presente paragrafo non sono
 
 8\. Oltre alle categorie di persone indicate nell'articolo 13 della I e II Convenzione, tutti i membri delle forze armate di una Parte in conflitto, quali sono definiti dall'articolo 43 del presente Protocollo, hanno diritto alla protezione concessa dalle dette Convenzioni, se essi sono feriti o malati o, nel caso della II Convenzione, se sono naufraghi in mare o in altre acque.
 
-###### Articolo 45
+##### Articolo 45
 
 Protezione delle persone che hanno preso parte alle ostilita'
 
@@ -737,7 +733,7 @@ Protezione delle persone che hanno preso parte alle ostilita'
 
 3\. Ogni persona che, avendo preso parte alle ostilita', non ha diritto allo statuto di prigioniero di guerra e non beneficia di un trattamento piu' favorevole conformemente alla IV Convenzione, avra' diritto, in ogni momento, alla protezione dell'articolo 75 del presente Protocollo. In territorio occupato, una tale persona, salvo che sia detenuta per spionaggio, dovra' beneficiare egualmente, malgrado le disposizioni dell'articolo 5 della IV Convenzione, del diritto di comunicazione previsto dalla detta Convenzione.
 
-###### Articolo 46
+##### Articolo 46
 
 Spie
 
@@ -749,7 +745,7 @@ Spie
 
 4\. Un membro delle forze armate di una Parte in conflitto che non sia residente di un territorio occupato da una Parte avversaria e che abbia svolto attivita' di spionaggio in detto territorio, non perdera' il diritto allo statuto di prigioniero di guerra e non potra' essere trattato come spia, se non nel caso in cui egli sia catturato prima di aver raggiunto le forze armate alle quali appartiene.
 
-###### Articolo 47
+##### Articolo 47
 
 Mercenari
 
@@ -771,19 +767,17 @@ f) che non sia stato inviato da uno Stato non Parte nel conflitto in missione uf
 
 ## Titolo IV - Popolazione civile
 
-### Sezione I
+#### Sezione I - Protezione generale contro gli effetti delle ostilita'
 
-#### Protezione generale contro gli effetti delle ostilita'
+### Capitolo I - Regola fondamentale e campo di applicazione
 
-##### Capitolo I - Regola fondamentale e campo di applicazione
-
-###### Articolo 48
+##### Articolo 48
 
 Regola fondamentale
 
 Allo scopo di assicurare il rispetto e la protezione della popolazione civile e dei beni di carattere civile, le Parti in conflitto dovranno fare, in ogni momento, distinzione fra la popolazione civile e i combattenti, nonche' fra i beni di carattere civile e gli obiettivi militari, e, di conseguenza, dirigere le operazioni soltanto contro obiettivi militari.
 
-###### Articolo 49
+##### Articolo 49
 
 Definizione degli attacchi e campo di applicazione
 
@@ -797,9 +791,9 @@ Esse si applicheranno, inoltre, a tutti gli attacchi navali o aerei diretti cont
 
 4\. Le disposizioni della presente Sezione completano le regole relative alla protezione umanitaria enunciate nella IV Convenzione, in particolare nel Titolo II, e negli altri accordi internazionali che vincolano le Alte Parti contraenti, nonche' le altre regole del diritto internazionale relative alla protezione dei civili e dei beni di carattere civile contro gli effetti delle ostilita' su terra, sul mare e in aria.
 
-## Capitolo II - Persone civili e popolazione civile
+### Capitolo II - Persone civili e popolazione civile
 
-###### Articolo 50
+##### Articolo 50
 
 Definizione delle persone civili e della popolazione civile
 
@@ -809,7 +803,7 @@ Definizione delle persone civili e della popolazione civile
 
 3\. La presenza in seno alla popolazione civile di persone isolate che non rispondono alla definizione di persona civile non priva detta popolazione della sua qualita'.
 
-###### Articolo 51
+##### Articolo 51
 
 Protezione della popolazione civile
 
@@ -841,9 +835,9 @@ b) gli attacchi dai quali ci si puo' attendere che provochino incidentalmente mo
 
 8\. Nessuna violazione di tali divieti potra' dispensare le Parti in conflitto dai loro obblighi giuridici nei confronti della popolazione civile e delle persone civili, incluso l'obbligo di prendere le misure di precauzione previste nell'articolo 57.
 
-## Capitolo III - Beni di carattere civile
+### Capitolo III - Beni di carattere civile
 
-###### Articolo 52
+##### Articolo 52
 
 Protezione generale dei beni di carattere civile
 
@@ -853,7 +847,7 @@ Protezione generale dei beni di carattere civile
 
 3\. In caso di dubbio, un bene che e' normalmente destinato ad uso civile, quale un luogo di culto, una casa, un altro tipo di abitazione o una scuola, si presumera' che non sia utilizzato per contribuire efficacemente all'azione militare.
 
-###### Articolo 53
+##### Articolo 53
 
 Protezione dei beni culturali e dei luoghi di culto
 
@@ -865,7 +859,7 @@ b) utilizzare detti beni in appoggio allo sforzo militare;
 
 c) fare di detti beni l'oggetto di rappresaglie.
 
-###### Articolo 54
+##### Articolo 54
 
 Protezione dei beni indispensabili alla sopravvivenza della popolazione civile
 
@@ -889,7 +883,7 @@ alimenti e acqua in misura talmente scarsa che essa sarebbe ridotta alla fame o 
 
 5\. Tenuto conto delle esigenze vitali di ciascuna Parte in conflitto per la difesa del proprio territorio contro l'invasione, deroghe ai divieti previsti dal paragrafo 2 saranno permesse a una Parte in conflitto su detto territorio che si trovi sotto il suo controllo se lo esigono necessita' militari imperiose.
 
-###### Articolo 55
+##### Articolo 55
 
 Protezione dell'ambiente naturale
 
@@ -897,7 +891,7 @@ Protezione dell'ambiente naturale
 
 2\. Sono vietati gli attacchi contro l'ambiente naturale a titolo di rappresaglia.
 
-###### Articolo 56
+##### Articolo 56
 
 Protezione delle opere e installazioni che racchiudono forze pericolose
 
@@ -921,9 +915,9 @@ c) nei riguardi degli altri obiettivi militari situati su o in prossimita' di de
 
 7\. Per facilitare l'identificazione dei beni protetti dal presente articolo, le Parti in conflitto potranno contrassegnarle mediante un distintivo speciale consistente in un gruppo di tre cerchi di colore arancio vivo, disposti su uno stesso asse come specificato nell'articolo 16 dell'Allegato I al presente Protocollo. L'assenza di una tale segnaletica non dispensa in nulla le Parti in conflitto dagli obblighi derivanti dal presente articolo.
 
-## Capitolo IV - Misure di precauzione
+### Capitolo IV - Misure di precauzione
 
-###### Articolo 57
+##### Articolo 57
 
 Precauzione negli attacchi
 
@@ -949,7 +943,7 @@ c) nel caso di attacchi che possono colpire la popolazione civile dovra' essere 
 
 5\. Nessuna disposizione del presente articolo potra' essere interpretata nel senso di autorizzare attacchi contro la popolazione civile, le persone civili o i beni di carattere civile.
 
-###### Articolo 58
+##### Articolo 58
 
 Precauzioni contro gli effetti degli attacchi
 
@@ -961,9 +955,9 @@ b) eviteranno di collocare obiettivi militari all'interno o in prossimita' di zo
 
 c) prenderanno le altre precauzioni necessarie per proteggere contro i pericoli derivanti da operazioni militari la popolazione civile, le persone civili e i beni di carattere civile che si trovano sotto il loro controllo.
 
-## Capitolo V - Localita' e zone sotto protezione speciale
+### Capitolo V - Localita' e zone sotto protezione speciale
 
-###### Articolo 59
+##### Articolo 59
 
 Localita' non difese
 
@@ -989,7 +983,7 @@ d) non sara' svolta alcuna attivita' in appoggio a operazioni militari.
 
 7\. Una localita' perdera' lo statuto di localita' non difesa quando non riunira' piu' le condizioni poste dal paragrafo 2 o dall'accordo menzionato nel paragrafo 5. In tale eventualita', la localita' continuera' a beneficiare della protezione prevista dalle altre disposizioni del presente Protocollo e dalle altre regole del diritto internazionale applicabile nei conflitti armati.
 
-###### Articolo 60
+##### Articolo 60
 
 Zone smilitarizzate
 
@@ -1017,9 +1011,9 @@ Le Parti in conflitto si accorderanno circa l'interpretazione da dare alla condi
 
 7\. Se una delle Parti in conflitto commette una violazione grave delle disposizioni dei paragrafi 3 o 6, l'altra Parte sara' sciolta dagli obblighi derivanti dall'accordo che conferisce alla zona lo statuto di zona smilitarizzata. In tale eventualita', la zona perdera' il suo statuto, ma continuera' a beneficiare della protezione prevista dalle altre disposizioni del presente Protocollo e dalle altre regole del diritto internazionale applicabile nei conflitti armati.
 
-## Capitolo VI - Protezione civile
+### Capitolo VI - Protezione civile
 
-###### Articolo 61
+##### Articolo 61
 
 Definizione e campo di applicazione
 
@@ -1063,7 +1057,7 @@ c) con il termine "personale" degli organismi di protezione civile si intendono 
 
 d) con il termine "materiale" degli organismi di protezione civile si intendono l'equipaggiamento, gli approvvigionamenti e i mezzi di trasporto che detti organismi utilizzano per l'assolvimento dei compiti elencati nel comma a.
 
-###### Articolo 62
+##### Articolo 62
 
 Protezione generale
 
@@ -1073,7 +1067,7 @@ Protezione generale
 
 3\. Oli edifici e il materiale impiegati per scopi di protezione civile, nonche' i ricoveri destinati alla popolazione civile ricadranno sotto l'articolo 52. I beni utilizzati per scopi di protezione civile non potranno essere ne' distrutti ne' distolti dalla loro destinazione, se non ad opera della Parte alla quale appartengono.
 
-###### Articolo 63
+##### Articolo 63
 
 Protezione civile nei territori occupati
 
@@ -1095,7 +1089,7 @@ b) che la requisizione o la distrazione duri solo fino a che sussiste tale neces
 
 6\. La Potenza occupante non distrarra' ne' requisira' i ricoveri messi a disposizione della popolazione civile o che siano necessari ai bisogni di detta popolazione.
 
-###### Articolo 64
+##### Articolo 64
 
 Organismi civili di protezione civile di Stati neutrali o di altri Stati che non sono Parti in conflitto, e organismi internazionali di coordinamento
 
@@ -1105,7 +1099,7 @@ Organismi civili di protezione civile di Stati neutrali o di altri Stati che non
 
 3\. Nei territori occupati, la Potenza occupante potra' escludere o ridurre le attivita' degli organismi civili di protezione civile di Stati neutrali o di altri Stati che non sono Parti in conflitto, e di organismi internazionali di coordinamento, soltanto nel caso in cui essa sia in grado di assicurare un assolvimento adeguato dei compiti di protezione civile con i propri mezzi o con quelli del territorio occupato.
 
-###### Articolo 65
+##### Articolo 65
 
 Cessazione della protezione
 
@@ -1123,7 +1117,7 @@ c) il fatto che l'assolvimento dei compiti di protezione civile possa incidental
 
 4\. Il fatto che gli organismi civili della protezione civile siano militarmente organizzati, nonche' il carattere obbligatorio del servizio richiesto al loro personale, non privera' detti organismi della protezione conferita con il presente Capitolo.
 
-###### Articolo 66
+##### Articolo 66
 
 Identificazione
 
@@ -1145,7 +1139,7 @@ Identificazione
 
 9\. L'identificazione del personale sanitario e religioso, delle unita' sanitarie e dei mezzi di trasporto sanitario della protezione civile e' regolata dall'articolo 18.
 
-###### Articolo 67
+##### Articolo 67
 
 Membri delle forze armate e unita' militari assegnati agli organismi di protezione civile
 
@@ -1173,15 +1167,15 @@ In territorio occupato, potra', nel suo interesse della popolazione civile di de
 
 4\. Gli edifici e il materiale delle unita' militari assegnate in via permanente agli organismi di protezione civile e destinati esclusivamente all'assolvimento di compiti protezione civile, se cadono in potere di una Parte avversaria continueranno ad essere soggetti al diritto bellico. Eccettuato il caso di necessita' militare imperiosa, non potranno pero' essere distratti dalla loro destinazione fino a che saranno necessari allo svolgimento dei compiti di protezione civile, salvo che siano state prese preventive disposizioni per provvedere in modo adeguato ai bisogni della popolazione civile.
 
-## Sezione II - Soccorsi in favore della popolazione
+#### Sezione II - Soccorsi in favore della popolazione
 
-###### Articolo 68
+##### Articolo 68
 
 Campo di applicazione
 
 Le disposizioni della presente Sezione si applicano alla popolazione civile ai sensi del presente Protocollo e completano gli articoli 23, 55, 59, 60, 61 e 62 e le altre disposizioni pertinenti della IV Convenzione.
 
-###### Articolo 69
+##### Articolo 69
 
 Bisogni essenziali nei territori occupati
 
@@ -1189,7 +1183,7 @@ Bisogni essenziali nei territori occupati
 
 2\. Le azioni di soccorso in favore della popolazione civile del territorio occupato sono regolate dagli articoli 59, 60, 61, 62, 108, 109, 110 e 111 della IV Convenzione, nonche' dall'articolo 71 del presente Protocollo, e saranno attuate senza indugio.
 
-###### Articolo 70
+##### Articolo 70
 
 Azioni di soccorso
 
@@ -1209,7 +1203,7 @@ c) non distrarranno in alcun modo i soccorsi dalla loro destinazione, e non ne r
 
 5\. Le Parti in conflitto e le Alte Parti contraenti interessate incoraggeranno e faciliteranno un coordinamento internazionale efficace delle azioni di soccorso menzionate nel paragrafo 1.
 
-###### Articolo 71
+##### Articolo 71
 
 Personale che partecipa alle azioni di soccorso
 
@@ -1223,31 +1217,29 @@ Personale che partecipa alle azioni di soccorso
 
 Esso dovra', in particolare, tener conto delle esigenze di sicurezza della Parte sul cui territorio presta i propri servigi. Si potra' porre fine alla missione di un qualsiasi membro del personale di soccorso che non rispetti dette condizioni.
 
-## Sezione III - Trattamento delle persone in potere di una parte in conflitto
+#### Sezione III - Trattamento delle persone in potere di una parte in conflitto
 
-### Capitolo I
+### Capitolo I - Campo d'applicazione e protezione delle persone e dei beni
 
-#### Campo d'applicazione e protezione delle persone e dei beni
-
-###### Articolo 72
+##### Articolo 72
 
 Campo di applicazione
 
 Le disposizioni della presente Sezione completano le norme relative alla protezione umanitaria delle persone civili e dei beni di carattere civile che sono in potere di una Parte in conflitto, enunciate nella IV Convenzione, in particolare nei Titoli I e III, nonche' le altre norme applicabili del diritto internazionale che regolano la protezione dei diritti fondamentali dell'uomo durante un conflitto armato di carattere internazionale.
 
-###### Articolo 73
+##### Articolo 73
 
 Rifugiati e apolidi
 
 Le persone che, prima dell'inizio delle ostilita', sono considerate come apolidi o rifugiati ai sensi degli strumenti internazionali pertinenti eccettuati dalle Parti interessate, o della legislazione nazionale dello Stato ospitante o di residenza, saranno in ogni circostanza e senza alcuna distinzione di carattere sfavorevole, persone protette ai sensi dei Titoli I e III della IV Convenzione.
 
-###### Articolo 74
+##### Articolo 74
 
 Riunione delle famiglie divise
 
 Le Alte Parti contraenti e le Parti in conflitto faciliteranno il piu' possibile la riunione delle famiglie che si trovino divise a causa di conflitti armati, e incoraggeranno in particolare l'azione delle organizzazioni umanitarie che si dedicano a tale compito secondo le disposizioni delle Convenzioni e del presente Protocollo, e conformemente alle rispettive regole di sicurezza.
 
-###### Articolo 75
+##### Articolo 75
 
 Garanzie fondamentali
 
@@ -1317,9 +1309,9 @@ b) ogni persona che non beneficia di un trattamento piu' favorevole in virtu' de
 
 8\. Nessuna disposizione del presente articolo potra' essere interpretata nel senso di limitare o ledere ogni altra disposizione piu' favorevole che accordi, in virtu' delle regole del diritto internazionale applicabile, una maggiore protezione alle persone comprese nel paragrafo 1.
 
-## Capitolo II - Misure in favore delle donne e dei fanciulli
+### Capitolo II - Misure in favore delle donne e dei fanciulli
 
-###### Articolo 76
+##### Articolo 76
 
 Protezione delle donne
 
@@ -1329,7 +1321,7 @@ Protezione delle donne
 
 3\. Le Parti in conflitto cureranno il piu' possibile di evitare che la pena di morte sia pronunciata contro le donne incinte o le madri di fanciulli in tenera eta' che dipendono da esse, per reati connessi con il conflitto armato. Non saranno eseguite condanne a morte irrogate a dette donne per tali reati.
 
-###### Articolo 77
+##### Articolo 77
 
 Protezione dei fanciulli
 
@@ -1343,7 +1335,7 @@ Protezione dei fanciulli
 
 5\. Non saranno eseguite condanne a morte per un reato connesso con il conflitto armato irrogate a persone che non avevano 18 anni al momento della commissione del reato stesso.
 
-###### Articolo 78
+##### Articolo 78
 
 Sgombero dei fanciulli
 
@@ -1393,9 +1385,9 @@ r) l'indirizzo attuale del fanciullo nel paese ospitante;
 
 s) se il fanciullo muore prima del suo ritorno, la data, il luogo e le circostanze della morte, e il luogo della sua inumazione.
 
-## Capitolo III - Giornalisti
+### Capitolo III - Giornalisti
 
-###### Articolo 79
+##### Articolo 79
 
 Misure di protezione dei giornalisti
 
@@ -1407,11 +1399,9 @@ Misure di protezione dei giornalisti
 
 ## Titolo V - Esecuzione delle Convenzioni e del presente Protocollo
 
-### Sezione I
+#### Sezione I - Disposizioni generali
 
-#### Disposizioni generali
-
-###### Articolo 80
+##### Articolo 80
 
 Misure esecutive
 
@@ -1419,7 +1409,7 @@ Misure esecutive
 
 2\. Le Alte Parti contraenti e le Parti in conflitto daranno gli ordini e le istruzioni atti ad assicurare il rispetto delle Convenzioni e del presente Protocollo, e ne sorveglieranno l'esecuzione.
 
-###### Articolo 81
+##### Articolo 81
 
 Attivita' della Croce Rossa e di altre organizzazioni umanitarie
 
@@ -1431,13 +1421,13 @@ Attivita' della Croce Rossa e di altre organizzazioni umanitarie
 
 4\. Le Alte Parti contraenti e le Parti in conflitto accorderanno, per quanto possibile, facilitazioni simili a quelle menzionate nei paragrafi 2 e 3, alle altre organizzazioni umanitarie indicate nelle Convenzioni e nel presente Protocollo, che siano debitamente autorizzate dalle Parti in conflitto e che esercitano la loro attivita' umanitaria conformemente alle disposizioni delle Convenzioni e del presente Protocollo.
 
-###### Articolo 82
+##### Articolo 82
 
 Consiglieri giuridici nelle forze armate
 
 Le Alte Parti contraenti in ogni tempo, e le Parti in conflitto in periodo di conflitto armato cureranno che dei consiglieri giuridici siano disponibili, quando occorra, per consigliare i comandanti militari di livello appropriato circa l'applicazione delle Convenzioni e del presente Protocollo, e circa l'insegnamento appropriato da impartire in materia alle forze armate.
 
-###### Articolo 83
+##### Articolo 83
 
 Diffusione
 
@@ -1445,15 +1435,15 @@ Diffusione
 
 2\. Le autorita' militari o civili che, in periodo di conflitto armato, assumessero responsabilita' nell'applicazione delle Convenzioni e del presente Protocollo, dovranno avere una piena conoscenza di tali strumenti.
 
-###### Articolo 84
+##### Articolo 84
 
 Leggi di applicazione
 
 Le Alte Parti contraenti si comunicheranno il piu' rapidamente possibile, per il tramite del depositario e, all'occorrenza, per il tramite delle Potenze protettrici, le traduzioni ufficiali del presente Protocollo, nonche' le leggi e i regolamenti che ritenessero di adottare per assicurarne l'applicazione.
 
-## Sezione II - Repressione delle infrazioni alle Convenzioni o al presente Protocollo
+#### Sezione II - Repressione delle infrazioni alle Convenzioni o al presente Protocollo
 
-###### Articolo 85
+##### Articolo 85
 
 Repressione delle infrazioni al presente Protocollo
 
@@ -1489,7 +1479,7 @@ e) il fatto di privare una persona protetta dalle Convenzioni o indicata nel par
 
 5\. Con riserva dell'applicazione delle Convenzioni e del presente Protocollo, le infrazioni gravi a detti strumenti sono considerate come crimini di guerra.
 
-###### Articolo 86
+##### Articolo 86
 
 Omissioni
 
@@ -1497,7 +1487,7 @@ Omissioni
 
 2\. Il fatto che una infrazione alle Convenzioni o al presente Protocollo sia stata commessa da un inferiore, non dispensa i superiori dalle loro responsabilita' penali o disciplinari, a seconda dei casi, se sapevano o erano in possesso di informazioni che permettevano loro di ritenere, nelle circostanze del momento, che l'inferiore stava commettendo o stava per commettere una tale infrazione, e se essi non hanno preso tutte le misure praticamente possibili in loro potere per impedire o reprimere l'infrazione stessa.
 
-###### Articolo 87
+##### Articolo 87
 
 Doveri dei comandanti
 
@@ -1507,7 +1497,7 @@ Doveri dei comandanti
 
 3\. Le Alte Parti contraenti e le Parti in conflitto esigeranno che ogni comandante venuto a conoscenza che i suoi dipendenti o altre persone poste sotto la sua autorita' stanno per commettere o hanno commesso una infrazione alle Convenzioni o al presente Protocollo, adotti le misure necessarie per impedire tali infrazioni alle Convenzioni o al presente Protocollo, e, quando occorra, promuova un'azione disciplinare o penale contro gli autori delle violazioni.
 
-###### Articolo 88
+##### Articolo 88
 
 Assistenza giudiziaria in materia penale
 
@@ -1517,13 +1507,13 @@ Assistenza giudiziaria in materia penale
 
 3\. In tutti i casi, la legge applicabile sara' quella dell'Alta Parte che riceve la richiesta. Tuttavia, le disposizioni dei paragrafi precedenti non incidono sugli obblighi derivanti dalle disposizioni di qualsiasi altro trattato di carattere bilaterale o multilaterale che regoli o regolera', in tutto o in parte, il campo dell'assistenza giudiziaria in materia penale.
 
-###### Articolo 89
+##### Articolo 89
 
 Cooperazione
 
 Nei casi di violazioni gravi delle Convenzioni o del presente Protocollo, le Alte Parti contraenti si impegnano ad agire, sia congiuntamente che separatamente, in cooperazione con l'Organizzazione delle Nazioni Unite e conformemente alla Carta delle Nazioni Unite.
 
-###### Articolo 90
+##### Articolo 90
 
 Commissione internazionale di accertamento dei fatti
 
@@ -1579,7 +1569,7 @@ c) La Commissione non rendera' pubbliche le proprie conclusioni, salvo che gliel
 
 7\. Le spese amministrative della Commissione saranno coperte mediante contributi delle Alte Parti contraenti che avranno fatto la dichiarazione prevista nel paragrafo 2 e mediante contributi volontari. La Parte o le Parti in conflitto che richiedono una indagine anticiperanno i fondi occorrenti per coprire le spese che saranno incontrate da una Sezione, e saranno rimborsate dalla Parte o dalle Parti contro cui vengono elevate le accuse, fino alla concorrenza del cinquanta per cento di dette spese. Se alla Sezione sono presentate controaccuse, ciascuna Parte anticipera' il cinquanta per cento dei fondi occorrenti.
 
-###### Articolo 91
+##### Articolo 91
 
 Responsabilita'
 
@@ -1587,25 +1577,25 @@ La Parte in conflitto che violasse le disposizioni delle Convenzioni o del prese
 
 ## Titolo VI - Disposizioni finali
 
-###### Articolo 92
+##### Articolo 92
 
 Firma
 
 Il presente Protocollo sara' aperto alla firma delle Parti delle Convenzioni sei mesi dopo la firma dell'Atto finale e restera' aperto durante un periodo di dodici mesi.
 
-###### Articolo 93
+##### Articolo 93
 
 Ratifica
 
 Il presente Protocollo sara' ratificato non appena possibile. Gli strumenti di ratifica saranno depositati presso il Consiglio federale svizzero, depositario delle Convenzioni.
 
-###### Articolo 94
+##### Articolo 94
 
 Adesione
 
 Il presente Protocollo sara' aperto all'adesione di ogni Parte delle Convenzioni non firmataria del presente Protocollo. Gli strumenti di adesione saranno depositati presso il depositario.
 
-###### Articolo 95
+##### Articolo 95
 
 Entrata in vigore
 
@@ -1613,7 +1603,7 @@ Entrata in vigore
 
 2\. Per ciascuna delle Parti delle Convenzioni che lo ratifichera' o vi aderira' successivamente, il presente Protocollo entrera' in vigore sei mesi dopo il deposito ad opera di detta Parte del proprio strumento di ratifica o di adesione.
 
-###### Articolo 96
+##### Articolo 96
 
 Relazioni convenzionali a partire dall'entrata in vigore del presente Protocollo
 
@@ -1629,7 +1619,7 @@ b) la detta autorita' esercitera' gli stessi diritti e assolvera' gli stessi obb
 
 c) le Convenzioni e il presente Protocollo saranno egualmente vincolanti per tutte le Parti in conflitto.
 
-###### Articolo 97
+##### Articolo 97
 
 Emendamenti
 
@@ -1637,7 +1627,7 @@ Emendamenti
 
 2\. Il depositario invitera' a detta Conferenza le Alte Parti contraenti, nonche' le Parti delle Convenzioni, siano esse firmatarie o no del presente Protocollo.
 
-###### Articolo 98
+##### Articolo 98
 
 Revisione dell'Allegato I
 
@@ -1655,7 +1645,7 @@ L'emendamento sara' considerato come accettato allo scadere di un periodo di un 
 
 6\. Il depositario fara' conoscere alle Alte Parti contraenti e alle Parti delle Convenzioni l'entrata in vigore i ogni emendamento, le Parti vincolate da quest'ultimo, la data della sua entrata in vigore per ciascuna delle Parti, le dichiarazioni di non accettazione fatte conformemente al paragrafo 4 e i ritiri di tali dichiarazioni.
 
-###### Articolo 99
+##### Articolo 99
 
 Denunzia
 
@@ -1667,7 +1657,7 @@ Denunzia
 
 4\. Nessuna denunzia notificata ai sensi del paragrafo 1 incidera' sugli obblighi gia' contratti, in conseguenza del conflitto armato, dalla Parte denunziante in virtu' del presente Protocollo, per qualsiasi atto commesso prima che la denunzia stessa divenga effettiva.
 
-###### Articolo 100
+##### Articolo 100
 
 Notifiche
 
@@ -1683,7 +1673,7 @@ d) delle dichiarazioni ricevute conformemente all'articolo 96 paragrafo 3, che s
 
 e) delle denunzie notificate conformemente all'articolo 99.
 
-###### Articolo 101
+##### Articolo 101
 
 Registrazione
 
@@ -1691,19 +1681,19 @@ Registrazione
 
 2\. Il depositario informera' anche il Segretariato delle Nazioni Unite di tutte le ratifiche, adesioni e denunzie ricevute nei riguardi del presente Protocollo.
 
-###### Articolo 102
+##### Articolo 102
 
 Testi autentici
 
 L'originale del presente Protocollo, di cui i testi arabo, cinese, francese, inglese, russo e spagnolo sono egualmente autentici, sara' depositato presso il depositario, che fara' pervenire copie certificate conformi a tutte le Parti delle Convenzioni.
 
-## Capitolo I - Carte d'identità
+### Capitolo I - Carte d'identità
 
 Allegato I
 
 Regolamento relativo all'identificazione
 
-###### Articolo 1
+##### Articolo 1
 
 Carta d'identita' del personale sanitario e religioso, civile e permanente
 
@@ -1729,7 +1719,7 @@ h) indicare le date di rilascio e di scadenza della carta.
 
 3\. In nessun caso, il personale sanitario e religioso, civile e permanente, potra' essere privato della carta d'identita'. In caso di perdita della carta, il titolare ha diritto ad ottenere un duplicato.
 
-###### Articolo 2
+##### Articolo 2
 
 Carta d'identita' del personale sanitario e religioso, civile e temporaneo
 
@@ -1743,9 +1733,9 @@ Parte di provvedimento in formato grafico
 
 2\. Quando le circostanze impediscono di rilasciare al personale sanitario e religioso, civile e temporaneo, carte d'identita' analoghe a quella descritta nell'articolo 1 del presente Regolamento, detto personale potra' ricevere un certificato, firmato dall'autorita' competente, attestante che la persona alla quale viene rilasciato ha ricevuto una assegnazione in qualita' di personale temporaneo, e indicante, se possibile, la durata di tale assegnazione e il diritto del titolare al porto del segno distintivo. Tale certificato dovra' indicare il nome e la data di nascita del titolare (o, in mancanza, della data, la sua eta' al momento del rilascio del certificato) le funzioni del titolare, nonche' il suo numero di matricola se ne ha uno. Dovra' recare la firma o l'impronta del suo pollice, o ambedue.
 
-## Capitolo II - Il segno distintivo
+### Capitolo II - Il segno distintivo
 
-###### Articolo 3
+##### Articolo 3
 
 Forma e natura
 
@@ -1759,7 +1749,7 @@ Segni distintivi in rosso su fondo bianco
 
 Parte di provvedimento in formato grafico
 
-###### Articolo 4
+##### Articolo 4
 
 Uso
 
@@ -1767,9 +1757,9 @@ Uso
 
 2\. Con riserva delle istruzioni dell'autorita' competente, il personale sanitario e religioso che svolge i propri compiti sul campo di battaglia sara' dotato, per quanto possibile, di copricapo e abiti muniti del segno distintivo.
 
-## Capitolo III - Segnali distintivi
+### Capitolo III - Segnali distintivi
 
-###### Articolo 5
+##### Articolo 5
 
 Uso facoltativo
 
@@ -1777,7 +1767,7 @@ Uso facoltativo
 
 2\. Gli aeromobili sanitari che, per mancanza di tempo o a causa delle loro caratteristiche, non possono essere contrassegnati col segno distintivo, possono usare i segnali distintivi autorizzati nel presente capitolo. Tuttavia, il metodo di segnalazione piu' efficace per un aeromobile sanitario ai fini della sua identificazione e del suo riconoscimento, consiste nell'impiego di un segnale visivo, sia esso il segno distintivo o il segnale luminoso definito nell'articolo 6, o ambedue, completato dagli altri segnali menzionati negli articoli 7 e 8 del presente Regolamento.
 
-###### Articolo 6
+##### Articolo 6
 
 Segnale luminoso
 
@@ -1797,7 +1787,7 @@ La frequenza raccomandata della luce intermittente blu e' di 60 a 100 lampi al m
 
 3\. In mancanza di un accordo speciale fra le Parti in conflitto, che riservi l'uso delle luci blu intermittenti all'identificazione dei veicoli, navi e imbarcazioni sanitari, l'impiego di detti segnali per altri veicoli e navi non e' vietato.
 
-###### Articolo 7
+##### Articolo 7
 
 Segnale radio
 
@@ -1819,7 +1809,7 @@ f) altre informazioni quali l'altitudine di volo, le radio frequenze di ascolto,
 
 3\. Per facilitare le comunicazioni indicate nei paragrafi 1 e 2, nonche' le comunicazioni indicate negli articoli 22, 23, 25, 26, 27, 28, 29, 30 e 31 del Protocollo, le Alte Parti contraenti, le Parti in conflitto o una di queste ultime, agendo di comune accordo o separatamente, possono stabilire, conformemente alla Tavola di ripartizione delle bande di frequenza inclusa nel Regolamento delle radiocomunicazioni allegato alla Convenzione internazionale delle telecomunicazioni, e pubblicare le frequenze nazionali da esse scelte per tali comunicazioni. Dette frequenze dovranno essere notificate all'Unione internazionale delle telecomunicazioni, conformemente alla procedura approvata da una Conferenza amministrativa mondiale delle radiocomunicazioni.
 
-###### Articolo 8
+##### Articolo 8
 
 Identificazione mediante mezzi elettronici
 
@@ -1827,39 +1817,39 @@ Identificazione mediante mezzi elettronici
 
 2\. Le Parti in conflitto potranno, mediante accordo speciale, adottare, per l'uso fra di loro, un sistema elettronico analogo per l'identificazione dei veicoli sanitari e delle navi e imbarcazioni sanitarie.
 
-## Capitolo IV - Comunicazioni
+### Capitolo IV - Comunicazioni
 
-###### Articolo 9
+##### Articolo 9
 
 Radiocomunicazioni
 
 Il segnale di priorita' previsto nell'articolo 7 del presente Regolamento potra' precedere le apposite radiocomunicazioni delle unita' sanitarie e dei mezzi di trasporto sanitario per l'applicazione delle procedure messe in opera conformemente agli articoli 22, 23, 25, 26, 27, 28, 29, 30 e 31 del Protocollo.
 
-###### Articolo 10
+##### Articolo 10
 
 Utilizzazione dei codici internazionali
 
 Le unita' e mezzi di trasporto sanitari potranno anche utilizzare i codici e segnali stabiliti dall'Unione internazionale delle telecomunicazioni, dall'Organizzazione dell'Aviazione civile internazionale e dall'Organizzazione intergovernativa consultiva della navigazione marittima. Detti codici e segnali saranno in tal caso utilizzati conformemente alle norme, prassi e procedure stabiliti da dette Organizzazioni.
 
-###### Articolo 11
+##### Articolo 11
 
 Altri mezzi di comunicazione
 
 Quando non sia possibile una radiocomunicazione bilaterale, potranno essere impiegati i segnali previsti nel Codice internazionale adottato dall'Organizzazione intergovernativa consultiva della navigazione marittima, o nel corrispondente Allegato della Convenzione di Chicago del 7 dicembre 1944 sull'Aviazione civile internazionale, e relativi aggiornamenti periodici.
 
-###### Articolo 12
+##### Articolo 12
 
 Piani di volo
 
 Gli accordi e notifiche relativi ai piani di volo indicati nell'articolo 29 del Protocollo saranno, per quanto possibile, formulati conformemente alle procedure stabilite dall'Organizzazione dell'Aviazione civile internazionale.
 
-###### Articolo 13
+##### Articolo 13
 
 Segnali e procedure per l'intercettazione degli aeromobili sanitari Se un aeromobile intercettatore viene impiegato per identificare un aeromobile sanitario in volo o per intimargli l'atterraggio in applicazione degli articoli 30 e 31 del Protocollo, dovrebbero essere utilizzati dall'aeromobile intercettore e dall'aeromobile sanitario le procedure normalizzate di intercettazione visiva e radio, prescritte nell'Allegato 2 della Convenzione di Chicago del 7 dicembre 1944 sull'Aviazione civile internazionale, e relativi aggiornamenti periodici.
 
-## Capitolo V - Carte d'identità
+### Capitolo V - Carte d'identità
 
-###### Articolo 14
+##### Articolo 14
 
 Carta d'identita'
 
@@ -1875,7 +1865,7 @@ Modello di carta d'identita' (formato: 74 mm x 105 mm)
 
 Parte di provvedimento in formato grafico
 
-###### Articolo 15
+##### Articolo 15
 
 Segno distintivo internazionale
 
@@ -1899,9 +1889,9 @@ c) che nessuno dei vertici del triangolo tocchi il bordo del fondo arancio.
 
 (\*) Il testo francese e quello spagnolo usano rispettivamente i termini dossard e dorsal con il quale indicano un ritaglio applicato sulla schiena. Il testo inglese, invece, usa il termine tabard per indicare una cotta, ossia una specie di giubbetto senza maniche che copre il petto e la schiena. Si e' seguito l'esempio inglese e si e' usato il termine cotta, perche', dato lo scopo, che si vuole raggiungere con il segno distintivo in questione - rendere visibile una persona addetta alla protezione civile sia di fronte che di schiena - l'indumento piu' adatto da usare appare, appunto, una cotta, similmente a quanto viene praticato per il personale addetto alla manutenzione delle strade.
 
-## Capitolo VI - Opere e installazioni che racchiudono forze pericolose
+### Capitolo VI - Opere e installazioni che racchiudono forze pericolose
 
-###### Articolo 16
+##### Articolo 16
 
 Segno speciale internazionale
 
@@ -1943,7 +1933,7 @@ Ricordando che, nei casi non previsti dal diritto in vigore, la persona umana re
 
 Hanno convenuto quanto segue:
 
-###### Articolo 1
+##### Articolo 1
 
 Campo di applicazione materiale
 
@@ -1951,7 +1941,7 @@ Campo di applicazione materiale
 
 2\. Il presente Protocollo non si applichera' alle situazioni di tensioni interne, di disordini interni, come le sommosse, gli atti isolati e sporadici di violenza ed altri atti analoghi, che non sono considerati come conflitti armati.
 
-###### Articolo 2
+##### Articolo 2
 
 Campo di applicazione personale
 
@@ -1959,7 +1949,7 @@ Campo di applicazione personale
 
 2\. Alla fine del conflitto armato, tutte le persone che siano state oggetto di una privazione o di una restrizione della liberta' per motivi connessi con il conflitto stesso, nonche' quelle che siano state oggetto di tali misure dopo il conflitto per gli stessi motivi, beneficeranno delle disposizioni degli articoli 5 e 6 fino al termine di detta privazione o di detta restrizione di liberta'.
 
-###### Articolo 3
+##### Articolo 3
 
 Non intervento
 
@@ -1969,7 +1959,7 @@ Non intervento
 
 ## Titolo II - Trattamento umano
 
-###### Articolo 4
+##### Articolo 4
 
 Garanzie fondamentali
 
@@ -2005,7 +1995,7 @@ d) la protezione speciale prevista nel presente articolo per i fanciulli di meno
 
 e) saranno prese misure, se necessario e, sempre che sia possibile, con il consenso dei genitori o delle persone che, in virtu' della legge o della consuetudine, ne hanno la custodia a titolo principale, per trasferire temporaneamente i fanciulli dalla zona in cui sono in corso le ostilita' verso una zona piu' sicura del paese, e per farli accompagnare da persone responsabili della loro sicurezza e del loro benessere.
 
-###### Articolo 5
+##### Articolo 5
 
 Persone private della liberta'
 
@@ -2037,7 +2027,7 @@ e) la loro salute e la loro integrita' fisica o psichica non sara' compromessa d
 
 4\. Se viene deciso di rimettere in liberta' persone che ne erano state private, gli autori della decisione prenderanno i provvedimenti necessari per garantire la sicurezza delle persone stesse.
 
-###### Articolo 6
+##### Articolo 6
 
 Azione penale
 
@@ -2065,7 +2055,7 @@ f) nessuno potra' essere costretto a testimoniare contro se' stesso o a confessa
 
 ## Titolo III - Feriti, malati e naufraghi
 
-###### Articolo 7
+##### Articolo 7
 
 Protezione e cure
 
@@ -2073,13 +2063,13 @@ Protezione e cure
 
 2\. Essi saranno trattati, in ogni circostanza, con umanita' e riceveranno, nella maggiore misura possibile e nei termini piu' brevi, le cure mediche richieste dalle loro condizioni. Non sara' fatta tra di essi alcuna distinzione fondata su criteri diversi da quelli sanitari.
 
-###### Articolo 8
+##### Articolo 8
 
 Ricerche
 
 Quando le circostanze lo permettono, specialmente dopo un fatto d'armi, saranno presi senza indugio tutti i provvedimenti possibili per ricercare e raccogliere i feriti, i malati e i naufraghi, proteggerli dalle spoliazioni e dai maltrattamenti e assicurare loro le cure appropriate, come pure per ricercare i morti, impedirne la spoliazione e sistemarli decorosamente.
 
-###### Articolo 9
+##### Articolo 9
 
 Protezione del personale sanitario e religioso
 
@@ -2089,7 +2079,7 @@ Ricevera' tutto l'aiuto possibile nell'esercizio delle sue funzioni, e non sara'
 
 2\. Non si dovra' esigere dal personale sanitario che la sua missione si compia con priorita' a favore di chicchessia, salvo che per motivi di carattere medico.
 
-###### Articolo 10
+##### Articolo 10
 
 Protezione generale della missione medica
 
@@ -2101,7 +2091,7 @@ Protezione generale della missione medica
 
 4\. Fatta salva la legislazione nazionale, nessuna persona che esercita attivita' di carattere medico potra' essere in qualunque modo oggetto di sanzioni per aver rifiutato od omesso di dare informazioni concernenti i feriti e i malati che essa ha avuto in cura.
 
-###### Articolo 11
+##### Articolo 11
 
 Protezione delle unita' e mezzi di trasporto sanitari
 
@@ -2111,7 +2101,7 @@ Protezione delle unita' e mezzi di trasporto sanitari
 
 Tuttavia, la protezione cessera' soltanto dopo una intimazione che, avendo fissato, quando occorra, un termine ragionevole, sia rimasta senza effetto.
 
-###### Articolo 12
+##### Articolo 12
 
 Segno distintivo
 
@@ -2121,7 +2111,7 @@ Non dovra' essere impiegato abusivamente.
 
 ## Titolo IV - Popolazione civile
 
-###### Articolo 13
+##### Articolo 13
 
 Protezione della popolazione civile
 
@@ -2131,25 +2121,25 @@ Protezione della popolazione civile
 
 3\. Le persone civili godranno della protezione concessa dal presente Titolo, salvo che esse partecipino direttamente alle ostilita' e per la durata di tale partecipazione.
 
-###### Articolo 14
+##### Articolo 14
 
 Protezione dei beni indispensabili alla sopravvivenza della popolazione civile
 
 E' vietato, come metodo di guerra, far soffrire la fame alle persone civili. Di conseguenza, e' vietato attaccare, distruggere, asportare o mettere fuori uso, con tale scopo, beni indispensabili alla sopravvivenza della popolazione civile, quali le derrate alimentari e le zone agricole che le producono, i raccolti, il bestiame, le installazioni e le riserve di acqua potabile, e le opere di irrigazione.
 
-###### Articolo 15
+##### Articolo 15
 
 Protezione delle opere e installazioni che racchiudono forze pericolose
 
 Le opere o installazioni che racchiudono forze pericolose, cioe' le dighe di protezione o di ritenuta e le centrali nucleari per la produzione di energia elettrica, non saranno oggetto di attacchi, anche se costituiscono obiettivi militari, se tali attacchi possono provocare la liberazione di dette forze e causare, di conseguenza, gravi perdite alla popolazione civile.
 
-###### Articolo 16
+##### Articolo 16
 
 Protezione dei beni culturali e dei luoghi di culto
 
 Senza pregiudizio delle disposizioni della Convenzione dell'Aja del 14 maggio 1954 per la protezione dei beni culturali in caso di conflitto armato, e' vietato compiere atti di ostilita' diretti contro i monumenti storici, le opere d'arte o i luoghi di culto che costituiscono il patrimonio culturale o spirituale dei popoli, e di utilizzarli in appoggio allo sforzo militare.
 
-###### Articolo 17
+##### Articolo 17
 
 Divieto del trasferimento forzato di persone civili
 
@@ -2157,7 +2147,7 @@ Divieto del trasferimento forzato di persone civili
 
 2\. Le persone civili non potranno essere costrette ad abbandonare il proprio territorio per motivi connessi con il conflitto.
 
-###### Articolo 18
+##### Articolo 18
 
 Societa' di soccorso e azioni di soccorso
 
@@ -2167,31 +2157,31 @@ Societa' di soccorso e azioni di soccorso
 
 ## Titolo V - Disposizioni finali
 
-###### Articolo 19
+##### Articolo 19
 
 Diffusione
 
 Il presente Protocollo sara' diffuso il piu' largamente possibile.
 
-###### Articolo 20
+##### Articolo 20
 
 Firma
 
 Il presente Protocollo sara' aperto alla firma delle Parti delle Convenzioni sei mesi dopo la firma dell'Atto finale e restera' aperto durante un periodo di dodici mesi.
 
-###### Articolo 21
+##### Articolo 21
 
 Ratifica
 
 Il presente Protocollo sara' ratificato non appena possibile. Gli strumenti di ratifica saranno depositati presso il Consiglio federale svizzero, depositario delle Convenzioni.
 
-###### Articolo 22
+##### Articolo 22
 
 Adesione
 
 Il presente Protocollo sara' aperto all'adesione di ogni Parte delle Convenzioni non firmataria del presente Protocollo. Gli strumenti di adesione saranno depositati presso il depositario.
 
-###### Articolo 23
+##### Articolo 23
 
 Entrata in vigore
 
@@ -2199,7 +2189,7 @@ Entrata in vigore
 
 2\. Per ciascuna delle Parti delle Convenzioni che lo ratifichera' o vi aderira' successivamente, il presente Protocollo entrera' in vigore sei mesi dopo il deposito ad opera di detta Parte del proprio strumento di ratifica o di adesione.
 
-###### Articolo 24
+##### Articolo 24
 
 Emendamenti
 
@@ -2207,7 +2197,7 @@ Emendamenti
 
 2\. Il depositario invitera' a detta conferenza le Alte Parti contraenti, nonche' le Parti delle Convenzioni siano esse firmatarie o no del presente Protocollo.
 
-###### Articolo 25
+##### Articolo 25
 
 Denunzia
 
@@ -2215,7 +2205,7 @@ Denunzia
 
 2\. La denunzia sara' notificata per iscritto al depositario, che la comunichera' a tutte le Alte Parti contraenti.
 
-###### Articolo 26
+##### Articolo 26
 
 Notifiche
 
@@ -2227,7 +2217,7 @@ b) della data in cui il presente Protocollo entrera' in vigore conformemente all
 
 c) delle comunicazioni e dichiarazioni ricevute conformemente all'articolo 24.
 
-###### Articolo 27
+##### Articolo 27
 
 Registrazione
 
@@ -2235,13 +2225,13 @@ Registrazione
 
 2\. Il depositario informera' anche il Segretariato delle Nazioni Unite di tutte le ratifiche e adesioni ricevute nei riguardi del presente Protocollo.
 
-###### Articolo 28
+##### Articolo 28
 
 Testi autentici
 
 L'originale del presente Protocollo, di cui i testi arabo, cinese, francese, inglese, russo e spagnolo sono egualmente autentici, sara' depositato presso il depositario, che fara' pervenire copie certificate conformi a tutte le Parti delle Convenzioni.
 
-###### Atto Finale
+##### Atto Finale
 
 ATTO FINALE DELLA CONFERENZA DIPLOMATICA SULLA RIAFFERMAZIONE E LO SVILUPPO DEL DIRITTO INTERNAZIONALE UMANITARIO APPLICABILE NEI CONFLITTI ARMATI
 
@@ -2981,7 +2971,7 @@ FATTO A GINEVRA, il 10 giugno 1977, in inglese, arabo, spagnolo, francese e russ
 
 IN FEDE DI CIO', i rappresentanti hanno firmato il presente Atto finale.
 
-###### Risoluzioni
+##### Risoluzioni
 
 RISOLUZIONI ADOTTATE NEL CORSO DELLA QUARTA SESSIONE
 
@@ -3019,7 +3009,7 @@ Articoli 6 ed 8 del Regolamento di cui all'Annesso I del Protocollo
 
 I
 
-###### Articolo 6 - Segnale luminoso
+##### Articolo 6 - Segnale luminoso
 
 1\. Il segnale luminoso, consistente in un segnale luminoso blu, e' previsto all'uso di aeromobili sanitari per segnalare la loro identita'. Nessun altro aeromobile puo' utilizzare questo segnale. Il colore blu prescritto si ottiene per mezzo delle coordinate tricromatiche di cui a seguito:
 
@@ -3077,7 +3067,7 @@ Articoli 3, 6, 10 e 11 del Regolamento contenuto nell'Allegato I
 
 del Protocollo I
 
-###### Articolo 3 - Forma e natura
+##### Articolo 3 - Forma e natura
 
 1\. La grandezza del segnale distintivo (rosso su fondo bianco) puo' variare secondo le circostanze. Le Parti contraenti possono adottare, per quanto concerne la forma del segnale, la croce, la mezzaluna od il leone-e-sole, dei modelli di cui alle immagini 2.
 
@@ -3161,7 +3151,7 @@ Articoli 7, 8 e 9 del Regolamento di cui all'Allegato I del
 
 Protocollo I
 
-###### Articolo 7 - Segnale Radio
+##### Articolo 7 - Segnale Radio
 
 1\. Il segnale radio consiste in un messaggio radiotelefonico o radiotelegrafico, preceduto da un segnale distintivo di priorita', che dovra' essere definito ed approvato da una Conferenza amministrativa mondiale delle radiocomunicazioni dell'Unione internazionale delle telecomunicazioni. Tale segnale e' emesso a tre riprese previa l'emissione del segnale distintivo di chiamata del trasporto sanitario in oggetto. Il messaggio e' emesso in inglese ad appropriati intervalli su una o piu' frequenze specificate, come previsto dal paragrafo 3. Il segnale di priorita' e' esclusivamente riservato alle unita' ed ai mezzi di trasporto sanitario.
 

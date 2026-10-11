@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-##### Art. 1
+### Art. 1
 
 Finalita'
 
@@ -52,7 +50,7 @@ Finalita'
 
 > \- L'art. 117 della Costituzione dispone, tra l'altro, che la potesta' legislativa e' esercitata dallo Stato e dalle Regioni nel rispetto della Costituzione, nonche' dei vincoli derivanti dall'ordinamento comunitario e dagli obblighi internazionali.
 
-##### Art. 2
+### Art. 2
 
 Comitato interministeriale per gli affari europei
 
@@ -78,13 +76,9 @@ Nell'ambito del predetto contingente, il numero delle unita' di personale e' sta
 
 9-bis. Il Segretario del CIAE e' nominato con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro per gli affari europei, ai sensi dell'articolo 19 del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, e dell'articolo 9 del decreto legislativo 30 luglio 1999, n. 303, e successive modificazioni, tra persone di elevata professionalita' e di comprovata esperienza.
 
-## Capo II
+## Capo II - Partecipazione del Parlamento alla definizione della politica europea dell'Italia e al processo di formazione degli atti dell'Unione europea
 
-### Partecipazione del Parlamento alla definizione della politica europea - dell'Italia e al processo di formazione degli atti dell'Unione
-
-#### europea
-
-##### Art. 3
+### Art. 3
 
 Principi generali
 
@@ -98,7 +92,7 @@ Principi generali
 
 > \- Il Trattato sul funzionamento dell'Unione europea (n.d.r. Versione in vigore dal 1° dicembre 2009) e' pubblicato nella G.U.U.E. 9 maggio 2008, n. C 115.
 
-##### Art. 4
+### Art. 4
 
 Consultazione e informazione del Parlamento
 
@@ -134,7 +128,7 @@ c) gli accordi e le ipotesi di accordi intergovernativi tra Stati membri dell'Un
 
 7\. Gli obblighi di segreto professionale, i vincoli di inviolabilita' degli archivi e i regimi di immunita' delle persone non possono in ogni caso pregiudicare le prerogative di informazione e partecipazione del Parlamento, come riconosciute ai sensi del titolo II del Protocollo n. 1 sul ruolo dei parlamenti nazionali nell'Unione europea, allegato al Trattato sull'Unione europea, al Trattato sul funzionamento dell'Unione europea e al Trattato che istituisce la Comunita' europea dell'energia atomica, e dell'articolo 13 del Trattato sulla stabilita', sul coordinamento e sulla governance nell'Unione economica e monetaria, ratificato ai sensi della legge 23 luglio 2012, n. 114.
 
-##### Art. 5
+### Art. 5
 
 Consultazione delle Camere su accordi in materia finanziaria o monetaria
 
@@ -144,7 +138,7 @@ Consultazione delle Camere su accordi in materia finanziaria o monetaria
 
 3\. Le disposizioni di cui al presente articolo si applicano anche nel caso di accordi conclusi al di fuori delle disposizioni del Trattato sull'Unione europea e del Trattato sul funzionamento dell'Unione europea nonche' in caso di modifica di precedenti accordi.
 
-##### Art. 6
+### Art. 6
 
 Partecipazione del Parlamento al processo di formazione degli atti dell'Unione europea
 
@@ -164,7 +158,7 @@ c) l'impatto del progetto, dal punto di vista sia finanziario, sia degli effetti
 
 5\. La relazione di cui al comma 4 del presente articolo e' trasmessa tempestivamente alla Presidenza del Consiglio dei Ministri - Dipartimento per le politiche europee, di cui all'articolo 18, per il successivo inoltro alle Camere, accompagnata da una tabella di corrispondenza tra le disposizioni del progetto e le norme nazionali vigenti, predisposta sulla base di quanto previsto con successivo decreto del Presidente del Consiglio dei Ministri.
 
-##### Art. 7
+### Art. 7
 
 Atti di indirizzo delle Camere
 
@@ -172,7 +166,7 @@ Atti di indirizzo delle Camere
 
 2\. Nel caso in cui il Governo non abbia potuto attenersi agli indirizzi delle Camere, il Presidente del Consiglio dei Ministri o il Ministro competente riferisce tempestivamente ai competenti organi parlamentari, fornendo le adeguate motivazioni della posizione assunta.
 
-##### Art. 8
+### Art. 8
 
 Partecipazione delle Camere alla verifica del rispetto del principio di sussidiarieta'
 
@@ -186,7 +180,7 @@ Partecipazione delle Camere alla verifica del rispetto del principio di sussidia
 
 > \- Per i riferimenti al Trattato sul funzionamento dell'Unione europea si veda nelle note all'articolo 3.
 
-##### Art. 9
+### Art. 9
 
 Partecipazione delle Camere al dialogo politico con le istituzioni dell'Unione europea
 
@@ -198,7 +192,7 @@ Partecipazione delle Camere al dialogo politico con le istituzioni dell'Unione e
 
 > \- Per i riferimenti al Trattato sul funzionamento dell'Unione europea si veda nelle note all'articolo 3.
 
-##### Art. 10
+### Art. 10
 
 Riserva di esame parlamentare
 
@@ -212,7 +206,7 @@ Riserva di esame parlamentare
 
 > \- Per i riferimenti al Trattato sul funzionamento dell'Unione europea si veda nelle note all'articolo 3.
 
-##### Art. 11
+### Art. 11
 
 Procedure semplificate di modifica di norme dei Trattati
 
@@ -234,7 +228,7 @@ Procedure semplificate di modifica di norme dei Trattati
 
 > \- Per i riferimenti al Trattato sul funzionamento dell'Unione europea si veda nelle note all'articolo 3.
 
-##### Art. 12
+### Art. 12
 
 Meccanismo del freno d'emergenza
 
@@ -248,7 +242,7 @@ Meccanismo del freno d'emergenza
 
 > \- Per i riferimenti al Trattato sul funzionamento dell'Unione europea si veda nelle note all'articolo 3.
 
-##### Art. 13
+### Art. 13
 
 Relazioni annuali al Parlamento
 
@@ -274,7 +268,7 @@ d) il seguito dato e le iniziative assunte in relazione ai pareri, alle osservaz
 
 3\. Il Presidente del Consiglio dei Ministri o il Ministro per gli affari europei trasmette le relazioni di cui ai commi 1 e 2 anche alla Conferenza delle regioni e delle province autonome, alla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, alla Conferenza dei presidenti delle assemblee legislative delle regioni e delle province autonome e alla Conferenza Stato-citta' ed autonomie locali.
 
-##### Art. 14
+### Art. 14
 
 Informazione al Parlamento su procedure giurisdizionali e di pre-contenzioso riguardanti l'Italia
 
@@ -296,7 +290,7 @@ d) dei procedimenti di indagine formale avviati dalla Commissione europea nei co
 
 5\. Il Governo puo' raccomandare l'uso riservato delle informazioni e dei documenti trasmessi.
 
-##### Art. 15
+### Art. 15
 
 Controllo parlamentare sulle procedure d'infrazione riguardanti l'Italia
 
@@ -312,13 +306,13 @@ Controllo parlamentare sulle procedure d'infrazione riguardanti l'Italia
 
 > \- Per i riferimenti al Trattato sul funzionamento dell'Unione europea si veda nelle note all'articolo 3.
 
-##### Art. 16
+### Art. 16
 
 Relazione trimestrale al Parlamento sui flussi finanziari con l'Unione europea
 
 1\. Il Governo presenta ogni tre mesi alle Camere, alle regioni e alle province autonome, per il tramite della Conferenza delle regioni e delle province autonome e della Conferenza dei presidenti delle assemblee legislative delle regioni e delle province autonome, una relazione sull'andamento dei flussi finanziari tra l'Italia e l'Unione europea. La relazione contiene un'indicazione dei flussi finanziari ripartiti per ciascuna rubrica e sottorubrica contemplata dal quadro finanziario pluriennale di riferimento dell'Unione europea. Per ciascuna rubrica e sottorubrica sono riportati la distribuzione e lo stato di utilizzazione delle risorse erogate a carico del bilancio dell'Unione europea in relazione agli enti competenti e alle aree geografiche rilevanti.
 
-##### Art. 17
+### Art. 17
 
 Nomina di membri italiani di istituzioni
 
@@ -332,11 +326,9 @@ dell'Unione europea
 
 4\. Le disposizioni di cui al presente articolo si applicano anche alle proposte e alle designazioni volte alla conferma di persone in carica.
 
-## Capo III
+## Capo III - Coordinamento della partecipazione dell'Italia al processo normativo dell'Unione Europea
 
-### Coordinamento della partecipazione dell'Italia al processo normativo - dell'Unione Europea
-
-##### Art. 18
+### Art. 18
 
 Dipartimento per le politiche europee
 
@@ -352,7 +344,7 @@ Dipartimento per le politiche europee
 
 > 3\. Restano ferme le attribuzioni regionali in materia di attuazione delle norme comunitarie e in materia di relazioni con le istituzioni comunitarie.».
 
-##### Art. 19
+### Art. 19
 
 Comitato tecnico di valutazione degli atti dell'Unione europea
 
@@ -384,7 +376,7 @@ Qualora siano trattate materie che interessano le regioni e le province autonome
 
 9\. Non si applica l'articolo 29, comma 2, lettera e-bis), del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248.
 
-##### Art. 20
+### Art. 20
 
 Nuclei di valutazione degli atti dell'Unione europea
 
@@ -402,7 +394,7 @@ AGGIORNAMENTO (13)
 
 Il D.P.R. 4 settembre 2024, n. 161, ha disposto (con l'art. 5, comma 5) che "Il Nucleo di valutazione degli atti dell'Unione europea, istituito ai sensi dell'articolo 20 della legge 24 dicembre 2012, n. 234, a decorrere dalla data di entrata in vigore del presente regolamento e' incardinato nell'ambito dell'Ufficio legislativo".
 
-##### Art. 21
+### Art. 21
 
 Esperti nazionali distaccati
 
@@ -458,13 +450,9 @@ L'esperienza maturata all'estero costituisce titolo preferenziale per l'accesso 
 
 > \- Per il testo dell' articolo 17 della legge 23 agosto 1988, 400, si veda nelle note all'articolo 2.
 
-## Capo IV
+## Capo IV - Partecipazione delle regioni, delle province autonome e delle autonomie locali al processo di formazione degli atti dell'Unione Europea
 
-### Partecipazione delle regioni, delle province autonome e delle - autonomie locali al processo di formazione degli atti dell'Unione
-
-#### Europea
-
-##### Art. 22
+### Art. 22
 
 Sessione europea della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
@@ -510,7 +498,7 @@ c) sugli schemi dei disegni di legge di cui all'articolo 29 della presente legge
 
 > 3\. Il Ministro delegato per il coordinamento delle politiche comunitarie fa parte dei comitati indicati nei commi 1 e 2, nonche' del comitato interministeriale del credito e del risparmio. Le funzioni attribuite a tali comitati sono esercitate su iniziativa dei Ministri competenti d'intesa col suddetto Ministro.».
 
-##### Art. 23
+### Art. 23
 
 Sessione europea della Conferenza Stato-citta'
 
@@ -518,7 +506,7 @@ ed autonomie locali
 
 1\. Il Presidente del Consiglio dei Ministri o il Ministro per gli affari europei convoca, d'intesa con il Ministro dell'interno, almeno due volte l'anno, o su richiesta del presidente dell'ANCI, del presidente dell'UPI o del presidente dell'UNCEM, una sessione speciale della Conferenza Stato-citta' ed autonomie locali, dedicata alla trattazione degli aspetti delle politiche dell'Unione europea di interesse degli enti locali. Il Governo informa tempestivamente le Camere e la Conferenza delle regioni e delle province autonome sui risultati emersi durante tale sessione. La Conferenza Stato-citta' ed autonomie locali, in particolare, esprime parere sui criteri e sulle modalita' per conformare l'esercizio delle funzioni di interesse degli enti locali all'osservanza e all'adempimento degli obblighi di cui all'articolo 1.
 
-##### Art. 24
+### Art. 24
 
 Partecipazione delle regioni e delle province autonome alle decisioni relative alla formazione di atti normativi dell'Unione europea.
 
@@ -568,13 +556,13 @@ Il Governo riferisce altresi', su richiesta della predetta Conferenza, prima del
 
 > Il Governo e' tenuto a proporre tale ricorso qualora esso sia richiesto dalla Conferenza Stato-Regioni a maggioranza assoluta delle Regioni e delle Province autonome.».
 
-##### Art. 25
+### Art. 25
 
 Partecipazione alla verifica del rispetto del principio di sussidiarieta' da parte delle assemblee, dei consigli regionali e delle province autonome di Trento e di Bolzano.
 
 1\. Ai fini della verifica del rispetto del principio di sussidiarieta' di cui all'articolo 8, le assemblee e i consigli regionali e delle province autonome di Trento e di Bolzano possono far pervenire alle Camere le loro osservazioni in tempo utile per l'esame parlamentare dandone contestuale comunicazione alla Conferenza dei presidenti delle assemblee legislative delle regioni e delle province autonome.
 
-##### Art. 26
+### Art. 26
 
 Partecipazione degli enti locali alle decisioni relative alla formazione di atti normativi dell'Unione europea
 
@@ -586,7 +574,7 @@ Partecipazione degli enti locali alle decisioni relative alla formazione di atti
 
 4\. Qualora le osservazioni degli enti locali non siano pervenute al Governo entro la data indicata all'atto della trasmissione dei progetti o degli atti o, in mancanza, entro il giorno precedente quello della discussione in sede di Unione europea, il Governo puo' comunque procedere alle attivita' dirette alla formazione dei relativi atti.
 
-##### Art. 27
+### Art. 27
 
 Modalita' di nomina dei membri italiani
 
@@ -606,11 +594,9 @@ presso il Comitato delle regioni
 
 > \- Per il testo dell'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, si veda nelle note all'articolo 2.
 
-## Capo V
+## Capo V - Partecipazione delle parti sociali e delle categorie produttive al processo di formazione degli atti dell'Unione europea
 
-### Partecipazione delle parti sociali e delle categorie produttive al - processo di formazione degli atti dell'Unione europea
-
-##### Art. 28
+### Art. 28
 
 Partecipazione delle parti sociali e delle categorie produttive alle decisioni relative alla formazione di atti dell'Unione europea
 
@@ -654,11 +640,9 @@ Partecipazione delle parti sociali e delle categorie produttive alle decisioni r
 
 > 2\. Nelle materie di cui all'articolo 10 il CNEL puo' far pervenire alle Camere e al Governo i contributi che ritiene opportuni anche in riferimento all'attivita' delle Comunita' europee e di organismi internazionali ai quali l'Italia partecipa.».
 
-## Capo VI
+## Capo VI - Adempimento degli obblighi derivanti dall'appartenenza dell'Italia all'Unione europea
 
-### Adempimento degli obblighi derivanti dall'appartenenza dell'Italia - all'Unione europea
-
-##### Art. 29
+### Art. 29
 
 Legge di delegazione europea e legge europea
 
@@ -694,7 +678,7 @@ f) fornisce l'elenco dei provvedimenti con i quali nelle singole regioni e provi
 
 ((8. Al fine di consentire la celere entrata in vigore dei disegni di legge di cui ai commi 4 e 5, nel caso di ulteriori esigenze di adempimento di obblighi di cui all'articolo 1, il Presidente del Consiglio dei ministri o il Ministro per gli affari europei, di concerto con il Ministro degli affari esteri e della cooperazione internazionale e con gli altri Ministri interessati, puo' presentare alle Camere, entro il 31 luglio di ogni anno, previo parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, un ulteriore disegno di legge di delegazione europea e un ulteriore disegno di legge europea, i cui titoli sono completati dalla dicitura: "secondo semestre". Per il disegno di legge di delegazione europea di cui al presente comma non e' prescritta la relazione illustrativa di cui al comma 7)).
 
-##### Art. 30
+### Art. 30
 
 Contenuti della legge di delegazione europea
 
@@ -746,7 +730,7 @@ e) disposizioni emanate nell'esercizio del potere sostitutivo di cui all'articol
 
 > \- Il decreto del Presidente della Repubblica 10 novembre 1999, n. 469 (Regolamento recante norme di semplificazione del procedimento per il versamento di somme all'entrata e la riassegnazione alle unita' previsionali di base per la spesa del bilancio dello Stato, con particolare riferimento ai finanziamenti dell'Unione europea, ai sensi dell'articolo 20, comma 8, della L. 15 marzo 1997, n. 59) e' pubblicato nella Gazzetta Ufficiale 15 dicembre 1999, n. 293.
 
-##### Art. 31
+### Art. 31
 
 Procedure per l'esercizio delle deleghe legislative conferite al Governo con la legge di delegazione europea
 
@@ -768,7 +752,7 @@ Procedure per l'esercizio delle deleghe legislative conferite al Governo con la 
 
 9\. Il Governo, quando non intende conformarsi ai pareri parlamentari di cui al comma 3, relativi a sanzioni penali contenute negli schemi di decreti legislativi recanti attuazione delle direttive, ritrasmette i testi, con le sue osservazioni e con eventuali modificazioni, alla Camera dei deputati e al Senato della Repubblica. Decorsi venti giorni dalla data di ritrasmissione, i decreti sono emanati anche in mancanza di nuovo parere.
 
-##### Art. 32
+### Art. 32
 
 Principi e criteri direttivi generali di delega
 
@@ -848,7 +832,7 @@ i) e' assicurata la parita' di trattamento dei cittadini italiani rispetto ai ci
 
 > \- Per i riferimenti all'articolo 117 della Costituzione, si veda nelle note all'articolo 1.
 
-##### Art. 33
+### Art. 33
 
 Delega al Governo per la disciplina sanzionatoria
 
@@ -864,7 +848,7 @@ di violazioni di atti normativi dell'Unione europea
 
 > \- Per il testo dell'articolo 14 della citata legge n. 400 del 1988, si veda nelle note all'articolo 31.
 
-##### Art. 34
+### Art. 34
 
 Deleghe per il recepimento di atti dell'Unione europea contenute in leggi diverse dalla legge di delegazione europea annuale
 
@@ -872,7 +856,7 @@ Deleghe per il recepimento di atti dell'Unione europea contenute in leggi divers
 
 2\. La disposizione di cui al comma 1 si applica, altresi', all'emanazione di testi unici per il riordino e l'armonizzazione di normative di settore interessate dai decreti legislativi di recepimento di direttive europee, nel rispetto delle competenze delle regioni e delle province autonome.
 
-##### Art. 35
+### Art. 35
 
 Recepimento di direttive europee
 
@@ -910,7 +894,7 @@ b) la previsione di nuove spese o di minori entrate.
 
 > \- Per il testo dell'articolo 17 della citata legge n. 400 del 1988, si veda nelle note all'articolo 2.
 
-##### Art. 36
+### Art. 36
 
 Adeguamenti tecnici e atti di esecuzione dell'Unione europea
 
@@ -918,7 +902,7 @@ Adeguamenti tecnici e atti di esecuzione dell'Unione europea
 
 1-bis. In relazione a quanto disposto dall'articolo 117, quinto comma, della Costituzione, i provvedimenti di cui al presente articolo possono essere adottati nelle materie di competenza legislativa delle regioni e delle province autonome di Trento e di Bolzano al fine di porre rimedio all'eventuale inerzia dei suddetti enti nel dare attuazione a norme dell'Unione europea. In tale caso, i provvedimenti statali adottati si applicano, per le regioni e per le province autonome nelle quali non sia ancora in vigore la rispettiva normativa di attuazione, a decorrere dalla scadenza del termine stabilito per l'attuazione della pertinente normativa europea e perdono comunque efficacia dalla data di entrata in vigore della normativa di attuazione di ciascuna regione o provincia autonoma. I provvedimenti recano l'esplicita indicazione della natura sostitutiva del potere esercitato e del carattere cedevole delle disposizioni in essi contenute.
 
-##### Art. 37
+### Art. 37
 
 Misure urgenti per l'adeguamento agli obblighi derivanti dall'ordinamento dell'Unione europea
 
@@ -926,7 +910,7 @@ Misure urgenti per l'adeguamento agli obblighi derivanti dall'ordinamento dell'U
 
 2\. Il Presidente del Consiglio dei Ministri o il Ministro per i rapporti con il Parlamento assume le iniziative necessarie per favorire un tempestivo esame parlamentare dei provvedimenti di cui al comma 1.
 
-##### Art. 38
+### Art. 38
 
 Attuazione di singoli atti normativi dell'Unione europea
 
@@ -934,7 +918,7 @@ Attuazione di singoli atti normativi dell'Unione europea
 
 2\. I disegni di legge di cui al presente articolo non possono contenere disposizioni di delegazione legislativa, ne' altre disposizioni, anche omogenee per materia, che non siano in diretta correlazione con l'attuazione o l'applicazione dell'atto normativo in recepimento, salvo che la natura o la complessita' della normativa le rendano indispensabili.
 
-##### Art. 39
+### Art. 39
 
 Relazioni sul mancato o ritardato recepimento
 
@@ -944,7 +928,7 @@ di direttive europee
 
 2\. Il Presidente del Consiglio dei Ministri o il Ministro per gli affari europei riferisce al Consiglio dei Ministri almeno ogni tre mesi sullo stato del recepimento delle direttive dell'Unione europea che risultano in scadenza nei sei mesi successivi e sulle ragioni del mancato o ritardato recepimento delle direttive, sulla base di quanto riferito dai Ministri interessati ai sensi del comma 1.
 
-##### Art. 40
+### Art. 40
 
 Recepimento delle direttive europee da parte
 
@@ -988,7 +972,7 @@ delle regioni e delle province autonome
 
 > 6\. E' soppresso l'ultimo periodo della lettera a) del primo comma dell'articolo 17 della legge 16 maggio 1970, n. 281.».
 
-##### Art. 41
+### Art. 41
 
 Poteri sostitutivi dello Stato
 
@@ -1004,7 +988,7 @@ Alla riunione del Consiglio dei ministri e' invitato il Presidente della Giunta 
 
 2-quater. Le disposizioni di cui ai commi precedenti si applicano anche nei casi in cui sono in corso procedure europee di infrazione)).
 
-##### Art. 41-bis - Fondo per il recepimento della normativa europea
+### Art. 41-bis - Fondo per il recepimento della normativa europea
 
 1\. Al fine di consentire il tempestivo adeguamento dell'ordinamento interno agli obblighi imposti dalla normativa europea, nei soli limiti occorrenti per l'adempimento degli obblighi medesimi e in quanto non sia possibile farvi fronte con i fondi gia' assegnati alle competenti amministrazioni, e' autorizzata la spesa di 10 milioni di euro per l'anno 2015 e di 50 milioni di euro annui a decorrere dall'anno 2016.((5))
 
@@ -1020,11 +1004,9 @@ AGGIORNAMENTO (5)
 
 La L. 28 dicembre 2015, n. 208, ha disposto (con l'art. 1, comma 810) che "La dotazione del fondo di cui all'articolo 41-bis, comma 1, della legge 24 dicembre 2012, n. 234, e' incrementata di 50 milioni di euro per l'anno 2016 e di 100 milioni di euro annui per il periodo 2017-2020".
 
-## Capo VII
+## Capo VII - Contenzioso
 
-### Contenzioso
-
-##### Art. 42
+### Art. 42
 
 Ricorsi alla Corte di giustizia dell'Unione europea
 
@@ -1068,7 +1050,7 @@ Ricorsi alla Corte di giustizia dell'Unione europea
 
 > Il Governo e' tenuto a proporre tale ricorso qualora esso sia richiesto dalla Conferenza Stato-Regioni a maggioranza assoluta delle Regioni e delle Province autonome».
 
-##### Art. 43
+### Art. 43
 
 Diritto di rivalsa dello Stato nei confronti di regioni o di altri enti pubblici responsabili di violazioni del diritto dell'Unione europea
 
@@ -1106,11 +1088,9 @@ AGGIORNAMENTO (1)
 
 La L. 27 dicembre 2013, n. 147 ha disposto (con l'art. 1, comma 421) che "L'articolo 43, comma 10, della legge 24 dicembre 2012, n. 234, si interpreta nel senso che il diritto di rivalsa si esercita anche per gli oneri finanziari sostenuti dallo Stato per la definizione delle controversie dinanzi alla Corte europea dei diritti dell'uomo che si siano concluse con decisione di radiazione o cancellazione della causa dal ruolo ai sensi degli articoli 37 e 39 della Convenzione per la salvaguardia dei diritti dell'uomo e delle liberta' fondamentali, di cui alla legge 4 agosto 1955, n. 848".
 
-## Capo VIII
+## Capo VIII - Aiuti di Stato
 
-### Aiuti di Stato
-
-##### Art. 44
+### Art. 44
 
 Aiuti di Stato
 
@@ -1120,7 +1100,7 @@ Aiuti di Stato
 
 > \- Per i riferimenti per il Trattato sul funzionamento dell'Unione europea si veda nelle note all'articolo 3.
 
-##### Art. 45
+### Art. 45
 
 Comunicazioni in ordine agli aiuti di Stato
 
@@ -1132,7 +1112,7 @@ Comunicazioni in ordine agli aiuti di Stato
 
 ((3. Con decreto del Presidente del Consiglio dei ministri, da adottare di concerto con il Ministro degli affari esteri e della cooperazione internazionale e con il Ministro dello sviluppo economico, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono disciplinate, entro sessanta giorni dalla data di entrata in vigore della presente disposizione, le modalita' di attuazione del presente articolo)).
 
-##### Art. 45-bis
+### Art. 45-bis
 
 (( (Obblighi di monitoraggio e relazione concernenti i servizi di interesse economico generale). ))
 
@@ -1142,7 +1122,7 @@ Comunicazioni in ordine agli aiuti di Stato
 
 3\. Con uno o piu' decreti del Presidente del Consiglio dei ministri, da adottare entro sessanta giorni dalla data di entrata in vigore del presente articolo, sono stabilite le modalita' per l'attuazione dei commi 1 e 2)).
 
-##### Art. 46
+### Art. 46
 
 Divieto di ((erogazione)) di aiuti di Stato a imprese beneficiarie di aiuti di Stato illegali non rimborsati
 
@@ -1172,7 +1152,7 @@ AGGIORNAMENTO (10)
 
 Il D.L. 19 maggio 2020, n. 34, convertito con modificazioni dalla L. 17 luglio 2020, n. 77, ha disposto (con l'art. 53, comma 1) che "In deroga all'articolo 46, comma 1, della legge 24 dicembre 2012, n. 234, che vieta ai soggetti beneficiari di aiuti non rimborsati, di cui e' obbligatorio il recupero in esecuzione di una decisione della Commissione europea, di ricevere nuovi aiuti, i suddetti soggetti, in ragione delle straordinarie condizioni determinate dall'epidemia di COVID-19, accedono agli aiuti previsti da atti legislativi o amministrativi adottati, a livello nazionale, regionale o territoriale, ai sensi e nella vigenza della comunicazione della Commissione europea del 19 marzo 2020, C (2020)1863, "Quadro temporaneo per le misure di aiuto di Stato a sostegno dell'economia nell'attuale emergenza del COVID-19", e successive modificazioni, al netto dell'importo dovuto e non rimborsato, comprensivo degli interessi maturati fino alla data dell'erogazione".
 
-##### Art. 47
+### Art. 47
 
 Aiuti pubblici per calamita' naturali
 
@@ -1206,7 +1186,7 @@ In particolare:
 
 f) l'articolo 2 della legge n. 225 del 1992, citato nell'articolo 47, comma 1, della legge 24 dicembre 2012, n. 234, deve intendersi riferito all'articolo 7 del presente decreto".
 
-##### Art. 48
+### Art. 48
 
 Procedure di recupero
 
@@ -1224,7 +1204,7 @@ AGGIORNAMENTO (6)
 
 La L. 7 luglio 2016, n. 122 ha disposto (con l'art. 35, comma 4) che le presenti modifiche si applicano alle decisioni di recupero notificate a decorrere dal 1° gennaio 2015.
 
-##### Art. 49
+### Art. 49
 
 Giurisdizione esclusiva del giudice amministrativo
 
@@ -1244,7 +1224,7 @@ AGGIORNAMENTO (6)
 
 La L. 7 luglio 2016, n. 122 ha disposto (con l'art. 35, comma 4) che le presenti modifiche si applicano alle decisioni di recupero notificate a decorrere dal 1° gennaio 2015.
 
-##### Art. 50
+### Art. 50
 
 Ricorso giurisdizionale per violazione dell'articolo 108, paragrafo 3, del Trattato sul funzionamento dell'Unione europea.
 
@@ -1254,7 +1234,7 @@ Ricorso giurisdizionale per violazione dell'articolo 108, paragrafo 3, del Tratt
 
 > \- Per i riferimenti al Trattato sul funzionamento dell'Unione europea, si veda nelle note all'articolo 3.
 
-##### Art. 51
+### Art. 51
 
 Estinzione del diritto alla restituzione dell'aiuto di Stato oggetto di una decisione di recupero per decorso del tempo.
 
@@ -1268,7 +1248,7 @@ AGGIORNAMENTO (6)
 
 La L. 7 luglio 2016, n. 122 ha disposto (con l'art. 35, comma 4) che la presente modifica si applica alle decisioni di recupero notificate a decorrere dal 1° gennaio 2015.
 
-##### Art. 52 - Registro nazionale degli aiuti di Stato
+### Art. 52 - Registro nazionale degli aiuti di Stato
 
 1\. Al fine di garantire il rispetto dei divieti di cumulo e degli obblighi di trasparenza e di pubblicita' previsti dalla normativa europea e nazionale in materia di aiuti di Stato, i soggetti pubblici o privati che concedono ovvero gestiscono i predetti aiuti trasmettono le relative informazioni alla banca di dati istituita presso il Ministero dello sviluppo economico ai sensi dell'articolo 14, comma 2, della legge 5 marzo 2001, n. 57, che assume la denominazione di "Registro nazionale degli aiuti di Stato".
 
@@ -1308,17 +1288,15 @@ AGGIORNAMENTO (6)
 
 La L. 7 luglio 2016, n. 122 ha disposto (con l'art. 35, comma 4) che la presente modifica si applica alle decisioni di recupero notificate a decorrere dal 1° gennaio 2015.
 
-## Capo IX
+## Capo IX - Disposizioni transitorie e finali
 
-### Disposizioni transitorie e finali
-
-##### Art. 53
+### Art. 53
 
 Parita' di trattamento
 
 1\. Nei confronti dei cittadini italiani non trovano applicazione norme dell'ordinamento giuridico italiano o prassi interne che producano effetti discriminatori rispetto alla condizione e al trattamento garantiti nell'ordinamento italiano ai cittadini dell'Unione europea.
 
-##### Art. 54
+### Art. 54
 
 Lotta contro le frodi nei confronti dell'Unione europea
 
@@ -1382,7 +1360,7 @@ Lotta contro le frodi nei confronti dell'Unione europea
 
 > 7\. Le disposizioni del presente articolo non si applicano ai commissari straordinari del Governo di cui all'articolo 11 della legge 23 agosto 1988, n. 400, e agli organi di direzione, amministrazione e controllo.».
 
-##### Art. 55
+### Art. 55
 
 Punti di contatto europei
 
@@ -1462,7 +1440,7 @@ c) gestisce il Centro SOLVIT per l'Italia.
 
 > 6\. Della attivazione del punto di contatto l'amministrazione competente ai sensi dell'articolo 5 informa il Dipartimento per il coordinamento delle politiche comunitarie, ai fini dell'esercizio delle competenze a questo attribuite quale coordinatore nazionale.».
 
-##### Art. 56
+### Art. 56
 
 Competenze istituzionali del Ministero degli affari esteri
 
@@ -1474,13 +1452,13 @@ Competenze istituzionali del Ministero degli affari esteri
 
 > \- Il decreto del Presidente della Repubblica 5 gennaio 1967, n. 18 (Ordinamento dell'Amministrazione degli affari esteri) e' pubblicato nella Gazzetta Ufficiale 18 febbraio 1967, n. 44, S.O.
 
-##### Art. 57
+### Art. 57
 
 Norme transitorie
 
 1\. Le disposizioni di cui all'articolo 46, comma 3, e all'articolo 48, comma 4, si applicano anche con riferimento alle decisioni di recupero adottate prima della data di entrata in vigore della presente legge.
 
-##### Art. 58
+### Art. 58
 
 Modifica, deroga, sospensione o abrogazione
 
@@ -1488,19 +1466,19 @@ della presente legge
 
 1\. Le disposizioni della presente legge possono essere modificate, derogate, sospese o abrogate da successive leggi solo attraverso l'esplicita indicazione delle disposizioni da modificare, derogare, sospendere o abrogare.
 
-##### Art. 59
+### Art. 59
 
 Regioni a statuto speciale e province autonome
 
 1\. Per le regioni a statuto speciale e per le province autonome resta fermo quanto previsto nei rispettivi statuti speciali e nelle relative norme di attuazione.
 
-##### Art. 60
+### Art. 60
 
 Disposizioni finanziarie
 
 1\. Dall'attuazione della presente legge non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono all'attuazione della presente legge con le risorse umane, strumentali e finanziarie previste a legislazione vigente.
 
-##### Art. 61
+### Art. 61
 
 Abrogazioni e modificazioni
 

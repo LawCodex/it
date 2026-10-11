@@ -44,11 +44,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - FINALITA' E AMBITO DI APPLICAZIONE
 
-### FINALITA' E AMBITO DI APPLICAZIONE
-
-#### Art. 1
+### Art. 1
 
 Finalita'
 
@@ -58,7 +56,7 @@ Finalita'
 
 > Nella Gazzetta Ufficiale - serie generale - del 13 ottobre 2005 si procedera' alla ripubblicazione del testo del presente decreto legislativo, corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -188,7 +186,7 @@ t-duodecies) ((monitoraggio e informazione del traffico marittimo)): funzione di
 
 t-quaterdecies) regolamento VTS: il regolamento, approvato dall'amministrazione che reca le procedure operative adottate da ogni Autorita' VTS.
 
-#### Art. 3
+### Art. 3
 
 (((Ambito di applicazione).
 
@@ -202,11 +200,9 @@ b) alle navi tradizionali e alle imbarcazioni da diporto di lunghezza inferiore 
 
 c) ai carburanti delle navi inferiori a 1000 GT ed alle scorte ed attrezzature da utilizzarsi a bordo di tutte le navi.))
 
-## Titolo II
+## Titolo II - RAPPORTAZIONE E MONITORAGGIO NAVALE
 
-### RAPPORTAZIONE E MONITORAGGIO NAVALE
-
-#### Art. 4
+### Art. 4
 
 Comunicazione preventiva dell'ingresso nei porti italiani
 
@@ -220,7 +216,7 @@ c) se lo scalo di destinazione non e' noto o se lo stesso e' aggiornato nel cors
 
 2\. Le navi dirette a un porto nazionale, provenienti da un porto extracomunitario che trasportano merci pericolose o inquinanti, sono soggette all'obbligo di comunicazione di cui all'articolo 13.
 
-#### Art. 5
+### Art. 5
 
 (( (Monitoraggio delle navi che entrano nelle aree coperte da sistemi obbligatori di rapportazione navale).
 
@@ -228,7 +224,7 @@ c) se lo scalo di destinazione non e' noto o se lo stesso e' aggiornato nel cors
 
 2\. L'amministrazione, nel caso in cui intenda introdurre un nuovo sistema obbligatorio di rapportazione navale o modificare i sistemi di rapportazione di cui al comma 1, da sottoporre all'IMO per la preventiva adozione, deve prevedere l'acquisizione, attraverso gli stessi, almeno delle informazioni di cui all'allegato I, punto 4.))
 
-#### Art. 6
+### Art. 6
 
 Impiego dei sistemi di identificazione automatica
 
@@ -240,7 +236,7 @@ Impiego dei sistemi di identificazione automatica
 
 3\. L'utilizzo del sistema di identificazione automatica, all'interno delle acque portuali, e' soggetto alla disciplina del Comandante del porto, in ragione delle preminenti esigenze di sicurezza (security) delle infrastrutture portuali.
 
-#### Art. 6-bis - Utilizzo di sistemi di identificazione automatica, AIS, da parte delle unita' da pesca
+### Art. 6-bis - Utilizzo di sistemi di identificazione automatica, AIS, da parte delle unita' da pesca
 
 1\. Ogni unita' da pesca di lunghezza fuori tutto superiore a 15 metri e' dotata, secondo il calendario riportato nell'allegato II, parte I, ((...)), di un sistema di identificazione automatica, AIS, di classe A conforme alle norme di funzionamento definite dall'IMO.
 
@@ -248,7 +244,7 @@ Impiego dei sistemi di identificazione automatica
 
 3\. Le unita' da pesca mantengono sempre in funzione il sistema AIS durante la navigazione, salvo che, in casi eccezionali, il Comandante ritenga necessario disattivarlo per la sicurezza dell'unita'.
 
-#### Art. 6-ter
+### Art. 6-ter
 
 (((Utilizzo di sistemi di identificazione e tracciamento a lungo raggio delle navi, LRIT).
 
@@ -256,7 +252,7 @@ Impiego dei sistemi di identificazione automatica
 
 2\. La NCA acquisisce le informazioni LRIT trasmesse dalle navi attraverso la partecipazione all'European LRIT Data Center e coopera con la Commissione e con gli Stati membri per determinare i requisiti necessari per l'installazione del sistema di trasmissione delle informazioni LRIT a bordo delle navi.))
 
-#### Art. 7
+### Art. 7
 
 (( (Impiego dei sistemi di rotte navali).
 
@@ -264,7 +260,7 @@ Impiego dei sistemi di identificazione automatica
 
 2\. Le autorita' competenti, nel caso in cui e' operante un sistema di rotte navali non adottato dall'IMO, si uniformano, per quanto possibile, alle linee guida e ai criteri elaborati dall'IMO e diffondono tutte le informazioni per un impiego sicuro ed efficace dei predetti sistemi di rotte navali.))
 
-#### Art. 8
+### Art. 8
 
 (( (Monitoraggio dell'adesione ai servizi di assistenza al traffico marittimo da parte delle navi).
 
@@ -278,7 +274,7 @@ c) le navi soggette al VTS battenti bandiera di un Paese terzo al di fuori del m
 
 2\. L'Amministrazione adotta le misure necessarie e appropriate per assicurare che le navi di bandiera Italiana partecipino e rispettino le regole esistenti nelle aree VTS di un altro Stato membro.))
 
-#### Art. 9
+### Art. 9
 
 (( (Gestione dei sistemi di monitoraggio ed informazione sul traffico marittimo - VTMIS nazionale).
 
@@ -288,7 +284,7 @@ c) le navi soggette al VTS battenti bandiera di un Paese terzo al di fuori del m
 
 3\. Il personale impiegato nel sistema VTMIS o addetto ai sistemi di rapportazione navale obbligatoria e' qualificato presso il Centro di formazione VTMIS dell'amministrazione.))
 
-#### Art. 9-bis - Rete AIS nazionale
+### Art. 9-bis - Rete AIS nazionale
 
 1\. Nell'ambito del sistema di cui al comma 1 dell'articolo 9, l'amministrazione provvede alla gestione della rete AIS nazionale per la ricezione e la diffusione di informazioni sul traffico marittimo ((...)), garantendo la necessaria copertura radioelettrica.
 
@@ -300,7 +296,7 @@ c) le navi soggette al VTS battenti bandiera di un Paese terzo al di fuori del m
 
 5\. Le stazioni non facenti parte della rete istituzionale AIS operano anche in trasmissione, qualora l'amministrazione ne riconosca rilevanza ai fini di tutela della sicurezza della navigazione((. In ogni caso, potranno essere autorizzate le sole trasmissioni del messaggio 21, relative agli Aids-to-Navigation di tipo fisico, di cui alla raccomandazione ITU-R M. 1371, edita dall'Unione internazionale delle telecomunicazioni. Le informazioni acquisite da stazioni non facenti parte della rete istituzionale AIS non potranno essere aggregate per costituire reti di monitoraggio del traffico marittimo.))
 
-#### Art. 10
+### Art. 10
 
 Registratori dei dati di viaggio
 
@@ -312,15 +308,13 @@ Registratori dei dati di viaggio
 
 3-bis. Con decreto del Ministro delle infrastrutture e dei trasporti sono individuate le unita' soggette all'obbligo di essere dotate del registratore dei dati di viaggio (VDR) di cui all'allegato II.
 
-#### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 6 SETTEMBRE 2011, N. 165))
 
-## Titolo III
+## Titolo III - COMUNICAZIONE DELLE MERCI PERICOLOSE O INQUINANTI A BORDO DELLE NAVI (HAZMAT)
 
-### COMUNICAZIONE DELLE MERCI PERICOLOSE O INQUINANTI A BORDO DELLE NAVI - (HAZMAT)
-
-#### Art. 12 - Informazioni concernenti il trasporto di merci pericolose o inquinanti
+### Art. 12 - Informazioni concernenti il trasporto di merci pericolose o inquinanti
 
 1\. Le merci pericolose o inquinanti sono consegnate per il trasporto o accettate a bordo di una nave, indipendentemente dalle dimensioni di questa, se al comandante al proprietario o all'armatore, prima che le merci siano accettate a bordo, perviene una dichiarazione contenente le seguenti informazioni di cui all'allegato I, punto 2, nonche':
 
@@ -332,7 +326,7 @@ b) i numeri di chiamata di emergenza dello spedizioniere o di ogni altra persona
 
 3\. Lo spedizioniere fornisce al Comandante o all'esercente la dichiarazione di cui al comma 1 e cura che il carico consegnato per il trasporto corrisponda effettivamente a quello di cui alla dichiarazione citata.
 
-#### Art. 13
+### Art. 13
 
 ((Obbligo di comunicazione delle merci pericolose o inquinanti trasportate a bordo))
 
@@ -344,7 +338,7 @@ b) i numeri di chiamata di emergenza dello spedizioniere o di ogni altra persona
 
 4\. L'armatore, il proprietario ((, la compagnia,)), l'agente o il comandante della nave comunica le informazioni relative al carico di cui all'allegato I, punto 3, all'autorita' marittima competente. Le informazioni sono trasmesse, per quanto possibile per via elettronica, nel rispetto della sintassi e delle procedure specificate nell'allegato III.
 
-#### Art. 14
+### Art. 14
 
 Scambio telematico di dati fra Stati membri
 
@@ -360,13 +354,13 @@ c) la trasmissione ((. . .)) all'autorita' competente di un altro Stato membro, 
 
 ((3. La NCA, su richiesta della NCA di altro Stato membro, trasmette, senza ritardo, mediante SafeSeaNet, informazioni sulla nave o sulle merci pericolose o inquinanti trasportate a bordo, necessarie ai fini della sicurezza della navigazione, del trasporto marittimo, dei lavoratori marittimi, delle navi e degli impianti portuali, dell'ambiente marino e costiero e delle risorse biologiche marine.))
 
-#### Art. 14-bis - Portale per lo scambio telematico di dati tra gli armatori, proprietari, agenti raccomandatari, compagnie o comandanti delle navi e le amministrazioni - PMIS
+### Art. 14-bis - Portale per lo scambio telematico di dati tra gli armatori, proprietari, agenti raccomandatari, compagnie o comandanti delle navi e le amministrazioni - PMIS
 
 1\. Lo scambio delle informazioni di interesse commerciale previste dal presente decreto tra armatori, proprietari, agenti raccomandatari, ((avvisatori marittimi,)) compagnie o comandanti delle navi e le autorita' marittime, l'agenzia delle dogane e gli altri uffici interessati, finalizzato al piu' efficace esercizio delle attivita' amministrative correlate all'ingresso, all'operativita' portuale ed alla partenza delle unita', si attua attraverso il sistema telematico PMIS.
 
 2\. L'Amministrazione assicura l'integrazione del PMIS con il SafeSeaNet.
 
-#### Art. 15
+### Art. 15
 
 (( (Esenzioni).
 
@@ -390,11 +384,9 @@ e) le navi impiegate, se adibite al trasporto di passeggeri, siano dotate, a pre
 
 5\. L'amministrazione comunica alla Commissione l'elenco delle compagnie e delle navi a cui e' concessa un'esenzione in applicazione del presente articolo, unitamente a tutti gli aggiornamenti di tale elenco.))
 
-## Titolo IV
+## Titolo IV - MONITORAGGIO DELLE NAVI A RISCHIO ED INTERVENTO IN CASO DI INCIDENTI IN MARE
 
-### MONITORAGGIO DELLE NAVI A RISCHIO ED INTERVENTO IN CASO DI INCIDENTI - IN MARE
-
-#### Art. 16
+### Art. 16
 
 Trasmissione delle informazioni relative a determinate navi
 
@@ -420,7 +412,7 @@ c-ter) le navi che presentano anomalie potenzialmente in grado di compromettere 
 
 3\. L'amministrazione che riceve dette informazioni le trasmette all'autorita' marittima competente, la quale, di iniziativa o su richiesta, puo' effettuare ispezioni o verifiche, le cui risultanze sono messe a disposizione di tutti gli Stati membri dell'Unione europea.
 
-#### Art. 17
+### Art. 17
 
 Rapportazione di incidenti in mare
 
@@ -436,7 +428,7 @@ d) qualsiasi perdita di prodotti inquinanti, contenitori o colli alla deriva.
 
 2\. Il messaggio di rapportazione trasmesso ai sensi del comma 1 indica il nome della nave, la sua posizione, il porto di partenza, il porto di destinazione, tutte le indicazioni che consentano di ottenere informazioni sulle merci pericolose e inquinanti trasportate a bordo, il numero delle persone a bordo, i particolari dell'incidente e qualsiasi informazione pertinente prevista dalla risoluzione 851(20) dell'IMO.
 
-#### Art. 18
+### Art. 18
 
 Misure da adottare in presenza di condizioni meteorologiche
 
@@ -454,7 +446,7 @@ c) limita o vieta il rifornimento di combustibile in mare nelle acque territoria
 
 3\. Le misure ovvero le raccomandazioni di cui al comma 1, lettera b), sono basate sulle previsioni e le osservazioni meteorologiche diffuse dal servizio meteorologico dell'Aeronautica militare italiana.
 
-#### Art. 19
+### Art. 19
 
 Misure relative agli incidenti in mare
 
@@ -466,7 +458,7 @@ Misure relative agli incidenti in mare
 
 ((3-bis. L'amministrazione, nell'attuazione della normativa nazionale in materia personale marittimo, in caso di incidente nelle acque di giurisdizione, si conforma alle Linee guida dell'IMO in tema di giusto trattamento dei marittimi.))
 
-#### Art. 20
+### Art. 20
 
 (( (Autorita' competente per l'accoglienza delle navi che necessitano di assistenza).
 
@@ -476,7 +468,7 @@ Misure relative agli incidenti in mare
 
 3\. Il Direttore marittimo convoca i Capi dei Compartimenti ricadenti nell'ambito di propria giurisdizione, con cadenza almeno annuale, al fine di uniformare le procedure attuative per l'accoglienza delle navi che necessitano di assistenza e scambiare competenze tecniche ed esperienze al riguardo, anche nel quadro degli indirizzi impartiti dalla Direzione generale per la protezione della natura del Ministero dell'ambiente e della tutela del territorio e del mare.))
 
-#### Art. 20-bis
+### Art. 20-bis
 
 (( (Piani per l'accoglienza delle navi che necessitano di assistenza)
 
@@ -506,7 +498,7 @@ b) comunica, su richiesta, agli Stati membri interessati, informazioni pertinent
 
 5\. Il Capo del compartimento assicura che informazioni utili all'applicazione delle procedure previste per l'accoglienza delle navi che necessitano assistenza siano poste a disposizione dei soggetti e degli enti coinvolti nelle operazioni, che sono vincolati dall'obbligo della riservatezza posto dall'articolo 24. ))
 
-#### Art. 20-ter
+### Art. 20-ter
 
 (( (Decisione relativa all'accoglienza delle navi)
 
@@ -516,7 +508,7 @@ a) decide in merito all'accoglienza di una nave in un luogo di rifugio, sulla ba
 
 b) accoglie le navi in idoneo luogo di rifugio se tale soluzione risulta la migliore ai fini della tutela della vita umana, della salvaguardia dell'ambiente e degli interessi socio-economici del territorio.))
 
-#### Art. 20-quater
+### Art. 20-quater
 
 (( (Sicurezza finanziaria e compensazioni).
 
@@ -524,7 +516,7 @@ b) accoglie le navi in idoneo luogo di rifugio se tale soluzione risulta la migl
 
 2\. Fatto salvo quanto previsto dal comma 1, il Capo del Compartimento che decide di accogliere una nave che necessiti di assistenza puo' richiedere all'armatore, al proprietario, al comandante della nave o all'agente marittimo, la produzione di adeguata copertura assicurativa ai sensi dell'articolo 6 della direttiva 2009/20/CE sull'assicurazione dei proprietari di navi per i sinistri marittimi, senza che da tale richiesta derivi ritardo nell'accoglienza della nave.))
 
-#### Art. 21
+### Art. 21
 
 Informazioni delle parti interessate
 
@@ -532,7 +524,7 @@ Informazioni delle parti interessate
 
 2\. L'autorita' marittima, che riceve notizie relative a fatti o situazioni idonei, anche potenzialmente, a creare un aumento del rischio di zone marittime e costiere di altro Stato membro, adotta le piu' appropriate misure per fornire ogni pertinente informazione e consultazione e, laddove sia necessario, si rende disponibile per ogni possibile forma di collaborazione.
 
-#### Art. 22
+### Art. 22
 
 Designazione degli organismi competenti
 
@@ -542,7 +534,7 @@ Designazione degli organismi competenti
 
 3\. L'amministrazione comunica alla Commissione europea, anche per le finalita' del presente decreto, l'elenco delle stazioni costiere secondarie come individuate dal decreto del Presidente della Repubblica 28 settembre 1994, n. 662.
 
-#### Art. 22-bis
+### Art. 22-bis
 
 (( (Sistema europeo per lo scambio di dati marittimi,SafeSeaNet).
 
@@ -552,7 +544,7 @@ Designazione degli organismi competenti
 
 3\. Fatto salvo il contenuto del comma 2, l'amministrazione provvede affinche' i sistemi o le reti di informazione nazionali, ad eccezione di quelli finalizzati alla tutela della sicurezza pubblica, all'esercizio delle funzioni di polizia economica e finanziaria, alla difesa e alla sicurezza militare, allorche' operino ai sensi di accordi comunitari o nel quadro di progetti transfrontalieri, interregionali o transnazionali all'interno dell'Unione europea, rispettino le prescrizioni del presente decreto e siano compatibili e connessi con SafeSeaNet.))
 
-#### Art. 23
+### Art. 23
 
 Cooperazione tra gli Stati membri
 
@@ -570,7 +562,7 @@ d) stabilire piani concertati per l'accoglienza delle navi in pericolo ai sensi 
 
 ((1-bis. L'amministrazione coopera con le autorita' degli Stati membri e con la Commissione, contribuendo allo sviluppo e al funzionamento del sistema di raccolta e di diffusione dei dati relativi alla sicurezza della navigazione, del trasporto marittimo, dei lavoratori marittimi, delle navi e degli impianti portuali, dell'ambiente marino e costiero e delle risorse biologiche marine.))
 
-#### Art. 24 - Riservatezza delle informazioni ed ispezioni
+### Art. 24 - Riservatezza delle informazioni ed ispezioni
 
 ((1. L'amministrazione, in ottemperanza alla legislazione comunitaria e nazionale, adotta le misure necessarie per garantire la riservatezza delle informazioni acquisite ai sensi del presente decreto ed utilizza dette informazioni solo in conformita' alle finalita' del trattamento di cui all'articolo 1. A tae fine collabora con la Commissione in merito a eventuali problemi relativi alla sicurezza delle reti e delle informazioni.))
 
@@ -578,7 +570,7 @@ d) stabilire piani concertati per l'accoglienza delle navi in pericolo ai sensi 
 
 3\. Con le medesime direttive sono altresi' impartite disposizioni per la visita periodica del funzionamento dei sistemi telematici a terra e la loro idoneita' a soddisfare i requisiti per la ricezione e la trasmissione, 24 ore su 24, delle informazioni comunicate ai sensi degli articoli 13 e 15.
 
-#### Art. 25
+### Art. 25
 
 Sanzioni
 
@@ -596,7 +588,7 @@ Sanzioni
 
 4-quater. La violazione degli obblighi di informazione di cui agli articoli 6, 6-bis, 6-ter, 10, 12, 13, 17 e 19 costituisce fondato motivo di ispezione dettagliata ai sensi dell'articolo 5 del decreto del Ministro delle infrastrutture e dei trasporti 13 ottobre 2003, n. 305.))
 
-#### Art. 25-bis
+### Art. 25-bis
 
 (( (Comunicazione delle misure adottate) ))
 
@@ -604,7 +596,7 @@ Sanzioni
 
 2\. L'autorita' marittima che constata, quando si verifica un incidente in mare di cui all'articolo 19, che la compagnia non e' stata in grado di stabilire e mantenere un collegamento con la nave o con le autorita' competenti, ne informa lo Stato che ha rilasciato od a nome del quale sono stati rilasciati il documento di conformita' ISM ed il certificato di gestione della sicurezza)).
 
-#### Art. 26
+### Art. 26
 
 Disposizioni finanziarie
 
@@ -638,11 +630,9 @@ Matteoli, Ministro dell'ambiente e della tutela del territorio
 
 Visto, il Guardasigilli: Castelli
 
-## Titolo IV
+## Titolo IV - MONITORAGGIO DELLE NAVI A RISCHIO ED INTERVENTO IN CASO DI INCIDENTI IN MARE
 
-### MONITORAGGIO DELLE NAVI A RISCHIO ED INTERVENTO IN CASO DI INCIDENTI - IN MARE
-
-#### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -724,7 +714,7 @@ il certificato assicurativo di cui all'art. 12 della Convenzione internazionale 
 
 5\. Il comandante della nave informa immediatamente l'autorita' marittima interessata di qualsiasi modifica delle informazioni comunicate ai sensi del presente allegato.
 
-#### Allegato II
+### Allegato II
 
 ((ALLEGATO II
 
@@ -776,7 +766,7 @@ A norma dell'art. 10, comma 2 sono esentate dall'obbligo di installare il regist
 
 &gt;
 
-#### Allegato III
+### Allegato III
 
 ((Allegato III (art. 13, comma 4)
 
@@ -884,7 +874,7 @@ Il sistema centrale SafeSeaNet e i sistemi nazionali SafeSeaNet sono conformi ai
 
 L'amministrazione identifica tutti gli utenti ai quali sono attribuiti un ruolo e una serie di diritti di accesso conformemente all'IFCD e a quanto stabilito negli artt. 9, 9-bis e 24 del presente decreto legislativo.))
 
-#### Allegato IV
+### Allegato IV
 
 ((ALLEGATO IV
 
@@ -906,7 +896,7 @@ d) ordinare al comandante di recarsi in un luogo di rifugio in caso di pericolo 
 
 Se una nave e' rimorchiata nell'ambito di un accordo di rimorchio o di salvataggio, le misure di cui alle lettere a) e d) adottate dall'Autorita' Marittima possono essere applicate anche alle societa' di assistenza, salvataggio e rimorchio coinvolte.))
 
-#### Allegato IV-bis
+### Allegato IV-bis
 
 ALLEGATO IV-bis
 

@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Disposizioni in materia di libera circolazione delle merci
 
-### Disposizioni in materia di libera circolazione delle merci
-
-#### Art. 1
+### Art. 1
 
 Abrogazione di disposizioni relative alla commercializzazione di apparecchiature televisive in Italia. Caso EU Pilot 6868/14/ENTR
 
@@ -54,7 +52,7 @@ e) il decreto del Ministro delle poste e delle telecomunicazioni 29 marzo 1985, 
 
 > Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
 
-#### Art. 2
+### Art. 2
 
 Disposizioni relative all'importazione di prodotti petroliferi finiti liquidi da Paesi terzi. Caso EU Pilot 3799/12/TRADE
 
@@ -88,11 +86,9 @@ Disposizioni relative all'importazione di prodotti petroliferi finiti liquidi da
 
 > La legge 7 agosto 2012, n. 134 (Conversione in legge, con modificazioni, del decreto-legge 22 giugno 2012, n. 83, recante misure urgenti per la crescita del Paese), e' pubblicata nella Gazzetta Ufficiale 11 agosto 2012, n. 187, S.O.
 
-## Capo II
+## Capo II - Disposizioni in materia di libera circolazione delle persone, dei servizi e dei capitali
 
-### Disposizioni in materia di libera circolazione delle persone, dei - servizi e dei capitali
-
-#### Art. 3
+### Art. 3
 
 Modifiche al codice delle comunicazioni elettroniche in materia di impianti ed esercizio di stazioni radioelettriche a bordo di navi.
 
@@ -116,7 +112,7 @@ Caso EU Pilot 5301/13/CNCT
 
 > 3\. Per le classi di navi che non rientrano nel comma 2, e che non effettuano servizio di corrispondenza pubblica, l'impianto e l'esercizio delle stazioni radioelettriche e' affidato all'armatore.".
 
-#### Art. 4
+### Art. 4
 
 Disposizioni in materia di servizi di radiodiffusione sonora in onde medie a modulazione di ampiezza. Caso EU Pilot 3473/12/INSO
 
@@ -128,7 +124,7 @@ Disposizioni in materia di servizi di radiodiffusione sonora in onde medie a mod
 
 > Il decreto legislativo 31 luglio 2005, n. 177 (Testo unico dei servizi di media audiovisivi e radiofonici), e' pubblicato nella Gazzetta Ufficiale 7 settembre 2005, n. 208, S.O.
 
-#### Art. 5
+### Art. 5
 
 Disposizioni relative ai costi amministrativi a carico dei fornitori di servizi di comunicazioni elettroniche. Procedura di infrazione n. 2013/4020
 
@@ -284,7 +280,7 @@ d) euro 16 per ogni MHz nella gamma di frequenza inferiore a 6 GHz».
 
 > 4\. Al fine di consentire l'effettuazione dei controlli amministrativi e le verifiche tecniche, i titolari di autorizzazioni generali sono tenuti, sulla base di un ragionevole preavviso, a consentire l'accesso al personale incaricato di svolgere tali compiti alle sedi ed ai siti oggetto del controllo.".
 
-#### Art. 6
+### Art. 6
 
 Disposizioni relative ai servizi di media audiovisivi. Corretto recepimento della direttiva 89/552/CEE, come modificata dalla direttiva 2007/65/CE e codificata dalla direttiva 2010/13/UE. Caso EU Pilot 1890/11/INSO
 
@@ -300,7 +296,7 @@ Disposizioni relative ai servizi di media audiovisivi. Corretto recepimento dell
 
 > (Omissis).".
 
-#### Art. 7
+### Art. 7
 
 Disposizioni concernenti la libera prestazione di servizi degli agenti di brevetto. Procedura di infrazione n. 2014/4139
 
@@ -360,7 +356,7 @@ b) dopo il comma 3-bis sono aggiunti i seguenti:
 
 > 5-bis. L'Ufficio, su istanza, rilascia copia o copia autentica dei documenti o dei riferimenti prodotti all'atto del deposito. La traduzione italiana, ove presentata successivamente, viene allegata su richiesta.".
 
-#### Art. 8
+### Art. 8
 
 Disposizioni in materia di affidamento di servizi pubblici locali.
 
@@ -378,7 +374,7 @@ Procedure di infrazione n. 2012/2050 e 2011/4003
 
 > 22\. Gli affidamenti diretti assentiti alla data del 31 dicembre 2004 a societa' a partecipazione pubblica gia' quotate in mercati regolamentati a tale data e a quelle da esse controllate ai sensi dell'articolo 2359 del codice civile alla medesima data, cessano alla scadenza prevista nel contratto di servizio o negli altri atti che regolano il rapporto; gli affidamenti che non prevedono una data di scadenza cessano, improrogabilmente e senza necessita' di apposita deliberazione dell'ente affidante, il 31 dicembre 2020. Gli affidamenti diretti a societa' poste, successivamente al 31 dicembre 2004, sotto il controllo di societa' quotate a seguito di operazioni societarie effettuate in assenza di procedure conformi ai principi e alle disposizioni dell'Unione europea applicabili allo specifico affidamento cessano, improrogabilmente e senza necessita' di apposita deliberazione dell'ente affidante, il 31 dicembre 2018 o alla scadenza prevista nel contratto di servizio o negli altri atti che regolano il rapporto, se anteriori.".
 
-#### Art. 9
+### Art. 9
 
 Disposizioni relative ai viaggi, alle vacanze e ai circuiti «tutto compreso». Procedura di infrazione n. 2012/4094
 
@@ -396,11 +392,9 @@ b) l'articolo 51 e' abrogato a decorrere dal ((30 giugno 2016)).
 
 2\. Per i contratti di vendita dei pacchetti turistici, come definiti dall'articolo 34 del codice di cui al decreto legislativo 23 maggio 2011, n. 79, stipulati entro il 31 dicembre 2015, continua ad applicarsi la disciplina dell'articolo 51 del medesimo codice di cui al decreto legislativo n. 79 del 2011, e successive modificazioni. Le istanze di rimborso relative a contratti di vendita dei pacchetti turistici stipulati entro il 31 dicembre 2015 devono essere presentate, a pena di decadenza, entro tre mesi dalla data in cui si e' concluso o si sarebbe dovuto concludere il viaggio e sono definite fino ai limiti della capienza del Fondo nazionale di garanzia previsto dal citato articolo 51 del codice di cui al decreto legislativo n. 79 del 2011, e successive modificazioni, la cui gestione liquidatoria e' assicurata dall'amministrazione competente.
 
-## Capo III
+## Capo III - Disposizioni in materia di giustizia e sicurezza
 
-### Disposizioni in materia di giustizia e sicurezza
-
-#### Art. 10
+### Art. 10
 
 Disposizioni in materia di immigrazione e di rimpatri. Procedura di infrazione n. 2014/2235
 
@@ -418,11 +412,9 @@ Disposizioni in materia di immigrazione e di rimpatri. Procedura di infrazione n
 
 > (Omissis).".
 
-## Capo IV
+## Capo IV - Disposizioni in materia di trasporti
 
-### Disposizioni in materia di trasporti
-
-#### Art. 11
+### Art. 11
 
 Disposizioni concernenti la patente di guida. Procedura di infrazione n. 2014/2116 e caso EU Pilot 7070/14/MOVE
 
@@ -580,11 +572,9 @@ d) all'articolo 170:
 
 > (Omissis).".
 
-## Capo V
+## Capo V - Disposizioni in materia di fiscalita', dogane e aiuti di Stato
 
-### Disposizioni in materia di fiscalita', dogane e aiuti di Stato
-
-#### Art. 12
+### Art. 12
 
 Modifiche alla disciplina dell'imposta sul valore aggiunto relativa a talune importazioni di merci di valore modesto. Procedura di infrazione n. 2012/2088
 
@@ -624,7 +614,7 @@ Modifiche alla disciplina dell'imposta sul valore aggiunto relativa a talune imp
 
 > 2\. Le disposizioni del secondo e terzo comma dell'art. 8 si applicano, con riferimento all'ammontare complessivo dei corrispettivi delle operazioni indicate nel precedente comma, anche per gli acquisti di beni, diversi dai fabbricati e dalle aree edificabili, e di servizi fatti dai soggetti che effettuano le operazioni stesse nell'esercizio dell'attivita' propria dell'impresa.".
 
-#### Art. 13
+### Art. 13
 
 Modifiche alla disciplina dell'imposta sul valore aggiunto relativa a talune operazioni intra-UE. Caso EU Pilot 6286/14/TAXU
 
@@ -656,7 +646,7 @@ b) all'articolo 41, comma 3, le parole: «o per essere ivi temporaneamente utili
 
 > (Omissis).".
 
-#### Art. 14
+### Art. 14
 
 Disposizioni relative alla gestione e al monitoraggio degli aiuti pubblici alle imprese
 
@@ -694,7 +684,7 @@ d) l'elenco dei soggetti tenuti alla restituzione degli aiuti incompatibili dei 
 
 2\. Le informazioni contenute nel Registro di cui all'articolo 52 della legge 24 dicembre 2012, n. 234, come sostituito dal comma 1 del presente articolo, sono utilizzate anche ai fini della relazione di cui all'articolo 1 della legge 7 agosto 1997, n. 266, che, a decorrere dall'anno 2015, e' predisposta dal Ministero dello sviluppo economico e trasmessa alle Camere entro il 30 settembre di ciascun anno, al fine di illustrare le caratteristiche e l'andamento, nell'anno precedente, dei diversi provvedimenti di sostegno alle attivita' economiche e produttive, per una valutazione dei provvedimenti in questione e per fornire, in forma articolata, elementi di monitoraggio. Il Ministero dello sviluppo economico individua con proprio provvedimento le ulteriori informazioni utili alla predisposizione della relazione di cui al presente comma, che devono essere inserite nel Registro dai soggetti pubblici o privati che concedono o gestiscono agevolazioni pubbliche alle imprese.
 
-#### Art. 15
+### Art. 15
 
 Obblighi di monitoraggio e relazione concernenti i servizi di interesse economico generale
 
@@ -712,11 +702,9 @@ Obblighi di monitoraggio e relazione concernenti i servizi di interesse economic
 
 > L'articolo 47 del testo della legge 4 giugno 2010, n. 96 (Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2009), abrogato dalla presente legge, e' pubblicato nella Gazzetta Ufficiale 25 giugno 2010, n. 146, S.O.
 
-## Capo VI
+## Capo VI - Disposizioni in materia di lavoro e di politica sociale
 
-### Disposizioni in materia di lavoro e di politica sociale
-
-#### Art. 16
+### Art. 16
 
 Disposizioni in materia di salute e sicurezza dei lavoratori nei cantieri temporanei o mobili. Caso EU Pilot 6155/14/EMPL
 
@@ -752,7 +740,7 @@ Disposizioni in materia di salute e sicurezza dei lavoratori nei cantieri tempor
 
 > 2-bis. Le disposizioni di cui al presente titolo si applicano agli spettacoli musicali, cinematografici e teatrali e alle manifestazioni fieristiche tenendo conto delle particolari esigenze connesse allo svolgimento delle relative attivita', individuate con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro della salute, sentita la Commissione consultiva permanente per la salute e sicurezza sul lavoro, che deve essere adottato entro il 31 dicembre 2013.".
 
-#### Art. 17
+### Art. 17
 
 Disposizioni di attuazione della direttiva 2009/13/CE sul lavoro marittimo. Procedura di infrazione n. 2014/0515
 
@@ -794,7 +782,7 @@ b) dopo l'articolo 38 e' inserito il seguente:
 
 > (Omissis).".
 
-#### Art. 18
+### Art. 18
 
 Disposizioni in materia di cumulo dei periodi di assicurazione maturati presso organizzazioni internazionali - Procedura di infrazione n. 2014/4168
 
@@ -834,11 +822,9 @@ AGGIORNAMENTO (6)
 
 Il D.L. 16 settembre 2024, n. 131 ha disposto (con l'art. 10, comma 3) che le presenti modifiche si applicano a far data dal 1° gennaio 2025.
 
-## Capo VII
+## Capo VII - Disposizioni in materia di salute pubblica e sicurezza alimentare
 
-### Disposizioni in materia di salute pubblica e sicurezza alimentare
-
-#### Art. 19
+### Art. 19
 
 Disposizioni relative al sistema di identificazione degli animali della specie bovina. Attuazione della direttiva 2014/64/UE, che modifica la direttiva 64/432/CEE per quanto concerne le basi di dati informatizzate che fanno parte delle reti di sorveglianza degli Stati membri
 
@@ -920,7 +906,7 @@ i) il tipo di mezzo di identificazione elettronica, se applicato all'animale».
 
 > 6-bis. Limitatamente alla movimentazione degli animali della specie suina, la registrazione nella banca dati di cui al comma 1 deve comprendere almeno: il numero dei suini spostati, il numero di identificazione dell'azienda o dell'allevamento di partenza, il numero di identificazione dell'azienda o dell'allevamento di arrivo, la data di partenza o la data di arrivo.".
 
-#### Art. 20
+### Art. 20
 
 Disposizioni in materia di organismi geneticamente modificati.
 
@@ -978,11 +964,9 @@ c) i commi 5 e 6 sono abrogati.
 
 > 7\. Con decreto del Ministro delle politiche agricole e forestali, di concerto con il Ministro dell'ambiente e il Ministro della sanita', sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, da emanarsi entro trenta giorni dalla data di entrata in vigore del presente decreto, sono stabilite norme di applicazione delle disposizioni relative ai prodotti sementieri di varieta' geneticamente modificate, con riguardo alle modalita' e criteri per la messa a punto di protocolli tecnici di analisi e controllo e all'individuazione e messa a punto di piani di monitoraggio e sorveglianza sull'uso corretto di tali prodotti, sugli effetti prodotti dalla coltivazione degli stessi e sulla loro messa in commercio.".
 
-## Capo VIII
+## Capo VIII - Disposizioni in materia ambientale
 
-### Disposizioni in materia ambientale
-
-#### Art. 21
+### Art. 21
 
 Disposizioni relative alla cattura di richiami vivi. Procedura di infrazione n. 2014/2006
 
@@ -1004,7 +988,7 @@ Disposizioni relative alla cattura di richiami vivi. Procedura di infrazione n. 
 
 > I commi 1-bis e 1-ter dell'articolo 16 del decreto-legge 24 giugno 2014, n. 91 (Disposizioni urgenti per il settore agricolo, la tutela ambientale e l'efficientamento energetico dell'edilizia scolastica e universitaria, il rilancio e lo sviluppo delle imprese, il contenimento dei costi gravanti sulle tariffe elettriche, nonche' per la definizione immediata di adempimenti derivanti dalla normativa europea), abrogati dalla presente legge, sono pubblicati nella Gazzetta Ufficiale 24 giugno 2014, n. 144.
 
-#### Art. 22
+### Art. 22
 
 Divieto di commercio di specie di uccelli viventi naturalmente allo stato selvatico nel territorio europeo. Caso EU Pilot 5391/13/ENVI
 
@@ -1074,7 +1058,7 @@ Divieto di commercio di specie di uccelli viventi naturalmente allo stato selvat
 
 > (Omissis).".
 
-#### Art. 23
+### Art. 23
 
 Disposizioni finalizzate al corretto recepimento della direttiva 94/62/CE sugli imballaggi e rifiuti di imballaggio. Procedura di infrazione n. 2014/2123
 
@@ -1210,7 +1194,7 @@ d) all'allegato E alla parte quarta, al numero 1), dopo le parole: «e fino all'
 
 > (Omissis).".
 
-#### Art. 24
+### Art. 24
 
 Disposizioni relative allo stoccaggio geologico di biossido di carbonio - Caso EU-Pilot 7334/15/CLIM
 
@@ -1300,11 +1284,9 @@ e) all'articolo 30, comma 1, le parole: «promuovono la stipula di accordi speci
 
 > "Art. 30 (Cooperazione transnazionale). - 1. Per il trasporto transfrontaliero di CO2, i siti di stoccaggio o i complessi di stoccaggio ubicati in contesto transfrontaliero, il Ministero dello sviluppo economico ed il Ministero dell'ambiente adempiono le disposizioni del presente decreto e delle altre normative comunitarie applicabili, ovvero promuovono la stipulazione di accordi specifici con Stati membri dell'Unione europea.".
 
-## Capo IX
+## Capo IX - Disposizioni in materia di energia
 
-### Disposizioni in materia di energia
-
-#### Art. 25
+### Art. 25
 
 Disposizioni relative allo stoccaggio di scorte petrolifere.
 
@@ -1394,7 +1376,7 @@ b) al comma 7 dell'articolo 9 sono aggiunte, in fine, le seguenti parole: «, fa
 
 > 8\. Fino a quando l'OCSIT non sara' nella condizione operativa di impegnarsi per l'intera durata di un determinato anno a mantenere almeno trenta giorni di scorte specifiche il Ministero dello sviluppo economico, anche sulla base di informazioni dell'OCSIT, redige una relazione annuale in cui sono analizzate le misure adottate per garantire e verificare la disponibilita' e l'accessibilita' fisica delle scorte di sicurezza di cui all'articolo 5 e documenta nella stessa relazione le disposizioni fissate per consentire allo Stato italiano di controllare l'uso di queste scorte in caso di difficolta' di approvvigionamento di petrolio. Tale relazione e' trasmessa alla Commissione europea entro la fine del primo mese dell'anno cui fa riferimento.".
 
-#### Art. 26
+### Art. 26
 
 Disposizioni per la corretta attuazione del terzo pacchetto energia.
 
@@ -1550,19 +1532,15 @@ f) all'articolo 45:
 
 > 7-bis. In caso di violazione persistente da parte del Gestore degli obblighi su di esso incombenti ai sensi della direttiva 2009/73/CE, l'Autorita' per l'energia elettrica, il gas e il sistema idrico assegna a un gestore di trasporto indipendente tutti o alcuni specifici compiti del Gestore.".
 
-## Capo X
+## Capo X - Disposizioni in materia di protezione civile
 
-### Disposizioni in materia di protezione civile
-
-#### Art. 27
+### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-## Capo XI
+## Capo XI - Altre disposizioni
 
-### Altre disposizioni
-
-#### Art. 28
+### Art. 28
 
 Introduzione dell'articolo 41-bis della legge 24 dicembre 2012, n. 234
 
@@ -1576,7 +1554,7 @@ Introduzione dell'articolo 41-bis della legge 24 dicembre 2012, n. 234
 
 4\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio».
 
-#### Art. 29
+### Art. 29
 
 Modifiche alla legge 24 dicembre 2012, n. 234
 
@@ -1636,11 +1614,9 @@ c) all'articolo 36:
 
 > 1-bis. In relazione a quanto disposto dall'articolo 117, quinto comma, della Costituzione, i provvedimenti di cui al presente articolo possono essere adottati nelle materie di competenza legislativa delle regioni e delle province autonome di Trento e di Bolzano al fine di porre rimedio all'eventuale inerzia dei suddetti enti nel dare attuazione a norme dell'Unione europea. In tale caso, i provvedimenti statali adottati si applicano, per le regioni e per le province autonome nelle quali non sia ancora in vigore la rispettiva normativa di attuazione, a decorrere dalla scadenza del termine stabilito per l'attuazione della pertinente normativa europea e perdono comunque efficacia dalla data di entrata in vigore della normativa di attuazione di ciascuna regione o provincia autonoma. I provvedimenti recano l'esplicita indicazione della natura sostitutiva del potere esercitato e del carattere cedevole delle disposizioni in essi contenute.
 
-## Capo XII
+## Capo XII - Disposizione finale
 
-### Disposizione finale
-
-#### Art. 30
+### Art. 30
 
 Clausola di invarianza finanziaria
 

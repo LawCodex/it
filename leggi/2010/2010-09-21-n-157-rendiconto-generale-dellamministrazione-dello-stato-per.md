@@ -29,7 +29,7 @@ la seguente legge:
 
 ## TITOLO I - APPROVAZIONE DEI RENDICONTI
 
-##### ART. 1 - Rendiconti
+#### ART. 1 - Rendiconti
 
 1\. Il rendiconto generale dell'Amministrazione dello Stato e i rendiconti delle Amministrazioni e delle Aziende autonome per l'esercizio 2009 sono approvati nelle risultanze di cui ai seguenti articoli.
 
@@ -39,11 +39,9 @@ la seguente legge:
 
 ## TITOLO II - AMMINISTRAZIONE DELLO STATO
 
-### CAPO I
+### CAPO I - CONTO DEL BILANCIO
 
-#### CONTO DEL BILANCIO
-
-##### ART. 2 - Entrate
+#### ART. 2 - Entrate
 
 1\. Le entrate tributarie, extratributarie, per alienazione e ammortamento di beni patrimoniali e riscossione di crediti nonche' per accensione di prestiti, accertate nell'esercizio finanziario 2009 per la competenza propria dell'esercizio, risultano stabilite in euro 777.514.339.441,20.
 
@@ -53,7 +51,7 @@ la seguente legge:
 
 Parte di provvedimento in formato grafico
 
-##### ART. 3 - Spese
+#### ART. 3 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di passivita' finanziarie, impegnate nell'esercizio finanziario 2009 per la competenza propria dell'esercizio, risultano stabilite in euro 716.632.846.365,46.
 
@@ -63,19 +61,19 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-##### ART. 4 - Avanzo della gestione di competenza
+#### ART. 4 - Avanzo della gestione di competenza
 
 1\. L'avanzo della gestione di competenza dell'esercizio finanziario 2009, di euro 60.881.493.075,74, risulta stabilito come segue:
 
 Parte di provvedimento in formato grafico
 
-##### ART. 5 - Situazione finanziaria
+#### ART. 5 - Situazione finanziaria
 
 1\. Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 2009, di euro 251.937.618.433,13, risulta stabilito come segue:
 
 Parte di provvedimento in formato grafico
 
-##### ART. 6 - Approvazione dell'allegato
+#### ART. 6 - Approvazione dell'allegato
 
 1\. E' approvato l'allegato n. 1 annesso alla presente legge, previsto dall'articolo 28, comma 4, della legge 31 dicembre 2009, n. 196.
 
@@ -91,15 +89,15 @@ Parte di provvedimento in formato grafico
 
 > 4\. Alla legge di approvazione del rendiconto generale dello Stato e' allegato un elenco dei decreti di cui al comma 2, con le indicazioni dei motivi per i quali si e' proceduto ai prelevamenti dal fondo di cui al presente articolo».
 
-##### ART. 7 - Eccedenze
+#### ART. 7 - Eccedenze
 
 1\. Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo per l'esercizio 2009 rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, relative alle unita' previsionali di base degli stati di previsione della spesa dei Ministeri sottoindicati, nonche' dell'Amministrazione autonoma dei Monopoli di Stato, come risulta dal dettaglio che segue:
 
 Parte di provvedimento in formato grafico
 
-## CAPO II - CONTO GENERALE DEL PATRIMONIO
+### CAPO II - CONTO GENERALE DEL PATRIMONIO
 
-##### ART. 8 - Risultati generali della gestione patrimoniale
+#### ART. 8 - Risultati generali della gestione patrimoniale
 
 1\. La situazione patrimoniale dell'Amministrazione dello Stato, al 31 dicembre 2009, resta stabilita come segue:
 
@@ -107,11 +105,9 @@ Parte di provvedimento in formato grafico
 
 ## TITOLO III - AMMINISTRAZIONI E AZIENDE AUTONOME
 
-### CAPO I
+### CAPO I - ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-#### ISTITUTO AGRONOMICO PER L'OLTREMARE
-
-##### ART. 9 - Entrate
+#### ART. 9 - Entrate
 
 1\. Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 2009 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in euro 5.167.947,28.
 
@@ -121,7 +117,7 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-##### ART. 10 - Spese
+#### ART. 10 - Spese
 
 1\. Le spese correnti e in conto capitale del bilancio dell'Istituto agronomico per l'Oltremare, impegnate nell'esercizio finanziario 2009 per la competenza propria dell'esercizio, risultano stabilite in euro 5.135.858,43.
 
@@ -131,9 +127,9 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-## CAPO II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
+### CAPO II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-##### ART. 11 - Entrate
+#### ART. 11 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei Monopoli di Stato, comprese quelle delle gestioni speciali e autonome, accertate nell'esercizio finanziario 2009 per la competenza propria dell'esercizio, risultano stabilite nel conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'economia e delle finanze, in euro 14.908.226.200,87.
 
@@ -143,7 +139,7 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-##### ART. 12 - Spese
+#### ART. 12 - Spese
 
 1\. Le spese correnti e in conto capitale e per rimborso di passivita' finanziarie del bilancio dell'Amministrazione autonoma dei Monopoli di Stato, comprese quelle delle gestioni speciali e autonome, impegnate nell'esercizio 2009 per la competenza propria dell'esercizio, risultano stabilite in euro 14.908.226.200,87.
 
@@ -153,29 +149,29 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-##### ART. 13 - Riassunto generale
+#### ART. 13 - Riassunto generale
 
 1\. Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei Monopoli di Stato, di competenza dell'esercizio 2009, risulta cosi' stabilito:
 
 Parte di provvedimento in formato grafico
 
-##### ART. 14 - Situazione finanziaria
+#### ART. 14 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione autonoma dei Monopoli di Stato, alla fine dell'esercizio 2009, risulta come appresso:
 
 Parte di provvedimento in formato grafico
 
-## CAPO III - ARCHIVI NOTARILI
+### CAPO III - ARCHIVI NOTARILI
 
-##### ART. 15 - Avanzo
+#### ART. 15 - Avanzo
 
 1\. L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 2009, risulta stabilito come segue:
 
 Parte di provvedimento in formato grafico
 
-## CAPO IV - FONDO EDIFICI DI CULTO
+### CAPO IV - FONDO EDIFICI DI CULTO
 
-##### ART. 16 - Entrate
+#### ART. 16 - Entrate
 
 1\. Le entrate correnti e in conto capitale del bilancio del Fondo edifici di culto, accertate nell'esercizio finanziario 2009 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo del Fondo stesso, allegato al conto consuntivo del Ministero dell'interno, in euro 14.307.246,00.
 
@@ -185,7 +181,7 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-##### ART. 17 - Spese
+#### ART. 17 - Spese
 
 1\. Le spese correnti e in conto capitale del Fondo edifici di culto, impegnate nell'esercizio 2009 per la competenza propria dell'esercizio, risultano stabilite in euro 16.077.906,69.
 
@@ -195,7 +191,7 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-##### ART. 18 - Situazione finanziaria
+#### ART. 18 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'amministrazione del Fondo edifici di culto, alla fine dell'esercizio 2009, risulta come appresso:
 
@@ -217,7 +213,7 @@ Visto, il Guardasigilli: Alfano
 
 ## Allegati
 
-##### Allegato 1
+#### Allegato 1
 
 Allegato 1
 

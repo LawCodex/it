@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 E' istituita l'Universita' statale in Calabria comprendente le seguenti facolta': facolta' di lettere e filosofia, facolta' di scienze matematiche, fisiche e naturali, facolta' di ingegneria e facolta' di scienze economiche e sociali.
 
@@ -36,7 +36,7 @@ L'universita' comprende anche una scuola di specializzazione in tecniche di orga
 
 L'Universita' statale in Calabria e' compresa tra quelle previste dall'articolo 1, n. 1, del testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592, e successive modificazioni.
 
-### Art. 2
+## Art. 2
 
 La facolta' di lettere e filosofia sara' ordinata con i corsi di laurea in lettere, in filosofia e in lingue e letterature straniere moderne.
 
@@ -66,19 +66,19 @@ Ai fini del presente articolo, la commissione per gli esami di laurea e' integra
 
 Sempre ai fini del presente articolo la facolta' di scienze matematiche, fisiche e naturali predisporra' un apposito piano di studi comprendente tutte le discipline che il futuro docente sara' chiamato ad insegnare.
 
-### Art. 3
+## Art. 3
 
 Per l'ammissione ai corsi di laurea in ingegneria per la difesa del suolo e la pianificazione territoriale, in tecnologie industriali e in scienze economiche e sociali valgono gli stessi titoli di studio richiesti per l'ammissione, rispettivamente, alla facolta' di ingegneria e alla facolta' di economia e commercio.
 
-### Art. 4
+## Art. 4
 
 L'Universita' in Calabria si organizza in facolta' e in istituti policattedra.
 
-### Art. 5
+## Art. 5
 
 Con decreto del Presidente della Repubblica, su proposta del Ministro per la pubblica istruzione, previa deliberazione del Consiglio dei Ministri udito il parere del CIPE entro novanta giorni dall'entrata in vigore della presente legge, sara' stabilita la sede dell'Universita' in Calabria avuto riguardo all'ubicazione delle altre sedi universitarie, all'esistenza di facili comunicazioni, alle esigenze della popolazione scolastica locale e alle indicazioni contenute nelle linee direttive del piano di sviluppo della scuola in Italia e nel programma economico nazionale.
 
-### Art. 6
+## Art. 6
 
 Il Ministro per la pubblica istruzione nomina, entro novanta giorni dall'entrata in vigore della presente legge, il comitato tecnico-amministrativo ai sensi e con le modalita' di cui all'articolo 46 della legge 28 luglio 1967, n. 641.
 
@@ -100,7 +100,7 @@ La segreteria del comitato e' assicurata da un ufficio cui viene preposto un dir
 
 Con decreto del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro, sara' provveduto all'eventuale collocamento fuori ruolo con relativa indennita' speciale e in numero non superiore a tre dei componenti ii comitato tecnico-amministrativo per tutta la durata dell'incarico.
 
-### Art. 7
+## Art. 7
 
 Le attribuzioni che le norme vigenti demandano ai consigli di facolta' sono esercitate, per ogni facolta' della Universita' in Calabria, da appositi comitati ordinatori composti da tre membri per ciascuna facolta' scelti tra i professori universitari di ruolo o fuori ruolo titolari di discipline previste nell'ordinamento didattico delle rispettive facolta'.
 
@@ -118,23 +118,23 @@ I comitati ordinatori cesseranno dalle loro funzioni allorche' alle facolta', cu
 
 Finche' non potranno essere eletti, secondo le vigenti norme, i presidi delle varie facolta', i presidenti dei comitati ordinatori, designati dai membri di ciascun comitato, ne eserciteranno le funzioni.
 
-### Art. 8
+## Art. 8
 
 Fino a quando non saranno costituiti i consigli di almeno due facolta', il rettore sara' eletto, a maggioranza di voti, dai componenti dei comitati ordinatori di ciascuna facolta' in adunanza collegiale. La relativa nomina sara' disposta con decreto del Ministro per la pubblica istruzione.
 
 Il rettore dell'Universita' in Calabria sara' esonerato dall'insegnamento per i primi otto anni di funzionamento dell'universita'. Egli potra' farsi coadiuvare da un professore di ruolo o fuori ruolo con qualifica di prorettore.
 
-### Art. 9
+## Art. 9
 
 Il consiglio di amministrazione dell'Universita' in Calabria sara' costituito secondo le norme legislative vigenti in materia non appena entreranno in funzione almeno due facolta'.
 
 Del consiglio di amministrazione medesimo faranno parte i rappresentanti delle amministrazioni provinciali, delle camere dell'agricoltura, industria e commercio e dei comuni capoluogo delle province di Catanzaro, Cosenza e Reggio Calabria.
 
-### Art. 10
+## Art. 10
 
 Entro 180 giorni dalla data del decreto di nomina dei comitati ordinatori sara' emanato, nelle forme e con le modalita' previste dall'art. 17 del testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592, e successive modificazioni, lo statuto dell'Universita' statale in Calabria.
 
-### Art. 11
+## Art. 11
 
 Presso l'Universita' statale in Calabria sara' realizzato un centro residenziale dotato delle necessarie attrezzature sportive, ricreative, associative e sanitarie destinato ad accogliere per la durata dei corsi il personale insegnante e non insegnante in servizio presso l'universita' nonche' una quota non inferiore al 70 per cento degli studenti iscritti ai corsi di laurea e di specializzazione.
 
@@ -142,13 +142,13 @@ Con decreto del Presidente della Repubblica, da adottarsi entro un anno dalla da
 
 Il centro residenziale dell'Universita' in Calabria e' compreso fra gli enti di cui all'art. 42 della legge 28 luglio 1967, n. 641.
 
-### Art. 12
+## Art. 12
 
 Alle spese di funzionamento dell'Universita' si fara' fronte con gli stanziamenti previsti dall'art. 28 della legge 31 ottobre 1966, n. 942.
 
 Alla prima assegnazione della somma occorrente si provvedera' con decreto del Ministro per la pubblica istruzione non appena sara' realizzato il primo stralcio previsto dal comma quarto del successivo art. 13.
 
-### Art. 13
+## Art. 13
 
 Per l'Universita' in Calabria e' prevista una capienza globale massima di 12.000 studenti.
 
@@ -170,7 +170,7 @@ b) condizioni economiche della famiglia;
 
 c) capacita' dimostrate negli studi.
 
-### Art. 14
+## Art. 14
 
 Per la costruzione degli edifici e per la acquisizione delle aree necessarie e' destinata, a carico degli stanziamenti previsti dall'art. 34 della legge 28 luglio 1967, n. 641, la somma di due miliardi di lire per ciascuno degli anni finanziari 1968, 1969, 19°/0, 19/1, di cui una quota sara' impiegata per la realizzazione degli edifici del centro residenziale universitario anche in deroga ai limiti posti dall'art. 33, quinto e sesto comma della legge medesima.
 
@@ -180,11 +180,11 @@ La somma di cui al comma che precede sara' ripartita su proposta del comitato di
 
 Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 15
+## Art. 15
 
 Il personale insegnante e non insegnante in servizio presso l'Universita' calabra ha l'obbligo di risiedere stabilmente nella sede dell'universita' stessa, ovvero nel territorio del comune dove essa e' istituita o in quello di comuni limitrofi.
 
-### Art. 16
+## Art. 16
 
 Per il primo funzionamento dei corsi di laurea fino al massimo di 3.000 studenti complessivi, sara' gradualmente assegnato alle singole facolta' il personale di ruolo insegnante e tecnico di cui alle tabelle allegate A e B.
 
@@ -198,13 +198,13 @@ Sul contingente di 200 posti di professori aggregati, previsti per l'anno accade
 
 Detti posti saranno ripartiti tra le varie facolta' in conformita' dell'articolo 4 della stessa legge.
 
-### Art. 17
+## Art. 17
 
 Per tutto quanto non previsto dalla presente legge all'Universita' statale in Calabria si applicano le norme vigenti per l'ordinamento universitario e quelle delle successive modificazioni ed integrazioni.
 
 ## Norma transitoria
 
-### Art. 18
+## Art. 18
 
 Il Ministro per la pubblica istruzione estendera', entro cinque
 
@@ -228,7 +228,7 @@ Visto, il Guardasigilli: REALE
 
 ## Norma transitoria
 
-### Tabelle
+## Tabelle
 
 TABELLA A
 

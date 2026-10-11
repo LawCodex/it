@@ -27,21 +27,21 @@ Promulga
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo di partenariato e di cooperazione che istituisce un partenariato tra le Comunita' europee ed i loro Stati membri, da una parte, e il Turkmenistan, dall'altra, con allegati, protocollo ed atto finale, fatto a Bruxelles il 25 maggio 1998.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 100 dell'Accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 1\. Per l'attuazione della presente legge e' autorizzata la spesa di euro 5.820 annui a decorrere dal 2003. Al relativo onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2003-2005, nell'ambito dell'unita' previsionale di base di parte corrente «Fondo speciale» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno finanziario 2003, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -151,7 +151,7 @@ DESIDEROSI di avviare una cooperazione culturale e di migliorare il flusso delle
 
 HANNO DECISO QUANTO SEGUE:
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 E' istituito un partenariato tra la Comunita' e i suoi Stati membri, da una parte, e il Turkmenistan, dall'altra. Gli obiettivi del partenariato sono:
 
@@ -167,17 +167,17 @@ E' istituito un partenariato tra la Comunita' e i suoi Stati membri, da una part
 
 ## TITOLO I - PRINCIPI GENERALI
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Il rispetto dei principi democratici e dei diritti umani e fondamentali definiti, in particolare, nella Dichiarazione universale dei diritti dell'uomo, nella Carta delle Nazioni Unite, nell'Atto finale di Helsinki e nella Carta di Parigi per una nuova Europa, nonche' i principi dell'economia di mercato, compresi quelli enunciati nei documenti della Conferenza OSCE di Bonn, sono alla base delle politiche interna ed estera delle Parti e costituiscono elementi fondamentali del presente accordo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Le Parti ritengono fondamentale, per la loro futura prosperita' e stabilita', che i nuovi Stati indipendenti sorti dopo lo scioglimento dell'Unione delle Repubbliche Socialiste Sovietiche (in prosieguo denominati Stati indipendenti) mantengano e sviluppino la cooperazione tra di essi in base ai principi dell'Atto finale di Helsinki e al diritto internazionale, in uno spirito di buon vicinato, e che moltiplichino gli sforzi per promuovere questo processo.
 
 ## TITOLO II - DIALOGO POLITICO
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Le Parti avviano un regolare dialogo politico, che intendono sviluppare e intensificare per accompagnare e consolidare il ravvicinamento tra la Comunita' e il Turkmenistan, sostenere i mutamenti politici ed economici in corso in questo paese e contribuire ad instaurare nuove forme di cooperazione. Detto dialogo politico;
 
@@ -189,11 +189,11 @@ Le Parti avviano un regolare dialogo politico, che intendono sviluppare e intens
 
 Il dialogo puo' svolgersi a livello regionale.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 A livello ministeriale, il dialogo politico si svolgera' nell'ambito del consiglio di cooperazione istituito a norma dell'articolo 77 e, previo mutuo accordo, in altre occasioni.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Le Parti creeranno altre procedure e altri meccanismi per il dialogo politico, in particolare nelle forme seguenti;
 
@@ -205,7 +205,7 @@ Le Parti creeranno altre procedure e altri meccanismi per il dialogo politico, i
 
 ## TITOLO III - SCAMBI DI MERCI
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 1\. Le Parti si concedono reciprocamente il trattamento della nazione piu' favorita in tutti settori, per quanto riguarda:
 
@@ -229,7 +229,7 @@ c) ai vantaggi concessi ai paesi limitrofi per agevolare il traffico frontaliero
 
 3\. Le disposizioni del paragrafo 1 non si applicano, per un periodo transitorio che scadra' il 31 dicembre 1998, ai vantaggi definiti nell'allegato I concessi dal Turkmenistan agli altri Stati indipendenti dell'ex URSS.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 1\. Le Parti convengono che il principio del libero transito e' fondamentale per conseguire gli obiettivi del presente accordo.
 
@@ -239,21 +239,21 @@ A tale riguardo, ciascuna delle Parti consente il transito senza restrizioni att
 
 3\. Le disposizioni del presente articolo lasciano impregiudicate tutte le norme speciali concordate tra Le Parti relative a settori particolari quali i trasporti o a determinati prodotti.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Fatti salvi i diritti e gli obblighi derivanti dalle convenzioni internazionali sull'ammissione temporanea delle merci cui hanno aderito entrambe le Parti; ciascuna Parte concede all'altra l'esenzione dagli oneri all'importazione e dai dazi sulle merci in ammissione temporanea, nei casi e secondo le procedure previsti da qualsiasi altra convenzione internazionale in materia cui abbia aderito, secondo la propria legislazione. Si terra' conto delle condizioni alle quali le Parti hanno accertato gli obblighi derivanti da tale convenzione.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 1\. Le merci originarie del Turkmenistan sono importate nella Comunita' in esenzione da restrizioni quantitative o misure di effetto equivalente, fatte salve le disposizioni degli articoli 12, 15 e 16 del presente accordo.
 
 2\. Le merci originarie della Comunita' sono importate nel Turkmenistan in esenzione da tutte le restrizioni quantitative o misure di effetto equivalente, fatte salve le disposizioni degli articoli 12, 15 e 16 del presente accordo.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Le merci vengono commercializzate tra le Parti ai prezzi di mercato.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 1\. Se un prodotto e' importato nel territorio di una delle Parti in quantitativi talmente grandi o in condizioni tali da provocare o minacciare di provocare pregiudizio ai produttori nazionali di prodotti simili o direttamente concorrenti, la Comunita' o il Turkmenistan, a seconda dei casi, possono prendere le misure opportune attenendosi alle seguenti procedure e condizioni.
 
@@ -267,19 +267,19 @@ Le merci vengono commercializzate tra le Parti ai prezzi di mercato.
 
 6\. Nessuna disposizione del presente articolo pregiudica ne' compromette minimamente l'adozione, ad opera di una delle Parti, di misure antidumping o compensative a norma dell'articolo VI del GATT 1994, dell'accordo sull'applicazione dell'articolo VI del GATT 1994, dell'accordo sulle sovvenzioni e sulle misure compensative o della relativa legislazione interna.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Le Parti si impegnano a prendere in considerazione possibili sviluppi delle disposizioni del presente accordo relative agli scambi di merci tra di esse in funzione delle circostanze, compresa la futura adesione del Turkmenistan all'OMC. Il consiglio di cooperazione puo' formulare raccomandazioni alle Parti su questi sviluppi; se le accettano, le Parti possono procedere a detti sviluppi mediante un accordo concluso secondo le rispettive procedure.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Il presente accordo lascia impregiudicati i divieti o le restrizioni sulle importazioni, sulle esportazioni o sul transito giustificati da motivi di moralita' pubblica, di ordine pubblico, di pubblica sicurezza, dalla tutela della vita e della salute delle persone, degli animali o delle piante, della tutela delle risorse naturali, dalla protezione del patrimonio artistico, storico o archeologico nazionale, dalla tutela della proprieta' intellettuale, industriale o commerciale oppure da norme relative all'oro e all'argento. Tuttavia, tali divieti e restrizioni non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio tra le Parti.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Il presente titolo non si applica agli scambi di prodotti tessili che rientrano nei capitoli 50-63 della nomenclatura combinata, la cui disciplina e' contenuta in un accordo a parte siglato il 30 dicembre 1995 e applicato in via provvisoria dal 1 gennaio 1996.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 1\. Gli scambi dei prodotti contemplati dal trattato che istituisce la Comunita' europea del carbone e dell'acciaio sono disciplinati dalle disposizioni del presente titolo, fatta eccezione per l'articolo 10.
 
@@ -287,33 +287,29 @@ Il presente titolo non si applica agli scambi di prodotti tessili che rientrano 
 
 Il gruppo di contatto procede a regolari scambi di informazioni su tutte le questioni siderurgiche che interessano le Parti.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 Agli scambi di materiali nucleari si applicheranno le disposizioni del trattato che istituisce la Comunita' europea dell'energia atomica. All'occorrenza, a tali scambi si applicheranno le disposizioni di un accordo specifico che verra' concluso tra la Comunita' europea dell'energia atomica e il Turkmenistan.
 
-## TITOLO IV - DISPOSIZIONI RIGUARDANTI LE ATTIVITA'
+## TITOLO IV - DISPOSIZIONI RIGUARDANTI LE ATTIVITA' COMMERCIALI E GLI INVESTIMENTI
 
-### COMMERCIALI E GLI INVESTIMENTI - CAPITOLO I
+### CAPITOLO I - Condizioni di lavoro
 
-#### Condizioni di lavoro
-
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 1\. Secondo le leggi, le condizioni e le procedure applicabili in ciascuno Stato membro, la Comunita' e gli Stati membri si adoperano per evitare che i cittadini del Turkmenistan legalmente impiegati sul territorio di uno Stato membro siano oggetto, rispetto ai loro cittadini, di discriminazioni basate sulla nazionalita' per quanto riguarda le condizioni di lavoro, di retribuzione o di licenziamento, 2. Secondo le leggi, le condizioni e le procedure applicabili nel Turkmenistan, questo paese si adopera per evitare che i cittadini di uno Stato membro legalmente impiegati sul suo territorio siano oggetto, rispetto ai suoi cittadini, di discriminazioni basate sulla nazionalita' per quanto riguarda le condizioni di lavoro, di retribuzione o di licenziamento,
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 Il consiglio di cooperazione esamina in che modo sia possibile migliorare le condizioni di lavoro per gli uomini d'affari in base agli impegni internazionali delle Parti, compresi quelli che figurano nel documento della conferenza OSCE di Bonn.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 Il consiglio di cooperazione formula raccomandazioni per l'applicazione degli articoli 18 e 19.
 
-## CAPITOLO II - Condizioni per lo stabilimento e
+### CAPITOLO II - Condizioni per lo stabilimento e l'attivita' delle societa'
 
-### l'attivita' delle societa'
-
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 1\. La Comunita' e gli Stati membri concedono, per lo stabilimento delle societa' turkmene ai sensi dell'articolo 23, lettera d), un trattamento non meno favorevole di quello concesso alle societa' dei paesi terzi.
 
@@ -325,7 +321,7 @@ Il consiglio di cooperazione formula raccomandazioni per l'applicazione degli ar
 
 5\. Il Turkmenistan concede alle controllate e alle sedi secondarie di societa' comunitarie stabilite sul suo territorio un trattamento non meno favorevole, per la loro attivita', di quello concesso alle sue societa' oppure, se migliore, alle societa' e alle sedi secondarie di societa' dei paesi terzi.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 1\. Le disposizioni dell'articolo 21 non si applicano al trasporto aereo, fluviale e marittimo.
 
@@ -345,7 +341,7 @@ e) la conclusione di accordi commerciali, compresa la partecipazione al capitale
 
 f) le operazioni effettuate a nome delle societa', l'organizzazione dello scalo della nave o, se necessario, la ripresa del carico.
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 Ai fini del presente accordo:
 
@@ -363,7 +359,7 @@ f) Per "attivita' economiche" si intendono le attivita' di natura industriale, c
 
 Per quanto riguarda il trasporto marittimo internazionale, incluse le operazioni intermodali che comprendono una tratta marittima, beneficiano delle disposizioni del presente capitolo e del capitolo III i cittadini degli Stati membri o del Turkmenistan stabiliti al di fuori della Comunita' o del Turkmenistan e le agenzie marittime stabilite al di fuori della Comunita' o del Turkmenistan e controllate da cittadini di uno Stato membro o del Turkmenistan, se le loro navi sono registrate in detto Stato membro o nel Turkmenistan in base alle rispettive legislazioni.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 1\. Fatte salve le altre disposizioni dell'accordo, ciascuna Parte puo' adottare misure cautelari per tutelare gli investitori, i depositanti, gli assicurati o le persone nei confronti delle quali un fornitore di servizi finanziari ha un obbligo fiduciario, oppure per garantire l'integrita' e la stabilita' del sistema finanziario.
 
@@ -373,11 +369,11 @@ Qualora tali misure non siano conformi alle disposizioni del presente accordo es
 
 3\. Ai fini del presente accordo, per "servizi finanziari" si intendono le attivita' descritte nell'allegato IV.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 Le disposizioni del presente accordo non pregiudicano l'applicazione, ad opera delle Parti, delle misure necessarie per impedire l'elusione delle misure riguardanti l'accesso dei paesi terzi al loro mercato attraverso le disposizioni del presente accordo.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 1\. Fatte salve le disposizioni del capitolo I del presente titolo, una societa' comunitaria o turkmena stabilita, rispettivamente, sul territorio del Turkmenistan o della Comunita' ha il diritto di assumere o di far assumere da una delle sue controllate o sedi secondarie, in base alla legislazione in vigore nel paese di stabilimento, sul territorio, rispettivamente del Turkmenistan e della Comunita', cittadini degli Stati membri della Comunita' e del Turkmenistan, purche' si tratti di quadri intermedi a norma del paragrafo 2 del presente articolo, impiegati esclusivamente da societa' o sedi secondarie. I permessi di soggiorno e di lavoro di questi dipendenti coprono unicamente la durata di tale occupazione.
 
@@ -395,7 +391,7 @@ b) i dipendenti di un'organizzazione in possesso di conoscenze non comuni indisp
 
 c) per "persona trasferita all'interno della societa'" s'intende una persona fisica che lavora presso un'organizzazione sul territorio di una delle Parti e temporaneamente trasferita nel quadro di attivita' economiche svolte sul territorio dell'altra Parte; l'organizzazione in questione deve avere la sede principale sul territorio di una Parte e il trasferimento deve avvenire verso un'impresa (sede secondaria, controllata) di questa organizzazione, che effettivamente svolge attivita' economiche simili sul territorio dell'altra Parte.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 1\. Le Parti si adoperano per evitare di adottare misure o avviare azioni tali da rendere le condizioni per lo stabilimento e l'attivita' delle societa' dell'altra Parte piu' restrittive rispetto alla situazione esistente il giorno che precede la firma dell'accordo.
 
@@ -405,21 +401,19 @@ c) per "persona trasferita all'interno della societa'" s'intende una persona fis
 
 4\. Qualora l'introduzione nel Turkmenistan di nuove leggi o di nuovi regolamenti renda le condizioni per l'attivita' delle controllate e delle sedi secondarie di societa' comunitarie stabilite nel Turkmenistan piu' restrittive rispetto alla situazione esistente il giorno della firma del presente accordo, dette leggi o detti regolamenti non si applicano, per i tre anni successivi all'entrata in vigore dell'atto in questione, alle controllate e alle sedi secondarie gia' stabilite nel Turkmenistan al momento dell'entrata in vigore dell'atto stesso.
 
-## CAPITOLO III - Servizi transfrontalieri tra
+### CAPITOLO III - Servizi transfrontalieri tra la Comunita' e il Turkmenistan
 
-### la Comunita' e il Turkmenistan
-
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 1\. In base alle disposizioni del presente capitolo, le Parti si impegnano a prendere le misure necessarie per autorizzare progressivamente la fornitura di servizi da parte di societa' comunitarie o turkmene stabilite in una Parte diversa da quella del destinatario dei servizi, tenendo conto dell'evoluzione dei settori terziari delle Parti.
 
 2\. Il consiglio di cooperazione formula raccomandazioni per l'applicazione del paragrafo 1 del presente articolo.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 Le Parti collaborano al fine di sviluppare nel Turkmenistan un settore terziario orientato verso il mercato.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 1\. Le Parti si impegnano ad applicare efficacemente il principio dell'accesso illimitato al mercato e al traffico marittimo internazionale su base commerciale.
 
@@ -439,35 +433,35 @@ d) all'entrata in vigore dell'accordo aboliscono tutte le misure unilaterali, no
 
 3\. Ogni Parte concede tra l'altro, alle navi che battono bandiera dell'altra Parte un trattamento non meno favorevole di quello riservato alle sue navi per quanto riguarda l'accesso ai porti aperti al commercio internazionale, l'uso dello infrastrutture e dei servizi marittimi ausiliari dei porti, nonche' i relativi diritti e oneri, le agevolazioni doganali e l'assegnazione di ormeggi e di infrastrutture per il carico e lo scarico.
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 Al fine di garantire uno sviluppo coordinato dei trasporti tra le Parti in funzione delle loro esigenze commerciali, le condizioni del reciproco accesso al mercato nonche' la fornitura di servizi di trasporto stradale, ferroviario, fluviale e, se del caso, aereo potranno essere trattate da specifici accordi, negoziati se necessario dalle Parti, dopo l'entrata in vigore del presente accordo.
 
-## CAPITOLO IV - Disposizioni generali
+### CAPITOLO IV - Disposizioni generali
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 1\. L'applicazione delle disposizioni del presente titolo e' soggetta alle limitazioni giustificate da motivi di ordine pubblico, pubblica sicurezza o pubblica sanita'.
 
 2\. Dette disposizioni non si applicano alle attivita', svolte sul territorio delle Parti, connesse, anche occasionalmente, all'esercizio delle potesta' pubbliche.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 Ai fini del presente titolo nessuno degli elementi del presente accordo vieta alle Parti di applicare le rispettive leggi e regolamenti in materia di ingresso e soggiorno, occupazione, condizioni di lavoro e di stabilimento delle persone fisiche e fornitura di servizi, purche' non le applichino in modo da vanificare o compromettere i vantaggi risultanti per una delle Parti da una disposizione specifica del presente accordo. Quanto precede non pregiudica l'applicazione dell'articolo 32.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 Beneficiano delle disposizioni dei capitoli II, III e IV anche le societa' controllate e possedute esclusivamente e congiuntamente da societa' turkmene e comunitarie.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 A decorrere dal primo giorno del mese che precede l'entrata in vigore dei corrispondenti obblighi dell'Accordo generale sul commercio e sui servizi (GATS), il trattamento concesso da ciascuna Parte all'altra ai sensi del presente accordo per i settori o le misure contemplati dal GATS non puo' comunque essere meno favorevole di quello concesso dalla Parte in questione a norma del GATS per ciascun settore, sottosettore e modo di fornitura dei servizi.
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 Ai fini dei capitoli II, III e IV non si tiene conto del trattamento concesso dalla Comunita', dai suoi Stati membri o dal Turkmenistan in base agli impegni assunti nel quadro di accordi di integrazione economica a norma dei principi dell'articolo V del GATS.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 1\. Il trattamento della nazione piu' favorita concesso a norma del presente titolo non si applica ai vantaggi fiscali gia' concessi o che le Parti concederanno in base ad accordi tesi a evitare la doppia imposizione o ad altre intese fiscali.
 
@@ -475,7 +469,7 @@ Ai fini dei capitoli II, III e IV non si tiene conto del trattamento concesso da
 
 3\. Nessun elemento del presente titolo puo' essere interpretato nel senso di impedire agli Stati membri o al Turkmenistan di fare distinzioni, nell'applicare le pertinenti disposizioni della loro legislazione tributaria, tra contribuenti la cui situazione non e' identica, in particolare per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 Fatto salvo l'articolo 26, nessuna disposizione dei capitoli II, III e IV puo' essere intesa nel senso che dia diritto:
 
@@ -489,9 +483,9 @@ Fatto salvo l'articolo 26, nessuna disposizione dei capitoli II, III e IV puo' e
 
 \- alle societa' comunitarie o alle sedi secondarie o controllate turkmene di societa' comunitarie a distaccare, in base a contratti temporanei, lavoratori degli Stati membri.
 
-## CAPITOLO V - Pagamenti correnti e capitale
+### CAPITOLO V - Pagamenti correnti e capitale
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 1\. Le Parti si impegnano ad autorizzare l'uso di moneta liberamente convertibile per tutti i pagamenti sul conto corrente della bilancia dei pagamenti tra residenti della Comunita' e del Turkmenistan in relazione alla circolazione di beni, servizi o persone che avvenga in base alle disposizioni del presente accordo.
 
@@ -507,11 +501,9 @@ Le restrizioni sono applicate in modo da recare il minor turbamento possibile al
 
 6\. Fatti salvi i paragrafi 1 e 2, qualora, in circostanze eccezionali, la circolazione dei capitali tra la Comunita' e il Turkmenistan provochi o minacci di provocare gravi difficolta' per la gestione delle politiche valutarie o monetarie della Comunita' o del Turkmenistan, ciascuna Parte rispettivamente puo' adottare misure di salvaguardia in merito per un periodo non superiore a sei mesi, a condizione che dette misure siano assolutamente necessarie.
 
-## CAPITOLO VI - Tutela della proprieta' intellettuale,
+### CAPITOLO VI - Tutela della proprieta' intellettuale, industriale e commerciale
 
-### industriale e commerciale
-
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 1\. Ai sensi delle disposizioni del presente articolo e dell'allegato V, il Turkmenistan continua a migliorare la tutela dei diritti di proprieta' intellettuale, industriale e commerciale al fine di garantire, entro la fine del quinto anno dall'entrata in vigore dell'accordo, un livello di protezione analogo a quello esistente nella Comunita', prevedendo anche strumenti efficaci per l'attuazione di tali diritti.
 
@@ -519,7 +511,7 @@ Le restrizioni sono applicate in modo da recare il minor turbamento possibile al
 
 ## TITOLO V - COOPERAZIONE LEGISLATIVA
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 1\. Le Parti riconoscono che il ravvicinamento della legislazione attuale e futura del Turkmenistan a quella della Comunita' e' fondamentale per il consolidamento dei vincoli economici tra le Parti, il Turkmenistan si adoperera' al fine di rendere la propria legislazione progressivamente compatibile con quella della Comunita'.
 
@@ -541,7 +533,7 @@ Le restrizioni sono applicate in modo da recare il minor turbamento possibile al
 
 ## TITOLO VI - Cooperazione economica
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 1\. La Comunita' e il Turkmenistan avviano una cooperazione economica per favorire il processo di riforma e di rilancio dell'economia nonche' lo sviluppo sostenibile del Turkmenistan. La cooperazione rafforzera' e sviluppera' i vincoli economici a vantaggio delle Parti.
 
@@ -553,7 +545,7 @@ Le restrizioni sono applicate in modo da recare il minor turbamento possibile al
 
 5\. Se del caso, la Comunita' puo' fornire assistenza tecnica per la cooperazione economica e le altre forme di cooperazione previste dal presente accordo tenendo conto del regolamento del Consiglio relativo all'assistenza tecnica a favore degli Stati indipendenti, delle priorita' concordate nel programma indicativo per l'assistenza tecnica della Comunita' europea al Turkmenistan e delle procedure stabilite per il coordinamento e l'attuazione.
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 Cooperazione per gli scambi di beni e servizi
 
@@ -565,7 +557,7 @@ La cooperazione riguardera' aspetti specifici direttamente collegati all'agevola
 
 \- l'elaborazione della legislazione pertinente.
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 Cooperazione industriale
 
@@ -591,7 +583,7 @@ Cooperazione industriale
 
 2\. Le disposizioni del presente articolo non pregiudicano l'applicazione delle regole di concorrenza comunitarie applicabili alle imprese.
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 Promozione e tutela degli investimenti
 
@@ -609,13 +601,13 @@ Promozione e tutela degli investimenti
 
 \- lo scambio d informazioni sulle possibilita' di investimenti sotto forma, tra l'altro, di fiere commerciali, esposizioni, settimane commerciali e altre manifestazioni.
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 Commesse pubbliche
 
 Le Parti collaborano per favorire la trasparenza e il rispetto delle regole di concorrenza nell'aggiudicazione degli appalti per beni e servizi, in Particolare mediante bandi di gara.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 Cooperazione in materia di standards e di valutazione della conformita'
 
@@ -629,7 +621,7 @@ Cooperazione in materia di standards e di valutazione della conformita'
 
 \- mettere in comune l'esperienza e le informazioni tecniche in materia di gestione della qualita'.
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 Prodotti minerari e materie prime
 
@@ -649,7 +641,7 @@ Prodotti minerari e materie prime
 
 \- la sicurezza nell'industria mineraria.
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 Cooperazione scientifica e tecnologica
 
@@ -671,7 +663,7 @@ Nello svolgimento di queste attivita' di cooperazione, particolare attenzione e'
 
 3\. La cooperazione prevista al presente articolo e' attuata in base ad intese specifiche da negoziare e concludere secondo le procedure adottate da ciascuna Parte definendo, tra l'altro, opportune disposizioni in materia di DPI.
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 Istruzione e formazione
 
@@ -699,13 +691,13 @@ Istruzione e formazione
 
 3\. L'eventuale partecipazione di una Parte ai programmi dell'altra in materia di istruzione e formazione potra' essere esaminata secondo le rispettive procedure, se del caso saranno definiti quadri istituzionali e programmi di cooperazione attraverso la partecipazione del Turkmenistan al programma TEMPUS della Comunita'.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 Agricoltura e settore agroindustriale
 
 La cooperazione in questo settore si prefigge il proseguimento della riforma agraria l'ammodernamento, la privatizzazione e la ristrutturazione dell'agricoltura, dell'agroindustria e del terziario nel Turkmenistan lo sviluppo dei mercati interno ed estero per i prodotti turkmeni, tutelando anche l'ambiente e tenendo conto dell'esigenza di regolarizzare l'approvvigionamento alimentare, nonche' lo sviluppo delle imprese di produzione, di trasformazione e di distribuzione dei prodotti agricoli. Le Parti cercano inoltre di ravvicinare progressivamente le norme turkmene alle norme tecniche comunitarie in materia di prodotti alimentari industriali e agricoli, comprese le norme sanitarie e fitosanitarie.
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 Energia
 
@@ -733,7 +725,7 @@ Energia
 
 3\. Le Parti si scambiano informazioni sui progetti d'investimenti nel settore energetico, in particolare per quanto riguarda la produzione di risorse energetiche e la costruzione e il ripristino degli oleodotti, dei gasdotti o degli altri mezzi di trasporto dei prodotti energetici. Le Parti annettono particolare importanza alla cooperazione in materia di investimenti nel settore energetico e al modo in cui sono disciplinati. Esse collaborano per applicare al meglio le disposizioni del Titolo IV e dell'articolo 45 riguardo agli investimenti nel settore energetico.
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 Ambiente
 
@@ -791,7 +783,7 @@ Ambiente
 
 4\. Le Parti cercano di sviluppare la cooperazione su questioni sanitarie, in particolare attraverso l'assistenza tecnica per la prevenzione e la lotta contro le malattie infettive e la tutela delle madri e dei bambini.
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 Trasporti
 
@@ -811,7 +803,7 @@ La cooperazione comprende tra l'altro:
 
 \- la predisposizione di un contesto legislativo e istituzionale per l'elaborazione e l'attuazione delle varie politiche, compresa la privatizzazione del settore dei trasporti.
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 Servizi postali e telecomunicazioni
 
@@ -835,7 +827,7 @@ Nell'ambito dei rispettivi poteri e delle rispettive competenze, le Parti amplia
 
 \- impartire la formazione necessaria per gestire i servizi delle poste e telecomunicazioni in normali condizioni di mercato.
 
-##### ARTICOLO 56
+#### ARTICOLO 56
 
 Servizi finanziari e istituzioni fiscali
 
@@ -851,7 +843,7 @@ La cooperazione contribuisce in particolare a sviluppare le relazioni tra le Par
 
 2\. Le Parti cooperano per sviluppare il sistema tributario e le istituzioni fiscali nel Turkmenistan scambiandosi, tra l'altro, informazioni ed esperienze in materia e formando il personale incaricato di elaborare e di attuare la politica tributaria.
 
-##### ARTICOLO 57
+#### ARTICOLO 57
 
 Ristrutturazione e privatizzazione delle imprese
 
@@ -873,7 +865,7 @@ L'assistenza tecnica si concentra tra l'altro sui seguenti aspetti:
 
 La cooperazione mira altresi' a promuovere gli investimenti comunitari in Turkmenistan.
 
-##### ARTICOLO 58
+#### ARTICOLO 58
 
 Sviluppo regionale
 
@@ -883,7 +875,7 @@ Sviluppo regionale
 
 Esse incoraggiano inoltre i contatti diretti tra le rispettive regioni e organizzazioni pubbliche incaricate di programmare lo sviluppo regionale per consentire loro fra l'altro di scambiare informazioni relative agli strumenti per incentivare lo sviluppo regionale.
 
-##### ARTICOLO 59
+#### ARTICOLO 59
 
 Cooperazione sociale
 
@@ -915,7 +907,7 @@ La cooperazione comprende in particolare:
 
 Dette riforme mirano ad introdurre nel Turkmenistan metodi di protezione consoni alle economie di mercato e comprendono tutte le forme di previdenza sociale pertinenti.
 
-##### ARTICOLO 60
+#### ARTICOLO 60
 
 Turismo
 
@@ -933,7 +925,7 @@ Le Parti intensificano e sviluppano la cooperazione tra loro, che comprende azio
 
 \- impartire la formazione necessaria per sviluppare il turismo.
 
-##### ARTICOLO 61
+#### ARTICOLO 61
 
 Piccole e medie imprese
 
@@ -947,19 +939,19 @@ Piccole e medie imprese
 
 \- formazione in materia di marketing, contabilita' e controllo della qualita' dei prodotti.
 
-##### ARTICOLO 62
+#### ARTICOLO 62
 
 Informazione e comunicazione
 
 Le Parti favoriscono l'uso di metodi moderni per il trattamento dell'informazione, anche a livello dei mass media e un efficace scambio di informazioni. Si privilegiano i programmi volti a diffondere tra la popolazione le informazioni di base sulla Comunita' e sul Turkmenistan compreso, nei limiti del possibile, l'accesso alle banche dati nel pieno rispetto dei diritti di proprieta' intellettuale.
 
-##### ARTICOLO 63
+#### ARTICOLO 63
 
 Tutela dei consumatori
 
 Le Parti collaborano strettamente per rendere compatibili i rispettivi sistemi di tutela dei consumatori. Tale cooperazione puo' comprendere scambi di informazioni sull'elaborazione delle leggi e sulla riforma istituzionale, la creazione di sistemi permanenti di informazione reciproca sui prodotti pericolosi, il miglioramento dell'informazione fornita ai consumatori, in particolare per quanto riguarda i prezzi, le caratteristiche dei prodotti e i servizi offerti, lo sviluppo degli scambi tra coloro che rappresentano gli interessi dei consumatori, una maggiore compatibilita' delle politiche di tutela dei consumatori, l'organizzazione di seminari e cicli di formazione.
 
-##### ARTICOLO 64
+#### ARTICOLO 64
 
 Dogane
 
@@ -983,7 +975,7 @@ Si fornira' all'occorrenza l'assistenza tecnica necessaria.
 
 3\. Fatta salva l'ulteriore cooperazione prevista nel presente accordo, in particolare il Titolo VIII, l'assistenza reciproca tra le autorita' amministrative delle Parti per le questioni doganali e' disciplinata dalle disposizioni del protocollo allegato al presente accordo.
 
-##### ARTICOLO 65
+#### ARTICOLO 65
 
 Cooperazione statistica
 
@@ -999,7 +991,7 @@ In particolare, le Parti cooperano al fine di:
 
 A tal fine la Comunita' fornisce al Turkmenistan l'assistenza tecnica necessaria.
 
-##### ARTICOLO 66
+#### ARTICOLO 66
 
 Economia
 
@@ -1013,21 +1005,17 @@ La Comunita' fornisce assistenza tecnica per:
 
 \- migliorare la capacita' del Turkmenistan di elaborare modelli economici.
 
-## TITOLO VII - COOPERAZIONE PER LE QUESTIONI RELATIVE
+## TITOLO VII - COOPERAZIONE PER LE QUESTIONI RELATIVE ALLA DEMOCRAZIA E AI DIRITTI DELL'UOMO
 
-### ALLA DEMOCRAZIA E AI DIRITTI DELL'UOMO
-
-##### ARTICOLO 67
+#### ARTICOLO 67
 
 Le Parti collaborano in merito a tutte le questioni connesse all'insediamento o al potenziamento delle istituzioni democratiche, comprese quelle necessarie per consolidare lo Stato di diritto, nonche' alla tutela dei diritti dell'uomo e delle liberta' fondamentali secondo i principi del diritto internazionale e dell'OSCE.
 
 La cooperazione in questo settore comprende programmi di assistenza tecnica per l'elaborazione delle leggi e normative pertinenti; l'applicazione di dette leggi e normative; il funzionamento del sistema giudiziario; il ruolo dello Stato nelle questioni giudiziarie; il funzionamento del sistema elettorale, nonche', se del caso, la formazione in materia. Le Parti favoriscono contatti e scambi tra le rispettive autorita' nazionali, regionali e giudiziarie, tra i rispettivi parlamentari e tra le rispettive organizzazioni non governative.
 
-## TITOLO VIII - COOPERAZIONE PER LA PREVENZIONE DELLE ATTIVITA'
+## TITOLO VIII - COOPERAZIONE PER LA PREVENZIONE DELLE ATTIVITA' ILLEGALI E PER LA PREVENZIONE E IL CONTROLLO DELL'IMMIGRAZIONE ILLEGALE
 
-### ILLEGALI E PER LA PREVENZIONE - E IL CONTROLLO DELL'IMMIGRAZIONE ILLEGALE
-
-##### ARTICOLO 68
+#### ARTICOLO 68
 
 Le Parti collaborano al fine di prevenire le attivita' illegali quali:
 
@@ -1049,7 +1037,7 @@ La cooperazione nei suddetti settori avviene mediante consultazioni e una strett
 
 \- elaborazione di misure reciprocamente accettabili per impedire le attivita' illecite.
 
-##### ARTICOLO 69
+#### ARTICOLO 69
 
 Riciclaggio del denaro
 
@@ -1057,13 +1045,13 @@ Riciclaggio del denaro
 
 2\. La cooperazione in questo settore comprende un'assistenza amministrativa volta a definire norme adeguate contro il riciclaggio del denaro equivalenti a quelle adottate in materia dalla Comunita' e dai consessi internazionali, compresa la Task Force Azione finanziaria (FATF).
 
-##### ARTICOLO 70
+#### ARTICOLO 70
 
 Droga
 
 Nell'ambito dei rispettivi poteri e delle rispettive competenze, le Parti cooperano per aumentare l'efficacia delle politiche e delle misure volte a combattere la produzione, la fornitura e il traffico illecito di stupefacenti e sostanze psicotrope, compreso il dirottamento dei precursori verso usi diversi, e per promuovere la prevenzione e la riduzione della domanda di droga. Per quanto riguarda il controllo dei precursori chimici e di altre sostanze di base impiegate per la produzione illecita di stupefacenti e sostanze psicotrope, la cooperazione si basa sulle norme adottate dalla Comunita' e dalle autorita' internazionali interessate quali, ad esempio, quelle della CATF (Chemical Action Task Force). La cooperazione in materia si basa sulla consultazione e su uno stretto coordinamento tra le Parti per quanto riguarda gli obiettivi e le iniziative da assumere nei diversi settori connessi alla droga.
 
-##### ARTICOLO 71
+#### ARTICOLO 71
 
 Immigrazione illegale
 
@@ -1081,39 +1069,37 @@ Gli Stati membri e il Turkmenistan, inoltre, forniranno ai loro cittadini i docu
 
 ## TITOLO IX - COOPERAZIONE CULTURALE
 
-##### ARTICOLO 72
+#### ARTICOLO 72
 
 Le Parti si impegnano a promuovere, incoraggiare e agevolare la cooperazione culturale. All'occorrenza, potranno essere inclusi nella cooperazione i programmi di cooperazione culturale della Comunita' o di uno o piu' Stati membri e potranno essere sviluppate altre attivita' di reciproco interesse.
 
 ## TITOLO X - COOPERAZIONE FINANZIARIA
 
-##### ARTICOLO 73
+#### ARTICOLO 73
 
 Per conseguire gli obiettivi del presente accordo e a norma degli articoli 74, 75 e 76, il Turkmenistan beneficia di assistenza finanziaria temporanea fornita dalla Comunita' sotto forma di aiuti non rimborsabili per l'assistenza tecnica intesi ad accelerare la trasformazione economica del paese.
 
-##### ARTICOLO 74
+#### ARTICOLO 74
 
 Detta assistenza finanziaria si svolge nell'ambito del Tacis, come previsto dal relativo regolamento del Consiglio.
 
-##### ARTICOLO 75
+#### ARTICOLO 75
 
 Gli obiettivi e i settori dell'assistenza finanziaria comunitaria sono stabiliti in un programma indicativo che riflette le priorita' concordate tra la Comunita' ed il Turkmenistan in funzione delle esigenze di quest'ultimo, della capacita' di assorbimento dei vari settori e dello stato di avanzamento delle riforme. Le Parti ne informano il consiglio di cooperazione.
 
-##### ARTICOLO 76
+#### ARTICOLO 76
 
 Per consentire un impiego ottimale delle risorse disponibili, le Parti si adoperano affinche' i contributi comunitari per l'assistenza tecnica siano erogati in stretto coordinamento con quelli provenienti da altre fonti quali gli Stati membri, altri paesi e organizzazioni internazionali tra cui la Banca internazionale per la ricostruzione e lo sviluppo e la Banca europea per la ricostruzione e lo sviluppo.
 
-## TITOLO XI - DISPOSIZIONI ISTITUZIONALI,
+## TITOLO XI - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-### GENERALI E FINALI
-
-##### ARTICOLO 77
+#### ARTICOLO 77
 
 E' istituito un consiglio di cooperazione incaricato di sorvegliare l'attuazione del presente accordo. Il consiglio si riunisce a livello ministeriale una volta all'anno. Esso esamina tutte le questioni importanti inerenti al presente accordo e qualunque altro problema bilaterale o internazionale di reciproco interesse per il conseguimento degli obiettivi del presente accordo.
 
 Il consiglio di cooperazione puo' formulare opportune raccomandazioni con l'accordo delle Parti.
 
-##### ARTICOLO 78
+#### ARTICOLO 78
 
 1\. Il consiglio di cooperazione e' composto da membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da un lato, e da membri del Governo del Turkmenistan dall'altro.
 
@@ -1121,7 +1107,7 @@ Il consiglio di cooperazione puo' formulare opportune raccomandazioni con l'acco
 
 3\. Il consiglio di cooperazione e' presieduto a turno da un rappresentante della Comunita' e da un membro del Governo del Turkmenistan.
 
-##### ARTICOLO 79
+#### ARTICOLO 79
 
 1\. Nell'esercizio delle sue funzioni, il consiglio di cooperazione e' assistito da un comitato di cooperazione composto da rappresentanti dei membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da un lato, e da rappresentanti del Governo del Turkmenistan, normalmente alti funzionari, dall'altro. Il comitato di cooperazione e' presieduto a turno dalla Comunita' e dal Turkmenistan.
 
@@ -1129,19 +1115,19 @@ Il regolamento interno del consiglio di cooperazione stabilisce i compiti del co
 
 2 Il consiglio di cooperazione puo' delegare taluni suoi poteri al comitato di cooperazione, che assicura la continuita' tra le riunioni del consiglio di cooperazione.
 
-##### ARTICOLO 80
+#### ARTICOLO 80
 
 Il consiglio di cooperazione puo' decidere di creare tutti i comitati o organi speciali necessari per coadiuvarlo nell'esercizio delle sue funzioni, determinandone la composizione, le mansioni e le modalita' di funzionamento.
 
-##### ARTICOLO 81
+#### ARTICOLO 81
 
 Nell'esaminare le questioni sollevate nell'ambito del presente accordo in relazione ad una disposizione che si riferisca ad un articolo di uno degli accordi che costituiscono l'OMC, il consiglio di cooperazione tiene conto, per quanto possibile, dell'interpretazione data generalmente a detto articolo dai membri dell'OMC.
 
-##### ARTICOLO 82
+#### ARTICOLO 82
 
 E' istituito un comitato parlamentare di cooperazione che riunisce e consente scambi di opinioni tra membri del Parlamento turkmeno e del Parlamento europeo, anche su questioni relative al dialogo politico a livello parlamentare. Tale comitato stabilisce la frequenza delle proprie riunioni.
 
-##### ARTICOLO 83
+#### ARTICOLO 83
 
 1\. Il comitato parlamentare di cooperazione e' composto da membri dei Parlamenti europeo e turkmeno.
 
@@ -1149,7 +1135,7 @@ E' istituito un comitato parlamentare di cooperazione che riunisce e consente sc
 
 3\. Il comitato parlamentare di cooperazione e' presieduto a turno dal Parlamento europeo e dal Parlamento turkmeno, conformemente al regolamento interno.
 
-##### ARTICOLO 84
+#### ARTICOLO 84
 
 Il comitato parlamentare di cooperazione puo' chiedere tutte le informazioni utili per quanto riguarda l'esecuzione del presente accordo al consiglio di cooperazione, che gli fornisce dette informazioni.
 
@@ -1157,7 +1143,7 @@ Il comitato parlamentare di cooperazione e' informato delle raccomandazioni del 
 
 Il comitato parlamentare di cooperazione puo' presentare raccomandazioni al consiglio di cooperazione.
 
-##### ARTICOLO 85
+#### ARTICOLO 85
 
 1\. Nell'ambito del presente accordo, ciascuna delle Parti si impegna a garantire che le persone fisiche e giuridiche dell'altra Parte possano adire senza discriminazioni, rispetto ai propri cittadini, i competenti organi giudiziari e amministrativi delle Parti per tutelare i loro diritti individuali e di proprieta', inclusi quelli riguardanti la proprieta' intellettuale, industriale e commerciale.
 
@@ -1171,7 +1157,7 @@ Il comitato parlamentare di cooperazione puo' presentare raccomandazioni al cons
 
 \- incoraggiano il ricorso alle norme di arbitrato elaborate dalla Commissione delle Nazioni Unite per il diritto commerciale internazionale (UNCITRAL) e il ricorso all'arbitrato da parte di mini organismo di uno Stato firmatario della convenzione per il riconoscimento e l'esecuzione delle sentenze arbitrali straniere firmata il 10 giugno 1958 a New York.
 
-##### ARTICOLO 86
+#### ARTICOLO 86
 
 Nessuna disposizione del presente accordo impedisce a una delle Parti di prendere, entro i limiti dei rispettivi poteri e delle rispettive competenze, le misure:
 
@@ -1183,7 +1169,7 @@ c) che giudica essenziali per la propria sicurezza in caso di gravi disordini in
 
 d) che ritiene necessarie per adempiere agli obblighi e agli impegni internazionali sul controllo del duplice uso dei beni e delle tecnologie industriali.
 
-##### ARTICOLO 87
+#### ARTICOLO 87
 
 Nei settori contemplati dal presente accordo e fatta salva qualsiasi disposizione speciale ivi contenuta:
 
@@ -1193,7 +1179,7 @@ Nei settori contemplati dal presente accordo e fatta salva qualsiasi disposizion
 
 2\. Le disposizioni del paragrafo 1 non pregiudicano il diritto delle Parti di applicare le pertinenti disposizioni della loro normativa fiscale ai contribuenti che non si trovano in situazioni identiche per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 88
+#### ARTICOLO 88
 
 1\. Ciascuna Parte puo' adire il consiglio di cooperazione per qualsiasi controversia relativa all'applicazione o all'interpretazione del presente accordo.
 
@@ -1205,29 +1191,29 @@ Il consiglio di cooperazione designa un terzo conciliatore.
 
 Le raccomandazioni del conciliatore vengono adottate a maggioranza e non sono vincolanti per le Parti.
 
-##### ARTICOLO 89
+#### ARTICOLO 89
 
 Le Parti convengono di consultarsi tempestivamente, attraverso i canali appropriati, su richiesta di una di esse per discutere di tutte le questioni inerenti all'interpretazione o all'applicazione del presente accordo e di altri aspetti delle loro relazioni.
 
 Le disposizioni del presente articolo non pregiudicano l'applicazione degli articoli 12, 88 e 94.
 
-##### ARTICOLO 90
+#### ARTICOLO 90
 
 Il trattamento riservato al Turkmenistan non puo' comunque essere meno favorevole di quello che gli Stati membri si concedono reciprocamente.
 
-##### ARTICOLO 91
+#### ARTICOLO 91
 
 Ai fini del presente accordo, per "Parti" s'intendono il Turkmenistan, da un lato, e la Comunita', gli Stati membri o la Comunita' e gli Stati membri, a seconda dei rispettivi poteri, dall'altro.
 
-##### ARTICOLO 92
+#### ARTICOLO 92
 
 Fintantoche' le questioni contemplate dal Presente accordo rientrano nel trattato e nei protocolli della Carta europea dell'energia, a decorrere dalla sua entrata in vigore i suddetti trattato e protocolli si applicano, se ivi previsto, a tali questioni.
 
-##### ARTICOLO 93
+#### ARTICOLO 93
 
 Il presente accordo e' concluso per un periodo iniziale di dieci anni, dopo di che potra' essere automaticamente rinnovato di anno in anno a condizione che nessuna delle Parti lo denunci dandone notifica per iscritto all'altra Parte sei mesi prima della scadenza.
 
-##### ARTICOLO 94
+#### ARTICOLO 94
 
 1\. Le Parti adottano tutte le misure generali o specifiche necessarie per l'adempimento degli obblighi previsti dal presente accordo e si adoperano per il conseguimento dei suoi obiettivi.
 
@@ -1235,27 +1221,27 @@ Il presente accordo e' concluso per un periodo iniziale di dieci anni, dopo di c
 
 Nella scelta delle misure, si privilegiano quelle che meno perturbano il funzionamento dell'accordo. Se l'altra Parte lo richiede, le misure decise vengono comunicate senza indugio al consiglio di cooperazione.
 
-##### ARTICOLO 95
+#### ARTICOLO 95
 
 Gli allegati I, II, III, IV e V e il protocollo costituiscono parte integrante del presente accordo.
 
-##### ARTICOLO 96
+#### ARTICOLO 96
 
 Fino a quando i privati cittadini e gli operatori economici non godranno degli stessi diritti a norma del presente accordo, esso non pregiudichera' i diritti loro garantiti dagli accordi in vigore tra uno o piu' Stati membri, da una parte, e il Turkmenistan, dall'altra, fatta eccezione per i settori di competenza comunitaria e fermi restando gli obblighi che l'accordo impone agli Stati membri nei settori di loro competenza.
 
-##### ARTICOLO 97
+#### ARTICOLO 97
 
 Il presente accordo si applica, da un lato, ai territori cui si applicano i trattati che istituiscono la Comunita' europea, la Comunita' europea dell'energia atomica e la Comunita' europea del carbone e dell'acciaio, alle condizioni ivi precisate, e, dall'altro, al territorio del Turkmenistan.
 
-##### ARTICOLO 98
+#### ARTICOLO 98
 
 Il Segretario generale del Consiglio dell'Unione europea e' depositario del presente accordo.
 
-##### ARTICOLO 99
+#### ARTICOLO 99
 
 L'originale del presente accordo, le cui versioni nelle lingue danese, finnica, francese, greca, inglese, italiana, olandese, portoghese, spagnola, svedese, tedesca e turkmena fanno ugualmente fede, e' depositato presso il Segretario generale del Consiglio dell'Unione europea.
 
-##### ARTICOLO 100
+#### ARTICOLO 100
 
 Il presente accordo e' approvato dalle Parti secondo le rispettive procedure.
 
@@ -1263,13 +1249,13 @@ L'accordo entra in vigore il primo giorno del secondo mese successivo alla data 
 
 A decorrere dalla sua entrata in vigore il presente accordo sostituisce, per quanto riguarda le relazioni tra il Turkmenistan e la Comunita', l'accordo tra la Comunita' economica europea, la Comunita' europea dell'energia atomica e l'Unione delle Repubbliche Socialiste Sovietiche sugli scambi e sulla cooperazione economica e commerciale, firmato il 18 dicembre 1989 a Bruxelles.
 
-##### ARTICOLO 101
+#### ARTICOLO 101
 
 Qualora, in attesa che siano espletate le procedure necessarie per l'entrata in vigore del presente accordo, le disposizioni di alcune sue parti siano applicate mediante un accordo interinale tra la Comunita' e il Turkmenistan, le Parti convengono che, nella fattispecie, per "data di entrata in vigore dell'accordo" s'intende la data di entrata in vigore dell'accordo interinale.
 
 Fatto Bruxelles, addi' venticinque maggio millenovecentonovantotto.
 
-##### Allegato I
+#### Allegato I
 
 Elenco degli allegati
 
@@ -1313,7 +1299,7 @@ Per quanto riguarda le Parti dell'accordo multilaterale "sui principi e le condi
 
 I veicoli provenienti dagli NSI in transito attraverso il territorio del Turkmenistan sono esenti dal pagamento di dazi.
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -1353,7 +1339,7 @@ Agenzie di stampa
 
 In alcuni Stati membri la partecipazione straniera alle case editrici e alle societa' radiotelevisive e' limitata.
 
-##### Allegato III
+#### Allegato III
 
 ALLEGATO III
 
@@ -1381,7 +1367,7 @@ Siti e monumenti storici
 
 L'evoluzione della normativa turkmena in materia di investimenti avverra' in conformita' delle disposizioni e dello spirito del presente accordo, compresi i suoi principi generali, le condizioni per lo stabilimento e l'attivita' delle societa', le disposizioni in materia di cooperazione legislativa (Titoli I, IV e V) e lo scambio di lettere tra la Comunita' e il Turkmenistan sullo stabilimento delle societa'.
 
-##### Allegato IV
+#### Allegato IV
 
 ALLEGATO IV
 
@@ -1449,7 +1435,7 @@ b) le attivita' svolte dalle banche centrali, dagli enti o dai dipartimenti gove
 
 c) le attivita' che rientrano nel sistema ufficiale della previdenza sociale o nei programmi di pensionamento dello Stato, escluse le attivita' svolte da fornitori di servizi finanziari in concorrenza con enti pubblici o con istituzioni private.
 
-##### Allegato V
+#### Allegato V
 
 ALLEGATO V
 
@@ -1493,7 +1479,7 @@ RELATIVO ALL'ASSISTENZA RECIPROCA
 
 TRA LE AUTORITA' AMMINISTRATIVE IN MATERIA DOGANALE
 
-##### ARTICOLO I
+#### ARTICOLO I
 
 Definizioni
 
@@ -1509,7 +1495,7 @@ d) "dati personali": tutte le informazioni relative ad una persona fisica identi
 
 e) "operazioni contrarie alla legislazione doganale": qualsiasi violazione o tentativo di violazione della legislazione doganale.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Campo di applicazione
 
@@ -1517,7 +1503,7 @@ Campo di applicazione
 
 2\. L'assistenza in materia doganale prevista dal presente protocollo si applica ad ogni autorita' amministrativa delle Parti competente per l'applicazione dello stesso. Essa non pregiudica le norme che disciplinano l'assistenza reciproca in materia penale ne' copre le informazioni ottenute grazie a poteri esercitati su richiesta dell'autorita' giudiziaria salvo quando la comunicazione di tali informazioni sia autorizzata da detta autorita'.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Assistenza su richiesta
 
@@ -1535,7 +1521,7 @@ c) i movimenti di merci per i quali sia stata segnalata la possibilita' che veng
 
 d) i mezzi di trasporto per i quali vi sono fondati motivi di ritenere che siano stati, siano ovvero possano essere utilizzati per operazioni contrarie alla legislazione doganale.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Assistenza spontanea
 
@@ -1551,7 +1537,7 @@ Le Parti si prestano assistenza reciproca, nella misura in cui lo consentono le 
 
 \- mezzi di trasporto per i quali vi sono fondati motivi di ritenere che siano stati, siano ovvero possano essere utilizzati per operazioni contrarie alla legislazione doganale.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Consegna/Notifica
 
@@ -1561,7 +1547,7 @@ Su domanda dell'autorita' richiedente, l'autorita' interpellata, conformemente a
 
 \- notificare tutte le decisioni .sp, che rientrano nel campo di applicazione del presente protocollo ad un destinatario, residente o stabilito sul suo territorio. In tal caso, alla richiesta si applica l'articolo 6, paragrafo 3.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Forma e contenuto delle domande di assistenza
 
@@ -1585,7 +1571,7 @@ f) una sintesi dei fatti e delle indagini gia' svolte, salvo per i casi di cui a
 
 4\. Se la domanda non risponde ai requisiti formali stabiliti possono esserne richiesti la correzione o il completamento; tuttavia possono essere disposte misure cautelative.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Adempimento delle domande
 
@@ -1597,7 +1583,7 @@ Adempimento delle domande
 
 4\. I funzionari di una Parte possono essere presenti, d'intesa con l'altra Parte e alle condizioni da essa stabilite, alle indagini condotte nel territorio di quest'ultima.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Forma in cui devono essere comunicate le informazioni
 
@@ -1607,7 +1593,7 @@ Forma in cui devono essere comunicate le informazioni
 
 3\. Fascicoli e documenti originali vengono richiesti soltanto qualora le copie autenticate risultino insufficienti. Gli originali inviati saranno restituiti quanto prima.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Deroghe all'obbligo di fornire assistenza
 
@@ -1625,7 +1611,7 @@ d) violare un segreto industriale, commerciale o professionale.
 
 3\. Se l'assistenza e' rifiutata o negata, la decisione e le sue motivazioni devono essere notificate senza indugio all'autorita' richiedente.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Scambi di informazioni e riservatezza
 
@@ -1639,19 +1625,19 @@ Scambi di informazioni e riservatezza
 
 5\. Nei verbali, nelle relazioni e nelle testimonianze, nonche' nei procedimenti e nelle azioni penali promossi dinanzi a un tribunale, le Parti possono utilizzare come prova le informazioni ottenute e i documenti consultati conformemente alle disposizioni del presente protocollo.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Esperti e testimoni
 
 Un funzionario dell'autorita' interpellata puo' essere autorizzato a comparire, nei limiti dell'autorizzazione concessa, in qualita' di esperto o testimone in azioni giudiziarie o amministrative riguardanti le materie di cui al presente protocollo nella giurisdizione dell'altra Parte e produrre oggetti, documenti ovvero loro copie autenticate che possano occorrere nel procedimento. Nella richiesta di comparizione deve essere specificamente indicato su quale argomento e a quale titolo il funzionario sara' interrogato.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Spese di assistenza
 
 Le Parti rinunciano reciprocamente a tutte le richieste di rimborso delle spese sostenute in virtu' del presente protocollo, escluse, a seconda dei casi, le spese per esperti e testimoni nonche' per gli interpreti e traduttori che non dipendono da pubblici servizi.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Esecuzione
 
@@ -1659,7 +1645,7 @@ Esecuzione
 
 2\. Le Parti si consultano e si tengono reciprocamente informate in merito alle norme specifiche di esecuzione adottate conformemente alle disposizioni del presente protocollo.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Altri accordi
 
@@ -1675,7 +1661,7 @@ Altri accordi
 
 3\. Per quanto riguarda le questioni relative all'applicabilita' del presente protocollo, le Parti contraenti si consultano per trovare una soluzione nell'ambito del comitato di cooperazione istituito all'articolo 79 del presente accordo.
 
-##### Atto finale
+#### Atto finale
 
 ATTO FINALE
 
@@ -1755,7 +1741,7 @@ I plenipotenziari degli Stati membri e della Comunita' e i plenipotenziari del T
 
 Dichiarazione del Governo francese
 
-##### Dichiarazioni
+#### Dichiarazioni
 
 DICHIARAZIONE COMUNE
 
@@ -1801,7 +1787,7 @@ b) nell'inosservanza degli elementi di base dell'accordo di cui all'articolo 2.
 
 2\. Le Parti convengono che per "misure del caso" ai sensi dell'articolo 94 s'intendono le misure prese in conformita' del diritto internazionale. Se una Parte prende una misura in un caso particolarmente urgente ai sensi dell'articolo 94, l'altra Parte puo' ricorrere alla procedura di composizione delle controversie.
 
-##### Scambio Lettere
+#### Scambio Lettere
 
 SCAMBIO DI LETTERE TRA LA COMUNITA' E IL TURKMENISTAN SULLO
 

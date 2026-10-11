@@ -29,7 +29,7 @@ la seguente legge:
 
 ## Capo I - DISPOSIZIONI GENERALI
 
-#### Art. 1
+### Art. 1
 
 Delega al Governo
 
@@ -55,7 +55,7 @@ Il testo delle note qui pubblicato è stato redatto ai sensi dell'art. 10, comma
 
 > \- Si trascrive il testo dell'art. 17, comma 2, della legge 23 agosto 1988, n. 400, recante "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri". "2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari".
 
-#### Art. 2
+### Art. 2
 
 Criteri e principi direttivi generali
 
@@ -101,29 +101,27 @@ h) alla copertura di eventuali spese non contemplate da leggi vigenti e che non 
 
 > \- Si riporta il testo dell'art. 11-ter, comma 2, della legge 5 agosto 1978, n. 468 (Riforma di alcune norme di contabilita' generale dello Stato in materia di bilancio) introdotto dall'art. 7 della legge 23 agosto 1988, n. 362: "2. I disegni di legge e gli emendamenti di iniziativa governativa che comportino nuove o maggiori spese ovvero diminuzioni di entrate devono essere corredati da una relazione tecnica, predisposta dalle amministrazioni competenti e verificata dal Ministero del tesoro, sulla quantificazione degli oneri recati da ciascuna disposizione e delle relative coperture, con la specificazione, per la spesa corrente e per le minori entrate, degli oneri annuali fino alla completa attuazione delle norme e, per le spese in conto capitale, della modulazione relativa agli anni compresi nel bilancio pluriennale e dell'onere complessivo in relazione agli obiettivi fisici previsti. Nella relazione sono indicati i dati e i metodi utilizzati per la quantificazione, le loro fonti e ogni elemento utile per la verifica tecnica in sede parlamentare secondo le norme da adottare con i regolamenti parlamentari".
 
-## Capo II - DISPOSIZIONI SPECIFICHE E PRINCIPI
+## Capo II - DISPOSIZIONI SPECIFICHE E PRINCIPI E CRITERI DIRETTIVI SPECIALI DI DELEGA LEGISLATIVA
 
-### E CRITERI DIRETTIVI SPECIALI - DI DELEGA LEGISLATIVA
-
-#### Art. 3
+### Art. 3
 
 Disposizioni specifiche
 
 1\. Nell'ambito dei decreti legislativi di cui all'articolo 1, comma 1, sono emanate le disposizioni intese a disciplinare, in particolare, le materie e gli oggetti previsti dagli articoli successivi, secondo i principi e i criteri direttivi speciali ivi indicati ed in conformita' ai principi e criteri generali di cui all'articolo 2.
 
-#### Art. 4
+### Art. 4
 
 Parametri di indicizzazione
 
 1\. I parametri di indicizzazione venuti meno a seguito dell'introduzione dell'EURO che non possano essere automaticamente sostituiti sono ridefiniti rispettando la continuita' fra vecchi e nuovi parametri ed assicurando la equivalenza economicofinanziaria rispetto ai parametri cessati, al fine di garantire l'ordinata prosecuzione dei rapporti in corso.
 
-#### Art. 5
+### Art. 5
 
 Calcoli intermedi
 
 1\. Fermi restando i criteri generali stabiliti dai regolamenti comunitari in materia, le norme delegate disciplinano le modalita' di utilizzo dell'EURO nei calcoli intermedi effettuati ai fini della successiva quantificazione di importi monetari da contabilizzare o da pagare.
 
-#### Art. 6
+### Art. 6
 
 Effetti della conversione di importi
 
@@ -145,7 +143,7 @@ d) le norme che prevedono sanzioni pecuniarie, da sole, alternative o congiunte 
 
 > \- La legge 24 novembre 1981, n. 689 reca: "Modifiche del sistema penale".
 
-#### Art. 7
+### Art. 7
 
 Disposizioni per la ridenominazione in EURO
 
@@ -175,13 +173,13 @@ degli strumenti finanziari
 
 > 7\. Opzioni per acquistare o vendere qualsiasi strumento contemplato da questa sezione dell'Allegato, compresi gli strumenti equivalenti che si regolano in contanti. Sono comprese in particolare in questa categoria le opzioni su valute e sui tassi di interesse".
 
-#### Art. 8
+### Art. 8
 
 Adozione dell'EURO quale moneta di conto
 
 1\. Le norme delegate, al fine di soddisfare l'esigenza di una trasparente e coerente redazione dei documenti contabili obbligatori delle imprese e dei gruppi di imprese, disciplinano i criteri e i modi di utilizzo dell'EURO quale moneta di conto durante il periodo transitorio.
 
-#### Art. 9
+### Art. 9
 
 Rilevazione nei bilanci delle imprese
 
@@ -189,7 +187,7 @@ delle operazioni influenzate dall'introduzione dell'EURO
 
 1\. Le norme delegate disciplinano i criteri e le modalita' di rilevazione nei bilanci delle imprese delle operazioni influenzate dalla fissazione irrevocabile dei tassi di conversione tra le monete nazionali degli Stati membri partecipanti, l'ECU e l'EURO, nel rispetto del principio della neutralita' del passaggio dalla lira all'EURO e degli effetti conseguenti.
 
-#### Art. 10
+### Art. 10
 
 Dematerializzazione degli strumenti
 
@@ -197,7 +195,7 @@ finanziari pubblici e privati
 
 1\. Le norme delegate disciplinano la dematerializzazione degli strumenti finanziari pubblici e privati, come individuati dalle vigenti disposizioni, determinandone termini e condizioni anche al fine di agevolarne la ridenominazione e la circolazione, tenuto conto dell'esigenza di tutelare la posizione dell'emittente e del possessore e di assicurare il regolare svolgimento delle operazioni di compensazione, liquidazione, garanzia e pagamento.
 
-#### Art. 11
+### Art. 11
 
 Pagamenti
 
@@ -223,7 +221,7 @@ Pagamenti
 
 > Per "Sistema informativo integrato" si intende il sistema informativo integrato della Ragioneria generale dello Stato e della Corte dei conti, costituito a supporto delle funzioni di controllo preventivo e successivo attribuite a tali organi, anche ai sensi della legge 14 gennaio 1994, n. 20 e del decreto legislativo 3 febbraio 1993, n. 29 e successive modificazioni".
 
-#### Art. 12
+### Art. 12
 
 Dichiarazioni, attestazioni e regolamenti in EURO
 
@@ -233,13 +231,13 @@ nei rapporti con le amministrazioni pubbliche
 
 2\. Ai creditori e ai debitori delle amministrazioni pubbliche e' assicurata, nel periodo transitorio, la possibilita' di ottenere il pagamento o di effettuare il versamento in EURO, qualora l'adempimento non avvenga in contanti.
 
-#### Art. 13
+### Art. 13
 
 Documenti contabili delle pubbliche amministrazioni
 
 1\. Le amministrazioni pubbliche assicurano nel periodo transitorio, per i documenti contabili per i quali l'indicazione dei valori in EURO risulti particolarmente significativa, l'indicazione degli importi in lire e in EURO, anche ai fini della redazione di conti consolidati in EURO della pubblica amministrazione.
 
-#### Art. 14
+### Art. 14
 
 Comitato di indirizzo e coordinamento
 

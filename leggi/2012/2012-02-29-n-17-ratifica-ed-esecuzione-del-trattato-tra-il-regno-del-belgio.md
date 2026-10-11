@@ -27,19 +27,19 @@ promulga
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare il Trattato tra il Regno del Belgio, la Repubblica di Bulgaria, la Repubblica ceca, il Regno di Danimarca, la Repubblica federale di Germania, la Repubblica di Estonia, l'Irlanda, la Repubblica ellenica, il Regno di Spagna, la Repubblica francese, la Repubblica italiana, la Repubblica di Cipro, la Repubblica di Lettonia, la Repubblica di Lituania, il Granducato di Lussemburgo, la Repubblica di Ungheria, la Repubblica di Malta, il Regno dei Paesi Bassi, la Repubblica d'Austria, la Repubblica di Polonia, la Repubblica portoghese, la Romania, la Repubblica di Slovenia, la Repubblica slovacca, la Repubblica di Finlandia, il Regno di Svezia, il Regno unito di Gran Bretagna e Irlanda del nord (Stati membri dell'Unione europea) e la Repubblica di Croazia, relativo all'adesione della Repubblica di Croazia all'Unione europea, e l'Atto relativo alle condizioni di adesione, con allegati, protocollo, Atto finale, dichiarazioni e scambio di lettere, fatto a Bruxelles il 9 dicembre 2011.
 
-##### Art. 2
+#### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data al Trattato di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 3 del Trattato stesso.
 
-##### Art. 3
+#### Art. 3
 
 Entrata in vigore
 
@@ -57,7 +57,7 @@ Visto, il Guardasigilli: Severino
 
 ## Allegati
 
-##### Allegato
+#### Allegato
 
 Allegato
 
@@ -235,7 +235,7 @@ Dichiarazione della Repubblica di Croazia sulla disposizione transitoria relativ
 
 III. Scambio di lettere fra l'Unione europea e la Repubblica di Croazia riguardante una procedura di informazione e consultazione per l'adozione di talune decisioni e altre misure durante il periodo che precede l'adesione
 
-##### art. 1
+#### art. 1
 
 TRATTATO
 
@@ -413,11 +413,11 @@ ARTICOLO 1
 
 3\. Le condizioni di ammissione e gli adattamenti ai trattati di cui al paragrafo 2 resi necessari da tale ammissione sono contenuti nell'atto allegato al presente trattato. Le disposizioni di tale atto costituiscono parte integrante del presente trattato.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Le disposizioni concernenti i diritti e gli obblighi degli Stati membri, nonche' i poteri e le competenze delle istituzioni dell'Unione, quali figurano nei trattati di cui la Repubblica di Croazia diventa Parte in virtu' dell'articolo 1, paragrafo 2, si applicano ai fini del presente trattato.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 1\. Il presente trattato e' ratificato dalle Alte Parti Contraenti conformemente alle rispettive norme costituzionali. Gli strumenti di ratifica sono depositati presso il governo della Repubblica italiana entro il 30 giugno 2013.
 
@@ -431,7 +431,7 @@ Tali misure entrano in vigore subordinatamente all'entrata in vigore del present
 
 5\. In deroga al paragrafo 3, l'articolo 36 dell'atto di cui all'articolo 1, paragrafo 3, si applica dal momento della firma del presente trattato.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Il presente trattato, redatto in unico esemplare in lingua bulgara, ceca, croata, danese, estone, finlandese, francese, greca, inglese, irlandese, italiana, lettone, lituana, maltese, neerlandese, polacca, portoghese, rumena, slovacca, slovena, spagnola, svedese, tedesca e ungherese, i testi in ciascuna di queste lingue facenti ugualmente fede, e' depositato negli archivi del governo della Repubblica italiana, che provvedera' a trasmetterne copia certificata conforme a ciascuno dei governi degli altri Stati firmatari.
 
@@ -453,7 +453,7 @@ E DEL TRATTATO CHE ISTITUISCE LA COMUNITA' EUROPEA
 
 DELL'ENERGIA ATOMICA
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Ai fini del presente atto:
 
@@ -469,13 +469,13 @@ b) il trattato che istituisce la Comunita' europea dell'energia atomica (trattat
 
 \- per "istituzioni" si intendono le istituzioni create dal TUE.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Dalla data di adesione le disposizioni dei trattati originari e degli atti adottati dalle istituzioni prima dell'adesione vincolano la Croazia e si applicano in tale Stato alle condizioni previste da detti trattati e dal presente atto.
 
 Qualora i rappresentanti dei governi degli Stati membri abbiano convenuto modifiche dei trattati originari in virtu' dell'articolo 48, paragrafo 4, TUE dopo la ratifica del trattato di adesione da parte della Croazia e tali modifiche non siano entrate in vigore entro la data di adesione, la Croazia ratifica dette modifiche in conformita' delle proprie norme costituzionali.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 1\. La Croazia aderisce alle decisioni e agli accordi adottati dai capi di Stato o di governo degli Stati membri riuniti in sede di Consiglio europeo.
 
@@ -491,7 +491,7 @@ Qualora i rappresentanti dei governi degli Stati membri abbiano convenuto modifi
 
 7\. Il Consiglio, deliberando all'unanimita' su proposta della Commissione, puo' integrare l'allegato I con le convenzioni, gli accordi e i protocolli pertinenti firmati prima della data di adesione.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 1\. Le disposizioni dell'acquis di Schengen di cui al protocollo sull'acquis di Schengen integrato nell'ambito dell'Unione europea (in prosieguo: "protocollo di Schengen"), allegato al TUE e al TFUE, e gli atti basati su detto acquis o ad esso altrimenti connessi, elencati nell'allegato II, cosi' come ogni altro atto analogo adottato prima della data di adesione sono vincolanti e si applicano in Croazia dalla data di adesione.
 
@@ -499,11 +499,11 @@ Qualora i rappresentanti dei governi degli Stati membri abbiano convenuto modifi
 
 Il Consiglio adotta la sua decisione, previa consultazione del Parlamento europeo, deliberando all'unanimita' dei suoi membri che rappresentano i governi degli Stati membri in relazione ai quali sono gia' state messe in vigore le disposizioni di cui al presente paragrafo e del rappresentante del governo della Repubblica di Croazia. I membri del Consiglio che rappresentano i governi dell'Irlanda e del Regno Unito di Gran Bretagna e Irlanda del Nord partecipano a tale decisione nella misura in cui essa si riferisce a disposizioni dell'acquis di Schengen e ad atti basati su di esso, o ad esso altrimenti connessi, di cui detti Stati membri sono parti.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 La Croazia partecipa all'Unione economica e monetaria a decorrere dalla data di adesione quale Stato membro con deroga ai sensi dell'articolo 139 TFUE.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 1\. Gli accordi conclusi o provvisoriamente applicati dall'Unione con uno o piu' paesi terzi, con un'organizzazione internazionale o con un cittadino di un paese terzo sono vincolanti per la Croazia alle condizioni previste dai trattati originari e dal presente atto.
 
@@ -565,7 +565,7 @@ La Croazia adotta tutte le misure necessarie per garantire il rispetto degli obb
 
 (5) GU L 1 del 3.1.1994, pag. 3.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 1\. Le disposizioni del presente atto, se non e' stabilito altrimenti, possono essere sospese, modificate o abrogate soltanto tramite le procedure previste dai trattati originari che consentono la revisione di tali trattati.
 
@@ -573,7 +573,7 @@ La Croazia adotta tutte le misure necessarie per garantire il rispetto degli obb
 
 3\. Le disposizioni del presente atto che hanno per oggetto o per effetto di abrogare o di modificare atti adottati dalle istituzioni acquistano, salvo qualora siano di natura transitoria, la stessa natura giuridica delle disposizioni cosi' abrogate o modificate e sono soggette alle stesse norme.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 L'applicazione dei trattati originari e degli atti adottati dalle istituzioni e' soggetta, a titolo transitorio, alle deroghe previste dal presente atto.
 
@@ -581,7 +581,7 @@ L'applicazione dei trattati originari e degli atti adottati dalle istituzioni e'
 
 ### TITOLO I - DISPOSIZIONI ISTITUZIONALI
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Il protocollo sullo statuto della Corte di giustizia dell'Unione europea, allegato al TUE, al TFUE e al trattato CEEA, e' cosi' modificato:
 
@@ -595,7 +595,7 @@ Il protocollo sullo statuto della Corte di giustizia dell'Unione europea, allega
 
 Il Tribunale e' composto di ventotto giudici.".
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Il protocollo sullo statuto della Banca europea per gli investimenti, allegato al TUE e al TFUE, e' cosi' modificato:
 
@@ -637,27 +637,27 @@ I Sostituti sono nominati per un periodo di' cinque anni dal consiglio dei gover
 
 \- un sostituto designato dalla Commissione.".
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 All'articolo 134, paragrafo 2, del trattato CEEA, il primo comma sulla composizione del comitato scientifico e tecnico e' sostituito dal seguente:
 
 "2. Il comitato e' composto di quarantadue membri, nominati dal Consiglio previa consultazione della Commissione.".
 
-## TITOLO II - ALTRI ADATTAMENTI
+### TITOLO II - ALTRI ADATTAMENTI
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 All'articolo 64, paragrafo l, TFUE, e' aggiunta la frase seguente:
 
 "In conformita' con le restrizioni esistenti in base al diritto nazionale in Croazia, la pertinente data e' il 31 dicembre 2002.".
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 All'articolo 52 TUE, il paragrafo 1 e' sostituito dal seguente:
 
 "1. I trattati si applicano al Regno del Belgio, alla Repubblica di Bulgaria, alla Repubblica ceca, al Regno di Danimarca, alla Repubblica federale di Germania, alla Repubblica di Estonia, all'Irlanda, alla Repubblica ellenica, al Regno di Spagna, alla Repubblica francese, alla Repubblica di Croazia, alla Repubblica italiana, alla Repubblica di Cipro, alla Repubblica di Lettonia, alla Repubblica di Lituania, al Granducato di Lussemburgo, alla Repubblica di Ungheria, alla Repubblica di Malta, al Regno dei Paesi Bassi, alla Repubblica d'Austria, alla Repubblica di Polonia, alla Repubblica portoghese, alla Romania, alla Repubblica di Slovenia, alla Repubblica slovacca, alla Repubblica di Finlandia, al Regno di Svezia e al Regno Unito di Gran Bretagna e Irlanda del Nord.".
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 1\. All'articolo 55 TUE, il paragrafo 1 e' sostituito dal seguente:
 
@@ -669,15 +669,15 @@ All'articolo 52 TUE, il paragrafo 1 e' sostituito dal seguente:
 
 ## PARTE TERZA - DISPOSIZIONI PERMANENTI
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Gli atti elencati nell'allegato III formano oggetto degli adattamenti specificati in tale allegato.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 Le misure elencate nell'allegato IV sono applicate alle condizioni previste in tale allegato.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 Il Consiglio, deliberando all'unanimita' su proposta della Commissione e previa consultazione del Parlamento europeo, puo' effettuare gli adattamenti delle disposizioni del presente atto relative alla politica agricola comune che possano risultare necessari a seguito di una modifica delle regole dell'Unione.
 
@@ -685,19 +685,19 @@ Il Consiglio, deliberando all'unanimita' su proposta della Commissione e previa 
 
 ### TITOLO I - MISURE TRANSITORIE
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 Le misure elencate nell'allegato V si applicano nei confronti della Croazia alle condizioni previste in tale allegato.
 
-## TITOLO II - DISPOSIZIONI ISTITUZIONALI
+### TITOLO II - DISPOSIZIONI ISTITUZIONALI
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 1\. In deroga all'articolo 2 del protocollo sulle disposizioni transitorie, allegato al TUE, al TFUE e al trattato CEEA, e in deroga al numero massimo di seggi previsto all'articolo 14, paragrafo 2, primo comma, TUE, il numero dei membri del Parlamento europeo e' aumentato di dodici membri per la Croazia, per tener conto dell'adesione della Croazia, nel periodo compreso tra la data di adesione e la fine del mandato 2009-2014 del Parlamento europeo.
 
 2\. In deroga all'articolo 14, paragrafo 3, TUE, la Croazia procede, prima della data di adesione, all'elezione ad hoc al Parlamento europeo, a suffragio universale diretto della sua popolazione, del numero di membri stabilito al paragrafo 1 del presente articolo, conformemente all'acquis dell'Unione. Tuttavia, se l'adesione ha luogo meno di sei mesi prima delle prossime elezioni del Parlamento europeo, i membri del Parlamento europeo che rappresentano i cittadini della Croazia possono essere designati dal parlamento nazionale della Croazia, al proprio interno, a condizione che le persone in questione siano state elette a suffragio universale diretto.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 L'articolo 3, paragrafo 3, del protocollo sulle disposizioni transitorie, allegato al TUE, al TFUE e al trattato CEEA, e' sostituito dal seguente:
 
@@ -765,19 +765,19 @@ Le deliberazioni sono valide se hanno ottenuto almeno 260 voti che esprimano il 
 
 Un membro del Consiglio europeo o del Consiglio puo' chiedere che, allorche' il Consiglio europeo o il Consiglio adottano un atto a maggioranza qualificata, si verifichi che gli Stati membri che compongono tale maggioranza qualificata rappresentino almeno il 62% della popolazione totale dell'Unione. Qualora tale condizione non sia soddisfatta, l'atto non e' adottato.".
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 1\. Un cittadino della Croazia e' nominato membro della Commissione a decorrere dalla data dell'adesione fino al 31 ottobre 2014. Il nuovo membro della Commissione e' nominato dal Consiglio, che delibera a maggioranza qualificata e di comune accordo con il presidente della Commissione, previa consultazione del Parlamento europeo e secondo i criteri enunciati all'articolo 17, paragrafo 3, secondo comma, TUE.
 
 2\. Il mandato del membro nominato conformemente al paragrafo 1 scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 1\. Il mandato del giudice della Corte di giustizia e il mandato del giudice del Tribunale nominati dalla Croazia al momento dell'adesione conformemente all'articolo 19, paragrafo 2, terzo comma, TUE scadono rispettivamente il 6 ottobre 2015 e il 31 agosto 2013.
 
 2\. Per la pronuncia sulle cause pendenti dinanzi alla Corte di giustizia e al Tribunale alla data di adesione, per le quali la procedura orale sia stata aperta prima di tale data, la Corte di giustizia e il Tribunale in seduta plenaria o le loro sezioni si riuniscono nella composizione che avevano prima dell'adesione e applicano il regolamento di procedura vigente il giorno precedente la data di adesione.
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 1\. In deroga all'articolo 301, primo comma, TFUE, che stabilisce il numero massimo di membri del Comitato economico e sociale, l'articolo 7 del protocollo sulle disposizioni transitorie, allegato al TUE, al TFUE e al trattato CEEA, e' sostituito dal seguente:
 
@@ -845,7 +845,7 @@ Regno Unito 24".
 
 3\. Se la decisione di cui all'articolo 301, secondo comma, TFUE e' gia' stata adottata alla data di adesione, in deroga all'articolo 301, primo comma, TFUE, che stabilisce il numero massimo di membri del Comitato economico e sociale, alla Croazia e' temporaneamente attribuito un numero adeguato di membri fino alla fine del mandato durante il quale essa aderisce all'Unione.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 1\. In deroga all'articolo 305, primo comma, TFUE, che stabilisce il numero massimo di membri del Comitato delle regioni, l'articolo 8 del protocollo sulle disposizioni transitorie, allegato al TUE, al TFUE e al trattato CEEA, e' sostituito dal seguente:
 
@@ -913,19 +913,19 @@ Regno Unito 24
 
 3\. Se la decisione di cui all'articolo 305, secondo comma, TFUE e' gia' stata adottata alla data di adesione, in deroga all'articolo 305, primo comma, TFUE, che stabilisce il numero massimo di membri del Comitato delle regioni, alla Croazia e' temporaneamente attribuito un numero adeguato di membri fino alla fine del mandato durante il quale essa aderisce all'Unione.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 Il mandato dell'amministratore del consiglio di amministrazione della Banca europea per gli investimenti designato dalla Croazia e nominato al momento dell'adesione come previsto dall'articolo 9, paragrafo 2, secondo comma, del protocollo sullo statuto della Banca europea per gli investimenti scade al termine della seduta annuale del consiglio dei governatori nel corso della quale viene esaminata la relazione annuale sull'esercizio 2017.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 1\. I nuovi membri dei comitati, dei gruppi, delle agenzie o degli altri enti istituiti dai trattati originari o da un atto delle istituzioni sono nominati alle condizioni e conformemente alle procedure previste per la nomina dei membri di tali comitati, gruppi, agenzie o altri enti. Il mandato dei membri di nuova nomina scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
 2\. La composizione dei comitati, dei gruppi, delle agenzie o degli altri enti istituiti dai trattati originari o da un atto delle istituzioni con un numero di membri che e' fisso a prescindere dal numero di Stati membri e' integralmente rinnovata al momento dell'adesione, a meno che il mandato dei membri in carica non scada entro dodici mesi dall'adesione.
 
-## TITOLO III - DISPOSIZIONI FINANZIARIE
+### TITOLO III - DISPOSIZIONI FINANZIARIE
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 1\. A decorrere dalla data di adesione, la Croazia versa il seguente importo, corrispondente alla sua quota del capitale versato a fronte del capitale sottoscritto, quale definito all'articolo 4 dello statuto della Banca europea per gli investimenti:
 
@@ -941,7 +941,7 @@ Croazia 0,368%
 
 4\. Le cifre relative alla Croazia di' cui al paragrafo 1 e all'articolo 10, punto 1, possono essere adattate mediante decisione degli organi decisionali della Banca europea per gli investimenti sulla base degli ultimi dati definitivi del PIL pubblicati da Eurostat prima dell'adesione.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 1\. La Croazia versa il seguente importo al Fondo di ricerca carbone e acciaio di cui alla decisione 2002/234/CECA dei rappresentanti dei governi degli Stati membri riuniti in sede di Consiglio, del 27 febbraio 2002, in merito alle conseguenze finanziarie della scadenza del trattato CECA e al Fondo di ricerca del carbone e dell'acciaio(1):
 
@@ -963,7 +963,7 @@ Croazia 494 000.
 
 (1) GU L 79 del 22.3.2002, pag. 42.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 1\. A decorrere dalla data di adesione sono gestiti dalle agenzie esecutive croate le gare d'appalto, le concessioni di sovvenzioni e i pagamenti a titolo di assistenza finanziaria di preadesione nell'ambito della componente "sostegno alla transizione e sviluppo istituzionale" e della componente "cooperazione transfrontaliera" dello strumento di assistenza preadesione (IPA), istituito dal regolamento (CE) n. 1085/2006 del Consiglio, del 17 luglio 2006(1), per fondi impegnati prima dell'adesione, ad esclusione dei programmi transfrontalieri Croazia-Ungheria e Croazia-Slovenia, e a titolo di assistenza nell'ambito dello strumento di transizione di cui all'articolo 30.
 
@@ -985,7 +985,7 @@ Se la decisione della Commissione di derogare al controllo ex ante non e' adotta
 
 (3) GU L 170 del 29.6.2007, pag. 1.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 1\. Nel primo anno successivo all'adesione l'Unione fornisce alla Croazia un'assistenza finanziaria temporanea (in prosieguo: "strumento di transizione") per svilupparne e rafforzarne la capacita' amministrativa e giudiziaria di attuare e applicare il diritto dell'Unione e per promuovere lo scambio di migliori prassi inter pares. Tale assistenza e' volta a finanziare progetti di costruzione istituzionale e limitati investimenti su scala ridotta accessori a questi.
 
@@ -999,7 +999,7 @@ Se la decisione della Commissione di derogare al controllo ex ante non e' adotta
 
 6\. Particolare attenzione e' prestata a garantire un'adeguata complementarita' con il sostegno previsto del Fondo sociale europeo alla riforma amministrativa e alle capacita' istituzionali.
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 1\. E' istituito uno strumento Schengen a carattere temporaneo (in prosieguo: "strumento temporaneo Schengen") allo scopo di aiutare la Croazia a finanziare, fra la data di adesione e la fine del 2014, azioni alle nuove frontiere esterne dell'Unione per l'attuazione dell'acquis di Schengen e il controllo di tali frontiere.
 
@@ -1017,7 +1017,7 @@ Croazia 40 80
 
 5\. La Commissione puo' adottare qualsiasi disposizione tecnica necessaria al funzionamento dello strumento temporaneo Schengen.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 1\. E' istituito uno strumento per flussi di tesoreria, a carattere temporaneo (in prosieguo: "strumento temporaneo per i flussi di tesoreria"), per aiutare la Croazia, fra la data di adesione e la fine del 2014, a migliorare i flussi di tesoreria del bilancio nazionale.
 
@@ -1031,7 +1031,7 @@ Croazia 75 28,6
 
 3\. Ciascun importo annuale e' suddiviso in mensilita' costanti, pagabili il primo giorno lavorativo di ciascun mese.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 1\. Nel 2013 e' riservato alla Croazia un importo di 449,4 milioni di EUR (prezzi correnti) in stanziamenti d'impegno a titolo dei Fondi strutturali e del Fondo di coesione.
 
@@ -1049,7 +1049,7 @@ Detti importi sono adeguati conformemente al seguente calendario di introduzione
 
 4\. Nella misura in cui lo consentano i limiti del nuovo acquis dell'Unione, e' effettuato un adeguamento per assicurare un aumento dei fondi per la Croazia nel 2014 di 2,33 volte l'importo del 2013 e nel 2015 di 3 volte l'importo del 2013.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 1\. L'importo totale da mettere a disposizione della Croazia a titolo del Fondo europeo per la pesca nel 2013 e' pari a 8,7 milioni di EUR (prezzi correnti) in stanziamenti d'impegno.
 
@@ -1065,7 +1065,7 @@ Detti importi sono adeguati conformemente al seguente calendario di introduzione
 
 4\. Nella misura in cui lo consentano i limiti del nuovo acquis dell'Unione, e' effettuato un adeguamento per assicurare un aumento dei fondi per la Croazia nel 2014 di 2,33 volte l'importo del 2013 e nel 2015 di 3 volte l'importo del 2013.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 1\. Il regolamento (CE) n. 1698/2005 del Consiglio, del 20 settembre 2005, sul sostegno allo sviluppo rurale da parte del Fondo europeo agricolo per lo sviluppo rurale (FEASR)(1), non si applica alla Croazia per l'intero periodo di programmazione 2007-2013.
 
@@ -1085,9 +1085,9 @@ Nel 2013 sono assegnati alla Croazia 27,7 milioni di EUR (prezzi correnti) a tit
 
 (2) GU L 55 del 28.2.2011, pag. 13.
 
-## TITOLO IV - ALTRE DISPOSIZIONI
+### TITOLO IV - ALTRE DISPOSIZIONI
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 1\. La Commissione segue attentamente tutti gli impegni assunti dalla Croazia nei negoziati di adesione, compresi quelli che devono essere portati a termine prima della data di adesione o entro la data di adesione. Il controllo della Commissione consiste in tabelle di controllo aggiornate periodicamente, nel dialogo nell'ambito dell'accordo di stabilizzazione e di associazione tra le Comunita' europee e i loro Stati membri, da una parte, e la Repubblica di Croazia, dall'altra(1) (in prosieguo: "ASA"), in missioni di valutazione inter pares, nel programma economico preadesione, nelle notifiche in materia di bilancio e, ove necessario, in avvertimenti tempestivi indirizzati alle autorita' croate. Nell'autunno del 2011 la Commissione presenta una relazione sui progressi compiuti al Parlamento europeo e al Consiglio; nell'autunno del 2012 presenta una relazione globale di controllo al Parlamento europeo e al Consiglio.
 
@@ -1105,7 +1105,7 @@ Come parte integrante delle sue tabelle e relazioni di controllo periodiche, la 
 
 (1) GU L 26 del 28.1.2005, pag. 3.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 1\. Entro la fine di un periodo massimo di tre anni dalla data di adesione, in caso di difficolta' gravi di un settore dell'attivita' economica che siano suscettibili di protrarsi, come anche in caso di difficolta' che possano determinare grave perturbazione nella situazione economica di una data area, la Croazia puo' chiedere di essere autorizzata ad adottare misure di salvaguardia che consentano di ristabilire la situazione e di adattare il settore interessato all'economia del mercato interno.
 
@@ -1117,7 +1117,7 @@ In caso di difficolta' economiche gravi e su richiesta espressa dello Stato memb
 
 3\. Le misure autorizzate ai sensi del presente articolo possono comportare deroghe alle norme del TUE, del TFUE e del presente atto, nei limiti e nei termini strettamente necessari per raggiungere gli scopi di tale salvaguardia. E' accordata la precedenza alle misure che turbano il meno possibile il funzionamento del mercato interno.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 Qualora la Croazia non adempia gli impegni assunti nell'ambito dei negoziati di adesione, compresi gli impegni in una delle politiche settoriali inerenti alle attivita' economiche con effetti transfrontalieri, recando in tal modo un grave pregiudizio al funzionamento del mercato interno o ponendo una minaccia agli interessi finanziari dell'Unione o un rischio imminente di siffatto pregiudizio o minaccia, la Commissione puo' adottare le misure appropriate entro la fine di un periodo massimo di tre anni dall'adesione e su richiesta motivata di uno Stato membro o di propria iniziativa.
 
@@ -1125,17 +1125,17 @@ Tali misure sono proporzionate e la precedenza e' accordata a quelle che turbano
 
 La clausola di salvaguardia puo' essere invocata anche prima dell'adesione in base ai risultati del controllo e le misure adottate entrano in vigore alla data di adesione a meno che non sia prevista una data successiva. Le misure non sono mantenute oltre il tempo strettamente necessario e, in ogni caso, cessano di essere applicate una volta attuato l'impegno pertinente. Esse possono tuttavia essere applicate oltre il periodo di cui al primo comma fino a che non siano adempiuti i pertinenti impegni. In risposta ai progressi compiuti dalla Croazia nell'adempimento dei propri impegni, la Commissione puo' adeguare opportunamente le misure. La Commissione informa il Consiglio in tempo utile prima di revocare le misure di salvaguardia e tiene nel debito conto eventuali osservazioni del Consiglio al riguardo.
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 In caso di carenze gravi o di rischio imminente di carenze gravi da parte della Croazia nel recepimento o nell'attuazione degli atti adottati dalle istituzioni ai sensi della parte terza, titolo V, del TFUE, nonche' degli atti adottati prima dell'entrata in vigore del trattato di Lisbona da parte delle istituzioni ai sensi del titolo VI del TUE o della parte terza, titolo IV, del trattato che istituisce la Comunita' europea, la Commissione puo' adottare le misure appropriate e definirne le condizioni e le modalita' di applicazione entro la fine di un periodo massimo di tre anni dopo l'adesione, su richiesta motivata di uno Stato membro o di propria iniziativa e previa consultazione degli Stati membri.
 
 Tali misure possono assumere la forma di una sospensione temporanea dell'applicazione delle pertinenti disposizioni e decisioni nelle relazioni tra la Croazia e uno o piu' altri Stati membri, senza pregiudicare il proseguimento di una stretta cooperazione giudiziaria. La clausola di salvaguardia puo' essere invocata anche prima dell'adesione in base ai risultati del controllo e le misure adottate entrano in vigore alla data di adesione a meno che non sia prevista una data successiva. Le misure non sono mantenute oltre il tempo strettamente necessario e, in ogni caso, cessano di essere applicate una volta posto rimedio alle carenze. Esse possono tuttavia essere applicate oltre il periodo di cui al primo comma finche' tali carenze persistono. In risposta ai progressi compiuti dalla Croazia nel porre rimedio alle carenze individuate, la Commissione, previa consultazione degli Stati membri, puo' adeguare opportunamente le misure. La Commissione informa il Consiglio in tempo utile prima di revocare le misure di salvaguardia e tiene nel debito conto eventuali osservazioni del Consiglio al riguardo.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 Al fine di non ostacolare il buon funzionamento del mercato interno, l'applicazione delle disposizioni nazionali della Croazia durante i periodi transitori di cui all'allegato V non deve condurre a controlli di frontiera tra gli Stati membri.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 Qualora siano necessarie misure transitorie per facilitare il passaggio dal regime esistente in Croazia a quello risultante dall'applicazione della politica agricola comune alle condizioni stabilite dal presente atto, esse sono adottate dalla Commissione secondo la procedura prevista dall'articolo 195, paragrafo 2, del regolamento (CE) n. 1234/2007 del Consiglio, del 22 ottobre 2007, recante organizzazione comune dei mercati agricoli e disposizioni specifiche per taluni prodotti agricoli (regolamento unico OCM)(1), in combinato disposto con l'articolo 13, paragrafo 1, lettera b), del regolamento (UE) n. 182/2011 del Parlamento europeo e del Consiglio(2), ovvero secondo la pertinente procedura determinata dalla legislazione applicabile. Esse possono essere adottate entro un periodo di tre anni dalla data di adesione e la loro applicazione e' limitata a tale periodo. Il Consiglio, deliberando all'unanimita' su proposta della Commissione e previa consultazione del Parlamento europeo, puo' prorogare detto periodo.
 
@@ -1147,11 +1147,11 @@ Le misure transitorie di cui al primo comma possono altresi' essere adottate pri
 
 (2) GU L 55 del 28.2.2011, pag. 13.
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 Qualora siano necessarie misure transitorie per facilitare il passaggio dal regime esistente in Croazia a quello risultante dall'applicazione della normativa dell'Unione nel settore veterinario, fitosanitario e della sicurezza alimentare, esse sono adottate dalla Commissione secondo la pertinente procedura determinata dalla legislazione applicabile. Tali misure sono adottate entro tre anni dalla data di adesione e la loro applicazione e' limitata a tale periodo.
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, definisce le condizioni alle quali:
 
@@ -1159,7 +1159,7 @@ a) e' possibile l'esenzione dall'obbligo di dichiarazione sommaria di uscita per
 
 b) e' possibile l'esenzione dall'obbligo di dichiarazione sommaria di entrata per i prodotti che rientrano nell'ambito di applicazione della lettera a) al loro rientro in Croazia dopo aver attraversato il territorio della Bosnia-Erzegovina a Neum.
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 La Commissione puo' prendere tutte le misure idonee ad assicurare che in Croazia resti il personale statutario necessario per un periodo massimo di diciotto mesi dopo l'adesione. Durante tale periodo i funzionari, gli agenti temporanei e gli agenti contrattuali che prima dell'adesione coprivano posti in Croazia e devono restarvi anche dopo la data di adesione beneficiano delle stesse condizioni finanziarie e materiali applicate prima dell'adesione in conformita' dello statuto dei funzionari delle Comunita' europee e del regime applicabile agli altri agenti di dette Comunita' di cui al regolamento (CEE, Euratom, CECA) n. 259/68 del Consiglio(1). Le spese amministrative, compresa la retribuzione di altri membri del personale necessario, sono coperte dal bilancio generale dell'Unione europea.
 
@@ -1169,65 +1169,63 @@ La Commissione puo' prendere tutte le misure idonee ad assicurare che in Croazia
 
 ## PARTE QUINTA - DISPOSIZIONI DI APPLICAZIONE DEL PRESENTE ATTO
 
-### TITOLO I - ADATTAMENTI DEI REGOLAMENTI INTERNI E DI PROCEDURA DELLE ISTITUZIONI
+### TITOLO I - ADATTAMENTI DEI REGOLAMENTI INTERNI E DI PROCEDURA DELLE ISTITUZIONI E DEGLI STATUTI E DEI REGOLAMENTI INTERNI DEI COMITATI
 
-#### E DEGLI STATUTI E DEI REGOLAMENTI INTERNI DEI COMITATI
-
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 Le istituzioni apportano ai loro regolamenti interni e di procedura, secondo le rispettive procedure previste dai trattati originari, gli adattamenti resi necessari dall'adesione.
 
 Gli adattamenti degli statuti e dei regolamenti interni dei comitati istituiti dai trattati originari che sono resi necessari dall'adesione sono effettuati non appena possibile dopo l'adesione.
 
-## TITOLO II - APPLICABILITA' DEGLI ATTI DELLE ISTITUZIONI
+### TITOLO II - APPLICABILITA' DEGLI ATTI DELLE ISTITUZIONI
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 Dalla data di adesione la Croazia e' considerata come destinataria, conformemente ai trattati originari, delle direttive e delle decisioni ai sensi dell'articolo 288 TFUE. Fatta eccezione per le direttive e le decisioni che sono entrate in vigore ai sensi dell'articolo 297, paragrafo 1, terzo comma, e dell'articolo 297, paragrafo 2, secondo comma, TFUE, tali direttive e decisioni si considerano notificate alla Croazia al momento dell'adesione.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 1\. La Croazia mette in vigore le misure necessarie per conformarsi, dalla data di adesione, alle disposizioni delle direttive e delle decisioni di cui all'articolo 288 TFUE, a meno che un altro termine non sia previsto dal presente atto. La Croazia comunica tali misure alla Commissione entro la data di adesione o entro il termine previsto dal presente atto, se successivo.
 
 2\. Nella misura in cui le modifiche delle direttive di cui all'articolo 288 TFUE introdotte dal presente atto richiedono modifiche delle disposizioni legislative, regolamentari o amministrative degli Stati membri attuali, questi ultimi mettono in vigore le misure necessarie per conformarsi, dalla data di adesione della Croazia, alle direttive modificate, a meno che un altro termine non sia previsto dal presente atto. Essi comunicano tali misure alla Commissione entro la data di adesione o entro il termine previsto dal presente atto, se successivo.
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 Le disposizioni legislative, regolamentari e amministrative destinate ad assicurare, sul territorio della Croazia, la protezione sanitaria della popolazione e dei lavoratori contro i pericoli derivanti dalle radiazioni ionizzanti sono comunicate dalla Croazia alla Commissione, conformemente all'articolo 33 del trattato CEEA, entro tre mesi dall'adesione.
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 Dietro richiesta debitamente circostanziata, presentata dalla Croazia alla Commissione entro la data di adesione, il Consiglio, deliberando su proposta della Commissione, o la Commissione, se l'atto iniziale e' stato da essa adottato, possono adottare misure consistenti in deroghe temporanee ad atti delle istituzioni adottati tra il 1° luglio 2011 e la data di adesione. Le misure sono adottate in conformita' delle regole di voto che disciplinano l'adozione dell'atto rispetto al quale si chiede una deroga temporanea. Tali deroghe, se adottate dopo l'adesione, possono essere applicate dalla data di adesione.
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 Quando gli atti delle istituzioni adottati anteriormente all'adesione richiedono adattamenti in conseguenza dell'adesione e gli adattamenti necessari non sono contemplati nel presente atto o nei suoi allegati, il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, o la Commissione, se l'atto iniziale e' stato da essa adottato, adottano gli atti a tal fine necessari. Tali atti, se adottati dopo l'adesione, possono essere applicati dalla data di adesione.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 Salvo disposizioni contrarie del presente atto, il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, adotta le misure necessarie per l'attuazione delle disposizioni del presente atto.
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 I testi degli atti delle istituzioni adottati anteriormente all'adesione e dalle stesse redatti in lingua croata fanno fede, dalla data dell'adesione, alle stesse condizioni dei testi redatti nelle lingue ufficiali attuali. Essi sono pubblicati nella Gazzetta ufficiale dell'Unione europea qualora i testi nelle lingue ufficiali attuali siano stati oggetto di una tale pubblicazione.
 
-## TITOLO III - DISPOSIZIONI FINALI
+### TITOLO III - DISPOSIZIONI FINALI
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 Gli allegati da I a IX, le relative appendici e il protocollo costituiscono parte integrante del presente atto.
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 Il governo della Repubblica italiana trasmette al governo della Repubblica di Croazia copia certificata conforme del trattato sull'Unione europea, del trattato sul funzionamento dell'Unione europea, del trattato che istituisce la Comunita' europea dell'energia atomica e dei trattati che li hanno modificati o integrati, ivi compresi il trattato relativo all'adesione del Regno di Danimarca, dell'Irlanda e del Regno Unito di Gran Bretagna e Irlanda del Nord, il trattato relativo all'adesione della Repubblica ellenica, il trattato relativo all'adesione del Regno di Spagna e della Repubblica portoghese, il trattato relativo all'adesione della Repubblica d'Austria, della Repubblica di Finlandia e del Regno di Svezia, il trattato relativo all'adesione della Repubblica ceca, della Repubblica di Estonia, della Repubblica di Cipro, della Repubblica di Lettonia, della Repubblica di Lituania, della Repubblica di Ungheria, della Repubblica di Malta, della Repubblica di Polonia, della Repubblica di Slovenia e della Repubblica slovacca e il trattato relativo all'adesione della Repubblica di Bulgaria e della Romania nelle lingue bulgara, ceca, danese, estone, finlandese, francese, greca, inglese, irlandese, italiana, lettone, lituana, maltese, neerlandese, polacca, portoghese, rumena, slovacca, slovena, spagnola, svedese, tedesca e ungherese.
 
 I testi dei trattati di cui al primo comma, redatti in lingua croata, sono allegati al presente atto. Tali testi fanno fede alle stesse condizioni dei testi dei suddetti trattati redatti nelle lingue ufficiali attuali.
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 Il segretario generale trasmette al governo della Repubblica di Croazia copia certificata conforme degli accordi internazionali depositati negli archivi del segretariato generale del Consiglio.
 
-##### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -1261,7 +1259,7 @@ Elenco delle convenzioni e dei protocolli ai quali la Repubblica di Croazia ader
 
 (GU C 326 del 21.11.2001, pag.&#160;2)
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -1477,7 +1475,7 @@ pag. 1);
 
 \- decisione 2010/365/UE del Consiglio, del 29 giugno 2010, sull'applicazione delle disposizioni dell'acquis di Schengen relative al sistema d'informazione Schengen nella Repubblica di Bulgaria e in Romania (GU L 166 dell'1.7.2010, pag. 17).
 
-##### Allegato III
+#### Allegato III
 
 Allegato III
 
@@ -2235,7 +2233,7 @@ Nell'allegato II, dopo la voce relativa alla Francia e' inserita la voce seguent
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-##### Allegato IV
+#### Allegato IV
 
 Allegato IV
 
@@ -2475,7 +2473,7 @@ Elenco delle misure di aiuto esistenti previste al punto 1, lettera b), del mecc
 
 Parte di provvedimento in formato grafico
 
-##### Allegato V
+#### Allegato V
 
 ALLEGATO V
 
@@ -3259,7 +3257,7 @@ L'inclusione in tale elenco di per se' non indica se il medicinale in questione 
 
 (\*) Cfr. GU C ...
 
-##### Allegato VI
+#### Allegato VI
 
 ALLEGATO VI
 
@@ -3325,7 +3323,7 @@ H. Rispetto dei requisiti
 
 Relativamente alla Croazia, nel quadro legislativo dello sviluppo rurale per il periodo di programmazione 2014-2020, i criteri di gestione obbligatori di cui all'allegato II del regolamento (CE) n. 73/2009 del Consiglio applicabili in tale periodo di programmazione sono rispettati secondo il seguente calendario: i criteri di cui all'allegato II, punto A, si applicano a decorrere dal 1º gennaio 2014; i criteri di cui all'allegato II, punto B, si applicano a decorrere dal 1º gennaio 2016; i criteri di cui all'allegato II, punto C, si applicano a decorrere dal 1º gennaio 2018.
 
-##### Allegato VII
+#### Allegato VII
 
 ALLEGATO VII
 
@@ -3351,7 +3349,7 @@ Impegni specifici assunti dalla Repubblica di Croazia nei negoziati di adesione 
 
 10\. continuare a collaborare pienamente con il Tribunale penale internazionale per l'ex Jugoslavia.
 
-##### Allegato VIII
+#### Allegato VIII
 
 ALLEGATO VIII
 
@@ -3435,7 +3433,7 @@ Al momento dell'adesione della Croazia, la Commissione ordina alla Croazia il re
 
 \- la limitazione globale della produzione per le societa' (ossia 323 600 TSLC) e' stata superata in uno qualsiasi degli anni civili compresi tra il 2011 e il 2020; in tal caso, e' richiesto il recupero dell'aiuto per le societa' che hanno superato i limiti di produzione individuali (se del caso, modificati da un accordo giuridicamente vincolante con un'altra societa' cantieristica).
 
-##### Allegato IX
+#### Allegato IX
 
 ALLEGATO IX
 
@@ -3481,7 +3479,7 @@ SOTTOLINEANDO che tale trasferimento dovrebbe essere compensato dalla Croazia at
 
 HANNO CONVENUTO LE DISPOSIZIONI SEGUENTI:
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 La presente parte si applica alle misure relative a un eventuale trasferimento una tantum di un numero di unita' di quantita' assegnate rilasciate nel quadro del protocollo di Kyoto (AAU) alla Croazia.
 
@@ -3489,7 +3487,7 @@ La presente parte si applica alle misure relative a un eventuale trasferimento u
 
 (1 ) GU L 140 del 5.6.2009, pag. 136.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Nessun trasferimento e' effettuato qualora la Croazia non abbia ritirato il suo ricorso contro la decisione della sezione operativa del comitato di controllo del rispetto del protocollo di Kyoto in conformita' delle regole e scadenze pertinenti che disciplinano il ritiro dei ricorsi prima dell'avvio della Conferenza dell'UNFCCC di Durban (28 novembre - 9 dicembre 2011).
 
@@ -3497,7 +3495,7 @@ L'eventuale trasferimento e' subordinato all'accertamento da parte della squadra
 
 Nessun trasferimento e' effettuato qualora la Croazia non abbia compiuto tutti i ragionevoli sforzi per adempiere agli impegni di cui all'articolo 3 del protocollo di Kyoto, incluso il pieno utilizzo delle unita' di assorbimento derivante da attivita' di uso del suolo, cambiamenti di uso del suolo e silvicoltura.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 L'eventuale decisione sul trasferimento di AAU e' adottata in conformita' della procedura d'esame di cui all'articolo 5 del regolamento (UE) n. 182/2011 del Parlamento europeo e del Consiglio, del 16 febbraio 2011, che stabilisce le regole e i principi generali relativi alle modalita' di controllo da parte degli Stati membri dell'esercizio delle competenze di esecuzione attribuite alla Commissione(1 ). La Commissione e' assistita dal comitato sui cambiamenti climatici istituito dall'articolo 9 della decisione n. 280/2004/CE del Parlamento europeo e del Consiglio, dell'11 febbraio 2004, relativa ad un meccanismo per monitorare le emissioni di gas a effetto serra nella Comunita' e per attuare il protocollo di Kyoto(2 ). Tale comitato e' un comitato ai sensi del regolamento (UE) n. 182/2011 del Parlamento europeo e del Consiglio. Una siffatta decisione non e' adottata qualora non sia espresso alcun parere.
 
@@ -3519,11 +3517,11 @@ L'eventuale trasferimento non supera il numero totale di 7 000 000 di AAU.
 
 ## PARTE II - COMPENSAZIONE
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 La presente parte si applica alla compensazione a carico della Croazia in caso di trasferimento di AAU in conformita' delle disposizioni della parte I.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 1\. La Croazia compensa le eventuali AAU ad essa trasferite tramite un adeguamento, ai sensi del presente articolo, dei suoi obblighi ai sensi della decisione n. 406/2009/CE del Parlamento europeo e del Consiglio.
 
@@ -3531,7 +3529,7 @@ In particolare l'ammontare di tonnellate di biossido di carbonio equivalente del
 
 2\. La Commissione pubblica le cifre delle assegnazioni annuali di emissioni della Croazia risultanti dalla sottrazione effettuata in conformita' del paragrafo 1.
 
-##### Atto finale
+#### Atto finale
 
 ATTO FINALE
 

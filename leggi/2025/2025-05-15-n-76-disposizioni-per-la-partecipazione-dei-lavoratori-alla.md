@@ -28,9 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - Finalità e attuazione dei princìpi costituzionali
+### Capo I - Finalità e attuazione dei princìpi costituzionali
 
-### Art. 1
+#### Art. 1
 
 Finalita' e oggetto
 
@@ -48,7 +48,7 @@ Finalita' e oggetto
 
 > «Art. 46. - Ai fini della elevazione economica e sociale del lavoro e in armonia con le esigenze della produzione, la Repubblica riconosce il diritto dei lavoratori a collaborare, nei modi e nei limiti stabiliti dalle leggi, alla gestione delle aziende.».
 
-### Art. 2
+#### Art. 2
 
 Definizioni
 
@@ -112,9 +112,11 @@ f) «enti bilaterali»: gli organismi costituiti a iniziativa di una o piu' asso
 
 > m) "associazioni di datori e prestatori di lavoro": organizzazioni datoriali e sindacali comparativamente piu' rappresentative.».
 
-## Capo II - Partecipazione gestionale dei lavoratori
+### Capo II
 
-### Art. 3
+## Partecipazione gestionale dei lavoratori
+
+#### Art. 3
 
 Partecipazione dei rappresentanti dei lavoratori
 
@@ -218,7 +220,7 @@ al consiglio di sorveglianza
 
 > Art. 2409-quinquiesdecies (Revisione legale). - La revisione legale dei conti e' svolta a norma dell'articolo 2409-bis, primo comma.».
 
-### Art. 4
+#### Art. 4
 
 Partecipazione al consiglio di amministrazione
 
@@ -258,9 +260,11 @@ Partecipazione al consiglio di amministrazione
 
 > Al comitato per il controllo sulla gestione si applicano altresi', in quanto compatibili, gli articoli 2404, primo, terzo e quarto comma, 2405, primo comma, e 2408.».
 
-## Capo III - Partecipazione economica e finanziaria dei lavoratori
+### Capo III
 
-### Art. 5
+## Partecipazione economica e finanziaria dei lavoratori
+
+#### Art. 5
 
 Distribuzione degli utili
 
@@ -302,7 +306,7 @@ Distribuzione degli utili
 
 > \- Per i riferimenti all'articolo 51 del decreto legislativo 15 giugno 2015, n. 81 si vedano le note all'articolo 2.
 
-### Art. 6
+#### Art. 6
 
 Piani di partecipazione finanziaria dei lavoratori
 
@@ -316,15 +320,17 @@ AGGIORNAMENTO (1)
 
 La L. 30 dicembre 2025, n. 199 ha disposto (con l'art. 1, comma 13) che le disposizioni di cui al comma 1, terzo periodo del presente articolo si applicano anche nell'anno 2026.
 
-## Capo IV - Partecipazione organizzativa dei lavoratori
+### Capo IV
 
-### Art. 7
+## Partecipazione organizzativa dei lavoratori
+
+#### Art. 7
 
 Piani di miglioramento e di innovazione dei prodotti, dei processi produttivi, dei servizi e dell'organizzazione del lavoro
 
 1\. Le aziende di cui all'articolo 1 possono promuovere l'istituzione di commissioni paritetiche, composte in eguale numero da rappresentanti dell'impresa e dei lavoratori, finalizzate alla predisposizione di proposte di piani di miglioramento e di innovazione dei prodotti, dei processi produttivi, dei servizi e dell'organizzazione del lavoro.
 
-### Art. 8
+#### Art. 8
 
 Soggetti di riferimento
 
@@ -334,9 +340,11 @@ della partecipazione organizzativa
 
 2\. Le imprese che occupano meno di trentacinque lavoratori possono favorire, anche attraverso gli enti bilaterali, forme di partecipazione dei lavoratori all'organizzazione delle imprese stesse.
 
-## Capo V - Partecipazione consultiva dei lavoratori
+### Capo V
 
-### Art. 9
+## Partecipazione consultiva dei lavoratori
+
+#### Art. 9
 
 Consultazione preventiva
 
@@ -366,7 +374,7 @@ Consultazione preventiva
 
 > g) "contratto collettivo": il contratto collettivo di lavoro stipulato tra le organizzazioni datoriali e sindacali comparativamente piu' rappresentative sul piano nazionale.».
 
-### Art. 10
+#### Art. 10
 
 Procedura di consultazione
 
@@ -384,15 +392,15 @@ Procedura di consultazione
 
 > \- Per l'articolo 17-bis della legge 30 dicembre 1986 n. 936 si veda l'articolo 13 della presente legge.
 
-### Art. 11
+#### Art. 11
 
 Salvaguardia dei contratti collettivi
 
 1\. Sono fatte salve le condizioni di miglior favore previste dai contratti collettivi.
 
-## Capo VI - Formazione e consulenza esterna
+### Capo VI - Formazione e consulenza esterna
 
-### Art. 12
+#### Art. 12
 
 Formazione dei rappresentanti dei lavoratori
 
@@ -456,9 +464,9 @@ Formazione dei rappresentanti dei lavoratori
 
 > 16\. Il Ministero del lavoro e della previdenza sociale, con proprio decreto, destina nell'ambito delle risorse di cui all'articolo 68, comma 4, lettera a), della legge 17 maggio 1999, n. 144, una quota fino a lire 200 miliardi, per l'anno, di 100 milioni di euro per ciascuno degli anni 2003, 2004, 2005, 2006 e 2007 e di 80 milioni di euro per ciascuno degli anni 2008 e 2009 , nonche' di 100 milioni di euro per ciascuno degli anni 2010 e 2011, di cui il 20 per cento destinato prioritariamente all' attuazione degli articoli 48 e 50 del decreto legislativo 10 settembre 2003, n. 276, e successive modificazioni, per le attivita' di formazione nell'esercizio dell'apprendistato anche se svolte oltre il compimento del diciottesimo anno di eta', secondo le modalita' di cui all'articolo 16 della legge 24 giugno 1997, n. 196.».
 
-## Capo VII - Istituzione della Commissione nazionale permanente per la partecipazione dei lavoratori
+### Capo VII - Istituzione della Commissione nazionale permanente per la partecipazione dei lavoratori
 
-### Art. 13
+#### Art. 13
 
 Introduzione dell'articolo 17-bis della legge 30 dicembre 1986, n. 936, concernente l'istituzione della Commissione nazionale permanente per la partecipazione dei lavoratori
 
@@ -500,15 +508,15 @@ f) raccoglie i verbali delle riunioni degli organismi paritetici.
 
 Il CNEL provvede al funzionamento della Commissione nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri per la finanza pubblica».
 
-## Capo VIII - Disposizioni finali
+### Capo VIII - Disposizioni finali
 
-### Art. 14
+#### Art. 14
 
 Applicabilita' alle societa' cooperative
 
 1\. Le disposizioni della presente legge si applicano alle societa' cooperative in quanto compatibili.
 
-### Art. 15
+#### Art. 15
 
 Copertura finanziaria
 

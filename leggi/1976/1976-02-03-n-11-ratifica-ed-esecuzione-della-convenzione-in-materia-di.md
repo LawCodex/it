@@ -517,7 +517,7 @@ Nel settore della cooperazione commerciale, l'obiettivo della presente Convenzio
 
 A tal fine le Parti contraenti applicano i capitoli 1 e 2 del presente titolo.
 
-## CAPITOLO 1 - REGIME DEGLI SCAMBI
+### CAPITOLO 1 - REGIME DEGLI SCAMBI
 
 #### ARTICOLO 2
 
@@ -619,7 +619,7 @@ In particolare si tengono consultazioni a richiesta della Comunita' o degli Stat
 
 4\. Qualora, nel periodo d'applicazione della presente Convenzione gli Stati ACP ritengano che i prodotti agricoli di cui all'articolo 2, paragrafo 2, lettera a), diversi da quelli che beneficiano di un regime particolare, dovrebbero anch'essi beneficiare di un regime particolare, si possono tenere consultazioni in seno al Consiglio dei ministri.
 
-## CAPITOLO 2 - PROMOZIONE COMMERCIALE.
+### CAPITOLO 2 - PROMOZIONE COMMERCIALE.
 
 #### ARTICOLO 12
 
@@ -901,7 +901,7 @@ Gli Stati ACP meno sviluppati, privi di sbocco diretto al mare o insulari ci cui
 
 \- Zambia
 
-## CAPITOLO 2 - DISPOSIZIONI PARTICOLARI PER LO ZUCCHERO.
+### CAPITOLO 2 - DISPOSIZIONI PARTICOLARI PER LO ZUCCHERO.
 
 #### ARTICOLO 25
 
@@ -1385,7 +1385,7 @@ Le societa' di uno Stato membro o di uno Stato ACP sono le societa' costituite c
 
 A richiesta della Comunita' o degli Stati ACP, il Consiglio dei ministri procede all'esame dei problemi eventualmente posti dall'applicazione degli articoli 62 e 63. Esso formula inoltre ogni utile raccomandazione al riguardo.
 
-## CAPITOLO 2 - DISPOSIZIONI RELATIVE AI PAGAMENTI CORRENTI E AI MOVIMENTI DI CAPITALI.
+### CAPITOLO 2 - DISPOSIZIONI RELATIVE AI PAGAMENTI CORRENTI E AI MOVIMENTI DI CAPITALI.
 
 #### ARTICOLO 65
 
@@ -2311,7 +2311,7 @@ DICHIARAZIONI COMUNI
 
 5\. In particolare, si tiene conto caso per caso della possibilita' di conferire il carattere originario a prodotti nella cui composizione entrino prodotti originari di paesi in via di sviluppo vicini o di paesi in via di sviluppo con i quali uno o piu' Stati ACP intrattengono relazioni particolari, purche' sia possibile stabilire una cooperazione amministrativa soddisfacente.
 
-## CAPITOLO 1
+### CAPITOLO 1
 
 PROTOCOLLO N. 2
 
@@ -2337,7 +2337,7 @@ Nel quadro degli obiettivi di cui all'articolo 40 della Convenzione, le Parti co
 
 Allo scadere della Convenzione, gli stanziamenti sotto forma di capitale di rischio, di cui all'articolo 42, punto 1, lettera a), terzo trattino della Convenzione, che non sono stati impegnati, si aggiungono agli stanziamenti sotto forma di prestiti speciali di cui al secondo trattino della medesima disposizione; gli stanziamenti di cui all'articolo 47, paragrafo 2 della Convenzione che, destinati al finanziamento di progetti regionali, non sono stati impegnati a tal fine, divengono disponibili per il finanziamento di altri progetti e programmi.
 
-## CAPITOLO 2 - MODALITA' DI FINANZIAMENTO
+### CAPITOLO 2 - MODALITA' DI FINANZIAMENTO
 
 #### ARTICOLO 3
 
@@ -2373,7 +2373,7 @@ Le condizioni di questi aiuti vengono determinate caso per caso in base alle car
 
 4\. L'importo globale degli abbuoni d'interessi, attualizzato al momento della firma del prestito ad un tasso e secondo modalita' stabiliti dalla Comunita', e' imputato sull'importo delle sovvenzioni di cui all'articolo 42, punto 1, lettera a), primo trattino della Convenzione; esso viene direttamente versato alla Banca.
 
-## CAPITOLO 3 - COOPERAZIONE TECNICA
+### CAPITOLO 3 - COOPERAZIONE TECNICA
 
 #### ARTICOLO 6
 
@@ -2411,7 +2411,7 @@ g) studi sulle prospettive e sulle possibilita' di sviluppo e di diversificazion
 
 h) informazione generale e documentazione destinate a favorire lo sviluppo economico e sociale degli Stati ACP, lo sviluppo degli scambi tra la Comunita' e tali Stati e il conseguimento degli obiettivi della cooperazione finanziaria e tecnica.
 
-## CAPITOLO 4 - COOPERAZIONE REGIONALE
+### CAPITOLO 4 - COOPERAZIONE REGIONALE
 
 #### ARTICOLO 7
 
@@ -2445,7 +2445,7 @@ h) assistenza tecnica per la creazione di organismi regionali di cooperazione o 
 
 Lo Stato o il gruppo di Stati ACP che partecipa con paesi vicini non ACP ad un progetto regionale o interregionale puo' chiedere alla Comunita' di finanziare la parte del progetto che gli compete.
 
-## CAPITOLO 5 - DISPOSIZIONI SPECIALI A FAVORE DEGLI STATI MENO SVILUPPATI
+### CAPITOLO 5 - DISPOSIZIONI SPECIALI A FAVORE DEGLI STATI MENO SVILUPPATI
 
 #### ARTICOLO 10
 
@@ -2475,7 +2475,7 @@ b) appoggio allo sviluppo di piccole e medie imprese e all'attuazione di piccole
 
 Gli Stati ACP meno sviluppati, beneficiano in via prioritaria delle disposizioni miranti a promuovere la cooperazione regionale di cui allo articolo 47 della Convenzione.
 
-## CAPITOLO 6 - AZIONI SPECIFICHE A FAVORE DI PICCOLE E MEDIE IMPRESE NAZIONALI
+### CAPITOLO 6 - AZIONI SPECIFICHE A FAVORE DI PICCOLE E MEDIE IMPRESE NAZIONALI
 
 #### ARTICOLO 13
 
@@ -2517,7 +2517,7 @@ Le condizioni di finanziamento concesse dalla Comunita' all'organismo finanziari
 
 Esso presenta ogni anno alla Comunita' una relazione sull'attuazione e sul finanziamento del programma approvato.
 
-## CAPITOLO 7 - MICROPROGETTI
+### CAPITOLO 7 - MICROPROGETTI
 
 #### ARTICOLO 14
 
@@ -2563,7 +2563,7 @@ Dopo essere stati esaminati dai servizi della Commissione, questi programmi veng
 
 2\. Nel quadro dei programmi annuali cosi' definiti, le decisioni di finanziamento relative a ciascun microprogetto sono prese dallo Stato ACP interessato con l'accordo della Commissione, accordo che, salvo casi particolari, e' considerato acquisito dopo un mese dalla notifica di tali decisioni.
 
-## CAPITOLO 8 - CONCORRENZA E CONDIZIONI DI PREFERENZA ALLE IMPRESE NAZIONALI
+### CAPITOLO 8 - CONCORRENZA E CONDIZIONI DI PREFERENZA ALLE IMPRESE NAZIONALI
 
 #### ARTICOLO 18
 
@@ -2627,7 +2627,7 @@ Le clausole e le condizioni generali applicabili alla stipulazione e all'esecuzi
 
 Le controversie che sorgono tra l'amministrazione di uno Stato ACP e il concessionario o il fornitore in occasione dell'esecuzione d'un appalto finanziato dal Fondo vengono composte mediante arbitrato, secondo un regolamento di procedura adottato dal Consiglio dei ministri con decisione presa al piu' tardi nella seconda sessione dopo l'entrata in vigore della Convenzione.
 
-## CAPITOLO 9 - ELABORAZIONE, NEGOZIAZIONE E CONCLUSIONE DEI CONTRATTI DI COOPERAZIONE TECNICA
+### CAPITOLO 9 - ELABORAZIONE, NEGOZIAZIONE E CONCLUSIONE DEI CONTRATTI DI COOPERAZIONE TECNICA
 
 #### ARTICOLO 24
 
@@ -2657,7 +2657,7 @@ Quando uno Stato ACP dispone nel suo personale amministrativo e tecnico di eleme
 
 La partecipazione della Comunita' si limita all'assunzione dei costi di misure supplementari strettamente connesse con detto progetto ed esclude qualsiasi spesa permanente di esercizio.
 
-## CAPITOLO 10. - ORGANI ESECUTIVI
+### CAPITOLO 10. - ORGANI ESECUTIVI
 
 #### ARTICOLO 29
 
@@ -2735,7 +2735,7 @@ j) collaudi definitivi; il Delegato e' pero' tenuto ad assistere ai collaudi pro
 
 6\. Nel limite dei fondi disponibili, il delegato ai pagamenti effettua i pagamenti di cui ha ricevuto il mandato, previa verifica della esattezza e della regolarita' materiale dei documenti giustificativi e della validita' della quietanza a saldo.
 
-## CAPITOLO 11 - DISPOSIZIONI VARIE
+### CAPITOLO 11 - DISPOSIZIONI VARIE
 
 #### ARTICOLO 33
 
@@ -2887,7 +2887,7 @@ Le spese di cancelleria per l'istruzione delle controversie e per l'organizzazio
 
 Le spese per misure straordinarie d'istruzione sono pagate con le altre spese e sono oggetto di anticipi pagati dalle parti alle condizioni stabilite dalla decisione degli arbitri.
 
-## CAPITOLO 1 - PERSONE CHE PARTECIPANO AI LAVORI RELATIVI ALLA CONVENZIONE
+### CAPITOLO 1 - PERSONE CHE PARTECIPANO AI LAVORI RELATIVI ALLA CONVENZIONE
 
 PROTOCOLLO N. 5
 
@@ -2911,7 +2911,7 @@ I Rappresentanti dei Governi degli Stati membri e degli Stati ACP ed i Rappresen
 
 Le disposizioni del comma precedente si applicano altresi' ai membri dell'Assemblea consultiva della Convenzione, agli arbitri che possono essere designati in virtu' della presente Convenzione, ai membri degli organismi consultivi degli ambienti economici e sociali che possono essere istituiti e ai funzionari e agenti dei medesimi, ai membri degli organi della Banca europea per gli investimenti, al personale di quest'ultima e al personale del Centro per lo sviluppo industriale.
 
-## CAPITOLO 2 - BENI, FONDI E AVERI DEL CONSIGLIO DEI MINISTRI ACP
+### CAPITOLO 2 - BENI, FONDI E AVERI DEL CONSIGLIO DEI MINISTRI ACP
 
 #### ARTICOLO 2
 
@@ -2935,7 +2935,7 @@ Nessuna esenzione e' concessa per imposte, tasse, diritti e canoni che costituis
 
 Il Consiglio dei ministri ACP e' esente da qualsiasi dazio doganale, divieto o restrizione all'importazione e all'esportazione, in ordine agli oggetti destinati al suo uso ufficiale; gli oggetti cosi' importati non possono essere venduti ne' ceduti a titolo oneroso o gratuito nel territorio del paese in cui sono stati importati, salvo che cio' avvenga a condizioni approvate dal Governo di questo paese.
 
-## CAPITOLO 3 - COMUNICAZIONI UFFICIALI
+### CAPITOLO 3 - COMUNICAZIONI UFFICIALI
 
 #### ARTICOLO 6
 
@@ -2943,7 +2943,7 @@ Per le loro comunicazioni ufficiali e la trasmissione di tutti i loro documenti,
 
 La corrispondenza ufficiale e le altre comunicazioni ufficiali della Comunita', delle Istituzioni della Convenzione e degli organi di coordinamento non possono essere censurate.
 
-## CAPITOLO 4 - PERSONALE DEL SEGRETARIATO DEGLI STATI ACP
+### CAPITOLO 4 - PERSONALE DEL SEGRETARIATO DEGLI STATI ACP
 
 #### ARTICOLO 7
 
@@ -2957,7 +2957,7 @@ Lo Stato che ospita la sede del Consiglio dei ministri ACP riconosce agli agenti
 
 I nomi, le qualifiche e gli indirizzi del Presidente in carica del Comitato degli ambasciatori ACP, del (dei) Segretario (Segretari) e del (dei) Segretario (Segretari) aggiunto (aggiunti) del Consiglio dei ministri ACP, nonche' degli agenti permanenti del personale del Segretariato degli Stati ACP sono comunicati periodicamente, a cura del Presidente del Consiglio dei ministri ACP, al Governo dello Stato che ospita la sede del Consiglio dei ministri ACP.
 
-## CAPITOLO 5 - DISPOSIZIONI GENERALI
+### CAPITOLO 5 - DISPOSIZIONI GENERALI
 
 #### ARTICOLO 10
 
@@ -4619,7 +4619,7 @@ Northern Ireland
 
 PALLISER
 
-## CAPITOLO I
+### CAPITOLO I
 
 ACCORDO INTERNO
 
@@ -4757,7 +4757,7 @@ Le commissioni dovute alla Banca per la gestione dei prestiti e delle operazioni
 
 2\. L'importo delle sovvenzioni del Fondo fissato all'articolo 1, paragrafo 3, lettera a) e' aumentato degli altri eventuali introiti del Fondo.
 
-## CAPITOLO II
+### CAPITOLO II
 
 #### ARTICOLO 11
 
@@ -4933,7 +4933,7 @@ Se invece il Consiglio si pronuncia a favore della proposta della Banca, quest'u
 
 Il Consiglio, deliberando alla maggioranza qualificata prevista allo articolo 18, paragrafo 4, prende i provvedimenti necessari.
 
-## CAPITOLO III
+### CAPITOLO III
 
 #### ARTICOLO 26
 
@@ -4959,7 +4959,7 @@ Il presente articolo si applica anche per quanto concerne i paesi e
 
 territori
 
-## CAPITOLO IV
+### CAPITOLO IV
 
 #### ARTICOLO 30
 

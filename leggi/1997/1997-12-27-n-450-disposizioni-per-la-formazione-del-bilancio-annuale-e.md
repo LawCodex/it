@@ -30,7 +30,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI DI CARATTERE FINANZIARIO
 
-#### ART. 1
+### ART. 1
 
 1\. Per l'anno 1998, il limite massimo del saldo netto da finanziare resta determinato in termini di competenza in lire 87.800 miliardi, al netto di lire 28.807 miliardi per regolazioni debitorie. Tenuto conto delle operazioni di rimborso di prestiti, il livello massimo del ricorso al mercato finanziario di cui all'articolo 11 della legge 5 agosto 1978, n. 468, come sostituito dall'articolo 5 della legge 23 agosto 1988, n. 362 - ivi compreso l'indebitamento all'estero per un importo complessivo non superiore a lire 4.000 miliardi relativo ad interventi non considerati nel bilancio di previsione per il 1998 - resta fissato, in termini di competenza, in lire 429.800 miliardi per l'anno finanziario 1998.
 
@@ -40,7 +40,7 @@ la seguente legge:
 
 > In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 14 gennaio 1998 si procedera' alla ripubblicazione del testo della presente legge corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217.
 
-#### Art. 2
+### Art. 2
 
 1\. Per ciascuno degli anni 1998, 1999 e 2000, l'eventuale maggiore gettito rispetto alle previsioni derivanti dalla normativa vigente e' interamente utilizzato per la riduzione del saldo netto da finanziare, salvo che si tratti di assicurare la copertura finanziaria di interventi urgenti ed imprevisti necessari per fronteggiare calamita' naturali o improrogabili esigenze connesse con la tutela della sicurezza del Paese ovvero situazioni di emergenza economico-finanziaria.
 
@@ -86,21 +86,17 @@ AGGIORNAMENTO (3)
 
 La L. 10 agosto 2000, n. 246 ha disposto (con l'art.1 , comma 10) che "Il fondo di cui all'articolo 2, comma 9, della legge 27 dicembre 1997, n. 450, e' incrementato di lire 12.500 milioni a decorrere dall'anno 2000".
 
-## CAPO II - DISPOSIZIONI
+## CAPO II - DISPOSIZIONI IN MATERIA DI ENTRATA
 
-### IN MATERIA DI ENTRATA
-
-#### ART. 3
+### ART. 3
 
 1\. In applicazione dell'articolo 3, comma 2, del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154, e tenendo conto del disposto dell'articolo 9, comma 1, del decreto-legge 19 settembre 1992, n. 384, convertito, con modificazioni, dalla legge 14 novembre 1992, n. 438, le minori entrate per imposta sul reddito delle persone fisiche per gli anni 1998, 1999 e 2000 sono valutate, rispettivamente, in lire 650 miliardi, 675 miliardi e 675 miliardi.
 
 2\. In deroga alle disposizioni richiamate nel comma 1, in luogo della restituzione del drenaggio fiscale, con decreto del Ministro del lavoro e della previdenza sociale, emanato di concerto con il Ministro del tesoro, del bilancio e della programmazione economica e con il Ministro per la solidarieta' sociale entro due mesi dalla data di entrata in vigore della presente legge, nei limiti della maggiore spesa di lire 595 miliardi per l'anno 1998, di lire 618 miliardi per l'anno 1999 e di lire 618 miliardi per l'anno 2000, i limiti di reddito e gli importi dell'assegno al nucleo familiare indicati nelle tabelle di cui al decreto del Ministro del lavoro e della previdenza sociale 19 marzo 1997, pubblicato nella Gazzetta Ufficiale n. 98 del 29 aprile 1997, applicativo dell'articolo 3 della legge 23 dicembre 1996, n. 663, sono incrementati per i nuclei familiari con figli, con particolare riferimento a quelli monoparentali, a quelli con soggetti portatori di handicap e a quelli in cui sia presente piu' di un figlio.
 
-## CAPO III - DISPOSIZIONI
+## CAPO III - DISPOSIZIONI IN MATERIA DI PREVIDENZA
 
-### IN MATERIA DI PREVIDENZA
-
-#### ART. 4
+### ART. 4
 
 1\. L'adeguamento dell'importo dovuto al Fondo pensioni lavoratori dipendenti, alle gestioni dei lavoratori autonomi, alla gestione speciale minatori e all'ENPALS, ai sensi del comma 3, lettera c), dell'articolo 37 della legge 9 marzo 1989, n. 88, e successive modificazioni, e' determinato per l'anno 1998 in lire 666 miliardi.
 
@@ -108,7 +104,7 @@ Conseguentemente la somma complessiva spettante alle predette gestioni risulta d
 
 ## CAPO IV - NORME FINALI
 
-#### ART. 5
+### ART. 5
 
 1\. La copertura della presente legge per le nuove o maggiori spese correnti, per le riduzioni di entrata e per le nuove finalizzazioni nette da iscrivere nel fondo speciale di parte corrente viene assicurata, ai sensi dell'articolo 11, comma 5, della legge 5 agosto 1978, n. 468, come sostituito dall'articolo 5 della legge 23 agosto 1988, n. 362, come da prospetto allegato.
 
@@ -130,7 +126,7 @@ Visto, il Guardasigilli: FLICK
 
 ## CAPO IV - NORME FINALI
 
-#### Prospetto
+### Prospetto
 
 PROSPETTO DI COPERTURA
 
@@ -248,7 +244,7 @@ Segue: PROSPETTO DI COPERTURA
 +------------------------------------+----------+-----------+--------+
 ```
 
-#### Tabella A
+### Tabella A
 
 TABELLA A
 
@@ -369,7 +365,7 @@ a) Accantonamento collegato, ai sensi dell'articolo 11-bis, comma
 
 50.000; 2000: 75.000.
 
-#### Tabella B
+### Tabella B
 
 TABELLA B
 
@@ -533,7 +529,7 @@ e tecnologica
  ____________________________________ TOTALE TABELLA B 3.878.300 7.022.400 8.599.700 =====================================
 ```
 
-#### Tabella C
+### Tabella C
 
 TABELLA C
 
@@ -2004,7 +2000,7 @@ ed altri organismi - cap. 2110) 40.000 40.000 40.000 ___________________________
 TOTALE GENERALE                    16.414.471 17.439.381  15.996.381=====================================================================
 ```
 
-#### Tabella D
+### Tabella D
 
 TABELLA D
 
@@ -2233,7 +2229,7 @@ Artigiancassa - cap. 7743) 125.000
 =====================================================================
 ```
 
-#### Tabella E
+### Tabella E
 
 TABELLA E
 
@@ -2350,7 +2346,7 @@ estera - cap. 7775) -50.000 - -
  ______________________________________
 ```
 
-#### Tabella F
+### Tabella F
 
 TABELLA F
 

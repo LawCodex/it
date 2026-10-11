@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 E' approvato l'accordo tra il Governo della Repubblica italiana e il Governo della Repubblica democratica tedesca sui trasporti internazionali su strada, firmato a Roma il 29 luglio 1977.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data all'accordo di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 29 dell'accordo stesso.
 
@@ -65,7 +65,7 @@ finale della Conferenza sulla sicurezza e la cooperazione in Europa firmato a He
 
 hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 1\. Le Parti Contraenti si concedono il diritto di effettuare
 
@@ -77,7 +77,7 @@ soltanto dai trasportatori abilitati in base alla legislazione nazionale ad effe
 
 ## I. - TRASPORTI DI VIAGGIATORI
 
-### Articolo 2
+## Articolo 2
 
 1\. I trasporti di viaggiatori effettuati con autobus tra la
 
@@ -85,7 +85,7 @@ Repubblica italiana e la Repubblica democratica tedesca, nonche' il transito sul
 
 2\. L'istituzione dei servizi regolari di viaggiatori e' concordata dalle Autorita' competenti di ciascuna Parte Contraente.
 
-### Articolo 3
+## Articolo 3
 
 1\. Sono esonerati dal regime dell'autorizzazione di cui
 
@@ -103,19 +103,19 @@ nel territorio dello Stato di immatricolazione del veicolo e il punto di arrivo 
 
 portare con se una lista nominativa dei viaggiatori che trasportano.
 
-### Articolo 4
+## Articolo 4
 
 Le condizioni di rilascio delle autorizzazioni e delle concessioni di cui all'articolo 2, ed in particolare la loro validita', le tariffe e le altre modalita' di trasporto, nonche' i documenti di controllo di tutte le categorie dei servizi, verranno stabiliti dalla Commissione mista prevista dall'articolo 24.
 
 ## II. - TRASPORTI DI MERCI
 
-### Articolo 5
+## Articolo 5
 
 Tutti i trasporti di merci effettuati per conto di o per conto
 
 proprio tra i due Stati, ovvero in transito sul loro territorio, sono sottoposti al regime dell'autorizzazione.
 
-### Articolo 6
+## Articolo 6
 
 1\. L'autorizzazione per effettuare i trasporti internazionali di
 
@@ -133,7 +133,7 @@ diritto di caricare al ritorno merci sul territorio dell'altra Parte Contraente 
 
 Contraente non sono autorizzati a caricare sul territorio dell'altra Parte Contraente merci destinate ad un Paese terzo, ne' a scaricarvi merci provenienti da un Paese terzo.
 
-### Articolo 7
+## Articolo 7
 
 1\. Sono sottoposti al regime dell'autorizzazione, ma accordati
 
@@ -165,7 +165,7 @@ riprese cinematografiche o televisive.
 
 disposizione del paragrafo 1 si applica a condizione che gli oggetti e gli animali siano successivamente ritrasportati nello Stato di immatricolazione.
 
-### Articolo 8
+## Articolo 8
 
 1\. Le autorizzazioni necessarie ai veicoli della Repubblica
 
@@ -177,7 +177,7 @@ democratica tedesca che circolano nel territorio della Repubblica italiana sono 
 
 equivalente. Detto contingente potra' essere aumentato soltanto nei limiti in cui l'insieme dei trasportatori di ciascuno Stato partecipi al traffico in misura sostanzialmente equilibrata.
 
-### Articolo 9
+## Articolo 9
 
 1\. Le autorizzazioni di cui all'articolo 8 sono di tre tipi:
 
@@ -195,7 +195,7 @@ esclusivamente in transito sul territorio dell'altra Parte Contraente da effettu
 
 contingenti delle due Parti Contraenti, la Commissione mista stabilira' un coefficiente di equivalenza fra le autorizzazioni di cui alle lettere a), b) e c) del precedente paragrafo 1.
 
-### Articolo 10
+## Articolo 10
 
 Le autorizzazioni menzionate nel presente Accordo devono essere
 
@@ -203,19 +203,19 @@ vidimate, all'ingresso e all'uscita, dalle Autorita' dello Stato per il quale so
 
 ## III. - DISPOSIZIONI GENERALI
 
-### Articolo 11
+## Articolo 11
 
 Per il controllo sanitario, doganale e di frontiera saranno
 
 applicate le disposizioni degli accordi internazionali a cui aderiscono ambedue le Parti Contraenti, Per la soluzione delle questioni non regolate da tali accordi saranno applicate le leggi interne di ognuna delle Parti Contraenti.
 
-### Articolo 12
+## Articolo 12
 
 I trasporti di malati gravi, di animali e di merci deperibili
 
 avranno la precedenza al controllo sanitario, doganale e di frontiera.
 
-### Articolo 13
+## Articolo 13
 
 1\. I veicoli adibiti al trasporto di viaggiatori e di merci devono essere idonei al trasporto da effettuare. Le loro dimensioni, il peso complessivo e il loro equipaggiamento, allorche' essi vengono impiegati sul territorio dell'altro Stato, devono essere conformi a quanto previsto dalle norme vigenti in detto Stato.
 
@@ -225,19 +225,19 @@ merci superano, con o senza carico, le dimensioni o i pesi massimi prescritti da
 
 3\. Se il permesso speciale indicato al paragrafo 2 prevede che il veicolo di cui trattasi debba percorrere un itinerario determinato, il trasporto in questione deve essere effettuato lungo tale itinerario.
 
-### Articolo 14
+## Articolo 14
 
 I trasportatori, i conducenti e gli altri membri dell'equipaggio, i
 
 viaggiatori, nonche' i veicoli e le merci trasportate sono sottoposti alle leggi ed ai regolamenti della Parte Contraente sul territorio della quale si trovano.
 
-### Articolo 15
+## Articolo 15
 
 I trasportatori domiciliati nel territorio di una delle Parti
 
 Contraenti non sono autorizzati ad effettuare trasporti di viaggiatori o di merci fra punti situati sul territorio dell'altra Parte Contraente.
 
-### Articolo 16
+## Articolo 16
 
 1\. Ciascuna Parte Contraente consente l'ingresso nel suo territorio
 
@@ -247,7 +247,7 @@ dei veicoli immatricolati nel territorio dell'altra Parte Contraente in franchig
 
 sottoposti alle formalita' doganali richieste per la temporanea permanenza nel rispettivo territorio.
 
-### Articolo 17
+## Articolo 17
 
 1\. Il conducente e gli altri membri dell'equipaggio del veicolo
 
@@ -259,13 +259,13 @@ possono importare temporaneamente in franchigia dai diritti doganali e dalle tas
 
 Autorita' doganali e che concernono l'importazione in franchigia temporanea degli oggetti destinati all'uso personale dei viaggiatori.
 
-### Articolo 18
+## Articolo 18
 
 Sono ammessi in franchigia dai diritti doganali e dalle tasse di
 
 entrata, senza proibizioni ne' restrizioni, i combustibili ed i carburanti contenuti nei serbatoi normali del veicolo, restando inteso che il serbatoio normale e' quello previsto dal costruttore per il tipo di veicolo di cui trattasi.
 
-### Articolo 19
+## Articolo 19
 
 1\. I pezzi staccati destinati alla riparazione di un veicolo che
 
@@ -275,7 +275,7 @@ effettua uno dei trasporti previsti dal presente Accordo, sono ammessi in franch
 
 dei diritti doganali e delle tasse di entrata, in conformita' alle disposizioni della legislazione del Paese di importazione a meno che dette parti siano state cedute gratuitamente a questo Stilo oppure distrutte a spese degli interessati sotto controllo ufficiale.
 
-### Articolo 20
+## Articolo 20
 
 1\. I trasportatori aventi sede nel territorio di una delle Parti
 
@@ -285,19 +285,19 @@ Contraenti e che trasportano merci o viaggiatori in base al presente Accordo son
 
 Commissione mista esaminera' la possibilita' di concedere delle facilitazioni fiscali basate sul principio della reciprocita' e che siano consentite dalle disposizioni vigenti in ciascuno dei due Stati.
 
-### Articolo 21
+## Articolo 21
 
 I conducenti sono tenuti a portare con se' i documenti che, in
 
 conformita' alle disposizioni interne dei due Stati, sono necessari a varcare la frontiera, come pure i documenti che, secondo le disposizioni interne dello Stato di immatricolazione, sono necessari per condurre il veicolo e per individuarne le caratteristiche tecniche ed inoltre i documenti prescritti dal presente Accordo. Tali documenti devono essere esibiti a richiesta degli organi competenti dell'altra Parte Contraente.
 
-### Articolo 22
+## Articolo 22
 
 Le Autorita' competenti delle Parti Contraenti stabiliranno di
 
 comune accordo, e se necessario a mezzo della Commissione mista, le modalita' relative allo scambio dei documenti necessari e dei dati statistici.
 
-### Articolo 23
+## Articolo 23
 
 1\. Allorche' le Autorita' competenti di una delle Parti Contraenti constatano che un trasportatore o un conducente di un veicolo immatricolato nel territorio dell'altro Stato contravviene alle disposizioni del presente Accordo o alle norme interne, esse possono chiedere alle Autorita' competenti di tale Stato di adottate una delle sanzioni supplementari seguenti:
 
@@ -309,7 +309,7 @@ totale, del diritto di effettuare trasporti sul territorio dello Stato ove la vi
 
 2\. Le Autorita' competenti ad applicare la sanzione sono tenute a comunicare alle Autorita' richiedenti se e quali sanzioni siano state applicate.
 
-### Articolo 24
+## Articolo 24
 
 1\. Le Parti Contraenti si notificheranno per via diplomatica quali sono le Autorita' competenti a regolare le questioni relative all'applicazione del presente Accordo.
 
@@ -327,13 +327,13 @@ d) risolvere le difficolta' che potranno eventualmente verificarsi.
 
 4\. Le proposte della Commissione mista sono soggette all'approvazione delle Autorita' competenti delle due Parti Contraenti.
 
-### Articolo 25
+## Articolo 25
 
 I trasporti previsti dal presente Accordo sono consentiti a
 
 condizione che al momento dell'ingresso nel territorio di ciascuna Parte Contraente il veicolo che effettua il trasporto sia oggetto di una assicurazione di responsabilita' civile per danni arrecati a terzi sul territorio dell'altra Parte Contraente.
 
-### Articolo 26
+## Articolo 26
 
 1\. Le fatturazioni ed i trasferimenti valutari dei pagamenti
 
@@ -341,19 +341,19 @@ previsti per i trasporti effettuati in base al presente Accordo devono avvenire 
 
 2\. Qualora dovesse essere concluso un accordo di pagamento tra le due Parti Contraenti, i pagamenti di cui al paragrafo 1 avranno luogo secondo le disposizioni di tale accordo di pagamento.
 
-### Articolo 27
+## Articolo 27
 
 Tutte le controversie concernenti l'interpretazione o
 
 l'applicazione del presente Accordo, non risolte dalla Commissione mista, saranno risolte per via diplomatica.
 
-### Articolo 28
+## Articolo 28
 
 Il presente Accordo non potra' invalidare gli impegni
 
 internazionali assunti dall'una o dall'altra Parte Contraente.
 
-### Articolo 29
+## Articolo 29
 
 1\. Il presente Accordo entrera' in vigore 15 giorni dopo che le
 

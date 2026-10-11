@@ -28,11 +28,11 @@ la seguente legge:
 
 ## TITOLO I - COSTITUZIONE DELLA CORTE
 
-##### Art. 1
+#### Art. 1
 
 La Corte costituzionale e' composta di quindici giudici nominati, in ordine successivo, cinque dalle supreme magistrature ordinaria e amministrative, cinque dal Parlamento in seduta comune, cinque dal Presidente della Repubblica.
 
-##### Art. 2
+#### Art. 2
 
 I giudici della Corte la cui nomina spetta alle supreme magistrature ordinaria ed amministrative, sono eletti:
 
@@ -46,7 +46,7 @@ I componenti di ciascun collegio possono votare per un numero di candidati pari 
 
 I nomi degli eletti vengono immediatamente comunicati, dal presidente di ciascun collegio, al Presidente della Corte costituzionale, ai Presidenti delle due Camere del Parlamento ed al Presidente della Repubblica.
 
-##### Art. 3
+#### Art. 3
 
 ((COMMA ABROGATO DALLA L. COST. 22 NOVEMBRE 1967, N. 2)).
 
@@ -56,17 +56,17 @@ Dopo ogni scrutinio saranno gradualmente proclamati eletti coloro che avranno ri
 
 I nomi dei giudici eletti dal Parlamento vengono immediatamente comunicati dal Presidente della Camera dei deputati al Presidente della Repubblica e al Presidente della Corte costituzionale.
 
-##### Art. 4
+#### Art. 4
 
 I giudici della Corte costituzionale, la cui nomina spetta al Presidente della Repubblica, sono nominati con suo decreto.
 
 Il decreto e' controfirmato dal Presidente del Consiglio dei Ministri.
 
-##### Art. 5
+#### Art. 5
 
 I giudici della Corte, prima di assumere le funzioni, prestano giuramento di osservare la Costituzione e le leggi, nelle mani del Presidente della Repubblica, alla presenza dei Presidenti della due Camere del Parlamento.
 
-##### Art. 6
+#### Art. 6
 
 La Corte elegge a maggioranza dei suoi componenti il Presidente.
 
@@ -80,7 +80,7 @@ Della nomina e' data immediata comunicazione dallo stesso Presidente eletto al P
 
 Il Presidente, subito dopo l'insediamento nella carica, designa un giudice destinato a sostituirlo per il tempo necessario in caso di impedimento.
 
-##### Art. 7
+#### Art. 7
 
 I giudici della Corte costituzionale non possono assumere o conservare altri uffici o impieghi pubblici o privati, ne' esercitare attivita' professionali, commerciali o industriali, funzioni di amministratore o sindaco in societa' che abbiano fine di lucro.
 
@@ -92,25 +92,25 @@ Essi saranno collocati fuori ruolo per tutto il periodo in cui restano in carica
 
 I giudici della Corte costituzionale non possono fare parte di commissioni giudicatrici di concorso, ne' ricoprire cariche universitarie e non possono essere candidati in elezioni amministrative o politiche.
 
-##### Art. 8
+#### Art. 8
 
 I giudici della Corte non possono svolgere attivita' inerente ad una associazione o partito politico.
 
-##### Art. 9
+#### Art. 9
 
 Le domande dell'autorita' competente per sottoporre a procedimento penale o procedere all'arresto di un giudice della Corte costituzionale sono trasmesse alla Corte stessa per il tramite del Ministero di grazia e giustizia.
 
-##### Art. 10
+#### Art. 10
 
 La Corte, con il solo intervento dei giudici ordinari, pronuncia la decadenza dei cittadini eletti dal Parlamento ai sensi dell'ultimo comma dell'art. 135 della Costituzione qualora gli stessi, dopo la loro elezione, vengano a perdere i requisiti per l'eleggibilita' o si rendano incompatibili.
 
 La decisione della Corte e' comunicata ai Presidenti delle due Camere del Parlamento per la sostituzione.
 
-##### Art. 11
+#### Art. 11
 
 Tutti i provvedimenti che la Corte adotta nei confronti dei giudici ordinari e dei giudici aggregati sono deliberati in Camera di consiglio ed a maggioranza dei suoi componenti. Essi devono essere motivati e sono resi pubblici nei modi disposti dall'art. 19.
 
-##### Art. 12
+#### Art. 12
 
 ((I giudici della Corte costituzionale hanno tutti egualmente una retribuzione corrispondente al piu' elevato livello tabellare che sia stato raggiunto dal magistrato della giurisdizione ordinaria investito delle piu' alte funzioni, aumentato della meta'. Al Presidente e' inoltre attribuita una indennita' di rappresentanza pari ad un quinto della retribuzione)).
 
@@ -118,11 +118,11 @@ Tale trattamento sostituisce ed assorbe quello che ciascuno, nella sua qualita' 
 
 Ai giudici eletti a norma dell'ultimo comma dell'art. 135 della Costituzione e' assegnata una indennita' giornaliera di presenza pari ad un trentesimo della retribuzione mensile spettante ai giudici ordinari.
 
-##### Art. 13
+#### Art. 13
 
 La Corte puo' disporre l'audizione di testimoni e, anche in deroga ai divieti stabiliti da altre leggi, il richiamo di atti o documenti.
 
-##### Art. 14
+#### Art. 14
 
 ((La Corte puo' disciplinare l'esercizio delle sue funzioni con regolamento approvato a maggioranza dei suoi componenti. Il regolamento e' pubblicato nella Gazzetta Ufficiale.
 
@@ -136,11 +136,11 @@ Nell'ambito dei propri ordinamenti la Corte determinera', tenendo presenti le no
 
 ### CAPO I - Norme generali di procedura
 
-##### Art. 15
+#### Art. 15
 
 Le udienze della Corte costituzionale sono pubbliche, ma il Presidente puo' disporre che si svolgano a porte chiuse quando la pubblicita' puo' nuocere alla sicurezza dello Stato o all'ordine pubblico o alla morale, ovvero quando avvengono, da parte del pubblico, manifestazioni che possano turbare la serenita'.
 
-##### Art. 16
+#### Art. 16
 
 I membri della Corte hanno obbligo di intervenire alle udienze quando non siano legittimamente impediti.
 
@@ -148,13 +148,13 @@ La Corte funziona con l'intervento di almeno undici giudici.
 
 Le decisioni sono deliberate in Camera di consiglio dai giudici presenti a tutte le udienze in cui si e' svolto il giudizio e vengono prese con la maggioranza assoluta dei votanti. Nel caso di parita' di voto prevale quello del Presidente, salvo quanto e' stabilito nel secondo comma dell'art. 49.
 
-##### Art. 17
+#### Art. 17
 
 Il cancelliere assiste alle sedute della Corte e stende il processo verbale sotto la direzione del Presidente.
 
 Il processo verbale e' sottoscritto da chi presiede la udienza e dal cancelliere; di esso non si da' lettura, salvo espressa istanza di parte.
 
-##### Art. 18
+#### Art. 18
 
 La Corte giudica in via definitiva con sentenza. Tutti gli altri provvedimenti di sua competenza sono adottati con ordinanza.
 
@@ -164,11 +164,11 @@ Le sentenze sono pronunciate in nome del popolo italiano e debbono contenere, ol
 
 Le ordinanze sono succintamente motivate.
 
-##### Art. 19
+#### Art. 19
 
 Le decisioni della Corte costituzionale sono depositate nella cancelleria della Corte e chiunque puo' prenderne visione ed ottenerne copia.
 
-##### Art. 20
+#### Art. 20
 
 Nei procedimenti dinanzi alla Corte costituzionale la rappresentanza e la difesa delle parti puo' essere affidata soltanto ad avvocati abilitati al patrocinio innanzi alla Corte di cassazione.
 
@@ -176,19 +176,19 @@ Gli organi dello Stato e delle Regioni hanno diritto di intervenire in giudizio.
 
 Il Governo, anche quando intervenga nella persona del Presidente del Consiglio dei Ministri o di un Ministro a cio' delegato, e' rappresentato e difeso dall'Avvocato generale dello Stato o da un suo sostituto.
 
-##### Art. 21
+#### Art. 21
 
 Gli atti del procedimento davanti alla Corte costituzionale sono esenti da tasse di ogni specie.
 
-##### Art. 22
+#### Art. 22
 
 Nel procedimento davanti alla Corte costituzionale, salvo che per i giudizi sulle accuse di cui agli articoli 43 e seguenti, si osservano, in quanto applicabili, anche le norme del regolamento per la procedura innanzi al Consiglio di Stato in sede giurisdizionale.
 
 Norme integrative possono essere stabilite dalla Corte nel suo regolamento.
 
-## CAPO II - Questioni di legittimita' costituzionale
+### CAPO II - Questioni di legittimita' costituzionale
 
-##### Art. 23
+#### Art. 23
 
 Nel corso di un giudizio dinanzi ad una autorita' giurisdizionale una delle parti o il pubblico ministero possono sollevare questione di legittimita' costituzionale mediante apposita istanza, indicando:
 
@@ -204,13 +204,13 @@ L'autorita' giurisdizionale ordina che a cura della cancelleria l'ordinanza di t
 
 L'ordinanza viene comunicata dal cancelliere anche ai Presidenti delle due Camere del Parlamento o al Presidente del Consiglio regionale interessato.
 
-##### Art. 24
+#### Art. 24
 
 L'ordinanza che respinga la eccezione di illegittimita' costituzionale per manifesta irrilevanza o infondatezza, deve essere adeguatamente motivata.
 
 L'eccezione puo' essere riproposta all'inizio di ogni grado ulteriore del processo.
 
-##### Art. 25
+#### Art. 25
 
 Il Presidente della Corte costituzionale, appena e' pervenuta alla Corte l'ordinanza con la quale l'autorita' giurisdizionale promuove il giudizio di legittimita' costituzionale, ne dispone la pubblicazione nella Gazzetta Ufficiale e, quando occorra, nel "Bollettino Ufficiale" delle Regioni interessate.
 
@@ -218,7 +218,7 @@ Entro venti giorni dall'avvenuta notificazione della ordinanza, ai sensi dell'ar
 
 Entro lo stesso termine, il Presidente del Consiglio dei Ministri ed il Presidente della Giunta regionale possono intervenire in giudizio e presentare le loro deduzioni.
 
-##### Art. 26
+#### Art. 26
 
 Trascorso il termine indicato nell'articolo precedente il Presidente della Corte nomina un giudice per la istruzione e la relazione e convoca entro i successivi venti giorni la Corte per la discussione.
 
@@ -226,19 +226,19 @@ Qualora non si costituisca alcuna parte o in caso di manifesta infondatezza la C
 
 Le sentenze devono essere depositate in cancelleria nel termine di venti giorni dalla decisione.
 
-##### Art. 27
+#### Art. 27
 
 La Corte costituzionale, quando accoglie una istanza o un ricorso relativo a questione di legittimita' costituzionale di una legge o di un atto avente forza di legge, dichiara, nei limiti dell'impugnazione, quali sono le disposizioni legislative illegittime. Essa dichiara, altresi', quali sono le altre disposizioni legislative, la cui illegittimita' deriva come conseguenza dalla decisione adottata.
 
-##### Art. 28
+#### Art. 28
 
 Il controllo di legittimita' della Corte costituzionale su una legge o un atto avente forza di legge esclude ogni valutazione di natura politica e ogni sindacato sull'uso del potere discrezionale del Parlamento.
 
-##### Art. 29
+#### Art. 29
 
 La sentenza con la quale la Corte si pronunzia sulla questione di illegittimita' costituzionale di una legge o di un atto avente forza di legge o l'ordinanza con la quale e' dichiarata la manifesta infondatezza dell'eccezione di incostituzionalita', vengono trasmesse, entro due giorni dal loro deposito in cancelleria, unitamente agli atti, all'autorita' giurisdizionale che ha promosso il giudizio, a cura del cancelliere della Corte.
 
-##### Art. 30
+#### Art. 30
 
 La sentenza che dichiara l'illegittimita' costituzionale di una legge o di un atto avente forza di legge dello Stato o di una Regione, entro due giorni dal suo deposito in cancelleria, e' trasmessa, di ufficio, al Ministro di grazia e giustizia ed al Presidente della Giunta regionale affinche' si proceda immediatamente e, comunque, non oltre il decimo giorno, alla pubblicazione del dispositivo della decisione nelle medesime forme stabilite per la pubblicazione dell'atto dichiarato costituzionalmente illegittimo.
 
@@ -254,7 +254,7 @@ AGGIORNAMENTO (8)
 
 La Corte Costituzionale, con sentenza 28 gennaio - 16 aprile 2021 n. 68 (in G.U. 1ª s.s. 21/04/2021 n. 16), ha dichiarato "l'illegittimita' costituzionale dell'art. 30, quarto comma, della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), in quanto interpretato nel senso che la disposizione non si applica in relazione alla sanzione amministrativa accessoria della revoca della patente di guida, disposta con sentenza irrevocabile ai sensi dell'art. 222, comma 2, del decreto legislativo 30 aprile 1992, n. 285 (Nuovo codice della strada)".
 
-##### Art. 31
+#### Art. 31
 
 1\. La questione di legittimita' costituzionale di uno statuto regionale puo', a norma del secondo comma dell'articolo 123 della Costituzione, essere promossa entro il termine di trenta giorni dalla pubblicazione.
 
@@ -270,7 +270,7 @@ AGGIORNAMENTO (8)
 
 La Corte Costituzionale, con sentenza 3 - 13 novembre 2014, n. 255 (in G.U. 1a s.s. 19/11/2014, n. 48), ha dichiarato "l'illegittimita' costituzionale dell'articolo 31, comma 2, della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), come sostituito dall'art. 9, comma 1, della legge 5 giugno 2003, n. 131 (Disposizioni per l'adeguamento dell'ordinamento della Repubblica alla legge costituzionale 18 ottobre 2001, n. 3), limitatamente alle parole «Ferma restando la particolare forma di controllo delle leggi prevista dallo statuto speciale della Regione siciliana,»".
 
-##### Art. 32
+#### Art. 32
 
 La questione della legittimita' costituzionale di una legge o di un atto avente forza, di legge dello Stato puo' essere promossa dalla Regione che ritiene dalla legge o dall'atto invasa la sfera della competenza assegnata alla Regione stessa dalla Costituzione e da leggi costituzionali.
 
@@ -278,7 +278,7 @@ La questione della legittimita' costituzionale di una legge o di un atto avente 
 
 Si applica l'ultimo comma dell'articolo precedente.
 
-##### Art. 33
+#### Art. 33
 
 La questione di legittimita' costituzionale di una legge o di un atto avente forza di legge di una Regione puo' essere, a norma ((dell'articolo 127, secondo comma, della Costituzione)), promossa da un'altra Regione che ritenga da quella legge invasa la sfera della sua competenza.
 
@@ -286,27 +286,25 @@ La questione, previa deliberazione della Giunta regionale, e' promossa dal Presi
 
 Il ricorso deve essere depositato nella cancelleria della Corte costituzionale entro il termine di dieci giorni dall'ultima notificazione.
 
-##### Art. 34
+#### Art. 34
 
 I ricorsi che promuovono le questioni di legittimita' costituzionale, a norma degli articoli 31, 32 e 33 devono contenere le indicazioni di cui al primo comma dell'art. 23.
 
 Si osservano, per quanto applicabili, le disposizioni contenute negli articoli 23, 25 e 26.
 
-##### Art. 35
+#### Art. 35
 
 ((1. Quando e' promossa una questione di legittimita' costituzionale ai sensi degli articoli 31, 32 e 33, la Corte costituzionale fissa l'udienza di discussione del ricorso entro novanta giorni dal deposito dello stesso. Qualora la Corte ritenga che l'esecuzione dell'atto impugnato o di parti di esso possa comportare il rischio di un irreparabile pregiudizio all'interesse pubblico o all'ordinamento giuridico della Repubblica, ovvero il rischio di un pregiudizio grave ed irreparabile per i diritti dei cittadini, trascorso il termine di cui all'articolo 25, d'ufficio puo' adottare i provvedimenti di cui all'articolo 40. In tal caso l'udienza di discussione e' fissata entro i successivi trenta giorni e il dispositivo della sentenza e' depositato entro quindici giorni dall'udienza di discussione)).
 
-##### Art. 36
+#### Art. 36
 
 Le disposizioni del presente capo, come pure quelle dell'art. 20, si osservano anche, per quanto applicabili; nei casi di impugnazione previsti dagli articoli 82 e 83 della legge costituzionale 28 febbraio 1948, n. 5, concernente lo Statuto speciale per il Trentino-Alto Adige.
 
 Quanto vi e' disposto riguardo alla Regione ed ai suoi organi, vale analogamente per la Provincia ed i suoi organi quando sia interessata una delle due Province nella Regione.
 
-## CAPO III - Conflitti di attribuzione
+### CAPO III - Conflitti di attribuzione SEZIONE I. - Dei conflitti di attribuzione tra poteri dello Stato.
 
-### SEZIONE I. - Dei conflitti di attribuzione tra poteri dello Stato.
-
-##### Art. 37
+#### Art. 37
 
 Il conflitto tra poteri dello Stato e' risoluto dalla Corte costituzionale se insorge tra organi competenti a dichiarare definitivamente la volonta' del potere cui appartengono e per la delimitazione della sfera di attribuzioni determinata per i vari poteri da norme costituzionali.
 
@@ -320,13 +318,13 @@ Si osservano in quanto applicabili le disposizioni degli articoli 23, 25 e 26.
 
 Salvo il caso previsto nell'ultimo comma dell'art. 20, gli organi interessati, quando non compaiano personalmente, possono essere difesi e rappresentati da liberi professionisti abilitati al patrocinio davanti alle Giurisdizioni superiori.
 
-##### Art. 38
+#### Art. 38
 
 La Corte costituzionale risolve il conflitto sottoposto al suo esame dichiarando il potere al quale spettano le attribuzioni in contestazione e ove sia stato emanato un atto viziato da incompetenza, lo annulla.
 
 ## SEZIONE II. - Dei conflitti di attribuzione fra Stato e Regioni e fra - Regioni.
 
-##### Art. 39
+#### Art. 39
 
 Se la Regione invade con un suo atto la sfera di competenza assegnata dalla Costituzione allo Stato ovvero ad altra Regione, lo Stato o la Regione rispettivamente interessata possono proporre ricorso alla Corte costituzionale per il regolamento di competenza.
 
@@ -338,75 +336,71 @@ Il ricorso e' proposto per lo Stato dal Presidente del Consiglio dei Ministri o 
 
 Il ricorso per regolamento di competenza deve indicare come sorge il conflitto di attribuzione e specificare l'atto dal quale sarebbe stata invasa la sfera di competenza, nonche' le disposizioni della Costituzione e delle leggi costituzionali che si ritengono violate.
 
-##### Art. 40
+#### Art. 40
 
 L'esecuzione degli atti che hanno dato luogo al conflitto di attribuzione fra Stato e Regione ovvero tra Regioni puo' essere, in pendenza del giudizio, sospesa per gravi ragioni, con ordinanza motivata, dalla Corte.
 
-##### Art. 41
+#### Art. 41
 
 Si osservano per i ricorsi per regolamento di competenza indicati nei precedenti articoli le disposizioni degli articoli 23, 25, 26 e 38, in quanto applicabili.
 
-##### Art. 42
+#### Art. 42
 
 Le disposizioni di questa sezione che riguardano la Regione ed i suoi organi si osservano anche, in quanto applicabili, per le due Province della Regione Trentino-Alto Adige.
 
-## CAPO IV - Giudizi sulle accuse contro il Presidente della Repubblica,
+### CAPO IV - Giudizi sulle accuse contro il Presidente della Repubblica, il Presidente del Consiglio dei Ministri ed i Ministri.
 
-### il Presidente del Consiglio dei Ministri ed i Ministri.
+### ((CAPO - ABROGATO DALLA LEGGE 25 GENNAIO 1962, N. 20))
 
-#### ((CAPO - ABROGATO DALLA LEGGE 25 GENNAIO 1962, N. 20))
-
-##### Art. 43
+#### Art. 43
 
 ((ARTICOLO ABROGATO DALLA L. 25 GENNAIO 1962, N. 20))
 
-##### Art. 44
+#### Art. 44
 
 ((ARTICOLO ABROGATO DALLA L. 25 GENNAIO 1962, N. 20))
 
-##### Art. 45
+#### Art. 45
 
 ((ARTICOLO ABROGATO DALLA L. 25 GENNAIO 1962, N. 20))
 
-##### Art. 46
+#### Art. 46
 
 ((ARTICOLO ABROGATO DALLA L. 25 GENNAIO 1962, N. 20))
 
-##### Art. 47
+#### Art. 47
 
 ((ARTICOLO ABROGATO DALLA L. 25 GENNAIO 1962, N. 20))
 
-##### Art. 48
+#### Art. 48
 
 ((ARTICOLO ABROGATO DALLA L. 25 GENNAIO 1962, N. 20))
 
-##### Art. 49
+#### Art. 49
 
 ((ARTICOLO ABROGATO DALLA L. 25 GENNAIO 1962, N. 20))
 
-##### Art. 50
+#### Art. 50
 
 ((ARTICOLO ABROGATO DALLA L. 25 GENNAIO 1962, N. 20))
 
-##### Art. 51
+#### Art. 51
 
 ((ARTICOLO ABROGATO DALLA L. 25 GENNAIO 1962, N. 20))
 
-##### Art. 52
+#### Art. 52
 
 ((ARTICOLO ABROGATO DALLA L. 25 GENNAIO 1962, N. 20))
 
-##### Art. 53
+#### Art. 53
 
 ((ARTICOLO ABROGATO DALLA L. 25 GENNAIO 1962, N. 20))
 
-## CAPO IV - Giudizi sulle accuse contro il Presidente della Repubblica,
+### CAPO IV - Giudizi sulle accuse contro il Presidente della Repubblica, il Presidente del Consiglio dei Ministri ed i Ministri.
 
-### il Presidente del Consiglio dei Ministri ed i Ministri.
+### ((CAPO - ABROGATO DALLA LEGGE 25 GENNAIO 1962, N. 20))
 
-#### ((CAPO - ABROGATO DALLA LEGGE 25 GENNAIO 1962, N. 20))
-
-##### I
+#### I
 
 DISPOSIZIONI TRANSITORIE
 
@@ -416,19 +410,19 @@ La Corte si costituisce per la prima volta entro due mesi dalla pubblicazione de
 
 Nello stesso termine stabilito dal comma precedente il Parlamento elegge i membri della Corte preveduti dall'ultimo comma dell'art. 135 della Costituzione.
 
-##### II
+#### II
 
 II.
 
 Per promuovere l'azione di legittimita' costituzionale delle leggi e degli atti aventi forza di legge e per impugnare atti pubblicati anteriormente alla formazione della Corte costituzionale i termini stabiliti decorrono dalla data del decreto del Presidente della Repubblica, che fissa la prima adunanza della Corte.
 
-##### III
+#### III
 
 III.
 
 La Corte, fino all'approvazione della pianta organica di cui all'art. 14, si avvale di funzionari messi a disposizione dall'Amministrazione dello Stato.
 
-##### IV
+#### IV
 
 IV.
 

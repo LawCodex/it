@@ -40,11 +40,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - MECCANISMI SANZIONATORI
 
-### MECCANISMI SANZIONATORI
-
-#### Art. 1
+### Art. 1
 
 Relazione di fine legislatura regionale
 
@@ -90,7 +88,7 @@ La Corte Costituzionale, con sentenza 16 - 19 luglio 2013, n. 219 (in G.U. 1a s.
 
 Ha inoltre dichiarato "l'illegittimita' costituzionale in via consequenziale dell'art. 1, commi 3-bis e 6, del d.lgs. n. 149 del 2011, nel testo introdotto dall'art. 1-bis, comma 1, del d.l. n. 174 del 2012, come modificato dalla legge di conversione n. 213 del 2012".
 
-#### Art. 2
+### Art. 2
 
 Responsabilita' politica del presidente della giunta regionale
 
@@ -116,7 +114,7 @@ AGGIORNAMENTO (6)
 
 La Corte Costituzionale, con sentenza 16 - 19 luglio 2013, n. 219 (in G.U. 1a s.s. 24/7/2013, n. 30), ha dichiarato "l'illegittimita' costituzionale dell'art. 2, commi 2, 3 e 5, del d.lgs. n. 149 del 2011".
 
-#### Art. 3
+### Art. 3
 
 Decadenza automatica e interdizione dei funzionari regionali e dei revisori dei conti
 
@@ -132,7 +130,7 @@ AGGIORNAMENTO (6)
 
 La Corte Costituzionale, con sentenza 16 - 19 luglio 2013, n. 219 (in G.U. 1a s.s. 24/7/2013, n. 30), ha dichiarato "l'illegittimita' costituzionale dell'art. 3, commi 2 e 3, del d.lgs. n. 149 del 2011, nel testo vigente a seguito della modifica introdotta dall'art. 1, comma 3, lettera a), numero 8), del decreto legislativo 15 novembre 2011, n. 195 (Disposizioni correttive ed integrative al decreto legislativo 2 luglio 2010, n. 104, recante codice del processo amministrativo a norma dell'articolo 44, comma 4, della legge 18 giugno 2009, n. 69)".
 
-#### Art. 4
+### Art. 4
 
 Relazione di fine mandato provinciale e comunale
 
@@ -162,7 +160,7 @@ f) quantificazione della misura dell'indebitamento provinciale o comunale.
 
 6\. In caso di mancato adempimento dell'obbligo di redazione e di pubblicazione, nel sito istituzionale dell'ente, della relazione di fine mandato, al sindaco e, qualora non abbia predisposto la relazione, al responsabile del servizio finanziario del comune o al segretario generale e' ridotto della meta', con riferimento alle tre successive mensilita', rispettivamente, l'importo dell'indennita' di mandato e degli emolumenti. Il sindaco e', inoltre, tenuto a dare notizia della mancata pubblicazione della relazione, motivandone le ragioni, nella pagina principale del sito istituzionale dell'ente.
 
-#### Art. 4-bis - Relazione di inizio mandato provinciale e comunale
+### Art. 4-bis - Relazione di inizio mandato provinciale e comunale
 
 1\. Al fine di garantire il coordinamento della finanza pubblica, il rispetto dell'unita' economica e giuridica della Repubblica e il principio di trasparenza delle decisioni di entrata e di spesa, le province e i comuni sono tenuti a redigere una relazione di inizio mandato, volta a verificare la situazione finanziaria e patrimoniale e la misura dell'indebitamento dei medesimi enti.
 
@@ -176,7 +174,7 @@ AGGIORNAMENTO (7)
 
 Il D.L. 31 agosto 2013, n. 102, convertito con modificazioni dalla L. 28 ottobre 2013, n. 124, ha disposto (con l'art. 8, comma 3) che "Il termine per la redazione e la sottoscrizione della relazione di inizio mandato degli enti locali, il cui mandato consiliare ha avuto inizio in data successiva al 31 maggio 2013, e' differito al 30 novembre 2013, in deroga al termine di cui all'articolo 4-bis del decreto legislativo 6 settembre 2011, n. 149".
 
-#### Art. 5
+### Art. 5
 
 Regolarita' della gestione amministrativo-contabile
 
@@ -204,7 +202,7 @@ AGGIORNAMENTO (6)
 
 La Corte Costituzionale, con sentenza 16 - 19 luglio 2013, n. 219 (in G.U. 1a s.s. 24/7/2013, n. 30), ha dichiarato "l'illegittimita' costituzionale dell'art. 5 del d.lgs. n. 149 del 2011, nel testo introdotto dall'art. 1-bis, comma 4, del d.l. n. 174 del 2012, come modificato dalla legge di conversione n. 213 del 2012, nella parte in cui si applica alle Regioni a statuto ordinario e a statuto speciale, e alle Province autonome".
 
-#### Art. 6
+### Art. 6
 
 Responsabilita' politica del presidente di provincia e del sindaco
 
@@ -222,7 +220,7 @@ AGGIORNAMENTO (10)
 
 Il D.L. 17 maggio 2022, n. 50, convertito con modificazioni dalla L. 15 luglio 2022, n. 91, ha disposto (con l'art. 43, comma 5) che "Per il periodo di due anni dalla sottoscrizione dell'accordo di cui al comma 2 sono sospese le misure di cui all'articolo 6, comma 2, del decreto legislativo 6 settembre 2011, n. 149, limitatamente alla dichiarazione di dissesto. La sospensione di cui al primo periodo decade nel caso di mancata deliberazione delle misure concordate entro i termini stabiliti nell'accordo".
 
-#### Art. 7
+### Art. 7
 
 Mancato rispetto del patto di stabilita' interno
 
@@ -246,11 +244,9 @@ AGGIORNAMENTO (6)
 
 La Corte Costituzionale, con sentenza 16 - 19 luglio 2013, n. 219 (in G.U. 1a s.s. 24/7/2013, n. 30), ha dichiarato "l'illegittimita' costituzionale dell'art. 7 del d.lgs. n. 149 del 2011, nel testo vigente a seguito delle modifiche introdotte dall'art. 1 della legge 24 dicembre 2012, n. 228, recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge di stabilita' 2013)», nella parte in cui si applica alle Regioni a statuto speciale e alle Province autonome".
 
-## Capo II
+## Capo II - MECCANISMI PREMIALI
 
-### MECCANISMI PREMIALI
-
-#### Art. 8
+### Art. 8
 
 Ulteriori disposizioni concernenti il patto
 
@@ -284,7 +280,7 @@ di stabilita' interno
 
 > g-quater) a decorrere dall'anno 2011, delle spese in conto capitale, nei limiti delle somme effettivamente incassate entro il 30 novembre di ciascun anno, relative al gettito derivante dall'attivita' di recupero fiscale ai sensi dell'articolo 9 del decreto legislativo 6 maggio 2011, n. 68, acquisite in apposito capitolo di bilancio.".
 
-#### Art. 9
+### Art. 9
 
 Ulteriori meccanismi premiali
 
@@ -300,7 +296,7 @@ Ulteriori meccanismi premiali
 
 > Ai fini ed agli effetti di cui al periodo precedente, si considerano adempienti le Regioni a statuto ordinario che hanno registrato un rapporto uguale o inferiore alla media nazionale fra spesa di personale e spesa corrente al netto delle spese per i ripiani dei disavanzi sanitari e del surplus di spesa rispetto agli obiettivi programmati dal patto di stabilita' interno e che hanno rispettato il patto di stabilita' interno. Con decreto di natura non regolamentare del Ministro dell'economia e delle finanze, sentita la Conferenza Stato-Regioni, sono stabiliti modalita', tempi e criteri per l'attuazione del presente comma. Ai lavori della Conferenza Stato-Regioni partecipano due rappresentanti delle Assemblee legislative regionali designati d'intesa tra loro nell'ambito della Conferenza dei Presidenti dell'Assemblea, dei Consigli regionali e delle province autonome di cui agli articoli 5, 8 e 15 della legge 4 febbraio 2005, n. 11.".
 
-#### Art. 10
+### Art. 10
 
 Contrasto all'evasione fiscale
 
@@ -310,7 +306,7 @@ Contrasto all'evasione fiscale
 
 3\. Con provvedimento del direttore dell'Agenzia delle entrate, adottato entro novanta giorni dalla data di entrata in vigore del presente decreto legislativo, d'intesa con la Conferenza Stato - citta' ed autonomie locali, sentito il Garante per la protezione dei dati personali e sentita DigitPA per quanto di rispettiva competenza, sono stabilite le modalita' tecniche di accesso per le province alle banche dati e, sulla base di motivata richiesta, di fruizione e tracciabilita' delle informazioni reddituali relative ai contribuenti in esse residenti, nonche' quelle della partecipazione delle province all'accertamento fiscale di cui al comma 1. Per le attivita' di supporto all'esercizio di detta funzione di competenza provinciale, le province possono avvalersi delle societa' e degli enti partecipati dalle province stesse ovvero degli affidatari delle entrate provinciali i quali, pertanto, devono garantire alle province l'accesso alle banche dati utilizzate.
 
-#### Art. 11
+### Art. 11
 
 Collaborazione nella gestione organica dei tributi
 
@@ -320,7 +316,7 @@ Collaborazione nella gestione organica dei tributi
 
 3\. Nel rispetto della propria autonomia organizzativa le province possono definire con specifica convenzione con il Ministero dell'economia e delle finanze le modalita' gestionali e operative di ripartizione degli introiti derivanti dall'attivita' di recupero dell'evasione.
 
-#### Art. 12
+### Art. 12
 
 Ulteriori forme premiali per l'azione di contrasto
 
@@ -338,11 +334,9 @@ c) le misure premiali o sanzionatorie in relazione al raggiungimento degli obiet
 
 3\. Ove l'accordo di cui al comma 1 non sia raggiunto entro il termine di un anno dalla data di entrata in vigore del presente decreto legislativo, le misure di cui ai commi 1 e 2 sono fissate con decreto del Presidente del Consiglio dei ministri, previa valutazione congiunta in sede di Conferenza unificata.
 
-## Capo III
+## Capo III - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-#### Art. 13
+### Art. 13
 
 Disposizioni concernenti le Regioni a statuto speciale e le province autonome di Trento e di Bolzano
 
@@ -354,7 +348,7 @@ AGGIORNAMENTO (6)
 
 La Corte Costituzionale, con sentenza 16 - 19 luglio 2013, n. 219 (in G.U. 1a s.s. 24/7/2013, n. 30), ha dichiarato "l'illegittimita' costituzionale dell'art. 13, secondo periodo, del d.lgs. n. 149 del 2011".
 
-#### Art. 14
+### Art. 14
 
 Fabbisogni standard delle amministrazioni centrali e periferiche dello Stato e responsabilita' politica dei ministri
 
@@ -394,7 +388,7 @@ Fabbisogni standard delle amministrazioni centrali e periferiche dello Stato e r
 
 > La mozione di sfiducia deve essere firmata da almeno un decimo dei componenti della Camera e non puo' essere messa in discussione prima di tre giorni dalla sua presentazione.".
 
-#### Art. 15
+### Art. 15
 
 Riordino dei termini per la trasmissione dei dati
 
@@ -408,7 +402,7 @@ degli enti territoriali
 
 > Per il testo dell'art. 13 della legge n. 196 del 2009, vedasi nelle Note all'art. 1.
 
-#### Art. 16
+### Art. 16
 
 Interventi del settore creditizio a favore del pagamento
 

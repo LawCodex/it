@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo di partenariato e di cooperazione tra le Comunita' europee ed i loro Stati membri, da una parte, e la Repubblica di Tagikistan dall'altra, con allegati e Protocollo, fatto a Lussemburgo l'11 ottobre 2004.
 
-##### Art. 2
+#### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 100 dell'Accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 Copertura finanziaria
 
@@ -47,7 +47,7 @@ Copertura finanziaria
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 Entrata in vigore
 
@@ -179,7 +179,7 @@ DESIDEROSI di avviare una stretta cooperazione in materia di tutela dell'ambient
 
 RICONOSCENDO che la cooperazione per la prevenzione e il controllo dell'immigrazione illegale, della criminalita' internazionale organizzata e del traffico di stupefacenti, nonche' la lotta al terrorismo costituiscono obiettivi prioritari del presente accordo, DESIDEROSI di avviare una cooperazione in campo culturale e nel settore dell'istruzione e di migliorare gli scambi di informazioni, HANNO DECISO QUANTO SEGUE:
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 E' istituito un partenariato tra la Comunita' e i suoi Stati membri, da una parte, e la Repubblica di Tagikistan, dall'altra. Gli obiettivi del partenariato sono:
 
@@ -195,17 +195,17 @@ E' istituito un partenariato tra la Comunita' e i suoi Stati membri, da una part
 
 ## TITOLO I - PRINCIPI GENERALI
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Il rispetto dei principi democratici e dei diritti umani fondamentali sanciti, in particolare, dalla Dichiarazione universale dei diritti dell'uomo, dalla Carta delle Nazioni Unite, dall'Atto finale di Helsinki e dalla Carta di Parigi per una nuova Europa, e' alla base delle politiche interna ed estera delle Parti e costituisce un elemento fondamentale del presente accordo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Le Parti ritengono fondamentale, per le loro future prosperita' e stabilita', che i nuovi Stati indipendenti sorti dopo lo scioglimento dell'Unione delle Repubbliche Socialiste Sovietiche (in prosieguo denominati "Stati indipendenti") mantengano e sviluppino la cooperazione tra di essi conformemente ai principi dell'Atto finale di Helsinki e al diritto internazionale, in uno spirito di buon vicinato, e che moltiplichino gli sforzi per promuovere questo processo.
 
 ## TITOLO II - DIALOGO POLITICO
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Le Parti avviano un regolare e costante dialogo politico, che intendono sviluppare e intensificare per accompagnare e consolidare il ravvicinamento tra la Comunita' e la Repubblica di Tagikistan, sostenere i mutamenti politici e socioeconomici in corso nel paese e contribuire ad instaurare nuove forme di cooperazione. Detto dialogo politico:
 
@@ -225,11 +225,11 @@ Le Parti convengono inoltre di cooperare e di contribuire alla lotta contro la p
 
 \- la creazione di un sistema efficace di controlli nazionali all'esportazione, riguardante tanto l'esportazione quanto il transito dei beni legati alle armi di distruzione di massa, compreso un controllo dell'impiego finale esercitato sulle tecnologie a duplice uso nel quadro delle armi di distruzione di massa, che preveda sanzioni efficaci in caso di violazione dei controlli all'esportazione. Il dialogo puo' svolgersi a livello regionale.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 A livello ministeriale, il dialogo politico si svolgera' nell'ambito del consiglio di cooperazione istituito a norma dell'articolo 77 o, previo mutuo accordo, in altre occasioni.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Le Parti creeranno altre procedure e altri meccanismi per il dialogo politico, in particolare nelle forme seguenti:
 
@@ -241,7 +241,7 @@ Le Parti creeranno altre procedure e altri meccanismi per il dialogo politico, i
 
 ## TITOLO III - SCAMBI DI MERCI
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 1\. Le Parti si concedono reciprocamente il trattamento della nazione piu' favorita in tutti settori, per quanto riguarda:
 
@@ -265,7 +265,7 @@ c) ai vantaggi concessi ai paesi limitrofi per agevolare il traffico frontaliero
 
 3\. Le disposizioni del paragrafo 1 non si applicano, per un periodo transitorio che scadra' cinque anni dopo l'entrata in vigore del presente accordo, ai vantaggi definiti nell'allegato I concessi dalla Repubblica di Tagikistan agli altri Stati indipendenti dell'ex URSS.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 1\. Le Parti convengono che il principio del libero transito delle merci e' fondamentale per conseguire gli obiettivi del presente accordo.
 
@@ -275,11 +275,11 @@ A tale riguardo, ciascuna delle Parti consente il transito senza restrizioni att
 
 3\. Le disposizioni del presente articolo lasciano impregiudicate tutte le norme speciali concordate tra le Parti relative a settori particolari quali i trasporti o a determinati prodotti.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Fatti salvi i diritti e gli obblighi derivanti dalle convenzioni internazionali sull'ammissione temporanea delle merci cui hanno aderito entrambe le Parti, ciascuna Parte concede all'altra l'esenzione dagli oneri all'importazione e dai dazi sulle merci in ammissione temporanea, nei casi e secondo le procedure previsti da qualsiasi altra convenzione internazionale in materia cui abbia aderito, secondo la propria legislazione. Si terra' conto delle condizioni alle quali le Parti hanno accettato gli obblighi derivanti da tale convenzione.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 1\. Le merci originarie della Repubblica di Tagikistan sono importate nella Comunita' in esenzione da restrizioni quantitative o misure di effetto equivalente, fatte salve le disposizioni degli articoli 12, 15 e 16 del presente accordo.
 
@@ -289,11 +289,11 @@ equivalente, fatte salve le disposizioni degli articoli 12, 15 e
 
 16 del presente accordo.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Le merci vengono commercializzate tra le Parti ai prezzi di mercato.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 1\. Se un prodotto e' importato nel territorio di una delle Parti in quantitativi talmente grandi o in condizioni tali da provocare o minacciare di provocare pregiudizio ai produttori nazionali di prodotti simili o direttamente concorrenti, la Comunita' o la Repubblica di Tagikistan, a seconda dei casi, possono prendere le misure opportune attenendosi alle seguenti procedure e condizioni.
 
@@ -307,45 +307,43 @@ Le merci vengono commercializzate tra le Parti ai prezzi di mercato.
 
 6\. Nessuna disposizione del presente articolo pregiudica ne' compromette minimamente l'adozione, ad opera di una delle Parti, di misure antidumping o compensative a norma dell'articolo VI del GATT 1994, dell'accordo sull'applicazione dell'articolo VI del GATT 1994, dell'accordo sulle sovvenzioni e sulle misure compensative o della relativa legislazione interna.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Le Parti si impegnano ad adeguare le disposizioni del presente accordo relative agli scambi di merci tra di esse in funzione delle circostanze, in particolare la futura adesione della Repubblica di Tagikistan all'OMC. Il consiglio di cooperazione puo' formulare raccomandazioni alle Parti su questi adeguamenti; se le accettano, le Parti possono procedere a detti adeguamenti mediante un accordo concluso secondo le rispettive procedure.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Il presente accordo lascia impregiudicati i divieti o le restrizioni sulle importazioni, sulle esportazioni o sul transito giustificati da motivi di moralita' pubblica, di ordine pubblico, di pubblica sicurezza, dalla tutela della vita e della salute delle persone, degli animali o delle piante, dalla tutela delle risorse naturali, dalla protezione del patrimonio artistico, storico o archeologico nazionale, dalla tutela della proprieta' intellettuale, industriale o commerciale oppure da norme relative all'oro e all'argento. Tuttavia, tali divieti e restrizioni non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio tra le Parti.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Gli scambi di prodotti tessili che rientrano nei capitoli 50-63 della nomenclatura combinata sono disciplinati da un accordo bilaterale distinto. Alla scadenza di quest'ultimo, i prodotti tessili vengono integrati nel presente accordo.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 Agli scambi di materiali nucleari si applicheranno le disposizioni del trattato che istituisce la Comunita' europea dell'energia atomica. All'occorrenza, a tali scambi si applicheranno le disposizioni di un accordo specifico che verra' concluso tra la Comunita' europea dell'energia atomica e la Repubblica di Tagikistan.
 
 ## TITOLO IV - DISPOSIZIONI RIGUARDANTI LE ATTIVITA' COMMERCIALI E GLI INVESTIMENTI
 
-### CAPITOLO I
+### CAPITOLO I - CONDIZIONI DI LAVORO
 
-#### CONDIZIONI DI LAVORO
-
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 1\. Conformemente alle leggi, condizioni e procedure applicabili in ciascuno Stato membro, la Comunita' e gli Stati membri si adoperano per evitare che i cittadini della Repubblica di Tagikistan legalmente residenti e impiegati sul territorio di uno Stato membro siano oggetto, rispetto ai cittadini di questo, di discriminazioni basate sulla nazionalita' per quanto riguarda le condizioni di lavoro, di retribuzione o di licenziamento.
 
 2\. Conformemente alle leggi, condizioni e procedure applicabili nel Tagikistan, tale paese si adopera per evitare che i cittadini di uno Stato membro legalmente residenti e impiegati sul suo territorio siano oggetto, rispetto ai suoi cittadini, di discriminazioni basate sulla nazionalita' per quanto riguarda le condizioni di lavoro, di retribuzione o di licenziamento.
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 Il consiglio di cooperazione esamina in che modo sia possibile migliorare le condizioni di lavoro per gli uomini d'affari in base agli impegni internazionali delle Parti, compresi quelli che figurano nel documento della conferenza CSCE di Bonn.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 Il consiglio di cooperazione formula raccomandazioni per l'applicazione degli articoli 17 e 18.
 
-## CAPITOLO II - CONDIZIONI PER LO STABILIMENTO E L'ATTIVITA' DELLE SOCIETA'
+### CAPITOLO II - CONDIZIONI PER LO STABILIMENTO E L'ATTIVITA' DELLE SOCIETA'
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 1\. La Comunita' e gli Stati membri concedono, per lo stabilimento delle societa' tagike ai sensi dell'articolo 22, lettera d), un trattamento non meno favorevole di quello concesso alle societa' dei paesi terzi.
 
@@ -357,7 +355,7 @@ Il consiglio di cooperazione formula raccomandazioni per l'applicazione degli ar
 
 5\. La Repubblica di Tagikistan concede alle controllate e alle filiali di societa' comunitarie stabilite sul suo territorio un trattamento non meno favorevole, per la loro attivita', di quello concesso alle proprie societa' oppure, se migliore, alle societa' e alle filiali di societa' dei paesi terzi.
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 1\. Le disposizioni dell'articolo 20 non si applicano al trasporto aereo, fluviale e marittimo.
 
@@ -377,7 +375,7 @@ e) la conclusione di accordi commerciali, compresa la partecipazione al capitale
 
 f) l'organizzazione, a nome delle societa', dello scalo della nave o, se necessario, la ripresa del carico.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 Ai fini del presente accordo:
 
@@ -397,7 +395,7 @@ f) Per "attivita' economiche" si intendono le attivita' di natura industriale, c
 
 Per quanto riguarda il trasporto marittimo internazionale, incluse le operazioni intermodali che comprendono una tratta marittima, beneficiano delle disposizioni del presente capitolo e del capitolo III i cittadini degli Stati membri o della Repubblica di Tagikistan stabiliti al di fuori della Comunita' o della Repubblica di Tagikistan e le agenzie marittime stabilite al di fuori della Comunita' o della Repubblica di Tagikistan e controllate da cittadini di uno Stato membro o della Repubblica di Tagikistan, se le loro navi sono registrate in detto Stato membro o nella Repubblica di Tagikistan in conformita' delle rispettive legislazioni.
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 1\. Fatte salve le altre disposizioni dell'accordo, ciascuna Parte puo' adottare misure cautelative per tutelare gli investitori, i depositanti, gli assicurati o le persone nei confronti delle quali un fornitore di servizi finanziari ha un obbligo fiduciario, oppure per garantire l'integrita' e la stabilita' del sistema finanziario.
 
@@ -407,11 +405,11 @@ Qualora tali misure non siano conformi alle disposizioni del presente accordo es
 
 3\. Ai fini del presente accordo, per "servizi finanziari" si intendono le attivita' descritte nell'allegato III.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 Le disposizioni del presente accordo non pregiudicano l'applicazione, ad opera delle Parti, delle misure necessarie per impedire l'elusione delle misure riguardanti l'accesso dei paesi terzi al loro mercato attraverso le disposizioni del presente accordo.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 1\. Fatte salve le disposizioni del capitolo I del presente titolo, una societa' comunitaria o tagika stabilita, rispettivamente, sul territorio della Repubblica di Tagikistan o della Comunita', ha il diritto di assumere o di far assumere da una delle sue controllate o filiali, conformemente alla legislazione in vigore nel paese di stabilimento, sul territorio, rispettivamente della Repubblica di Tagikistan e della Comunita', cittadini degli Stati membri della Comunita' e della Repubblica di Tagikistan, purche' si tratti di quadri intermedi a norma del paragrafo 2 del presente articolo, impiegati esclusivamente da tali societa' o filiali. I permessi di soggiorno e di lavoro di questi dipendenti coprono unicamente la durata di tale occupazione.
 
@@ -429,7 +427,7 @@ b) i dipendenti di un'organizzazione in possesso di conoscenze non comuni indisp
 
 c) per "persona trasferita all'interno della societa'" s'intende una persona fisica che lavora presso un'organizzazione sul territorio di una delle Parti e temporaneamente trasferita nel quadro di attivita' economiche svolte sul territorio dell'altra Parte; l'organizzazione in questione deve avere la sede principale sul territorio di una Parte e il trasferimento deve avvenire verso un'impresa (filiale, controllata) di questa organizzazione, che effettivamente svolge attivita' economiche simili sul territorio dell'altra Parte.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 1\. Le Parti si adoperano per evitare di adottare misure o avviare azioni tali da rendere le condizioni per lo stabilimento e l'attivita' delle loro societa' piu' restrittive rispetto alla situazione esistente il giorno che precede la firma dell'accordo.
 
@@ -439,19 +437,19 @@ c) per "persona trasferita all'interno della societa'" s'intende una persona fis
 
 4\. Qualora l'introduzione nella Repubblica di Tagikistan di nuove leggi o di nuovi regolamenti renda le condizioni per l'attivita' delle controllate e delle filiali di societa' comunitarie stabilite nella Repubblica di Tagikistan piu' restrittive rispetto alla situazione esistente il giorno della firma del presente accordo, dette leggi o detti regolamenti non si applicano, per i tre anni successivi all'entrata in vigore dell'atto in questione, alle controllate e alle filiali gia' stabilite nella Repubblica di Tagikistan al momento dell'entrata in vigore dell'atto stesso.
 
-## CAPITOLO III - SERVIZI TRANSFRONTALIERI TRA LA COMUNITA' E LA REPUBBLICA DI TAGIKISTAN
+### CAPITOLO III - SERVIZI TRANSFRONTALIERI TRA LA COMUNITA' E LA REPUBBLICA DI TAGIKISTAN
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 1\. Conformemente alle disposizioni del presente capitolo, le Parti si impegnano a prendere le misure necessarie per autorizzare progressivamente la fornitura di servizi da parte di societa' comunitarie o tagike stabilite in una Parte diversa da quella del destinatario dei servizi, tenendo conto dell'evoluzione del settore terziario delle Parti.
 
 2\. Il consiglio di cooperazione formula raccomandazioni per l'applicazione del paragrafo 1 del presente articolo.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 Le Parti collaborano al fine di sviluppare nella Repubblica di Tagikistan un settore terziario orientato verso il mercato.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 1\. Le Parti si impegnano ad applicare efficacemente il principio dell'accesso illimitato al mercato e al traffico marittimo internazionale su base commerciale.
 
@@ -471,35 +469,35 @@ d) all'entrata in vigore dell'accordo aboliscono tutte le misure unilaterali, no
 
 3\. Ogni Parte concede, tra l'altro, alle navi che battono bandiera dell'altra Parte un trattamento non meno favorevole di quello riservato alle sue navi per quanto riguarda l'accesso ai porti aperti al commercio internazionale, l'uso delle infrastrutture e dei servizi marittimi ausiliari dei porti, nonche' i relativi diritti e oneri, le agevolazioni doganali e l'assegnazione di ormeggi e di infrastrutture per il carico e lo scarico.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 Al fine di garantire uno sviluppo coordinato dei trasporti tra le Parti in funzione delle loro esigenze commerciali, le condizioni del reciproco accesso al mercato nonche' la fornitura di servizi di trasporto stradale, ferroviario, fluviale e, se del caso, aereo potranno essere trattate da specifici accordi, negoziati se necessario dalle Parti, dopo l'entrata in vigore del presente accordo.
 
-## CAPITOLO IV - DISPOSIZIONI GENERALI
+### CAPITOLO IV - DISPOSIZIONI GENERALI
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 1\. L'applicazione delle disposizioni del presente titolo e' soggetta alle limitazioni giustificate da motivi di ordine pubblico, pubblica sicurezza o pubblica sanita'.
 
 2\. Dette disposizioni non si applicano alle attivita', svolte sul territorio delle Parti, connesse, anche occasionalmente, all'esercizio delle potesta' pubbliche.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 Ai fini del presente titolo nessuno degli elementi del presente accordo vieta alle Parti di applicare le rispettive leggi e regolamenti in materia di ingresso e soggiorno, occupazione, condizioni di lavoro e di stabilimento delle persone fisiche e fornitura di servizi, purche' non le applichino in modo da vanificare o compromettere i vantaggi risultanti per una delle Parti da una disposizione specifica del presente accordo. Quanto precede non pregiudica l'applicazione dell'articolo 31.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 Beneficiano delle disposizioni dei capitoli II, III e IV anche le societa' controllate e possedute esclusivamente e congiuntamente da societa' tagike e comunitarie.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 A decorrere dal primo giorno del mese che precede l'entrata in vigore dei corrispondenti obblighi dell'Accordo generale sul commercio e sui servizi (GATS), il trattamento concesso da ciascuna Parte all'altra ai sensi del presente accordo per i settori o le misure contemplati dal GATS non puo' comunque essere piu' favorevole di quello concesso dalla Parte in questione a norma del GATS per ciascun settore, sottosettore e modo di fornitura dei servizi.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 Ai fini dei capitoli II, III e IV non si tiene conto del trattamento concesso dalla Comunita', dai suoi Stati membri o dalla Repubblica di Tagikistan in base agli impegni assunti nel quadro di accordi di integrazione economica a norma dei principi dell'articolo V del GATS.
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 1\. Il trattamento della nazione piu' favorita concesso a norma del presente titolo non si applica ai vantaggi fiscali gia' concessi o che le Parti concederanno in base ad accordi tesi a evitare la doppia imposizione o ad altre intese fiscali.
 
@@ -507,7 +505,7 @@ Ai fini dei capitoli II, III e IV non si tiene conto del trattamento concesso da
 
 3\. Nessuna disposizione del presente titolo vieta agli Stati membri o alla Repubblica di Tagikistan di operare distinzioni, nell'applicare le pertinenti disposizioni della loro legislazione tributaria, tra contribuenti la cui situazione non e' identica, in particolare per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 Fatto salvo l'articolo 24, nessuna disposizione dei capitoli II, III e IV autorizza:
 
@@ -521,9 +519,9 @@ Fatto salvo l'articolo 24, nessuna disposizione dei capitoli II, III e IV autori
 
 \- le societa' comunitarie o le filiali o controllate tagike di societa' comunitarie a distaccare, in base a contratti temporanei, lavoratori degli Stati membri.
 
-## CAPITOLO V - PAGAMENTI CORRENTI E CAPITALE
+### CAPITOLO V - PAGAMENTI CORRENTI E CAPITALE
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 1\. Le Parti si impegnano ad autorizzare l'uso di moneta liberamente convertibile per tutti i pagamenti sul conto corrente della bilancia dei pagamenti tra residenti della Comunita' e della Repubblica di Tagikistan in relazione alla circolazione di beni, servizi o persone che avvenga conformemente alle disposizioni del presente accordo.
 
@@ -537,9 +535,9 @@ Fatto salvo l'articolo 24, nessuna disposizione dei capitoli II, III e IV autori
 
 6\. Fatti salvi i paragrafi 1 e 2, qualora, in circostanze eccezionali, la libera circolazione dei capitali tra la Comunita' e la Repubblica di Tagikistan provochi o minacci di provocare gravi difficolta' per la gestione delle politiche valutarie o monetarie della Comunita' o del Tagikistan, ciascuna Parte rispettivamente puo' adottare misure di salvaguardia in merito per un periodo non superiore a sei mesi, a condizione che dette misure siano assolutamente necessarie.
 
-## CAPITOLO VI - TUTELA DELLA PROPRIETA' INTELLETTUALE, INDUSTRIALE E COMMERCIALE
+### CAPITOLO VI - TUTELA DELLA PROPRIETA' INTELLETTUALE, INDUSTRIALE E COMMERCIALE
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 1\. Conformemente alle disposizioni del presente articolo e dell'allegato IV, la Repubblica di Tagikistan continua a migliorare la tutela dei diritti di proprieta' intellettuale, industriale e commerciale al fine di garantire, entro la fine del quinto anno dall'entrata in vigore dell'accordo, un livello di protezione analogo a quello esistente nella Comunita', prevedendo anche strumenti efficaci per garantire il rispetto di tali diritti.
 
@@ -547,7 +545,7 @@ Fatto salvo l'articolo 24, nessuna disposizione dei capitoli II, III e IV autori
 
 ## TITOLO V - COOPERAZIONE LEGISLATIVA
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 1\. Le Parti riconoscono che il ravvicinamento della legislazione attuale e futura della Repubblica di Tagikistan a quella della Comunita' e' fondamentale per il consolidamento dei vincoli economici tra le Parti. La Repubblica di Tagikistan si adoperera' per rendere la propria legislazione progressivamente compatibile con quella della Comunita'.
 
@@ -569,7 +567,7 @@ Fatto salvo l'articolo 24, nessuna disposizione dei capitoli II, III e IV autori
 
 ## TITOLO VI - COOPERAZIONE SOCIOECONOMICA
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 1\. La Comunita' e la Repubblica di Tagikistan avviano una cooperazione economica per favorire il processo di riforma e di rilancio dell'economia, nonche' lo sviluppo sostenibile della Repubblica di Tagikistan. La cooperazione rafforzera' i vincoli economici a vantaggio delle Parti.
 
@@ -581,7 +579,7 @@ Fatto salvo l'articolo 24, nessuna disposizione dei capitoli II, III e IV autori
 
 5\. Se del caso, la Comunita' puo' fornire assistenza tecnica per la cooperazione economica e le altre forme di cooperazione previste dal presente accordo tenendo conto del regolamento del Consiglio relativo all'assistenza tecnica a favore degli Stati indipendenti, delle priorita' concordate nel programma indicativo per l'assistenza tecnica della Comunita' all'Asia centrale e della sua applicazione al Tagikistan e delle procedure stabilite per il coordinamento e l'attuazione. La Repubblica di Tagikistan puo' beneficiare altresi' di altri programmi comunitari conformemente ai regolamenti pertinenti adottati dal Consiglio.
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 Cooperazione per gli scambi di beni e servizi
 
@@ -593,7 +591,7 @@ La cooperazione riguardera' aspetti specifici direttamente collegati all'agevola
 
 \- l'elaborazione della legislazione pertinente.
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 Cooperazione industriale
 
@@ -619,7 +617,7 @@ Cooperazione industriale
 
 2\. Le disposizioni del presente articolo non pregiudicano l'applicazione delle regole di concorrenza comunitarie applicabili alle imprese.
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 Promozione e tutela degli investimenti
 
@@ -635,13 +633,13 @@ Promozione e tutela degli investimenti
 
 \- lo scambio di informazioni sulle possibilita' di investimenti sotto forma, tra l'altro, di fiere commerciali, esposizioni, settimane commerciali e altre manifestazioni.
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 Commesse pubbliche
 
 Le Parti collaborano per favorire la trasparenza e il rispetto delle regole di concorrenza nell'aggiudicazione degli appalti per beni e servizi, in particolare mediante bandi di gara.
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 Cooperazione in materia di standard e di valutazione della conformita'
 
@@ -655,7 +653,7 @@ Cooperazione in materia di standard e di valutazione della conformita'
 
 \- mettere in comune l'esperienza e le informazioni tecniche in materia di gestione della qualita'.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 Prodotti minerari e materie prime
 
@@ -675,7 +673,7 @@ Prodotti minerari e materie prime
 
 \- la sicurezza nell'industria mineraria.
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 Cooperazione scientifica e tecnologica
 
@@ -697,7 +695,7 @@ Nello svolgimento di queste attivita' di cooperazione, particolare attenzione e'
 
 3\. La cooperazione prevista al presente articolo e' attuata in base ad intese specifiche da negoziare e concludere secondo le procedure adottate da ciascuna Parte definendo, tra l'altro, opportune disposizioni in materia di DPI.
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 Istruzione e formazione
 
@@ -723,13 +721,13 @@ Istruzione e formazione
 
 3\. L'eventuale partecipazione di una Parte ai programmi dell'altra in materia di istruzione e formazione potra' essere esaminata secondo le rispettive procedure; all'occorrenza, saranno definiti quadri istituzionali e programmi di cooperazione basandosi sulla partecipazione della Repubblica di Tagikistan al programma TEMPUS della Comunita'.
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 Agricoltura e settore agroindustriale
 
 La cooperazione in questo settore si prefigge il conseguimento della riforma agraria e della riforma delle strutture agricole, l'ammodernamento, la lotta contro le malattie, la privatizzazione e la ristrutturazione dell'agricoltura, dell'allevamento, dell'agroindustria e del terziario nella Repubblica di Tagikistan, lo sviluppo dei mercati interno ed estero per i prodotti tagiki, tutelando anche l'ambiente e tenendo conto dell'esigenza di migliorare l'approvvigionamento alimentare, nonche' lo sviluppo delle imprese di produzione, di trasformazione e di distribuzione dei prodotti agricoli. Le Parti cercano inoltre di ravvicinare progressivamente le norme tagike alle norme tecniche comunitarie in materia di prodotti alimentari industriali e agricoli, comprese le norme sanitarie e fitosanitarie.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 Energia
 
@@ -757,7 +755,7 @@ Energia
 
 3\. Le Parti si scambiano informazioni sui progetti d'investimenti nel settore energetico, in particolare per quanto riguarda la produzione di risorse energetiche e la costruzione e il ripristino degli oleodotti, dei gasdotti o degli altri mezzi di trasporto dei prodotti energetici. Le Parti annettono particolare importanza alla cooperazione in materia di investimenti nel settore energetico e al modo in cui sono disciplinati. Esse collaborano per applicare al meglio le disposizioni del Titolo IV e dell'articolo 44 riguardo agli investimenti nel settore energetico.
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 Ambiente e salute
 
@@ -815,7 +813,7 @@ il ravvicinamento delle leggi alle norme comunitarie;
 
 4\. Le Parti si adoperano per sviluppare la cooperazione su questioni sanitarie, in particolare attraverso l'assistenza tecnica per la prevenzione e la lotta contro le malattie infettive e la tutela delle madri e dei bambini.
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 Trasporti
 
@@ -837,7 +835,7 @@ La cooperazione comprende:
 
 \- la semplificazione delle procedure per qualsiasi forma di trasporto nella regione.
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 Comunicazioni elettroniche e servizi postali
 
@@ -861,7 +859,7 @@ Nell'ambito dei rispettivi poteri e delle rispettive competenze, le Parti amplia
 
 \- impartire la formazione necessaria per gestire i servizi di comunicazione elettronica e postali in normali condizioni di mercato.
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 Servizi finanziari e istituzioni fiscali
 
@@ -877,7 +875,7 @@ La cooperazione contribuisce in particolare a sviluppare le relazioni tra le Par
 
 2\. Le Parti collaborano per sviluppare il sistema tributario e le istituzioni fiscali nella Repubblica di Tagikistan scambiandosi, tra l'altro, informazioni ed esperienze in materia e formando il personale incaricato di elaborare e di attuare la politica tributaria.
 
-##### ARTICOLO 56
+#### ARTICOLO 56
 
 Ristrutturazione e privatizzazione delle imprese
 
@@ -899,7 +897,7 @@ L'assistenza tecnica si concentra tra l'altro sui seguenti aspetti:
 
 La cooperazione mira altresi' a promuovere gli investimenti comunitari nella Repubblica di Tagikistan.
 
-##### ARTICOLO 57
+#### ARTICOLO 57
 
 Sviluppo regionale
 
@@ -909,7 +907,7 @@ Sviluppo regionale
 
 Esse incoraggiano inoltre i contatti diretti tra le rispettive organizzazioni regionali e organizzazioni pubbliche incaricate di programmare lo sviluppo regionale per consentire loro fra l'altro di scambiare informazioni relative agli strumenti per incentivare lo sviluppo regionale.
 
-##### ARTICOLO 58
+#### ARTICOLO 58
 
 Cooperazione sociale
 
@@ -941,7 +939,7 @@ La cooperazione comprende in particolare:
 
 Dette riforme mirano ad introdurre nella Repubblica di Tagikistan metodi di protezione consoni alle economie di mercato e comprendono tutte le forme di previdenza sociale pertinenti.
 
-##### ARTICOLO 59
+#### ARTICOLO 59
 
 Turismo
 
@@ -959,7 +957,7 @@ Le Parti intensificano e sviluppano la cooperazione, che comprende azioni intese
 
 \- impartire la formazione necessaria per sviluppare il turismo.
 
-##### ARTICOLO 60
+#### ARTICOLO 60
 
 Piccole e medie imprese
 
@@ -973,19 +971,19 @@ Piccole e medie imprese
 
 \- formazione in materia di marketing, contabilita' e controllo della qualita' dei prodotti.
 
-##### ARTICOLO 61
+#### ARTICOLO 61
 
 Informazione e comunicazione
 
 Le Parti favoriscono l'elaborazione di metodi moderni per il trattamento dell'informazione, anche a livello dei mass media, e un efficace scambio di informazioni. Si privilegiano i programmi volti a divulgare tra la popolazione le informazioni di base sulla Comunita' e sulla Repubblica di Tagikistan compreso, nei limiti del possibile, l'accesso alle banche dati nel pieno rispetto dei diritti di proprieta' intellettuale.
 
-##### ARTICOLO 62
+#### ARTICOLO 62
 
 Tutela dei consumatori
 
 Le Parti collaborano strettamente per rendere compatibili i rispettivi sistemi di tutela dei consumatori. Tale cooperazione puo' comprendere scambi di informazioni sull'elaborazione delle leggi e sulla riforma istituzionale, la creazione di sistemi permanenti di informazione reciproca sui prodotti pericolosi, il miglioramento dell'informazione fornita ai consumatori, in particolare per quanto riguarda i prezzi, le caratteristiche dei prodotti e i servizi offerti, lo sviluppo degli scambi tra coloro che rappresentano gli interessi dei consumatori, una maggiore compatibilita' delle politiche di tutela dei consumatori, l'organizzazione di seminari e cicli di formazione.
 
-##### ARTICOLO 63
+#### ARTICOLO 63
 
 Dogane
 
@@ -1009,7 +1007,7 @@ Si fornira' all'occorrenza l'assistenza tecnica necessaria.
 
 3\. Fatta salva l'ulteriore cooperazione prevista nel presente accordo, in particolare al Titolo VIII, l'assistenza reciproca tra le autorita' amministrative delle Parti per le questioni doganali e' disciplinata dalle disposizioni del protocollo allegato al presente accordo.
 
-##### ARTICOLO 64
+#### ARTICOLO 64
 
 Cooperazione statistica
 
@@ -1025,7 +1023,7 @@ In particolare, le Parti cooperano al fine di:
 
 A tal fine, la Comunita' fornisce alla Repubblica di Tagikistan l'assistenza tecnica necessaria.
 
-##### ARTICOLO 65
+#### ARTICOLO 65
 
 Economia
 
@@ -1041,7 +1039,7 @@ La Comunita' fornisce assistenza tecnica per:
 
 ## TITOLO VII - COOPERAZIONE PER LE QUESTIONI RELATIVE ALLA DEMOCRAZIA E AI DIRITTI DELL'UOMO
 
-##### ARTICOLO 66
+#### ARTICOLO 66
 
 Le Parti collaborano in merito a tutte le questioni connesse all'insediamento o al potenziamento delle istituzioni democratiche, comprese quelle necessarie per consolidare lo Stato di diritto, nonche' alla tutela dei diritti dell'uomo e delle liberta' fondamentali secondo i principi del diritto internazionale e dell'OSCE.
 
@@ -1049,7 +1047,7 @@ La cooperazione in questo settore comprende programmi di assistenza tecnica per 
 
 ## TITOLO VIII - COOPERAZIONE PER LA PREVENZIONE DELLE ATTIVITA' ILLEGALI E PER LA PREVENZIONE E IL CONTROLLO DELL'IMMIGRAZIONE ILLEGALE
 
-##### ARTICOLO 67
+#### ARTICOLO 67
 
 Le Parti collaborano al fine di prevenire le attivita' illegali quali:
 
@@ -1071,7 +1069,7 @@ La cooperazione nei suddetti settori avviene mediante consultazioni e una strett
 
 \- elaborazione di misure reciprocamente accettabili per impedire le attivita' illecite.
 
-##### ARTICOLO 68
+#### ARTICOLO 68
 
 Riciclaggio del denaro
 
@@ -1079,13 +1077,13 @@ Riciclaggio del denaro
 
 2\. La cooperazione in questo settore comprende un'assistenza amministrativa e tecnica volta a definire norme adeguate contro il riciclaggio del denaro equivalenti a quelle adottate in materia dalla Comunita' e dai consessi internazionali, compresa la Task Force Azione finanziaria (FATF).
 
-##### ARTICOLO 69
+#### ARTICOLO 69
 
 Lotta contro la droga
 
 Nell'ambito dei rispettivi poteri e delle rispettive competenze, le Parti cooperano per garantire l'effettiva applicazione e aumentare l'efficacia delle politiche e delle misure volte a combattere la produzione, la fornitura e il traffico illecito di stupefacenti e sostanze psicotrope, compreso il dirottamento dei precursori verso usi diversi, e per promuovere la prevenzione e la riduzione della domanda di droga. Per quanto riguarda il controllo dei precursori chimici e di altre sostanze di base impiegate per la produzione illecita di stupefacenti e sostanze psicotrope, la cooperazione si basa sulle norme adottate dalla Comunita' e dalle autorita' internazionali interessate quali, ad esempio, quelle della CATF (Chemical Action Task Force). La cooperazione in materia si basa sulla consultazione e su uno stretto coordinamento tra le Parti per quanto riguarda gli obiettivi e le iniziative da avviare nei diversi settori connessi alla droga.
 
-##### ARTICOLO 70
+#### ARTICOLO 70
 
 Cooperazione in materia di immigrazione
 
@@ -1119,7 +1117,7 @@ Le Parti decidono di concludere, su richiesta e quanto prima, un accordo che dis
 
 A tal fine, con il termine "Parti" si intenderanno la Comunita' europea, ciascuno dei suoi Stati membri e la Repubblica di Tagikistan.
 
-##### ARTICOLO 71
+#### ARTICOLO 71
 
 Lotta al terrorismo
 
@@ -1133,35 +1131,35 @@ Le parti ribadiscono l'importanza della lotta al terrorismo e, conformemente all
 
 ## TITOLO IX - COOPERAZIONE CULTURALE
 
-##### ARTICOLO 72
+#### ARTICOLO 72
 
 Le Parti si impegnano a promuovere, incoraggiare e agevolare la cooperazione culturale. All'occorrenza, potranno essere inclusi nella cooperazione i programmi di cooperazione culturale della Comunita' o di uno o piu' Stati membri e potranno essere sviluppate altre attivita' di reciproco interesse.
 
 ## TITOLO X - COOPERAZIONE FINANZIARIA
 
-##### ARTICOLO 73
+#### ARTICOLO 73
 
 Per conseguire gli obiettivi del presente accordo e a norma degli articoli 74, 75 e 76, la Repubblica di Tagikistan beneficia di assistenza finanziaria temporanea fornita dalla Comunita' sotto forma di aiuti non rimborsabili per l'assistenza tecnica.
 
-##### ARTICOLO 74
+#### ARTICOLO 74
 
 Detta assistenza finanziaria e' disciplinata dalle disposizioni del programma Tacis e del relativo regolamento del Consiglio. La Repubblica di Tagikistan puo' beneficiare altresi' di altri tipi di assistenza comunitaria in funzione delle esigenze del paese. Verra' rivolta particolare attenzione alla concentrazione dell'aiuto, al coordinamento degli strumenti di assistenza e al collegamento tra i vari tipi di aiuto comunitario, di riabilitazione e allo sviluppo. La lotta contro la poverta' sara' integrata nei programmi comunitari.
 
-##### ARTICOLO 75
+#### ARTICOLO 75
 
 Gli obiettivi e i settori dell'assistenza finanziaria comunitaria sono stabiliti in un programma indicativo che riflette le priorita' concordate tra la Comunita' e la Repubblica di Tagikistan in funzione delle esigenze di quest'ultima, della capacita' di assorbimento dei vari settori e dello stato di avanzamento delle riforme. Le Parti ne informano il consiglio di cooperazione.
 
-##### ARTICOLO 76
+#### ARTICOLO 76
 
 Per consentire un impiego ottimale delle risorse disponibili, le Parti si adoperano affinche' i contributi comunitari per l'assistenza siano erogati in stretto coordinamento con quelli provenienti da altre fonti quali gli Stati membri, altri paesi e organizzazioni internazionali tra cui la Banca internazionale per la ricostruzione e lo sviluppo e la Banca europea per la ricostruzione e lo sviluppo.
 
 ## TITOLO XI - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-##### ARTICOLO 77
+#### ARTICOLO 77
 
 E' istituito un consiglio di cooperazione incaricato di sorvegliare l'attuazione del presente accordo. Il consiglio di cooperazione si riunisce regolarmente a livello ministeriale, stabilendo la frequenza delle riunioni. Esso esamina tutte le questioni importanti inerenti al presente accordo e qualunque altro problema bilaterale o internazionale di reciproco interesse per il conseguimento degli obiettivi del presente accordo. Il consiglio di cooperazione puo' formulare altresi' opportune raccomandazioni con l'accordo delle Parti.
 
-##### ARTICOLO 78
+#### ARTICOLO 78
 
 1\. Il consiglio di cooperazione e' composto da membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da un lato, e da membri del governo della Repubblica di Tagikistan dall'altro.
 
@@ -1169,7 +1167,7 @@ E' istituito un consiglio di cooperazione incaricato di sorvegliare l'attuazione
 
 3\. Il consiglio di cooperazione e' presieduto a turno da un rappresentante della Comunita' e da un membro del governo della Repubblica di Tagikistan.
 
-##### ARTICOLO 79
+#### ARTICOLO 79
 
 1\. Nell'esercizio delle sue funzioni, il consiglio di cooperazione e' assistito da un comitato di cooperazione composto da rappresentanti dei membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da un lato, e da rappresentanti del governo della Repubblica di Tagikistan, normalmente alti funzionari, dall'altro. Il comitato di cooperazione e' presieduto a turno dalla Comunita' e dalla Repubblica di Tagikistan.
 
@@ -1177,19 +1175,19 @@ Il regolamento interno del consiglio di cooperazione stabilisce i compiti del co
 
 2\. Il consiglio di cooperazione puo' delegare i suoi poteri al comitato di cooperazione, che assicura la continuita' tra le riunioni del consiglio di cooperazione.
 
-##### ARTICOLO 80
+#### ARTICOLO 80
 
 Il consiglio di cooperazione puo' decidere di creare tutti i comitati o organi speciali necessari per coadiuvarlo nell'esercizio delle sue funzioni, determinandone la composizione, le mansioni e le modalita' di funzionamento.
 
-##### ARTICOLO 81
+#### ARTICOLO 81
 
 Nell'esaminare le questioni sollevate nell'ambito del presente accordo in relazione ad una disposizione che si riferisca ad un articolo di uno degli accordi che costituiscono l'OMC, il consiglio di cooperazione tiene conto, per quanto possibile, dell'interpretazione data generalmente a detto articolo dai membri dell'OMC.
 
-##### ARTICOLO 82
+#### ARTICOLO 82
 
 E' istituito un comitato parlamentare di cooperazione che riunisce membri del Parlamento tagiko e del Parlamento europeo e consente scambi di opinioni tra di essi, anche su questioni relative al dialogo politico a livello parlamentare. Tale comitato stabilisce la frequenza delle proprie riunioni.
 
-##### ARTICOLO 83
+#### ARTICOLO 83
 
 1\. Il comitato parlamentare di cooperazione e' composto da membri dei Parlamenti europeo e tagiko.
 
@@ -1197,7 +1195,7 @@ E' istituito un comitato parlamentare di cooperazione che riunisce membri del Pa
 
 3\. Il comitato parlamentare di cooperazione e' presieduto a turno dal Parlamento europeo e dal Parlamento tagiko, conformemente al regolamento interno.
 
-##### ARTICOLO 84
+#### ARTICOLO 84
 
 Il comitato parlamentare di cooperazione puo' chiedere tutte le informazioni utili per quanto riguarda l'esecuzione del presente accordo al consiglio di cooperazione, che gli fornisce dette informazioni.
 
@@ -1205,7 +1203,7 @@ Il comitato parlamentare di cooperazione e' informato delle raccomandazioni del 
 
 Il comitato parlamentare di cooperazione puo' presentare raccomandazioni al consiglio di cooperazione.
 
-##### ARTICOLO 85
+#### ARTICOLO 85
 
 1\. Nell'ambito del presente accordo, ciascuna delle Parti si impegna a garantire che le persone fisiche e giuridiche dell'altra Parte possano adire senza discriminazioni, rispetto ai propri cittadini, i competenti organi giudiziari e amministrativi delle Parti per tutelare i loro diritti individuali e di proprieta', inclusi quelli riguardanti la proprieta' intellettuale, industriale e commerciale.
 
@@ -1219,7 +1217,7 @@ Il comitato parlamentare di cooperazione puo' presentare raccomandazioni al cons
 
 \- incoraggiano il ricorso alle norme di arbitrato elaborate dalla Commissione delle Nazioni Unite per il diritto commerciale internazionale (UNCITRAL) e il ricorso all'arbitrato da parte di ogni organismo di uno Stato firmatario della convenzione per il riconoscimento e l'esecuzione delle sentenze arbitrali straniere firmata il 10 giugno 1958 a New York.
 
-##### ARTICOLO 86
+#### ARTICOLO 86
 
 Nessuna disposizione del presente accordo impedisce a una delle Parti di prendere, entro i limiti dei rispettivi poteri e delle rispettive competenze, le misure:
 
@@ -1231,7 +1229,7 @@ c) che giudica essenziali per la propria sicurezza in caso di gravi disordini in
 
 d) che ritiene necessarie per adempiere agli obblighi e agli impegni internazionali sul controllo dei prodotti e delle tecnologie industriali a duplice uso.
 
-##### ARTICOLO 87
+#### ARTICOLO 87
 
 1\. Nei settori contemplati dal presente accordo e fatta salva qualsiasi disposizione speciale ivi contenuta:
 
@@ -1241,7 +1239,7 @@ d) che ritiene necessarie per adempiere agli obblighi e agli impegni internazion
 
 2\. Le disposizioni del paragrafo 1 non pregiudicano il diritto delle Parti di applicare le pertinenti disposizioni della loro normativa fiscale ai contribuenti che non si trovano in situazioni identiche per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 88
+#### ARTICOLO 88
 
 1\. Ciascuna Parte puo' adire il consiglio di cooperazione per qualsiasi controversia relativa all'applicazione o all'interpretazione del presente accordo.
 
@@ -1253,7 +1251,7 @@ Il consiglio di cooperazione designa un terzo conciliatore.
 
 Le raccomandazioni dei conciliatori vengono adottate a maggioranza e non sono vincolanti per le Parti.
 
-##### ARTICOLO 89
+#### ARTICOLO 89
 
 Le Parti convengono di consultarsi tempestivamente, attraverso i canali appropriati, su richiesta di una di esse per discutere di tutte le questioni inerenti all'interpretazione o all'applicazione del presente accordo e di altri aspetti pertinenti delle loro relazioni.
 
@@ -1261,23 +1259,23 @@ Le disposizioni del presente articolo non pregiudicano l'applicazione degli arti
 
 Il Consiglio di cooperazione puo' stabilire norme procedurali per la composizione delle controversie.
 
-##### ARTICOLO 90
+#### ARTICOLO 90
 
 Il trattamento riservato alla Repubblica di Tagikistan a norma del presente accordo non puo' comunque essere piu' favorevole di quello che gli Stati membri si concedono reciprocamente.
 
-##### ARTICOLO 91
+#### ARTICOLO 91
 
 Ai fini del presente accordo, per "Parti" s'intendono la Repubblica di Tagikistan, da un lato, e la Comunita', gli Stati membri o la Comunita' e gli Stati membri, a seconda dei rispettivi poteri, dall'altro.
 
-##### ARTICOLO 92
+#### ARTICOLO 92
 
 Fintantoche' le questioni contemplate dal presente accordo rientrano nel trattato e nei protocolli della Carta europea dell'energia, a decorrere dalla sua entrata in vigore i suddetti trattato e protocolli si applicano, se ivi previsto, a tali questioni.
 
-##### ARTICOLO 93
+#### ARTICOLO 93
 
 Il presente accordo e' concluso per un periodo iniziale di dieci anni, dopo di che potra' essere automaticamente rinnovato di anno in anno a condizione che nessuna delle Parti lo denunci dandone notifica per iscritto all'altra Parte sei mesi prima della scadenza.
 
-##### ARTICOLO 94
+#### ARTICOLO 94
 
 1\. Le Parti adottano tutte le misure generali o specifiche necessarie per l'adempimento degli obblighi previsti dal presente accordo e si adoperano per il conseguimento dei suoi obiettivi.
 
@@ -1285,27 +1283,27 @@ Il presente accordo e' concluso per un periodo iniziale di dieci anni, dopo di c
 
 Nella scelta delle misure, si privilegiano quelle che meno perturbano il funzionamento dell'accordo. Se l'altra Parte lo richiede, le misure decise vengono comunicate senza indugio al consiglio di cooperazione.
 
-##### ARTICOLO 95
+#### ARTICOLO 95
 
 Gli allegati I, II, III e IV e il protocollo costituiscono parte integrante del presente accordo.
 
-##### ARTICOLO 96
+#### ARTICOLO 96
 
 Fino a quando i privati cittadini e gli operatori economici non godranno degli stessi diritti a norma del presente accordo, esso non pregiudichera' i diritti loro garantiti dagli accordi in vigore tra uno o piu' Stati membri, da una parte, e la Repubblica di Tagikistan, dall'altra, fatta eccezione per i settori di competenza comunitaria e fermi restando gli obblighi che l'accordo impone agli Stati membri nei settori di loro competenza.
 
-##### ARTICOLO 97
+#### ARTICOLO 97
 
 Il presente accordo si applica, da un lato, ai territori cui si applicano i trattati che istituiscono la Comunita' europea e la Comunita' europea dell'energia atomica, alle condizioni ivi precisate, e, dall'altro, al territorio della Repubblica di Tagikistan.
 
-##### ARTICOLO 98
+#### ARTICOLO 98
 
 Il Segretario generale del Consiglio dell'Unione europea e' depositario del presente accordo.
 
-##### ARTICOLO 99
+#### ARTICOLO 99
 
 L'originale del presente accordo, le cui versioni nelle lingue ceca, danese, estone, finnica, francese, greca, inglese, italiana, lettone, lituana, olandese, polacca, portoghese, slovacca, slovena, spagnola, svedese, tedesca, ungherese e tagika fanno ugualmente fede, e' depositato presso il Segretario generale del Consiglio dell'Unione europea.
 
-##### ARTICOLO 100
+#### ARTICOLO 100
 
 Il presente accordo e' approvato dalle Parti secondo le rispettive procedure.
 
@@ -1313,13 +1311,13 @@ L'accordo entra in vigore il primo giorno del secondo mese successivo alla data 
 
 A decorrere dalla sua entrata in vigore il presente accordo sostituisce, per quanto riguarda le relazioni tra la Repubblica di Tagikistan e la Comunita', l'accordo tra la Comunita' economica europea e l'Unione delle Repubbliche Socialiste Sovietiche sugli scambi e sulla cooperazione economica e commerciale, firmato il 18 dicembre 1989 a Bruxelles.
 
-##### ARTICOLO 101
+#### ARTICOLO 101
 
 Qualora, in attesa che siano espletate le procedure necessarie per l'entrata in vigore del presente accordo, le disposizioni di alcune sue parti siano applicate mediante un accordo interinale tra la Comunita' e la Repubblica di Tagikistan, le Parti convengono che, nella fattispecie, per "data di entrata in vigore dell'accordo" s'intende la data di entrata in vigore dell'accordo interinale.
 
 Parte di provvedimento in formato grafico
 
-##### Allegato I
+#### Allegato I
 
 ELENCO DEGLI ALLEGATI
 
@@ -1355,7 +1353,7 @@ DI TAGIKISTAN AGLI STATI INDIPENDENTI A NORMA DELL'ARTICOLO 7, PARAGRAFO 3
 
 5\. Vigono speciali condizioni in materia di transito per tutti i paesi della CSI.
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -1389,7 +1387,7 @@ Agenzie di stampa
 
 In alcuni Stati membri la partecipazione straniera alle case editrici e alle societa' radiotelevisive e' limitata.
 
-##### Allegato III
+#### Allegato III
 
 ALLEGATO III
 
@@ -1459,7 +1457,7 @@ b) le attivita' svolte dalle banche centrali, dagli enti o dai dipartimenti gove
 
 c) le attivita' che rientrano nel sistema ufficiale della previdenza sociale o nei programmi di pensionamento dello Stato, escluse le attivita' svolte da fornitori di servizi finanziari in concorrenza con enti pubblici o con istituzioni private.
 
-##### Allegato IV
+#### Allegato IV
 
 ALLEGATO IV
 
@@ -1495,7 +1493,7 @@ RELATIVO ALL'ASSISTENZA RECIPROCA
 
 TRA LE AUTORITA' AMMINISTRATIVE IN MATERIA DOGANALE
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -1511,7 +1509,7 @@ d) "dati personali": tutte le informazioni relative ad una persona fisica identi
 
 e) "operazioni contrarie alla legislazione doganale": qualsiasi violazione o tentativo di violazione della legislazione doganale.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Campo di applicazione
 
@@ -1519,7 +1517,7 @@ Campo di applicazione
 
 2\. L'assistenza in materia doganale prevista dal presente protocollo si applica ad ogni autorita' amministrativa delle Parti contraenti competente per l'applicazione dello stesso. Essa non pregiudica le norme che disciplinano l'assistenza reciproca in materia penale ne' copre le informazioni ottenute grazie a poteri esercitati su richiesta dell'autorita' giudiziaria salvo quando la comunicazione di tali informazioni sia autorizzata da detta autorita'.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Assistenza su richiesta
 
@@ -1541,7 +1539,7 @@ c) le merci che sono o possono essere trasportate a condizioni tali da far ragio
 
 d) i mezzi di trasporto per i quali vi sono fondati motivi di ritenere che siano stati, siano ovvero possano essere utilizzati per operazioni contrarie alla legislazione doganale.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Assistenza spontanea
 
@@ -1557,7 +1555,7 @@ Le Parti contraenti si prestano assistenza reciproca, di propria iniziativa o co
 
 \- mezzi di trasporto per i quali sussistono fondati motivi di ritenere che siano stati, siano, ovvero possano essere utilizzati in operazioni contrarie alla normativa doganale.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Consegna/Notifica
 
@@ -1569,7 +1567,7 @@ Su domanda dell'autorita' richiedente, l'autorita' interpellata, conformemente a
 
 provenienti dall'autorita' richiedente e che rientrano nel campo di applicazione del presente protocollo, ad un destinatario residente o stabilito sul suo territorio. In tal caso, alla richiesta si applica l'articolo 6, paragrafo 3.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Forma e contenuto delle domande di assistenza
 
@@ -1593,7 +1591,7 @@ f) una sintesi dei fatti e delle indagini gia' svolte.
 
 4\. Se la domanda non soddisfa i requisiti formali stabiliti possono esserne richiesti la correzione o il completamento; tuttavia possono essere disposte misure cautelative.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Espletamento delle domande
 
@@ -1605,7 +1603,7 @@ Espletamento delle domande
 
 4\. I funzionari di una Parte possono essere presenti, d'intesa con l'altra Parte interessata e alle condizioni da essa stabilite, alle indagini svolte nel territorio di quest'ultima.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Forma in cui devono essere comunicate le informazioni
 
@@ -1615,7 +1613,7 @@ Forma in cui devono essere comunicate le informazioni
 
 3\. Fascicoli e documenti originali vengono richiesti soltanto qualora le copie autenticate risultino insufficienti. Gli originali inviati saranno restituiti quanto prima.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Deroghe all'obbligo di fornire assistenza
 
@@ -1633,7 +1631,7 @@ c) violare un segreto industriale, commerciale o professionale.
 
 4\. Se l'assistenza e' rifiutata o negata, la decisione e le sue motivazioni devono essere notificate senza indugio all'autorita' richiedente.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Scambi di informazioni e riservatezza
 
@@ -1647,7 +1645,7 @@ Scambi di informazioni e riservatezza
 
 5\. Nei verbali, nelle relazioni e nelle testimonianze, nonche' nei procedimenti e nelle azioni penali promossi dinanzi a un tribunale, le Parti possono utilizzare come prova le informazioni ottenute e i documenti consultati conformemente alle disposizioni del presente protocollo.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Esperti e testimoni
 
@@ -1655,13 +1653,13 @@ Esperti e testimoni
 
 2\. Il funzionario gode, sul territorio dell'autorita' richiedente, della tutela garantita ai funzionari di questa dalla legislazione vigente.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Spese di assistenza
 
 Le Parti contraenti rinunciano reciprocamente a tutte le richieste di rimborso delle spese sostenute in virtu' del presente protocollo, escluse, a seconda dei casi, le spese per esperti e testimoni nonche' per gli interpreti e traduttori che non dipendono da pubblici servizi.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Esecuzione
 
@@ -1671,7 +1669,7 @@ Essi decidono in merito a tutte le misure e alle disposizioni pratiche necessari
 
 2\. Le Parti si consultano e si tengono reciprocamente informate in merito alle norme specifiche di esecuzione adottate conformemente alle disposizioni del presente protocollo.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Altri accordi
 

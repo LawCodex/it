@@ -104,9 +104,11 @@ Articolo 1 - Ambito di applicazione del regolamento
 
 Articolo 2 - Disposizioni relative a infrastrutture strategiche e insediamenti produttivi
 
-## PARTE I - DISPOSIZIONI COMUNI - ((PARTE ABROGATA DAL D.LGS. 18 APRILE 2016, N. 50))
+## PARTE I - DISPOSIZIONI COMUNI
 
-#### Articolo 3 - Definizioni
+## ((PARTE ABROGATA DAL D.LGS. 18 APRILE 2016, N. 50))
+
+###### Articolo 3 - Definizioni
 
 TITOLO II - TUTELA DEI LAVORATORI E REGOLARITA' CONTRIBUTIVA
 
@@ -998,39 +1000,41 @@ AGGIORNAMENTO (13)
 
 La L. 11 agosto 2014, n. 125 ha disposto (con l'art. 17, comma 6) che "Nel codice di cui al decreto legislativo 12 aprile 2006, n. 163, e nel relativo regolamento di esecuzione di cui al decreto del Presidente della Repubblica 5 ottobre 2010, n. 207, i riferimenti alla legge 26 febbraio 1987, n. 49, si intendono fatti alla presente legge".
 
-#### Art. 2
+###### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 3
+###### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 4
+###### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 5
+###### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 6
+###### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 7
+###### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 8
+###### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-## PARTE II - CONTRATTI PUBBLICI RELATIVI A LAVORI NEI SETTORI ORDINARI - TITOLO I - ORGANI DEL PROCEDIMENTO E PROGRAMMAZIONE
+## PARTE II - CONTRATTI PUBBLICI RELATIVI A LAVORI NEI SETTORI ORDINARI
 
-### CAPO I - Organi del procedimento
+### TITOLO I - ORGANI DEL PROCEDIMENTO E PROGRAMMAZIONE
 
-#### Art. 9
+#### CAPO I - Organi del procedimento
+
+###### Art. 9
 
 Responsabile del procedimento per la realizzazione di lavori pubblici
 
@@ -1064,7 +1068,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 10
+###### Art. 10
 
 Funzioni e compiti del responsabile del procedimento
 
@@ -1158,25 +1162,29 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-## CAPO II - Programmazione dei lavori - ((CAPO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
+#### CAPO II - Programmazione dei lavori
 
-#### Art. 11
+#### ((CAPO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
-
-#### Art. 12
+###### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 13
+###### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-## TITOLO II - PROGETTAZIONE E VERIFICA DEL PROGETTO - CAPO I - Progettazione
+###### Art. 13
 
-### Sezione I - Disposizioni generali
+((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 14
+### TITOLO II - PROGETTAZIONE E VERIFICA DEL PROGETTO
+
+#### CAPO I - Progettazione
+
+##### Sezione I - Disposizioni generali
+
+###### Art. 14
 
 Studio di fattibilita'
 
@@ -1256,7 +1264,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 15
+###### Art. 15
 
 Disposizioni preliminari per la progettazione dei lavori e norme tecniche
 
@@ -1342,7 +1350,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 16
+###### Art. 16
 
 Quadri economici
 
@@ -1390,9 +1398,9 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-## Sezione II - Progetto preliminare
+##### Sezione II - Progetto preliminare
 
-#### Art. 17
+###### Art. 17
 
 Documenti componenti il progetto preliminare
 
@@ -1452,7 +1460,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 18
+###### Art. 18
 
 Relazione illustrativa del progetto preliminare
 
@@ -1520,7 +1528,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 19
+###### Art. 19
 
 Relazione tecnica
 
@@ -1578,7 +1586,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 20
+###### Art. 20
 
 Studio di prefattibilita' ambientale
 
@@ -1606,7 +1614,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 21
+###### Art. 21
 
 Elaborati grafici del progetto preliminare
 
@@ -1706,7 +1714,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 22
+###### Art. 22
 
 Calcolo sommario della spesa e quadro economico
 
@@ -1738,7 +1746,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 23
+###### Art. 23
 
 Capitolato speciale descrittivo e prestazionale del progetto preliminare
 
@@ -1762,9 +1770,9 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-## Sezione III - Progetto definitivo
+##### Sezione III - Progetto definitivo
 
-#### Art. 24
+###### Art. 24
 
 Documenti componenti il progetto definitivo
 
@@ -1810,7 +1818,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 25
+###### Art. 25
 
 Relazione generale del progetto definitivo
 
@@ -1846,7 +1854,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 26
+###### Art. 26
 
 Relazioni tecniche e specialistiche del progetto definitivo
 
@@ -1892,7 +1900,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 27
+###### Art. 27
 
 Studio di impatto ambientale e studio di fattibilita' ambientale
 
@@ -1912,7 +1920,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 28
+###### Art. 28
 
 Elaborati grafici del progetto definitivo
 
@@ -2020,7 +2028,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 29
+###### Art. 29
 
 Calcoli delle strutture e degli impianti
 
@@ -2040,7 +2048,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 30
+###### Art. 30
 
 Disciplinare descrittivo e prestazionale degli elementi tecnici del progetto definitivo
 
@@ -2056,7 +2064,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 31
+###### Art. 31
 
 Piano particellare di esproprio
 
@@ -2080,7 +2088,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 32
+###### Art. 32
 
 Elenco dei prezzi unitari, computo metrico estimativo e quadro economico del progetto definitivo
 
@@ -2152,9 +2160,9 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-## Sezione IV - Progetto esecutivo
+##### Sezione IV - Progetto esecutivo
 
-#### Art. 33
+###### Art. 33
 
 Documenti componenti il progetto esecutivo
 
@@ -2192,7 +2200,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 34
+###### Art. 34
 
 Relazione generale del progetto esecutivo
 
@@ -2210,7 +2218,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 35
+###### Art. 35
 
 Relazioni specialistiche
 
@@ -2230,7 +2238,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 36
+###### Art. 36
 
 Elaborati grafici del progetto esecutivo
 
@@ -2264,7 +2272,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 37
+###### Art. 37
 
 Calcoli esecutivi delle strutture e degli impianti
 
@@ -2320,7 +2328,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 38
+###### Art. 38
 
 Piano di manutenzione dell'opera e delle sue parti
 
@@ -2388,7 +2396,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 39
+###### Art. 39
 
 Piano di sicurezza e di coordinamento e quadro di incidenza della manodopera
 
@@ -2408,7 +2416,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 40
+###### Art. 40
 
 Cronoprogramma
 
@@ -2428,7 +2436,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 41
+###### Art. 41
 
 Elenco dei prezzi unitari
 
@@ -2444,7 +2452,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 42
+###### Art. 42
 
 Computo metrico estimativo e quadro economico
 
@@ -2472,7 +2480,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 43
+###### Art. 43
 
 Schema di contratto e capitolato speciale d'appalto
 
@@ -2532,79 +2540,79 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-## CAPO II - Verifica del progetto - (artt. 46, 47 48 e 49, d.P.R. n. 554/1999)
+#### CAPO II - Verifica del progetto - (artt. 46, 47 48 e 49, d.P.R. n. 554/1999)
 
-### ((CAPO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
+#### ((CAPO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 44
-
-((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
-
-#### Art. 45
+###### Art. 44
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 46
+###### Art. 45
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 47
+###### Art. 46
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 48
+###### Art. 47
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 49
+###### Art. 48
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 50
+###### Art. 49
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 51
+###### Art. 50
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 52
+###### Art. 51
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 53
+###### Art. 52
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 54
+###### Art. 53
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 55
+###### Art. 54
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 56
+###### Art. 55
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 57
+###### Art. 56
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 58
+###### Art. 57
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 59
+###### Art. 58
+
+((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
+
+###### Art. 59
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
 ## TITOLO III - SISTEMA DI QUALIFICAZIONE E REQUISITI PER GLI ESECUTORI - DI LAVORI
 
-### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
-#### Art. 60
+###### Art. 60
 
 Ambito di applicazione delle disposizioni in materia di qualificazione degli esecutori di lavori
 
@@ -2626,7 +2634,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 61
+###### Art. 61
 
 Categorie e classifiche
 
@@ -2676,7 +2684,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 62
+###### Art. 62
 
 Qualificazione di imprese stabilite in Stati diversi dall'Italia
 
@@ -2690,7 +2698,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 63
+###### Art. 63
 
 Sistema di qualita' aziendale
 
@@ -2714,9 +2722,9 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-## CAPO II - Autorizzazione degli organismi di attestazione
+#### CAPO II - Autorizzazione degli organismi di attestazione
 
-#### Art. 64
+###### Art. 64
 
 Requisiti generali e di indipendenza delle SOA
 
@@ -2756,7 +2764,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 65
+###### Art. 65
 
 Controlli sulle SOA
 
@@ -2774,7 +2782,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 66
+###### Art. 66
 
 Partecipazioni azionarie
 
@@ -2802,7 +2810,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 67
+###### Art. 67
 
 Requisiti tecnici delle SOA
 
@@ -2832,7 +2840,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 68
+###### Art. 68
 
 Rilascio della autorizzazione
 
@@ -2868,7 +2876,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 69
+###### Art. 69
 
 Elenco delle SOA ed elenchi delle imprese qualificate
 
@@ -2886,7 +2894,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 70
+###### Art. 70
 
 Attivita' di qualificazione e organizzazione delle SOA -Tariffe
 
@@ -2928,7 +2936,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 71
+###### Art. 71
 
 Vigilanza dell'Autorita'
 
@@ -2962,7 +2970,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 72 - Articolo non ammesso al "Visto" della Corte dei conti
+###### Art. 72 - Articolo non ammesso al "Visto" della Corte dei conti
 
 ((16))
 
@@ -2972,7 +2980,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 73
+###### Art. 73
 
 Sanzioni pecuniarie nei confronti delle SOA -
 
@@ -3048,7 +3056,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 74
+###### Art. 74
 
 Sanzioni per violazione da parte delle imprese dell'obbligo d'informazione
 
@@ -3072,7 +3080,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 75
+###### Art. 75
 
 Attivita' delle SOA
 
@@ -3092,9 +3100,9 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-## CAPO III - Requisiti per la qualificazione
+#### CAPO III - Requisiti per la qualificazione
 
-#### Art. 76
+###### Art. 76
 
 Domanda di qualificazione
 
@@ -3132,7 +3140,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 77
+###### Art. 77
 
 Verifica triennale
 
@@ -3162,7 +3170,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 78
+###### Art. 78
 
 Requisiti d'ordine generale
 
@@ -3186,7 +3194,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 79
+###### Art. 79
 
 Requisiti di ordine speciale
 
@@ -3278,7 +3286,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 80
+###### Art. 80
 
 Incremento convenzionale premiante
 
@@ -3310,7 +3318,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 81
+###### Art. 81
 
 Requisiti per la qualificazione dei consorzi stabili
 
@@ -3326,7 +3334,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 82
+###### Art. 82
 
 Rivalutazione dell'importo dei lavori eseguiti
 
@@ -3344,7 +3352,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 83
+###### Art. 83
 
 Determinazione del periodo di attivita' documentabile e dei relativi importi e certificati
 
@@ -3378,7 +3386,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 84 - Criteri di accertamento e di valutazione dei lavori eseguiti all'estero
+###### Art. 84 - Criteri di accertamento e di valutazione dei lavori eseguiti all'estero
 
 1\. Per i lavori eseguiti all'estero da imprese con sede legale in Italia, il richiedente produce alla SOA la certificazione di esecuzione dei lavori, corredata dalla copia del contratto, da ogni documento comprovante i lavori eseguiti e, laddove emesso, dal certificato di collaudo.
 
@@ -3398,7 +3406,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 85
+###### Art. 85
 
 Lavori eseguiti dall'impresa affidataria e dall'impresa subappaltatrice.
 
@@ -3434,7 +3442,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 86
+###### Art. 86
 
 Criteri di valutazione dei lavori eseguiti e dei relativi importi
 
@@ -3472,7 +3480,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 87
+###### Art. 87
 
 Direzione tecnica
 
@@ -3502,7 +3510,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 88
+###### Art. 88
 
 Contratto di avvalimento in gara e qualificazione mediante avvalimento
 
@@ -3538,7 +3546,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 89
+###### Art. 89
 
 Contenuti delle attestazioni rilasciate dalle SOA
 
@@ -3554,7 +3562,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 90
+###### Art. 90
 
 Requisiti per lavori pubblici di importo pari o inferiore a 150. 000 euro
 
@@ -3582,7 +3590,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 91
+###### Art. 91
 
 Decadenza dell'attestazione di qualificazione
 
@@ -3598,9 +3606,9 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-## CAPO IV - Soggetti abilitati ad assumere lavori
+#### CAPO IV - Soggetti abilitati ad assumere lavori
 
-#### Art. 92
+###### Art. 92
 
 Requisiti del concorrente singolo e di quelli riuniti
 
@@ -3642,7 +3650,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 93
+###### Art. 93
 
 Societa' tra concorrenti riuniti o consorziati
 
@@ -3670,7 +3678,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 94
+###### Art. 94
 
 Consorzi stabili
 
@@ -3692,7 +3700,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 95
+###### Art. 95
 
 Requisiti del concessionario
 
@@ -3724,7 +3732,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 96
+###### Art. 96
 
 Requisiti del proponente e attivita' di asseverazione
 
@@ -3762,497 +3770,513 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-## TITOLO IV - MODALITA' TECNICHE E PROCEDURALI PER LA QUALIFICAZIONE DEI CONTRAENTI GENERALI - ((TITOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
+## TITOLO IV - MODALITA' TECNICHE E PROCEDURALI PER LA QUALIFICAZIONE DEI CONTRAENTI GENERALI
 
-#### Art. 97
+### ((TITOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
+###### Art. 97
+
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 98
+###### Art. 98
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 99
+###### Art. 99
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 100
+###### Art. 100
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 101
+###### Art. 101
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 102
+###### Art. 102
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 103
+###### Art. 103
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 104
+###### Art. 104
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-## TITOLO V - SISTEMI DI REALIZZAZIONE DEI LAVORI E SELEZIONE DELLE OFFERTE - ((TITOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
+## TITOLO V - SISTEMI DI REALIZZAZIONE DEI LAVORI E SELEZIONE DELLE OFFERTE
 
-#### Art. 105
+### ((TITOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
+###### Art. 105
+
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 106
+###### Art. 106
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 107
+###### Art. 107
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 108
+###### Art. 108
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 109
+###### Art. 109
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 110
+###### Art. 110
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 111
+###### Art. 111
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 112
+###### Art. 112
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 113
+###### Art. 113
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 114
+###### Art. 114
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 115
+###### Art. 115
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 116
+###### Art. 116
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 117
+###### Art. 117
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 118
+###### Art. 118
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 119
+###### Art. 119
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 120
+###### Art. 120
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 121
+###### Art. 121
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 122
+###### Art. 122
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
+
+## TITOLO VI - GARANZIE E SISTEMA DI GARANZIA GLOBALE DI ESECUZIONE
 
-## TITOLO VI - GARANZIE E SISTEMA DI GARANZIA GLOBALE DI ESECUZIONE - ((TITOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
+### ((TITOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 123
+###### Art. 123
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 124
+###### Art. 124
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 125
+###### Art. 125
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 126
+###### Art. 126
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 127
+###### Art. 127
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 128
+###### Art. 128
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 129
+###### Art. 129
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 130
+###### Art. 130
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 131
+###### Art. 131
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 132
+###### Art. 132
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 133
+###### Art. 133
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 134
+###### Art. 134
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 135
+###### Art. 135
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 136
+###### Art. 136
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-## TITOLO VII - IL CONTRATTO - ((TITOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
+### TITOLO VII - IL CONTRATTO
 
-#### Art. 137
+### ((TITOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
+###### Art. 137
+
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 138
+###### Art. 138
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 139
+###### Art. 139
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 140
+###### Art. 140
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 141
+###### Art. 141
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 142
+###### Art. 142
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 143
+###### Art. 143
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 144
+###### Art. 144
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 145
+###### Art. 145
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 146
+###### Art. 146
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-## TITOLO VIII - ESECUZIONE DEI LAVORI - ((TITOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
+### TITOLO VIII - ESECUZIONE DEI LAVORI
 
-#### Art. 147
+### ((TITOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
+###### Art. 147
+
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 148
+###### Art. 148
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 149
+###### Art. 149
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 150
+###### Art. 150
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 151
+###### Art. 151
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 152
+###### Art. 152
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 153
+###### Art. 153
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 154
+###### Art. 154
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 155
+###### Art. 155
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 156
+###### Art. 156
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 157
+###### Art. 157
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 158
+###### Art. 158
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 159
+###### Art. 159
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 160
+###### Art. 160
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 161
+###### Art. 161
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 162
+###### Art. 162
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 163
+###### Art. 163
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 164
+###### Art. 164
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 165
+###### Art. 165
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 166
+###### Art. 166
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 167
+###### Art. 167
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 168
+###### Art. 168
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 169
+###### Art. 169
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 170
+###### Art. 170
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 171
+###### Art. 171
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 172
+###### Art. 172
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 173
+###### Art. 173
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 174
+###### Art. 174
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 175
+###### Art. 175
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 176
+###### Art. 176
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 177
+###### Art. 177
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
+
+### TITOLO IX - CONTABILITA' DEI LAVORI
 
-## TITOLO IX - CONTABILITA' DEI LAVORI - CAPO I - Scopo e forma della contabilita'
+#### CAPO I - Scopo e forma della contabilita'
 
-#### Art. 178
+###### Art. 178
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 179
+###### Art. 179
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 180
+###### Art. 180
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 181
+###### Art. 181
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 182
+###### Art. 182
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 183
+###### Art. 183
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 184
+###### Art. 184
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 185
+###### Art. 185
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 186
+###### Art. 186
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 187
+###### Art. 187
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 188
+###### Art. 188
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 189
+###### Art. 189
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 190
+###### Art. 190
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 191
+###### Art. 191
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 192
+###### Art. 192
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 193
+###### Art. 193
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 194
+###### Art. 194
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 195
+###### Art. 195
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 196
+###### Art. 196
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 197
+###### Art. 197
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 198
+###### Art. 198
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 199
+###### Art. 199
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 200
+###### Art. 200
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 201
+###### Art. 201
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 202
+###### Art. 202
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-## CAPO II - Contabilita' dei lavori in economia
+#### CAPO II - Contabilita' dei lavori in economia
 
-#### Art. 203
-
-((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
-
-#### Art. 204
+###### Art. 203
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 205
+###### Art. 204
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 206
+###### Art. 205
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 207
+###### Art. 206
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 208
+###### Art. 207
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 209
+###### Art. 208
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-#### Art. 210
+###### Art. 209
 
 ((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
 
-## CAPO III - Norme generali per la tenuta della contabilita' - ((CAPO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
+###### Art. 210
 
-#### Art. 211
+((ARTICOLO ABROGATO DAL DECRETO 7 MARZO 2018, N. 49))
+
+#### CAPO III - Norme generali per la tenuta della contabilita'
+
+#### ((CAPO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
+
+###### Art. 211
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 212
+###### Art. 212
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 213
+###### Art. 213
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 214
+###### Art. 214
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-## TITOLO X - COLLAUDO DEI LAVORI - CAPO I - Disposizioni preliminari
+### TITOLO X - COLLAUDO DEI LAVORI
 
-#### Art. 215
+#### CAPO I - Disposizioni preliminari
+
+###### Art. 215
 
 Oggetto del collaudo
 
@@ -4288,7 +4312,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 216
+###### Art. 216
 
 Nomina del collaudatore
 
@@ -4342,7 +4366,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 217
+###### Art. 217
 
 Documenti da fornirsi al collaudatore
 
@@ -4394,7 +4418,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 218
+###### Art. 218
 
 Avviso ai creditori
 
@@ -4414,7 +4438,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 219
+###### Art. 219
 
 Estensione delle verifiche di collaudo
 
@@ -4440,7 +4464,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 220
+###### Art. 220
 
 Commissioni collaudatrici
 
@@ -4460,9 +4484,9 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-## CAPO II - Visita e procedimento di collaudo
+#### CAPO II - Visita e procedimento di collaudo
 
-#### Art. 221
+###### Art. 221
 
 Visite in corso d'opera
 
@@ -4484,7 +4508,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 222
+###### Art. 222
 
 Visita definitiva e relativi avvisi
 
@@ -4508,7 +4532,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 223
+###### Art. 223
 
 Processo verbale di visita
 
@@ -4536,7 +4560,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 224
+###### Art. 224
 
 Oneri dell'esecutore nelle operazioni di collaudo
 
@@ -4558,7 +4582,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 225
+###### Art. 225
 
 Valutazioni dell'organo di collaudo
 
@@ -4588,7 +4612,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 226
+###### Art. 226
 
 Discordanza fra la contabilita' e l'esecuzione
 
@@ -4606,7 +4630,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 227
+###### Art. 227
 
 Difetti e mancanze nell'esecuzione
 
@@ -4626,7 +4650,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 228
+###### Art. 228
 
 Eccedenza su quanto e' stato autorizzato ed approvato
 
@@ -4644,7 +4668,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 229
+###### Art. 229
 
 Certificato di collaudo
 
@@ -4708,7 +4732,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 230
+###### Art. 230
 
 Verbali di accertamento ai fini della presa in consegna anticipata
 
@@ -4738,7 +4762,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 231
+###### Art. 231
 
 Obblighi per determinati risultati
 
@@ -4754,7 +4778,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 232
+###### Art. 232
 
 Lavori non collaudabili
 
@@ -4770,7 +4794,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 233
+###### Art. 233
 
 Richieste formulate dall'esecutore sul certificato di collaudo
 
@@ -4790,7 +4814,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 234
+###### Art. 234
 
 Ulteriori provvedimenti amministrativi
 
@@ -4824,7 +4848,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 235
+###### Art. 235
 
 Svincolo della cauzione e pagamento della rata di saldo
 
@@ -4844,7 +4868,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 236
+###### Art. 236
 
 Collaudo dei lavori di particolare complessita' tecnica o di grande rilevanza economica
 
@@ -4866,7 +4890,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 237
+###### Art. 237
 
 Certificato di regolare esecuzione
 
@@ -4888,7 +4912,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Art. 238
+###### Art. 238
 
 Compenso spettante ai collaudatori
 
@@ -4918,9 +4942,11 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-## TITOLO XI - LAVORI RIGUARDANTI I BENI DEL PATRIMONIO CULTURALE - CAPO I - Beni del patrimonio culturale
+## TITOLO XI - LAVORI RIGUARDANTI I BENI DEL PATRIMONIO CULTURALE
 
-#### Art. 239
+#### CAPO I - Beni del patrimonio culturale
+
+###### Art. 239
 
 Ambito di applicazione delle disposizioni in materia di lavori
 
@@ -4944,7 +4970,7 @@ AGGIORNAMENTO (19)
 
 Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'articolo 216, comma 19, del Codice dei contratti pubblici, dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207".
 
-#### Art. 240
+###### Art. 240
 
 Scavo archeologico, restauro e manutenzione
 
@@ -4978,9 +5004,9 @@ AGGIORNAMENTO (19)
 
 Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'articolo 216, comma 19, del Codice dei contratti pubblici, dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207".
 
-## CAPO II - Progettazione
+#### CAPO II - Progettazione
 
-#### Art. 241
+###### Art. 241
 
 Attivita' di progettazione per i lavori riguardanti i beni del patrimonio culturale
 
@@ -5008,7 +5034,7 @@ AGGIORNAMENTO (19)
 
 Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'articolo 216, comma 19, del Codice dei contratti pubblici, dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207".
 
-#### Art. 242
+###### Art. 242
 
 Progetto preliminare per i lavori riguardanti i beni del patrimonio culturale
 
@@ -5070,7 +5096,7 @@ AGGIORNAMENTO (19)
 
 Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'articolo 216, comma 19, del Codice dei contratti pubblici, dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207".
 
-#### Art. 243
+###### Art. 243
 
 Progetto definitivo per i lavori riguardanti i beni del patrimonio culturale
 
@@ -5134,7 +5160,7 @@ AGGIORNAMENTO (19)
 
 Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'articolo 216, comma 19, del Codice dei contratti pubblici, dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207".
 
-#### Art. 244
+###### Art. 244
 
 Progetto esecutivo per i lavori riguardanti i beni del patrimonio culturale
 
@@ -5178,7 +5204,7 @@ AGGIORNAMENTO (19)
 
 Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'articolo 216, comma 19, del Codice dei contratti pubblici, dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207".
 
-#### Art. 245
+###### Art. 245
 
 Progettazione dello scavo archeologico
 
@@ -5238,7 +5264,7 @@ AGGIORNAMENTO (19)
 
 Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'articolo 216, comma 19, del Codice dei contratti pubblici, dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207".
 
-#### Art. 246
+###### Art. 246
 
 Progettazione di lavori di impiantistica e per la sicurezza riguardanti i beni del patrimonio culturale
 
@@ -5260,7 +5286,7 @@ AGGIORNAMENTO (19)
 
 Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'articolo 216, comma 19, del Codice dei contratti pubblici, dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207".
 
-#### Art. 247
+###### Art. 247
 
 Verifica dei progetti per i lavori riguardanti i beni del patrimonio culturale
 
@@ -5304,7 +5330,7 @@ AGGIORNAMENTO (19)
 
 Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'articolo 216, comma 19, del Codice dei contratti pubblici, dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207".
 
-#### Art. 248
+###### Art. 248
 
 Qualificazione e direzione tecnica per i lavori riguardanti i beni del patrimonio culturale
 
@@ -5334,15 +5360,15 @@ Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai s
 
 ## CAPO III - Esecuzione e collaudo dei lavori riguardanti i beni del - patrimonio culturale
 
-#### Art. 249
+###### Art. 249
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 250
+###### Art. 250
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 251
+###### Art. 251
 
 Collaudo dei lavori riguardanti i beni del patrimonio culturale
 
@@ -5376,451 +5402,455 @@ Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai s
 
 ### TITOLO I - DISPOSIZIONI GENERALI
 
-#### Art. 252
+###### Art. 252
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 253
+###### Art. 253
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 254
-
-((ARTICOLO ABROGATO DAL DECRETO 2 DICEMBRE 2016, N. 263))
-
-#### Art. 255
+###### Art. 254
 
 ((ARTICOLO ABROGATO DAL DECRETO 2 DICEMBRE 2016, N. 263))
 
-#### Art. 256
+###### Art. 255
 
 ((ARTICOLO ABROGATO DAL DECRETO 2 DICEMBRE 2016, N. 263))
 
-#### Art. 257
+###### Art. 256
 
+((ARTICOLO ABROGATO DAL DECRETO 2 DICEMBRE 2016, N. 263))
+
+###### Art. 257
+
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 258
+###### Art. 258
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 259
+###### Art. 259
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 260
+###### Art. 260
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-## TITOLO II - AFFIDAMENTO DEI SERVIZI
+### TITOLO II - AFFIDAMENTO DEI SERVIZI
 
-#### Art. 261
+###### Art. 261
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 262
+###### Art. 262
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 263
+###### Art. 263
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 264
+###### Art. 264
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 265
+###### Art. 265
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 266
+###### Art. 266
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 267
+###### Art. 267
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-## TITOLO III - GARANZIE
+### TITOLO III - GARANZIE
 
-#### Art. 268
+###### Art. 268
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 269
+###### Art. 269
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 270
+###### Art. 270
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-## PARTE IV - CONTRATTI PUBBLICI RELATIVI A FORNITURE E ALTRI SERVIZI NEI SETTORI ORDINARI - ((PARTE ABROGATA DAL D.LGS. 18 APRILE 2016, N. 50))
+## PARTE IV - CONTRATTI PUBBLICI RELATIVI A FORNITURE E ALTRI SERVIZI NEI SETTORI ORDINARI
 
-#### Art. 271
+## ((PARTE ABROGATA DAL D.LGS. 18 APRILE 2016, N. 50))
 
+###### Art. 271
+
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 272
+###### Art. 272
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 273
+###### Art. 273
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 274
+###### Art. 274
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 275
+###### Art. 275
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 276
+###### Art. 276
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 277
+###### Art. 277
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 278
+###### Art. 278
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 279
+###### Art. 279
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 280
+###### Art. 280
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 281
+###### Art. 281
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 282
+###### Art. 282
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 283
+###### Art. 283
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 284
+###### Art. 284
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 285
+###### Art. 285
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 286
+###### Art. 286
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 287
+###### Art. 287
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 288
+###### Art. 288
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 289
+###### Art. 289
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 290
+###### Art. 290
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 291
+###### Art. 291
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 292
+###### Art. 292
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 293
+###### Art. 293
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 294
+###### Art. 294
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 295
+###### Art. 295
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 296
+###### Art. 296
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 297
+###### Art. 297
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 298
+###### Art. 298
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 299
+###### Art. 299
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 300
+###### Art. 300
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 301
+###### Art. 301
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 302
+###### Art. 302
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 303
+###### Art. 303
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 304
+###### Art. 304
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 305
+###### Art. 305
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 306
+###### Art. 306
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 307
+###### Art. 307
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 308
+###### Art. 308
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 309
+###### Art. 309
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 310
+###### Art. 310
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 311
+###### Art. 311
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 312
+###### Art. 312
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 313
+###### Art. 313
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 314
+###### Art. 314
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 315
+###### Art. 315
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 316
+###### Art. 316
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 317
+###### Art. 317
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 318
+###### Art. 318
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 319
+###### Art. 319
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 320
+###### Art. 320
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 321
+###### Art. 321
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 322
+###### Art. 322
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 323
+###### Art. 323
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 324
+###### Art. 324
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 325
+###### Art. 325
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 326
+###### Art. 326
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 327
+###### Art. 327
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 328
+###### Art. 328
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 329
+###### Art. 329
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 330
+###### Art. 330
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 331
+###### Art. 331
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 332
+###### Art. 332
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 333
+###### Art. 333
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 334
+###### Art. 334
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 335
+###### Art. 335
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 336
+###### Art. 336
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 337
+###### Art. 337
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 338
+###### Art. 338
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-## PARTE V - CONTRATTI PUBBLICI RELATIVI A LAVORI, SERVIZI E FORNITURE NEI SETTORI SPECIALI - ((PARTE ABROGATA DAL D.LGS. 18 APRILE 2016, N. 50))
+## PARTE V - CONTRATTI PUBBLICI RELATIVI A LAVORI, SERVIZI E FORNITURE NEI SETTORI SPECIALI
 
-#### Art. 339
+## ((PARTE ABROGATA DAL D.LGS. 18 APRILE 2016, N. 50))
 
+###### Art. 339
+
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 340
+###### Art. 340
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 341
+###### Art. 341
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 342
+###### Art. 342
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
-
-## PARTE VI - CONTRATTI ESEGUITI ALL'ESTERO - TITOLO I - CONTRATTI NELL'AMBITO DI ATTUAZIONE DELLA LEGGE 26
 
-### febbraio 1987, N. 49
+## PARTE VI - CONTRATTI ESEGUITI ALL'ESTERO - TITOLO I - CONTRATTI NELL'AMBITO DI ATTUAZIONE DELLA LEGGE 26 febbraio 1987, N. 49
 
-#### Art. 343
+###### Art. 343
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 NOVEMBRE 2017, N. 192))
 
-#### Art. 344
+###### Art. 344
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 NOVEMBRE 2017, N. 192))
 
-#### Art. 345
+###### Art. 345
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 NOVEMBRE 2017, N. 192))
 
-#### Art. 346
+###### Art. 346
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 NOVEMBRE 2017, N. 192))
 
-#### Art. 347
+###### Art. 347
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 NOVEMBRE 2017, N. 192))
 
-#### Art. 348
+###### Art. 348
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 NOVEMBRE 2017, N. 192))
 
-#### Art. 349
+###### Art. 349
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 NOVEMBRE 2017, N. 192))
 
-#### Art. 350
+###### Art. 350
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 NOVEMBRE 2017, N. 192))
 
 ## TITOLO II - LAVORI SU IMMOBILI ALL'ESTERO AD USO DELL'AMMINISTRAZIONE - DEL MINISTERO DEGLI AFFARI ESTERI
 
-#### Art. 351
+###### Art. 351
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 NOVEMBRE 2017, N. 192))
 
-#### Art. 352
+###### Art. 352
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 NOVEMBRE 2017, N. 192))
 
-#### Art. 353
+###### Art. 353
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 NOVEMBRE 2017, N. 192))
 
-#### Art. 354
+###### Art. 354
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 NOVEMBRE 2017, N. 192))
 
-#### Art. 355
+###### Art. 355
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 NOVEMBRE 2017, N. 192))
 
-#### Art. 356
+###### Art. 356
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 NOVEMBRE 2017, N. 192))
 
-## PARTE VII - DISPOSIZIONI TRANSITORIE E ABROGAZIONI - ((PARTE ABROGATA DAL D.LGS. 18 APRILE 2016, N. 50))
+## PARTE VII - DISPOSIZIONI TRANSITORIE E ABROGAZIONI
 
-#### Art. 357
+## ((PARTE ABROGATA DAL D.LGS. 18 APRILE 2016, N. 50))
+
+###### Art. 357
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 358
+###### Art. 358
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Art. 359
+###### Art. 359
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
@@ -5882,9 +5912,11 @@ comma 22 della frase:
 
 «In relazione all'articolo 79, comma 21, fino alla data di entrata in vigore del decreto del Presidente del Consiglio dei Ministri, ivi previsto, ai fini del rilascio da parte delle SOA dell'attestazione di qualificazione nelle categorie di cui all'articolo 107, comma 2, per i requisiti di specializzazione richiesti per l'esecuzione dei lavori relativi alle medesime categorie si applica l'articolo 79»
 
-## PARTE VII - DISPOSIZIONI TRANSITORIE E ABROGAZIONI - ((PARTE ABROGATA DAL D.LGS. 18 APRILE 2016, N. 50))
+## PARTE VII - DISPOSIZIONI TRANSITORIE E ABROGAZIONI
 
-#### Allegato A
+## ((PARTE ABROGATA DAL D.LGS. 18 APRILE 2016, N. 50))
+
+###### Allegato A
 
 Allegato A
 
@@ -6182,7 +6214,7 @@ AGGIORNAMENTO (19)
 
 Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 28, comma 4) che "Fino all'entrata in vigore del decreto di cui all'articolo 83, comma 2, del Codice dei contratti pubblici, le categorie OS 2-A e OS 24 di cui all'allegato A al decreto del Presidente della Repubblica 5 ottobre 2010, n. 207 ricomprendono anche i lavori relativi, rispettivamente, ai materiali storicizzati di beni culturali immobili e al verde storico di cui all'articolo 10, comma 4, lettera f), del Codice dei beni culturali e del paesaggio".
 
-#### Allegato B
+###### Allegato B
 
 Allegato B
 
@@ -6196,7 +6228,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente allegato e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Allegato C
+###### Allegato C
 
 Allegato C
 
@@ -6262,7 +6294,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente allegato e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Allegato D
+###### Allegato D
 
 Allegato D
 
@@ -6276,61 +6308,61 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 aprile 2016, n. 50 ha disposto (con l'art. 217, comma 1, lettera u)) che il presente allegato e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del D.Lgs. 18 aprile 2016, n. 50, i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
-#### Allegato E
+###### Allegato E
 
 Allegato E
 
 ((ALLEGATO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Allegato F
+###### Allegato F
 
 Allegato F
 
 ((ALLEGATO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Allegato G
+###### Allegato G
 
 Allegato G
 
 ((ALLEGATO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Allegato H
+###### Allegato H
 
 Allegato H
 
 ((ALLEGATO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Allegato I
+###### Allegato I
 
 Allegato I
 
 ((ALLEGATO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Allegato L
+###### Allegato L
 
 Allegato L
 
 ((ALLEGATO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Allegato M
+###### Allegato M
 
 Allegato M
 
 ((ALLEGATO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Allegato N
+###### Allegato N
 
 Allegato N
 
 ((ALLEGATO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Allegato O
+###### Allegato O
 
 Allegato O
 
 ((ALLEGATO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
-#### Allegato P
+###### Allegato P
 
 Allegato P
 

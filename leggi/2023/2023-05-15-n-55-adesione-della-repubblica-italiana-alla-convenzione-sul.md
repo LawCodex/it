@@ -30,25 +30,25 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione all'adesione
 
 1\. Il Presidente della Repubblica e' autorizzato ad aderire alla Convenzione sul controllo e la marchiatura degli oggetti in metalli preziosi, con Allegati, fatta a Vienna il 15 novembre 1972.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena e intera esecuzione e' data alla Convenzione di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 15 della Convenzione stessa.
 
-### Art. 3
+## Art. 3
 
 Uffici del saggio e loro marchio
 
 1\. Gli uffici del saggio del sistema camerale sono designati ai sensi dell'articolo 5 della Convenzione di cui all'articolo 1 della presente legge. Essi appongono il marchio comune di controllo previsto dall'articolo 7 della Convenzione medesima, congiuntamente al marchio di cui all'articolo 34, comma 1, del regolamento di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 150, identificativo dei medesimi uffici del saggio, senza nuovi o maggiori oneri a carico della finanza pubblica.
 
-### Art. 4
+## Art. 4
 
 Copertura finanziaria
 
@@ -56,13 +56,13 @@ Copertura finanziaria
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 5
+## Art. 5
 
 Clausola di invarianza finanziaria
 
 1\. Dall'attuazione delle disposizioni della Convenzione di cui all'articolo 1, ad esclusione dell'articolo 10 della medesima Convenzione, non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-### Art. 6
+## Art. 6
 
 Entrata in vigore
 
@@ -128,7 +128,7 @@ Tenuto conto che non e' richiesta la marcatura di garanzia obbligatoria dagli St
 
 Hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 1\. Gli oggetti controllati e marchiati in da un ufficio del saggio autorizzato, in conformita' alle disposizioni della presente Convenzione, non devono essere sottoposti a ulteriori controlli o marchiature obbligatori nello Stato contraente importatore. Cio' non impedisce allo Stato contraente importatore di effettuare prove di controllo ai sensi dell'articolo 6.
 
@@ -136,11 +136,11 @@ Hanno convenuto quanto segue:
 
 (1) I seguenti Stati hanno aderito alla Convenzione (tra parentesi la data di entrata in vigore): Irlanda (08.l1.1983), Danimarca (17.01.1988) Repubblica Ceca (02.11.1994), Paesi Bassi (16.07.1999), Lettonia (29.07.2004), Lituania (04.08.2004), Israele (01.06.2005), Polonia (22.11.2005), Ungheria (01.03.2006), Cipro (17.01.2007), Slovacchia (06.05.2007) e Slovenia (05.03.2009).
 
-### Articolo 2
+## Articolo 2
 
 Ai fini della presente Convenzione, per «oggetti in metalli preziosi» si intendono gli oggetti realizzati in platino, oro, palladio, argento o loro leghe, come precisato nell'Allegato I.
 
-### Articolo 3
+## Articolo 3
 
 1\. Per beneficiare di quanto previsto dall'articolo 1, gli oggetti in metalli preziosi devono:
 
@@ -154,13 +154,13 @@ Ai fini della presente Convenzione, per «oggetti in metalli preziosi» si inten
 
 2\. I benefici di cui all'Articolo 1 non possono essere applicati agli oggetti in metalli preziosi che, dopo essere stati marchiati come stabilito nell'Allegato II, abbiano avuto detti marchi alterati o cancellati.
 
-### Articolo 4
+## Articolo 4
 
 Gli Stati contraenti non sono obbligati ad applicare le disposizioni del comma 1 dell'articolo 1 agli oggetti in metalli preziosi che, dopo essere stati presentati ad un ufficio del saggio autorizzato ed essere stati controllati e marchiati come previsto dall'articolo 3, siano stati alterati mediante aggiunte o in qualsiasi altro modo.
 
 ## II Controlli e sanzioni
 
-### Articolo 5
+## Articolo 5
 
 l. Ciascuno Stato contraente deve designare uno o piu' uffici del saggio autorizzati per il controllo e la marcatura degli oggetti in metalli preziosi come previsto nell'Allegato II.
 
@@ -176,23 +176,23 @@ l. Ciascuno Stato contraente deve designare uno o piu' uffici del saggio autoriz
 
 3\. Ciascuno Stato contraente deve informare il depositario in merito alla nomina di tali uffici del saggio e dei loro marchi e a qualsiasi revoca di tale autorizzazione ad un ufficio del saggio precedentemente designato. Il depositario, conseguentemente, deve darne immediata comunicazione a tutti gli altri Stati contraenti.
 
-### Articolo 6
+## Articolo 6
 
 Le disposizioni della presente Convenzione non impediscono a uno Stato contraente di effettuare prove di controllo su oggetti in metalli preziosi recanti marchi previsti dalla presente Convenzione.
 
 Tali prove non potranno essere svolte in modo tale da ostacolare indebitamente l'importazione o la vendita di oggetti in metalli preziosi marchiati conformemente alle disposizioni della presente Convenzione.
 
-### Articolo 7
+## Articolo 7
 
 Gli Stati contraenti, con il presente atto, autorizzano il depositario a registrare presso l'Organizzazione Mondiale della Proprieta' Intellettuale (W.I.P.O.), ai sensi della Convenzione di Parigi per la Protezione della Proprieta' Industriale, il Marchio Comune di Controllo descritto nell'Allegato II, quale marchio nazionale ufficiale di garanzia di ciascun Stato contraente. Il depositario e' autorizzato anche a fare cio' nel caso di uno Stato contraente in cui la Convenzione entrera' in vigore in data posteriore o nel caso di un nuovo Stato membro.
 
-### Articolo 8
+## Articolo 8
 
 1\. Ciascuno Stato contraente deve avere e mantenere una normativa che proibisca, a pena di sanzioni, qualsiasi contraffazione, modifica non autorizzata o uso illecito del Marchio Comune di Controllo o dei marchi degli uffici del saggio autorizzati che siano stati notificati ai sensi dell'articolo 5, comma 3, nonche' qualsiasi alterazione non autorizzata all'oggetto o modifica o cancellazione del marchio del titolo o del marchio di responsabilita' avvenuta successivamente all'apposizione del Marchio Comune di Controllo.
 
 2\. Ciascuno Stato contraente si impegna ad avviare procedimenti legali, ai sensi di tale normativa, qualora un altro Stato contraente rilevi o porti alla sua attenzione sufficienti prove di contraffazione o uso illecito del Marchio Comune di Controllo o dei marchi degli uffici dei saggio autorizzati o di alterazione non autorizzata dell'oggetto o alterazione o cancellazione del marchio del titolo o del marchio di responsabilita' avvenuta successivamente all'apposizione del Marchio Comune di Controllo o laddove piu' appropriato ad adottare altri provvedimenti adeguati.
 
-### Articolo 9
+## Articolo 9
 
 1\. Qualora uno Stato contraente importatore o uno dei suoi uffici del saggio autorizzati abbia motivo di ritenere che un ufficio del saggio in mio Stato contraente esportatore abbia apposto il Marchio Comune di Controllo senza aver ottemperato alle pertinenti disposizioni della presente Convenzione, l'ufficio del saggio, che si presume abbia marchiato gli oggetti, deve essere immediatamente interpellato e deve prontamente fornire tutta l'opportuna collaborazione per gli accertamenti del caso. Nel caso in non si dovesse trovare una soluzione soddisfacente, ciascuna delle parti potra' sottoporre il caso al Comitato Permanente, notificandolo al suo Presidente. In tale ipotesi, il Presidente dovra' convocare una riunione del Comitato Permanente.
 
@@ -204,7 +204,7 @@ Gli Stati contraenti, con il presente atto, autorizzano il depositario a registr
 
 ## III Comitato permanente e modifiche
 
-### Articolo 10
+## Articolo 10
 
 1\. Con la presente, e' istituito un Comitato Permanente, in cui e' rappresentato ogni Stato contraente. Ogni Stato contraente ha un voto.
 
@@ -230,7 +230,7 @@ esaminare se le disposizioni di uno Stato interessato ad aderire alla presente C
 
 5\. Il Comitato Permanente puo' formulare raccomandazioni su qualsiasi questione connessa all'attuazione della presente Convenzione, nonche' avanzare proposte di modifica della stessa. Tali raccomandazioni o proposte devono essere trasmesse al depositario che dovra' comunicarle a tutti gli Stati contraenti.
 
-### Articolo 11
+## Articolo 11
 
 Modifica alla Convenzione
 
@@ -248,7 +248,7 @@ Modifica agli Allegati
 
 ## IV Disposizioni finali - Adesione
 
-### Articolo 12
+## Articolo 12
 
 1\. Qualsiasi Stato che sia membro delle Nazioni Unite o di una agenzia specializzata o dell'Agenzia Internazionale per l'Energia Atomica o parte dello Statuto della Corte Internazionale di Giustizia e che disponga dei mezzi per il controllo e la marcatura di oggetti in metalli preziosi necessari a soddisfare i requisiti della Convenzione e dei suoi Allegati puo', su invito degli Stati contraenti trasmessogli dal depositario, aderire alla presente Convenzione.
 
@@ -258,7 +258,7 @@ Modifica agli Allegati
 
 4\. Lo Stato invitato puo' aderire alla presente Convenzione depositando un documento di adesione presso il depositario che dovra' notificarlo a tutti gli Stati contraenti. L'adesione diverra' effettiva decorsi tre mesi dal deposito del documento.
 
-### Articolo 13
+## Articolo 13
 
 1\. Il Governo di ciascuno Stato firmatario o aderente puo', al momento del deposito del proprio documento di ratifica o adesione o in qualsiasi momento successivo, dichiarare per iscritto al depositario che la presente Convenzione si applichera' in tutti o in una parte dei territori, indicati in tale dichiarazione, per le relazioni esterne delle quali e' responsabile. Il depositario dovra' trasmettere tutte queste dichiarazioni ai Governi di tutti gli altri Stati contraenti.
 
@@ -268,13 +268,13 @@ Modifica agli Allegati
 
 ## Recesso
 
-### Articolo 14
+## Articolo 14
 
 Ogni Stato contraente puo' recedere dalla presente Convenzione purche' dia un preavviso scritto di dodici mesi al depositario che dovra' informare tutti gli Stati contraenti o alle altre eventuali condizioni concordate tra gli Stati contraenti. Ciascuno Stato contraente si impegna, in caso di recesso dalla Convenzione, a cessare, dopo l'uscita, di utilizzare o applicare, per qualsiasi fine, il Marchio Comune di Controllo.
 
 ## Ratifica
 
-### Articolo 15
+## Articolo 15
 
 l. La presente Convenzione dovra' essere ratificata dagli Stati firmatari. I documenti di ratifica dovranno essere depositati presso il depositario che dovra' informare tutti gli alti Stati firmatari.
 
@@ -286,7 +286,7 @@ Stipulata a Vienna il giorno 15 novembre 1972, in un'unica copia in inglese e fr
 
 Seguono le firme dei rappresentanti di Austria, Finlandia, Norvegia, Portogallo, Svezia, Svizzera e Regno Unito.
 
-### Allegato I
+## Allegato I
 
 ALLEGATI I E II
 
@@ -457,7 +457,7 @@ c) le parti in metallo comune devono riportare il marchio «METALLO».
 
 Il Comitato Permanente decide in merito ai rivestimenti consentiti e alle eccezioni per motivi tecnici.
 
-### Allegato II
+## Allegato II
 
 ALLEGATO II
 
@@ -567,7 +567,7 @@ Il Marchio Comune di Controllo relativo ai metalli piu' preziosi puo' non essere
 
 5.9.1 I marchi di cui al comma 5.1.2 devono essere apposti sulla parte in metallo prezioso di un oggetto multimetallo. Il marchio «METALLO» (o equivalente) deve essere apposto sulla parte metallica, ai sensi del comma 2.6 dell'Allegato I alla Convenzione. 5.9.2 Il Comitato Permanente puo' stabilire ulteriori dettagli o eccezioni.
 
-### Convention
+## Convention
 
 AMENDMENT TO THE TEXT OF
 

@@ -52,11 +52,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - DISPOSIZIONI GENERALI
 
-### DISPOSIZIONI GENERALI
-
-#### Art. 1
+### Art. 1
 
 Finalita' e ambito di applicazione
 
@@ -66,7 +64,7 @@ Finalita' e ambito di applicazione
 
 ((2-bis. Le sanzioni amministrative di cui al presente decreto non si applicano ai servizi prestati esclusivamente a fini storici o turistici con esclusione delle sanzioni per l'inosservanza degli obblighi di cui all'articolo 14 del regolamento (UE) 2021/782)).
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -100,13 +98,13 @@ o) impresa ferroviaria: qualsiasi impresa pubblica o privata titolare di una lic
 
 p) gestore dell'infrastruttura: qualsiasi organismo o impresa incaricati in particolare della creazione e della manutenzione della infrastruttura ferroviaria o di parte di essa, quale definita all'articolo 3 della direttiva 91/440/CEE, compresa eventualmente la gestione dei sistemi di controllo e di sicurezza della infrastruttura.
 
-#### Art. 3
+### Art. 3
 
 ((Organismo))
 
 1\. ((L'Organismo)) del regolamento, competente per lo svolgimento delle funzioni di cui all'articolo 4 e' individuato nell'Autorita' di regolazione dei trasporti. ((Essa e' altresi' responsabile dell'applicazione del regolamento (UE) 2017/2394 del Parlamento europeo e del Consiglio, del 12 dicembre 2017, relativamente alla materia disciplinata dal regolamento (UE) 2021/782)).
 
-#### Art. 4
+### Art. 4
 
 Funzioni dell'((Organismo))
 
@@ -128,7 +126,7 @@ c) prescrivere la cessazione delle condotte in contrasto con il regolamento, dis
 
 6\. E' fatta salva l'applicazione delle penali previste dai contratti di servizio pubblico in vigore, limitatamente a condotte diverse da quelle sanzionate ai sensi del presente decreto.
 
-#### Art. 5
+### Art. 5
 
 Procedimento per l'accertamento e irrogazione delle sanzioni
 
@@ -154,11 +152,9 @@ Con successivo decreto del Ministro delle infrastrutture e dei trasporti, su pro
 
 6\. Tutte le notizie, le informazioni o i dati riguardanti i soggetti passivi ((interessati dal procedimento sanzionatorio e comunque acquisiti durante il medesimo procedimento sanzionatorio)) sono tutelati dal segreto d'ufficio.
 
-## Capo II
+## Capo II - SANZIONI IN MATERIA DI CONTRATTO DI TRASPORTO DI OBBLIGO DI INFORMAZIONE E VENDITA DI BIGLIETTI
 
-### SANZIONI IN MATERIA DI CONTRATTO DI TRASPORTO DI OBBLIGO DI - INFORMAZIONE E VENDITA DI BIGLIETTI
-
-#### Art. 6
+### Art. 6
 
 (( (Sanzioni in materia di contratto di trasporto, di informazioni e biglietti, di responsabilita' delle imprese ferroviarie in relazione ai passeggeri e ai loro bagagli, di sicurezza, di ritardi, perdite di coincidenza e soppressioni, di meccanismo per la gestione dei reclami, di qualita' del servizio e di informazioni ai passeggeri in merito ai loro diritti). ))
 
@@ -170,13 +166,13 @@ Ai fini della valutazione della violazione si tiene conto delle esigenze delle p
 
 3\. Le imprese ferroviarie che non intendano offrire la possibilita' di ottenere biglietti a bordo treno, qualora cio' sia limitato o negato per motivi di sicurezza o di politica antifrode o a causa dell'obbligo di prenotazione o per ragionevoli motivi commerciali, ai sensi dell'articolo 11, paragrafo 4, primo comma, del regolamento, ne danno motivata informazione all'Organismo e rendono pubblica tale decisione, anche mediante pubblicazione nelle condizioni generali di trasporto.))
 
-#### Art. 6-bis
+### Art. 6-bis
 
 (( (Sanzioni in materia di tempistica di risposta ai reclami e alle domande di rimborso e indennizzo). ))
 
 ((1. In caso di inosservanza degli obblighi di cui agli articoli 12, paragrafo 7, 18, paragrafo 5, 19, paragrafo 7, e 28, paragrafo 2, del regolamento, il venditore di biglietti, il tour operator, l'impresa ferroviaria e il gestore della stazione sono soggetti al pagamento di una sanzione amministrativa pecuniaria da 1.000 euro a 5.000 euro)).
 
-#### Art. 7
+### Art. 7
 
 Inefficacia delle clausole contenenti deroghe e limitazioni all'applicazione del regolamento previste nel contratto di trasporto
 
@@ -184,75 +180,65 @@ Inefficacia delle clausole contenenti deroghe e limitazioni all'applicazione del
 
 L'Organismo puo' ordinare la modifica della clausola derogatoria o restrittiva)).
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.L. 13 GIUGNO 2023, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 103))
 
-#### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.L. 13 GIUGNO 2023, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 103))
 
-#### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.L. 13 GIUGNO 2023, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 103))
 
-#### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.L. 13 GIUGNO 2023, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 103))
 
-## Capo III
+## Capo III - SANZIONI IN MATERIA DI RESPONSABILITA' DELLE IMPRESE FERROVIARIE IN RELAZIONE AI PASSEGGERI ED AI LORO BAGAGLI
 
-### SANZIONI IN MATERIA DI RESPONSABILITA' DELLE IMPRESE FERROVIARIE IN - RELAZIONE AI PASSEGGERI ED AI LORO BAGAGLI
-
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.L. 13 GIUGNO 2023, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 103))
 
-#### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.L. 13 GIUGNO 2023, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 103))
 
-## Capo IV
+## Capo IV - SANZIONI RELATIVE A RITARDI, COINCIDENZE PERSE E SOPPRESSIONI
 
-### SANZIONI RELATIVE A RITARDI, COINCIDENZE PERSE E SOPPRESSIONI
-
-#### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.L. 13 GIUGNO 2023, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 103))
 
-#### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.L. 13 GIUGNO 2023, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 103))
 
-## Capo V
+## Capo V - SANZIONI PER VIOLAZIONE OBBLIGHI RELATIVI A PERSONE CON DISABILITA' E PERSONE A MOBILITA' RIDOTTA
 
-### SANZIONI PER VIOLAZIONE OBBLIGHI RELATIVI A PERSONE CON DISABILITA' E - PERSONE A MOBILITA' RIDOTTA
-
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.L. 13 GIUGNO 2023, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 103))
 
-## Capo VI
+## Capo VI - SANZIONI RELATIVE AGLI OBBLIGHI IN MATERIA DI SICUREZZA, RECLAMI E QUALITA' DEL SERVIZIO
 
-### SANZIONI RELATIVE AGLI OBBLIGHI IN MATERIA DI SICUREZZA, RECLAMI E - QUALITA' DEL SERVIZIO
-
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.L. 13 GIUGNO 2023, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 103))
 
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.L. 13 GIUGNO 2023, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 103))
 
-#### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.L. 13 GIUGNO 2023, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 103))
 
-## Capo VII
+## Capo VII - SANZIONI RELATIVE AD OBBLIGHI INFORMATIVI
 
-### SANZIONI RELATIVE AD OBBLIGHI INFORMATIVI
-
-#### Art. 20
+### Art. 20
 
 (( (Sanzioni per violazioni degli obblighi a tutela del diritto al trasporto di persone con disabilita' o a mobilita' ridotta). ))
 
@@ -260,23 +246,21 @@ L'Organismo puo' ordinare la modifica della clausola derogatoria o restrittiva))
 
 2\. Alle sanzioni di cui al comma 1 non si applica l'articolo 16 della legge 24 novembre 1981, n. 689.))
 
-#### Art. 20-bis
+### Art. 20-bis
 
 (( (Sanzione in caso di inottemperanza agli ordini disposti dall'Organismo). ))
 
 ((1. In caso di mancata ottemperanza agli ordini di cui all'articolo 7 nonche' agli ordini di cessazione delle condotte lesive di cui all'articolo 4, comma 2, lettera c), disposti dall'Organismo, il soggetto passivo e' tenuto al pagamento di una sanzione amministrativa pecuniaria da euro 500 a euro 2.000 per ogni giorno di ritardo nella rimozione della condotta lesiva.))
 
-#### Art. 20-ter
+### Art. 20-ter
 
 (( (Sanzione in caso di omesse, tardive, inesatte, incomplete o fuorvianti informazioni all'Organismo). ))
 
 ((1. I destinatari di una richiesta formulata, ai sensi dell'articolo 32, paragrafo 2, del regolamento, dall'Organismo, che forniscono informazioni inesatte, fuorvianti o incomplete ovvero non forniscono le informazioni nel termine stabilito, sono soggetti al pagamento di una sanzione amministrativa pecuniaria da euro 5.000 a euro 50.000)).
 
-## Capo VIII
+## Capo VIII - DISPOSIZIONI FINANZIARIE E FINALI
 
-### DISPOSIZIONI FINANZIARIE E FINALI
-
-#### Art. 21
+### Art. 21
 
 Disposizioni finanziarie
 

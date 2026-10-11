@@ -27,21 +27,21 @@ P r o m u l g a
 
 la seguente legge:
 
-### Art. 1 - Autorizzazione alla ratifica
+## Art. 1 - Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione sulla protezione e la promozione delle diversita' delle espressioni culturali, fatta a Parigi il 20 ottobre 2005.
 
-### Art. 2 - Ordine di esecuzione
+## Art. 2 - Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data alla Convenzione di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 29 della Convenzione stessa.
 
-### Art. 3 - Copertura finanziaria
+## Art. 3 - Copertura finanziaria
 
 1\. Per l'attuazione della presente legge e' autorizzata la spesa di euro 14.130 per l'anno 2007, di euro 7.870 per l'anno 2008 e di euro 14.130 annui a decorrere dal 2009. Al relativo onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2007-2009, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2007, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 4 - Entrata in vigore
+## Art. 4 - Entrata in vigore
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -61,7 +61,7 @@ Visto, il Guardasigilli: Mastella
 
 ## Allegati
 
-### Convention
+## Convention
 
 Parte di provvedimento in formato grafico
 
@@ -117,7 +117,7 @@ Riferendosi alle disposizioni degli strumenti internazionali adottati dall'UNESC
 
 Adotta questa Convenzione il 20 ottobre 2005.
 
-### Articolo 1 - Obiettivi
+## Articolo 1 - Obiettivi
 
 Gli obiettivi di questa Convenzione sono:
 
@@ -139,7 +139,7 @@ Gli obiettivi di questa Convenzione sono:
 
 (i) rafforzare la cooperazione e la solidarieta' internazionali in un contesto di partenariato al fine, in particolare, di accrescere le capacita' dei Paesi in via di sviluppo di proteggere e promuovere la diversita' delle espressioni culturali.
 
-### Articolo 2 - Principi guida
+## Articolo 2 - Principi guida
 
 1\. Principio del rispetto dei diritti dell'uomo e delle liberta'
 
@@ -177,13 +177,13 @@ Quando gli Stati adottano misure per favorire la diversita' delle espressioni cu
 
 ## II. Campo d'applicazione
 
-### Articolo 3 - Ambito d'applicazione
+## Articolo 3 - Ambito d'applicazione
 
 Questa Convenzione si applica alle politiche ed alle misure adottate dalle Parti relative alla protezione ed alla promozione della diversita' delle espressioni culturali.
 
 ## III. Definizioni
 
-### Articolo 4 - Definizioni
+## Articolo 4 - Definizioni
 
 Ai fini di questa Convenzione, s'intende che:
 
@@ -225,7 +225,7 @@ Queste espressioni si trasmettono in seno ai gruppi, alle societa' e tra loro. L
 
 ## IV. Diritti e obblighi delle Parti
 
-### art. 5
+## art. 5
 
 Articolo 5 - Regola generale riguardante diritti ed obblighi
 
@@ -233,7 +233,7 @@ Articolo 5 - Regola generale riguardante diritti ed obblighi
 
 2\. Allorche' una Parte attua delle politiche e adotta delle misure per proteggere e promuovere la diversita' delle espressioni culturali sul suo territorio, le sue politiche e misure devono essere compatibili con le disposizioni di questa Convenzione.
 
-### art. 6
+## art. 6
 
 Articolo 6 - Diritti delle Parti a livello nazionale
 
@@ -255,7 +255,7 @@ Articolo 6 - Diritti delle Parti a livello nazionale
 
 (h) misure che mirano a promuovere la diversita' dei media, anche per mezzo del servizio pubblico di radiodiffusione;
 
-### art. 7
+## art. 7
 
 Articolo 7 - Misure volte a promuovere le espressioni culturali
 
@@ -267,7 +267,7 @@ Articolo 7 - Misure volte a promuovere le espressioni culturali
 
 2\. Le Parti si impegnano anche a riconoscere l'importante contributo degli artisti e di tutti coloro che sono coinvolti nel processo creativo, delle comunita' culturali e delle organizzazioni che li sostengono nel loro lavoro, ed il loro ruolo centrale nell'alimentare la diversita' delle espressioni culturali.
 
-### art. 8
+## art. 8
 
 Articolo 8 - Misure per proteggere le espressioni culturali
 
@@ -277,7 +277,7 @@ Articolo 8 - Misure per proteggere le espressioni culturali
 
 3\. Le Parti fanno rapporto al Comitato Intergovernativo previsto all'articolo 23 su tutte le misure adottate per far fronte alle esigenze del caso ed il Comitato puo' formulare le raccomandazioni del caso.
 
-### art. 9
+## art. 9
 
 Articolo 9 - Condivisione delle informazioni e trasparenza
 
@@ -289,7 +289,7 @@ Le Parti devono:
 
 (c) condividere e scambiare le informazioni relative alla protezione e promozione della diversita' delle espressioni culturali.
 
-### art. 10
+## art. 10
 
 Articolo 10 - Educazione e sensibilizzazione del pubblico
 
@@ -301,13 +301,13 @@ Le Parti devono:
 
 (c) impegnarsi ad incoraggiare la creativita' ed a rafforzare le capacita' di produzione attraverso l'avvio di programmi educativi, di formazione e scambio nel campo delle industrie culturali. Queste misure dovrebbero essere applicate in modo che non abbiano un impatto negativo sulle forme tradizionali di produzione.
 
-### art. 11
+## art. 11
 
 Articolo 11 - Partecipazione della societa' civile
 
 Le Parti riconoscono il ruolo fondamentale della societa' civile nella protezione e promozione della diversita' delle espressioni culturali. Le Parti incoraggiano la partecipazione attiva della societa' civile ai loro sforzi volti a raggiungere gli obiettivi di questa Convenzione.
 
-### art. 12
+## art. 12
 
 Articolo 12 - Promozione della cooperazione internazionale
 
@@ -323,13 +323,13 @@ Le Parti s'impegnano a rafforzare la loro cooperazione bilaterale, regionale ed 
 
 (e) incoraggiare la conclusione di accordi di coproduzione e di codistribuzione.
 
-### art. 13
+## art. 13
 
 Articolo 13 - Integrazione della cultura nello sviluppo sostenibile
 
 Le Parti s'impegnano ad integrare la cultura nelle loro politiche di sviluppo, a tutti i livelli, al fine di creare le condizioni propizie allo sviluppo sostenibile e, in questo contesto, al fine di favorire gli aspetti legati alla protezione e promozione della diversita' delle espressioni culturali.
 
-### art. 14
+## art. 14
 
 Articolo 14 - Cooperazione per lo sviluppo
 
@@ -357,25 +357,25 @@ Le Parti s'impegnano a sostenere la cooperazione per lo sviluppo sostenibile e l
 
 (iii) altre forme di assistenza finanziaria, quali prestiti a basso tasso d'interesse, contributi e altri meccanismi di finanziamento.
 
-### art. 15
+## art. 15
 
 Articolo 15 - Modalita' di collaborazione
 
 Le Parti s'impegnano ad incoraggiare lo sviluppo di partenariati tra e all'interno dei settori pubblico e privato e le organizzazioni senza scopo di lucro, al fine di cooperare con i Paesi in via di sviluppo al rafforzamento delle loro capacita' di protezione e di promozione della diversita' delle espressioni culturali. Questi partenariati innovativi devono mettere l'accento, in risposta ai bisogni concreti dei Paesi in via di sviluppo, sullo sviluppo delle infrastrutture, delle risorse umane e delle politiche, nonche' sugli scambi di attivita', beni e servizi culturali.
 
-### art. 16
+## art. 16
 
 Articolo 16 - Trattamento preferenziale per i Paesi in via di sviluppo
 
 I Paesi sviluppati devono facilitare gli scambi culturali con i Paesi in via di sviluppo accordando, attraverso strutture istituzionali e giuridiche adeguate, un trattamento preferenziale agli artisti e ad altre figure professionali ed operatori culturali, nonche' ai beni e servizi culturali provenienti dai Paesi in via di sviluppo.
 
-### art. 17
+## art. 17
 
 Articolo 17 - Cooperazione internazionale in situazioni di minaccia grave per le espressioni culturali
 
 Le Parti cooperano nel prestarsi assistenza, ed in particolare ai Paesi in via di sviluppo, nelle situazioni menzionate all'articolo 8.
 
-### art. 18
+## art. 18
 
 Articolo 18 - Fondo Internazionale per la Diversita' Culturale
 
@@ -405,7 +405,7 @@ Articolo 18 - Fondo Internazionale per la Diversita' Culturale
 
 7\. Le Parti s'impegnano a versare dei contributi volontari su base regolare per l'attuazione di questa Convenzione.
 
-### art. 19
+## art. 19
 
 Articolo 19 - Scambio, analisi e diffusione delle informazioni
 
@@ -421,7 +421,7 @@ Articolo 19 - Scambio, analisi e diffusione delle informazioni
 
 ## V. Relazioni con altri strumenti
 
-### art. 20
+## art. 20
 
 Articolo 20 - Rapporto con altri trattati: sostegno reciproco, complementarieta' e non subordinazione
 
@@ -435,7 +435,7 @@ gli altri trattati di cui esse sono parti; e
 
 2\. Nessuna disposizione di questa Convenzione puo' essere interpretata come tale da modificare i diritti e gli obblighi delle Parti derivanti da qualsiasi altro trattato di cui sono parti.
 
-### art. 21
+## art. 21
 
 Articolo 21 - Concertazione e coordinamento internazionali
 
@@ -443,7 +443,7 @@ Le Parti s'impegnano a promuovere gli obiettivi ed i principi di questa Convenzi
 
 ## VI. Organi della Convenzione
 
-### Articolo 22 - Conferenza delle Parti
+## Articolo 22 - Conferenza delle Parti
 
 1\. E' costituita una Conferenza delle Parti. La Conferenza delle Parti e' l'organo plenario e supremo di questa Convenzione.
 
@@ -461,7 +461,7 @@ Le Parti s'impegnano a promuovere gli obiettivi ed i principi di questa Convenzi
 
 (d) adottare ogni altra misura che essa giudica necessaria per promuovere gli obiettivi di questa Convenzione.
 
-### Articolo 23 - Comitato Intergovernativo
+## Articolo 23 - Comitato Intergovernativo
 
 1\. E' istituito presso l'UNESCO un Comitato Intergovernativo per la Protezione e la Promozione della Diversita' delle Espressioni Culturali, qui di seguito denominato " il Comitato Intergovemativo".
 
@@ -493,7 +493,7 @@ Esso e' composto dai rappresentanti di 18 Stati Parte della Convenzione, eletti 
 
 8\. Il Comitato Intergovernativo predispone e sottopone il suo Regolamento interno all'approvazione della Conferenza delle Parti.
 
-### Articolo 24 - Segretariato dell'UNESCO
+## Articolo 24 - Segretariato dell'UNESCO
 
 1\. Gli organi della Convenzione sono assistiti dal Segretariato dell'UNESCO.
 
@@ -501,7 +501,7 @@ Esso e' composto dai rappresentanti di 18 Stati Parte della Convenzione, eletti 
 
 ## VII. Disposizioni finali
 
-### art. 25
+## art. 25
 
 Articolo 25 - Soluzione delle controversie
 
@@ -513,7 +513,7 @@ Articolo 25 - Soluzione delle controversie
 
 4\. Ciascuna Parte puo', al momento della ratifica, dell'accettazione, dell'approvazione o deIl'adesione, dichiarare che essa non riconosce la procedura di conciliazione prevista qui sopra. La Parte che ha fatto una tale dichiarazione, puo', in qualsiasi momento, ritirarla attraverso una notifica al Direttore Generale dell'UNESCO.
 
-### art. 26
+## art. 26
 
 Articolo 26 - Ratifica, accettazione, approvazione o adesione da parte degli Stati membri
 
@@ -521,7 +521,7 @@ Articolo 26 - Ratifica, accettazione, approvazione o adesione da parte degli Sta
 
 2\. Gli strumenti di ratifica, accettazione, approvazione o adesione sono depositati presso il Direttore Generale dell'UNESCO.
 
-### Articolo 27 - Adesione
+## Articolo 27 - Adesione
 
 1\. Questa Convenzione e' aperta all'adesione di Stati non membri dell'UNESCO, ma membri dell'Organizzazione delle Nazioni Unite o di una delle sue agenzie specializzate, invitati ad aderirvi dalla Conferenza Generale dell'UNESCO.
 
@@ -549,17 +549,17 @@ Una tale organizzazione non esercita il suo diritto di voto se uno dei suoi Stat
 
 4\. Lo strumento di adesione e' depositato presso il Direttore Generale dell'UNESCO.
 
-### Articolo 28 - Punto di contatto
+## Articolo 28 - Punto di contatto
 
 Allorche' diviene Parte di questa Convenzione, ciascuna Parte designa il punto di contatto come previsto all'articolo 9.
 
-### Articolo 29 - Entrata in vigore
+## Articolo 29 - Entrata in vigore
 
 1\. Questa Convenzione entra in vigore tre mesi dopo la data del deposito del trentesimo strumento di ratifica, accettazione, approvazione o adesione, ma unicamente nei riguardi degli Stati o delle organizzazioni d'integrazione economica regionale che hanno depositato i loro rispettivi strumenti di ratifica, accettazione, approvazione o adesione a questa data o anteriormente. Essa entra in vigore per ogni altra Parte tre mesi dopo il deposito del suo strumento di ratifica, accettazione, approvazione o adesione.
 
 2\. Ai fini del presente articolo, nessuno degli strumenti depositati da un'organizzazione d'integrazione economica regionale deve essere considerato come aggiuntivo rispetto agli strumenti depositati dagli Stati membri della suddetta organizzazione.
 
-### art. 30
+## art. 30
 
 Articolo 30 - Regimi costituzionali federali o non unitari
 
@@ -569,7 +569,7 @@ Riconoscendo che gli accordi internazionali vincolano le Parti in modo uguale, i
 
 (b) per quel che riguarda le disposizioni di questa Convenzione la cui applicazione rientra nella competenza di ciascuna delle unita' costitutive, quali Stati, Contee, Province o Cantoni, che non sono, in base al regime costituzionale della Federazione, tenuti a pendere misure legislative, il Governo federale informa, se necessario, le autorita' competenti delle unita' costituenti, quali Stati, Contee, Province o Cantoni, con la sua raccomandazione per l'adozione.
 
-### Articolo 31 - Denuncia
+## Articolo 31 - Denuncia
 
 1\. Ciascuna delle Parti di questa Convenzione ha facolta' di denunciare questa Convenzione.
 
@@ -577,11 +577,11 @@ Riconoscendo che gli accordi internazionali vincolano le Parti in modo uguale, i
 
 3\. La denuncia ha effetto dodici mesi dopo la ricezione dello strumento di denuncia. Essa non modifica in nessun modo gli obblighi finanziari della Parte che denuncia la Convenzione, fino alla data in cui il ritiro ha effetto.
 
-### Articolo 32 - Funzioni del depositario
+## Articolo 32 - Funzioni del depositario
 
 Il Direttore Generale dell'UNESCO, in qualita' di depositario di questa Convenzione, informa gli Stati membri dell'Organizzazione, gli Stati non membri dell'Organizzazione e le organizzazioni d'integrazione economica regionale previste dall'articolo 27, cosi' come le Nazioni Unite, del deposito di ogni strumento di ratifica, accettazione, approvazione o adesione menzionato agli articoli 26 e 27, nonche' delle denunce previste dall'articolo 31.
 
-### Articolo 33 - Emendamenti
+## Articolo 33 - Emendamenti
 
 1\. Ogni Parte di questa Convenzione puo', attraverso comunicazione scritta indirizzata al Direttore Generale, proporre emendamenti a questa Convenzione. Il Direttore Generale trasmette questa comunicazione a tutte le Parti. Se, nei sei mesi che seguono la data di trasmissione della comunicazione, non meno della meta' delle Parti da' una risposta favorevole a questa richiesta, il Direttore Generale presenta questa proposta alla successiva sessione della Conferenza delle Parti, affinche' venga discussa ed eventualmente approvata.
 
@@ -599,15 +599,15 @@ Il Direttore Generale dell'UNESCO, in qualita' di depositario di questa Convenzi
 
 (b) Parte di questa Convenzione non emendata nei confronti di ogni Parte che non e' vincolata dagli emendamenti.
 
-### Articolo 34 - Testi che fanno fede
+## Articolo 34 - Testi che fanno fede
 
 Questa Convenzione e' redatta in arabo, cinese, inglese, francese, russo e spagnolo; i sei testi fanno tutti ugualmente fede.
 
-### Articolo 35 - Registrazione
+## Articolo 35 - Registrazione
 
 Conformemente all'articolo 102 della Carta delle Nazioni Unite, questa Convenzione deve essere registrata presso il Segretariato delle Nazioni Unite su richiesta del Direttore Generale dell'UNESCO.
 
-### art. 1
+## art. 1
 
 Allegato
 
@@ -617,24 +617,24 @@ Articolo 1 - Commissione di Conciliazione
 
 Su richiesta di una delle Parti della controversia, e' istituita una Commissione di Conciliazione. La Commissione, a meno che le Parti non convengano diversamente, e' composta da cinque membri, due designati da ciascuna Parte interessata ed un Presidente scelto di comune accordo da questi membri.
 
-### Articolo 2 - Membri della Commissione
+## Articolo 2 - Membri della Commissione
 
 In caso di controversia tra piu' di due Parti, le Parti che hanno lo stesso interesse designano di comune accordo i loro membri della Commissione. Allorche' due o piu' Parti hanno interessi separati o sono in disaccordo sul fatto di avere o meno lo stesso interesse, esse nominano i loro membri separatamente.
 
-### Articolo 3 - Nomina
+## Articolo 3 - Nomina
 
 Se nessuna nomina e' stata fatta dalle Parti entro due mesi dalla domanda di costituzione di una Commissione di Conciliazione, il Direttore Generale dell'UNESCO procede, se cosi' richiesto dalla Parte che ha fatto domanda, alle nomine necessarie entro un nuovo termine di due mesi.
 
-### art. 4
+## art. 4
 
 Articolo 4 - Presidente della Commissione
 
 Se un Presidente della Commissione di Conciliazione non e' stato scelto entro due mesi dalla nomina dell'ultimo membro della Commissione, il Direttore Generale dell'UNESCO, se cosi' richiesto da una Parte, designa un Presidente entro un nuovo termine di due mesi.
 
-### Articolo 5 - Decisioni
+## Articolo 5 - Decisioni
 
 La Commissione di Conciliazione prende le sue decisioni a maggioranza dei voti dei suoi membri.A meno che le Parti della controversia non convengano diversamente, essa stabilisce la sua procedura. La Commissione presenta una proposta di risoluzione della controversia, che le Parti esaminano in buona fede.
 
-### Articolo 6 - Disaccordi
+## Articolo 6 - Disaccordi
 
 Un disaccordo sulla competenza della Commissione di Conciliazione deve essere risolto dalla Commissione.

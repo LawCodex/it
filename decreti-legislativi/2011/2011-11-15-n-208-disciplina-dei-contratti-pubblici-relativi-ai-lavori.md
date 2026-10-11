@@ -56,13 +56,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - DEFINIZIONI, FINALITA', AMBITO DI APPLICAZIONE, PRINCIPI, DISPOSIZIONI COMUNI E ESCLUSIONI
 
-### DEFINIZIONI, FINALITA', AMBITO DI APPLICAZIONE, - PRINCIPI,
-
-#### DISPOSIZIONI COMUNI E ESCLUSIONI
-
-###### Art. 1
+#### Art. 1
 
 Definizioni
 
@@ -140,7 +136,7 @@ p) lavori e servizi per fini specificatamente militari: i lavori e i servizi del
 
 > \- Per i riferimenti al citato decreto del Presidente del Consiglio dei Ministri n. 7 del 2009, si veda nelle note alle premesse.
 
-###### Art. 2
+#### Art. 2
 
 Finalita' e ambito di applicazione
 
@@ -158,7 +154,7 @@ e) lavori e servizi per fini specificatamente militari;
 
 f) lavori e servizi sensibili.
 
-###### Art. 3
+#### Art. 3
 
 Principi e disciplina applicabile
 
@@ -170,7 +166,7 @@ Principi e disciplina applicabile
 
 4\. Ferme restando le disposizioni di cui alla parte IV del codice, il termine dilatorio di cui all'articolo 11, comma 10, del codice, non si applica, oltre che nei casi previsti dal comma 10-bis del citato articolo 11, anche nei casi in cui il presente decreto non prescriva la previa pubblicazione di un bando nella Gazzetta Ufficiale dell'Unione europea o nella Gazzetta Ufficiale della Repubblica italiana.
 
-###### Art. 4
+#### Art. 4
 
 Regolamenti
 
@@ -178,7 +174,7 @@ Regolamenti
 
 2\. Con regolamento da emanarsi con decreto del Presidente della Repubblica, ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, entro centoventi giorni dalla data di entrata in vigore del presente decreto, su proposta del Ministro dell'interno, di concerto con i Ministri per le politiche europee, degli affari esteri, della difesa, delle infrastrutture e dei trasporti, della giustizia, dell'ambiente e della tutela del territorio e del mare, delle politiche agricole forestali e alimentari, dell'economia e delle finanze e dello sviluppo economico, acquisito il parere del Consiglio superiore dei lavori pubblici, sentito il Consiglio di Stato, che si pronuncia entro quarantacinque giorni dalla richiesta, e' definita la disciplina esecutiva e attuativa concernente le materie di cui all'articolo 2, comma 1, lettere b), d) ed f), limitatamente agli istituti che richiedono una disciplina speciale rispetto a quella contenuta nel regolamento di esecuzione e di attuazione del codice.
 
-###### Art. 5
+#### Art. 5
 
 Contratti misti - Aggiudicazione
 
@@ -188,7 +184,7 @@ Contratti misti - Aggiudicazione
 
 3\. La decisione di aggiudicare un contratto unico non puo', tuttavia, essere presa al fine di escludere contratti dall'applicazione del presente decreto o del codice.
 
-###### Art. 6
+#### Art. 6
 
 Contratti esclusi e esclusioni specifiche. Utilizzo delle esclusioni
 
@@ -232,7 +228,7 @@ m) ai servizi di ricerca e sviluppo diversi da quelli i cui benefici appartengon
 
 3\. Nessuna delle norme, procedure, programmi, accordi, intese o appalti menzionati ai commi 1 e 2 puo' essere utilizzata allo scopo di non applicare le disposizioni del presente decreto.
 
-###### Art. 7
+#### Art. 7
 
 Norme applicabili ai contratti di servizi
 
@@ -242,7 +238,7 @@ Norme applicabili ai contratti di servizi
 
 3\. I contratti misti aventi per oggetto servizi di cui all'articolo 2 ed elencati sia nell'allegato I sia nell'allegato II sono aggiudicati in conformita' al presente decreto, allorche' il valore dei servizi elencati nell'allegato I risulta superiore al valore dei servizi elencati nell'allegato II. Negli altri casi, gli appalti sono soggetti unicamente agli articoli 23 e 24.
 
-###### Art. 8
+#### Art. 8
 
 Principi relativi ai contratti esclusi
 
@@ -298,7 +294,7 @@ Principi relativi ai contratti esclusi
 
 > b) la subfornitura a catalogo di prodotti informatici.".
 
-###### Art. 9
+#### Art. 9
 
 Norme di organizzazione
 
@@ -314,15 +310,11 @@ Norme di organizzazione
 
 > "11. Le amministrazioni aggiudicatrici sono tenute ad adottare il programma triennale e gli elenchi annuali dei lavori sulla base degli schemi tipo, che sono definiti con decreto del Ministro delle infrastrutture; i programmi triennali e gli elenchi annuali dei lavori sono pubblicati sul sito informatico del Ministero delle infrastrutture di cui al decreto del Ministro dei lavori pubblici 6 aprile 2001, n. 20 e per estremi sul sito informatico presso l'Osservatorio.".
 
-## Titolo II
+## Titolo II - CONTRATTI DI RILEVANZA COMUNITARIA
 
-### CONTRATTI DI RILEVANZA COMUNITARIA
+### Capo I - Ambito di applicazione
 
-#### Capo I
-
-##### Ambito di applicazione
-
-###### Art. 10
+#### Art. 10
 
 Importi delle soglie dei contratti di rilevanza comunitaria
 
@@ -340,11 +332,9 @@ b) 4.845.000 euro per i contratti di lavori.
 
 > "Art. 29 (Metodi di calcolo del valore stimato dei contratti pubblici). (artt. 9 e 56, direttiva 2004/18; art. 17, direttiva 2004/17; art. 2, D.Lgs. n. 358/1992; art. 4, D.Lgs. n. 157/1995; art. 9, D.Lgs. n. 158/1995). - 1. Il calcolo del valore stimato degli appalti pubblici e delle concessioni di lavori o servizi pubblici e' basato sull'importo totale pagabile al netto dell'IVA, valutato dalle stazioni appaltanti. Questo calcolo tiene conto dell'importo massimo stimato, ivi compresa qualsiasi forma di opzione o rinnovo del contratto.".
 
-## Capo II
+### Capo II - Requisiti per la partecipazione alle gare
 
-### Requisiti per la partecipazione alle gare
-
-###### Art. 11
+#### Art. 11
 
 Requisiti di ordine generale
 
@@ -398,7 +388,7 @@ L'assenza di tale affidabilita' viene preventivamente accertata con qualsiasi me
 
 > \- La decisione n. 2002/475/GAI del 13-06-2002, e' pubblicata nella G.U.C.E. 22 giugno 2002, n. L 164. Entrata in vigore il 22 giugno 2002.
 
-###### Art. 12
+#### Art. 12
 
 Capacita' tecnica e professionale dei fornitori e dei prestatori di servizi
 
@@ -450,7 +440,7 @@ c) descrizione delle attrezzature tecniche tale da consentire una loro precisa i
 
 > 4-bis. Al fine di assicurare la massima estensione dei principi comunitari e delle regole di concorrenza negli appalti di servizi o di servizi pubblici locali, la stazione appaltante considera, in ogni caso, rispettati i requisiti tecnici prescritti anche ove la disponibilita' dei mezzi tecnici necessari ed idonei all'espletamento del servizio sia assicurata mediante contratti di locazione finanziaria con soggetti terzi.".
 
-###### Art. 13
+#### Art. 13
 
 Sicurezza dell'informazione
 
@@ -470,7 +460,7 @@ e) ulteriori misure e requisiti che, in ragione della natura, dell'impiego dei b
 
 3\. La stazione appaltante puo', se del caso, concedere, agli operatori economici che non detengono ancora il nulla osta di sicurezza, un periodo addizionale per ottenerlo. In tale ipotesi, la stazione appaltante specifica nel bando di gara il termine entro il quale il nulla osta va presentato, comunque non successivo alla data di apertura delle offerte presentate.
 
-###### Art. 14
+#### Art. 14
 
 Sicurezza dell'approvvigionamento
 
@@ -488,7 +478,7 @@ e) le misure atte a consentire alla stazione appaltante la manutenzione dei prod
 
 f) ulteriori misure e requisiti che, in ragione della natura, dell'impiego dei beni, servizi o lavori e della finalita' dell'appalto, siano ritenuti necessari dalla stazione appaltante.
 
-###### Art. 15
+#### Art. 15
 
 Operatori economici stabiliti in Stati diversi dall'Italia
 
@@ -504,11 +494,9 @@ Operatori economici stabiliti in Stati diversi dall'Italia
 
 > 5\. Se nessun documento o certificato e' rilasciato da altro Stato dell'Unione europea, costituisce prova sufficiente una dichiarazione giurata, ovvero, negli Stati membri in cui non esiste siffatta dichiarazione, una dichiarazione resa dall'interessato innanzi a un'autorita' giudiziaria o amministrativa competente, a un notaio o a un organismo professionale qualificato a riceverla del Paese di origine o di provenienza.".
 
-## Capo III
+### Capo III - Procedure di scelta del contraente
 
-### Procedure di scelta del contraente
-
-###### Art. 16
+#### Art. 16
 
 Procedure per la scelta dei concorrenti
 
@@ -600,7 +588,7 @@ Procedure per la scelta dei concorrenti
 
 > 10\. Le stazioni appaltanti non possono ricorrere agli accordi quadro in modo abusivo o in modo da ostacolare, limitare o distorcere la concorrenza.".
 
-###### Art. 17
+#### Art. 17
 
 Procedura ristretta e procedura negoziata previa pubblicazione di un bando di gara
 
@@ -676,7 +664,7 @@ Procedura ristretta e procedura negoziata previa pubblicazione di un bando di ga
 
 > 5\. Per attuare la ponderazione o comunque attribuire il punteggio a ciascun elemento dell'offerta, le stazioni appaltanti utilizzano metodologie tali da consentire di individuare con un unico parametro numerico finale l'offerta piu' vantaggiosa. Dette metodologie sono stabilite dal regolamento, distintamente per lavori, servizi e forniture e, ove occorra, con modalita' semplificate per servizi e forniture. Il regolamento, per i servizi, tiene conto di quanto stabilito dal decreto del Presidente del Consiglio dei Ministri 13 marzo 1999, n. 117 e dal decreto del Presidente del Consiglio dei Ministri 18 novembre 2005, in quanto compatibili con il presente codice.".
 
-###### Art. 18
+#### Art. 18
 
 Procedura negoziata senza previa pubblicazione di un bando di gara
 
@@ -742,7 +730,7 @@ Gli operatori economici selezionati vengono contemporaneamente invitati a presen
 
 > 12\. Nelle procedure negoziate senza bando, quando l'urgenza rende impossibile osservare i termini minimi previsti dal presente articolo, l'amministrazione stabilisce i termini nel rispetto, per quanto possibile, del comma 1.".
 
-###### Art. 19
+#### Art. 19
 
 Numero dei candidati da invitare nelle procedure ristrette, negoziate e nel dialogo competitivo
 
@@ -794,7 +782,7 @@ Numero dei candidati da invitare nelle procedure ristrette, negoziate e nel dial
 
 > 3\. Nel dialogo competitivo gli elementi di cui alla lettera b) del comma 2 non sono indicati nell'invito a partecipare al dialogo, bensi' nell'invito a presentare l'offerta.".
 
-###### Art. 20
+#### Art. 20
 
 Applicazione del criterio dell'offerta economicamente piu' vantaggiosa
 
@@ -804,11 +792,9 @@ a) l'interoperabilita';
 
 b) le caratteristiche operative.
 
-## Capo IV
+### Capo IV - Bandi, avvisi e inviti
 
-### Bandi, avvisi e inviti
-
-###### Art. 21
+#### Art. 21
 
 Avviso di preinformazione
 
@@ -862,7 +848,7 @@ c) per i lavori, le caratteristiche essenziali dei contratti o degli accordi qua
 
 > "7. Gli avvisi e i bandi sono altresi' pubblicati sulla Gazzetta Ufficiale della Repubblica Italiana serie speciale relativa ai contratti pubblici, sul «profilo di committente» della stazione appaltante, e, non oltre due giorni lavorativi dopo, sul sito informatico del Ministero delle infrastrutture di cui al decreto del Ministro dei lavori pubblici 6 aprile 2001, n. 20, e sul sito informatico presso l'Osservatorio, con l'indicazione degli estremi di pubblicazione sulla Gazzetta Ufficiale. Gli avvisi e i bandi sono altresi' pubblicati, dopo dodici giorni dalla trasmissione alla Commissione, ovvero dopo cinque giorni da detta trasmissione in caso di procedure urgenti di cui all'articolo 70, comma 11, per estratto su almeno due dei principali quotidiani a diffusione nazionale e su almeno due a maggiore diffusione locale nel luogo ove si eseguono i contratti. La pubblicazione nella Gazzetta Ufficiale della Repubblica italiana viene effettuata entro il sesto giorno feriale successivo a quello del ricevimento della documentazione da parte dell'Ufficio inserzioni dell'Istituto poligrafico e zecca dello Stato.".
 
-###### Art. 22
+#### Art. 22
 
 Bando di gara
 
@@ -874,7 +860,7 @@ Bando di gara
 
 > \- Per i riferimenti alla direttiva 2009/81/CE, si veda nelle note alle premesse.
 
-###### Art. 23
+#### Art. 23
 
 Avviso sui risultati della procedura di affidamento
 
@@ -920,7 +906,7 @@ Avviso sui risultati della procedura di affidamento
 
 > 10\. Le stazioni appaltanti non possono ricorrere agli accordi quadro in modo abusivo o in modo da ostacolare, limitare o distorcere la concorrenza.".
 
-###### Art. 24
+#### Art. 24
 
 Specifiche tecniche
 
@@ -984,7 +970,7 @@ b) in termini di cui all'articolo 68, comma 3, lettere b), c) e d), del codice.
 
 > 13\. A meno di non essere giustificate dall'oggetto dell'appalto, le specifiche tecniche non possono menzionare una fabbricazione o provenienza determinata o un procedimento particolare ne' far riferimento a un marchio, a un brevetto o a un tipo, a un'origine o a una produzione specifica che avrebbero come effetto di favorire o eliminare talune imprese o taluni prodotti. Tale menzione o riferimento sono autorizzati, in via eccezionale, nel caso in cui una descrizione sufficientemente precisa e intelligibile dell'oggetto dell'appalto non sia possibile applicando i commi 3 e 4, a condizione che siano accompagnati dall'espressione «o equivalente».".
 
-###### Art. 25
+#### Art. 25
 
 Condizioni particolari di esecuzione del contratto prescritte nel bando o nell'invito
 
@@ -996,7 +982,7 @@ Condizioni particolari di esecuzione del contratto prescritte nel bando o nell'i
 
 4\. In sede di offerta gli operatori economici dichiarano di accettare le condizioni particolari, per l'ipotesi in cui risulteranno aggiudicatari.
 
-###### Art. 26
+#### Art. 26
 
 Informazioni circa i mancati inviti, le esclusioni e le aggiudicazioni
 
@@ -1050,11 +1036,9 @@ Informazioni circa i mancati inviti, le esclusioni e le aggiudicazioni
 
 > 5-quinquies. Il bando o l'avviso con cui si indice la gara o l'invito nelle procedure senza bando fissano l'obbligo del candidato o concorrente di indicare, all'atto di presentazione della candidatura o dell'offerta, il domicilio eletto per le comunicazioni; il bando o l'avviso possono altresi' obbligare il candidato o concorrente a indicare l'indirizzo di posta elettronica o il numero di fax al fine dell'invio delle comunicazioni.".
 
-## Capo V
+### Capo V - Subappalto
 
-### Subappalto
-
-###### Art. 27
+#### Art. 27
 
 Disciplina del subappalto
 
@@ -1088,7 +1072,7 @@ Disciplina del subappalto
 
 > \- Per il testo dell'articolo 118 del citato decreto legislativo n. 163 del 2006, si veda nelle note all'art. 8.
 
-###### Art. 28
+#### Art. 28
 
 Ambito di applicazione
 
@@ -1102,7 +1086,7 @@ a) detiene la maggioranza del capitale sottoscritto dell'impresa;
 
 b) controlla una maggioranza dei voti connessi alle partecipazioni al capitale dell'impresa oppure puo' designare piu' della meta' dei membri dell'organo di amministrazione, di direzione o di vigilanza dell'impresa.
 
-###### Art. 29
+#### Art. 29
 
 Disposizioni in materia di pubblicita'
 
@@ -1134,7 +1118,7 @@ Disposizioni in materia di pubblicita'
 
 > (Omissis).
 
-###### Art. 30
+#### Art. 30
 
 Criteri di selezione qualitativa dei subappaltatori
 
@@ -1142,21 +1126,17 @@ Criteri di selezione qualitativa dei subappaltatori
 
 2\. Nell'avviso di subappalto, l'aggiudicatario indica i criteri di selezione qualitativa prescritti dalla stazione appaltante, nonche' ogni altro criterio che intenda applicare per la selezione qualitativa dei subappaltatori. Tutti questi criteri sono obiettivi, non discriminatori e coerenti con i criteri applicati dalla stazione appaltante per la selezione degli offerenti per il contratto principale. Le capacita' richieste devono essere direttamente connesse all'oggetto del subappalto ed i livelli di capacita' richiesti devono essere commisurati con il medesimo.
 
-## Titolo III
+## Titolo III - CONTRATTI SOTTO SOGLIA COMUNITARIA
 
-### CONTRATTI SOTTO SOGLIA COMUNITARIA
-
-###### Art. 31
+#### Art. 31
 
 Disciplina dei contratti sotto soglia comunitaria
 
 1\. Ai contratti aventi per oggetto lavori, servizi o forniture di importo inferiore alle soglie di cui all'articolo 10, si applicano le disposizioni di cui agli articoli 1, 2, 3, 4 e 5, nonche', le disposizioni contenute nel titolo II, parte II, del codice. I regolamenti di cui all'articolo 4 disciplinano i lavori, i servizi e le forniture in economia di cui al presente decreto.
 
-## Titolo IV
+## Titolo IV - DISPOSIZIONI DI COORDINAMENTO, TRANSITORIE E FINALI
 
-### DISPOSIZIONI DI COORDINAMENTO, TRANSITORIE E FINALI
-
-###### Art. 32
+#### Art. 32
 
 Revisione periodica delle soglie e modifiche degli allegati
 
@@ -1170,7 +1150,7 @@ Revisione periodica delle soglie e modifiche degli allegati
 
 > \- Per il testo dell'articolo 13 della citata legge n. 11 del 2005, si veda nelle note alle premesse.
 
-###### Art. 33
+#### Art. 33
 
 Norme di modifica al codice
 
@@ -1238,7 +1218,7 @@ f) al comma 7, dopo le parole: "del Ministero della difesa" sono inserite le seg
 
 > 8\. Per gli acquisti eseguiti all'estero dall'amministrazione della difesa, relativi a macchinari, strumenti e oggetti di precisione, che possono essere forniti, con i requisiti tecnici e il grado di perfezione richiesti, soltanto da operatori economici stranieri, possono essere concesse anticipazioni di importo non superiore ad un terzo dell'importo complessivo del prezzo contrattuale, previa costituzione di idonea garanzia, che sara' disciplinata dal regolamento di cui al comma 1.".
 
-###### Art. 34
+#### Art. 34
 
 Norme transitorie
 
@@ -1248,13 +1228,13 @@ a) alle procedure e ai contratti i cui bandi o avvisi con i quali si indice una 
 
 b) alle procedure e ai contratti senza pubblicazione di bandi e avvisi per i quali, alla data di entrata in vigore del presente decreto, non sono ancora stati inviati gli inviti a presentare le offerte.
 
-###### Art. 35
+#### Art. 35
 
 Norma finanziaria
 
 1\. Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le Amministrazioni interessate provvedono agli adempimenti di rispettiva competenza con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-###### Art. 36
+#### Art. 36
 
 Entrata in vigore
 
@@ -1288,7 +1268,7 @@ Visto, il Guardasigilli: Severino
 
 ## Allegati
 
-###### Allegato I
+#### Allegato I
 
 Allegato I
 
@@ -1477,7 +1457,7 @@ all'articolo 6, lcomma 2, lett. m)
 
 (2) Ad esclusione dei servizi di arbitrato e di conciliazione
 
-###### Allegato II
+#### Allegato II
 
 Allegato II
 
@@ -1526,7 +1506,7 @@ Elenco dei servizi di cui all'articolo 7, comma 2
 
 (1) Esclusi i contratti di lavoro
 
-###### Allegato III
+#### Allegato III
 
 Allegato III
 
@@ -1554,7 +1534,7 @@ b) «specifiche tecniche», nel caso di appalti di forniture o di servizi: le sp
 
 6\) «riferimento tecnico»: qualsiasi prodotto elaborato dagli organismi europei di normalizzazione, diverso dalle norme ufficiali, secondo procedure adattate all'evoluzione delle esigenze del mercato.
 
-###### Allegato IV
+#### Allegato IV
 
 Allegato IV
 

@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I
+## CAPO I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
 
-### DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI - OBBLIGHI COMUNITARI
-
-#### Art. 1
+### Art. 1
 
 Delega al Governo per l'attuazione di direttive comunitarie
 
@@ -56,7 +54,7 @@ Delega al Governo per l'attuazione di direttive comunitarie
 
 > "Art. 14 (Decreti legislativi). - 1. I decreti legislativi adottati dal Governo ai sensi dell'Art. 76 della Costituzione sono emanati dal Presidente della Repubblica con la denominazione di "decreto legislativo" e con l'indicazione, nel preambolo, della legge di delegazione, della deliberazione del Consiglio dei Ministri e degli altri adempimenti del procedimento prescritti dalla legge di delegazione. 2. L'emanazione del decreto legislativo deve avvenire entro il termine fissato dalla legge di delegazione; il testo del decreto legislativo adottato dal Governo e' trasmesso al Presidente della Repubblica, per la emanazione, almeno venti giorni prima della scadenza. 3. Se la delega legislativa si riferisce ad una pluralita' di oggetti distinti suscettibili di separata disciplina, il Governo puo' esercitare mediante piu' atti successivi per uno o piu' degli oggetti predetti. In relazione al termine finale stabilito dalla legge di delegazione, il Governo informa periodicamente le Camere sui criteri che segue nell'organizzazione dell'esercizio della delega. 4. In ogni caso, qualora il termine per l'esercizio della delega ecceda i due anni, il Governo e' tenuto a richiedere il parere delle Camere sugli schemi dei decreti delegati. Il parere e' espresso dalle Commissioni permanenti delle due Camere competenti per materia entro sessanta giorni, indicando specificamente le eventuali disposizioni non ritenute corrispondenti alle direttive della legge di delegazione. Il Governo, nei trenta giorni successivi, esaminato il parere, ritrasmette con le sue osservazioni e con eventuali modificazioni, i testi alle Commissioni per il parere definitivo che deve essere espresso entro trenta giorni".
 
-#### Art. 2
+### Art. 2
 
 Criteri e principi direttivi generali della delega legislativa
 
@@ -102,7 +100,7 @@ g) nelle materie di competenza delle regioni a statuto ordinario e speciale e de
 
 > "Art. 6 - Sono trasferite alle regioni in ciascuna delle materie definite dal presente decreto anche le funzioni amministrative relative all'applicazione dei regolamenti della Comunita' economica europea nonche' all'attuazione delle sue direttive fatte proprie dallo Stato con legge che indica espressamente le norme di principio". - Si riporta il testo dell'Art. 2 del decreto legislativo 31 marzo 1998, n. 112, (Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della legge 15 marzo 1997, n. 59): "Art. 2 (Rapporti internazionali e con l'Unione europea). - 1. Lo Stato assicura la rappresentanza unitaria nelle sedi internazionali e il coordinamento dei rapporti con l'Unione europea. Spettano allo Stato i compiti preordinati ad assicurare l'esecuzione a livello nazionale degli obblighi derivanti dal Trattato sull'Unione europea e dagli accordi internazionali. Ogni altra attivita' di esecuzione e' esercitata dallo Stato ovvero dalle regioni e dagli enti locali secondo la ripartizione delle attribuzioni risultante dalle norme vigenti e dalle disposizioni del presente decreto legislativo".
 
-#### Art. 3
+### Art. 3
 
 Attuazione di direttive comunitarie con regolamento autorizzato
 
@@ -118,7 +116,7 @@ Attuazione di direttive comunitarie con regolamento autorizzato
 
 > \- Si riporta il testo dell'Art. 5, comma 1, della citata legge 9 marzo 1989, n. 86: "Art. 5 (Attuazioni modificative). - 1. Fermo quanto previsto dall'Art. 20 della legge 16 aprile 1987, n. 183, la legge comunitaria puo' disporre che, all'attuazione di ciascuna modifica delle direttive da attuare mediante regolamento a norma dell'Art. 4, si provveda con la procedura di cui ai commi 4 e 5 del medesimo articolo".
 
-#### Art. 4
+### Art. 4
 
 Pubblicazione per l'attuazione di
 
@@ -138,7 +136,7 @@ direttive comunitarie in via amministrativa
 
 > \- Per il testo dell'Art. 14 della citata legge 23 agosto 1988, n. 400, si veda in nota all'Art. 1.
 
-#### Art. 5
+### Art. 5
 
 Delega al Governo per la disciplina sanzionatoria
 
@@ -156,7 +154,7 @@ di violazioni di disposizioni comunitarie
 
 > \- La legge 24 novembre 1981, n. 689, reca: "Modifiche al sistema penale".
 
-#### Art. 6
+### Art. 6
 
 Riordinamento normativo nelle materie
 
@@ -164,7 +162,7 @@ interessate dalle direttive comunitarie
 
 1\. Il Governo e' autorizzato ad emanare, con le modalita' di cui ai commi 2 e 3 o dell'articolo 1, entro due anni dalla data di entrata in vigore della presente legge, testi unici compilativi delle disposizioni dettate in attuazione delle deleghe conferite con la presente legge per il recepimento di direttive comunitarie coordinando le norme legislative vigenti nelle stesse materie con le sole integrazioni e modificazioni necessarie a garantire la coerenza logica, sistematica e lessicale della normativa.
 
-#### Art. 7
+### Art. 7
 
 Modifiche alla legge 9 marzo 1989, n. 86
 
@@ -180,11 +178,9 @@ Modifiche alla legge 9 marzo 1989, n. 86
 
 > a) si riferisce sullo stato di conformita' dell'ordinamento interno al diritto comunitario e sullo stato delle eventuali procedure d'infrazione dando conto, in particolare, della giurisprudenza della Corte di giustizia delle Comunita' europee relativa alle eventuali inadempienze e violazioni degli obblighi comunitari da parte della Repubblica italiana; b) si fornisce l'elenco delle direttive attuate o da attuare in via amministrativa; c) si da' partitamente conto delle ragioni dell'eventuale omesso inserimento delle direttive il cui termine di recepimento e' gia' scaduto e di quelle il cui termine di recepimento scade nel periodo di riferimento, in relazione ai tempi previsti per l'esercizio della delega legislativa. Si da' altresi' conto della legislazione regionale attuativa di direttive comunitarie, fornendo i dati di cui all'Art. 9, comma 2-bis".
 
-## CAPO II
+## CAPO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO, CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO, CRITERI SPECIALI DI - DELEGA LEGISLATIVA
-
-#### Art. 8
+### Art. 8
 
 Attuazione della direttiva 97/63/CE e modifiche alla
 
@@ -198,7 +194,7 @@ legge 19 ottobre 1984, n. 748, in materia di fertilizzanti
 
 > \- La legge 19 ottobre 1984, n. 748, reca: "Nuove norme per la disciplina dei fertilizzanti". - Il decreto legislativo 16 febbraio 1993, n. 161, reca: "Attuazione delle direttive 89/284/CEE del Consiglio del 13 aprile 1989 e 89/530/CEE del Consiglio del 18 settembre 1989 concernenti il riavvicinamento delle legislazioni degli Stati membri relative ai concimi". - Il testo vigente dell'Art. 8, comma 1, della legge 19 ottobre 1984, n. 748, come sostituito dall'Art. 5 del succitato decreto legislativo, come ulteriormente modificato dalla presente legge, cosi' recita: "Art. 8 (Concimi). - 1. Concimi C.E.E. - L'indicazione di "Concime CE puo' essere usata unicamente per i concimi appartenenti ad uno dei "TIPI di cui all'allegato 1 A della presente legge. Alle modifiche dell'allegato 1 A e dell'allegato 3, limitatamente a quanto attiene alle tolleranze applicabili ai titoli dichiarati in elementi fertilizzanti per i vari tipi di concime elencati nell'allegato 1 A, si provvede con decreto del Ministro delle politiche agricole e forestali".
 
-#### Art. 9
+### Art. 9
 
 Ammissione provvisoria di materiali forestali di propagazione
 
@@ -224,7 +220,7 @@ b) al numero 4), le parole: "dagli articoli 3 e 4" sono sostituite dalle seguent
 
 > b) le parti di piante: le talee, le margotte, le radici e le marzie destinate alla produzione di piante, ad esclusione dei piantoni; c) le piante: le piante di specie forestali ottenute da seme o per via vegetativa, compresi i piantoni ed i selvaggioni; 3) materiali forestali di propagazione selezionati: i materiali provenienti da materiali di base, di cui a precedente punto 1) ed ufficialmente ammessi secondo i criteri recati dall'allegato B della presente legge; 4) materiali forestali di propagazione controllati: i materiali di base ufficialmente ammessi in conformita' di quanto disposto dall'Art. 7-bis della presente legge". - Il testo vigente dell'Art. 15 della citata legge 22 maggio 1973, n. 269, come sostituito dall'Art. 7 del citato d.P.R. 10 maggio 1982, n. 494, come ulteriormente modificato dalla presente legge, cosi' recita: "Art. 15. - Per l'iscrizione nei libri o nei registri nazionali previsti dalla presente legge, i materiali di base destinati alla produzione di materiali di propagazione selezionati debbono rispondere ai requisiti indicati nell'allegato B della presente legge. Le caratteristiche esteriori dei materiali forestali di propagazione, su proposta della commissione di cui al successivo Art. 16, saranno stabilite con decreto del Ministro dell'agricoltura e delle foreste, da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana. Per un periodo di durata non superiore a dieci anni, qualora dai risultati delle prove comparative si possa desumere determinati materiali di base soddisferanno, al termine degli esami, i requisiti richiesti per l'ammissione di cui agli articoli 7-bis e 7-ter, tali materiali potranno essere usati come base per la produzione di materiale di propagazione controllato".
 
-#### Art. 10
+### Art. 10
 
 Modifiche al decreto legislativo 26 maggio 1997, n. 155,
 
@@ -272,7 +268,7 @@ l'igiene dei prodotti alimentari e altre disposizioni in materia
 
 11\. Il Governo e' delegato ad emanare, entro ventiquattro mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi contenenti norme per il sostegno dei produttori di prodotti alimentari tipici e tradizionali, di cui al comma 7, al fine di favorire il raggiungimento di un reddito minimo nelle zone economicamente depresse o a rischio ambientale, senza oneri aggiuntivi a carico del bilancio dello Stato.
 
-#### Art. 11
+### Art. 11
 
 Modifiche all'articolo 2 della legge 18 aprile 1975, n. 110, e altre disposizioni in materia di armi con modesta capacita' offensiva
 
@@ -302,7 +298,7 @@ e) restano ferme le norme riguardanti il trasporto degli strumenti di cui al pre
 
 6\. Nel regolamento di cui al comma 3 sono prescritte specifiche sanzioni amministrative per i casi di violazione degli obblighi contenuti nel presente articolo.
 
-#### Art. 12
+### Art. 12
 
 Vendita delle carni equine
 
@@ -316,7 +312,7 @@ Vendita delle carni equine
 
 > \- Il testo vigente dell'Art. 3 della legge 4 aprile 1964, n. 171 (Modificazioni al regio decreto-legge 26 settembre 1930, n. 1458, sulla disciplina della vendita delle carni fresche e congelate), gia' modificato dall'Art. 1 del decreto-legge 17 gennaio 1977, n. 3 e dalla legge 18 marzo 1977, n. 63, come ulteriormente modificato dalla presente legge, cosi' recita: "Art. 3. - Negli spacci destinati alla vendita di carni possono essere vendute carni fresche, congelate e scongelate, e comunque preparate, conservate o confezionate, di qualsiasi specie animale, ad eccezione di quelle di bassa macelleria, che devono essere vendute in spacci a cio' esclusivamente destinati".
 
-#### Art. 13
+### Art. 13
 
 Modifica all'articolo 25 della legge 24 aprile 1998, n. 128
 
@@ -334,7 +330,7 @@ b) da lire dieci milioni a lire sessanta milioni, nel caso di servizi il cui avv
 
 > 7\. La violazione delle disposizioni contenute negli articoli: 4, comma 8; 7, comma 4, primo periodo; 8, commi, 1, 5 e 6; 9, commi 1, 2, 3 e 4, del decreto del Presidente della Repubblica 19 settembre 1997, n. 318, e' punita con la sanzione amministrativa del pagamento di una somma da lire trenta milioni a lire centottanta milioni. 8. La violazione delle disposizioni contenute negli articoli: 10, commi 1, 2, 5 e 6; 16, del decreto del Presidente della Repubblica 19 settembre 1997, n. 318, e' punita con la sanzione amministrativa del pagamento di una somma da lire dieci milioni a lire cento milioni".
 
-#### Art. 14
+### Art. 14
 
 Modifica dell'articolo 53 della legge 24 aprile 1998, n. 128
 
@@ -434,7 +430,7 @@ d) collaborano, secondo le direttive impartite dal Ministero delle politiche agr
 
 > Esercizio della professione negli altri Stati membri delle comunita' europee da parte di odontoiatri iscritti all'ordine professionale "Art. 15. - Gli odontoiatri cittadini iscritti all'Ordine professionale di Paesi membri dell'Unione europea che si trasferiscono in uno dei Paesi membri delle Comunita' europee possono, a domanda, conservare l'iscrizione all'Ordine professionale italiano di appartenenza".
 
-#### Art. 15
+### Art. 15
 
 Modifiche alla legge 24 luglio 1985, n. 409
 
@@ -444,13 +440,13 @@ a) nella rubrica del Titolo IV, le parole: "cittadini italiani" sono sostituite 
 
 b) all'articolo 15, la parola: "italiani" e' sostituita dalle seguenti: "di Paesi membri dell'Unione europea".
 
-#### Art. 16
+### Art. 16
 
 Norme in materia di domicilio professionale
 
 1\. Per i cittadini degli Stati membri dell'Unione europea, ai fini dell'iscrizione o del mantenimento dell'iscrizione in albi, elenchi o registri, il domicilio professionale e' equiparato alla residenza.
 
-#### Art. 17
+### Art. 17
 
 Piante ornamentali: criteri di delega
 
@@ -464,7 +460,7 @@ c) prevedere un controllo ufficiale, effettuato almeno per sondaggio, destinato 
 
 d) prevedere che i fornitori autorizzati di materiali di moltiplicazione o di piante ornamentali siano abilitati a garantire che i loro prodotti rispondano alle condizioni prescritte.
 
-#### Art. 18
+### Art. 18
 
 Sistemi di pagamento e di regolamento titoli: criteri di delega
 
@@ -486,7 +482,7 @@ g) coordinamento della disciplina di attuazione della direttiva, per il persegui
 
 h) introduzione di disposizioni volte a ridurre i rischi connessi ai rapporti intercorrenti tra i partecipanti diretti ai sistemi di pagamento e di regolamento titoli e gli intermediari per conto dei quali essi operano, in relazione alle specifiche modalita' di funzionamento di tali sistemi.
 
-#### Art. 19
+### Art. 19
 
 Attuazione della direttiva 98/5/CE in materia di
 
@@ -518,7 +514,7 @@ g) prevedere inoltre che, in base a quanto previsto dall'articolo 11, punto 5), 
 
 3\. I decreti legislativi di cui al presente articolo sono emanati sentito il Consiglio nazionale forense.
 
-#### Art. 20
+### Art. 20
 
 Modifiche al decreto legislativo 1 settembre 1998, n. 333,
 
@@ -538,7 +534,7 @@ c) al comma 2 dell'articolo 9, la parola: "bovina" e' soppressa.
 
 > \- Si riporta, l'Art. 7 comma 1, del decreto legislativo 1o settembre 1998, n. 333 (Attuazione della direttiva n. 93/119/CE relativa alla protezione degli animali durante la macellazione o l'abbattimento), cosi' come modificato dalla presente legge: "Art. 7. - 1. Le operazioni di trasferimento, stabulazione, immobilizzazione, stordimento, macellazione o abbattimento di animali possono essere effettuate solo da persone in possesso della preparazione teorica e pratica necessaria a svolgere tali attivita' in modo umanitario ed efficace. Il personale che esegue le operazioni relative allo stordimento deve essere in possesso di un adeguato grado di qualificazione attestato dalla azienda unita' sanitaria locale competente anche attraverso appositi corsi di formazione".
 
-#### Art. 21
+### Art. 21
 
 Modifica all'articolo 11 del decreto legislativo
 
@@ -552,7 +548,7 @@ Modifica all'articolo 11 del decreto legislativo
 
 > Chiunque mette in commercio sul territorio nazionale dispositivi "su misura" ha l'obbligo di comunicare l'elenco di detti dispositivi al Ministero della sanita'. Detto elenco deve essere aggiornato ogni sei mesi a partire dalla data di prima notifica. Ai fini di tale aggiornamento, e' necessario inviare al Ministero della sanita' una dichiarazione solo in caso di variazione; per variazione si intende, in particolare, qualsiasi modifica sostanziale relativa alle tipologie di dispositivi prodotti e gia' comunicati al Ministero della sanita'".
 
-#### Art. 22
+### Art. 22
 
 Riserva di scorte petrolifere: criteri di delega
 
@@ -570,7 +566,7 @@ d) prevedere la possibilita' di dedurre dall'obbligo di mantenimento delle scort
 
 > \- La legge 7 novembre 1977, n. 883 reca: "Approvazione ed esecuzione dell'accordo relativo ad un programma internazionale per l'energia, firmato a Parigi il 18 novembre 1974".
 
-#### Art. 23
+### Art. 23
 
 Impiego confinato di microrganismi geneticamente modificati:
 
@@ -596,7 +592,7 @@ g) apportare le necessarie modifiche al decreto legislativo 3 marzo 1993, n. 91.
 
 > Il decreto legislativo 3 marzo 1993, n. 91 reca: "Attuazione della direttiva n. 90/219/CEE concernente l'impiego confinato di microorganismi geneticamente modificati".
 
-#### Art. 24
+### Art. 24
 
 Modifiche alla legge 9 marzo 1989, n. 86
 
@@ -612,7 +608,7 @@ Modifiche alla legge 9 marzo 1989, n. 86
 
 > c) l'attuazione in Italia delle politiche di coesione economica e sociale e l'andamento dei flussi finanziari verso l'Italia e la loro utilizzazione, con riferimento anche alle relazioni della Corte dei conti delle Comunita' europee per cio' che concerne l'Italia".
 
-#### Art. 25
+### Art. 25
 
 Modifiche del capo XIV-bis del codice civile
 
@@ -630,7 +626,7 @@ Modifiche del capo XIV-bis del codice civile
 
 > In caso di dubbio sul senso di una clausola, prevale l'interpretazione piu' favorevole al consumatore. La disposizione di cui al secondo comma non si applica nei casi di cui all'articolo 1469-sexies". - Si riporta l'Art. 1469-quinquies del codice civile, cosi' come modificato dalla presente legge: "Art. 1469-quinquies (Inefficacia). - Le clausole considerate vessatorie ai sensi degli articoli 1469-bis e 1469-ter sono inefficaci mentre il contratto rimane efficace per il resto. Sono inefficaci le clausole che, quantunque oggetto di trattativa, abbiano per oggetto o per effetto di: 1) escludere o limitare la responsabilita' del professionista in caso di morte o danno alla persona del consumatore, risultante da un fatto o da un'omissione del professionista; 2) escludere o limitare le azioni del consumatore nei confronti del professionista o di un'altra parte in caso di inadempimento totale o parziale o di adempimento inesatto da parte del professionista; 3) prevedere l'adesione del consumatore come estesa a clausole che non ha avuto, di fatto, la possibilita' di conoscere prima della conclusione del contratto. L'inefficacia opera soltanto a vantaggio del consumatore e puo' essere rilevata d'ufficio dal giudice. Il venditore ha diritto di regresso nei confronti del fornitore per i danni che ha subito in conseguenza della declaratoria d'inefficacia delle clausole dichiarate abusive. E' inefficace ogni clausola contrattuale che, prevedendo l'applicabilita' al contratto di una legislazione di un Paese extracomunitario, abbia l'effetto di privare il consumatore della protezione assicurata dal presente capo laddove il contratto presenti un collegamento piu' stretto con il territorio di uno Stato membro dell'Unione europea".
 
-#### Art. 26
+### Art. 26
 
 Vigilanza supplementare sulle imprese di assicurazione
 
@@ -660,7 +656,7 @@ h) prevedere sulla base dei criteri individuati dagli allegati I e II alla diret
 
 i) prevedere che per le imprese di assicurazione o di riassicurazione situate in un Paese terzo possano essere presi in considerazione gli elementi che soddisfano i requisiti di solvibilita' in tale Paese, purche' siano comparabili con quelli previsti dalle disposizioni comunitarie in materia.
 
-#### Art. 27
+### Art. 27
 
 Modificazioni al decreto legislativo 29 maggio 1991, n. 178,
 
@@ -710,7 +706,7 @@ g) all'articolo 25, comma 7, alla lettera a), in fine, sono aggiunte le seguenti
 
 > a) che vengano personalmente portati dal viaggiatore al momento dell'ingresso nel territorio nazionale purche' destinati ad un trattamento terapeutico non superiore a trenta giorni".
 
-#### Art. 28
+### Art. 28
 
 Modifiche all'articolo 1746 del codice civile,
 
@@ -728,7 +724,7 @@ E' pero' consentito eccezionalmente alle parti di concordare di volta in volta l
 
 > \- Si riporta l'Art. 1746 del codice civile, cosi' come modificato dalla presente legge: "Art. 1746. (Obblighi dell'agente). - L'agente deve adempiere l'incarico affidatogli in conformita' delle istruzioni ricevute e fornire al preponente le informazioni riguardanti le condizioni del mercato nella zona assegnatagli, e ogni altra informazione utile per valutare la convenienza dei singoli affari. Egli deve altresi osservare gli obblighi che incombono al commissionario ad eccezione di quelli di cui all'articolo 1736 in quanto non siano esclusi dalla natura del contratto di agenzia. E' vietato il patto che ponga a carico dell'agente una responsabilita', anche solo parziale, per l'inadempimento del terzo. E' pero' consentito eccezionalmente alle parti di concordare di volta in volta la concessione di una apposita garanzia da parte dell'agente, purche' cio' avvenga con riferimento a singoli affari, di particolare natura ed importo, individualmente determinati; l'obbligo di garanzia assunto dall'agente non sia di ammontare piu' elevato della provvigione che per quell'affare l'agente medesimo avrebbe diritto a percepire; sia previsto per l'agente un apposito corrispettivo".
 
-#### Art. 29
+### Art. 29
 
 Poteri dell'Autorita' garante della concorrenza e del mercato
 
@@ -740,7 +736,7 @@ Poteri dell'Autorita' garante della concorrenza e del mercato
 
 > \- La legge 6 febbraio 1996, n. 52 reca: "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 1994".
 
-#### Art. 30
+### Art. 30
 
 Tutela degli interessi finanziari comunitari
 
@@ -770,7 +766,7 @@ Visto, il Guardasigilli: DILIBERTO
 
 ## Allegati
 
-#### Allegato A
+### Allegato A
 
 ALLEGATO A
 
@@ -818,7 +814,7 @@ modifica la direttiva 68/414/CEE che stabilisce l'obbligo per gli Stati membri d
 
 1999/38/CE: direttiva del Consiglio, del 29 aprile 1999, che modifica per la seconda volta la direttiva 90/394/CEE sulla protezione dei lavoratori contro i rischi derivanti da un'esposizione ad agenti cancerogeni durante il lavoro, estendendola ad agenti mutageni.
 
-#### Allegato B
+### Allegato B
 
 ALLEGATO B
 
@@ -852,7 +848,7 @@ ALLEGATO B
 
 99/10/CE: direttiva della Commissione, del 10 marzo 1999, che introduce deroghe alle disposizioni di cui all'articolo 7 della direttiva 79/112/CEE del Consiglio per quanto riguarda l'etichettatura dei prodotti alimentari.
 
-#### Allegato C
+### Allegato C
 
 ALLEGATO C
 

@@ -47,11 +47,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Disposizioni di principio e ambito di applicazione
 
@@ -123,11 +121,9 @@ Disposizioni di principio e ambito di applicazione
 
 > \- Per i riferimenti normativi alla decisione quadro 2009/299/GAI, si veda nelle note alle premesse.
 
-## Capo II
+## Capo II - Disposizioni per l'adeguamento dell'ordinamento interno
 
-### Disposizioni per l'adeguamento - dell'ordinamento interno
-
-#### Art. 2
+### Art. 2
 
 Modifiche alla legge 22 aprile 2005, n. 69
 
@@ -185,7 +181,7 @@ b) all'articolo 30, comma 1, dopo le parole "decisione quadro" sono aggiunte le 
 
 > g) per quanto possibile, le altre conseguenze del reato.".
 
-#### Art. 3
+### Art. 3
 
 Modifiche al decreto legislativo 7 settembre 2010, n. 161
 
@@ -273,7 +269,7 @@ b) all'articolo 13, comma 1, la lettera i) e' sostituita dalla seguente:
 
 > 3\. Le disposizioni di cui al presente articolo si applicano, in quanto compatibili, anche alla sentenza con cui e' applicata una misura di sicurezza".
 
-#### Art. 4
+### Art. 4
 
 Clausola di invarianza finanziaria
 
@@ -299,7 +295,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -307,7 +303,7 @@ Allegato I
 
 Parte di provvedimento in formato grafico
 
-#### Allegato II
+### Allegato II
 
 Allegato II
 

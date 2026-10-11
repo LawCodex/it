@@ -100,7 +100,7 @@ il seguente decreto legislativo:
 
 ## Titolo I - FINALITÀ E OBIETTIVI
 
-##### Art. 1
+#### Art. 1
 
 Finalita' e campo di applicazione
 
@@ -410,7 +410,7 @@ Finalita' e campo di applicazione
 
 > \- Il decreto del Presidente della Repubblica 1° agosto 2011, n. 151 (Regolamento recante semplificazione della disciplina dei procedimenti relativi alla prevenzione degli incendi, a norma dell'art. 49, comma 4-quater, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122) e' pubblicato nella Gazzetta Ufficiale 22 settembre 2011, n. 221.
 
-##### Art. 2
+#### Art. 2
 
 Definizioni
 
@@ -478,7 +478,7 @@ l) punto di rifornimento per il gas naturale liquefatto-GNL: un impianto di rifo
 
 ### Capo I - Disciplina generale
 
-##### Art. 3
+#### Art. 3
 
 Disciplina del Quadro Strategico Nazionale
 
@@ -750,7 +750,7 @@ c) che possono promuovere la realizzazione dell'infrastruttura per i combustibil
 
 > 2\. Con decreto del Ministro dello sviluppo economico, da adottare, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare e con il Ministro delle politiche agricole alimentari e forestali, entro 120 giorni dall'entrata in vigore del presente decreto legislativo, sono stabilite le direttive per l'attuazione di quanto previsto al comma 1, fatto salvo quanto previsto all'art. 33, comma 5.".
 
-##### Art. 4
+#### Art. 4
 
 Disposizioni specifiche per la fornitura di elettricita' per il trasporto. Sezione a) del Quadro Strategico Nazionale
 
@@ -792,7 +792,7 @@ c) strade extraurbane, statali e autostrade.
 
 13-ter. I gestori dei sistemi di distribuzione di energia elettrica non possono possedere, sviluppare, gestire o esercire punti di ricarica per i veicoli elettrici, fatta eccezione per i punti di ricarica privata dei gestori, ad uso esclusivamente proprio.))
 
-##### Art. 5
+#### Art. 5
 
 Disposizioni specifiche per la fornitura di idrogeno per il trasporto stradale. Sezione b) del Quadro Strategico Nazionale
 
@@ -804,7 +804,7 @@ Disposizioni specifiche per la fornitura di idrogeno per il trasporto stradale. 
 
 3\. Con decreto del Ministro dell'interno, da adottarsi entro il 31 marzo 2017, di concerto con il Ministero delle infrastrutture e dei trasporti, sono dettate le disposizioni per l'aggiornamento della regola tecnica di prevenzione incendi per la progettazione, costruzione ed esercizio degli impianti di distribuzione di idrogeno per autotrazione di cui al decreto del Ministro dell'interno 31 agosto 2006, pubblicato nella Gazzetta Ufficiale della Repubblica italiana del 13 settembre 2006, n. 213.
 
-##### Art. 6
+#### Art. 6
 
 Disposizioni specifiche per la fornitura di gas naturale per il trasporto. Sezione c) del Quadro Strategico Nazionale
 
@@ -854,7 +854,7 @@ c) autostrade.
 
 > 3\. Fino all'adozione delle norme di cui al comma 1, alle attivita', costruzioni, impianti, apparecchiature e prodotti soggetti alla disciplina di prevenzione incendi si applicano i criteri tecnici che si desumono dalle finalita' e dai principi di base della materia, tenendo presenti altresi' le esigenze funzionali e costruttive delle attivita' interessate.".
 
-##### Art. 7
+#### Art. 7
 
 Disposizioni specifiche per la fornitura di gas di petrolio liquefatto per il trasporto. Sezione d) del Quadro Strategico Nazionale
 
@@ -868,7 +868,7 @@ Disposizioni specifiche per la fornitura di gas di petrolio liquefatto per il tr
 
 ### Capo I - Modalità di comunicazione agli utenti
 
-##### Art. 8
+#### Art. 8
 
 Informazioni per gli utenti
 
@@ -890,13 +890,11 @@ Informazioni per gli utenti
 
 7\. Per le autovetture, la Guida al risparmio di carburanti e alle emissioni di CO2, redatta ai sensi dell'articolo 4 della direttiva 1999/94/UE, del Parlamento europeo e del Consiglio del 13 dicembre 1999 contiene anche informazioni circa i benefici economici, energetici e ambientali dei combustibili alternativi rispetto ai tradizionali, mediante casi-tipo.
 
-## Titolo IV - MISURE PER LA SEMPLIFICAZIONE DELLE PROCEDURE AMMINISTRATIVE
+## Titolo IV - MISURE PER LA SEMPLIFICAZIONE DELLE PROCEDURE AMMINISTRATIVE (Attuazione dell'articolo 3, paragrafo I, terzo trattino della direttiva 2014/94/UE)
 
-### (Attuazione dell'articolo 3, paragrafo I, terzo trattino della direttiva 2014/94/UE) - Capo I
+### Capo I - Disposizioni per le infrastrutture di GNL
 
-#### Disposizioni per le infrastrutture di GNL
-
-##### Art. 9
+#### Art. 9
 
 Disposizioni per le infrastrutture di stoccaggio e trasporto del GNL di interesse nazionale
 
@@ -1066,7 +1064,7 @@ Disposizioni per le infrastrutture di stoccaggio e trasporto del GNL di interess
 
 > \- Per i riferimenti normativi della legge 29 novembre 2007, n. 222 si veda nelle note alle premesse.
 
-##### Art. 10
+#### Art. 10
 
 Disposizioni per le infrastrutture di stoccaggio e trasporto del GNL non destinate all'alimentazione di reti di trasporto di gas naturale
 
@@ -1118,7 +1116,7 @@ Disposizioni per le infrastrutture di stoccaggio e trasporto del GNL non destina
 
 > \- Per la rubrica degli articoli 14 e seguenti della legge 7 agosto 1990, n. 241, citata nelle note alle premesse, si veda nelle note all'art. 9.
 
-##### Art. 11
+#### Art. 11
 
 Disposizioni per le infrastrutture di stoccaggio e trasporto del GNL di piccole dimensioni
 
@@ -1174,13 +1172,13 @@ Disposizioni per le infrastrutture di stoccaggio e trasporto del GNL di piccole 
 
 > \- Per la rubrica degli articoli 14 e seguenti della legge 7 agosto 1990, n. 241, citata nelle note alle premesse, si veda nelle note all'art. 9.
 
-##### Art. 12
+#### Art. 12
 
 Disposizioni per i serbatoi criogenici di stoccaggio di GNL
 
 1\. I serbatoi criogenici di stoccaggio di GNL installati presso i punti di rifornimento per il GNL o per il GNC sono dichiarati all'Agenzia delle dogane e dei monopoli che provvede ad identificarli univocamente attraverso un sistema di codifica da stabilire con determinazione della medesima Agenzia delle dogane e dei monopoli.
 
-##### Art. 13
+#### Art. 13
 
 Ulteriori disposizioni per i procedimenti amministrativi relativi al GNL
 
@@ -1610,15 +1608,15 @@ Ulteriori disposizioni per i procedimenti amministrativi relativi al GNL
 
 > ag) Ogni modifica o estensione dei progetti elencati nel presente allegato, ove la modifica o l'estensione di per se' sono conformi agli eventuali limiti stabiliti nel presente allegato.".
 
-##### Art. 14
+#### Art. 14
 
 Reti isolate di GNL
 
 1\. L'Autorita' per l'energia elettrica, il gas e il sistema idrico oltre a provvedere, in linea con quanto gia' previsto dalla regolazione per le reti isolate, ad aggiornare le condizioni economiche di fornitura dei gas diversi dal gas naturale, determina i parametri e i criteri di calcolo per la remunerazione del servizio di distribuzione, di misura e, limitatamente per i clienti vulnerabili, di vendita di gas naturale anche derivante da GNL attraverso le stesse reti.
 
-## Capo II - Disposizioni per le infrastrutture di ricarica
+### Capo II - Disposizioni per le infrastrutture di ricarica
 
-##### Art. 15
+#### Art. 15
 
 Misure per agevolare la realizzazione di punti di ricarica
 
@@ -1696,9 +1694,9 @@ Misure per agevolare la realizzazione di punti di ricarica
 
 > 2-ter. Con decreto del Ministero delle infrastrutture e dei trasporti, di concerto con il Ministero dell'ambiente e della tutela del territorio e del mare, da emanarsi entro trenta giorni, sono individuate le dichiarazioni, attestazioni, asseverazioni, nonche' gli elaborati tecnici da presentare a corredo della segnalazione certificata di inizio attivita' di cui al comma 2-bis.".
 
-## Capo III - Disposizioni autorizzative per le infrastrutture di idrogeno
+### Capo III - Disposizioni autorizzative per le infrastrutture di idrogeno
 
-##### Art. 16
+#### Art. 16
 
 Procedure per gli impianti di distribuzione di idrogeno per il trasporto
 
@@ -1708,13 +1706,11 @@ Procedure per gli impianti di distribuzione di idrogeno per il trasporto
 
 > \- Per i riferimenti normativi del decreto legislativo 11 febbraio 1998, n. 32 si veda nelle note alle premesse.
 
-## Titolo V - MISURE PER PROMUOVERE LA DIFFUSIONE DEI COMBUSTIBILI ALTERNATIVI
+## Titolo V - MISURE PER PROMUOVERE LA DIFFUSIONE DEI COMBUSTIBILI ALTERNATIVI (Attuazione dell'articolo 3, paragrafo 1, terzo trattino della direttiva 2014/94/UE)
 
-### (Attuazione dell'articolo 3, paragrafo 1, terzo trattino della direttiva 2014/94/UE) - Capo I
+### Capo I - Misure per le infrastrutture di ricarica
 
-#### Misure per le infrastrutture di ricarica
-
-##### Art. 17
+#### Art. 17
 
 Misure per promuovere la realizzazione di punti di ricarica accessibili al pubblico
 
@@ -1802,9 +1798,9 @@ Misure per promuovere la realizzazione di punti di ricarica accessibili al pubbl
 
 > 6\. Il Governo puo' promuovere la stipula di intese in sede di Conferenza Stato-Regioni o di Conferenza unificata, dirette a favorire l'armonizzazione delle rispettive legislazioni o il raggiungimento di posizioni unitarie o il conseguimento di obiettivi comuni; in tale caso e' esclusa l'applicazione dei commi 3 e 4 dell'art. 3 del decreto legislativo 28 agosto 1997, n. 281. Nelle materie di cui all'art. 117, terzo e quarto comma, della Costituzione non possono essere adottati gli atti di indirizzo e di coordinamento di cui all'art. 8 della legge 15 marzo 1997, n. 59, e all'art. 4 del decreto legislativo 31 marzo 1998, n. 112.".
 
-## Capo II - Misure per il gas naturale e l'elettricità per il trasporto
+### Capo II - Misure per il gas naturale e l'elettricità per il trasporto
 
-##### Art. 18
+#### Art. 18
 
 Misure per la diffusione dell'utilizzo del GNC, del GNL e dell'elettricita' nel trasporto stradale
 
@@ -1880,9 +1876,9 @@ Nel caso di rinnovo dei parchi utilizzati per il trasporto pubblico locale tale 
 
 > \- Per i riferimenti normativi del decreto del Presidente della Repubblica 8 giugno 2001, n. 327 si veda nelle note alle premesse.
 
-## Capo III - Misure per la diffusione dei veicoli alimentati a combustibili alternativi
+### Capo III - Misure per la diffusione dei veicoli alimentati a combustibili alternativi
 
-##### Art. 19
+#### Art. 19
 
 Circolazione dei veicoli nelle aree urbane
 
@@ -1892,7 +1888,7 @@ Circolazione dei veicoli nelle aree urbane
 
 ## Titolo VI - ATTIVITÀ DI MONITORAGGIO E INFORMAZIONE
 
-##### Art. 20
+#### Art. 20
 
 Relazione alla Commissione europea
 
@@ -1902,7 +1898,7 @@ Relazione alla Commissione europea
 
 ## Titolo VII - DISPOSIZIONI FINALI
 
-##### Art. 21
+#### Art. 21
 
 Abrogazioni
 
@@ -1952,13 +1948,13 @@ Abrogazioni
 
 > \- Per i riferimenti normativi della legge 7 agosto 2012, n. 134 si veda nelle note alle premesse.
 
-##### Art. 22
+#### Art. 22
 
 Coordinamento con normativa fiscale
 
 1\. Le disposizioni tributarie vigenti in materia di accisa sono fatte salve.
 
-##### Art. 23
+#### Art. 23
 
 Disposizioni tariffarie
 
@@ -2028,7 +2024,7 @@ Disposizioni tariffarie
 
 > "Art. 11. (Legge regolatrice della contribuzione alle avarie comuni). La contribuzione alle avarie comuni e' regolata dalla legge nazionale della nave o dell'aeromobile.".
 
-##### Art. 24
+#### Art. 24
 
 Copertura finanziaria ed entrata in vigore
 
@@ -2062,7 +2058,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-##### Allegato I
+#### Allegato I
 
 Allegato I
 
@@ -2116,7 +2112,7 @@ I connettori/serbatoi per GNC devono essere conformi al regolamento n. 110 dell'
 
 3.4. Specifiche tecniche per i punti di rifornimento di GNC per veicoli a motore adottate con atti delegati.
 
-##### Allegato II
+#### Allegato II
 
 Allegato II
 
@@ -2174,7 +2170,7 @@ Stanziamenti nei bilanci pubblici annuali destinati al sostegno di ricerca, svil
 
 Evoluzione della domanda (capacita' effettivamente utilizzata) e dell'offerta (capacita' supplementare dell'infrastruttura).
 
-##### Allegato III
+#### Allegato III
 
 Allegato III
 
@@ -4037,7 +4033,7 @@ Alla luce di tali premesse ed assumendo prudenzialmente che la cantieristica naz
 
 E' opportuno considerare che il nostro Paese da una parte possiede la principale industria del trasporto marittimo a corto raggio in Europa, dall'altra dispone di un'industria cantieristica che si pone ai vertici mondiali nei segmenti di naviglio a maggiore complessita' tecnologica .
 
-##### Allegato III
+#### Allegato III
 
 Come tale, essa e' perfettamente in grado di far fronte alla futura domanda di conversioni, di nuove navi a propulsione con GNL o "GNL-Ready" grazie alle competenze tecnologiche e all'esperienza di cui dispongono gia' oggi i cantieri navali nazionali, la relativa "supplychain" e la filiera nazionale del criogenico.
 
@@ -5484,7 +5480,7 @@ Tabella 5: Ipotesi diffusione impianti per regione
 
 Nel settore nautico, finora quasi inesistente, si ritiene che possa essere considerata auspicabile una previsione di incremento graduale nel tempo, con riferimento al sistema complessivo della navigazione, e comprensivo sia dei porti marittimi che della navigazione interna che consenta la realizzazione, entro il 2025, di n. 1 impianto per ciascuna Regione lambita da acque marittime.
 
-##### Allegato IV
+#### Allegato IV
 
 Allegato IV
 

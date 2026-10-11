@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## Titolo I - PIANO DECENNALE PER L'EDILIZIA RESIDENZIALE
+## Titolo I - PIANO DECENNALE PER L'EDILIZIA RESIDENZIALE ORGANI E FUNZIONI
 
-### ORGANI E FUNZIONI
-
-#### Art. 1 - Contenuti del piano
+### Art. 1 - Contenuti del piano
 
 A partire dall'anno 1978 e' attuato un piano decennale di edilizia residenziale riguardante:
 
@@ -50,7 +48,7 @@ Sulla base del piano nazionale le regioni formulano propri programmi quadriennal
 
 Alla relazione previsionale e programmatica ed alla relazione generale sulla situazione economica del Paese, e' allegata una relazione sull'andamento del settore edilizio e sullo stato di realizzazione dei programmi di edilizia residenziale.
 
-#### Art. 2 - Competenze del C.I.P.E.
+### Art. 2 - Competenze del C.I.P.E.
 
 Il C.I.P.E., previo parere della commissione consultiva interregionale per la programmazione economica, indica gli indirizzi programmatici per l'edilizia residenziale e in particolare:
 
@@ -80,7 +78,7 @@ AGGIORNAMENTO (19)
 
 La L. 23 dicembre 1996, n. 662 ha disposto (con l'art. 2, comma 68) che:"Gli affidamenti degli interventi di sperimentazione nel settore dell'edilizia residenziale di cui all'articolo 2, primo comma, lettera f), della legge 5 agosto 1978, n. 457, per i quali e' stata data applicazione alle disposizioni di cui all'articolo 8, comma 2, del decreto-legge 5 ottobre 1993, n. 398, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 493, sono revocati qualora i lavori, relativi a detti interventi, non siano iniziati entro e non oltre il 31 gennaio 1997".
 
-#### Art. 3 - Competenze del Comitato per l'edilizia residenziale
+### Art. 3 - Competenze del Comitato per l'edilizia residenziale
 
 Il Comitato per l'edilizia residenziale, sulla base degli indirizzi programmatici indicati dal C.I.P.E.:
 
@@ -122,7 +120,7 @@ Il Comitato per l'edilizia residenziale determina i criteri e le modalita' di im
 
 Le deliberazioni del Comitato per l'edilizia residenziale, ad eccezione di quelle relative all'esercizio di funzioni consultive, sono rese esecutive con provvedimento del suo presidente.
 
-#### Art. 4 - Attribuzioni delle regioni
+### Art. 4 - Attribuzioni delle regioni
 
 Le regioni, per le finalita' di cui all'articolo 1, provvedono in particolare a:
 
@@ -156,7 +154,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 23 gennaio 1982, n. 9 convertito con modificazioni dalla L.25 marzo 1982, n. 94 ha disposto (con l'art. 5, comma 11) che "In tal caso, in deroga alle disposizioni di cui agli articoli 4, lettera h), e 10, lettera a), della legge 5 agosto 1978, n. 457, il CER puo' provvedere a mettere a disposizione e ad erogare direttamente agli istituti autonomi per le case popolari i fondi necessari per l'attuazione dei programmi previsti dalla legge medesima".
 
-#### Art. 5 - Composizione del Comitato per l'edilizia residenziale
+### Art. 5 - Composizione del Comitato per l'edilizia residenziale
 
 Il Comitato per l'edilizia residenziale, istituito dall'articolo 2 della legge 22 ottobre 1971, n. 865, e' presieduto dal Ministro dei lavori pubblici, o da un Sottosegretario di Stato da lui delegato, ed e' composto da:
 
@@ -194,7 +192,7 @@ Il Comitato per l'edilizia residenziale disciplina con apposito regolamento la p
 
 Con decreto del Ministro dei lavori pubblici, di concerto con il Ministro del tesoro, e' determinata la misura dei compensi spettanti ai componenti il Comitato per l'edilizia residenziale.
 
-#### Art. 6 - Istituzione del comitato esecutivo
+### Art. 6 - Istituzione del comitato esecutivo
 
 Nell'ambito del Comitato per l'edilizia residenziale e' costituito un comitato esecutivo, presieduto dal Ministro dei lavori pubblici o da un Sottosegretario di Stato da lui delegato e composto da otto membri dei quali quattro rappresentanti dei Ministri, e quattro rappresentanti delle regioni. Dei quattro rappresentanti ministeriali, designati dal Ministro dei lavori pubblici, non piu' di due sono scelti fra i rappresentanti dello stesso Ministro nel Comitato per l'edilizia residenziale.
 
@@ -202,7 +200,7 @@ I quattro rappresentanti delle regioni sono eletti dai rappresentanti regionali 
 
 Il comitato esecutivo delibera sulle materie di cui alle lettere d), e), f), l), q), del precedente articolo 3, mentre per le restanti materie di cui allo stesso articolo 3, formula le proposte per il Comitato per l'edilizia residenziale e puo' adottare, in caso di urgenza, le relative deliberazioni che dovranno essere sottoposte alla successiva ratifica del Comitato per l'edilizia residenziale.
 
-#### Art. 7 - Segretariato generale del Comitato per l'edilizia residenziale
+### Art. 7 - Segretariato generale del Comitato per l'edilizia residenziale
 
 Il Comitato per l'edilizia residenziale, per l'espletamento dei suoi compiti, si avvale di un segretariato generale costituito con decreto del Ministro dei lavori pubblici, cui e' preposto, in qualita' di segretario generale, un dirigente generale dei ruoli dello stesso Ministero.
 
@@ -216,7 +214,7 @@ Alla copertura degli altri posti si provvede con utilizzazione di personale gia'
 
 Il segretario generale del Comitato per l'edilizia residenziale e' membro di diritto del consiglio di amministrazione del Ministero dei lavori pubblici.
 
-#### Art. 8 - Esperti e personale comandato presso il segretariato generale - Centro di documentazione
+### Art. 8 - Esperti e personale comandato presso il segretariato generale - Centro di documentazione
 
 L'aliquota massima annuale di esperti di cui all'articolo 4, secondo comma, del decreto del Presidente della Repubblica 30 dicembre 1972, n. 1036, e' determinata in venti unita' da scegliersi, su proposta del comitato esecutivo, tra gli iscritti all'albo previsto dall'articolo 2 della legge 2 aprile 1968, n. 507. A tal fine e' istituita, nell'ambito del predetto albo, una sezione per gli esperti in materia residenziale.
 
@@ -226,7 +224,7 @@ Le spese per il funzionamento del segretariato generale, per le retribuzioni e p
 
 Fanno carico, altresi', allo stesso capitolo, le spese inerenti al funzionamento di un centro permanente di documentazione per l'edilizia residenziale; istituito presso il Comitato per l'edilizia residenziale, al quale viene trasferito tutto il materiale bibliografico nonche' la dotazione tecnica degli enti soppressi ai sensi dell'articolo 13 del decreto del Presidente della Repubblica 30 dicembre 1972, n. 1036.
 
-#### Art. 9 - Termini per la formazione e l'attuazione del piano decennale
+### Art. 9 - Termini per la formazione e l'attuazione del piano decennale
 
 Le procedure di formazione ed attuazione del piano si svolgono secondo i seguenti tempi:
 
@@ -254,7 +252,7 @@ La L. 23 dicembre 1996, n. 662 ha disposto (con l'art. 2, comma 76) che "Le disp
 
 ## Titolo II - GESTIONE FINANZIARIA DEL PIANO DECENNALE
 
-#### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 LUGLIO 1999, N. 284)). ((22))
 
@@ -264,7 +262,7 @@ AGGIORNAMENTO (22)
 
 Il D.Lgs. 30 luglio 1999, n. 284 ha disposto (con l'art. 7, comma 1)che: "Sono abrogate le norme del titolo secondo della legge 5 agosto 1978, n. 457, fermo restando quanto stabilito dall'articolo 18, comma 2, della legge 30 aprile 1999, n. 136".
 
-#### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 LUGLIO 1999, N. 284)).((22))
 
@@ -274,7 +272,7 @@ AGGIORNAMENTO (22)
 
 Il D.Lgs. 30 luglio 1999, n. 284 ha disposto (con l'art. 7, comma 1)che "Sono abrogate le norme del titolo secondo della legge 5 agosto 1978, n. 457, fermo restando quanto stabilito dall'articolo 18, comma 2, della legge 30 aprile 1999, n. 136".
 
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 LUGLIO 1999, N. 284)).((22))
 
@@ -284,7 +282,7 @@ AGGIORNAMENTO (22)
 
 Il D.Lgs. 30 luglio 1999, n. 284 ha disposto (con l'art. 7, comma 1)che "Sono abrogate le norme del titolo secondo della legge 5 agosto 1978, n. 457, fermo restando quanto stabilito dall'articolo 18, comma 2, della legge 30 aprile 1999, n. 136. Le disponibilita' finanziarie della sezione autonoma per l'edilizia residenziale, di cui all'articolo 12, comma 1, della legge 5 agosto 1978, n. 457, accertate al 31 dicembre 1999, sono devolute al fondo di dotazione della Cassa depositi e prestiti".
 
-#### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 LUGLIO 1999, N. 284)).((22))
 
@@ -296,7 +294,7 @@ Il D.Lgs. 30 luglio 1999, n. 284 ha disposto (con l'art. 7, comma 1)che "Sono ab
 
 ## Titolo III - NORME PER IL CREDITO FONDIARIO
 
-#### Art. 14 - Mutui edilizi
+### Art. 14 - Mutui edilizi
 
 ((COMMA ABROGATO DALLA L. 6 GIUGNO 1991, N. 175)).
 
@@ -306,11 +304,11 @@ Ogni tre mesi gli istituti e le sezioni di credito fondiario ed edilizio sono te
 
 Il Ministro del tesoro, di concerto con il Ministro dei lavori pubblici, su proposta del Comitato per l'edilizia residenziale, emana, entro tre mesi dalla data di entrata in vigore della presente legge, con proprio decreto, lo schema tipo della documentazione che gli istituti e le sezioni di credito fondiario ed edilizio devono utilizzare per l'istruttoria delle richieste e per la concessione dei mutui agevolati e per tutte le procedure di finanziamento di iniziative edilizie assistite dal contributo pubblico.
 
-#### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175)).
 
-#### Art. 16 - Mutui agevolati
+### Art. 16 - Mutui agevolati
 
 Ai sensi del secondo comma del precedente articolo 14, sono concessi, dagli istituti e dalle sezioni di credito fondiario ed edilizio, mutui agevolati assistiti da contributo dello Stato per la realizzazione di nuove abitazioni, anche in deroga alle vigenti disposizioni legislative e statutarie, nella misura del cento per cento della spesa sostenuta per l'acquisizione dell'area e per la costruzione, con il limite massimo di lire 24 milioni per ogni abitazione.
 
@@ -318,7 +316,7 @@ L'ammontare massimo del mutuo previsto dal comma precedente e' soggetto, ai sens
 
 La superficie massima delle nuove abitazioni di cui al presente articolo misurata al netto dei muri perimetrali e di quelli interni, non puo' superare, pena la decadenza dai benefici previsti dalla presente legge, metri quadrati 95, oltre a metri quadrati 18 per autorimessa o posto macchina.
 
-#### Art. 17 - Garanzie
+### Art. 17 - Garanzie
 
 I mutui concessi dagli istituti e sezioni di credito fondiario ed edilizio ai sensi del secondo comma del precedente articolo 14 sono garantiti da ipoteca di primo grado sull'area e sulla costruzione e sono assistiti dalla garanzia sussidiaria dello Stato per il rimborso integrale del capitale, degli interessi e degli oneri accessori.
 
@@ -334,7 +332,7 @@ Nel caso di alienazione con accollo del residuo mutuo, la garanzia dello Stato r
 
 Ai mutui agevolati concessi ai sensi della presente legge si applicano le disposizioni contenute nell'articolo 10-ter del decreto-legge 13 agosto 1975, n. 376, convertito, con modificazioni, nella legge 16 ottobre 1975, n. 492, fatto salvo il potere regionale di concessione dei contributi di cui alla lettera 1) del precedente articolo 4.
 
-#### Art. 18 - Beneficiari dei mutui agevolati
+### Art. 18 - Beneficiari dei mutui agevolati
 
 I mutui previsti dall'articolo 16 sono destinati alla realizzazione di programmi di edilizia residenziale in aree comprese nei piani di zona di cui alla legge 18 aprile 1962, n. 167 e successive modificazioni e integrazioni e sono concessi ad enti pubblici che intendano costruire abitazioni da assegnare in proprieta', a cooperative edilizie a proprieta' individuale, ad imprese di costruzione ed a privati che intendano costruire la propria abitazione, con onere iniziale a carico del mutuatario del 4,5 per cento, oltre al rimborso del capitale. L'onere a carico del mutuatario e' stabilito, ai sensi dei successivo articolo 20, in misura differenziata, a seconda della fascia di reddito di appartenenza, al momento dell'assegnazione per gli alloggi realizzati da enti pubblici e cooperative edilizie a proprieta' individuale, dell'acquisto per gli alloggi realizzati da imprese di costruzione, dell'atto di liquidazione finale del mutuo per quelli costruiti da privati.
 
@@ -398,7 +396,7 @@ AGGIORNAMENTO (18)
 
 La L. 17 febbraio 1992, n. 179 ha disposto (con l'art. 21, comma 2) che:"I requisiti soggettivi e tutte le altre condizioni previste dall'articolo 18 della legge 5 agosto 1978, n. 457, e successive modificazioni, che devono essere posseduti dai soci di cooperative edilizie a proprieta' individuale e indivisa, devono intendersi riferiti ai soli assegnatari degli alloggi realizzati in attuazione dei programmi finanziati a norma della medesima legge n. 457 del 1978".
 
-#### Art. 19 - Contributo dello Stato
+### Art. 19 - Contributo dello Stato
 
 Al fine di contenere l'onere a carico del mutuatario nella misura indicata nel successivo articolo 20, e' corrisposto agli istituti di credito mutuanti un contributo pari alla differenza tra il costo del denaro, determinato ai sensi del titolo secondo del decreto-legge 6 settembre 1965, n. 1022, cosi' come convertito, con modificazioni, nella legge 1 novembre 1965, n. 1179, e successive modificazioni e integrazioni, e l'onere a carico dei mutuatario stesso.
 
@@ -408,7 +406,7 @@ Corrispondentemente, e' variato il contributo a carico dello Stato che, in ogni 
 
 Per le cooperative a proprieta' indivisa la variazione dei tassi secondo le modalita' di cui al comma precedente decorre dopo i primi sei anni.
 
-#### Art. 20 - Limiti di reddito per l'accesso ai mutui agevolati e relativi tassi
+### Art. 20 - Limiti di reddito per l'accesso ai mutui agevolati e relativi tassi
 
 I limiti massimi di reddito per l'accesso ai mutui agevolati, di cui alla presente legge, da destinare all'acquisto, alla costruzione, all'ampliamento o al riattamento di un'abitazione e quelli per l'assegnazione di un'abitazione fruente di mutuo agevolato, sono fissate:
 
@@ -426,13 +424,13 @@ I limiti di reddito ed i tassi anzidetti sono soggetti a revisione biennale ai s
 
 Ai fini della determinazione dell'onere a carico del mutuatario si tiene conto del reddito complessivo familiare quale risulta dall'ultima dichiarazione dei redditi presentata da ciascun componente del nucleo familiare prima dell'assegnazione o dell'acquisto dello alloggio ovvero, nel caso di alloggi costruiti da privati, prima dell'atto di liquidazione finale del mutuo.
 
-#### Art. 21 - Modalita' per la determinazione del reddito
+### Art. 21 - Modalita' per la determinazione del reddito
 
 ((Ai fini dell'acquisizione dei benefici previsti dal presente titolo nonche' ai fini dell'attribuzione di eventuali punteggi preferenziali per la formazione di graduatorie degli aventi diritto il reddito complessivo del nucleo familiare e' diminuito di lire un milione per ogni figlio che risulti essere a carico; agli stessi fini, qualora alla formazione del reddito predetto concorrano redditi da lavoro dipendente, questi, dopo la detrazione dell'aliquota per ogni figlio che risulti essere a carico, sono calcolati nella misura del 60 per cento)).
 
 Per il requisito della residenza si applica quanto disposto dall'articolo 2, lettera b), del decreto del Presidente della Repubblica 30 dicembre 1972, n. 1035.
 
-#### Art. 22 - Limiti di reddito per l'assegnazione delle abitazioni degli I.A.C.P.
+### Art. 22 - Limiti di reddito per l'assegnazione delle abitazioni degli I.A.C.P.
 
 Il limite di reddito per l'assegnazione in locazione delle abitazioni realizzate dagli istituti autonomi per le case popolari ai sensi del precedente articolo 1, lettera a), nonche' ai sensi dell'articolo 2, lettera e), del decreto del Presidente della Repubblica 30 dicembre 1972, n. 1035, e successive modificazioni e integrazioni, ((e' fissato in L. 5.500.000)).
 
@@ -440,11 +438,11 @@ Al limite di cui al comma precedente si applicano le disposizioni del primo comm
 
 Le disposizioni del presente articolo si applicano anche alle assegnazioni da effettuare ai sensi del decreto del Presidente della Repubblica 30 dicembre 1972, n. 1035, relativamente a bandi di concorso pubblicati dopo la data di entrata in vigore della presente legge.
 
-#### Art. 23 - Decadenza dal contributo dello Stato
+### Art. 23 - Decadenza dal contributo dello Stato
 
 Qualora il socio di cooperativa edilizia o l'acquirente di impresa di costruzioni ovvero il privato risultino essere in possesso, ai sensi dell'ultimo comma dello articolo 20 ed alle condizioni previste dal precedente articolo 18, di un reddito superiore a quello determinato sulla base del precedente articolo 21, hanno diritto a conservare l'abitazione. In tal caso il contributo dello Stato concesso sul programma costruttivo ovvero sull'abitazione realizzata dal privato viene rispettivamente ridotto in misura corrispondente ovvero annullato e gli interessati sono tenuti a rimborsare allo Stato l'ammontare dei contributi gia' corrisposti agli istituti mutuanti anche sugli interessi di preammortamento.
 
-#### Art. 24 - Abitazioni realizzate con leggi anteriori
+### Art. 24 - Abitazioni realizzate con leggi anteriori
 
 Per l'acquisto o per l'assegnazione di abitazioni comprese in programmi di edilizia agevolata o convenzionata ovvero realizzate da cooperative edilizie, fruenti di contributo comunque a carico dello Stato, finanziate con leggi anteriori alla presente, restano fermi i requisiti e le procedure in esse stabilite.
 
@@ -454,7 +452,7 @@ Il diritto previsto dal precedente articolo 23 si estende, con le modalita' ivi 
 
 Per il requisito della residenza si applica la disposizione di cui al secondo comma dell'articolo 21.
 
-#### Art. 25 - Principi per la legislazione regionale relativa alla individuazione dei soggetti incaricati della realizzazione dei programmi edilizi
+### Art. 25 - Principi per la legislazione regionale relativa alla individuazione dei soggetti incaricati della realizzazione dei programmi edilizi
 
 Entro sei mesi dalla data di entrata in vigore della presente legge le regioni provvedono a disciplinare legislativamente il procedimento di scelta dei soggetti incaricati della realizzazione dei programmi di edilizia agevolata e convenzionata secondo i seguenti criteri:
 
@@ -466,7 +464,7 @@ Entro sei mesi dalla data di entrata in vigore della presente legge le regioni p
 
 ((La quota di riserva deve indicare l'ordine di priorita'. Qualora detta riserva venga esaurita, le abitazioni disponibili sono assegnate ai soci della cooperativa in ordine di data di iscrizione alla stessa)).
 
-#### Art. 26 - Edilizia rurale
+### Art. 26 - Edilizia rurale
 
 Al fine di migliorare le condizioni di vita nelle campagne, e' concesso un concorso nel pagamento degli interessi sui mutui e sugli interessi di preammortamento concessi dagli istituti e dalle sezioni di credito fondiario ed edilizio o dagli istituti e dalle sezioni di credito agrario di miglioramento anche in deroga alle norme legislative e statutarie che ne regolano l'attivita', per la costruzione, l'ampliamento o il riattamento di fabbricati rurali ad uso di abitazione di coltivatori diretti, proprietari o affittuari, mezzadri o coloni e di imprenditori a titolo principale, a condizione che gli stessi vi risiedano da almeno cinque anni, esercitando l'attivita' agricola e a condizione che nessun membro convivente del nucleo familiare abbia altra abitazione rurale in proprieta' nel territorio comunale o nei comuni contermini e che il reddito complessivo del nucleo familiare, determinato ai sensi del precedente articolo 20, non sia superiore a lire 10 milioni. I benefici predetti sono attribuiti secondo le priorita' stabilite dalle leggi regionali.
 
@@ -480,11 +478,9 @@ I tassi agevolati sono stabiliti nella misura del 6 per cento per i coltivatori 
 
 Il Comitato per l'edilizia residenziale sulla base delle direttive emesse ai sensi degli articoli 2 e 3 della presente legge provvede al riparto tra le regioni dei fondi destinati agli interventi previsti dal presente articolo nonche' alla determinazione della quota da destinare all'ampliamento ed al riattamento delle abitazioni.
 
-## Titolo IV - NORME GENERALI PER IL RECUPERO DEL PATRIMONIO EDILIZIO ED URBANISTICO
+## Titolo IV - NORME GENERALI PER IL RECUPERO DEL PATRIMONIO EDILIZIO ED URBANISTICO ESISTENTE
 
-### ESISTENTE
-
-#### Art. 27 - Individuazione delle zone di recupero del patrimonio edilizio esistente
+### Art. 27 - Individuazione delle zone di recupero del patrimonio edilizio esistente
 
 I comuni individuano, nell'ambito degli strumenti urbanistici generali, le zone ove, per le condizioni di degrado, si rende opportuno il recupero del patrimonio edilizio ed urbanistico esistente i mediante interventi rivolti alla conservazione, al risanamento, alla ricostruzione e alla migliore utilizzazione del patrimonio stesso. Dette zone possono comprendere singoli immobili, complessi edilizi, isolati ed aree, nonche' edifici da destinare ad attrezzature.
 
@@ -496,7 +492,7 @@ Nell'ambito delle zone, con la deliberazione di cui al precedente comma o succes
 
 Gli interventi di restauro e di ristrutturazione edilizia, qualora riguardino globalmente edifici costituiti da piu' alloggi, sono consentiti, con il mantenimento delle destinazioni d'uso residenziali, purche' siano disciplinati da convenzione o da atto d'obbligo unilaterale, trascritto a cura del comune e a spese dell'interessato, mediante il quale il concessionario si impegni a praticare prezzi di vendita e canoni di locazione degli alloggi concordati con il comune ed a concorrere negli oneri di urbanizzazione, ai sensi della legge 28 gennaio 1977, n. 10.
 
-#### Art. 28 - Piani di recupero del patrimonio edilizio esistente
+### Art. 28 - Piani di recupero del patrimonio edilizio esistente
 
 I piani di recupero prevedono la disciplina per il recupero degli immobili, dei complessi edilizi, degli isolati e delle aree di cui al terzo comma del precedente articolo 27, anche attraverso interventi di ristrutturazione urbanistica, individuando le unita' minime di intervento.
 
@@ -522,13 +518,13 @@ I comuni, sempre previa diffida, possono provvedere alla esecuzione delle opere 
 
 I comuni possono affidare la realizzazione delle opere di urbanizzazione primaria e secondaria ai proprietari singoli o riuniti in consorzio che eseguono gli interventi previsti dal piano di recupero.
 
-#### Art. 29 - Utilizzazione dei fondi da parte dei comuni
+### Art. 29 - Utilizzazione dei fondi da parte dei comuni
 
 Per l'attuazione dei piani di recupero da parte dei comuni, nei casi previsti dal quinto comma del precedente articolo 28, viene utilizzata la quota dei fondi destinata al recupero del patrimonio edilizio esistente, ai sensi della lettera c) del precedente articolo 4, detratta la parte destinata alla concessione dei contributi dello Stato per i mutui agevolati.
 
 La predetta quota e' messa a disposizione dei comuni e puo' essere utilizzata, nei limiti che saranno determinati dalla regione, anche per il trasferimento e la sistemazione temporanea delle famiglie, con esclusione della costruzione di nuovi alloggi, per la prosecuzione delle attivita' economiche insediate negli immobili interessati dagli interventi, nonche' per la redazione dei piani di recupero.
 
-#### Art. 30 - Piani di recupero di iniziativa dei privati
+### Art. 30 - Piani di recupero di iniziativa dei privati
 
 I proprietari di immobili e di aree compresi nelle zone di recupero, rappresentanti, in base all'imponibile catastale, almeno i tre quarti del valore degli immobili interessati, possono presentare proposte di piani di recupero.
 
@@ -540,7 +536,7 @@ La proposta di piano deve essere pubblicata, ai sensi della legge 17 agosto 1942
 
 I piani di recupero di iniziativa dei privati diventano efficaci dopo che la deliberazione del consiglio comunale, con la quale vengono decise le opposizioni, ha riportato il visto di legittimita' di cui all'articolo 59 della legge 10 febbraio 1953, n. 62.
 
-#### Art. 31 - Definizione degli interventi
+### Art. 31 - Definizione degli interventi
 
 Gli interventi di recupero del patrimonio edilizio esistente sono cosi' definiti:
 
@@ -560,7 +556,7 @@ Le definizioni del presente articolo prevalgono sulle disposizioni degli strumen
 
 Restano ferme le disposizioni e le competenze previste dalle leggi 1 giugno 1939, n. 1089, e 29 giugno 1939, n. 1497, e successive modificazioni ed integrazioni.
 
-#### Art. 32 - Disposizioni particolari
+### Art. 32 - Disposizioni particolari
 
 Gli interventi sul patrimonio edilizio esistente, compresi nei piani di recupero, approvati ai sensi del secondo comma del precedente articolo 28, sono inclusi nei programmi pluriennali di attuazione previsti dallo articolo 13 della legge 28 gennaio 1977, n. 10. I comuni possono includere nei predetti programmi pluriennali anche gli interventi sul patrimonio edilizio esistente non compresi nei piani di recupero.
 
@@ -568,7 +564,7 @@ Nel formulare i programmi pluriennali di attuazione, i comuni sono tenuti a stim
 
 Nei comuni con popolazione superiore a 50 mila abitanti, per gli - interventi di rilevante entita' non convenzionati ai sensi della legge 28 gennaio 1977, n. 10 o della presente legge, la concessione puo' essere subordinata alla stipula di una convenzione speciale mediante la quale i proprietari assumono, anche per i loro aventi causa, l'impegno di dare in locazione una quota delle abitazioni recuperate a soggetti appartenenti a categorie indicate dal comune, concordando il canone con il comune medesimo ed assicurando la priorita' ai precedenti occupanti.
 
-#### Art. 33 - Agevolazioni creditizie per gli interventi di recupero
+### Art. 33 - Agevolazioni creditizie per gli interventi di recupero
 
 Gli interventi di cui al presente titolo e quelli previsti dai piani particolareggiati, ove esistenti, purche' convenzionati ai sensi della legge 28 gennaio 1977, n. 10, fruiscono delle agevolazioni creditizie di cui al precedente articolo 16, per le quali si applicano le disposizioni di cui agli articoli 17, 19, 20 e 21 della presente legge. Il limite massimo del mutuo agevolato concedibile, stabilito nel primo comma del precedente articolo 16, e' fissato in lire 15 milioni ed e' soggetto a revisione cosi' le modalita' previste dal secondo comma dello stesso articolo 16.
 
@@ -578,13 +574,13 @@ Nel caso in cui gli interventi che fruiscono delle agevolazioni creditizie previ
 
 La cessione o l'assegnazione puo' essere disposta a favore dei precedenti occupanti anche se non sono in possesso dei predetti requisiti. In tal caso gli stessi non possono fruire del contributo pubblico.
 
-#### Art. 34 - Piani esecutivi vigenti
+### Art. 34 - Piani esecutivi vigenti
 
 Ai piani particolareggiati e ai piani delle zone da destinare all'edilizia economica e popolare, gia' approvati alla data di entrata in vigore della presente legge e finalizzati al risanamento del patrimonio edilizio esistente, i comuni possono attribuire, con deliberazione del consiglio comunale, il valore di piani di recupero ed applicare le disposizioni del presente titolo.
 
 ## Titolo V - FINANZIAMENTO DEL PIANO DECENNALE
 
-#### Art. 35 - Finanziamento per l'edilizia sovvenzionata
+### Art. 35 - Finanziamento per l'edilizia sovvenzionata
 
 Per gli interventi di edilizia sovvenzionata di cui al primo comma, lettere a) e c) dell'articolo 1 della presente legge, e' autorizzata per il quadriennio 1978, 1979, 1980 e 1981 l'assegnazione agli Istituti autonomi per le case popolari e loro consorzi, nonche' ai comuni per gli interventi di recupero del patrimonio edilizio esistente, della somma di lire 3.500 miliardi, alla cui copertura si provvede mediante:
 
@@ -614,7 +610,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 23 gennaio 1982, n. 9, convertito con modificazioni dalla L. 25 marzo 1982, n. 94 ha disposto(con l'art. 1, comma 1) che l'apporto finanziario dello Stato previsto dall presente articolo lettera c), e' aumentato di lire 600 miliardi.
 
-#### Art. 36 - Finanziamento per l'edilizia convenzionata agevolata
+### Art. 36 - Finanziamento per l'edilizia convenzionata agevolata
 
 Per la concessione di contributi agli interventi di edilizia residenziale fruenti di mutuo agevolato previsto dal precedente articolo 16 e' autorizzato in ciascuno degli anni finanziari 1978, 1979, 1980 e 1981, il limite di impegno di lire 70 miliardi.
 
@@ -626,7 +622,7 @@ All'onere di lire 70 miliardi derivante dall'applicazione del presente articolo 
 
 Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 37 - Finanziamento per l'edilizia rurale
+### Art. 37 - Finanziamento per l'edilizia rurale
 
 Per la concessione del concorso nel pagamento degli interessi di cui al precedente articolo 26 e' autorizzato, per l'anno finanziario 1978, un limite di impegno di lire 30 miliardi, che sara' iscritto nello stato di previsione della spesa del Ministero dei lavori pubblici per l'anno finanziario medesimo.
 
@@ -638,7 +634,7 @@ Per il quinquennio 1988-1992 al relativo onere sara' provveduto annualmente nell
 
 Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 38 - Completamento dei programmi di edilizia convenzionata agevolata per l'anno finanziario 1977
+### Art. 38 - Completamento dei programmi di edilizia convenzionata agevolata per l'anno finanziario 1977
 
 E' autorizzato per l'anno finanziario 1977 il limite di impegno di lire 20 miliardi da destinare, a cura delle regioni, al completamento di iniziative in corso, di ammontare unitario tale da consentire la realizzazione di programmi funzionali.
 
@@ -650,11 +646,11 @@ All'onere di 20, miliardi di lire derivante dall'applicazione del presente artic
 
 Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 39 - Accredito dei fondi alle province di Trento e Bolzano
+### Art. 39 - Accredito dei fondi alle province di Trento e Bolzano
 
 Per le province autonome di Trento e Bolzano, aventi competenza esclusiva in materia di edilizia comunque sovvenzionata, totalmente o parzialmente, con finanziamenti a carattere pubblico, il Ministro dei lavori pubblici, d'intesa con il presidente della giunta provinciale, integra ed accredita le quote dei finanziamenti previsti dalla presente legge, proporzionalmente alle entrate in copertura, da devolvere a ciascuna provincia autonoma in base ai parametri indicati dall'articolo 78 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670.
 
-#### Art. 40 - Incremento del fondo per mutui ai comuni per l'acquisizione delle aree e per le opere di urbanizzazione
+### Art. 40 - Incremento del fondo per mutui ai comuni per l'acquisizione delle aree e per le opere di urbanizzazione
 
 Il fondo speciale costituito presso la Cassa depositi e prestiti ai sensi dell'articolo 45 della legge 22 ottobre 1971, n. 865, modificato dall'articolo 7 della legge 27 maggio 1975, n. 166, e' ulteriormente elevato a lire 700 miliardi. A tal fine, il tesoro dello Stato e' autorizzato ad apportare alla Cassa depositi e prestiti la somma di lire 180 miliardi. Detta somma sara' iscritta nello stato di previsione della spesa del Ministero del tesoro in ragione di lire 60 miliardi per ciascuno degli anni finanziari 1979, 1980 e 1981.
 
@@ -664,7 +660,7 @@ Con la legge di approvazione del bilancio per ciascuno degli anni finanziari dal
 
 ## Titolo VI - NORME FINALI E TRANSITORIE
 
-#### Art. 41 - Prima formulazione del piano e del programma di edilizia residenziale
+### Art. 41 - Prima formulazione del piano e del programma di edilizia residenziale
 
 In sede di prima applicazione ed entro sessanta giorni dall'entrata in vigore della presente legge, le disponibilita' finanziarie imputabili al biennio 1978-79 sono ripartite tra le regioni dal Comitato per l'edilizia residenziale secondo le proporzioni desumibili dalla tabella A allegata alla legge 8 agosto 1977, n. 513, per quanto riguarda l'edilizia sovvenzionata nonche' tra le regioni e tra le categorie di operatori secondo i criteri di cui all'articolo 9 della legge 27 maggio 1975, n. 166, per quanto riguarda i fondi per l'edilizia convenzionata e agevolata.
 
@@ -684,7 +680,7 @@ AGGIORNAMENTO (4)
 
 Il D.L. 26 novembre 1980, n. 776, convertito con modificazioni dalla L. 22 dicembre 1980, n. 874 ha disposto (con l'art. 14-sexies,comma 1) che: "Per le regioni Basilicata e Campania sono prorogati di dodici mesi i termini di cui al quarto e quinto comma dell'articolo 41 della legge 5 agosto 1978, n. 457, gia' modificati dalla legge 15 febbraio 1980, n. 25".
 
-#### Art. 42 - Norme tecniche
+### Art. 42 - Norme tecniche
 
 Entro un anno dall'entrata in vigore della presente legge il Comitato per l'edilizia residenziale provvede alla formulazione delle norme tecniche nazionali, tra le quali devono essere compresi:
 
@@ -696,7 +692,7 @@ Nel biennio successivo le regioni dovranno provvedere all'emanazione delle norme
 
 Le norme previste dal presente articolo devono essere finalizzate alla riduzione dei costi di costruzione.
 
-#### Art. 43 - Caratteristiche tecniche degli edifici e delle abitazioni
+### Art. 43 - Caratteristiche tecniche degli edifici e delle abitazioni
 
 In sede di prima applicazione e fino all'emanazione delle norme di cui al precedente articolo 42, gli edifici residenziali che comprendono abitazioni fruenti di contributo dello Stato ai sensi della presente legge devono avere le seguenti caratteristiche:
 
@@ -718,7 +714,7 @@ L'osservanza delle norme previste dal precedente primo comma e dall'ultimo comma
 
 Le disposizioni del presente articolo, ad eccezione di quella contenuta nella lettera a) del secondo comma, non si applicano per gli interventi di recupero del patrimonio edilizio esistente.
 
-#### Art. 44 - Estensione della garanzia sussidiaria dello Stato
+### Art. 44 - Estensione della garanzia sussidiaria dello Stato
 
 I mutui non fruenti di contributi statali e concernenti la realizzazione dei programmi costruttivi localizzati su aree concesse in diritto di superficie o trasferite in proprieta', comprese nell'ambito dei piani di zona di cui alla legge 18 aprile 1962, n. 167, ovvero individuate ai sensi dell'articolo 51 della legge 22 ottobre 1971, n. 865, e successive modifiche ed integrazioni, saranno concessi, anche in deroga a disposizioni legislative e statutarie, dagli enti mutuanti anche quando le aree assegnate dai comuni ai sensi dell'articolo 35 della legge 22 ottobre 1971, n. 865, e successive modificazioni, non siano di proprieta' dei comuni stessi, sempre che sia stata stipulata la convenzione di cui al richiamato articolo 35, sia stato ottenuto il decreto di occupazione di urgenza e siano state iniziate le procedure di espropriazione.
 
@@ -728,7 +724,7 @@ I mutui concessi per finanziare i programmi costruttivi di cui al comma preceden
 
 E' abrogato il primo comma dell'articolo 37 della legge 22 ottobre 1971, n. 865, e successive modificazioni.
 
-#### Art. 45 - Trasferibilita' e locazione di abitazioni realizzate nei piani di zona
+### Art. 45 - Trasferibilita' e locazione di abitazioni realizzate nei piani di zona
 
 ((1. Gli immobili realizzati senza il contributo dello Stato su aree in diritto di superficie o in diritto di proprieta', nell'ambito dei piani di zona di cui alla legge 18 aprile 1962, n. 167, e successive modificazioni ed integrazioni, ivi compresi gli immobili con destinazioni non residenziali, possono essere ceduti ad enti pubblici, a societa' assicurative, nonche' ad altri soggetti pubblici e privati, anche in deroga a disposizioni legislative e statutarie.
 
@@ -736,7 +732,7 @@ E' abrogato il primo comma dell'articolo 37 della legge 22 ottobre 1971, n. 865,
 
 3\. Per gli alloggi fruenti di mutuo agevolato ceduti o da cedersi a comuni o ad altri enti pubblici allo scopo di destinarli alla locazione in favore degli sfrattati, non opera anche in caso di mancato subentro nell'agevolazione la decadenza dal contributo di preammortamento)).
 
-#### Art. 46 - Cessione di aree dei piani di zona
+### Art. 46 - Cessione di aree dei piani di zona
 
 Le aree di cui all'undicesimo comma dell'articolo 35 della legge 22 ottobre 1971, n. 865, possono essere, altresi', cedute ad imprese di costruzione e loro consorzi.
 
@@ -744,7 +740,7 @@ Le imprese di costruzione e i loro consorzi possono effettuare l'alienazione deg
 
 Salvo i casi previsti al primo comma del precedente articolo 45, l'alienazione o la costituzione di diritti reali di godimento di cui al comma precedente puo' avvenire esclusivamente a favore di soggetti che abbiano i requisiti previsti dalle vigenti disposizioni per l'assegnazione di alloggi economici e popolari.
 
-#### Art. 46-bis
+### Art. 46-bis
 
 ((Gli alloggi realizzati da imprese di costruzione e loro consorzi nell'ambito dei piani di zona di cui alla legge 18 aprile 1962, n. 167, sia su aree in regime di diritto di superficie, sia su aree in regime di proprieta' possono essere venduti dai soggetti costruttori, qualunque sia il tipo di finanziamento utilizzato ed ai prezzi fissati nella convenzione di cui all'articolo 35 della legge 22 ottobre 1971, n. 865, al Ministero della difesa per i fini di cui alla legge 18 agosto 1978, n. 497.
 
@@ -756,7 +752,7 @@ A tale effetto alla compravendita interviene anche il comune, al quale, in cambi
 
 L'assegnazione degli alloggi acquistati a norma dei precedenti commi e' disciplinata esclusivamente dalle disposizioni contenute nella legge 18 agosto 1978, n. 497)).
 
-#### Art. 46-ter
+### Art. 46-ter
 
 ((Al fine di consentire ai comuni di acquisire aree o fabbricati anche demaniali disponibili in uso al Ministero della difesa, le regioni interessate possono inoltrare al Ministero stesso specifica richiesta.
 
@@ -770,13 +766,13 @@ Il valore degli immobili da cedere da parte del Ministero della difesa ai comuni
 
 Gli atti di trasferimento di immobili demaniali fra Ministero della difesa e comuni - ai quali si provvedera', come per quelli di immobili non demaniali, a trattativa privata - non sono sottoposti alle limitazioni di cui al regio decreto-legge 10 settembre 1923, n. 2000, convertito nella legge 17 aprile 1925, n. 473)).
 
-#### Art. 47 - Norma transitoria in materia di oneri di urbanizzazione
+### Art. 47 - Norma transitoria in materia di oneri di urbanizzazione
 
 ((. . . )), gli oneri di urbanizzazione primaria e secondaria, stabiliti ai sensi e con le modalita' previste dalla legge 28 gennaio 1977, n. 10, sono rateizzati in non piu' di quattro rate semestrali.
 
 I concessionari sono tenuti a prestare ai comuni opportune garanzie secondo le modalita' previste dallo articolo 13 della legge 14 gennaio 1978, n. 1.
 
-#### Art. 48
+### Art. 48
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380))((23))
 
@@ -788,21 +784,21 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 49 - Modifica all'articolo 18 della legge 28 gennaio 1977, n. 10
+### Art. 49 - Modifica all'articolo 18 della legge 28 gennaio 1977, n. 10
 
 Il quarto comma dell'articolo 18 della legge 28 gennaio 1977, n. 10, e' sostituito dal seguente:
 
 "In ordine alle istanze di cui al secondo comma, la concessione, con i benefici ivi previsti, non puo' essere data dopo due anni dalla presentazione delle istanze stesse, salvo che sia successivamente intervenuta decisione di annullamento del silenzio rifiuto o di un provvedimento negativo emesso dal comune".
 
-#### Art. 50 - Disciplina dei programmi costruttivi finanziati prima del 31 dicembre 1977
+### Art. 50 - Disciplina dei programmi costruttivi finanziati prima del 31 dicembre 1977
 
 Per i programmi costruttivi finanziati prima del 31 dicembre 1977 con fondi stanziati da leggi precedenti alla presente legge si applicano le procedure e le modalita' di attuazione stabilite nelle stesse leggi di finanziamento.
 
-#### Art. 51 - Proroga dell'efficacia dei piani di zona
+### Art. 51 - Proroga dell'efficacia dei piani di zona
 
 Il termine di cui all'articolo 1 del decreto-legge 2 maggio 1974, n. 115, convertito nella legge 27 giugno 1974, n. 247, e' prorogato di tre anni, fermo restando il disposto del secondo comma dell'articolo 3 della legge 18 aprile 1962, n. 167.
 
-#### Art. 52 - Modifiche della legge 8 agosto 1977, n. 513
+### Art. 52 - Modifiche della legge 8 agosto 1977, n. 513
 
 Al secondo comma dell'articolo 27 della legge 8 agosto 1977, n. 513, e' aggiunto il seguente periodo:
 
@@ -828,7 +824,7 @@ All'articolo 28 della legge 8 agosto 1977, n. 513, e' aggiunto, dopo il quarto c
 
 Al primo comma dell'articolo 29 della legge 8 agosto 1977, n. 513, le parole: "otto decimi" sono sostituite dalle altre: "sette decimi" e le parole: "del 5 per cento" sono sostituite dalle altre: "del 15 per cento, al netto degli alloggi in corso di cessione in proprieta'".
 
-#### Art. 53 - Limiti di applicazione dell'articolo 26 della legge 8 agosto 1977, n. 513
+### Art. 53 - Limiti di applicazione dell'articolo 26 della legge 8 agosto 1977, n. 513
 
 Per tutti gli alloggi che, alla data di entrata in vigore della legge 8 agosto 1977, n. 513, risultassero occupati senza titolo, gli enti gestori provvedono alla regolarizzazione dei rapporti locativi, previo accertamento, ad opera della commissione di cui all'articolo 6 del decreto del Presidente della Repubblica 30 dicembre 1972, n. 1035, del possesso da parte degli occupanti dei requisiti prescritti dall'articolo 2 di detto decreto del Presidente della Repubblica e successive modificazioni.
 
@@ -842,7 +838,7 @@ c) alla circostanza che l'occupazione non abbia sottratto il godimento dell'allo
 
 Per tutte le ipotesi nelle quali il rapporto non sia regolarizzabile ai sensi di cui sopra e per le occupazioni verificatesi successivamente alla data di cui alla lettera a) continuano ad applicarsi le norme dell'articolo 26 della legge 8 agosto 1977, n. 513.
 
-#### Art. 54 - Proroga dei termini
+### Art. 54 - Proroga dei termini
 
 Il termine di cui all'ultimo comma dell'articolo 16 della legge 8 agosto 1977, n. 513, e' prorogato al 31 ottobre 1978.
 
@@ -854,13 +850,13 @@ Il termine stabilito al secondo comma dell'articolo 38 del decreto
 
 del Presidente della Repubblica 29 settembre 1973, n. 601, per il completamento in ogni loro parte dei fabbricati in corso di costruzione alla data del 1 gennaio 1974, e' prorogato al 31 dicembre 1978.
 
-#### Art. 55 - Norme transitorie per l'assegnazione di alloggi di edilizia residenziale pubblica
+### Art. 55 - Norme transitorie per l'assegnazione di alloggi di edilizia residenziale pubblica
 
 Fino all'emanazione dei criteri di cui al precedente articolo 3, lettera g), all'assegnazione degli alloggi di edilizia residenziale pubblica provvede, sulla base della graduatoria formata dalla commissione prevista dall'articolo 6 del decreto del Presidente della Repubblica 30 dicembre 1972, n. 1035, il comune nel cui territorio gli alloggi stessi sono stati realizzati.
 
 E' fatta tuttavia salva la facolta' delle regioni, in pendenza della predetta emanazione e sulla base dei criteri contenuti nel decreto del Presidente della Repubblica 30 dicembre 1972, n. 1035, di apportare perfezionamenti ed integrazioni alla disciplina del procedimento di assegnazione ivi stabilito.
 
-#### Art. 56 - Fonti energetiche alternative
+### Art. 56 - Fonti energetiche alternative
 
 Nella concessione di contributi pubblici per la costruzione di edifici residenziali sara' data la preferenza agli interventi che prevedono l'installazione di impianti di riscaldamento e di produzione di acqua calda alimentati da fonti energetiche non tradizionali.
 
@@ -870,11 +866,11 @@ Per i predetti interventi il Comitato per l'edilizia residenziale puo' stabilire
 
 Entro sei mesi dalla data di entrata in vigore della presente legge, il Comitato per l'edilizia residenziale provvedera' a formare un elenco, da aggiornare ogni biennio, delle fonti energetiche da considerarsi non tradizionali ai fini dell'applicazione del precedente comma, con l'osservanza delle norme contro l'inquinamento.
 
-#### Art. 57 - Norme fiscali per le obbligazioni indicizzate
+### Art. 57 - Norme fiscali per le obbligazioni indicizzate
 
 Non costituisce reddito imponibile il maggior valore, derivante dalle variazioni dipendenti da clausole di indicizzazione, delle obbligazioni indicizzate emesse da istituti e sezioni di credito fondiario ed edilizio ai sensi del precedente articolo 15 ((entro il 30 settembre 1982)).
 
-#### Art. 58 - Norme fiscali per le assegnazioni a soci di cooperative
+### Art. 58 - Norme fiscali per le assegnazioni a soci di cooperative
 
 Il limite massimo di L. 25.000.000, di cui all'articolo 7-bis del decreto-legge 13 agosto 1975, n. 376, introdotto dall'articolo 1 della legge di conversione 16 ottobre 1975, n. 376, previsto come valore delle assegnazioni a soci in regime di privilegio da parte di societa' cooperative edilizie e loro consorzi, in possesso dei requisiti prescritti, e' elevato a L. 35.000.000.
 
@@ -884,7 +880,7 @@ Restano ferme le disposizioni dell'articolo 12 del decreto legislativo luogotene
 
 Le disposizioni del secondo comma del presente articolo si applicano anche ai rapporti pendenti alla data di entrata in vigore della presente legge, fermi restando i limiti massimi di valore previsti dalle norme in vigore alla data di registrazione degli atti di assegnazione.
 
-#### Art. 59 - Norme fiscali per gli interventi di recupero
+### Art. 59 - Norme fiscali per gli interventi di recupero
 
 Le prestazioni dipendenti da contratti di appalto aventi per oggetto gli interventi previsti dall'articolo 31 della presente legge, con esclusione di quelli di cui alla lettera a) dello stesso articolo, sono soggette alla imposta sul valore aggiunto con l'aliquota del sei per cento, ridotta al tre per cento qualora gli interventi siano stati effettuati con il concorso o il contributo dello Stato o di altri enti pubblici autorizzati per legge.
 
@@ -898,7 +894,7 @@ AGGIORNAMENTO (2)
 
 La L. 29 febbraio 1980, n. 31 ha disposto (con l'art. 14, comma 1) che il presente articolo deve intendersi nel senso che le disposizioni in esso contenute si applicano agli interventi di recupero, definiti dall'articolo 31, con esclusione di quelli di cui alla lettera a) di quest'ultimo articolo, anche se realizzati in assenza o all'esterno delle zone di recupero di cui allo articolo 27 della legge stessa.
 
-#### Art. 60
+### Art. 60
 
 Sono abrogate tutte le disposizioni incompatibili con la presente legge.
 
@@ -916,7 +912,7 @@ Visto, il Guardasigilli: BONIFACIO
 
 ## Titolo VI - NORME FINALI E TRANSITORIE
 
-#### Allegato
+### Allegato
 
 ORGANICO DEL SEGRETARIATO GENERALE
 

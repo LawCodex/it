@@ -92,7 +92,7 @@ A richiesta degli interessati, possono essere concesse anticipazioni fino al tre
 
 La rimanente parte e' erogata in ragione dell'avanzamento dei lavori o degli acquisti effettuati.
 
-## CAPITOLO II
+### CAPITOLO II
 
 #### Art. 5
 
@@ -118,7 +118,7 @@ I rischi di ciascuna operazione di prestito sono posti integralmente a carico de
 
 Ciascuna annualita' di rimborso dei prestiti con i relativi interessi, sara' garantita da privilegi con le norme e con gli effetti di cui agli articoli 8, 9, 10 e 11 del regio decreto-legge 29 luglio 1927, n. 1509, convertito nella legge 5 luglio 1928, n. 1760.
 
-## CAPITOLO III
+### CAPITOLO III
 
 #### Art. 8
 
@@ -186,7 +186,7 @@ Nei territori delimitati ai sensi dell'art. 1 della presente legge, alle piccole
 
 Alla spesa derivante dall'applicazione del comma, precedente, autorizzata nella misura di lire 100 milioni, si provvede mediante la riduzione di pari importo della autorizzazione di spesa di cui al decreto-legge 15 dicembre 1951, n. 1334 e alla legge 13 febbraio 1952, n. 50, ottenuta, riducendo di uguale importo lo stanziamento relativo all'esercizio finanziario 1960-61 dello stato di previsione della spesa, del Ministero dell'industria e del commercio.
 
-## CAPITOLO II
+### CAPITOLO II
 
 #### Art. 15
 
@@ -236,7 +236,7 @@ Gli Enti di riforma fondiaria operanti nelle zone danneggiate, che abbiano esegu
 
 Gli Enti medesimi possono altresi' essere ammessi i fruire, per conto degli assegnatari, del contributo per le anticipazioni colturali perdute di cui all'art. 1, secondo comma.
 
-## CAPITOLO III
+### CAPITOLO III
 
 #### Art. 19
 
@@ -254,13 +254,13 @@ I contributi di cui all'art. 1 possono essere concessi anche per le opere e per 
 
 ((E' data facolta' al Ministero dell'interno di concedere agli E.C.A. delle zone delimitate ai sensi dello articolo 9 sovvenzioni straordinarie da destinare a favore di titolari di aziende diretto-coltivatrici per il pagamento dei contributi di cui alle lettere b) e c) dell'articolo 22 della legge 22 novembre 1954, n. 1136, e della legge 26 ottobre 1957, n. 1047, e successive aggiunte e modificazioni)).
 
-## CAPITOLO IV
+### CAPITOLO IV
 
 #### Art. 22
 
 Agli effetti della, presente legge sono considerati coltivatori diretti coloro che direttamente ed abitualmente si dedicano alla manuale coltivazione dei fondi od all'allevamento e al governo del bestiame, sempre che la complessiva forza lavorativa del nucleo familiare non sia inferiore ad un terzo di quella occorrente per la normali necessita' della coltivazione del fondo o per l'allevamento ed il governo del bestiame.
 
-## CAPITOLO V
+### CAPITOLO V
 
 #### Art. 23
 

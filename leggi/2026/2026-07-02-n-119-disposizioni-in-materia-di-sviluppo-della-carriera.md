@@ -28,13 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - MODIFICHE AL DECRETO LEGISLATIVO 27 OTTOBRE 2009, N. 150, IN MATERIA
+## Capo I - MODIFICHE AL DECRETO LEGISLATIVO 27 OTTOBRE 2009, N. 150, IN MATERIA DI OTTIMIZZAZIONE DELLA PRODUTTIVITA' DEL LAVORO PUBBLICO E DI EFFICIENZA E TRASPARENZA DELLE PUBBLICHE AMMINISTRAZIONI, NONCHE' DELEGA AL GOVERNO PER LA REVISIONE DELLA DISCIPLINA DEGLI ORGANISMI INDIPENDENTI DI VALUTAZIONE DELLA PERFORMANCE
 
-### DI OTTIMIZZAZIONE DELLA PRODUTTIVITA' DEL LAVORO PUBBLICO E DI - EFFICIENZA E TRASPARENZA DELLE PUBBLICHE AMMINISTRAZIONI, NONCHE'
-
-#### DELEGA AL GOVERNO PER LA REVISIONE DELLA DISCIPLINA DEGLI ORGANISMI - INDIPENDENTI DI VALUTAZIONE DELLA PERFORMANCE
-
-##### Art. 1
+### Art. 1
 
 Modifica all'articolo 1 del decreto legislativo
 
@@ -68,7 +64,7 @@ Modifica all'articolo 1 del decreto legislativo
 
 > 2-quater. L'introduzione della partecipazione di soggetti esterni ai processi di valutazione avviene in modo graduale, secondo linee guida adottate con decreto del Ministro per la pubblica amministrazione che tengano conto della dimensione dell'amministrazione e del grado di complessita' dell'organizzazione del lavoro. L'apporto di soggetti esterni ha natura sussidiaria e non sostitutiva rispetto al giudizio del responsabile del personale.».
 
-##### Art. 2
+### Art. 2
 
 Modifiche all'articolo 2 del decreto legislativo
 
@@ -94,7 +90,7 @@ b) ove possibile, una parte di valutazione riguardante la performance organizzat
 
 > 1-bis. I sistemi di valutazione si compongono di una parte relativa agli obiettivi e di una parte relativa alle caratteristiche trasversali di cui all'articolo 9. Il Ministro per la pubblica amministrazione, con regolamento da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, previo parere della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, entro novanta giorni dalla data di entrata in vigore della presente disposizione, stabilisce le modalita' per lo svolgimento e il bilanciamento della valutazione tra la parte degli obiettivi e la parte delle caratteristiche trasversali e per la graduale integrazione dei sistemi di misurazione e valutazione della performance nonche' gli strumenti e i criteri per assicurare l'oggettivita' della valutazione. La valutazione della performance si compone di: a) una parte di valutazione collegiale tra dirigenti, nella quale, al fine di superare eventuali asimmetrie nelle scale di valutazione degli obiettivi e dei comportamenti del personale e perseguire l'obiettivita' della valutazione, sono previste specifiche fasi, preventive e successive; b) ove possibile, una parte di valutazione riguardante la performance organizzativa di strutture, complesse o no, da parte degli utenti esterni di riferimento, ad esclusione delle unita' organizzative che svolgono attivita' fuori del territorio nazionale.».
 
-##### Art. 3
+### Art. 3
 
 Modifiche all'articolo 3 del decreto legislativo
 
@@ -126,7 +122,7 @@ b) al comma 5 sono aggiunti, in fine, i seguenti periodi: «Il trattamento retri
 
 > 6\. Fermo quanto previsto dall'articolo 13, dall'applicazione delle disposizioni del presente Titolo non devono derivare nuovi o maggiori oneri per la finanza pubblica. Le amministrazioni interessate utilizzano a tale fine le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.».
 
-##### Art. 4
+### Art. 4
 
 Modifiche all'articolo 4 del decreto legislativo
 
@@ -158,7 +154,7 @@ b) alla lettera b), dopo la parola: «collegamento» sono inserite le seguenti: 
 
 > f) rendicontazione dei risultati agli organi di indirizzo politico-amministrativo, ai vertici delle amministrazioni, nonche' ai competenti organi di controllo interni ed esterni, ai cittadini, ai soggetti interessati, agli utenti e ai destinatari dei servizi.».
 
-##### Art. 5
+### Art. 5
 
 Modifiche all'articolo 5 del decreto legislativo
 
@@ -214,7 +210,7 @@ g-ter) definiti, con riguardo alle lettere a), b), c), d), e), f), g) e g-bis), 
 
 > 2-bis. Gli obiettivi, anche nell'ottica di una corretta allocazione delle risorse, assicurano l'effettiva inclusione sociale e le possibilita' di accesso delle persone con disabilita'.».
 
-##### Art. 6
+### Art. 6
 
 Modifiche all'articolo 6 del decreto legislativo
 
@@ -234,7 +230,7 @@ b) il secondo periodo e' soppresso.
 
 > 2.».
 
-##### Art. 7
+### Art. 7
 
 Modifiche all'articolo 7 del decreto legislativo
 
@@ -278,7 +274,7 @@ b) al comma 2:
 
 > 3.».
 
-##### Art. 8
+### Art. 8
 
 Modifica all'articolo 8 del decreto legislativo
 
@@ -310,7 +306,7 @@ Modifica all'articolo 8 del decreto legislativo
 
 > 1-bis. Le valutazioni della performance organizzativa sono predisposte sulla base di appositi modelli definiti dal Dipartimento della funzione pubblica, tenendo conto anche delle esperienze di valutazione svolte da agenzie esterne di valutazione, ove previste, e degli esiti del confronto tra i soggetti appartenenti alla rete nazionale per la valutazione delle amministrazioni pubbliche, di cui al decreto emanato in attuazione dell'articolo 19 del decreto-legge n. 90 del 2014, con particolare riguardo all'ambito di cui alla lettera g) del comma 1.».
 
-##### Art. 9
+### Art. 9
 
 Modifiche all'articolo 9 del decreto legislativo
 
@@ -390,7 +386,7 @@ b-ter) alla capacita' di raggiungere gli obiettivi formativi assegnati».
 
 > 3\. Nella valutazione di performance individuale non sono considerati i periodi di congedo di maternita', di paternita' e parentale.».
 
-##### Art. 10
+### Art. 10
 
 Modifiche all'articolo 12 del decreto legislativo
 
@@ -424,7 +420,7 @@ d-ter) gli utenti esterni di riferimento di cui all'articolo 2, comma 1-bis, let
 
 > d-ter) gli utenti esterni di riferimento di cui all'articolo 2, comma 1-bis, lettera b), tramite appositi strumenti di valutazione.».
 
-##### Art. 11
+### Art. 11
 
 Delega al Governo per la revisione della disciplina
 
@@ -640,11 +636,9 @@ p) conferma dell'autonomia regolamentare e organizzativa degli enti locali ai fi
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno».
 
-## Capo II - MODIFICHE AL DECRETO LEGISLATIVO 30 MARZO 2001, N. 165, IN MATERIA DI
+## Capo II - MODIFICHE AL DECRETO LEGISLATIVO 30 MARZO 2001, N. 165, IN MATERIA DI ORDINAMENTO DEL LAVORO ALLE DIPENDENZE DELLE AMMINISTRAZIONI PUBBLICHE
 
-### ORDINAMENTO DEL LAVORO ALLE DIPENDENZE DELLE AMMINISTRAZIONI - PUBBLICHE
-
-##### Art. 12
+### Art. 12
 
 Modifiche in materia di accesso alla qualifica
 
@@ -798,7 +792,7 @@ e) al comma 6:
 
 > Omissis.»
 
-##### Art. 13
+### Art. 13
 
 Modifiche in materia di accesso alla qualifica di dirigente della prima fascia
 
@@ -826,7 +820,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 7 agosto 2026, n. 144 ha disposto (con l'art. 1, comma 6) che "Le disposizioni introdotte dall'articolo 13, della legge 2 luglio 2026, n. 119, nonche' le percentuali di cui all'articolo 28, comma 1-ter, lettere a), b), e c), del decreto legislativo n. 165 del 2001, si applicano agli incarichi dirigenziali di livello generale conferiti successivamente alla data di entrata in vigore del regolamento di cui all'articolo 28-bis, comma 8-quater, del medesimo decreto legislativo n. 165 del 2001. Per il personale dirigenziale non generale che, alla predetta data, stia svolgendo un incarico di direzione di ufficio dirigenziale generale, il transito nella prima fascia continua ad essere disciplinato, anche con riguardo al periodo di cinque anni, dalle disposizioni di cui all'articolo 23 del decreto legislativo n. 165 del 2001, ovvero dall'articolo 3, comma 2, del regolamento di cui al decreto del Presidente della Repubblica 23 aprile 2004, n. 108 nelle versioni vigenti il giorno antecedente alla data di entrata in vigore della legge 2 luglio 2026, n. 119".
 
-##### Art. 14
+### Art. 14
 
 Ulteriori disposizioni in materia di incarichi dirigenziali
 
@@ -894,7 +888,7 @@ c) al comma 6-ter e' aggiunto, in fine, il seguente periodo: «Le regioni e gli 
 
 > 12-bis. Le disposizioni del presente articolo costituiscono norme non derogabili dai contratti o accordi collettivi.».
 
-##### Art. 15
+### Art. 15
 
 Disposizioni transitorie e di coordinamento
 
@@ -902,11 +896,9 @@ Disposizioni transitorie e di coordinamento
 
 2\. ((COMMA ABROGATO DAL D.L. 7 AGOSTO 2026, N. 144)).
 
-## Capo III - DISPOSIZIONI PER LE REGIONI A STATUTO SPECIALE E LE PROVINCE AUTONOME
+## Capo III - DISPOSIZIONI PER LE REGIONI A STATUTO SPECIALE E LE PROVINCE AUTONOME DI TRENTO E DI BOLZANO
 
-### DI TRENTO E DI BOLZANO
-
-##### Art. 16
+### Art. 16
 
 Clausola di salvaguardia
 

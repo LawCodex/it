@@ -27,7 +27,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI DI CARATTERE FINANZIARIO
 
-#### Art. 1
+### Art. 1
 
 1\. Per l'anno 1999, il limite massimo del saldo netto da finanziare resta determinato in termini di competenza in lire 60.700 miliardi, al netto di lire 29.215 miliardi per regolazioni debitorie nonche' di lire 33.267 miliardi per anticipazioni agli enti previdenziali.
 
@@ -39,7 +39,7 @@ Tenuto conto delle operazioni di rimborso di prestiti, il livello massimo del ri
 
 > In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 29 gennaio 1999 si procedera' alla ripubblicazione del tesdella pre presente legge, corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle diposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubbblica italiana, approvato con decreto del Presidente della Repubblca 14 marzo 1986, n. 217.
 
-#### Art. 2
+### Art. 2
 
 1\. Per ciascuno degli anni 1999, 2000 e 2001, l'eventuale maggiore gettito rispetto alle previsioni derivanti dalla normativa vigente e' interamente utilizzato per la riduzione del saldo netto da finanziare, salvo che si tratti di assicurare la copertura finanziaria di interventi urgenti ed imprevisti necessari per fronteggiare calamita' naturali o improrogabili esigenze connesse con la tutela della sicurezza del Paese ovvero situazioni di emergenza economico-finanziaria.
 
@@ -61,11 +61,9 @@ Tenuto conto delle operazioni di rimborso di prestiti, il livello massimo del ri
 
 10\. La spesa di cui all'articolo 2, comma 10, della legge 27 dicembre 1997, n. 450, e' rideterminata in lire 837 miliardi per l'anno 1999 ed in lire 1.291 miliardi per l'anno 2000.
 
-## CAPO II - DISPOSIZIONI
+## CAPO II - DISPOSIZIONI IN MATERIA DI ENTRATA
 
-### IN MATERIA DI ENTRATA
-
-#### Art. 3
+### Art. 3
 
 1\. Al testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni:
 
@@ -75,11 +73,9 @@ a) all'articolo 3, comma 3, recante disposizioni sulla determinazione della base
 
 b) all'articolo 13, comma 2, concernente talune detrazioni di imposta, le parole: "di lire 70.000" sono sostituite dalle seguenti: "di lire 120.000".
 
-## CAPO III - DISPOSIZIONI
+## CAPO III - DISPOSIZIONI IN MATERIA DI PREVIDENZA
 
-### IN MATERIA DI PREVIDENZA
-
-#### Art. 4
+### Art. 4
 
 1\. L'adeguamento dei trasferimenti dovuti dallo Stato:
 
@@ -89,7 +85,7 @@ b) ai sensi dell'articolo 59, comma 34, della legge 27 dicembre 1997, n. 449, ad
 
 ## CAPO IV - NORME FINALI
 
-#### Art. 5
+### Art. 5
 
 1\. La copertura della presente legge per le nuove o maggiori spese correnti, per le riduzioni di entrata e per le nuove finalizzazioni nette da iscrivere nel fondo speciale di parte corrente viene assicurata, ai sensi dell'articolo 11, comma 5, della legge 5 agosto 1978, n. 468, come sostituito dall'articolo 5 della legge 23 agosto 1988, n. 362, come da prospetto allegato.
 
@@ -111,7 +107,7 @@ Visto, il Guardasigilli: DILIBERTO
 
 ## CAPO IV - NORME FINALI
 
-#### Tabelle
+### Tabelle
 
 Prospetto di copertura
 

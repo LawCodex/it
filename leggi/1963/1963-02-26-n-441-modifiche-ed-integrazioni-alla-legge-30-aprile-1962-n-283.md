@@ -28,19 +28,19 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-### Art. 2
+## Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-### Art. 3
+## Art. 3
 
 La lettera e) dell'articolo 5 della 30 aprile 1962, n. 283, e' soppressa.
 
-### Art. 4
+## Art. 4
 
 L'articolo 6 della legge 30 aprile 1962, n. 283, e' sostituito dal seguente:
 
@@ -60,7 +60,7 @@ In caso di condanna, per frode tossica o comunque dannosa alla salute non si app
 
 Nei casi previsti dal precedente comma, la condanna importa la pubblicazione della sentenza in uno o piu' giornali, a diffusione nazionale, designati dal giudice, nei modi stabiliti nel terzo comma dell'articolo 36 del Codice penale".
 
-### Art. 5
+## Art. 5
 
 L'articolo 8 della legge 30 aprile 1962, n. 283, e' sostituito dal seguente:
 
@@ -72,109 +72,109 @@ I prodotti alimentari o le bevande venduti sfusi debbono essere posti in vendita
 
 I contravventori sono puniti con l'ammenda da lire 100.000 a lire 500.000".
 
-### Art. 6
+## Art. 6
 
 L'ultimo comma dell'articolo 9 della legge 30 aprile 1962, n. 283, e' sostituito dal seguente:
 
 "I contravventori sono puniti con l'ammenda da lire 100.000 a lire 5.000.060.
 
-### Art. 7
+## Art. 7
 
 Nel primo comma dell'articolo 10 della, legge 30 aprile 1962, n. 283, le parole "colori che possono essere impiegati" sono sostituite con le altre "materie coloranti che possono essere impiegate" e le parole "gli standards di purezza" con le altre "i requisiti di purezza".
 
-### Art. 8
+## Art. 8
 
 L'ultimo comma dell'articolo 11 della legge 30 aprile 1962, n. 283, e' sostituito dal seguente:
 
 "I contravventori sono puniti con l'ammenda da lire 100.000 a lire 3.000.000".
 
-### Art. 9
+## Art. 9
 
 Il secondo comma dell'articolo 12 della legge 30 aprile 1982, n. 283, e' sostituito dal seguente:
 
 "I contravventori sono puniti con le pene previste dal precedente articolo 6".
 
-### Art. 10
+## Art. 10
 
 Il secondo comma dell'articolo 13 della legge 30 aprile 1962, n. 283, e' sostituito dal seguente:
 
 "I contravventori sono puniti con l'ammenda da lire 200.000 a lire 5.000.000".
 
-### Art. 11
+## Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-### Art. 12
+## Art. 12
 
 Nel primo comma dell'articolo 22 della legge 30 aprile 1962, n. 258, le parole "gli standards di purezza)" sono sostituite con le altre "i requisiti di purezza".
 
-### Art. 13
+## Art. 13
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-### Art. 14
+## Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-### Art. 15
+## Art. 15
 
 ((IL D.LGS. 2 FEBBRAIO 2021, N. 27 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-### Art. 16
+## Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-### Art. 17
+## Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-### Art. 18
+## Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-### Art. 19
+## Art. 19
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-### Art. 20
+## Art. 20
 
 ((IL D.LGS. 2 FEBBRAIO 2021, N. 27 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-### Art. 21
+## Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-### Art. 22
+## Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-### Art. 23
+## Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-### Art. 24
+## Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
 ## Disposizioni transitorie e finali
 
-### Art. 25
+## Art. 25
 
 ((IL D.LGS. 2 FEBBRAIO 2021, N. 27 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-### Art. 26
+## Art. 26
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-### Art. 27
+## Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-### Art. 28
+## Art. 28
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-### Art. 29
+## Art. 29
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 

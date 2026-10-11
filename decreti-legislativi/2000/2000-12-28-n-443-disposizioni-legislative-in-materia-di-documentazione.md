@@ -48,7 +48,7 @@ il seguente decreto legislativo:
 
 ## CAPO I - DEFINIZIONI E AMBITO DI APPLICAZIONE
 
-##### Articolo 1 (R)
+#### Articolo 1 (R)
 
 Definizioni
 
@@ -58,13 +58,13 @@ Definizioni
 
 > I riferimenti normativi relativi al decreto legislativo sono riportati in calce al decreto del Presidente della Repubblica di approvazione del testo unico, pubblicato nel presente supplemento ordinario.
 
-##### Art. 2 (L)
+#### Art. 2 (L)
 
 Oggetto
 
 1\. Le norme del presente testo unico disciplinano la formazione, il rilascio, la tenuta e la conservazione, la gestione, la trasmissione di atti e documenti da parte di organi della pubblica amministrazione: disciplinano altresi' la produzione di atti e documenti agli organi della pubblica amministrazione nonche' ai gestori di pubblici servizi, nei rapporti tra loro e in quelli con l'utenza e ai privati che vi consentono. (( PERIODO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82 ))
 
-##### Articolo 3 (R)
+#### Articolo 3 (R)
 
 Soggetti
 
@@ -76,7 +76,7 @@ Soggetti
 
 4\.
 
-##### Articolo 4 (R)
+#### Articolo 4 (R)
 
 Impedimento alla sottoscrizione e alla dichiarazione
 
@@ -84,7 +84,7 @@ Impedimento alla sottoscrizione e alla dichiarazione
 
 2\.
 
-##### Articolo 5 (L)
+#### Articolo 5 (L)
 
 Rappresentanza legale
 
@@ -92,11 +92,9 @@ Rappresentanza legale
 
 ## CAPO II - DOCUMENTAZIONE AMMINISTRATIVA
 
-### SEZIONE I
+### SEZIONE I - DOCUMENTI AMMINISTRATIVI E ATTI PUBBLICI
 
-#### DOCUMENTI AMMINISTRATIVI E ATTI PUBBLICI
-
-##### Art. 6 (L-R)
+#### Art. 6 (L-R)
 
 Riproduzione di documenti
 
@@ -108,7 +106,7 @@ Riproduzione di documenti
 
 4\.
 
-##### Articolo 7 (L)
+#### Articolo 7 (L)
 
 Redazione e stesura di atti pubblici
 
@@ -118,11 +116,9 @@ Redazione e stesura di atti pubblici
 
 ## CAPO II - DOCUMENTAZIONE AMMINISTRATIVA
 
-### SEZIONE II
+### SEZIONE II - DOCUMENTO INFORMATICO
 
-#### DOCUMENTO INFORMATICO
-
-##### Articolo 8 (R)
+#### Articolo 8 (R)
 
 Documento informatico
 
@@ -134,7 +130,7 @@ Documento informatico
 
 4\.
 
-##### Articolo 9 (R)
+#### Articolo 9 (R)
 
 Documenti informatici delle pubbliche amministrazioni
 
@@ -146,11 +142,11 @@ Documenti informatici delle pubbliche amministrazioni
 
 4\.
 
-##### Art. 10 (R)
+#### Art. 10 (R)
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82 ))
 
-##### Articolo 11 (R)
+#### Articolo 11 (R)
 
 Contratti stipulati con strumenti informatici o per via telematica
 
@@ -158,13 +154,13 @@ Contratti stipulati con strumenti informatici o per via telematica
 
 2\.
 
-##### Articolo 12 (R)
+#### Articolo 12 (R)
 
 Pagamenti informatici
 
 1\.
 
-##### Articolo 13 (R)
+#### Articolo 13 (R)
 
 Libri e scritture
 
@@ -172,11 +168,9 @@ Libri e scritture
 
 ## CAPO II - DOCUMENTAZIONE AMMINISTRATIVA
 
-### SEZIONE III
+### SEZIONE III - TRASMISSIONE DI DOCUMENTI
 
-#### TRASMISSIONE DI DOCUMENTI
-
-##### Articolo 14 (R)
+#### Articolo 14 (R)
 
 Trasmissione del documento informatico
 
@@ -186,13 +180,13 @@ Trasmissione del documento informatico
 
 3\.
 
-##### Articolo 15 (L)
+#### Articolo 15 (L)
 
 Trasmissione dall'estero di atti agli uffici di stato civile
 
 1\. In materia di trasmissione di atti o copie di atti di stato civile o di dati concernenti la cittadinanza da parte delle rappresentanze diplomatiche e consolari italiane, si osservano le disposizioni speciali sulle funzioni e sui poteri consolari.
 
-##### Articolo 16 (R)
+#### Articolo 16 (R)
 
 Riservatezza dei dati personali contenuti nei documenti trasmessi
 
@@ -202,7 +196,7 @@ Riservatezza dei dati personali contenuti nei documenti trasmessi
 
 3\.
 
-##### Articolo 17 (R)
+#### Articolo 17 (R)
 
 Segretezza della corrispondenza trasmessa per via telematica
 
@@ -212,11 +206,9 @@ Segretezza della corrispondenza trasmessa per via telematica
 
 ## CAPO II - DOCUMENTAZIONE AMMINISTRATIVA
 
-### SEZIONE IV
+### SEZIONE IV - COPIE AUTENTICHE, AUTENTICAZIONE DI SOTTOSCRIZIONI
 
-#### COPIE AUTENTICHE, AUTENTICAZIONE DI SOTTOSCRIZIONI
-
-##### Articolo 18 (L-R)
+#### Articolo 18 (L-R)
 
 Copie autentiche
 
@@ -226,13 +218,13 @@ Copie autentiche
 
 3\. (R)
 
-##### Articolo 19 (R)
+#### Articolo 19 (R)
 
 Modalita' alternative all'autenticazione di copie
 
 1\.
 
-##### Articolo 20 (R)
+#### Articolo 20 (R)
 
 Copie di atti e documenti informatici
 
@@ -246,7 +238,7 @@ Copie di atti e documenti informatici
 
 5\.
 
-##### Articolo 21 (R)
+#### Articolo 21 (R)
 
 Autenticazione delle sottoscrizioni
 
@@ -256,17 +248,15 @@ Autenticazione delle sottoscrizioni
 
 ## CAPO II - DOCUMENTAZIONE AMMINISTRATIVA
 
-### SEZIONE V
+### SEZIONE V - FIRMA DIGITALE
 
-#### FIRMA DIGITALE
-
-##### Articolo 22 (R)
+#### Articolo 22 (R)
 
 Definizioni
 
 1\.
 
-##### Articolo 23 (R)
+#### Articolo 23 (R)
 
 Firma digitale
 
@@ -284,7 +274,7 @@ Firma digitale
 
 7\.
 
-##### Articolo 24 (R)
+#### Articolo 24 (R)
 
 Firma digitale autenticata
 
@@ -300,7 +290,7 @@ Firma digitale autenticata
 
 6\.
 
-##### Articolo 25 (R)
+#### Articolo 25 (R)
 
 Firma di documenti informatici delle pubbliche amministrazioni
 
@@ -308,7 +298,7 @@ Firma di documenti informatici delle pubbliche amministrazioni
 
 2\.
 
-##### Articolo 26 (R)
+#### Articolo 26 (R)
 
 Deposito della chiave privata
 
@@ -318,7 +308,7 @@ Deposito della chiave privata
 
 3\.
 
-##### Articolo 27 (R)
+#### Articolo 27 (R)
 
 Certificazione delle chiavi
 
@@ -330,7 +320,7 @@ Certificazione delle chiavi
 
 4\.
 
-##### Articolo 28 (R)
+#### Articolo 28 (R)
 
 Obblighi dell'utente e del certificatore
 
@@ -338,7 +328,7 @@ Obblighi dell'utente e del certificatore
 
 2\.
 
-##### Articolo 29 (R)
+#### Articolo 29 (R)
 
 Chiavi di cifratura della pubblica amministrazione
 
@@ -352,23 +342,21 @@ Chiavi di cifratura della pubblica amministrazione
 
 ## CAPO II - DOCUMENTAZIONE AMMINISTRATIVA
 
-### SEZIONE VI
+### SEZIONE VI - LEGALIZZAZIONE DI FIRME E DI FOTOGRAFIE
 
-#### LEGALIZZAZIONE DI FIRME E DI FOTOGRAFIE
-
-##### Articolo 30 (L)
+#### Articolo 30 (L)
 
 Modalita' per la legalizzazione di firme
 
 1\. Nelle legalizzazioni devono essere indicati il nome e il cognome di colui la cui firma si legalizza. Il pubblico ufficiale legalizzante deve indicare la data e il luogo della legalizzazione, il proprio nome e cognome, la qualifica rivestita, nonche' apporre la propria firma per esteso ed il timbro dell'ufficio.
 
-##### Articolo 31 (L)
+#### Articolo 31 (L)
 
 Atti non soggetti a legalizzazione
 
 1\. Salvo quanto previsto negli articoli 32 e 33, non sono soggette a legalizzazione le firme apposte da pubblici funzionari o pubblici ufficiali su atti, certificati, copie ed estratti dai medesimi rilasciati. Il funzionario o pubblico ufficiale deve indicare la data e il luogo del rilascio, il proprio nome e cognome, la qualifica rivestita nonche' apporre la propria firma per esteso ed il timbro dell'ufficio.
 
-##### Articolo 32 (L)
+#### Articolo 32 (L)
 
 Legalizzazione di firme di capi di scuole parificate o
 
@@ -376,7 +364,7 @@ legalmente riconosciute
 
 1\. Le firme dei capi delle scuole parificate o legalmente riconosciute sui diplomi originali o sui certificati di studio da prodursi ad uffici pubblici fuori della provincia in cui ha sede la scuola sono legalizzate dal provveditore agli studi.
 
-##### Articolo 33 (L)
+#### Articolo 33 (L)
 
 Legalizzazione di firme di atti da e per l'estero
 
@@ -390,7 +378,7 @@ Legalizzazione di firme di atti da e per l'estero
 
 5\. Sono fatte salve le esenzioni dall'obbligo della legalizzazione e della traduzione stabilite da leggi o da accordi internazionali.
 
-##### Articolo 34 (L)
+#### Articolo 34 (L)
 
 Legalizzazione di fotografie
 
@@ -400,11 +388,9 @@ Legalizzazione di fotografie
 
 ## CAPO II - DOCUMENTAZIONE AMMINISTRATIVA
 
-### SEZIONE VII
+### SEZIONE VII - DOCUMENTI DI RICONOSCIMENTI E DI IDENTITA'
 
-#### DOCUMENTI DI RICONOSCIMENTI E DI IDENTITA'
-
-##### Articolo 35 (L-R)
+#### Articolo 35 (L-R)
 
 Documenti di identita' e di riconoscimento
 
@@ -414,7 +400,7 @@ Documenti di identita' e di riconoscimento
 
 3\. Nei documenti d'identita' e di riconoscimento non e' necessaria l'indicazione o l'attestazione dello stato civile, salvo specifica istanza del richiedente.
 
-##### Art. 36 (L)
+#### Art. 36 (L)
 
 Carta di identita' e documenti elettronici
 
@@ -434,11 +420,9 @@ Carta di identita' e documenti elettronici
 
 ## CAPO II - DOCUMENTAZIONE AMMINISTRATIVA
 
-### SEZIONE VIII
+### SEZIONE VIII - REGIME FISCALE
 
-#### REGIME FISCALE
-
-##### Articolo 37 (L)
+#### Articolo 37 (L)
 
 Esenzioni fiscali
 
@@ -448,11 +432,9 @@ Esenzioni fiscali
 
 ## CAPO III - SEMPLIFICAZIONE DELLA DOCUMENTAZIONE AMMINISTRATIVA
 
-### SEZIONE I
+### SEZIONE I - ISTANZE E DICHIARAZIONI DA PRESENTARE ALLA PUBBLICA AMMINISTRAZIONE
 
-#### ISTANZE E DICHIARAZIONI DA PRESENTARE ALLA PUBBLICA AMMINISTRAZIONE
-
-##### Articolo 38 (L-R)
+#### Articolo 38 (L-R)
 
 Modalita' di invio e sottoscrizione delle istanze
 
@@ -462,7 +444,7 @@ Modalita' di invio e sottoscrizione delle istanze
 
 3\. Le istanze e le dichiarazioni sostitutive di atto di notorieta' da produrre agli organi della amministrazione pubblica o ai gestori o esercenti di pubblici servizi sono sottoscritte dall'interessato in presenza del dipendente addetto ovvero sottoscritte e presentate unitamente a copia fotostatica non autenticata di un documento di identita' del sottoscrittore. La copia fotostatica del documento e' inserita nel fascicolo. Le istanze e la copia fotostatica del documento di identita' possono essere inviate per via telematica; nei procedimenti di aggiudicazione di contratti pubblici, detta facolta' e' consentita nei limiti stabiliti dal regolamento di cui all'articolo 15, comma 2 della legge 15 marzo 1997, n. 59.
 
-##### Articolo 39 (L)
+#### Articolo 39 (L)
 
 Domande, per la partecipazione a concorsi pubblici
 
@@ -472,13 +454,13 @@ Domande, per la partecipazione a concorsi pubblici
 
 ### SEZIONE II - CERTIFICATI
 
-##### Articolo 40 (L)
+#### Articolo 40 (L)
 
 Certificazioni contestuali
 
 1\. Le certificazioni da rilasciarsi da uno stesso ufficio in ordine a stati, qualita' personali e fatti, concernenti la stessa persona, nell'ambito del medesimo procedimento, sono contenute in un unico documento.
 
-##### Articolo 41 (L)
+#### Articolo 41 (L)
 
 Validita' dei certificati
 
@@ -486,7 +468,7 @@ Validita' dei certificati
 
 2\. I certificati anagrafici, le certificazioni dello stato civile, gli estratti e le copie integrali degli atti di stato civile sono ammessi dalle pubbliche amministrazioni nonche' dai gestori o esercenti di pubblici servizi anche oltre i termini di validita' nel caso in cui l'interessato dichiari, in fondo al documento, che le informazioni contenute nel certificato stesso non hanno subito variazioni dalla data di rilascio. Il procedimento per il quale gli atti certificativi sono richiesti deve avere comunque corso, una volta acquisita la dichiarazione dell'interessato. Resta ferma la facolta' di verificare la veridicita' e la autenticita' delle attestazioni prodotte. In caso di falsa dichiarazione si applicano le disposizioni di cui all'articolo 76.
 
-##### Articolo 42 (R)
+#### Articolo 42 (R)
 
 Certificati di abilitazione
 
@@ -496,7 +478,7 @@ Certificati di abilitazione
 
 ### SEZIONE III - ACQUISIZIONE DIRETTA DI DOCUMENTI
 
-##### Articolo 43 (L-R)
+#### Articolo 43 (L-R)
 
 Accertamenti d'ufficio
 
@@ -512,7 +494,7 @@ Accertamenti d'ufficio
 
 6\.
 
-##### Articolo 44 (R)
+#### Articolo 44 (R)
 
 Acquisizione di estratti degli atti dello stato civile
 
@@ -524,7 +506,7 @@ Acquisizione di estratti degli atti dello stato civile
 
 ### SEZIONE IV - ESIBIZIONE DI DOCUMENTO
 
-##### Articolo 45 (L-R)
+#### Articolo 45 (L-R)
 
 Documentazione mediante esibizione
 
@@ -540,13 +522,13 @@ E', comunque, fatta salva per le amministrazioni pubbliche ed i gestori e gli es
 
 ### SEZIONE V - NORME IN MATERIA DI DICHIARAZIONI SOSTITUTIVE
 
-##### Articolo 46 (R)
+#### Articolo 46 (R)
 
 Dichiarazioni sostitutive di certificazioni
 
 1\.
 
-##### Articolo 47 (R)
+#### Articolo 47 (R)
 
 Dichiarazioni sostitutive dell'atto di notorieta'
 
@@ -558,7 +540,7 @@ Dichiarazioni sostitutive dell'atto di notorieta'
 
 4\.
 
-##### Articolo 48 (R)
+#### Articolo 48 (R)
 
 Disposizioni generali in materia di dichiarazioni sostitutive
 
@@ -568,7 +550,7 @@ Disposizioni generali in materia di dichiarazioni sostitutive
 
 3\.
 
-##### Articolo 49 (R)
+#### Articolo 49 (R)
 
 Limiti di utilizzo delle misure di semplificazione
 
@@ -578,11 +560,9 @@ Limiti di utilizzo delle misure di semplificazione
 
 ## CAPO IV - SISTEMA DI GESTIONE INFORMATICA DEI DOCUMENTI
 
-### SEZIONE I
+### SEZIONE I - DISPOSIZIONI SULLA GESTIONE INFORMATICA DEI DOCUMENTI
 
-#### DISPOSIZIONI SULLA GESTIONE INFORMATICA DEI DOCUMENTI
-
-##### Articolo 50 (R)
+#### Articolo 50 (R)
 
 Attuazione dei sistemi
 
@@ -596,7 +576,7 @@ Attuazione dei sistemi
 
 5\.
 
-##### Articolo 51(R)
+#### Articolo 51(R)
 
 Sviluppo dei sistemi informativi delle pubbliche amministrazioni
 
@@ -606,13 +586,13 @@ Sviluppo dei sistemi informativi delle pubbliche amministrazioni
 
 3\.
 
-##### Articolo 52 (R)
+#### Articolo 52 (R)
 
 Il sistema di gestione informatica dei documenti
 
 1\.
 
-##### Articolo 53 (R)
+#### Articolo 53 (R)
 
 Registrazione di protocollo
 
@@ -626,7 +606,7 @@ Registrazione di protocollo
 
 5\.
 
-##### Articolo 54 (R)
+#### Articolo 54 (R)
 
 Informazioni annullate o modificate
 
@@ -634,7 +614,7 @@ Informazioni annullate o modificate
 
 2\.
 
-##### Articolo 55 (R)
+#### Articolo 55 (R)
 
 Segnatura di protocollo
 
@@ -648,7 +628,7 @@ Segnatura di protocollo
 
 5\.
 
-##### Articolo 56 (R)
+#### Articolo 56 (R)
 
 Operazioni ed informazioni minime del sistema di gestione
 
@@ -656,7 +636,7 @@ informatica dei documenti
 
 1\.
 
-##### Articolo 57 (R)
+#### Articolo 57 (R)
 
 Numero di protocollo
 
@@ -666,7 +646,7 @@ Numero di protocollo
 
 ### SEZIONE SECONDA - ACCESSO AI DOCUMENTI E ALLE INFORMAZIONI DEL SISTEMA
 
-##### Articolo 58 (R)
+#### Articolo 58 (R)
 
 Funzioni di accesso ai documenti e alle informazioni del sistema
 
@@ -676,7 +656,7 @@ Funzioni di accesso ai documenti e alle informazioni del sistema
 
 3\.
 
-##### Articolo 59 (R)
+#### Articolo 59 (R)
 
 Accesso esterno
 
@@ -688,7 +668,7 @@ Accesso esterno
 
 4\.
 
-##### Articolo 60 (R)
+#### Articolo 60 (R)
 
 Accesso effettuato dalle pubbliche amministrazioni
 
@@ -702,7 +682,7 @@ Accesso effettuato dalle pubbliche amministrazioni
 
 ### SEZIONE TERZA - TENUTA E CONSERVAZIONE DEL SISTEMA DI GESTIONE DEI DOCUMENTI
 
-##### Articolo 61 (R)
+#### Articolo 61 (R)
 
 Servizio per la gestione informatica dei documenti dei flussi documentali e degli archivi
 
@@ -712,7 +692,7 @@ Servizio per la gestione informatica dei documenti dei flussi documentali e degl
 
 3\.
 
-##### Articolo 62 (R)
+#### Articolo 62 (R)
 
 Procedure di salvataggio e conservazione delle informazioni del sistema
 
@@ -724,7 +704,7 @@ Procedure di salvataggio e conservazione delle informazioni del sistema
 
 4\.
 
-##### Articolo 63 (R)
+#### Articolo 63 (R)
 
 Registro di emergenza
 
@@ -742,7 +722,7 @@ Registro di emergenza
 
 ### SEZIONE QUARTA - SISTEMA DI GESTIONE DEI FLUSSI DOCUMENTALI
 
-##### Articolo 64(R)
+#### Articolo 64(R)
 
 Sistema di gestione dei flussi documentali
 
@@ -754,13 +734,13 @@ Sistema di gestione dei flussi documentali
 
 4\.
 
-##### Articolo 65 (R)
+#### Articolo 65 (R)
 
 Requisiti del sistema per la gestione dei flussi documentali
 
 1\.
 
-##### Articolo 66 (R)
+#### Articolo 66 (R)
 
 Specificazione delle informazioni previste dal sistema di
 
@@ -772,7 +752,7 @@ gestione dei flussi documentali
 
 ### SEZIONE QUINTA - DISPOSIZIONI SUGLI ARCHIVI
 
-##### Articolo 67 (R)
+#### Articolo 67 (R)
 
 Trasferimento dei documenti all'archivio di deposito
 
@@ -782,7 +762,7 @@ Trasferimento dei documenti all'archivio di deposito
 
 3\.
 
-##### Articolo 68 (R)
+#### Articolo 68 (R)
 
 Disposizioni per la conservazione degli archivi
 
@@ -792,7 +772,7 @@ Disposizioni per la conservazione degli archivi
 
 3\.
 
-##### Articolo 69 (R)
+#### Articolo 69 (R)
 
 Archivi storici
 
@@ -802,7 +782,7 @@ Archivi storici
 
 ### SEZIONE SESTA - ATTUAZIONE ED AGGIORNAMENTO DEI SISTEMI
 
-##### Articolo 70 (R)
+#### Articolo 70 (R)
 
 Aggiornamenti del sistema
 
@@ -810,7 +790,7 @@ Aggiornamenti del sistema
 
 ## CAPO V - CONTROLLI
 
-##### Articolo 71 (L-R)
+#### Articolo 71 (L-R)
 
 Modalita' dei controlli
 
@@ -822,7 +802,7 @@ Modalita' dei controlli
 
 4\. Qualora il controllo riguardi dichiarazioni sostitutive presentate ai privati che vi consentono di cui all'articolo 2. l'amministrazione competente per il rilascio della relativa certificazione, previa definizione di appositi accordi, e' tenuta a fornire, su richiesta del soggetto privato corredata dal consenso del dichiarante, conferma scritta, anche attraverso l'uso di strumenti informatici o telematici, della corrispondenza di quanto dichiarato con le risultanze dei dati da essa custoditi. (L)
 
-##### Articolo 72(R)
+#### Articolo 72(R)
 
 Responsabilita' dei controlli
 
@@ -832,13 +812,13 @@ Responsabilita' dei controlli
 
 ## CAPO VI - SANZIONI
 
-##### Articolo 73 (R)
+#### Articolo 73 (R)
 
 Assenza di responsabilita' della pubblica amministrazione
 
 1\.
 
-##### Articolo 74 (L-R)
+#### Articolo 74 (L-R)
 
 Violazione dei doveri d'ufficio
 
@@ -846,13 +826,13 @@ Violazione dei doveri d'ufficio
 
 2\.
 
-##### Articolo 75 (R)
+#### Articolo 75 (R)
 
 Decadenza dai benefici
 
 1\.
 
-##### Articolo 76 (L)
+#### Articolo 76 (L)
 
 Norme penali
 
@@ -866,7 +846,7 @@ Norme penali
 
 ## CAPO VII - DISPOSIZIONI FINALI
 
-##### Articolo 77 (L-R)
+#### Articolo 77 (L-R)
 
 Norme abrogate
 
@@ -874,7 +854,7 @@ Norme abrogate
 
 2\.
 
-##### Art. 78 (L-R)
+#### Art. 78 (L-R)
 
 Norme che rimangono in vigore
 

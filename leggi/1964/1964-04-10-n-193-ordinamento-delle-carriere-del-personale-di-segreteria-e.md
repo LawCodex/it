@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - CLASSIFICAZIONE - ATTRIBUZIONI -
+## TITOLO I - CLASSIFICAZIONE - ATTRIBUZIONI - DISTRIBUZIONE DEL PERSONALE
 
-### DISTRIBUZIONE DEL PERSONALE
-
-#### Art. 1
+### Art. 1
 
 Distinzione delle carriere
 
@@ -46,7 +44,7 @@ carriera del personale ausiliario tecnico.
 
 Alle segreterie e agli uffici e agli uffici del Consiglio di Stato e addetto personale di dattilografia.
 
-#### Art. 2
+### Art. 2
 
 Qualifiche della carriera direttiva e di concetto
 
@@ -68,7 +66,7 @@ segretario aggiunto di sezione;
 
 vice segretario di sezione.
 
-#### Art. 3
+### Art. 3
 
 Qualifiche della carriera esecutiva
 
@@ -86,13 +84,13 @@ applicato;
 
 applicato aggiunto.
 
-#### Art. 4
+### Art. 4
 
 Qualifica ed inquadramento del personale di dattilografia
 
 Il personale di dattilografia ha la qualifica di dattilografo e viene assunto nel ruolo previsto dalla tabella C allegata alla presente legge.
 
-#### Art. 5
+### Art. 5
 
 Qualifiche della carriera del personale ausiliario
 
@@ -108,7 +106,7 @@ usciere;
 
 inserviente.
 
-#### Art. 6
+### Art. 6
 
 Qualifiche del personale ausiliario tecnico
 
@@ -118,31 +116,31 @@ agente tecnico capo;
 
 agente tecnico.
 
-#### Art. 7
+### Art. 7
 
 Ruoli organici
 
 I ruoli organici del personale delle carriere direttiva e di concetto, esecutiva, del personale di dattilografia, del personale ausiliario e del personale ausiliario tecnico del Consiglio di Stato, sono stabiliti dalle tabelle A, B, C, D, E, allegate alla presente legge, in sostituzione di quelle di cui ai quadri 4, 23, 42 e 62 allegati al decreto del Presidente della Repubblica 11 gennaio 1956, n. 16, e ai quadri n. 24, 44 e 65, allegati al decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
-#### Art. 8
+### Art. 8
 
 Poteri del Presidente deli Consiglio di Stato
 
 Il Presidente del Consiglio di Stato sovraintende a tutto il personale di segreteria e al personale ausiliario del Consiglio di Stato.
 
-#### Art. 9
+### Art. 9
 
 Attribuzioni del segretario generale
 
 Il segretario generale esercita le funzioni che sono conferite al capo del personale dal decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, e successive modificazioni. Al medesimo e' attribuita l'indennita' stabilita per il segretario generale dell'Avvocatura generale dello Stato dall'articolo 5 della legge 20 giugno 1955, n. 519, e successive modificazioni.
 
-#### Art. 10
+### Art. 10
 
 Direzione dei servizi di segreteria e dattilografia delle sezioni
 
 I capi delle segreterie hanno la direzione dei rispettivi uffici, provvedono ad assicurare il normale funzionamento dei servizi e ne rispondono direttamente al Presidente della sezione, oltre che al segretario generale per i poteri di sorveglianza generale.
 
-#### Art. 11
+### Art. 11
 
 Attribuzioni del personale direttivo
 
@@ -150,25 +148,25 @@ I funzionari della carriera direttiva provvedono alla organizzazione tecnica del
 
 Quando le esigenze del servizio lo richiedano o in caso di assenza o di impedimento del personale di concetto, ne esercitano le attribuzioni.
 
-#### Art. 12
+### Art. 12
 
 Attribuzioni del personale di concetto
 
 I funzionari della carriera di concetto assistono alle udienze; collaborano con i superiori gerarchici nell'amibito dai servizi ai quali sono addetti, provvedono alla registrazione degli atti, li conservano in deposito e ne rilasciano copia, in osservanza delle norme di procedura; controllano la copia delle decisioni e dei pareri; istruiscono le pratiche loro affidate riferiscono su di esse al capo della segreteria della sezione; svolgono compiti di carattere amministrativo, contabile e tecnico e provvedono agli adempimenti che ad essi vengono affidati; possono temporaneamente, in caso di assenza o vacanza, fare le veci dei funzionari della carriera direttiva.
 
-#### Art. 13
+### Art. 13
 
 Attribuzioni del personale della carriera esecutiva
 
 Il personale della carriera esecutiva provvede alla tenuta dei registri, delle rubriche e del protocollo; vigila alla perfetta tenuta dell'archivio di sezione: svolge compiti di carattere contabile, statistico; ha i contatti con il pubblico e puo' essere destinate ad altre mansioni, qualora esigenze di servizio lo richiedano.
 
-#### Art. 14
+### Art. 14
 
 Attribuzioni del personale di dattilografia
 
 Il personale di dattilografia disimpegna esclusivamente mansioni di copia, con i servizi ad essa inerenti.
 
-#### Art. 15
+### Art. 15
 
 Attribuzioni del personale ausiliario
 
@@ -176,13 +174,13 @@ Il personale ausiliario provvede al mantenimento dell'ordine e della pulizia deg
 
 Vigila l'accesso del pubblico agli uffici, esegue il trasporto dei fascicoli e adempie agli incarichi di carattere materiale inerente al servizio. I lavori di fatica sono eseguiti dagli appartenenti alle prime due qualifiche;
 
-#### Art. 16
+### Art. 16
 
 Mansioni del personale ausiliario tecnico
 
 Gli agenti tecnici capi e gli agenti tecnici provvedono alla manutenzione degli impianti, delle macchine e delle attrezzature di ufficio, alla guida e manutenzione degli automezzi e alle altre incombenze previste dagli ordinamenti di servizio.
 
-#### Art. 17
+### Art. 17
 
 Distribuzione del personale
 
@@ -194,11 +192,9 @@ Agli uffici di segreteria sono assegnati gli impiegati delle carriere direttive,
 
 La distribuzione del personale viene disposta con decreto del presidente del Consiglio di Stato, su proposta del segretario generale.
 
-## TITOLO II - CARRIERA MISTA DIRETTIVA E DI
+## TITOLO II - CARRIERA MISTA DIRETTIVA E DI CONCETTO - ACCESSO E SVOLGIMENTO
 
-### CONCETTO - ACCESSO E SVOLGIMENTO
-
-#### Art. 18
+### Art. 18
 
 Concorso di ammissione
 
@@ -206,7 +202,7 @@ La nomina in prova a vice segretario di sezione si consegue mediante pubblico co
 
 Il concorso e' banditi con decreto del Presidente del Consiglio dei Ministri, su proposta del Presidente del Consiglio di Stato.
 
-#### Art. 19
+### Art. 19
 
 Commissione esaminatrice
 
@@ -224,7 +220,7 @@ La Commissione esaminatrice del concorso ai posti di vice segretario di sezione 
 
 Le funzioni di segretario sono disimpegnate da un impiegato della carriera direttiva in servizio presso la Presidenza del Consiglio dei Ministri, con qualifica non inferiore a consigliere di prima classe.
 
-#### Art. 20
+### Art. 20
 
 Svolgimento ed esito delle prove
 
@@ -254,11 +250,9 @@ Il concorrente non puo' essere ammesso a sostenere le prove l'acoltative, se non
 
 Alla somma dei punti riportati complessivamente nelle prove scritte e in quella orale, nelle materie obbligatorie, la Commissione dovra' aggiungere un altro punto o frazione di punto per ciascuna delle prove facoltative superate.
 
-## TITOLO III - PROMOZIONI NELLA CARRIERA DI CONCETTO
+## TITOLO III - PROMOZIONI NELLA CARRIERA DI CONCETTO ED ACCESSO ALLA CARRIERA DIRETTIVA
 
-### ED ACCESSO ALLA CARRIERA DIRETTIVA
-
-#### Art. 21
+### Art. 21
 
 Disposizioni generali
 
@@ -266,19 +260,19 @@ Le promozioni del personale delle carriere di concetto e direttiva sono conferit
 
 Le promozioni per scrutinio sono conferite su proposta del Consiglio di amministrazione.
 
-#### Art. 22
+### Art. 22
 
 Promozione a segretario aggiunto di sezione
 
 La promozione a segretario aggiunto di sezione si consegue a ruolo aperto, mediante scrutinio per merito conparativo al quale sono ammessi i vice segretari di sezione, che alla data in cui viene effettuato lo scrutinio abbiano compiuto quattro anni di effettivo servizio nella qualifica, compreso il periodo di prova.
 
-#### Art. 23
+### Art. 23
 
 Promozione a segretario di sezione
 
 La promozione a segretario di sezione si consegue a ruolo aperto, mediante scrutinio per merito comparativo, al quale sono ammessi i segretari aggiunti di sezione che alla data in cui viene effettuato lo scrutinio abbiano compiuto tre anni di effettivo servizio nella qualifica.
 
-#### Art. 24
+### Art. 24
 
 Accesso alla carriera direttiva
 
@@ -288,7 +282,7 @@ La nomina alla qualifica di vice direttore aggiunte di segreteria si consegue me
 
 Il concorso e' bandito con decreto del Presidente del Consiglio dei Ministri, su proposta del Presidente del Consiglio di Stato.
 
-#### Art. 25
+### Art. 25
 
 Concorso per l'accesso alla carriera direttiva
 
@@ -320,29 +314,27 @@ Ove occorra si applica il sesto comma dell'articolo 20.
 
 Le funzioni di segretario sono svolte da un funzionario della carriera direttiva in servizio presso la Presidenza del Consiglio dei Ministri, con qualifica non inferiore a consigliere di prima classe.
 
-#### Art. 26
+### Art. 26
 
 Promozione a vice direttore di segreteria
 
 La promozione a vice direttore di segreteria e' conferita mediante scrutinio per merito comparativo, al quale sono ammessi i vice direttori aggiunti di segreteria che abbiano compiuto tre anni di effettivo servizio nella qualifica.
 
-#### Art. 27
+### Art. 27
 
 Promozione a direttore di segreteria
 
 La promozione a direttore di segreteria si consegne mediante scrutinio per merito comparativo al quale sono ammessi i vice direttori di segreteria che abbiano compiuto tre anni di effettivo servizio nella qualifica.
 
-#### Art. 28
+### Art. 28
 
 Promozione a direttore capo di segreteria
 
 La promozione a direttore capo di segreteria e' conferita mediante scrutinio per merito comparativo, al quale sono ammessi i direttori di segreteria che abbiano compiuto tre anni di effettivo servizio nella qualifica.
 
-## TITOLI IV - CARRIERA ESECUTIVA - ACCESSO E
+## TITOLI IV - CARRIERA ESECUTIVA - ACCESSO E SVOLGIMENTO DELLA CARRIERA
 
-### SVOLGIMENTO DELLA CARRIERA
-
-#### Art. 29
+### Art. 29
 
 Nomina ad applicato aggiunto
 
@@ -364,7 +356,7 @@ Per essere ammessi alla prova facoltativa, il candidato deve aver conseguito l'i
 
 La prova facoltativa di stenografia consiste in un esperimento di dettatura e di traduzione mediante lettura di scritti stenografici secondo i sistemi legalmente riconosciuti. La prova orale verte sulle materie delle prove scritte, su elementi di aritmetica e su nozioni elementari di statistica.
 
-#### Art. 30
+### Art. 30
 
 Commissione esaminatrice e valutazione delle prove facoltativo
 
@@ -382,25 +374,25 @@ Per le prove di dattilografia e stenografia possono essere aggregati membri aggi
 
 Alla somma dei punti riportati nelle prove scritte e nella prova pratica nonche' in quella orale, la Commissione aggiunge da uno a tre puniti ai candidati che superano la prova facoltativa di stenografia.
 
-#### Art. 31
+### Art. 31
 
 Promozione ad applicato
 
 La promozione ad applicato si consegue a ruolo aperto, mediante scrutinio per merito comparativo, al quale sono ammessi gli applicati aggiunti dello stesso ruolo che abbiano compiuto due anni di effettivo servizio nella qualifica.
 
-#### Art. 32
+### Art. 32
 
 Promozione ad archivista
 
 La promozione ad archivista si consegue a ruolo aperto, mediante scrutinio per merito comparativo, al quale sono ammessi gli applicati dello stesso ruolo che alla data in cui viene indetto lo scrutinio abbiano compiuto cinque anni di effettivo servizio nella qualifica.
 
-#### Art. 33
+### Art. 33
 
 Promozione a primo archivista
 
 Per la promozione a primo archivista si a applicano le disposizioni previste dall'articolo 185 del testo unico 10 gennaio 1957, n. 3.
 
-#### Art. 34
+### Art. 34
 
 Concorso per esame
 
@@ -410,7 +402,7 @@ Alla prova orale sono ammessi i candidati che abbiano riportato una media di alm
 
 Si applica il comma, sesto dell'articolo 187 del testo unico del 10 gennaio 1957, n. 3. La Commissione giudicatrice e' composta e nominata nei modi previsti dall'articolo 25.
 
-#### Art. 35
+### Art. 35
 
 Promozione ad archivista capo ed archivista superiore
 
@@ -418,7 +410,7 @@ Le promozioni ad archivista capo e ad archivista superiore sono conseguite media
 
 ## TITOLO V - PERSONALE DI DATTILOGRAFIA
 
-#### Art. 36
+### Art. 36
 
 Concorso di ammissione
 
@@ -426,7 +418,7 @@ Il personale di dattilografla e' assunto in prova mediante pubblico concorso per
 
 Il concorso ha luogo in Roma ed e' bandito con decreto del Presidente del Consiglio dei Ministri, su proposta del Presidente del Consiglio di Stato.
 
-#### Art. 37
+### Art. 37
 
 Commissione esaminatrice, svolgimento e valutazione dello prove
 
@@ -440,7 +432,7 @@ La Commissione esaminatrice del concorso, nominata dal Presidente del Consiglio 
 
 Le funzioni di segretario sono disimpegnate da un impiegato della carriera direttiva in servizio presso la Presidenza del Consiglio dei Ministri, con qualifica non inferiore a consigliere di seconda classe.
 
-#### Art. 38
+### Art. 38
 
 Svolgimento delle prove
 
@@ -468,7 +460,7 @@ Ai candidati che conseguono l'ammissione alla prova pratica deve essere data com
 
 L'avviso per la presentazione alla prova pratica deve essere dato ai singoli candidati almeno venti giorni prima di quello in cui essi devono sostenerla.
 
-#### Art. 39
+### Art. 39
 
 Punteggio
 
@@ -480,7 +472,7 @@ Sono dichiarati idonei i candidati che abbiano riportato una votazione di almeno
 
 I concorrenti idonei sono collocati in graduatoria secondo il totale dei voti riportati da ciascuno, osservate le disposizioni generali in vigore sulle preferenze a parita' di merito.
 
-#### Art. 40
+### Art. 40
 
 Trattamento economico
 
@@ -494,11 +486,9 @@ Gli stipendi successivi a quello iniziale, previsti nella, tabella indicata nel 
 
 Quando e' dato parere o e' emesso provvedimento contrario alla attribuzione dello stipendio, il riesame della posizione del dattilografo puo' aver luogo, anche di ufficio, dopo almeno un anno dal parere del Consigli di amministrazione. In tal caso il nuovo stipendio - corre dal primo giorno del mese successivo alla data del decreto di attribuzione.
 
-## TITOLO VI - CARRIERE DEL PERSONALE AUSILIARIO E TECNICO - ACCESSO E SVOLGIMENTO
+## TITOLO VI - CARRIERE DEL PERSONALE AUSILIARIO E TECNICO - ACCESSO E SVOLGIMENTO DELLA CARRIERA
 
-### DELLA CARRIERA
-
-#### Art. 41
+### Art. 41
 
 Nomina ad inserviente e ad agente tecnico
 
@@ -514,35 +504,33 @@ Le funzioni di segretario sono disimpegnate da un impiegato della carriera diret
 
 Per la prova pratica della conduzione di autoveicoli sara' aggregato alla Commissione un appartenente alla carriera del personale tecnico.
 
-#### Art. 42
+### Art. 42
 
 Promozione ad usciere
 
 La promozione ad usciere si consegue, a ruolo aperto, mediante scrutinio per merito assoluto, al quale sono ammessi gli inservienti dello stesso ruolo che abbiano compiuto un anno di effettivo servizio nella qualifica.
 
-#### Art. 43
+### Art. 43
 
 Promozione e ad usciere capo
 
 La promozione ad usciere capo si consegue, a ruolo aperto, mediante scrutinio per merito assoluto, al quale sono ammessi gli uscieri che abbiano compiuto tre anni di effettivo servizio nella qualifica.
 
-#### Art. 44
+### Art. 44
 
 Promozione a commesso e commesso capo
 
 Le promozioni a commesso e a commesso capo sono conferite a scelta, sui designazione del Consiglio di amministrazione, agli appartenenti allo stesso ruolo che abbiano compiuto cinque anni di effettivo servizio nella qualifica immediatamente inferiore.
 
-#### Art. 45
+### Art. 45
 
 Promozione ad agente tecnico capo
 
 La promozione ad agente tecnico capo e' conferita a scelta, su designazione del Consiglio di amministrazione, agli agenti tecnici dello stesso ruolo che alla data dello scrutinio abbiano compiuto dieci anni di effettivo servizio.
 
-## TITOLO VII - DISPOSIZIONI COMUNI
+## TITOLO VII - DISPOSIZIONI COMUNI ALLE DIVERSE CARRIERE
 
-### ALLE DIVERSE CARRIERE
-
-#### Art. 46
+### Art. 46
 
 Consiglio di amministrazione
 
@@ -560,7 +548,7 @@ e) da due impiegati appartenenti alle carriere del personale del Consiglio di St
 
 Le funzioni di segretario sono disimpegnate da un impiegato con qualifica non inferiore a vice direttori aggiunto di segreteria.
 
-#### Art. 47
+### Art. 47
 
 Con missione di disciplina
 
@@ -570,7 +558,7 @@ E' composta da un presidente di sezione, che la presiede, da un consigliere di S
 
 Le funzioni di segretario sono esercitate da un impiegato della carriera direttiva.
 
-#### Art. 48
+### Art. 48
 
 Rapporto informativo a giudizio complessivo
 
@@ -582,7 +570,7 @@ Per il personale addetto al segretariato generale, escluso quello della carriera
 
 ## TITOLO VIII - DISPOSIZIONI DI ATTUAZIONE E TRANSITORIE
 
-#### Art. 49
+### Art. 49
 
 Inquadramento nelle nuove qualifiche
 
@@ -620,7 +608,7 @@ Il ruolo della carriera direttiva di cui al quadro 4: del decreto del Presidente
 
 Gli impiegati di ruolo della carriera di concetto, i quali alla data di entrata in vigore della presente legge, svolgano da almeno un triennio le funzioni di dirigenza di un ufficio, possono essere inquadrati, previo parere favorevole della Commissione prevista dall'articolo 56, nella qualifica immediatamente superiore.
 
-#### Art. 50
+### Art. 50
 
 Criteri di valutazione per l'inquadramento nella carriera direttiva
 
@@ -636,7 +624,7 @@ La Commissione prevista dall'articolo 56 esprime il giudizio silla idoneita' del
 
 5\) attitudine ad assolvere le funzioni della qualifica da conferire.
 
-#### Art. 51
+### Art. 51
 
 Segretari non inquadrati nella carriera direttiva
 
@@ -644,25 +632,25 @@ Il giudizio di cui all'articolo precedente non puo' essere rinnovato e i primi s
 
 Nella qualifica iniziale della carriera direttiva sono tenuti scoperti tanti posti quanti sono i funzionari che, a norma del precedente comma, conservano ad personam le qualifiche del ruolo di provenienza.
 
-#### Art. 52
+### Art. 52
 
 Inquadramento nelle nuove qualifiche del personale della carriera esecutiva
 
 Nella prima attuazione della presente legge, il personale della carriera esecutiva appartenente al ruolo ordinario e' inquadrato nelle corrispondenti qualifiche del ruolo di cui all'annessa tabella B, nello stesso ordine e con la stessa anzianita' del ruolo di provenienza.
 
-#### Art. 53
+### Art. 53
 
 Inquadramento nello nuove qualifiche del personale della carriera ausiliaria
 
 Nella prima, attuazione della presente legge, il personale della carriera ausiliaria, appartenente al ruolo ordinario e' inquadrato nelle corrispondenti qualifiche del ruolo di cui all'annessa tabella D, nello stesso ordine e con la stessa anzianita' del ruolo, di provenienza.
 
-#### Art. 54
+### Art. 54
 
 Inquadramento del personale che abbia svolto mansioni di autista
 
 Nella prima attuazione della presente legge il personale della carriera ausiliaria, che svolga esclusivamente e continuativamente mansioni di autista da almeno due anni alla data della sua entrata in vigore, puo' essere inquadrato nella qualifica iniziale della carriera ausiliaria tecnica, su domanda da presentarsi entro il termine di novanta giorni dalla data suddetta.
 
-#### Art. 55
+### Art. 55
 
 Inquadramento del personale dei ruoli aggiunti e del personale non di ruolo
 
@@ -672,7 +660,7 @@ Gli impiegati non di ruolo in servizio alla data di entrata in vigore della pres
 
 In corrispondenza all'inquadramento di impiegati in soprannumero sono lasciati vacanti altrettanti posti nella qualifica iniziale della rispettiva carriera.
 
-#### Art. 56
+### Art. 56
 
 Commissione speciale di inquadramento
 
@@ -680,7 +668,7 @@ All'inquadramento dei personale e all'espletamento dei concorsi previsti dagli a
 
 Le funzioni di segretario sono espletate da un impiegato della carriera direttiva in servizio presso la Presidenza del Consiglio dei Ministri, con qualifica non inferiore a consigliere di prima classe.
 
-#### Art. 57
+### Art. 57
 
 Concorso per titoli per il conferimento della nomina a vice direttore aggiunto di segreteria
 
@@ -688,7 +676,7 @@ Per il conferimento della promozione a vice direttore aggiunto di segreteria, ne
 
 Il concorso per titoli predetto sara' indetto dopo effettuato l'inquadramento di cui al precedente articolo 49 e comunque non oltre dieci mesi dall'entrata in vigore della presente legge.
 
-#### Art. 58
+### Art. 58
 
 Concorsi per il conferimento dei posti disponibili nelle carriere di concetto, esecutiva ed ausiliaria
 
@@ -698,7 +686,7 @@ Il concorso consistera' in un colloquio sulle materie che formano oggetto delle 
 
 Alle operazioni di concorso provvede la Commissione prevista dall'articolo 56.
 
-#### Art. 59
+### Art. 59
 
 Conferimento dei posti disponibili nelle carriere
 
@@ -706,19 +694,19 @@ direttive di concetto, esecutiva ed ausiliaria
 
 Al conferimento delle promozioni per i' posti disponibili o che si renderanno tali per effetto della prima applicazione della presente legge, nelle varie qualifiche delle carriere direttiva, di concetto, esecutiva ed ausiliaria, sara' provveduto entro un anno dall'entrata in vigore della legge stessa.
 
-#### Art. 60
+### Art. 60
 
 Riduzione del limite di anzianita'
 
 I dipendenti cui si riferisce la presente legge, in servizio alla data di entrata in vigore della legge stessa, beneficeranno per una sola volta e sino alla data del 31 dicembre 1967, per l'avanzamento alla qualifica superiore, di una riduzione pari alla meta', e comunque per un massimo di trenta mesi, dei periodi di anzianita' richiesti dalle vigenti disposizioni per il conseguimento delle promozioni.
 
-#### Art. 61
+### Art. 61
 
 Composizione degli organi
 
 Fino al termine delle operazioni di inquadramento del personale e all'espletamento dei concorsi previsti dagli articoli 57 e SS, gli impiegati dell'attuale carriera di concetto, con qualifica non inferiore a segretario principale di sezione, possono essere nominati membri D segretari di Commissioni giudicatrici e di altri organi in luogo degli impiegati della carriera direttiva, nel casi in cui la legge stessa prevede la partecipazione di questi ultimi.
 
-#### Art. 62
+### Art. 62
 
 Norme in materia di trattamento economico
 
@@ -730,13 +718,13 @@ AGGIORNAMENTO (1)
 
 La L. 15 novembre 1973, n. 734 ha disposto (con l'art. 33, comma 2) che l'assegno personale pensionabile previsto dall' articolo 62 della legge 10 aprile 1964, n. 193 e' soppresso.
 
-#### Art. 63
+### Art. 63
 
 Rinvio allo statuto degli impiegati civili dello Stato
 
 Per quanto non previsto dalla presente legge, sono applicabili le norme del testo unico 10 gennaio 1957, n. 3, e successive modificazioni, e del regolamento di esecuzione.
 
-#### Art. 64
+### Art. 64
 
 Abrogazione di norme
 
@@ -744,7 +732,7 @@ Sono abrogate le norme contrarie" quelle della presente legge o, comunque, con e
 
 Rimangono, in ogni caso, espressamente salve le vigenti disposizioni relative al riassorbimento dei posti conferiti in soprannumero nelle qualifiche delle varie carriere.
 
-#### Art. 65
+### Art. 65
 
 Onere finanziario
 
@@ -764,7 +752,7 @@ Visto, il Guardasigilli: REALE
 
 ## TITOLO VIII - DISPOSIZIONI DI ATTUAZIONE E TRANSITORIE
 
-#### Tabelle
+### Tabelle
 
 Tabelle del personale di segreteria ed ausiliario
 

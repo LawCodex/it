@@ -30,15 +30,11 @@ Promulga
 
 la seguente legge:
 
-## TITOLO I - DISPOSIZIONI
+## TITOLO I - DISPOSIZIONI IN MATERIA DI ENTRATA
 
-### IN MATERIA DI ENTRATA - Capo I
+### Capo I - DISPOSIZIONI IN MATERIA DI IMPOSTE SUI REDDITI E DI IMPOSTA REGIONALE SULLE ATTIVITA' PRODUTTIVE
 
-#### DISPOSIZIONI IN - MATERIA DI IMPOSTE SUI REDDITI E DI IMPOSTA REGIONALE SULLE ATTIVITA'
-
-##### PRODUTTIVE
-
-###### Art. 1 - Restituzione del contributo straordinario per l'Europa
+#### Art. 1 - Restituzione del contributo straordinario per l'Europa
 
 1\. A ciascun contribuente e' restituito un importo pari al 60 per centodel contributo straordinario per l'Europa effettivamente trattenuto o versato.
 
@@ -56,7 +52,7 @@ la seguente legge:
 
 > In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 29 gennaio 1999 si procedera' alla ripubblicazione del testo della presente legge corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto dd Presidente della Repubblica 14 marzo 1986, n. 217.
 
-###### Art. 2
+#### Art. 2
 
 (Modifiche alla legge 27 dicembre 1997,
 
@@ -64,7 +60,7 @@ n. 449, ed al decreto-legge 8 aprile 1998, n. 78)
 
 1\. All'articolo 59, comma 23, della legge 27 dicembre 1997, n. 449, le parole: "31 marzo 1999" sono sostituite dalle seguenti: "((31 marzo 2000))". All'articolo 1, comma 2-bis, del decreto-legge 8 aprile 1998, n. 78, convertito, con modificazioni, dalla legge 5 giugno 1998, n. 176, le parole: "31 dicembre 1998" sono sostituite dalle seguenti: "((31 marzo 2000))".
 
-###### Art. 3
+#### Art. 3
 
 Incentivi per le imprese
 
@@ -148,7 +144,7 @@ AGGIORNAMENTO (69)
 
 La L. 27 dicembre 2017, n. 205 ha disposto (con l'art. 1, comma 794), che "Per le finalita' di cui al comma 793, i trasferimenti alle regioni a statuto ordinario sono incrementati di complessivi 235 milioni di euro, a decorrere dall'anno 2018. L'autorizzazione di spesa di cui all'articolo 3, comma 8, della legge 23 dicembre 1998, n. 448, e' ridotta di 15 milioni di euro a decorrere dall'anno 2018".
 
-###### Art. 4
+#### Art. 4
 
 Incentivi per le piccole e medie imprese
 
@@ -166,13 +162,13 @@ Incentivi per le piccole e medie imprese
 
 7\. Con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, sono stabilite le modalita' per la regolazione contabile dei crediti di imposta di cui al comma 1.
 
-###### Art. 5 - Incentivi per le aree depresse
+#### Art. 5 - Incentivi per le aree depresse
 
 1\. L'articolo 7 della legge 27 dicembre 1997, n. 449, e' sostituito dal seguente:
 
 "Art. 7. - (Incentivi territoriali) - 1. Ai soggetti titolari di reddito di impresa partecipanti ai contratti d'area, ai patti territoriali e ai contratti di programma che siano stipulati nei territori di cui agli obiettivi 1, 2 e 5b del regolamento (CEE) n. 2052/88 del Consiglio, del 24 giugno 1988, e successive modificazioni, e in quelli per i quali la Commissione delle Comunita' europee ha riconosciuto la necessita' dell'intervento con decisione n. 836 dell'11 aprile 1997, confermata con decisione n. SG (97) D/4949 del 30 giugno 1997, nonche' ad altri accordi di programmazione negoziata, sono concessi i benefici fiscali di cui all'articolo 1 del decreto-legge 23 giugno 1995, n. 244, convertito, con modificazioni, dalla legge 8 agosto 1995, n. 341, come modificato e integrato ai sensi dell'articolo 8, comma 1, della legge 7 agosto 1997, n. 266, secondo le procedure ivi previste e nei limiti, alle condizioni e per le spese ammissibili di cui al decreto-legge 22 ottobre 1992, n. 415, convertito, con modificazioni, dalla legge 19 dicembre 1992, n. 488, e successive modificazioni e integrazioni. I soggetti beneficiari dell'incentivazione automatica devono indicare, all'atto dell'attribuzione del finanziamento, l'incremento di dipendenti che esso comporta. Per il riconoscimento del beneficio fiscale di cui al presente articolo e' riservata, nell'ambito delle risorse destinate agli interventi di cui al citato articolo 1 del decreto-legge n. 244 del 1995, una specifica quota da porre a carico dello stanziamento riservato dal CIPE per i contratti d'area e per gli altri accordi di programmazione negoziata in sede di riparto delle risorse finanziarie destinate allo sviluppo delle aree depresse. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio".
 
-###### Art. 6
+#### Art. 6
 
 (Disposizioni in materia di imposta
 
@@ -198,13 +194,11 @@ b) dopo la lettera e) e' aggiunta la seguente:
 
 5\. E' data facolta' ai comuni di applicare le disposizioni previste dal comma 9 dell'articolo 9 del decreto-legge 30 dicembre 1993, n. 557, convertito, con modificazioni, dalla legge 26 febbraio 1994, n. 133, in materia di imposta comunale sugli immobili a decorrere dal termine previsto per l'iscrizione al catasto dei fabbricati gia' rurali che non presentano piu' i requisiti di ruralita'.
 
-## TITOLO I - DISPOSIZIONI
+## TITOLO I - DISPOSIZIONI IN MATERIA DI ENTRATA
 
-### IN MATERIA DI ENTRATA - Capo II.
+### Capo II. - DISPOSIZIONI IN MATERIA DI IMPOSTE INDIRETTE
 
-#### DISPOSIZIONI IN MATERIA - DI IMPOSTE INDIRETTE
-
-###### Art. 7
+#### Art. 7
 
 Disposizioni in materia di imposta di registro e altre disposizioni fiscali
 
@@ -276,7 +270,7 @@ AGGIORNAMENTO (84)
 
 Il D.L. 29 dicembre 2022, n. 198, convertito con modificazioni dalla L. 24 febbraio 2023, n. 14, ha disposto (con l'art. 3, comma 10-quinquies) che "I termini previsti dalla nota II-bis all'articolo 1 della tariffa, parte prima, allegata al testo unico delle disposizioni concernenti l'imposta di registro, di cui al decreto del Presidente della Repubblica 26 aprile 1986, n. 131, nonche' il termine previsto dall'articolo 7 della legge 23 dicembre 1998, n. 448, ai fini del riconoscimento del credito d'imposta per il riacquisto della prima casa, sono sospesi nel periodo compreso tra il 1° aprile 2022 e il 30 ottobre 2023. Sono fatti salvi gli atti notificati dall'Agenzia delle entrate alla data di entrata in vigore della legge di conversione del presente decreto, emessi per il mancato rispetto dei termini di cui alla nota II-bis all'articolo 1 della tariffa, parte prima, allegata al testo unico di cui al decreto del Presidente della Repubblica 26 aprile 1986, n. 131, e del termine di cui all'articolo 7 della legge 23 dicembre 1998, n. 448, e non si fa luogo al rimborso di quanto gia' versato".
 
-###### Art. 8
+#### Art. 8
 
 Tassazione sulle emissioni di anidride
 
@@ -402,19 +396,17 @@ AGGIORNAMENTO (45)
 
 La L. 24 dicembre 2007, n. 244, ha disposto (con l'art. 2, comma 138) che "L'articolo 8, comma 10, lettera f), della legge 23 dicembre 1998, n. 448, e successive modificazioni, si interpreta nel senso che la disciplina ivi prevista si applica anche alla fattispecie in cui la persona giuridica gestore della rete di teleriscaldamento alimentata con biomassa o ad energia geotermica coincida con la persona giuridica utilizzatore dell'energia. Tale persona giuridica puo' utilizzare in compensazione il credito."
 
-## TITOLO I - DISPOSIZIONI
+## TITOLO I - DISPOSIZIONI IN MATERIA DI ENTRATA
 
-### IN MATERIA DI ENTRATA - Capo III
+### Capo III - DISPOSIZIONI IN MATERIA DI ACCERTAMENTO
 
-#### DISPOSIZIONI IN MATERIA - DI ACCERTAMENTO
-
-###### Art. 9 - Proroga di termini
+#### Art. 9 - Proroga di termini
 
 1\. I termini per il controllo formale delle dichiarazioni presentate negli anni dal 1994 al 1998 ai fini delle imposte sui redditi e negli anni dal 1995 al 1998 ai fini dell'imposta sul valore aggiunto sono fissati al 31 dicembre 2000. Entro la stessa data devono essere resi esecutivi i relativi ruoli.
 
 2\. I termini per il controllo delle dichiarazioni, per la liquidazione e per l'accertamento dei tributi, per l'irrogazione delle sanzioni amministrative, nonche' quelli per le relative iscrizioni nei ruoli, che scadono il 31 dicembre 1998, sono prorogati al 30 giugno 1999.
 
-###### Art. 10
+#### Art. 10
 
 (Persone fisiche residenti in territori esteri
 
@@ -426,13 +418,11 @@ aventi un regime fiscale privilegiato)
 
 2\. All'articolo 58 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, recante disposizioni in materia di domicilio fiscale, al secondo comma, dopo le parole: "pubblica amministrazione," sono inserite le seguenti: "nonche' quelli considerati residenti ai sensi dell'articolo 2, comma 2-bis, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917,".
 
-## TITOLO I - DISPOSIZIONI
+## TITOLO I - DISPOSIZIONI IN MATERIA DI ENTRATA
 
-### IN MATERIA DI ENTRATA - Capo IV
+### Capo IV - DISPOSIZIONI IN MATERIA DI RISCOSSIONE
 
-#### DISPOSIZIONI IN MATERIA - DI RISCOSSIONE
-
-###### Art. 11
+#### Art. 11
 
 Rimborso della tassa sulle concessioni governative
 
@@ -450,7 +440,7 @@ per l'iscrizione nel registro delle imprese
 
 6\. Sulla scorta degli elenchi di rimborso predisposti dal Ministero delle finanze sono emessi, con imputazione al competente capitolo dello stato di previsione della spesa del Ministero delle finanze, uno o piu' ordinativi diretti collettivi di pagamento estinguibili mediante commutazione di ufficio in vaglia cambiari non trasferibili della Banca d'Italia; tali vaglia sono spediti per raccomandata dalla competente sezione di tesoreria provinciale dello Stato all'indirizzo del domicilio fiscale vigente degli aventi diritto, ove gli stessi non abbiano provveduto all'indicazione di uno specifico domicilio eletto.
 
-###### Art. 12
+#### Art. 12
 
 (Differimento di termini per regolarizzazione
 
@@ -462,7 +452,7 @@ di omessi versamenti)
 
 3\. Ferme restando le misure della soprattassa prevista per gli anni 1995 e precedenti, gli ammontari dovuti per il 1996 sono maggiorati di un importo a titolo di soprattassa pari al 10 per cento.
 
-###### Art. 13
+#### Art. 13
 
 Cessione e cartolarizzazione dei crediti INPS
 
@@ -510,7 +500,7 @@ L'INPS potra' assumere, ai fini della cessione e cartolarizzazione dei crediti, 
 
 18-bis. Per quanto non previsto dal presente articolo, si applica la legge 30 aprile 1999, n. 130.
 
-###### Art. 14
+#### Art. 14
 
 (Regolamentazione rateale di debiti per
 
@@ -518,7 +508,7 @@ contributi ed accessori)
 
 1\. Ferme restando le maggiorazioni previste in materia di regolamentazione rateale dei debiti contributivi previdenziali ed assistenziali e di sanzioni in caso di ritardato o omesso versamento degli stessi, con effetto dal 1 gennaio 1999, per la determinazione del tasso di interesse di differimento e di dilazione di cui all'articolo 13 del decreto-legge 29 luglio 1981, n. 402, convertito, con modificazioni, dalla legge 26 settembre 1981, n. 537, e succes- sive modificazioni, e' preso a base il tasso ufficiale di sconto.
 
-###### Art. 15 - Societa' per la cartolarizzazione
+#### Art. 15 - Societa' per la cartolarizzazione
 
 1\. Il Ministero dell'economia e delle finanze e' autorizzato a costituire o a promuovere la costituzione, anche attraverso soggetti terzi, di una societa' a responsabilita' limitata con capitale sociale iniziale di 10.000 euro avente ad oggetto esclusivo la realizzazione di una o piu' operazioni di cartolarizzazione dei crediti d'imposta e contributivi ovvero di altri crediti dello Stato e di altri enti pubblici. Ai crediti futuri sono assimilati altri proventi di natura non tributaria appartenenti allo Stato. La societa' puo' essere costituita anche con atto unilaterale del Ministero dell'economia e delle finanze; non si applicano in tale caso le disposizioni previste dall'articolo 2497, secondo comma, del codice civile. Delle obbligazioni risponde, nei confronti dei portatori dei titoli e dei concedenti i finanziamenti di cui al comma 3, nonche' di ogni altro creditore, nell'ambito di ciascuna operazione di cartolarizzazione, esclusivamente il patrimonio separato con i beni e i diritti di cui al comma 4.
 
@@ -542,7 +532,7 @@ contributi ed accessori)
 
 11\. Si applicano le disposizioni della legge 30 aprile 1999, n. 130, per quanto compatibili. In deroga al comma 6 dell'articolo 2 della medesima legge, la riscossione dei crediti e dei proventi ceduti puo' essere svolta, oltre che dalle banche e dagli intermediari finanziari indicati nel citato comma 6, anche dallo Stato, dagli enti pubblici di cui al comma 1 e dagli altri soggetti il cui intervento e' previsto dalle disposizioni del presente decreto e dai decreti di cui al comma 2. In tale caso le operazioni di riscossione non sono oggetto dell'obbligo di verifica di cui al citato comma 6 della legge n. 130 del 1999.
 
-###### Art. 16 - Rimborsi automatizzati
+#### Art. 16 - Rimborsi automatizzati
 
 1\. Con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, da emanare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono rideterminate le modalita' per l'esecuzione dei rimborsi delle imposte, mediante procedura automatizzata.
 
@@ -550,7 +540,7 @@ contributi ed accessori)
 
 3\. Con decreto dirigenziale del Ministero delle finanze, emanato di concerto con il Ministero del tesoro, del bilancio e della programmazione economica, sono stabilite le modalita' per l'effettuazione dei rimborsi d'imposta di cui al comma 2 ed il pagamento dei relativi interessi.
 
-###### Art. 17
+#### Art. 17
 
 (Abrogazione del decreto-legge n. 378
 
@@ -558,7 +548,7 @@ del 1998 e norma di sanatoria)
 
 1\. Il decreto-legge 2 novembre 1998, n. 378, recante restituzione del contributo straordinario per l'Europa ed altre disposizioni tributarie urgenti, e' abrogato. Restano in ogni caso validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo decreto-legge 2 novembre 1998, n. 378.
 
-###### Art. 18
+#### Art. 18
 
 (Ulteriori disposizioni
 
@@ -572,13 +562,11 @@ concernenti rimborsi)
 
 4\. Le modalita' di attuazione delle disposizioni contenute nel presente articolo, ivi comprese quelle relative all'acquisizione dei dati sui fondi messi a disposizione dei concessionari della riscossione, nonche' sui rimborsi erogati dagli stessi, sono disciplinate con decreto del direttore generale del dipartimento delle entrate del Ministero delle finanze, emanato di concerto con il ragioniere generale dello Stato.
 
-## TITOLO I - DISPOSIZIONI
+## TITOLO I - DISPOSIZIONI IN MATERIA DI ENTRATA
 
-### IN MATERIA DI ENTRATA - Capo V
+### Capo V - ALTRE ENTRATE
 
-#### ALTRE ENTRATE
-
-###### Art. 19
+#### Art. 19
 
 Beni immobili statali
 
@@ -642,7 +630,7 @@ d) revoca della concessione o risoluzione del contratto di locazione in caso di 
 
 10-quater. Le disposizioni del presente articolo non si applicano agli immobili di cui all'articolo 3, commi da 99 a 105, della legge 23 dicembre 1996, n. 662, come modificato e integrato dall'articolo 4, commi da 3 a 7, della legge 23 dicembre 1999, n. 488, inclusi negli elenchi predisposti dal Ministero delle finanze e oggetto di specifici programmi di dismissione )).
 
-###### Art. 20 - Servizi pubblici e servizi a rete
+#### Art. 20 - Servizi pubblici e servizi a rete
 
 1\. Per gli anni 1999 e 2000 tutti i corrispettivi a qualsiasi titolo dovuti in misura fissa dalle imprese per l'esercizio di servizi pubblici, ovvero di servizi a rete in base a concessione, autorizzazione, licenza o altro atto di consenso da parte dello Stato, con esclusione di quelli di cui al comma 2, continuano ad essere corrisposti nella misura prevista per il 1998, aumentata di una percentuale pari al tasso programmato di inflazione per gli anni medesimi.
 
@@ -660,7 +648,7 @@ d) revoca della concessione o risoluzione del contratto di locazione in caso di 
 
 8\. I contributi per l'attivita' ad uso privato svolta dalle societa' costituite ai sensi dell'articolo 4, comma 6, della legge 31 luglio 1997, n. 249, sono regolati dalle disposizioni dei commi 5 e seguenti del presente articolo; quelli per l'attivita' ad uso pubblico svolta dalle medesime societa' sono regolati, salvo quanto previsto dal comma 2, dal decreto del Ministro delle comunicazioni 5 febbraio 1998, pubblicato nella Gazzetta Ufficiale n. 63 del 17 marzo 1998.
 
-###### Art. 21 - Disposizioni varie in materia fiscale
+#### Art. 21 - Disposizioni varie in materia fiscale
 
 1\. Per la ristrutturazione delle reti distributive il reddito di impresa degli esercenti impianti di distribuzione di carburante e' ridotto, a titolo di deduzione forfettaria, di un importo pari alle seguenti percentuali dell'ammontare lordo dei ricavi di cui all'articolo 53, comma 1, lettera a), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917:
 
@@ -732,11 +720,9 @@ Il D.L. 29 dicembre 2010, n. 225, convertito con modificazioni dalla L. 26 febbr
 
 ## TITOLO II - DISPOSIZIONI IN MATERIA DI SPESA
 
-### Capo I - DISPOSIZIONI IN
+### Capo I - DISPOSIZIONI IN MATERIA DI PERSONALE
 
-#### MATERIA DI PERSONALE
-
-###### Art. 22 - Assunzioni di personale
+#### Art. 22 - Assunzioni di personale
 
 1\. All'articolo 39 della legge 27 dicembre 1997, n. 449, sono apportate le seguenti modificazioni:
 
@@ -768,7 +754,7 @@ d) il comma 18 e' sostituito dal seguente:
 
 9\. All'articolo 39, comma 24, della legge 27 dicembre 1997, n. 449, Ë aggiunto, in fine, il seguente periodo: "A decorrere dall'anno 1999 e' disposto un ulteriore incremento di 2.000 unita' da assegnare all'Arma dei carabinieri, nell'ambito delle procedure di programmazione ed autorizzazione delle assunzioni di cui al presente articolo".
 
-###### Art. 23
+#### Art. 23
 
 (Riduzioni degli stanziamenti
 
@@ -778,7 +764,7 @@ per straordinari)
 
 2\. Per l'anno 2001 gli stanziamenti relativi alla remunerazione delle prestazioni di lavoro straordinario del personale delle Forze armate e delle Forze di polizia sono incrementati della somma di lire 8.200 milioni.
 
-###### Art. 24
+#### Art. 24
 
 Revisione dei meccanismi di adeguamento retributivo per il personale non contrattualizzato
 
@@ -796,7 +782,7 @@ Revisione dei meccanismi di adeguamento retributivo per il personale non contrat
 
 6\. Fino alla data di entrata in vigore dei contratti di cui all'articolo 24 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni e integrazioni, sono prorogate le disposizioni di cui all'articolo 1 della legge 2 ottobre 1997, n. 334. A tal fine e' autorizzata la spesa di lire 37 miliardi annue a decorrere dall'anno 1999.
 
-###### Art. 25
+#### Art. 25
 
 (Criteri di utilizzo di somme corrisposte dai
 
@@ -806,7 +792,7 @@ di confine)
 
 1\. All'articolo 6 del decreto del Ministro delle finanze 8 maggio 1997, pubblicato nella Gazzetta Ufficiale n. 119 del 24 maggio 1997, le parole "10 per cento" sono sostituite dalle seguenti: "30 per cento".
 
-###### Art. 26
+#### Art. 26
 
 Norme di interpretazione autentica, di utilizzazione del personale scolastico e trattamento di fine rapporto
 
@@ -922,7 +908,7 @@ AGGIORNAMENTO (73)
 
 La L. 23 dicembre 2014, n. 190, come modificata dalla L. 30 dicembre 2020, n. 178, ha disposto (con l'art. 1, comma 330) che "Il secondo e il terzo periodo dell'articolo 26, comma 8, della legge 23 dicembre 1998, n. 448, e successive modificazioni, sono soppressi a decorrere dall'anno scolastico 2022/2023".
 
-###### Art. 27 - Fornitura gratuita dei libri di testo
+#### Art. 27 - Fornitura gratuita dei libri di testo
 
 1\. Nell'anno scolastico 1999-2000 i comuni provvedono a garantire la gratuita', totale o parziale, dei libri di testo in favore degli alunni che adempiono l'obbligo scolastico in possesso dei requisiti richiesti, nonche' alla fornitura di libri di testo da dare anche in comodato agli studenti della scuola secondaria superiore in possesso dei requisiti richiesti. Con decreto del Presidente del Consiglio dei ministri su proposta del Ministro della pubblica istruzione, previo parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano e delle competenti Commissioni parlamentari, sono individuate le categorie degli aventi diritto al beneficio, applicando, per la valutazione della situazione economica dei beneficiari, i criteri di cui al decreto legislativo 31 marzo 1998, n. 109, in quanto compatibili, con le necessarie semplificazioni ed integrazioni. (( 42 ))
 
@@ -942,11 +928,9 @@ La L. 27 dicembre 2006, n. 296, ha disposto (con l'art. 1, comma 628) che "La gr
 
 ## TITOLO II - DISPOSIZIONI IN MATERIA DI SPESA
 
-### Capo II - FEDERALISMO FISCALE E PATTO
+### Capo II - FEDERALISMO FISCALE E PATTO DI STABILITA' INTERNO
 
-#### DI STABILITA' INTERNO
-
-###### Art. 28
+#### Art. 28
 
 Patto di stabilita' interno
 
@@ -1024,7 +1008,7 @@ AGGIORNAMENTO (19)
 
 La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 53, comma 6) che "Il comma 2-bis dell'articolo 28 della legge 23 dicembre 1998, n. 448, e successive modificazioni, si applica anche per l'anno 2001.".
 
-###### Art. 29 - Monitoraggio dei flussi di cassa per l'istruzione pubblica e l'universita'
+#### Art. 29 - Monitoraggio dei flussi di cassa per l'istruzione pubblica e l'universita'
 
 1\. Al fine di garantire che la spesa statale per l'istruzione cresca nel triennio 1999- 2001 secondo i tassi di crescita programmati, il Ministero della pubblica istruzione, d'intesa con il Ministero del tesoro, del bilancio e della programmazione economica, provvede al monitoraggio delle spese sostenute dagli istituti e scuole di ogni ordine e grado ed al controllo dei relativi flussi di cassa. L'attivita' di monitoraggio e' altresi' estesa all'applicazione dei decreti ministeriali attuativi delle norme rela- tive al controllo del numero dei dipendenti del comparto scuola, anche sotto l'aspetto finanziario.
 
@@ -1052,7 +1036,7 @@ Sono esclusi dai vincoli di cui al presente comma gli effetti di cassa derivanti
 
 12\. Sino al 31 dicembre 2000 conservano validita' le disposizioni che disciplinano la riduzione delle giacenze di cui all'articolo 47, comma 1, della legge 27 dicembre 1997, n. 449, ed il controllo del fabbisogno finanziario delle universita' di cui all'articolo 51 della medesima legge n. 449 del 1997.
 
-###### Art. 30
+#### Art. 30
 
 (Revisione delle procedure
 
@@ -1060,7 +1044,7 @@ per investimenti)
 
 1\. In deroga alle vigenti disposizioni, i contributi di cui all'articolo 1, comma 2, del decreto-legge 22 ottobre 1992, n. 415, convertito, con modificazioni, dalla legge 19 dicembre 1992, n. 488, sono erogati dal Ministero dell'industria, del commercio e dell'artigianato, tramite le banche concessionarie e a partire dalla data in cui sono resi disponibili, sulla base delle richieste avanzate periodicamente dalle banche stesse, tenuto conto del fabbisogno finanziario per l'erogazione delle agevolazioni. Per il periodo di giacenza presso i conti correnti appositamente aperti dalle banche concessionarie, le predette somme maturano, a decorrere dalla data di entrata in vigore della presente legge, interessi al tasso ufficiale di sconto in favore del Ministero dell'industria, del commercio e dell'artigianato, per il successivo riutilizzo in favore degli interventi di cui al presente comma. Il Ministro dell'industria, del commercio e dell'artigianato provvede alla rideterminazione delle procedure e delle modalita' di erogazione dei contributi in conformita' con le disposizioni di cui al presente comma.
 
-###### Art. 31
+#### Art. 31
 
 Norme particolari per gli enti locali
 
@@ -1226,7 +1210,7 @@ AGGIORNAMENTO (70)
 
 Il D.L. 23 ottobre 2018, n. 119, convertito con modificazioni dalla L. 17 dicembre 2018, n. 136, ha disposto (con l'art. 25-undecies, comma 2) che "Le disposizioni di cui al comma 1 si applicano anche agli immobili oggetto dei contratti stipulati prima della data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 32
+#### Art. 32
 
 (Alienazioni di beni immobili di interesse
 
@@ -1252,7 +1236,7 @@ g) abrogazione espressa delle norme, anche di legge, incompatibili.
 
 2\. Sono fatte salve le procedure di alienazione gia' avviate in attuazione dell'articolo 12 della legge 15 maggio 1997, n. 127, a condizione che le stesse siano pervenute alla fase dell'aggiudicazione prima della data di entrata in vigore della legge 16 giugno 1998, n. 191.
 
-###### Art. 33
+#### Art. 33
 
 (Beni immobili notificati ai sensi della legge
 
@@ -1262,11 +1246,9 @@ n. 364 del 1909 e della legge n. 778 del 1922)
 
 ## TITOLO II - DISPOSIZIONI IN MATERIA DI SPESA
 
-### Capo III - DISPOSIZIONI IN
+### Capo III - DISPOSIZIONI IN MATERIA PREVIDENZIALE
 
-#### MATERIA PREVIDENZIALE
-
-###### Art. 34 - Trattamenti pensionistici e di disoccupazione
+#### Art. 34 - Trattamenti pensionistici e di disoccupazione
 
 1\. Con effetto dal 1 gennaio 1999, il meccanismo di rivalutazione delle pensioni si applica per ogni singolo beneficiario in funzione dell'importo complessivo dei trattamenti corrisposti a carico dell'assicurazione generale obbligatoria e delle relative gestioni per i lavoratori autonomi, nonche' dei fondi sostitutivi, esclusivi ed esonerativi della medesima e dei fondi integrativi ed aggiuntivi di cui all'articolo 59, comma 3, della legge 27 dicembre 1997, n. 449. L'aumento della rivalutazione automatica dovuto in applicazione del presente comma viene attribuito, su ciascun trattamento, in misura proporzionale all'ammontare del trattamento da rivalutare rispetto all'ammontare complessivo. Ai fini dell'applicazione del meccanismo di rivalutazione si tiene conto altresi' dell'importo degli assegni vitalizi derivanti da uffici elettivi. (50)((71))
 
@@ -1304,7 +1286,7 @@ b) nella misura del 90 per cento per le fasce di importo dei trattamenti pension
 
 c) nella misura del 75 per cento per le fasce di importo dei trattamenti pensionistici superiori a cinque volte il predetto trattamento minimo".
 
-###### Art. 35 - Anticipazioni all'INPS e all'INPDAP
+#### Art. 35 - Anticipazioni all'INPS e all'INPDAP
 
 1\. Le anticipazioni di tesoreria concesse dallo Stato all'INPS, al fine di garantire il pagamento delle prestazioni erogate dall'ente medesimo, nei limiti dell'importo di lire 121.630 miliardi maturato al 31 dicembre 1995, si intendono trasferimenti definitivi a titolo di finanziamento delle prestazioni assistenziali di cui all'articolo 37 della legge 9 marzo 1989, n. 88, e successive modificazioni. Tale importo risulta comprensivo, nei limiti di lire 30.300 miliardi, delle anticipazioni a favore della gestione di cui all'articolo 29 della legge 9 marzo 1989, n. 88. Per le anticipazioni concesse nel corso degli esercizi 1996 e 1997, ai fini della determinazione dei relativi importi, si provvede con la procedura di cui al comma 2, sulla base dei rispettivi consuntivi.
 
@@ -1328,7 +1310,7 @@ AGGIORNAMENTO (61)
 
 La L. 27 dicembre 2013, n. 147, ha disposto (con l'art. 1, comma 5) che "Le anticipazioni di bilancio concesse ai sensi del comma 3 dell'articolo 35 della legge 23 dicembre 1998, n. 448, negli esercizi pregressi al 2012, al fine di garantire il pagamento delle prestazioni erogate dall'Istituto nazionale di previdenza per i dipendenti dell'amministrazione pubblica (INPDAP) si intendono effettuate a titolo definitivo e pertanto eliminate dalla contabilita' istituita ai sensi del comma 6 del medesimo articolo 35 della legge n. 448 del 1998".
 
-###### Art. 36
+#### Art. 36
 
 (Disposizioni modificative ed interpretative
 
@@ -1352,11 +1334,9 @@ dell'articolo 1, commi 181 e 182, della legge
 
 ## TITOLO II - DISPOSIZIONI IN MATERIA DI SPESA
 
-### Capo IV - ALTRE MISURE
+### Capo IV - ALTRE MISURE DI RAZIONALIZZAZIONE
 
-#### DI RAZIONALIZZAZIONE
-
-###### Art. 37 - Verifiche in materia di invalidita' civile
+#### Art. 37 - Verifiche in materia di invalidita' civile
 
 1\. Nei procedimenti di verifica, compresi quelli in corso, finalizzati ad accertare, nei confronti di titolari di trattamenti economici di invalidita' civile, la permanenza dei requisiti sanitari necessari per continuare a fruire dei benefici stessi, il Ministero del tesoro, del bilancio e della programmazione economica dispone la sospensione dei relativi pagamenti qualora l'interessato, a cui sia stata notificata la convocazione, non si presenti a visita medica senza giustificato motivo. Se l'invalido, entro novanta giorni dalla data di notifica della sospensione ovvero della richiesta di giustificazione nel caso in cui tale sospensione sia stata gia' disposta, non fornisce idonee motivazioni circa la mancata presentazione a visita, la predetta amministrazione provvede alla revoca della provvidenza a decorrere dalla data della sospensione medesima. Ove, invece, siano ritenute valide le giustificazioni addotte, verra' comunicata la nuova data di visita medica alla quale l'interessato non potra' sottrarsi, pena la revoca del beneficio economico dalla data di sospensione, salvo i casi di visite domiciliari richieste dagli interessati o disposte dall'amministrazione. Sono esclusi dalle disposizioni di cui al primo e al secondo periodo del presente comma i soggetti ultrasettantenni, i minori nati affetti da patologie e per i quali e' stata determinata una invalidita' pari al 100 per cento ed i soggetti affetti da patologie irreversibili per i quali, in luogo della automatica sospensione dei pagamenti, si procede obbligatoriamente alla visita domiciliare volta ad accertare la persistenza dei requisiti di invalidita' necessari per il godimento dei benefici economici.
 
@@ -1376,7 +1356,7 @@ dell'articolo 1, commi 181 e 182, della legge
 
 9\. Le disposizioni del presente articolo non si applicano alla regione Valle d'Aosta e alle province autonome di Trento e di Bolzano che provvedono secondo quanto previsto dai rispettivi statuti e dalle relative norme di attuazione.
 
-###### Art. 38 - Pensioni di guerra
+#### Art. 38 - Pensioni di guerra
 
 1\. Il comma 263 dell'articolo 1 della legge 23 dicembre 1996, n. 662, e' sostituito dal seguente:
 
@@ -1394,7 +1374,7 @@ dell'articolo 1, commi 181 e 182, della legge
 
 6\. Le disposizioni di cui all'articolo 1, commi 260, 261 e 263, della legge 23 dicembre 1996, n. 662, si applicano anche nei confronti dei soggetti che hanno percepito indebitamente prestazioni pensionistiche o assistenziali per periodi anteriori al 1 gennaio 1996 in forza di giudicati non definitivi relativi all'applicazione della normativa di cui al decreto-legge 9 dicembre 1987, n. 495, e al decreto-legge 8 febbraio 1988, n. 25, convertito, con modificazioni, dalla legge 21 marzo 1988, n. 93.
 
-###### Art. 39
+#### Art. 39
 
 (Autocertificazione dei soggetti portatori
 
@@ -1402,7 +1382,7 @@ di handicap)
 
 1\. I soggetti riconosciuti ai sensi dell'articolo 3 della legge 5 febbraio 1992, n. 104, attestano, mediante autocertificazione effettuata nei modi e nei termini previsti dalla legge, l'esistenza delle condizioni personali richieste ai fini dell'adozione di provvedimenti amministrativi o dell'acquisizione di vantaggi, benefici economici, prestazioni sanitarie, agevolazioni fiscali o tributarie e di ogni altra utilita', erogati da soggetti pubblici o gestori o esercenti pubblici servizi.
 
-###### Art. 40 - Interventi nel settore postale
+#### Art. 40 - Interventi nel settore postale
 
 1\. La societa' Poste italiane Spa e' autorizzata all'esercizio del servizio di tesoreria degli enti pubblici, secondo modalita' stabilite con convenzione. ((Nell'ambito del predetto servizio di tesoreria, sulla base di apposite convenzioni, la societa' Cassa depositi e prestiti Spa e' autorizzata a concedere anticipazioni di tesoreria agli enti locali nel rispetto dei principi di accessibilita', uniformita' di trattamento, predeterminazione e non discriminazione)). La societa' Poste italiane Spa e' altresi' autorizzata a effettuare incassi e pagamenti per conto delle amministrazioni pubbliche. A tal fine puo' eseguire operazioni di versamento e di prelevamento di fondi presso la tesoreria statale, con modalita' da stabilire convenzionalmente.
 
@@ -1416,7 +1396,7 @@ di handicap)
 
 6\. Per l'effettiva attuazione delle previsioni di cui all'articolo 2, comma 28, della legge 23 dicembre 1996, n. 662, e' applicabile alla societa' Poste italiane Spa l'articolo 59, comma 3, della legge 27 dicembre 1997, n. 449.
 
-###### Art. 41
+#### Art. 41
 
 Tariffe postali agevolate
 
@@ -1438,7 +1418,7 @@ a) al primo periodo, dopo le parole: "e' corrisposto un importo pari al 50 per c
 
 b) al secondo periodo, le parole: "della residua documentazione prevista" sono sostituite dalle seguenti: "della documentazione richiesta all'editore".
 
-###### Art. 42 - Canone di concessione dovuto dalla RAI
+#### Art. 42 - Canone di concessione dovuto dalla RAI
 
 1\. Il canone di concessione dovuto dalla RAI-Radiotelevisione italiana Spa per l'anno 1998 resta fissato nella misura di lire 40 miliardi.
 
@@ -1464,7 +1444,7 @@ h) quanto a lire 18 milioni l'accantonamento relativo al Ministero dell'ambiente
 
 4\. Le disposizioni di cui al presente articolo entrano in vigore il 31 dicembre 1998.
 
-###### Art. 43
+#### Art. 43
 
 Ferrovie dello Stato Spa
 
@@ -1492,11 +1472,11 @@ b) 3.691, 3.478,950, 3.411,450, 756,359, 3.275,7 miliardi di lire, rispettivamen
 
 9\. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dell'articolo 1 del decreto-legge 10 settembre 1998, n. 324.
 
-###### Art. 44
+#### Art. 44
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-###### Art. 45
+#### Art. 45
 
 Disposizioni e interventi vari di razionalizzazione
 
@@ -1612,13 +1592,13 @@ a) articolo 45, comma 3, della legge 23 dicembre 1998, n. 448".
 
 \- Il regolamento di cui all'art. 1, comma 164, lettera a) della L. 28 dicembre 2015, n. 208 e' stato emanato con D.P.R. 23 agosto 2017, n. 146, pubblicato in G.U. 12/10/2017, n. 239.
 
-###### Art. 46
+#### Art. 46
 
 Personale del Servizio soccorso stradale ACI
 
 1\. Il personale del Servizio soccorso stradale ACI, risultante in esubero a seguito dei processi di ristrutturazione, in quanto dipendente da societa' interamente controllata dall'Automobile club d'Italia, partecipa a domanda ad apposite selezioni di idoneita' che potranno essere indette dall'Ente controllante nell'ambito delle disponibilita' esistenti nella dotazione organica complessiva del personale dell'ente stesso ai fini dell'inquadramento nei ruoli del personale dell'ACI, nel rispetto delle professionalita' acquisite, senza oneri aggiuntivi a carico del bilancio dello Stato, nei limiti delle disposizioni di cui all'articolo 39, comma 2, della legge 27 dicembre 1997, n. 449.
 
-###### Art. 47
+#### Art. 47
 
 (Destinazione del fondo di cui all'articolo
 
@@ -1626,7 +1606,7 @@ Personale del Servizio soccorso stradale ACI
 
 1\. Le disponibilita' del fondo di cui all'articolo 54, comma 3, della legge 27 dicembre 1997, n. 449, sono versate all'entrata del bilancio dello Stato per essere riassegnate ad apposita unita' previsionale di base dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 1999 e destinate, anche in un'unica soluzione, alla gestione speciale di cui all'articolo 62, comma 4, del decreto legislativo 23 luglio 1996, n. 415, per concorrere alla copertura degli impegni pregressi del Fondo nazionale di garanzia, secondo il piano di cui all'articolo 4, comma 4, del regolamento emanato con decreto del Ministro del tesoro, del bilancio e della programmazione economica 18 giugno 1998, n. 238.
 
-###### Art. 48
+#### Art. 48
 
 (Stabilimenti di macellazione di carni
 
@@ -1638,17 +1618,15 @@ fresche e macelli pubblici)
 
 ## TITOLO II - DISPOSIZIONI IN MATERIA DI SPESA
 
-### Capo V - DISPOSIZIONI PER FAVORIRE
+### Capo V - DISPOSIZIONI PER FAVORIRE E SOSTENERE LO SVILUPPO
 
-#### E SOSTENERE LO SVILUPPO
-
-###### Art. 49 - Programmi di tutela ambientale
+#### Art. 49 - Programmi di tutela ambientale
 
 1\. Per il finanziamento degli accordi di programma tra Stato e regioni di cui all'articolo 72 e dei programmi di tutela ambientale di cui all'articolo 73 del decreto legislativo 31 marzo 1998, n. 112, del programma nazionale di bonifica e ripristino ambientale dei siti inquinati, dei programmi di difesa del mare e delle riserve marine statali, dei programmi di competenza del Ministero dell'ambiente di cui alla deliberazione del CIPE in data 3 dicembre 1997, attuativi degli impegni assunti nella Conferenza di Kyoto, del piano straordinario di completamento e razionalizzazione dei sistemi di collettamento e depurazione delle acque reflue di cui all'articolo 6 del decreto-legge 25 marzo 1997, n. 67, convertito, con modificazioni, dalla legge 23 maggio 1997, n. 135, come modificato dall'articolo 8 della legge 8 ottobre 1997, n. 344, degli accordi e contratti di programma di cui all'articolo 25 del decreto legislativo 5 febbraio 1997, n. 22, si provvede a norma dell'articolo 11-quater, comma 3, della legge 5 agosto 1978, n. 468, e successive modificazioni e integrazioni. Le risorse relative ai programmi regionali di tutela ambientale sono ripartite e trasferite alle regioni ed alle province autonome entro il 31 gennaio di ciascun anno, con decreto del Ministro dell'ambiente, previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
 2\. All'articolo 57, comma 5, del decreto legislativo 5 febbraio 1997, n. 22, come modificato da ultimo dal comma 14 dell'articolo 1 della legge 9 dicembre 1998, n. 426, le parole: "31 dicembre 1998" sono sostituite dalle seguenti: "30 giugno 1999".
 
-###### Art. 50
+#### Art. 50
 
 Rifinanziamento dei programmi di investimento
 
@@ -1686,7 +1664,7 @@ AGGIORNAMENTO (1)
 
 Il D.L 28 dicembre 1998, n. 450 convertito, con modificazioni dalla L. 26 febbraio 1999, n. 39 ha disposto (con l'art. 4-bis, comma 1) che "Per gli interventi di cui alla lettera c) del comma 1 dell'articolo 50 della legge 23 dicembre 1998, n. 448, la relativa autorizzazione di spesa e' incrementata di lire 135 miliardi per l'anno 2000 e di lire 200 miliardi per l'anno 2001."
 
-###### Art. 51 - Provvedimenti a favore delle cooperative sociali
+#### Art. 51 - Provvedimenti a favore delle cooperative sociali
 
 1\. Per favorire la creazione di nuova imprenditorialita' sociale nonche' il consolidamento e lo sviluppo delle imprese sociali gia' esistenti, alle cooperative sociali di cui all'articolo 1, comma 1, lettera b), della legge 8 novembre 1991, n. 381, che presentino progetti per la realizzazione di nuove iniziative o per il consolidamento e lo sviluppo di attivita' gia' avviate, sono estesi, nei limiti delle risorse disponibili, i benefici di cui al decreto- legge 31 gennaio 1995, n. 26, convertito, con modificazioni, dalla legge 29 marzo 1995, n. 95, secondo i criteri e le modalita' definiti con apposito decreto del Ministero del tesoro, del bilancio e della programmazione economica, d'intesa con il Ministero del lavoro e della previdenza sociale. Le somme, allo scopo destinate, possono essere utilizzate quale copertura della quota di finanziamento nazionale di programmi cofinanziati dall'Unione europea per i progetti operanti nei territori di cui all'obiettivo 1 del regolamento (CEE) n. 2052/88 del Consiglio, del 24 giugno 1988, e successive modificazioni. ((11))
 
@@ -1696,7 +1674,7 @@ AGGIORNAMENTO (11)
 
 Il D.Lgs. 21 aprile 2000, n. 185 ha disposto (con l'art 27, comma 2) che dalla data di entrata in vigore dei regolamenti da emanarsi ex art. 24 del medesimo D.Lgs. 185/2000, e' abrogato il presente art. 51.
 
-###### Art. 52
+#### Art. 52
 
 (Fondo unico per gli incentivi alle imprese
 
@@ -1724,7 +1702,7 @@ AGGIORNAMENTO (42)
 
 La L. 27 dicembre 2006, n. 296, ha disposto (con l'art. 1, comma 841) che "Al fine di perseguire la maggiore efficacia delle misure di sostegno all'innovazione industriale, presso il Ministero dello sviluppo economico e' istituito, ferme restando le vigenti competenze del CIPE, il Fondo per la competitivita' e lo sviluppo, al quale sono conferite le risorse assegnate ai Fondi di cui all'articolo 60, comma 3, della legge 27 dicembre 2002, n. 289, ed all'articolo 52 della legge 23 dicembre 1998, n. 448, che sono contestualmente soppressi."
 
-###### Art. 53
+#### Art. 53
 
 (Incentivi fiscali per acquisto di programmi
 
@@ -1732,7 +1710,7 @@ informatici)
 
 1\. Per favorire l'introduzione dell'EURO ed il commercio elettronico nelle piccole e medie imprese commerciali, le agevolazioni di cui all'articolo 11 della legge 27 dicembre 1997, n. 449, sono estese agli acquisti di programmi informatici e di sistemi di pagamento con moneta elettronica.
 
-###### Art. 54 - Interventi per il settore del commercio
+#### Art. 54 - Interventi per il settore del commercio
 
 1\. Gli interventi di cui all'articolo 2, comma 42, della legge 28 dicembre 1995, n. 549, sono soppressi, fatti salvi quelli relativi all'approvazione dei progetti strategici di cui all'asse 3 della delibera CIPE dell'8 agosto 1996 gia' presentati alla data di entrata in vigore della presente legge. Per tali interventi e' destinato l'importo di lire 140 miliardi, di cui 100 miliardi per il 1998 e 40 miliardi per il 1999, dello stanziamento complessivo di lire 350 miliardi disposto con il citato articolo 2, comma 42, e con l'articolo 2, comma 194, della legge 23 dicembre 1996, n. 662. Il
 
@@ -1774,7 +1752,7 @@ AGGIORNAMENTO (56)
 
 Il D.L. 22 giugno 2012, n. 83, convertito, con modificazioni, dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 23, comma 11) che "I procedimenti avviati in data anteriore a quella di entrata in vigore del presente decreto-legge sono disciplinati, ai fini della concessione e dell'erogazione delle agevolazioni e comunque fino alla loro definizione, dalle disposizioni delle leggi di cui all'Allegato 1 e dalle norme di semplificazione recate dal presente decreto-legge."
 
-###### Art. 55
+#### Art. 55
 
 (Interpretazione autentica del comma 8
 
@@ -1784,7 +1762,7 @@ del 1993)
 
 1\. La disposizione di cui al comma 8 dell'articolo 6 del decreto- legge 20 maggio 1993, n. 149, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 237, va interpretata nel senso che la restituzione dei contributi concessi, a valere sul ricavato a regime della vendita dei prodotti interessati, si applica soltanto ai programmi di riconversione produttiva in campo civile e duale.
 
-###### Art. 56
+#### Art. 56
 
 (Modifiche all'articolo 3 del decreto-legge
 
@@ -1806,7 +1784,7 @@ c) il comma 5-bis e' abrogato.
 
 2\. All'ultimo periodo del comma 1 dell'articolo 1 del decreto-legge 25 marzo 1997, n. 67, convertito, con modificazioni, dalla legge 23 maggio 1997, n. 135, dopo le parole: "e successive modificazioni" sono aggiunte le seguenti: ", che possono essere assunti direttamente dagli enti beneficiari, convenzionati ai sensi dell'articolo 24 della legge 8 giugno 1990, n. 142, secondo criteri, modalita' e limiti stabiliti con decreto del Ministro del tesoro, del bilancio e della programmazione economica".
 
-###### Art. 57 - Disposizioni per le zone terremotate
+#### Art. 57 - Disposizioni per le zone terremotate
 
 1\. Al comma 32 dell'articolo 24 della legge 27 dicembre 1997, n. 449, e' aggiunto, in fine, il seguente periodo: "Agli interventi di ricostruzione e sviluppo delle zone colpite dai terremoti del 1980 e del 1981 continuano ad applicarsi le disposizioni di cui all'articolo 39, comma 11, del testo unico delle leggi per gli interventi nei territori della Campania, Basilicata, Puglia e Calabria colpiti da eventi sismici del novembre 1980, del febbraio 1981 e del marzo 1982, approvato con decreto legislativo 30 marzo 1990, n. 76".
 
@@ -1820,17 +1798,17 @@ c) il comma 5-bis e' abrogato.
 
 5\. Al comma 3 dell'articolo 23-quater del decreto-legge 30 gennaio 1998, n. 6, convertito, con modificazioni, dalla legge 30 marzo 1998, n. 61, le parole "all'articolo 14, commi 1, 3, 8, 12 e 14, del presente decreto" sono sostituite dalle seguenti: "all'articolo 14, commi 2, 3, 4, 5, 6, 7, 8, 9, 12 e 14, del presente decreto".
 
-###### Art. 58
+#### Art. 58
 
 (( (Obbligazioni delle societa' cooperative). ))
 
 (( 1. Le societa' cooperative emittenti obbligazioni ai sensi dell'articolo 11 del decreto legislativo 1 settembre 1993, n. 385, sono sottoposte alle disposizioni degli articoli 2411 e seguenti del codice civile e, ove ne ricorrano i presupposti, all'obbligo di certificazione secondo le modalita' previste dall'articolo 15, comma 2, della legge 31 gennaio 1992, n. 59, nonche' a quanto previsto dagli articoli 114 e 115 del decreto legislativo 24 febbraio 1998, n. 58, in quanto compatibili con la legislazione cooperativa. ))
 
-###### Art. 59 - Prestiti da soci per le cooperative
+#### Art. 59 - Prestiti da soci per le cooperative
 
 1\. I limiti individuali del prestito da soci per le cooperative edilizie di abitazione sono equiparati, a tutti gli effetti, a quelli previsti per le cooperative di conservazione, lavorazione, trasformazione ed alienazione di prodotti agricoli e per le cooper- ative di produzione e lavoro.
 
-###### Art. 60
+#### Art. 60
 
 (Modifiche all'articolo 10 della legge
 
@@ -1838,7 +1816,7 @@ n. 447 del 1995)
 
 1\. Al comma 5 dell'articolo 10 della legge 26 ottobre 1995, n. 447, le parole: "una quota fissa non inferiore al 5 per cento dei fondi di bilancio previsti per le attivita' di manutenzione" sono sostituite dalle seguenti: "una quota fissa non inferiore al 7 per cento dei fondi di bilancio previsti per le attivita' di manutenzione"; le parole: "Per quanto riguarda l'ANAS la suddetta quota e' determinata nella misura dell'1,5 per cento dei fondi di bilancio previsti per le attivita' di manutenzione" sono sostituite dalle seguenti: "Per quanto riguarda l'ANAS la suddetta quota e' determinata nella misura del 2,5 per cento dei fondi di bilancio previsti per le attivita' di manutenzione".
 
-###### Art. 61
+#### Art. 61
 
 Programmi di recupero urbano
 
@@ -1858,13 +1836,13 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del comma 2 del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-###### Art. 62 - Disposizioni per i lavoratori in mobilita'
+#### Art. 62 - Disposizioni per i lavoratori in mobilita'
 
 1\. Il termine di scadenza per l'iscrizione alle liste di mobilita' ai sensi dell'articolo 4, comma 31, del decreto-legge 1 ottobre 1996, n. 510, convertito, con modificazioni, dalla legge 28 novembre 1996, n. 608, limitatamente a lavoratori dipendenti o gia' dipendenti anteriormente alla data del 31 ottobre 1998, e' prorogato al 31 dicembre 2000. Il limite massimo di spesa di cui al medesimo articolo 4, comma 31, secondo periodo, e' incrementato da 20 a 30 miliardi di lire. I soggetti preposti alla gestione, allestimento e costruzione degli impianti definitivi di nuova costituzione, che assumano personale ai sensi del medesimo articolo 4, comma 32, devono offrire la opportunita' di assunzione anche ai lavoratori gia' assunti, ai sensi del medesimo comma 32, per lo svolgimento delle altre attivita' ivi indicate. I lavoratori di cui al citato comma 32 conservano, ove licenziati, il diritto all'iscrizione nella lista di mobilita' ed alla corresponsione della relativa indennita' sino al 31 dicembre 2000. Le attivita' ed i servizi collegati di cui al medesimo comma 32 sono quelli individuati con il decreto legislativo 5 febbraio 1997, n. 22.
 
 2\. L'articolo 4, comma 31, del decreto-legge 1 ottobre 1996, n. 510, convertito, con modificazioni, dalla legge 28 novembre 1996, n. 608, si interpreta nel senso che il diritto a percepire l'indennita' di mobilita', per i lavoratori interessati, non e' subordinato al possesso dei requisiti previsti dagli articoli 7, commi 1, 2 e 4, e 16, comma 1, della legge 23 luglio 1991, n. 223, e successive modificazioni e integrazioni. Ai fini del medesimo articolo 4, comma 33, secondo periodo, le regioni organizzano specifiche attivita' formative, anche con il contributo del Fondo sociale europeo, in funzione della progettualita' occupazionale di cui al medesimo articolo 4, comma 32.
 
-###### Art. 63 - Provvedimenti per favorire lo sviluppo industriale
+#### Art. 63 - Provvedimenti per favorire lo sviluppo industriale
 
 1\. I consorzi di sviluppo industriale di cui all'articolo 36 della legge 5 ottobre 1991, n. 317, nonche' quelli costituiti ai sensi della vigente legislazione delle regioni a statuto speciale, hanno la facolta' di riacquistare la proprieta' delle aree cedute per intraprese industriali o artigianali nell'ipotesi in cui il cessionario non realizzi lo stabilimento nel termine di ((tre anni)) dalla cessione. ((89))
 
@@ -1882,17 +1860,15 @@ AGGIORNAMENTO (89)
 
 La L. 11 marzo 2026, n. 34 ha disposto (con l'art. 14, comma 2) che "Le disposizioni di cui al comma 1 si applicano alle cessioni e alle cessazioni successive alla data di entrata in vigore della presente legge".
 
-###### Art. 64 - Disposizioni sulla Carbosulcis Spa
+#### Art. 64 - Disposizioni sulla Carbosulcis Spa
 
 1\. Il termine previsto dal comma 1 dell'articolo 57 della legge 27 dicembre 1997, n. 449, e' prorogato al 31 dicembre 1999. Le risorse finanziarie previste dallo stesso articolo 57, comma 2, sono inte- grate con l'importo di lire 32 miliardi e 500 milioni, riveniente dalle agevolazioni finanziarie di cui all'articolo 8, comma 3, del decreto del Presidente della Repubblica 28 gennaio 1994, pubblicato nella Gazzetta Ufficiale n. 56 del 9 marzo 1994, da erogare con le stesse modalita' previste dal comma 3 del citato articolo 57 della legge 27 dicembre 1997, n. 449.
 
 ## TITOLO II - DISPOSIZIONI IN MATERIA DI SPESA
 
-### Capo VI - MISURE IN MATERIA
+### Capo VI - MISURE IN MATERIA DI POLITICHE SOCIALI E DEL LAVORO
 
-#### DI POLITICHE SOCIALI E DEL LAVORO
-
-###### Art. 65
+#### Art. 65
 
 ((ARTICOLO ABROGATO DAL D.LGS. 21 DICEMBRE 2021, N. 230))
 
@@ -1904,11 +1880,11 @@ AGGIORNAMENTO (78)
 
 Il D.Lgs. 21 dicembre 2021, n. 230 ha disposto (con l'art. 10, comma 2) che "Per l'anno 2022, l'assegno di cui all'articolo 65 della legge 23 dicembre 1998, n. 448 e' riconosciuto esclusivamente con riferimento alle mensilita' di gennaio e febbraio".
 
-###### Art. 66
+#### Art. 66
 
 (( ARTICOLO ABROGATO DAL D.LGS. 26 MARZO 2001, N. 151 ))
 
-###### Art. 67 - Incremento delle pensioni sociali
+#### Art. 67 - Incremento delle pensioni sociali
 
 1\. A decorrere dal 1 gennaio 1999, gli importi mensili della pensione sociale di cui all'articolo 26 della legge 30 aprile 1969, n. 153, nonche' dell'assegno sociale di cui all'articolo 3, comma 6, della legge 8 agosto 1995, n. 335, sono elevati di lire 100.000 mensili.
 
@@ -1916,7 +1892,7 @@ Il D.Lgs. 21 dicembre 2021, n. 230 ha disposto (con l'art. 10, comma 2) che "Per
 
 3\. Gli aumenti di cui al comma 1 sono corrisposti anche ai ciechi civili con eta' pari o superiore a 65 anni titolari dei relativi trattamenti pensionistici, in base alle regole di computo e ai requisiti di reddito personale e cumulato di cui al comma 2. Al relativo onere, valutato in lire 10 miliardi annue a decorrere dal 1999, si provvede mediante riduzione dell'autorizzazione di spesa di cui all'articolo 42, comma 6, della legge 5 febbraio 1992, n. 104.
 
-###### Art. 68
+#### Art. 68
 
 Riduzione dei ticket e norme in materia
 
@@ -1952,7 +1928,7 @@ c) redigere annualmente un rapporto al Ministro della sanita', finalizzato, in p
 
 11\. Per l'attivita' e il funzionamento dell'Osservatorio di cui al comma 7, il Dipartimento per la valutazione dei medicinali e la farmacovigilanza puo' avvalersi, in misura non superiore a lire 10 miliardi, delle disponibilita' di cui all'articolo 36, comma 14, della legge 27 dicembre 1997, n. 449, con conseguente riduzione, per lo stesso importo, delle somme disponibili per le altre iniziative di farmacovigilanza e di informazione degli operatori sanitari.
 
-###### Art. 69 - Disposizioni in materia di farmaci
+#### Art. 69 - Disposizioni in materia di farmaci
 
 1\. Entro il 15 gennaio 1999 la Commissione unica del farmaco adotta un provvedimento diretto ad assicurare che siano dispensati con oneri a carico del Servizio sanitario nazionale:
 
@@ -1964,7 +1940,7 @@ b) per i soggetti dimessi da ospedali psichiatrici o in cura presso i servizi di
 
 "8-bis. Il Ministro della sanita' puo' stabilire che le regioni e le province autonome possono provvedere all'acquisto all'estero, nell'ambito dell'Unione europea, anche attraverso una struttura di coordinamento nazionale, di medicinali destinati al trattamento delle malattie invalidanti o delle malattie rare di cui all'articolo 5, comma 1, del decreto legislativo 29 aprile 1998, n. 124, aventi le caratteristiche di cui alle lettere a) e b) dell'articolo 8, comma 10, della legge 24 dicembre 1993, n. 537, che, in base alla normativa in vigore, siano trasferiti nella classe prevista dalla lettera c) del medesimo comma 10 in conseguenza di decisioni o comportamenti dell'azienda titolare".
 
-###### Art. 70
+#### Art. 70
 
 Misure per la razionalizzazione e il Contenimento della spesa farmaceutica
 
@@ -1986,7 +1962,7 @@ AGGIORNAMENTO (8)
 
 La L. 23 dicembre 1999, n. 488 ha disposto (con l'art. 29, comma 8) che "All'articolo 70, comma 5, della legge 23 dicembre 1998, n. 448, l'espressione "medicinali gia' classificati tra i farmaci non rimborsabili e successivamente ammessi per la prima volta alla rimborsabilita' " deve intendersi riferita al regime di rimborsabilita' introdotto dall'articolo 8, comma 10, della legge 24 dicembre 1993, n. 537."
 
-###### Art. 71
+#### Art. 71
 
 (Piano straordinario di interventi per la
 
@@ -2010,7 +1986,7 @@ e) la territorializzazione dei servizi.
 
 All'istruttoria dei progetti provvede una commissione istituita presso la Conferenza permanente per i rapporti fra lo Stato, le regioni e le province autonome di Trento e di Bolzano e nominata dal Ministro della sanita', d'intesa con la stessa Conferenza, in modo da assicurare la rappresentanza paritetica del Ministero della sanita', delle regioni e dell'Associazione nazionale dei comuni italiani. Il Ministro della sanita', d'intesa con la citata Conferenza unificata, sulla base dell'istruttoria effettuata dalla commissione, individua i progetti ammessi al cofinanziamento, nei limiti delle risorse di cui al comma 1, e procede alla ripartizione dei fondi tra le regioni interessate. Decorso inutilmente il termine fissato dal decreto del Ministro della sanita', i comuni di cui al comma 1, nei successivi trenta giorni, possono presentare al Ministero della sanita' propri progetti, trasmettendone copia alla regione. Ove non venga presentato almeno un progetto per comune, l'Agenzia per i servizi sanitari regionali assicura il necessario supporto alle regioni o ai comuni per la elaborazione dei progetti medesimi. La Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, su proposta del Ministro della sanita', individua i progetti ammessi al cofinanziamento, nei limiti delle risorse di cui al comma 1. Si applica l'ultimo periodo dell'articolo 9-bis del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni.
 
-###### Art. 72
+#### Art. 72
 
 Disposizioni per la riqualificazione dell'assistenza sanitaria
 
@@ -2066,7 +2042,7 @@ La L. 23 dicembre 1999, n. 488 ha disposto
 
 -(con l'art. 28, comma 15) che "Le disponibilita' corrispondenti alla quota parte delle minori spese di cui al comma 3 dell'articolo 72 della legge 23 dicembre 1998, n. 448, previste dal comma 15 dello stesso articolo 72 relativamente agli anni 2000 e 2001 sono integrate di 750 miliardi di lire per ciascuno dei predetti anni."
 
-###### Art. 73
+#### Art. 73
 
 (Trattamenti previdenziali e assistenziali
 
@@ -2098,7 +2074,7 @@ i) trattamenti pensionistici gestiti dall'Ente nazionale di previdenza edi assis
 
 4\. L'articolo 1, comma 6, della legge 28 novembre 1996, n. 608, va interpretato nel senso che fra gli effetti dallo stesso fatti salvi rientra anche l'inefficacia dei provvedimenti giudiziali non ancora passati in giudicato nella vigenza dei decreti-legge richiamati nel predetto comma, ancorche' notificati, che si estende fino all'entrata in vigore della legge 23 dicembre 1996, n. 662.
 
-###### Art. 74
+#### Art. 74
 
 (Estensione degli incentivi
 
@@ -2106,7 +2082,7 @@ pubblici alle imprese sociali)
 
 1\. Ferme restando le disposizioni del titolo II del decreto legislativo 31 marzo 1998, n. 112, ed entro i limiti previsti dalla disciplina comunitaria in materia di aiuti di Stato alle imprese, il Presidente del Consiglio dei ministri provvede, con proprio decreto, a determinare modalita', limiti, condizioni e decorrenza dell'estensione alle imprese senza fine di lucro, ivi comprese le co- operative sociali di cui alla legge 8 novembre 1991, n. 381, operanti nei settori dell'assistenza, dell'educazione e dell'inserimento lavorativo di persone svantaggiate e della tutela dell'ambiente, delle agevolazioni, dei contributi, delle sovvenzioni, degli incentivi e dei benefici di qualsiasi genere previsti dalle norme vigenti per l'industria, cosi' come definita dall'articolo 17 del medesimo decreto legislativo n. 112 del 1998.
 
-###### Art. 75
+#### Art. 75
 
 (Modifiche alle disposizioni in materia di
 
@@ -2160,7 +2136,7 @@ f) Il comma 6-bis e' abrogato.
 
 4\. L'efficacia delle misure di cui al presente articolo e' subordinata all'autorizzazione ed ai vincoli della Commissione delle Comunita' europee ai sensi degli articoli 92 e seguenti del Trattato istitutivo della Comunita' europea.
 
-###### Art. 76
+#### Art. 76
 
 (Regolarizzazione contributiva
 
@@ -2170,7 +2146,7 @@ in agricoltura)
 
 2\. Possono essere corrisposti, con le modalita' e i termini previsti dal comma 1, anche i contributi che hanno formato oggetto di procedure di regolarizzazione agevolate in agricoltura ai sensi di precedenti disposizioni, per la parte del debito contributivo dovuto da parte dei soggetti indicati al comma 1 e rimasto insoluto alla data di entrata in vigore della presente legge.
 
-###### Art. 77
+#### Art. 77
 
 (Disposizioni in materia di cumulo
 
@@ -2178,7 +2154,7 @@ tra pensioni e redditi da lavoro)
 
 1\. Per le pensioni liquidate con anzianita' contributiva pari o superiore a 40 anni, anche se liquidate anteriormente alla data di entrata in vigore della presente legge, trovano applicazione le vigenti disposizioni in materia di cumulo con redditi da lavoro previste nei casi di pensioni di vecchiaia.
 
-###### Art. 78
+#### Art. 78
 
 Misure organizzative a favore
 
@@ -2208,7 +2184,7 @@ AGGIORNAMENTO (46)
 
 Il D.L. 31 dicembre 2007, convertito con modificazioni dalla L. 28 febbraio 2008, n. 31, ha disposto (con l'art. 7, comma 3) che "Il Comitato per l'emersione del lavoro non regolare, di cui all'articolo 78 della legge 23 dicembre 1998, n. 448, e successive modificazioni, svolge la sua attivita' fino al 31 gennaio 2008."
 
-###### Art. 79
+#### Art. 79
 
 Misure organizzative intese alla repressione
 
@@ -2218,7 +2194,7 @@ del lavoro non regolare e sommerso
 
 (( 2. Al medesimo fine di cui al comma 1 una quota pari al 10 per cento dell'importo proveniente dalla riscossione delle sanzioni penali e amministrative comminate dalle Direzioni provinciali del lavoro - servizio ispezione del lavoro per le violazioni delle leggi sul lavoro e' destinata per il 50 per cento a corsi di formazione e di aggiornamento del personale da assegnare al predetto servizio e per l'acquisto dei dispositivi di protezione individuale, delle attrezzature, degli strumenti e degli apparecchi indispensabili per lo svolgimento dell'attivita' ispettiva e delle relative procedure ad essa connesse. Il restante 50 per cento della quota predetta e' destinato all'incremento del Fondo unico di amministrazione, di cui al contratto collettivo integrativo di lavoro relativo al personale del Ministero del lavoro e della previdenza sociale, per l'incentivazione dell'attivita' ispettiva di controllo sulle condizioni di lavoro nelle aziende )).
 
-###### Art. 80
+#### Art. 80
 
 Disposizioni in materia di organizzazione
 
@@ -2240,7 +2216,7 @@ AGGIORNAMENTO (29)
 
 La L. 28 dicembre 2001, n. 448 ha disposto (con l'art. 52, comma 19) che "Sono prorogati per l'anno 2002 gli interventi previsti dall'articolo 118, comma 9, della legge 23 dicembre 2000, n. 388, entro il limite massimo di 21 milioni di euro nonche', per il medesimo anno, gli interventi previsti dall'articolo 80, comma 4, della legge 23 dicembre 1998, n. 448, entro il limite massimo di 4 milioni di euro."
 
-###### Art. 81
+#### Art. 81
 
 Modifiche all'articolo 1-septies del decreto-legge n. 78 del 1998 e altri interventi in materia occupazionale e previdenziale
 
@@ -2290,11 +2266,11 @@ miliardi;"
 
 -(con l'art. 62, comma 1, lettere g)) che "i trattamenti di cassa integrazione straordinaria e di mobilita' di cui all'articolo 81, comma 3, della legge 23 dicembre 1998, n. 448, nel limite di lire 50 miliardi a carico del Fondo di cui all'articolo 1, comma 7, del decreto-legge 20 maggio 1993, n. 148, convertito, con modificazioni dalla legge 19 luglio 1993, n. 236;"
 
-###### Art. 82 - Applicazione della legge
+#### Art. 82 - Applicazione della legge
 
 1\. Le disposizioni della presente legge si applicano alle regioni a statuto speciale e alle province autonome di Trento e di Bolzano nel rispetto e nei limiti degli statuti di autonomia e delle relative norme di attuazione.
 
-###### Art. 83 - Entrata in vigore
+#### Art. 83 - Entrata in vigore
 
 1\. Le disposizioni della presente legge entrano in vigore il 1° gennaio 1999, salvo che sia espressamente stabilita una diversa decorrenza.
 
@@ -2320,11 +2296,9 @@ Visto, il Guardasigilli: DILIBERTO
 
 ## TITOLO II - DISPOSIZIONI IN MATERIA DI SPESA
 
-### Capo VI - MISURE IN MATERIA
+### Capo VI - MISURE IN MATERIA DI POLITICHE SOCIALI E DEL LAVORO
 
-#### DI POLITICHE SOCIALI E DEL LAVORO
-
-###### Allegato 1
+#### Allegato 1
 
 ALLEGATO 1 (Articolo 8 comma 4)
 

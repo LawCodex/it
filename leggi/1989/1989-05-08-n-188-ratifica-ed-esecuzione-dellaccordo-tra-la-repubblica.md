@@ -27,15 +27,15 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo tra la Repubblica italiana e la Repubblica democratica tedesca sull'assistenza giudiziaria in materia civile e sullo scambio di atti di stato civile, firmato a Berlino il 10 luglio 1984, con scambio di note effettuato in pari data.
 
-#### Art. 2
+### Art. 2
 
 1\. Piena ed intera esecuzione e' data agli atti internazionali di cui all'articolo 1 a decorrere dalla loro entrata in vigore in conformita' all'articolo 31 dell'accordo e allo scambio di note.
 
-#### Art. 3
+### Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -73,7 +73,7 @@ la Repubblica Democratica Tedesca, S.E. Oskar Fischer, Ministro degli affari est
 
 i quali hanno concordato quanto segue:
 
-#### ARTICOLO 1 - Definizioni
+### ARTICOLO 1 - Definizioni
 
 Ai fini del presente Accordo il significato delle seguenti espressioni e' cosi' precisato:
 
@@ -81,29 +81,29 @@ a) l'espressione " materia civile " comprende anche il diritto di famiglia e il 
 
 b) l'espressione " autorita' giudiziaria " comprende per la R.D.T. anche i Notariati di Stato e i "Referate fur Jugendhilfe" (Uffici per la protezione dei giovani).
 
-#### ARTICOLO 2 - Persone giuridiche
+### ARTICOLO 2 - Persone giuridiche
 
 Le disposizioni del presente Accordo riguardanti i cittadini delle Parti contraenti valgono - in quanto applicabili - anche per le persone giuridiche costituite in conformita' alle leggi di una delle Parti e che hanno la loro sede nel territorio di una delle Parti.
 
-#### ARTICOLO 3 - Informazioni
+### ARTICOLO 3 - Informazioni
 
 Ciascuna Parte contraente fornira' all'altra, su domanda, informazioni sulle proprie leggi e regolamenti in materia civile e sulla loro applicazione giurisprudenziale.
 
-#### ARTICOLO 4 - Modalita' delle comunicazioni
+### ARTICOLO 4 - Modalita' delle comunicazioni
 
 Le autorita' giudiziarie delle Parti contraenti comunicano tra di loro per il tramite dei Ministri della Giustizia, ove il presente Accordo non disponga altrimenti.
 
 ## PARTE II - TUTELA GIURIDICA
 
-#### ARTICOLO 5 - Accesso alle autorita' giudiziarie
+### ARTICOLO 5 - Accesso alle autorita' giudiziarie
 
 I cittadini di ciascuna Parte contraente hanno sul territorio dell'altra Parte libero accesso alle autorita' giudiziarie, per la difesa dei loro diritti e interessi, alle stesse condizioni dei cittadini di quest'ultima.
 
-#### ARTICOLO 6 - Esenzione dal deposito di cauzione per le spese processuali
+### ARTICOLO 6 - Esenzione dal deposito di cauzione per le spese processuali
 
 I cittadini di una delle Parti contraenti che compaiono in qualita' di attori innanzi alle autorita' giudiziarie dell'altra Parte saranno dispensati dalla cautio judicatum solvi qualora abbiano la residenza o domicilio nel territorio di una delle Parti.
 
-#### ARTICOLO 7 - Esenzione dalle tasse e dai depositi
+### ARTICOLO 7 - Esenzione dalle tasse e dai depositi
 
 1\) Ai cittadini di una delle Parti contraenti e' accordata sul territorio dell'altra Parte l'esenzione dalle tasse e dai depositi delle spese processuali, nonche' ogni altro beneficio previsto dalle leggi o dai regolamenti, alle stesse condizioni e nella stessa misura che ai cittadini di quest'ultima Parte.
 
@@ -119,13 +119,13 @@ I cittadini di una delle Parti contraenti che compaiono in qualita' di attori in
 
 ## PARTE III - ASSISTENZA GIUDIZIARIA
 
-#### ARTICOLO 8 - Impegno all'assistenza giudiziaria
+### ARTICOLO 8 - Impegno all'assistenza giudiziaria
 
 1\) Le Parti contraenti si impegnano a concedersi reciprocamente assistenza giudiziaria in materia civile, alle condizioni stabilite dal presente accordo.
 
 2\) L'assistenza giudiziaria comprende l'esecuzione di atti processuali, quali la redazione, trasmissione e notificazione di atti, l'audizione delle parti e dei testimoni, l'espletamento di consulenze tecniche e l'acqusizione di altre prove.
 
-#### ARTICOLO 9 - Richieste di assistenza giudiziaria
+### ARTICOLO 9 - Richieste di assistenza giudiziaria
 
 1\) La domanda di assistenza deve indicare:
 
@@ -141,11 +141,11 @@ e) l'oggetto della richiesta, gli atti da compiere.
 
 2\) La domanda e i documenti allegati devono essere datati, firmati e muniti di sigillo dell'autorita' giudiziaria. Non e' necessaria alcuna legalizzazione.
 
-#### ARTICOLO 10 - Lingue
+### ARTICOLO 10 - Lingue
 
 Le richieste di assistenza giudiziaria e gli atti connessi saranno redatti nella lingua della Parte richiedente ed accompagnati da traduzione autenticata nella lingua della Parte richiesta.
 
-#### ARTICOLO 11 - Esecuzione dell'assistenza
+### ARTICOLO 11 - Esecuzione dell'assistenza
 
 1\) L'esecuzione dell'assistenza giudiziaria si effettua a norma delle leggi della Parte richiesta. Su domanda possono essere adottate forme diverse da quelle previste in tali leggi, purche' non siano contrarie ai principi fondamentali dell'ordinamento giuridico della Parte richiesta.
 
@@ -157,21 +157,21 @@ Le richieste di assistenza giudiziaria e gli atti connessi saranno redatti nella
 
 5\) La Parte richiesta, se non e' possibile dar corso alla domanda, lo comunica alla Parte richiedente, indicandone i motivi e restituendo i relativi atti.
 
-#### ARTICOLO 12 - Documentazione dell'avvenuta notifica
+### ARTICOLO 12 - Documentazione dell'avvenuta notifica
 
 L'avvenuta notifica sara' documentata nelle forme stabilite dall'ordinamento della Parte richiesta. Verranno comunque indicati data e luogo della notifica nonche' le generalita' della persona alla quale l'atto e' stato notificato.
 
-#### ARTICOLO 13 - Protezione dei testimoni e degli esperti
+### ARTICOLO 13 - Protezione dei testimoni e degli esperti
 
 1\) Il testimone o il consulente, quale che sia la sua cittadinanza, che a seguito di citazione comunicatagli dalla Parte richiesta compare dinanzi ad una autorita' giudiziaria della Parte richiedente, non puo' essere perseguito penalmente o arrestato per un reato che egli abbia commesso prima di varcare il confine della Parte richiedente, ne' potra' essere eseguita nei suoi confronti alcuna sentenza penale in precedenza emanata.
 
 2\) Un testimone o consulente perde la protezione di cui al comma precedente se non ha lasciato il territorio della Parte richiedente entro 5 giorni dalla data in cui gli sia stato comunicato che la sua presenza non e' piu' necessaria, salvo che il prolungarsi della permanenza sia dovuto a cause indipendenti dalla sua volonta'.
 
-#### ARTICOLO 14 - Spese
+### ARTICOLO 14 - Spese
 
 Le spese derivanti dall'espletamento della domanda di assistenza giudiziaria vengono sostenute dalla Parte richiesta. Le spese per le consulenze tecniche vengono rimborsate dalla Parte richiedente.
 
-#### ARTICOLO 15 - Rifiuto di assistenza
+### ARTICOLO 15 - Rifiuto di assistenza
 
 L'assistenza giudiziaria puo' essere rifiutata se l'espletamento della richiesta:
 
@@ -179,29 +179,29 @@ a) non rientra nella competenza dell'autorita' giudiziaria della Parte richiesta
 
 b) potrebbe causare pregiudizio alla sovranita' o sicurezza o sarebbe contraria ai principi fondamentali dell'ordinamento giuridico della Parte richiesta.
 
-#### ARTICOLO 16 - Competenza delle Rappresentanze diplomatiche e consolari
+### ARTICOLO 16 - Competenza delle Rappresentanze diplomatiche e consolari
 
 Ciascuna Parte contraente puo' effettuare notifiche di atti ai propri cittadini e procedere, senza mezzi coercitivi, alla loro audizione a mezzo delle proprie Rappresentanze diplomatiche o consolari.
 
 ## PARTE IV - ATTI
 
-#### ARTICOLO 17 - Esenzione dalla legalizzazione
+### ARTICOLO 17 - Esenzione dalla legalizzazione
 
 Sono esenti da legalizzazione gli atti, le copie e le autenticazioni di firme, redatti o certificati conformi da una pubblica autorita' o da una persona autorizzata a norma della legge di una Parte contraente, e muniti di firma e sigillo ufficiale, da esibire sul territorio dell'altra Parte.
 
-#### ARTICOLO 18 - Scambio di atti di stato civile
+### ARTICOLO 18 - Scambio di atti di stato civile
 
 1\) Ciascuna Parte contraente trasmette all'altra, in esenzione da spese, gli atti di stato civile, e annotazioni connesse, relativi ad eventi, verificatisi dopo l'entrata in vigore del presente Accordo, concernenti cittadini di quest'ultima Parte.
 
 2\) Gli atti vengono trasmessi trimestralmente da ciascuna Parte alle Rappresentanze diplomatiche o consolari dell'altra Parte. Gli atti di morte sono trasmessi senza indugio.
 
-#### ARTICOLO 19 - Trasmissione di atti di stato civile su richiesta
+### ARTICOLO 19 - Trasmissione di atti di stato civile su richiesta
 
 Nei limiti previsti dalla propria legislazione in materia, ciascuna Parte, su motivata domanda, e in esenzione da spese, trasmette all'altra, per via diplomatica, gli atti di stato civile riguardanti i cittadini di tale Parte e relativi ad eventi anteriormente all'entrata in vigore del presente accordo, e comunica, tramite i Ministeri della Giustizia, le decisioni giudiziarie concernenti lo stato civile dei cittadini di quest'ultima Parte.
 
 ## PARTE V - ASSISTENZA PER L'OTTENIMENTO DEGLI ALIMENTI
 
-#### ARTICOLO 20 - Estensione dell'assistenza
+### ARTICOLO 20 - Estensione dell'assistenza
 
 1\) Ciascuna Parte contraente concede all'altra, su domanda, a norma del presente Accordo, assistenza per l'ottenimento degli alimenti dovuti ai cittadini di quest'ultima Parte.
 
@@ -213,13 +213,13 @@ a) l'invito alla persona tenuta agli alimenti ad assolvere al proprio obbligo;
 
 b) l'instaurazione di una procedura per l'accertamento della paternita' ai fini della corresponsione degli alimenti o di una procedura per la modifica di una decisione relativa agli alimenti.
 
-#### ARTICOLO 21 - Modalita' delle comunicazioni
+### ARTICOLO 21 - Modalita' delle comunicazioni
 
 1\) La domanda di assistenza per l'ottenimento degli alimenti e' trasmessa dall'organo competente della Parte richiedente all'organo competente della Parte richiesta.
 
 2\) Organo competente e' per la Repubblica Italiana il Ministero dell'Interno, per la Repubblica Democratica Tedesca il Ministero della Giustizia.
 
-#### ARTICOLO 22 - Contenuto e forma della domanda
+### ARTICOLO 22 - Contenuto e forma della domanda
 
 1\) La domanda di assistenza per l'ottenimento degli alimenti deve contenere i dati seguenti:
 
@@ -231,23 +231,21 @@ c) indicazione dei motivi della richiesta nonche' dell'ammontare degli alimenti 
 
 3\) Alla domanda devono essere allegati tutti i documenti rilevanti, ivi compresa eventuale procura che autorizzi l'organo competente ad agire in rappresentanza dell'avente diritto ed eventualmente a designare a tal fine un altro procuratore.
 
-#### ARTICOLO 23 - Attivita' degli organi competenti
+### ARTICOLO 23 - Attivita' degli organi competenti
 
 1\) L'organo competente della Parte richiesta, a seguito della domanda di assistenza, adotta, nei limiti derivanti dalle norme del proprio ordinamento, le misure per l'ottenimento degli alimenti.
 
 2\) Tale organo informa l'organo competente dell'altra Parte delle misure adottate e del loro esito. Qualora non sia stato possibile effettuare alcun adempimento, lo comunica indicandone i motivi e restituendo i relativi atti.
 
-## PARTE VI - RICONOSCIMENTO ED ESECUZIONE DELLE DECISIONI
+## PARTE VI - RICONOSCIMENTO ED ESECUZIONE DELLE DECISIONI IN MATERIA DI ALIMENTI E DI SPESE PROCESSUALI
 
-### IN MATERIA DI ALIMENTI E DI SPESE PROCESSUALI
-
-#### ARTICOLO 24 - Decisioni da riconoscere ed eseguire
+### ARTICOLO 24 - Decisioni da riconoscere ed eseguire
 
 1\) Ciascuna Parte contraente riconosce ed esegue alle condizioni stabilite dal presente Accordo, le decisioni in materia di alimenti pronunciate dalle autorita' giudiziarie dell'altra Parte.
 
 2\) Tra le decisioni di cui al comma precedente sono comprese anche le transazioni giudiziarie concernenti i pagamenti di alimenti nonche' le decisioni per le spese processuali.
 
-#### ARTICOLO 25 - Condizioni per il riconoscimento e l'esecuzione
+### ARTICOLO 25 - Condizioni per il riconoscimento e l'esecuzione
 
 1\) Le decisioni vengono riconosciute ed eseguite in presenza delle seguenti condizioni:
 
@@ -263,11 +261,11 @@ e) il riconoscimento e l'esecuzione non sono contrari ai principi fondamentali d
 
 2\) Nella decisione sul riconoscimento e l'esecuzione la Parte richiesta si limita a stabilire se ricorrano le condizioni previste dal comma 1 del presente articolo e dell'articolo 27.
 
-#### ARTICOLO 26 - Competenza
+### ARTICOLO 26 - Competenza
 
 Le autorita' giudiziarie della parte richiedente sono considerate competenti ai sensi del presente Accordo se al momento dell'avvio del procedimento l'attore oppure il convenuto avevano la propria residenza sul territorio di tale Parte.
 
-#### ARTICOLO 27 - Domande di esecuzione
+### ARTICOLO 27 - Domande di esecuzione
 
 1\) La domanda di esecuzione di una decisione puo' essere presentata presso l'autorita' giudiziaria di prima istanza della Parte richiedente. L'inoltro all'autorita' giudiziaria della Parte richiesta avviene per il tramite dei Ministeri della Giustizia.
 
@@ -279,11 +277,11 @@ b) attestazione che la parte soccombente e' stata citata regolarmente e in tempo
 
 c) traduzione autenticata dei documenti indicati alle lettere a ) e b) nella lingua della Parte richiesta.
 
-#### ARTICOLO 28 - Procedura
+### ARTICOLO 28 - Procedura
 
 La procedura per il riconoscimento e l'esecuzione della decisione e' regolata dalle leggi della Parte richiesta.
 
-#### ARTICOLO 29 - Esecuzione delle decisioni relative alle spese
+### ARTICOLO 29 - Esecuzione delle decisioni relative alle spese
 
 1\) Se una parte in causa, esentata dalla prestazione della cautio judicatum solvi per le spese processuali ai sensi dell'articolo 6, viene condannata al pagamento delle spese processuali con una
 
@@ -299,11 +297,11 @@ passata in giudicato ed esecutiva pronunciata dall'autorita' giudiziaria di uno 
 
 ## PARTE VII - DISPOSIZIONI FINALI
 
-#### ARTICOLO 30
+### ARTICOLO 30
 
 Il presente accordo e' soggetto a ratifica. Lo scambio degli strumenti di ratifica avra' luogo a Roma.
 
-#### ARTICOLO 31
+### ARTICOLO 31
 
 1\) Il presente Accordo entrera' in vigore trenta giorni dopo lo scambio degli strumenti di ratifica.
 
@@ -313,7 +311,7 @@ Fatto in doppio esemplare a Berlino il 10 luglio 1984 ciascuno nelle lingue ital
 
 ANDREOTTI
 
-#### Allegato
+### Allegato
 
 Sua Eccellenza
 

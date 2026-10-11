@@ -30,7 +30,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI DI CARATTERE FINANZIARIO
 
-#### Art. 1
+### Art. 1
 
 1\. Per l'anno 1995, il limite massimo del saldo netto da finanziare resta determinato in termini di competenza in lire 156.700 miliardi al netto di lire 11.375 miliardi per regolazioni debitorie. Tenuto conto delle operazioni di rimborso di prestiti, il livello massimo del ricorso al mercato finanziario di cui all'articolo 11 della legge 5 agosto 1978, n. 468, come sostituito dall'articolo 5 della legge 23 agosto 1988, n. 362 - ivi compreso l'indebitamento all'estero per un importo complessivo non superiore a lire 4.000 miliardi relativo ad interventi non considerati nel bilancio di previsione per il 1995 - resta fissato in termini di competenza, in lire 372.550 miliardi per l'anno finanziario 1995.
 
@@ -40,7 +40,7 @@ la seguente legge:
 
 > In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 16 gennaio 1995 si procedera' alla ripubblicazione del testo della presente legge corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217.
 
-#### Art. 2
+### Art. 2
 
 1\. Per ciascuno degli anni 1995, 1996 e 1997, l'eventuale maggiore gettito rispetto alle previsioni derivanti dalla normativa vigente e' interamente utilizzato per la riduzione del saldo netto da finanziare, salvo che si tratti di assicurare la copertura finanziaria di interventi urgenti ed imprevisti necessari per fronteggiare calamita' naturali o improrogabili esigenze connesse con la tutela della sicurezza del Paese ovvero situazioni di emergenza economico-finanziaria.
 
@@ -74,17 +74,15 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 febbraio 1995, n. 41, convertito con modificazioni dalla L. 22 marzo 1995, n. 85 ha disposto (con l'art. 2, comma 1) che "Per gli anni 1995, 1996 e 1997, le quote dei fondi speciali di cui alle tabelle A , con esclusione dell'accantonamento relativo al Ministero dell'interno, e B approvate con l'articolo 2, comma 2, della legge 23 dicembre 1994, n. 725, con esclusione di quelle preordinate in connessione con accordi internazionali, per regolazioni debitorie e per rate ammortamento mutui, e per interventi nel settore agroalimentare, sono ridotte del 22 per cento per il 1995, del 24 percento per il 1996 e del 26 per cento per il 1997 e comunque fino a concorrenza delle quote non utilizzate alla data di entrata in vigore del presente decreto".
 
-## CAPO II - DISPOSIZIONI IN MATERIA
+## CAPO II - DISPOSIZIONI IN MATERIA DI ENTRATA
 
-### DI ENTRATA
-
-#### Art. 3
+### Art. 3
 
 1\. In relazione al decreto del Presidente del Consiglio dei ministri da emanare in applicazione dell'articolo 3, comma 2, del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154, e tenendo conto del disposto dell'articolo 9, comma 1, del decreto-legge 19 settembre 1992, n. 384, convertito, con modificazioni, dalla legge 14 novembre 1992, n. 438, la restituzione del drenaggio fiscale e' ((ridotta del 20 per cento)).
 
 2\. Le minori entrate per imposta sul reddito delle persone fisiche, derivanti dall'applicazione del comma 1, sono valutate per gli anni 1995, 1996 e 1997, rispettivamente, in lire 400 miliardi, in lire 500 miliardi e in lire 500 miliardi.
 
-#### Art. 4
+### Art. 4
 
 1\. Per l'anno 1995, per l'importo di lire 600 miliardi, con decreto del Ministro delle finanze, da emanarsi entro il 31 gennaio 1995, di concerto con i Ministri del tesoro e del lavoro e della previdenza sociale, si provvedera' ad incrementare le detrazioni di cui all'articolo 12, comma 1, lettera b), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, secondo i seguenti criteri:
 
@@ -104,13 +102,13 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 febbraio 1995, n. 41, convertito con modificazioni dalla L. 22 marzo 1995, n. 85 ha disposto (con l'art. 47-quinquies, comma 3) che "Le maggiori detrazioni di cui al comma 1 dell'articolo 4 della legge 23 dicembre 1994, n. 725, sono prorogate, con le stesse modalita' applicative, per gli anni successivi al 1995".
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 21 NOVEMBRE 1997, N. 461))
 
 ## CAPO III - DISPOSIZIONI PER IL SETTORE DEI TRASPORTI
 
-#### Art. 6
+### Art. 6
 
 1\. Per l'anno 1995, il fondo nazionale per il ripiano dei disavanzi di esercizio delle aziende di trasporto pubbliche e private nelle regioni a statuto ordinario, gia' confluito nel fondo comune di cui all'articolo 8 della legge 16 maggio 1970, n. 281, e successive modificazioni, e' fissato nell'importo di lire 5.128 miliardi, ed e' comprensivo dell'importo di lire 531.771.982.000 ai sensi dell'articolo 9 della legge 10 aprile 1981, n. 151, e dell'importo di lire 245 miliardi, di cui lire 153 miliardi per il 1994 e lire 92 miliardi per il 1995, ai sensi dell'articolo 1, comma 4-ter, del decreto-legge 19 dicembre 1992, n. 485, convertito, con modificazioni, dalla legge 17 febbraio 1993, n. 32. Le quote spettanti alle regioni sono determinate in applicazione di criteri e modalita' stabiliti con decreto del Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, ai sensi del decreto legislativo 16 dicembre 1989, n. 418, e devono essere esclusivamente destinate al finanziamento dei servizi di trasporto pubblico locale.
 
@@ -138,19 +136,15 @@ AGGIORNAMENTO (3)
 
 La L. 28 dicembre 1995, n. 550 ha disposto (con l'art. 4, comma 7) che "Il versamento delle rate annuali di cui all'articolo 6, comma 2, della legge 23 dicembre 1994, n. 725, come rideterminate ai sensi dell'articolo 2, comma 2, del decreto-legge 23 febbraio 1995, n. 41, convertito, con modificazioni, dalla legge 22 marzo 1995, n. 85, ha luogo a decorrere dall'anno 1997".
 
-## CAPO IV - DISPOSIZIONI IN MATERIA
+## CAPO IV - DISPOSIZIONI IN MATERIA DI FINANZA REGIONALE
 
-### DI FINANZA REGIONALE
-
-#### Art. 7
+### Art. 7
 
 1\. La quota variabile del fondo per il finanziamento dei programmi regionali di sviluppo di cui all'articolo 3, comma 1, lettera b), della legge 14 giugno 1990, n. 158, al netto degli stanziamenti annuali previsti dalle leggi di settore, e' determinata per ciascuno degli anni 1995, 1996 e 1997 in lire 137 miliardi.
 
-## CAPO V - DISPOSIZIONI
+## CAPO V - DISPOSIZIONI IN MATERIA DI PREVIDENZA
 
-### IN MATERIA DI PREVIDENZA
-
-#### Art. 8
+### Art. 8
 
 1\. L'importo dei versamenti dello Stato all'INPS, per il concorso agli oneri della gestione degli interventi assistenziali e di sostegno alle gestioni previdenziali, ai fini della progressiva assunzione degli oneri stessi a carico del bilancio dello Stato, ai sensi dell'articolo 37 della legge 9 marzo 1989, n. 88, e' complessivamente stabilito a decorrere dall'anno 1995 in lire 1.025 miliardi, di cui lire 25 miliardi a titolo di adeguamento della quota parte di mensilita' delle pensioni erogate dal fondo pensioni lavoratori dipendenti, dalle gestioni dei lavoratori autonomi, dalla gestione speciale minatori e dall'ENPALS, ai sensi del comma 3, lettera c), del suddetto articolo 37. Conseguentemente, la somma di cui all'articolo 21, comma 3, della legge 11 marzo 1988, n. 67, e' stabilita a decorrere dall'anno 1995 in lire 22.494 miliardi, ivi compreso l'adeguamento per lire 550 miliardi gia' operato sull'importo relativo al predetto anno con legge 23 dicembre 1992, n. 500, ed e' assegnata per lire 16.829 miliardi al fondo pensioni lavoratori dipendenti, per lire 1.151 miliardi alla gestione esercenti attivita' commerciali, per lire 1.192 miliardi alla gestione artigiani, per lire 3.240 miliardi alla gestione coltivatori diretti, per lire 3 miliardi alla gestione speciale minatori e per lire 79 miliardi all'ENPALS.
 
@@ -158,7 +152,7 @@ La L. 28 dicembre 1995, n. 550 ha disposto (con l'art. 4, comma 7) che "Il versa
 
 ## CAPO VI - NORME FINALI
 
-#### Art. 9
+### Art. 9
 
 1\. La copertura della presente legge per le nuove o maggiori spese correnti, per le riduzioni di entrata e per le nuove finalizzazioni nette da iscrivere nel fondo speciale di parte corrente viene assicurata, ai sensi dell'articolo 11, comma 5, della legge 5 agosto 1978, n. 468, come sostituito dall'articolo 5 della legge 23 agosto 1988, n. 362, come da prospetto allegato.
 
@@ -180,7 +174,7 @@ Visto, il Guardasigilli: BIONDI
 
 ## CAPO VI - NORME FINALI
 
-#### Prospetto di copertura
+### Prospetto di copertura
 
 PROSPETTO DI COPERTURA
 
@@ -300,7 +294,7 @@ NOTE:
 +=============================+============+============+============+
 ```
 
-#### Tabella A
+### Tabella A
 
 TABELLA A
 
@@ -371,7 +365,7 @@ DI PARTE CORRENTE
 +==============================+============+============+==========+
 ```
 
-#### Tabella B
+### Tabella B
 
 TABELLA B
 
@@ -448,7 +442,7 @@ DI CONTO CAPITALE
 +=============================+============+============+============+
 ```
 
-#### Tabella C
+### Tabella C
 
 TABELLA C
 
@@ -1514,7 +1508,7 @@ Segue: TABELLA C
 +==============================+============+============+============+
 ```
 
-#### Tabella D
+### Tabella D
 
 TABELLA D
 
@@ -1689,7 +1683,7 @@ Segue: TABELLA D
 +======================================================+============+
 ```
 
-#### Tabella E
+### Tabella E
 
 TABELLA E
 
@@ -1781,7 +1775,7 @@ Segue: TABELLA E
 +=============================+============+============+===========+
 ```
 
-#### Tabella F
+### Tabella F
 
 TABELLA F
 

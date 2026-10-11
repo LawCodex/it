@@ -38,11 +38,9 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 Abbiamo sanzionato e promulghiamo quanto segue:
 
-## TITOLO I.
+## TITOLO I. - DELLE GUARENTIGIE DELLA MAGISTRATURA
 
-### DELLE GUARENTIGIE DELLA MAGISTRATURA
-
-#### CAPO I - Della inamovibilita'.
+### CAPO I - Della inamovibilita'.
 
 ##### Art. 1 - Disposizione generale
 
@@ -122,9 +120,7 @@ Tutti i magistrati sono collocati a riposo al compimento del settantesimo anno d
 
 Con successivo decreto saranno emanate le norme transitorie e di attuazione relative alla disposizione di cui al precedente comma, che avranno efficacia dalla data di entrata in vigore del presente decreto.
 
-## CAPO II
-
-### Dei Consigli giudiziari - e del Consiglio superiore della magistratura.
+### CAPO II - Dei Consigli giudiziari e del Consiglio superiore della magistratura.
 
 #### SEZIONE I. - Dei Consigli giudiziari.
 
@@ -132,7 +128,7 @@ Con successivo decreto saranno emanate le norme transitorie e di attuazione rela
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2006, N. 25))
 
-## SEZIONE II. - Del Consiglio superiore della magistratura.
+#### SEZIONE II. - Del Consiglio superiore della magistratura.
 
 ##### Art. 7 - Composizione del Consiglio superiore
 
@@ -194,7 +190,7 @@ Le sezioni unite del Consiglio superiore provvedono sui ricorsi avversi le delib
 
 ## TITOLO II - DELLA DISCIPLINA DELLA MAGISTRATURA
 
-### SEZIONE I. - Della sorveglianza sui magistrati.
+#### SEZIONE I. - Della sorveglianza sui magistrati.
 
 ##### Art. 13 - Poteri di sorveglianza spettanti al Ministro
 
@@ -228,7 +224,7 @@ L'avvocato generale presso la sezione distaccata della Corte di appello esercita
 
 ((Il procuratore della Repubblica presso il tribunale ordinario, il procuratore della Repubblica presso il tribunale per i minorenni e il procuratore della Repubblica presso la pretura esercitano la sorveglianza sui magistrati addetti ai rispettivi uffici)).
 
-## SEZIONE II. - Della disciplina dei magistrati.
+#### SEZIONE II. - Della disciplina dei magistrati.
 
 ##### Art. 17
 
@@ -250,7 +246,7 @@ L'avvocato generale presso la sezione distaccata della Corte di appello esercita
 
 ((ARTICOLO ABROGATO DAL D.LGS. 23 FEBBRAIO 2006, N. 109))
 
-## SEZIONE III. - Dei Tribunali disciplinari.
+#### SEZIONE III. - Dei Tribunali disciplinari.
 
 ##### Art. 22 - Competenza per i procedimenti disciplinari
 
@@ -300,9 +296,7 @@ Le funzioni di pubblico ministero sono esercitate Tal procuratore generale press
 
 E' ammessa la delega, volta per volta, ad altro magistrato requirente di grado non inferiore al 6° nel primo e al 4° nel secondo caso.
 
-## CAPO IV.
-
-### Del procedimento disciplinare.
+### CAPO IV. - Del procedimento disciplinare.
 
 ##### Art. 27
 
@@ -354,9 +348,7 @@ E' ammessa la delega, volta per volta, ad altro magistrato requirente di grado n
 
 PRESENTE ARTICOLO))
 
-## TITOLO III
-
-### DISPOSIZIONI VARIE E TRANSITORIE
+## TITOLO III - DISPOSIZIONI VARIE E TRANSITORIE
 
 ##### Art. 39 - Funzioni del pubblico ministero
 

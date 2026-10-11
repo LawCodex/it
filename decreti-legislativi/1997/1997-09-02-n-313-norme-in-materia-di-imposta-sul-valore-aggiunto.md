@@ -38,11 +38,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - Modifiche e integrazioni
+## Capo I - Modifiche e integrazioni alle disposizioni generali
 
-### alle disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Modifiche al regime IVA in tema di cessioni di beni di esercizio di impresa e di effettuazione delle operazioni
 
@@ -346,7 +344,7 @@ b) il possesso, non strumentale ne' accessorio ad altre attivita' esercitate, di
 
 > "In caso di mutamento di aliquota le fatture emesse, ai sensi dell'art. 21 con riferimento ai momenti di effettuazione di cui all'art. 6, commi primo, secondo e quarto, nei confronti dei soggetti indicati nell'ultimo comma dello stesso art. 6, non sono soggette a rettifica in relazione all'aliquota applicabile al momento del pagamento del corrispettivo dell'operazione".
 
-#### Art. 2
+### Art. 2
 
 Modifiche al sistema della detrazione
 
@@ -542,7 +540,7 @@ Art. 19-bis (Percentuale di detrazione). - 1. La percentuale di detrazione di cu
 
 > In tutti i casi nei quali l'imposta e' applicata separatamente per una determinata attivita' la detrazione di cui all'art. 19, se ridotta ai sensi del terzo comma dello stesso articolo ovvero se applicata forfettariamente, e' ammessa per l'imposta relativa ai beni e ai servizi utilizzati promiscuamente, nei limiti della parte imputabile all'esercizio dell'attivita' stessa; i passaggi di servizi all'attivita' soggetta a detrazione ridotta o forfettaria costituiscono prestazioni di servizio ai sensi dell'art. 3 e si considerano effettuati, in base al loro valore normale, nel momento in cui sono rese. Per i passaggi interni dei beni tra attivita' separate si applicano le disposizioni degli artt. 21 e seguenti, con riferimento al loro valore normale, e le annotazioni di cui agli artt. 23 e 25 devono essere eseguite nello stesso mese. Per i passaggi dei beni all'attivita' di commercio al minuto di cui al terzo comma dell'art. 24 e per quelli da questa ad altra attivita', l'imposta non e' dovuta, ma i passaggi stessi devono essere annotati, in base al corrispettivo di acquisto dei beni, entro il giorno non festivo successivo a quello del passaggio. Le annotazioni devono essere eseguite, distintamente in base all'aliquota applicabile per le relative cessioni, nei registri di cui agli artt. 23, 24 e 25, ovvero in apposito registro tenuto a norma dell'art. 39. La dichiarazione annuale deve essere presentata su un unico modello per tutte le attivita' secondo le modalita' stabilite nel decreto di cui al primo comma dell'art. 28 e i versamenti di cui agli artt. 27, 30 e 33 devono essere eseguiti per l'ammontare complessivo dovuto, al netto delle eccedenze detraibili".
 
-#### Art. 3
+### Art. 3
 
 Modifiche al regime delle esclusioni
 
@@ -684,11 +682,9 @@ i) non e' ammessa in detrazione l'imposta relativa all'acquisto di fabbricati, o
 
 > 4\. Si applica la disposizione del comma 9 dell'art. 67".
 
-## Capo II - Modifiche e integrazioni agli obblighi
+## Capo II - Modifiche e integrazioni agli obblighi dei contribuenti e ai regimi speciali
 
-### dei contribuenti e ai regimi speciali
-
-#### Art. 4
+### Art. 4
 
 Modifiche agli obblighi contabili dei contribuenti
 
@@ -706,7 +702,7 @@ c) ((LETTERA ABROGATA DAL D.P.R. 22 LUGLIO 1998, N. 322)).
 
 2\. E' abrogato il comma 5 dell'articolo 6 del decreto del Presidente della Repubblica 9 dicembre 1996, n. 695.
 
-#### Art. 5
+### Art. 5
 
 Modifiche al regime speciale per il settore agricolo
 
@@ -832,7 +828,7 @@ L'opzione ha effetto dal primo gennaio dell'anno in corso fino a quando non e' r
 
 > Le disposizioni di cui al precedente comma trovano applicazione per gli enti indicati ai numeri 1), 3), 4) e 5) allorche' le cessioni di beni e le prestazioni di servizi siano di importo superiore a lire cinquecentomila (240); per gli enti indicati nel numero 1), tuttavia, le disposizioni non si applicano alle operazioni per le quali risulta beneficiario un soggetto diverso, ancorche' il relativo onere sia a carico degli enti e dei soggetti ivi indicati. Il predetto limite di lire cinquecentomila non si applica alle cessioni di prodotti soggetti ad accisa, per le quali la non imponibilita' all'imposta sul valore aggiunto opera alle stesse condizioni e negli stessi limiti in cui viene concessa l'esenzione dai diritti di accisa.
 
-#### Art. 6
+### Art. 6
 
 Modifiche al regime IVA per il settore editoriale
 
@@ -988,7 +984,7 @@ Modifiche al regime IVA per il settore editoriale
 
 > (omissis)".
 
-#### Art. 7
+### Art. 7
 
 Modifiche al regime IVA
 
@@ -1002,7 +998,7 @@ La detrazione di cui all'articolo 19 e' forfettizzata in misura pari al cinquant
 
 > \- Il testo dell'art. 74 del decreto del Presidente della Repubblica n. 633/1972, come modificato dal presente decreto, ed i relativi rinvii normativi, sono riportati in nota all'art. 6.
 
-#### Art. 8
+### Art. 8
 
 Disposizioni relative a particolari settori
 
@@ -1018,7 +1014,7 @@ Disposizioni relative a particolari settori
 
 > \- Il testo dell'art. 74 del decreto del Presidente della Repubblica n. 633/1972, come modificato dal presente decreto, ed i relativi rinvii normativi, sono riportati in nota all'art. 6.
 
-#### Art. 9
+### Art. 9
 
 Modifiche al regime IVA
 
@@ -1078,7 +1074,7 @@ Se le operazioni sono effettuate tramite intermediari, la fattura puo' essere em
 
 > \- Il testo dell'art. 17, comma 3, legge n. 400/1988, richiamato all'art. 74-ter del decreto del Presidente della Repubblica n. 633/1972, e' riportato in nota all'art. 5.
 
-#### Art. 10
+### Art. 10
 
 Termini di decadenza per l'accertamento
 
@@ -1096,7 +1092,7 @@ delle dichiarazioni a rimborso
 
 > Fino alla scadenza del termine stabilito nei commi precedenti le rettifiche e gli accertamenti possono essere integrati o modificati, mediante la notificazione di nuovi avvisi, in base alla sopravvenuta conoscenza di nuovi elementi. Nell'avviso devono essere specificamente indicati, a pena di nullita', i nuovi elementi e gli atti o fatti attraverso i quali sono venuti a conoscenza dell'ufficio dell'imposta sul valore aggiunto".
 
-#### Art. 11
+### Art. 11
 
 Disposizioni transitorie
 

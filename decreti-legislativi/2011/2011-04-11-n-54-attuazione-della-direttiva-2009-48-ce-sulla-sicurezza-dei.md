@@ -58,11 +58,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Campo d'applicazione
 
@@ -322,7 +320,7 @@ e) alle fionde e alle catapulte.
 
 > La direttiva 88/378/CEE e' pubblicata nella G.U.C.E. 16 luglio 1988, n. L 187.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -392,11 +390,9 @@ hh) destinato a essere utilizzato da: indicazione atta a permettere a un genitor
 
 > Per i riferimenti del regolamento (CE) n.765/2008 si vedano le note alle premesse.
 
-## Capo II
+## Capo II - Obblighi degli operatori economici
 
-### Obblighi degli operatori economici
-
-#### Art. 3
+### Art. 3
 
 Obblighi dei fabbricanti
 
@@ -424,7 +420,7 @@ Inoltre, qualora il giocattolo presenti un rischio, i fabbricanti ne informano i
 
 10\. I fabbricanti, a seguito di una richiesta motivata delle autorita' competenti forniscono tutte le informazioni e la documentazione necessarie per dimostrare la conformita' del giocattolo, in lingua italiana o inglese. Essi collaborano con tale autorita', ove richiesto dalle medesime, in ordine alle azioni intraprese per eliminare i rischi presentati dai giocattoli che essi hanno immesso sul mercato, compresi il ritiro e il richiamo dei giocattoli non conformi.
 
-#### Art. 4
+### Art. 4
 
 Rappresentanti autorizzati
 
@@ -440,7 +436,7 @@ b) a seguito di una richiesta motivata dell'autorita' competente, fornire tutte 
 
 c) cooperare, su richiesta, con l'autorita' competente, in ordine a qualsiasi azione intrapresa per eliminare i rischi presentati dai giocattoli che rientrano nel loro mandato.
 
-#### Art. 5
+### Art. 5
 
 Obblighi degli importatori
 
@@ -468,7 +464,7 @@ Inoltre, qualora il giocattolo presenti un rischio, gli importatori ne informano
 
 10\. Gli importatori, a seguito di una richiesta motivata delle autorita' competenti, forniscono tutte le informazioni e la documentazione necessarie per dimostrare la conformita' del giocattolo, in lingua italiana o inglese. Essi collaborano con tali autorita', ove richiesto dalle medesime, in ordine alle azioni intraprese per eliminare i rischi presentati dai giocattoli che essi hanno immesso sul mercato, compresi il ritiro e il richiamo dei giocattoli non conformi.
 
-#### Art. 6
+### Art. 6
 
 Obblighi dei distributori
 
@@ -484,13 +480,13 @@ Obblighi dei distributori
 
 6\. I distributori, a seguito di una richiesta motivata delle autorita' competenti, forniscono tutte le informazioni e la documentazione necessarie per dimostrare la conformita' del prodotto e collaborano con tali autorita', ove richiesto dalle medesime, in ordine alle azioni intraprese per eliminare i rischi presentati dai giocattoli che essi hanno messo a disposizione compresi il ritiro e il richiamo dei giocattoli non conformi.
 
-#### Art. 7
+### Art. 7
 
 Casi in cui gli obblighi dei fabbricanti sono applicati agli importatori e ai distributori
 
 1\. Un importatore o distributore e' ritenuto un fabbricante ai fini del presente decreto, ed e' soggetto agli obblighi del fabbricante di cui all'articolo 3, quando immette sul mercato un giocattolo con il proprio nome, denominazione commerciale o marchio o modifica un giocattolo gia' immesso sul mercato, in modo tale che la conformita' alle prescrizioni previste dal presente decreto potrebbe esserne condizionata.
 
-#### Art. 8
+### Art. 8
 
 Identificazione degli operatori economici
 
@@ -498,11 +494,9 @@ Identificazione degli operatori economici
 
 2\. Gli operatori economici conservano le informazioni di cui al comma 1 per un periodo di dieci anni dopo l'immissione sul mercato del giocattolo, nel caso del fabbricante, e per un periodo di dieci anni dopo la fornitura del giocattolo, nel caso di altri operatori economici.
 
-## Capo III
+## Capo III - Conformita' dei giocattoli
 
-### Conformita' dei giocattoli
-
-#### Art. 9
+### Art. 9
 
 Requisiti essenziali di sicurezza
 
@@ -514,7 +508,7 @@ Requisiti essenziali di sicurezza
 
 4\. I giocattoli immessi sul mercato devono essere conformi ai requisiti essenziali di sicurezza per tutta la durata di impiego prevedibile e normale dei giocattoli stessi.
 
-#### Art. 10
+### Art. 10
 
 Avvertenze
 
@@ -528,13 +522,13 @@ Avvertenze
 
 5\. Le avvertenze e le istruzioni di sicurezza devono essere redatte almeno in lingua italiana. Le avvertenze sono precedute dalla parola: «Attenzione» o dalla parola: «Avvertenza» o: «Avvertenze» a seconda dei casi.
 
-#### Art. 11
+### Art. 11
 
 Presunzione di conformita'
 
 1\. I giocattoli che sono conformi alle norme armonizzate o a parti di esse, i cui riferimenti sono stati pubblicati nella Gazzetta Ufficiale dell'Unione europea, sono considerati conformi alle prescrizioni di cui all'articolo 9 e all'allegato II contemplate da tali norme o da parte di esse.
 
-#### Art. 12
+### Art. 12
 
 Obiezione formale ad una norma armonizzata
 
@@ -544,7 +538,7 @@ Obiezione formale ad una norma armonizzata
 
 > Per i riferimenti della direttiva 98/34/CE si vedano le note all'art. 2.
 
-#### Art. 13
+### Art. 13
 
 Dichiarazione CE di conformita'
 
@@ -558,7 +552,7 @@ Dichiarazione CE di conformita'
 
 > Per i riferimenti della decisione 768/2008/CE si vedano le note alle premesse.
 
-#### Art. 14
+### Art. 14
 
 Marcatura CE
 
@@ -576,17 +570,15 @@ Marcatura CE
 
 > Per i riferimenti del regolamento (CE) n.765/2008 si vedano le note alle premesse.
 
-## Capo IV
+## Capo IV - Valutazione della conformita'
 
-### Valutazione della conformita'
-
-#### Art. 15
+### Art. 15
 
 Valutazione della sicurezza
 
 1\. Prima di immettere un giocattolo sul mercato i fabbricanti effettuano un'analisi dei pericoli chimici, fisico-meccanici ed elettrici, di infiammabilita', di igiene e di radioattivita' che lo stesso puo' presentare, e effettuano una valutazione della potenziale esposizione a tali pericoli.
 
-#### Art. 16
+### Art. 16
 
 Procedure di valutazione della conformita'
 
@@ -608,7 +600,7 @@ d) quando il fabbricante ritiene che la natura, la progettazione, la costruzione
 
 > Per i riferimenti della decisione 768/2008/CE si vedano le note alle premesse.
 
-#### Art. 17
+### Art. 17
 
 Esame CE del tipo
 
@@ -628,7 +620,7 @@ Esame CE del tipo
 
 > Per i riferimenti della decisione 768/2008/CE e della direttiva 2009/48/CE si vedano le note alle premesse.
 
-#### Art. 18
+### Art. 18
 
 Documentazione del prodotto
 
@@ -640,11 +632,9 @@ Documentazione del prodotto
 
 4\. Nel caso in cui il fabbricante non osservi gli obblighi di cui ai commi 1, 2 e 3, l'autorita' di vigilanza del mercato puo' richiedere che il fabbricante faccia effettuare a proprie spese una prova, entro un termine determinato, da parte di un organismo notificato per verificare la conformita' alle norme armonizzate e ai requisiti essenziali di sicurezza.
 
-## Capo V
+## Capo V - Notifica degli organismi di valutazione della conformita'
 
-### Notifica degli organismi di valutazione della conformita'
-
-#### Art. 19
+### Art. 19
 
 Autorita' di notifica e Organismo nazionale di accreditamento
 
@@ -664,7 +654,7 @@ Autorita' di notifica e Organismo nazionale di accreditamento
 
 > Per i riferimenti del regolamento (CE) n.765/2008 si vedano le note alle premesse.
 
-#### Art. 20
+### Art. 20
 
 Autorizzazione degli Organismi notificati
 
@@ -694,7 +684,7 @@ Autorizzazione degli Organismi notificati
 
 > 6\. I decreti di cui al comma 4 sono emanati entro sessanta giorni dalla data di entrata in vigore dei provvedimenti di recepimento delle direttive che prevedono l'apposizione della marcatura CE; trascorso tale termine, si provvede con decreto del Presidente del Consiglio dei ministri, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica; le amministrazioni inadempienti sono tenute a fornire i dati di rispettiva competenza.»
 
-#### Art. 21
+### Art. 21
 
 Prescrizioni relative agli organismi notificati
 
@@ -742,7 +732,7 @@ d) la capacita' di elaborare certificati, registri e rapporti atti a dimostrare 
 
 > Per i rifermenti della direttiva 2009/48/CE si vedano le note alle premesse.
 
-#### Art. 22
+### Art. 22
 
 Affiliate e subappaltatori degli organismi notificati
 
@@ -754,7 +744,7 @@ Affiliate e subappaltatori degli organismi notificati
 
 4\. Gli organismi notificati mantengono a disposizione dell'autorita' di notifica i documenti pertinenti riguardanti la valutazione delle qualifiche del subappaltatore o dell'affiliata e del lavoro eseguito da questi ultimi a norma dell'articolo 17.
 
-#### Art. 23
+### Art. 23
 
 Procedura di notifica
 
@@ -768,7 +758,7 @@ Procedura di notifica
 
 5\. Eventuali modifiche pertinenti successive riguardanti la notifica sono comunicate dal Ministero dello sviluppo economico alla Commissione e agli altri Stati membri.
 
-#### Art. 24
+### Art. 24
 
 Modifiche delle notifiche
 
@@ -776,7 +766,7 @@ Modifiche delle notifiche
 
 2\. Nel caso di limitazione, sospensione o ritiro della notifica, oppure di cessazione dell'attivita' dell'organismo notificato, il Ministero dello sviluppo economico adotta le misure appropriate per garantire che le pratiche di tale organismo siano evase da un altro organismo notificato.
 
-#### Art. 25
+### Art. 25
 
 Contestazione della competenza degli organismi notificati
 
@@ -784,7 +774,7 @@ Contestazione della competenza degli organismi notificati
 
 2\. Il Ministero dello sviluppo economico prende le misure correttive necessarie, incluso all'occorrenza il ritiro della notifica, qualora la Commissione accerti che un organismo notificato non soddisfa o non soddisfa piu' le prescrizioni per la sua notificazione.
 
-#### Art. 26
+### Art. 26
 
 Obblighi operativi degli organismi notificati
 
@@ -802,7 +792,7 @@ Gli organismi di valutazione della conformita' svolgono le loro attivita' tenend
 
 6\. Un organismo notificato non rilascia certificati di esame CE del tipo in relazione a giocattoli per i quali sia stato rifiutato o ritirato un certificato.
 
-#### Art. 27
+### Art. 27
 
 Obbligo di informazione a carico degli organismi notificati
 
@@ -818,7 +808,7 @@ d) su richiesta, delle attivita' di valutazione della conformita' eseguite nell'
 
 2\. Gli organismi notificati forniscono agli altri organismi notificati a norma del presente decreto, le cui attivita' di valutazione della conformita' sono simili e coprono gli stessi giocattoli, informazioni pertinenti sulle questioni relative ai risultati negativi e, su richiesta, positivi, delle valutazioni della conformita'.
 
-#### Art. 28
+### Art. 28
 
 Istruzioni all'organismo notificato
 
@@ -828,11 +818,9 @@ Istruzioni all'organismo notificato
 
 3\. L'autorita' di vigilanza del mercato, all'occorrenza, e in particolare nei casi specificati all'articolo 17, comma 5, richiede all'organismo notificato di rivedere l'attestato d'esame CE del tipo.
 
-## Capo VI
+## Capo VI - Vigilanza e sanzioni
 
-### Vigilanza e sanzioni
-
-#### Art. 29
+### Art. 29
 
 Autorita' di vigilanza del mercato e controlli alle frontiere esterne
 
@@ -950,7 +938,7 @@ Autorita' di vigilanza del mercato e controlli alle frontiere esterne
 
 > 4\. Restano ferme le disposizioni della legge 1° aprile 1981, n. 121.»
 
-#### Art. 30
+### Art. 30
 
 Controlli
 
@@ -976,7 +964,7 @@ Decorso inutilmente tale termine, vieta l'immissione del giocattolo sul mercato 
 
 > Per i riferimenti del regolamento (CE) n.765/2008 si vedano le note alle premesse.
 
-#### Art. 31
+### Art. 31
 
 Sanzioni
 
@@ -1000,7 +988,7 @@ Sanzioni
 
 10\. Le sanzioni amministrative di cui al presente articolo sono irrogate dalla Camera di commercio, industria, artigianato e agricoltura territorialmente competente.
 
-#### Art. 32
+### Art. 32
 
 Aggiornamento
 
@@ -1016,7 +1004,7 @@ Aggiornamento
 
 > 5\. Nelle materie di cui all'art. 117, secondo comma, della Costituzione, non disciplinate dalla legge o da regolamento emanato ai sensi dell'art. 17, commi 1 e 2, della legge 23 agosto 1988, n. 400, e successive modificazioni, e non coperte da riserva di legge, le direttive possono essere attuate con regolamento ministeriale o interministeriale, ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, o con atto amministrativo generale da parte del Ministro con competenza prevalente per la materia, di concerto con gli altri Ministri interessati. Con le medesime modalita' sono attuate le successive modifiche e integrazioni delle direttive.»
 
-#### Art. 33
+### Art. 33
 
 Abrogazioni
 
@@ -1034,7 +1022,7 @@ E' possibile visualizzare il testo originario accedendo alla versione pdf della 
 
 > Per i riferimenti del decreto legislativo 27 settembre 1991, n.313 si vedano le note alle premesse.
 
-#### Art. 34
+### Art. 34
 
 Norme transitorie e finali
 
@@ -1046,7 +1034,7 @@ Norme transitorie e finali
 
 > Per i riferimenti al decreto legislativo 27 settembre 1991, n.313 si vedano le note alle premesse.
 
-#### Art. 35
+### Art. 35
 
 Disposizione finanziaria
 
@@ -1074,11 +1062,9 @@ Tremonti, Ministro dell'economia e delle finanze
 
 Visto, il Guardasigilli: Alfano
 
-## Capo VI
+## Capo VI - Vigilanza e sanzioni
 
-### Vigilanza e sanzioni
-
-#### Allegato I
+### Allegato I
 
 ALLEGATO I
 
@@ -1134,7 +1120,7 @@ e) riproduzioni di armi da fuoco reali;
 
 19\. Accessori moda per bambini non destinati ad essere usati a scopo ludico.
 
-#### Allegato II
+### Allegato II
 
 ALLEGATO II
 
@@ -2023,7 +2009,7 @@ AGGIORNAMENTO (13)
 
 Il Decreto 19 maggio 2026 (in G.U. 21/7/2026, n. 167) ha disposto (con l'art. 3, comma 1 che la presente modifica si applica dal 29 agosto 2026.
 
-#### Allegato III
+### Allegato III
 
 ALLEGATO III
 
@@ -2053,7 +2039,7 @@ Firmato a nome e per conto di:
 
 (nome e cognome, funzione) (firma)
 
-#### Allegato IV
+### Allegato IV
 
 ALLEGATO IV
 
@@ -2079,7 +2065,7 @@ g) relazioni delle prove e descrizione dei mezzi mediante i quali il fabbricante
 
 h) una copia del certificato d'esame CE del tipo, una descrizione dei mezzi mediante i quali il fabbricante ha garantito la conformita' della produzione al tipo descritto in detto attestato, nonche' copia dei documenti presentati dal fabbricante all'organismo notificato, nel caso in cui il fabbricante abbia sottoposto il giocattolo alla procedura di esame CE del tipo ed abbia seguito la procedura di dichiarazione di conformita' del tipo di cui all'articolo 16, comma 3.
 
-#### Allegato V
+### Allegato V
 
 ALLEGATO V
 

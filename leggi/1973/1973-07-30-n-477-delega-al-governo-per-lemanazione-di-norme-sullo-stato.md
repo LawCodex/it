@@ -28,7 +28,7 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Governo della Repubblica e' delegato ad emanare, entro nove mesi dall'entrata in vigore della presente legge e con l'osservanza dei principi e dei criteri direttivi appresso indicati, uno o piu' decreti con valore di legge ordinaria:
 
@@ -66,7 +66,7 @@ Successivamente la Corte Costituzionale con sentenza 12 - 18 novembre 1976, n. 2
 
 ## TITOLO I - PERSONALE DIRETTIVO, ISPETTIVO E DOCENTE
 
-#### Art. 2
+### Art. 2
 
 LO stato giuridico del personale di cui alla lettera a) del precedente articolo dovra' tenore conto, nel quadro dei principi costituzionali, della natura della professione docente e dei caratteri richiesti dal suo esercizio in una scuola adeguata alle esigenze personali e sociali e in, una comunita' scolastica nella quale si attua non solo la trasmissione della cultura ma anche il continuo e autonomo processo di elaborazione di essa, in stretto rapporto con la societa', per il pieno sviluppo della personalita' dell'alunno nell'attuazione del diritto allo studio.
 
@@ -74,7 +74,7 @@ Esso inoltre dovra' ispirarsi ad un corretto criterio di distinzione fra le comp
 
 La revisione della posizione del predetto personale dovra' tenere conto dell'impegno richiesto e delle responsabilita' culturali, didattiche e sociali ad esso connesse.
 
-#### Art. 3
+### Art. 3
 
 Sara' rivalutata la posizione del personale direttivo, ispettivo e docente, nei suoi vari aspetti, anche in conseguenza dei maggiori impegni culturali e professionali gia' in atto e di quelli richiesti dalla presente legge, con particolare riguardo alle attivita' di autoaggiornamento, alla partecipazione agli organi collegiali della scuola, ai rapporti con gli altri docenti ai fini dell'azione di coordinamento didattico e interdisciplinare, ai rapporti con gli altri operatori ed esperti che collaborano all'attivita' educativa della scuola con assistenza medico-socio-psicopedagogica, alla presenza nelle attivita' di partecipazione degli alunni nella vita della scuola, ai rapporti con le famiglie.
 
@@ -88,7 +88,7 @@ Gli effetti economici e il conseguente onere finanziario verranno distribuiti in
 
 Sara' mantenuto il passaggio anticipato a classi superiori di stipendio per merito distinto, da conseguirsi mediante sostituzione degli attuali concorsi con forme nuove di accertamento del progresso culturale e professionale del docente.
 
-#### Art. 4
+### Art. 4
 
 Lo stato giuridico del personale di cui alla lettera a) dell'articolo 1 della presente legge dovra' stabilire:
 
@@ -160,11 +160,9 @@ AGGIORNAMENTO (4)
 
 La Corte Costituzionale, con sentenza 12 - 18 novembre 1976, n. 226 (in G.U. 1a s.s. 24/11/1976, n. 314) ha dichiarato "la illegittimita' costituzionale dell'art. 4, ultimo comma, della legge n. 477 del 30 luglio 1973"
 
-## TITOLO II - ISTITUZIONE E RIORDINAMENTO
+## TITOLO II - ISTITUZIONE E RIORDINAMENTO DI ORGANI COLLEGIALI
 
-### DI ORGANI COLLEGIALI
-
-#### Art. 5
+### Art. 5
 
 L'istituzione di nuovi organi collegiali di governo e il riordinamento di quelli esistenti saranno finalizzati a realizzare la partecipazione nella gestione della scuola nel rispetto degli ordinamenti della scuola dello Stato e delle competenze e delle responsabilita' di cui all'articolo 4 della presente legge, dando alla scuola stessa caratteri di una comunita' che interagisce con la piu' vasta comunita' sociale e civica.
 
@@ -178,7 +176,7 @@ a livello provinciale;
 
 a livello nazionale.
 
-#### Art. 6
+### Art. 6
 
 I circoli didattici e gli istituti scolastici saranno dotati di autonomia amministrativa per quanto concerne le spese di funzionamento amministrativo e didattico per le quali saranno attribuiti annualmente appositi stanziamenti, e dovranno disporre, per l'espletamento delle mansioni conseguenti, di apposito personale qualificato le cui carriere saranno definite in sede di ristrutturazione secondo quanto previsto dal punto 1) del successivo articolo 10.
 
@@ -220,7 +218,7 @@ Saranno altresi' disciplinate le modalita' di partecipazione degli studenti di e
 
 La composizione e il funzionamento degli organi collegiali di cui all'articolo 20 della legge 18 marzo 1968, n. 444, saranno riveduti per adeguarli, in tutto quanto sia compatibile con la struttura della scuola materna, alle norme previste dal presente articolo.
 
-#### Art. 7
+### Art. 7
 
 Su proposta delle regioni e sentiti gli enti locali e gli organi periferici, il Ministro per la pubblica istruzione procedera' alla suddivisione del territorio regionale in comprensori scolastici, di norma subprovinciali, denominati distretti scolastici, nel cui ambito dovra', di regola, essere assicurata la presenza di tutti gli ordini e gradi di scuola, ad eccezione delle universita', delle accademie di belle arti e dei conservatori di musica. Con la stessa procedura si provvedera' ad eventuali variazioni.
 
@@ -244,7 +242,7 @@ d) le norme concernenti i rapporti con l'amministrazione scolastica, la regione 
 
 e) le modalita' per assicurare la pubblicita' dei pareri e delle deliberazioni del consiglio.
 
-#### Art. 8
+### Art. 8
 
 A livello provinciale sara' riordinato, secondo i criteri appresso indicati, il consiglio scolastico provinciale, comprendendo nell'ambito della sua competenza le scuole materne, elementari, secondarie ed artistiche della provincia.
 
@@ -266,7 +264,7 @@ Il consiglio scolastico provinciale durera' in carica tre anni, con possibilita'
 
 Le norme di cui al presente articolo si osservano, in quanto applicabili, per il consiglio scolastico regionale della Valle di Aosta.
 
-#### Art. 9
+### Art. 9
 
 A livello nazionale sara' istituito il Consiglio nazionale della pubblica istruzione, che sostituira' la seconda e la terza sezione
 
@@ -308,7 +306,7 @@ I decreti delegati stabiliranno il numero dei componenti, la ripartizione delle 
 
 ## TITOLO III - PERSONALE NON DOCENTE
 
-#### Art. 10
+### Art. 10
 
 Lo stato giuridico del personale non insegnante di cui alla lettera c) dell'articolo 1 dovra' stabilire:
 
@@ -340,11 +338,11 @@ Saranno previste disposizioni particolari per la disciplina dello stato giuridic
 
 ## TITOLO IV - DISPOSIZIONI FINANZIARIE TRANSITORIE, COMUNI E FINALI
 
-#### Art. 11
+### Art. 11
 
 Saranno dettate opportune norme transitorie in relazione al riordinamento dei ruoli ed alla ristrutturazione delle carriere di cui ai precedenti articoli 1, 3 e 10 ed a quanto altro potra' derivare dall'applicazione della presente legge.
 
-#### Art. 12
+### Art. 12
 
 Al personale ispettivo, direttivo, docente e non docente della scuola materna, elementare, secondaria e artistica e' attribuito, a decorrere dal 1 settembre 1973, un assegno annuo pensionabile e utile ai fini dell'indennita' di buonuscita, con esclusione di ogni effetto sugli aumenti periodici di stipendio, sullo straordinario e sulla tredicesima mensilita', nelle misure di cui alla tabella allegata.
 
@@ -356,7 +354,7 @@ Con apposito decreto delegato saranno disciplinati i limiti, le misure orarie e 
 
 ((COMMA ABROGATO DALLA L. 15 NOVEMBRE 1973, N. 734))
 
-#### Art. 13
+### Art. 13
 
 In relazione a quanto disposto dal precedente articolo 12 nei
 
@@ -370,7 +368,7 @@ La legge 30 gennaio 1962, n. 14, l'articolo 3 della legge 20 maggio 1966, n. 335
 
 Le norme del presente articolo hanno effetto dal 1 settembre 1973.
 
-#### Art. 14
+### Art. 14
 
 Agli effetti della carriera, della quiescenza e della previdenza, per il personale di cui all'articolo 1 della presente legge sara' riordinata la disciplina del riconoscimento o riscatto di tutti i servizi scolastici, di ruolo o non di ruolo, prestati in ogni tipo di scuola statale in Italia e all'estero, nonche' del servizio militare prestato prima della nomina in ruolo. A tal fine, il servizio prestato in qualita' di professore incaricato o assistente incaricato o straordinario nelle universita' sara' equiparato a quello svolto con la qualifica massima nelle scuole secondarie superiori.
 
@@ -378,7 +376,7 @@ Il servizio prestato nelle scuole legalmente riconosciute, nonche' i servizi non
 
 Lo stipendio mensile del personale della scuola, che passa ad altra carriera della stessa amministrazione, non potra' essere inferiore a quello percepito nella precedente carriera al momento del passaggio.
 
-#### Art. 15
+### Art. 15
 
 A decorrere dal 1 ottobre 1974 il collocamento a riposo per raggiunti limiti di eta' per il personale ispettivo, direttivo, docente e non docente della scuola materna, primaria, secondaria ed artistica avviene il 1 ottobre successivo alla data di compimento del 65° anno di eta'.
 
@@ -416,7 +414,7 @@ AGGIORNAMENTO (8)
 
 La Corte Costituzionale con sentenza 26 settembre-12 ottobre 1990 (in G.U. 1a s.s. 14/10/1990, n. 41) "Riuniti i giudizi, dichiara l'illegittimita' costituzionale dell'art. 15, terzo comma, della legge 30 luglio 1973, n. 477 (Delega al Governo per l'emanazione di norme sullo stato giuridico del personale direttivo, ispettivo, docente e non docente della scuola materna, elementare, secondaria e artistica dello Stato), nella parte in cui non consente al personale assunto dopo il 1 ottobre 1974, che al compimento del 65 anno di eta' non abbia raggiunto il numero di anni richiesto per ottenere il minimo della pensione, di rimanere in servizio su richiesta fino al conseguimento di tale anzianita' minima (e comunque non oltre il 70 anno di eta')."
 
-#### Art. 16
+### Art. 16
 
 Ai docenti per il cui insegnamento e' richiesto o consentito il diploma di istruzione secondaria di secondo grado e che siano attualmente inquadrati nel ruolo B, ed a quelli che per gli stessi insegnamenti siano iscritti nelle graduatorie ad esaurimento ai sensi delle leggi 28 luglio 1961, n. 831, 25 luglio 1966, n. 603, e successive modificazioni e integrazioni, e 2 aprile 1968, n. 468, e' riconosciuto il diritto all'inquadramento nel ruolo dei docenti di materie per il cui insegnamento e' richiesto il diploma di laurea o il diploma di istituto superiore di cui al comma secondo dell'articolo 3 della presente legge.
 
@@ -424,7 +422,7 @@ Tale diritto e' riconosciuto anche a coloro che, in possesso del titolo di abili
 
 571\.
 
-#### Art. 17
+### Art. 17
 
 Gli insegnanti incaricati a tempo indeterminato nelle scuole secondarie ed artistiche che abbiano gia' conseguito il titolo di abilitazione valido per l'insegnamento per il quale sono incaricati e nell'anno scolastico, 1973-1974 occupino una cattedra o posto orario sono nominati in ruolo, con decorrenza 1 ottobre 1974.
 
@@ -448,13 +446,13 @@ AGGIORNAMENTO (1a)
 
 Successivamente la Corte Costituzionale, con sentenza 9-20 marzo 1978, n. 25 (in G.U. 1a s.s. 29/03/1978, n. 87) ha dichiarato l'illegittimita' costituzionale dell'articolo unico (che ha introdotto due commi infine all'art. 17) " nella parte in cui non comprende tra gli aventi diritto alla immissione nel ruolo degli istituti di istruzione secondaria superiore ed artistica gli insegnanti che, in possesso degli altri requisiti richiesti, abbiano ottenuto, con effetto dal 1 ottobre 1973, la immissione nel ruolo della scuola media inferiore, continuando, nell'anno 1973/1974, nel servizio presso istituti di istruzione secondaria superiore ed artistica, in base a provvedimento amministrativo adottato nel corso dell'anno scolastico anzidetto".
 
-#### Art. 18
+### Art. 18
 
 Le norme delegate saranno emanate con decreto del Presidente della Repubblica su proposta del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro e con il Ministro per la riforma della pubblica amministrazione, udito il parere di una commissione composta di dieci senatori e di dieci deputati, in rappresentanza proporzionale dei gruppi parlamentari, nominati dai Presidenti delle rispettive Camere su designazione dei presidenti dei gruppi stessi, integrata da 12 rappresentanti dei sindacati che organizzano il personale direttivo, ispettivo, docente e non docente della scuola materna, elementare, secondaria, artistica nominati dal Ministro per la pubblica istruzione su designazione delle organizzazioni sindacali a carattere nazionale e da quattro esperti dei problemi scolastici scelti dal Ministro per la pubblica istruzione.
 
 Sara' garantita alle riunioni della commissione la presenza dei membri del Governo preposti ai Ministeri di competenza.
 
-#### Art. 19
+### Art. 19
 
 I decreti delegati conterranno le norme di attuazione della presente legge per le scuole con lingua d'insegnamento diversa da quella italiana.
 
@@ -464,25 +462,25 @@ Con apposito decreto delegato si provvedera' alla definizione degli organici del
 
 L'applicazione delle norme della presente legge per la Valle d'Aosta si effettuera' in armonia con le disposizioni dello statuto, sentita comunque la regione.
 
-#### Art. 20
+### Art. 20
 
 Al personale della scuola esonerato dal servizio ai sensi della legge 18 marzo 1968, n. 249, sono corrisposte, a decorrere dal 1 luglio 1972 e fino al 31 agosto 1973, le indennita' di cui alla legge 8 agosto 1972, n. 483, e i compensi di cui al decreto legislativo presidenziale 27 giugno 1946, n. 19.
 
 Il secondo comma dell'articolo 2 della legge 8 agosto 1972, n. 483, si applica fino al 31 agosto 1973 anche al personale direttivo e docente della scuola elementare collocato permanentemente fuori ruolo, ai sensi dell'articolo 8 della legge 2 dicembre 1967, n. 1213.
 
-#### Art. 21
+### Art. 21
 
 Gli articoli 18 e 19 della legge 6 dicembre 1971, n. 1074, sono applicabili, in via transitoria anche al personale non docente sprovvisto del titolo richiesto.
 
-#### Art. 22
+### Art. 22
 
 Al personale non docente supplente di titolari assenti per esoneri sindacali o aspettative, assunti dopo la legge 28 ottobre 1970, n. 775, e' applicabile per l'immissione in ruolo l'articolo 25 della stessa legge.
 
-#### Art. 23
+### Art. 23
 
 Le norme delegate andranno in vigore dal 1° ottobre successivo alla data della loro pubblicazione e, comunque, non prima di 2 mesi da tale data, qualora fra la data della pubblicazione e il 1 ottobre intercorra un piu' breve periodo di tempo.
 
-#### Art. 24
+### Art. 24
 
 Con l'entrata in vigore delle norme delegate cesseranno di avere efficacia tutte le precedenti disposizioni, di legge e di regolamento, comunque incompatibili con quelle della presente legge.
 
@@ -490,7 +488,7 @@ Il Governo della Repubblica e' delegato a raccogliere e coordinare in un testo u
 
 La legge 30 novembre 1942, n. 1545, e' abrogata.
 
-#### Art. 25
+### Art. 25
 
 All'onere derivante dal precedente articolo 12, valutato in lire 476 miliardi in ragione d'anno, si provvede, per la quota relativa all'anno finanziario 1973, mediante riduzione quanto a lire 155.666.000.000 del capitolo 3523 e quanto a lire 3 miliardi del capitolo 5381 dello stato di previsione del Ministero del tesoro per l'anno medesimo.
 
@@ -510,7 +508,7 @@ Visto, il Guardasigilli: ZAGARI
 
 ## TITOLO IV - DISPOSIZIONI FINANZIARIE TRANSITORIE, COMUNI E FINALI
 
-#### Tabella
+### Tabella
 
 TABELLA
 

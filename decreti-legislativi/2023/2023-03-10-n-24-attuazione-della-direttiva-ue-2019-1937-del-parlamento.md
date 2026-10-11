@@ -56,11 +56,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Ambito di applicazione e definizioni
 
-### Ambito di applicazione e definizioni
-
-#### Art. 1
+### Art. 1
 
 Ambito di applicazione oggettivo
 
@@ -84,7 +82,7 @@ c) segretezza delle deliberazioni degli organi giurisdizionali.
 
 4\. Resta altresi' ferma l'applicazione delle disposizioni di procedura penale, di quelle in materia di autonomia e indipendenza della magistratura, delle disposizioni sulle funzioni e attribuzioni del Consiglio superiore della magistratura, comprese le relative procedure, per tutto quanto attiene alla posizione giuridica degli appartenenti all'ordine giudiziario, oltre che in materia di difesa nazionale e di ordine e sicurezza pubblica di cui al regio decreto, 18 giugno 1931, n. 773, recante il testo unico delle leggi di pubblica sicurezza. Resta altresi' ferma l'applicazione delle disposizioni in materia di esercizio del diritto dei lavoratori di consultare i propri rappresentanti o i sindacati, di protezione contro le condotte o gli atti illeciti posti in essere in ragione di tali consultazioni, di autonomia delle parti sociali e del loro diritto di stipulare accordi collettivi, nonche' di repressione delle condotte antisindacali di cui all'articolo 28 della legge 20 maggio 1970, n. 300.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -196,7 +194,7 @@ q) «soggetti del settore privato»: soggetti, diversi da quelli rientranti nell
 
 > p) (Omissis).».
 
-#### Art. 3
+### Art. 3
 
 Ambito di applicazione soggettivo
 
@@ -392,11 +390,9 @@ d) agli enti di proprieta' della persona segnalante o della persona che ha sport
 
 > 5\) rapporti di lavoro dei dipendenti di enti pubblici ed altri rapporti di lavoro pubblico, sempreche' non siano devoluti dalla legge ad altro giudice.».
 
-## Capo II
+## Capo II - Segnalazioni interne, segnalazioni esterne, obbligo di riservatezza e divulgazioni pubbliche
 
-### Segnalazioni interne, segnalazioni esterne, obbligo di riservatezza e divulgazioni pubbliche
-
-#### Art. 4
+### Art. 4
 
 Canali di segnalazione interna
 
@@ -472,7 +468,7 @@ Canali di segnalazione interna
 
 > 8\. - 83. (Omissis).».
 
-#### Art. 5
+### Art. 5
 
 Gestione del canale
 
@@ -490,7 +486,7 @@ d) forniscono riscontro alla segnalazione entro tre mesi dalla data dell'avviso 
 
 e) mettono a disposizione informazioni chiare sul canale, sulle procedure e sui presupposti per effettuare le segnalazioni interne, nonche' sul canale, sulle procedure e sui presupposti per effettuare le segnalazione esterne. Le suddette informazioni sono esposte e rese facilmente visibili nei luoghi di lavoro, nonche' accessibili alle persone che pur non frequentando i luoghi di lavoro intrattengono un rapporto giuridico in una delle forme di cui all'articolo 3, commi 3 o 4. Se dotati di un proprio sito internet, i soggetti del settore pubblico e del settore privato pubblicano le informazioni di cui alla presente lettera anche in una sezione dedicata del suddetto sito.
 
-#### Art. 6
+### Art. 6
 
 Condizioni per l'effettuazione
 
@@ -506,7 +502,7 @@ c) la persona segnalante ha fondati motivi di ritenere che, se effettuasse una s
 
 d) la persona segnalante ha fondato motivo di ritenere che la violazione possa costituire un pericolo imminente o palese per il pubblico interesse.
 
-#### Art. 7
+### Art. 7
 
 Canali di segnalazione esterna
 
@@ -516,7 +512,7 @@ Canali di segnalazione esterna
 
 3\. La segnalazione esterna presentata ad un soggetto diverso dall'ANAC e' trasmessa a quest'ultima, entro sette giorni dalla data del suo ricevimento, dando contestuale notizia della trasmissione alla persona segnalante.
 
-#### Art. 8
+### Art. 8
 
 Attivita' svolte dall'ANAC
 
@@ -550,7 +546,7 @@ c) se accertati, i danni finanziari conseguenza delle violazioni oggetto di segn
 
 5\. L'ANAC puo' non dare seguito alle segnalazioni che riportano violazioni di lieve entita' e procedere alla loro archiviazione.
 
-#### Art. 9
+### Art. 9
 
 Informazioni pubblicate
 
@@ -600,7 +596,7 @@ f) l'elenco degli enti del Terzo settore che hanno stipulato, ai sensi dell'arti
 
 > d) le ulteriori informazioni ritenute utili all'esercizio dei diritti, in particolare nel caso in cui i dati personali siano stati raccolti all'insaputa dell'interessato.».
 
-#### Art. 10
+### Art. 10
 
 Adozione di linee guida
 
@@ -608,7 +604,7 @@ Adozione di linee guida
 
 2\. L'ANAC riesamina periodicamente, almeno una volta ogni tre anni, le proprie procedure per il ricevimento e il trattamento delle segnalazioni e le adegua, ove necessario, alla luce della propria esperienza e di quella di altre autorita' competenti per le segnalazioni esterne nell'ambito dell'Unione europea.
 
-#### Art. 11
+### Art. 11
 
 Disposizione relativa al personale dell'ANAC
 
@@ -638,7 +634,7 @@ b) il costo per lo sviluppo della piattaforma informatica necessaria per il trat
 
 > 4\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.».
 
-#### Art. 12
+### Art. 12
 
 Obbligo di riservatezza
 
@@ -864,7 +860,7 @@ Obbligo di riservatezza
 
 > 5\. Il presente articolo si applica anche ai dati relativi a persone giuridiche, enti od associazioni.».
 
-#### Art. 13
+### Art. 13
 
 Trattamento dei dati personali
 
@@ -980,7 +976,7 @@ Trattamento dei dati personali
 
 > 2\. La valutazione di cui al comma 1 contiene una descrizione generale dei trattamenti previsti, una valutazione dei rischi per i diritti e le liberta' degli interessati, le misure previste per affrontare tali rischi, le garanzie, le misure di sicurezza e i meccanismi per garantire la protezione dei dati personali e il rispetto delle norme del presente decreto.».
 
-#### Art. 14
+### Art. 14
 
 Conservazione della documentazione
 
@@ -998,7 +994,7 @@ inerente alle segnalazioni
 
 > \- Per l'articolo 3 del citato decreto legislativo 18 maggio 2018, n. 51, si vedano le note all'articolo 13 del presente decreto.
 
-#### Art. 15
+### Art. 15
 
 Divulgazioni pubbliche
 
@@ -1012,11 +1008,9 @@ c) la persona segnalante ha fondato motivo di ritenere che la segnalazione ester
 
 2\. Restano ferme le norme sul segreto professionale degli esercenti la professione giornalistica, con riferimento alla fonte della notizia.
 
-## Capo III
+## Capo III - Misure di protezione
 
-### Misure di protezione
-
-#### Art. 16
+### Art. 16
 
 Condizioni per la protezione
 
@@ -1034,7 +1028,7 @@ b) la segnalazione o divulgazione pubblica e' stata effettuata sulla base di qua
 
 4\. La disposizione di cui al presente articolo si applica anche nei casi di segnalazione o denuncia all'autorita' giudiziaria o contabile o divulgazione pubblica anonime, se la persona segnalante e' stata successivamente identificata e ha subito ritorsioni, nonche' nei casi di segnalazione presentata alle istituzioni, agli organi e agli organismi competenti dell'Unione europea, in conformita' alle condizioni di cui all'articolo 6.
 
-#### Art. 17
+### Art. 17
 
 Divieto di ritorsione
 
@@ -1076,7 +1070,7 @@ p) l'annullamento di una licenza o di un permesso;
 
 q) la richiesta di sottoposizione ad accertamenti psichiatrici o medici.
 
-#### Art. 18
+### Art. 18
 
 Misure di sostegno
 
@@ -1134,7 +1128,7 @@ Misure di sostegno
 
 > 3\. - 5. (Omissis).».
 
-#### Art. 19
+### Art. 19
 
 Protezione dalle ritorsioni
 
@@ -1202,7 +1196,7 @@ Protezione dalle ritorsioni
 
 > 4\. La disciplina di cui al presente articolo trova applicazione anche nelle ipotesi in cui il giudice accerta il difetto di giustificazione per motivo consistente nella disabilita' fisica o psichica del lavoratore, anche ai sensi degli articoli 4, comma 4, e 10, comma 3, della legge 12 marzo 1999, n. 68.».
 
-#### Art. 20
+### Art. 20
 
 Limitazioni della responsabilita'
 
@@ -1214,7 +1208,7 @@ Limitazioni della responsabilita'
 
 4\. In ogni caso, la responsabilita' penale e ogni altra responsabilita', anche di natura civile o amministrativa, non e' esclusa per i comportamenti, gli atti o le omissioni non collegati alla segnalazione, alla denuncia all'autorita' giudiziaria o contabile o alla divulgazione pubblica o che non sono strettamente necessari a rivelare la violazione.
 
-#### Art. 21
+### Art. 21
 
 Sanzioni
 
@@ -1232,17 +1226,15 @@ c) da 500 a 2.500 euro, nel caso di cui all'articolo 16, comma 3, salvo che la p
 
 > \- Per l'articolo 6, comma 2, del citato decreto legislativo 8 giugno 2001, n. 231, si vedano le note all'articolo 4 del presente decreto.
 
-#### Art. 22
+### Art. 22
 
 Rinunce e transazioni
 
 1\. Le rinunce e le transazioni, integrali o parziali, che hanno per oggetto i diritti e le tutele previsti dal presente decreto non sono valide, salvo che siano effettuate nelle forme e nei modi di cui all'articolo 2113, quarto comma, del codice civile.
 
-## Capo IV
+## Capo IV - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 23
+### Art. 23
 
 Abrogazioni di norme
 
@@ -1254,7 +1246,7 @@ b) l'articolo 6, commi 2-ter e 2-quater, del decreto legislativo 8 giugno 2001, 
 
 c) l'articolo 3 della legge 30 novembre 2017, n. 179.
 
-#### Art. 24
+### Art. 24
 
 Disposizioni transitorie
 
@@ -1358,7 +1350,7 @@ e di coordinamento
 
 > 5\. E' comunque disposta la confisca del profitto che l'ente ha tratto dal reato, anche nella forma per equivalente.».
 
-#### Art. 25
+### Art. 25
 
 Disposizioni finanziarie
 
@@ -1388,7 +1380,7 @@ Visto, il Guardasigilli: Nordio
 
 ## Allegati
 
-#### Allegato
+### Allegato
 
 Allegato
 

@@ -20,101 +20,91 @@ retrieved: 2026-10-11
 
 *Entrata in vigore della legge: 25-4-1998*
 
-## Capo I - RESTITUZIONE DEI BENI CULTURALI USCITI ILLECITAMENTE DAL TERRITORIO
+## Capo I - RESTITUZIONE DEI BENI CULTURALI USCITI ILLECITAMENTE DAL TERRITORIO DI UNO STATO MEMBRO DELL'UNIONE EUROPEA E RECEPIMENTO DELLA DIRETTIVA 93/7/CEE DEL CONSIGLIO, DEL 15 MARZO 1993
 
-### DI UNO STATO MEMBRO DELL'UNIONE EUROPEA E RECEPIMENTO DELLA - DIRETTIVA 93/7/CEE DEL CONSIGLIO, DEL 15 MARZO 1993
+### Sezione I - Restituzione dei beni culturali usciti illecitamente da uno Stato membro dell'Unione europea
 
-#### Sezione I
-
-##### Restituzione dei beni culturali usciti illecitamente da uno Stato - membro dell'Unione europea
-
-###### Art. 1
+#### Art. 1
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 2
+#### Art. 2
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 3
+#### Art. 3
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 4
+#### Art. 4
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 5
+#### Art. 5
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 6
+#### Art. 6
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 7
+#### Art. 7
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 8
+#### Art. 8
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-## Sezione II - Azione di restituzione dei beni culturali
+### Sezione II - Azione di restituzione dei beni culturali usciti illecitamente dall'Italia
 
-### usciti illecitamente dall'Italia
-
-###### Art. 9
+#### Art. 9
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 10
+#### Art. 10
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-## Capo II - NORME DI ESECUZIONE
+## Capo II - NORME DI ESECUZIONE DEL REGOLAMENTO CEE
 
-### DEL REGOLAMENTO CEE
-
-###### Art. 11
+#### Art. 11
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 12
+#### Art. 12
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 13
+#### Art. 13
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-## Capo III - NORME ATTUATIVE COMUNI - BANCA DATI DEI BENI CULTURALI
+## Capo III - NORME ATTUATIVE COMUNI - BANCA DATI DEI BENI CULTURALI ILLECITAMENTE SOTTRATTI
 
-### ILLECITAMENTE SOTTRATTI
-
-###### Art. 14
+#### Art. 14
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 15
+#### Art. 15
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 16
+#### Art. 16
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
 ## Capo IV - MODIFICAZIONI ALLA LEGGE N. 1089
 
-###### Art. 17
+#### Art. 17
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 18
+#### Art. 18
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 19
+#### Art. 19
 
 Sostituzione dell'articolo 37 della legge n. 1089
 
@@ -122,33 +112,33 @@ Sostituzione dell'articolo 37 della legge n. 1089
 
 2\. Alla copertura delle minori entrate derivanti dalla soppressione della tassa di esportazione, valutate in lire 350 milioni annue, si provvede a carico dell'autorizzazione di spesa di cui all'articolo 26.
 
-###### Art. 20
+#### Art. 20
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 21
+#### Art. 21
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 22
+#### Art. 22
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 23
+#### Art. 23
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 24
+#### Art. 24
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
 ## Capo V - NORME FINALI
 
-###### Art. 25
+#### Art. 25
 
 (( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-###### Art. 26
+#### Art. 26
 
 Copertura finanziaria
 
@@ -186,7 +176,7 @@ Visto, il Guardasigilli: Flick
 
 ## Allegati
 
-###### Allegato
+#### Allegato
 
 Allegato (previsto dall'articolo 2, comma 3, lettera a)
 

@@ -26,15 +26,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 ((ARTICOLO ABROGATO DALLA L. 24 SETTEMBRE 1971, N. 820))
 
-### Art. 2
+## Art. 2
 
 ((ARTICOLO ABROGATO DALLA L. 24 SETTEMBRE 1971, N. 820))
 
-### Art. 3
+## Art. 3
 
 E' istituita una graduatoria provinciale permanente dei maestri non di ruolo, compresi nella graduatoria di merito di cui al precedente articolo 2 e non nominati per mancanza di posti.
 
@@ -48,15 +48,15 @@ L'insegnante non di ruolo che sia stato incluso nella graduatoria di merito di c
 
 ((COMMA ABROGATO DALLA L. 24 SETTEMBRE 1971, N. 820)).
 
-### Art. 4
+## Art. 4
 
 ((ARTICOLO ABROGATO DALLA L. 24 SETTEMBRE 1971, N. 820))
 
-### Art. 5
+## Art. 5
 
 ((ARTICOLO ABROGATO DALLA L. 24 SETTEMBRE 1971, N. 820))
 
-### Art. 6
+## Art. 6
 
 Nella prima applicazione della presente legge hanno titolo per essere iscritti nella graduatoria provinciale permanente gli insegnanti non di ruolo che in uno dei concorsi magistrali banditi a partire dall'anno 1947, risultino iscritti nella graduatoria di merito per aver ottenuto complessivamente punti 105 su 175, nonche' gli insegnanti di cui all'articolo 2 della legge 1 agosto 1962, n. 1249.
 
@@ -64,13 +64,13 @@ L'iscrizione nella graduatoria avviene secondo le norme di cui ai precedenti art
 
 Limitatamente alla prima applicazione della presente legge, e' concessa facolta' di chiedere l'iscrizione nella graduatoria di cui all'articolo 3, anziche' nella Provincia o in una delle Province in cui l'insegnante ha conseguito l'idoneita', in quella nella quale sia residente da almeno un anno alla data di entrata in vigore della legge.
 
-### Art. 7
+## Art. 7
 
 Sono abrogate tutte le norme concernenti i concorsi magistrali, il conferimento degli incarichi e delle supplenze contrastanti o incompatibili con le norme della presente legge.
 
 ## NORME TRANSITORIE
 
-### Art. 8
+## Art. 8
 
 La meta' dei posti di cui al secondo comma dell'articolo 1 della presente legge, tolta l'aliquota assegnata dall'articolo 4 agli iscritti nella graduatoria provinciale permanente, vacanti e disponibili al 1 ottobre dell'anno 1965 e degli anni 1966 e 1967, e' assegnata ad un concorso speciale riservato.
 
@@ -80,7 +80,7 @@ Al concorso possono partecipare, indipendentemente dal limite di eta', gli inseg
 
 I posti eventualmente non conferiti per mancanza di vincitori sono assegnati al concorso ordinario bandito o da bandirsi.
 
-### Art. 9
+## Art. 9
 
 Gli esami del concorso speciale consistono in un colloquio rivolto a saggiare il grado di preparazione professionale e in una prova pratica che miri ad accertare le attitudini all'esercizio della funzione docente.
 

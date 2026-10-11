@@ -320,7 +320,7 @@ d) previsione espressa nello statuto, indipendentemente dalla forma giuridica ad
 
 4\. La distribuzione del compenso per la riproduzione privata di fonogrammi e di videogrammi di cui agli articoli 71-sexies e 71-septies, della legge 22 aprile 1941, n. 633, da parte delle associazioni di produttori di fonogrammi, opere audiovisive e videogrammi, non costituisce attivita' di amministrazione ed intermediazione dei diritti connessi al diritto d'autore ai sensi delle disposizioni di cui al presente articolo.
 
-## Sezione II - Organizzazione ed organi degli organismi di gestione collettiva
+### Sezione II - Organizzazione ed organi degli organismi di gestione collettiva
 
 #### Art. 9
 
@@ -504,7 +504,7 @@ Organo di controllo contabile
 
 > \- Per il testo dell'art. 1 della legge 9 gennaio 2008, n. 2 si veda nelle note all'art. 10.
 
-## Sezione III - Gestione dei proventi dei diritti da parte degli organismi di gestione collettiva
+### Sezione III - Gestione dei proventi dei diritti da parte degli organismi di gestione collettiva
 
 #### Art. 14
 
@@ -590,7 +590,7 @@ Proventi non distribuibili
 
 3\. Gli importi non distribuibili sono utilizzati in modo separato e indipendente al fine di finanziare attivita' sociali, culturali ed educative ad esclusivo beneficio dei titolari dei diritti.
 
-## Sezione IV - Gestione dei diritti per conto di altri organismi di gestione collettiva e relazioni con gli utilizzatori
+### Sezione IV - Gestione dei diritti per conto di altri organismi di gestione collettiva e relazioni con gli utilizzatori
 
 #### Art. 20
 
@@ -646,7 +646,7 @@ b) con riferimento all'utilizzo dell'opera protetta: tutti i profili inerenti la
 
 4\. Il mancato adempimento degli obblighi di informazione o la fornitura di dati falsi o erronei costituisce causa di risoluzione del contratto di licenza, con la conseguente inibizione all'utilizzazione di fonogrammi, opere cinematografiche e audiovisive anche laddove remunerate con equo compenso.
 
-## Sezione V - Trasparenza e comunicazioni
+### Sezione V - Trasparenza e comunicazioni
 
 #### Art. 24
 
@@ -1054,9 +1054,7 @@ Facolta' di segnalazione all'Autorita' garante della concorrenza e del mercato
 
 1\. I titolari dei diritti, gli organismi di gestione collettiva, le entita' di gestione indipendente e gli utilizzatori possono indirizzare all'Autorita' garante della concorrenza e del mercato, nell'ambito delle competenze ad essa attribuite, osservazioni e proposte dirette alla migliore attuazione delle disposizioni del presente decreto.
 
-## Capo V
-
-### Ulteriori disposizioni attinenti al diritto d'autore
+## Capo V - Ulteriori disposizioni attinenti al diritto d'autore
 
 #### Art. 45
 

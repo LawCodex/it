@@ -28,11 +28,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 ((ARTICOLO ABROGATO DAL D.P.R. 20 FEBBRAIO 1998, N. 38))
 
-### Art. 2
+## Art. 2
 
 Servizi provinciali
 
@@ -44,7 +44,7 @@ Servizi provinciali
 
 4\. ((COMMA ABROGATO DAL D.L. 2 DICEMBRE 1985, N. 688)).
 
-### Art. 3
+## Art. 3
 
 Adeguamento degli organici
 
@@ -70,7 +70,7 @@ Adeguamento degli organici
 
 > \- Il testo dell'art. 5 della legge 11 luglio 1980, n. 312, e' riportato nelle note alla legge n. 428/1985, pubblicata in questo stesso supplemento alla Gazzetta Ufficiale (nota all'art. 6, primo comma).
 
-### Art. 4
+## Art. 4
 
 Reclutamento
 
@@ -84,7 +84,7 @@ All'uopo si dovra' tener conto della corrispondenza tra le qualifiche iniziali d
 
 4\. In relazione alle eccezionali esigenze di completamento degli organici, il Ministro del tesoro, con proprio decreto, potra' disporre l'assunzione degli idonei dei concorsi pubblici banditi successivamente al 1 gennaio 1979 per le qualifiche iniziali dei ruoli dei servizi centrali e periferici della Ragioneria generale dello Stato.
 
-### Art. 5
+## Art. 5
 
 Servizi ispettivi di finanza
 
@@ -108,7 +108,7 @@ Servizi ispettivi di finanza
 
 10\. Ai compiti di coordinamento dei settori di cui al precedente comma puo' essere adibito un contingente di dirigenti superiori-ispettori generali del ruolo dei servizi ispettivi in misura complessiva non superiore all'8 per cento della dotazione organica complessiva prevista dal quadro L annesso alla presente legge.
 
-### Art. 6
+## Art. 6
 
 Missioni di lunga durata
 
@@ -136,7 +136,7 @@ Missioni di lunga durata
 
 ## DISPOSIZIONI FINALI E TRANSITORIE
 
-### Art. 7
+## Art. 7
 
 Disciplina delle reggenze
 
@@ -148,7 +148,7 @@ Disciplina delle reggenze
 
 > Il testo dell'art. 4 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748, e' riportato nelle note alla legge n. 428/1985, pubblicata in questo stesso supplemento alla Gazzetta Ufficiale (nota all'art. 8, secondo comma).
 
-### Art. 8
+## Art. 8
 
 Conferimento dei posti
 
@@ -190,7 +190,7 @@ b) per il 40 per cento utilizzando le graduatorie relative al concorso speciale 
 
 > La legge 1 giugno 1972, n. 319, concerne Riordinamento delle ex carriere speciali.
 
-### Art. 9
+## Art. 9
 
 Onere finanziario
 
@@ -212,7 +212,7 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 ## DISPOSIZIONI FINALI E TRANSITORIE
 
-### Allegato
+## Allegato
 
 QUADRO I - DIRIGENTI AMMINISTRATIVI
 

@@ -30,25 +30,25 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+## Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica di Croazia sulla cooperazione transfrontaliera di polizia, fatto a Zagabria il 5 luglio 2011.
 
-#### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 17 dell'Accordo stesso.
 
-#### Art. 3
+## Art. 3
 
 Copertura finanziaria
 
 1\. Agli oneri derivanti dalle spese di cui agli articoli 5, 7, 8, 9 e 10 dell'Accordo di cui all'articolo 1, valutati in euro 117.879 annui a decorrere dall'anno 2017, e dei restanti articoli, pari a euro 42.108 annui a decorrere dall'anno 2017, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2017-2019, nell'ambito del programma «Fondi di riserva e speciali» della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2017, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri e della cooperazione internazionale.
 
-#### Art. 4
+## Art. 4
 
 Entrata in vigore
 
@@ -88,13 +88,13 @@ Con l'intento di ridurre quanto piu' possibile l'immigrazione clandestina e la t
 
 stabiliscono quanto segue:
 
-#### Art. 1
+## Art. 1
 
 Settore della cooperazione
 
 Le Parti, nel rispetto delle legislazioni nazionali vigenti in entrambi i Paesi, si impegnano a svolgere, nell'ambito delle competenze delle Autorita' indicate nell'articolo 2 designate ad applicare il presente Accordo, le attivita' di cooperazione di polizia al fine di prevenire e reprimere tutti i crimini e i reati, in particolare quelli connessi con l'immigrazione illegale, la tratta di esseri umani e il traffico di sostanze stupefacenti.
 
-#### Art. 2
+## Art. 2
 
 Autorita' Competenti
 
@@ -104,7 +104,7 @@ per la Repubblica italiana: Ministero dell'interno, Dipartimento di Pubblica sic
 
 per la Repubblica di Croazia: Ministero dell'interno, Direzione Generale della Polizia con le proprie unita' organizzative interne, e le unita' locali di polizia (di seguito denominate «Amministrazioni di Polizia»), nel quadro delle proprie responsabilita'.
 
-#### Art. 3
+## Art. 3
 
 Ambito di competenza
 
@@ -114,11 +114,9 @@ nella Repubblica italiana: l'ambito di competenza del Ministero dell'interno, Di
 
 nella Repubblica di Croazia: territori di competenza locale delle Amministrazioni di Polizia: Contee di Istarska, Primorsko-goranska, Zadarska, Šibensko-kninska, Splitsko-dalmatinska e Dubrovačko-neretvanska.
 
-## II. COOPERAZIONE - A. COOPERAZIONE TRANSFRONTALIERA
+## II. COOPERAZIONE - A. COOPERAZIONE TRANSFRONTALIERA DI POLIZIA
 
-### DI POLIZIA
-
-#### Art. 4
+## Art. 4
 
 Scambio di informazioni tra le Parti
 
@@ -138,7 +136,7 @@ la legislazione nazionale vigente ed altre normative delle Parti, relative all'a
 
 (2) Le Autorita' Competenti si scambiano, nei tempi prestabiliti, informazioni pertinenti alla messa a punto di analisi congiunte su questioni connesse alla sicurezza in mare, nei porti ed aeroporti.
 
-#### Art. 5
+## Art. 5
 
 Collegamenti per le comunicazioni
 
@@ -154,7 +152,7 @@ visite di studio reciproche di esperti;
 
 scambio di informazioni sui pertinenti collegamenti delle telecomunicazioni ed indirizzi di posta elettronica delle Autorita' Competenti.
 
-#### Art. 6
+## Art. 6
 
 Armonizzazione delle attivita'
 
@@ -168,7 +166,7 @@ svolgere attivita' operative coordinate in mare utilizzando apposite attrezzatur
 
 informarsi reciprocamente sui gravi incidenti in mare e fornire le relative informazioni, senza pregiudizio per la competenza nazionale in materia di ricerca e soccorso.
 
-#### Art. 7
+## Art. 7
 
 Istruzione e formazione professionale
 
@@ -184,7 +182,7 @@ partecipazione di osservatori nel corso di varie esercitazioni; scambio di visit
 
 ## B. FORME ORGANIZZATIVE SPECIALI DI COOPERAZIONE TRANSFRONTALIERA DI POLIZIA
 
-#### Art. 8
+## Art. 8
 
 Scambio di funzionari di polizia
 
@@ -194,13 +192,13 @@ Scambio di funzionari di polizia
 
 (3) I particolari operativi di tale tipo di cooperazione saranno regolati dai protocolli da approvarsi da parte delle Competenti Autorita'.
 
-#### Art. 9
+## Art. 9
 
 Gruppi di lavoro congiunti
 
 Se opportuno, le Autorita' Competenti possono istituire gruppi di lavoro congiunti per svolgere operazioni di polizia nell'ambito delle quali i funzionari di una Parte possono, nel territorio dell'altra Parte, operare, soltanto a livello di assistenza nel ruolo di consulenti o esperti.
 
-#### Art. 10
+## Art. 10
 
 Invio di ufficiali di collegamento
 
@@ -210,7 +208,7 @@ Invio di ufficiali di collegamento
 
 (3) Gli ufficiali di collegamento inviati da una Parte presso uno Stato terzo, possono, previa mutuo accordo delle Autorita' Competenti di entrambe le Parti, rappresentare anche gli interessi dell'altra Parte.
 
-#### Art. 11
+## Art. 11
 
 Attivita' operative coordinate
 
@@ -220,7 +218,7 @@ Attivita' operative coordinate
 
 ## III. PROTEZIONE DEI DATI
 
-#### Art. 12
+## Art. 12
 
 Protezione dei dati personali
 
@@ -228,7 +226,7 @@ Protezione dei dati personali
 
 (2) I dati personali e particolari categorie di dati possono essere ritrasmessi, per gli scopi del presente Accordo, ad altre istituzioni solo previa autorizzazione scritta della Parte che li ha comunicati, nel rispetto di quanto prescritto al comma precedente.
 
-#### Art. 13
+## Art. 13
 
 Disposizioni relative alla riservatezza
 
@@ -236,7 +234,7 @@ Le Parti garantiscono la riservatezza di tutti i dati trasmessi, in conformita' 
 
 ## IV. DISPOSIZIONI FINALI
 
-#### Art. 14
+## Art. 14
 
 Attuazione dell'accordo
 
@@ -244,13 +242,13 @@ Attuazione dell'accordo
 
 (2) Le Autorita' Competenti ai sensi del comma 1 del presente articolo si danno reciproca notifica su tutte le circostanze pertinenti all'attuazione del presente Accordo e relativi protocolli.
 
-#### Art. 15
+## Art. 15
 
 Effetti del presente Accordo su altri Accordi
 
 Il presente Accordo non pregiudica i diritti e gli obblighi assunti dalle Parti in altri accordi internazionali vincolanti per le stesse.
 
-#### Art. 16
+## Art. 16
 
 Risoluzione delle controversie
 
@@ -258,7 +256,7 @@ Risoluzione delle controversie
 
 (2) Qualora le autorita' Competenti di cui al comma 1 del presente articolo non possano risolvere una controversia, la stessa viene risolta tramite i canali diplomatici.
 
-#### Art. 17
+## Art. 17
 
 Entrata in vigore, durata e cessazione dell'Accordo
 
@@ -270,7 +268,7 @@ Fatto a Zagabria il 5 luglio 2011, in due originali, nelle lingue italiana, croa
 
 Parte di provvedimento in formato grafico
 
-#### Agreement
+## Agreement
 
 AGREEMENT
 

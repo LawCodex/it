@@ -50,7 +50,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Disposizioni introduttive
 
-#### Art. 1
+### Art. 1
 
 Ambito di applicazione
 
@@ -170,7 +170,7 @@ Ambito di applicazione
 
 > \- Il decreto legislativo 25 febbraio 2000, n. 80, reca: «Attuazione delta direttiva 97/78/CE e 97/79/CE in materia di organizzazione dei controlli veterinari sui prodotti provenienti da Paesi terzi».
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -214,7 +214,7 @@ g) «immissione in circolazione»: la detenzione di prodotti destinati all'alime
 
 > \- La decisione della Commissione europea 91/516/CE e' pubblicata in GUCE legge n. 281 del 9 ottobre 1991.
 
-#### Art. 3
+### Art. 3
 
 Finalita' e fasi dei controlli
 
@@ -232,7 +232,7 @@ c) commisuratamente agli obiettivi individuati nel programma di cui all'articolo
 
 4\. I controlli vengono espletati anche sui prodotti destinati all'esportazione.
 
-#### Art. 4
+### Art. 4
 
 Piani operativi di emergenza
 
@@ -250,19 +250,19 @@ Piani operativi di emergenza
 
 ## Capo II - Importazioni provenienti dai Paesi terzi
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-#### Art. 8
+### Art. 8
 
 Controlli fitosanitari
 
@@ -278,13 +278,13 @@ Controlli fitosanitari
 
 > Per le merci che viaggiano con mezzo aereo i controlli fitosanitari possono essere effettuati presso uno degli aeroporti elencati nell'allegato VIII, anche nel caso non sia il primo punto di sbarco, a condizione che eventuali spostamenti avvengano sotto vincolo doganale.».
 
-#### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
 ## Capo III - Scambi all'interno della Comunita'
 
-#### Art. 10
+### Art. 10
 
 Articolazione dei controlli
 
@@ -322,7 +322,7 @@ e) distruzione dei prodotti.
 
 7\. Alle spese relative ai controlli di cui al comma 1 si applicano le disposizioni del decreto legislativo 19 novembre 1998, n. 432.
 
-#### Art. 11
+### Art. 11
 
 Cooperazione in caso di accertamento di infrazioni
 
@@ -332,11 +332,9 @@ Cooperazione in caso di accertamento di infrazioni
 
 3\. In attesa delle conclusioni da parte della Commissione europea lo Stato membro di destinazione puo' disporre ulteriori accertamenti sui prodotti provenienti dallo stabilimento d'origine sollecitando nel contempo un'intensificazione dei controlli presso il medesimo stabilimento da parte dello Stato speditore.
 
-## Capo IV - Sistema d'informazione per i pericoli
+## Capo IV - Sistema d'informazione per i pericoli da alimenti per animali
 
-### da alimenti per animali
-
-#### Art. 12
+### Art. 12
 
 Obblighi di comunicazione
 
@@ -350,7 +348,7 @@ Obblighi di comunicazione
 
 > \- Per la direttiva 1999/29/CE vedi note alle premesse.
 
-#### Art. 13
+### Art. 13
 
 Valutazione del rischio e conseguenti misure
 
@@ -374,7 +372,7 @@ c) nel caso di rischio per l'ambiente, ad informare le autorita' ambientali comp
 
 > \- Il decreto legislativo 4 agosto 1999, n. 336, reca: «Attuazione delle direttive 96/22/CE e 96/23/CE concernenti il divieto di utilizzazione di talune sostanze ad azione ormonica, tireostatica e delle sostanze (b)-agoniste nelle produzioni di animali e le misure di controllo su talune sostanze e sui loro residui negli animali vivi e nei loro prodotti».
 
-#### Art. 14
+### Art. 14
 
 Ricorso al sistema di allerta
 
@@ -388,7 +386,7 @@ Ricorso al sistema di allerta
 
 ## Capo V - Disposizioni generali
 
-#### Art. 15
+### Art. 15
 
 Modalita' dei controlli
 
@@ -398,7 +396,7 @@ Modalita' dei controlli
 
 3\. Fatte salve le disposizioni dell'articolo 11, le autorita' nazionali competenti, nel caso di ispezioni in loco, assicurano piena assistenza e collaborazione agli esperti della Commissione europea.
 
-#### Art. 16
+### Art. 16
 
 Disposizioni in caso di controllo analitico
 
@@ -420,7 +418,7 @@ c) in assenza di metodi di analisi di riferimento comunitari, gli accertamenti a
 
 > \- La legge 24 novembre 1981, n. 689, reca: «Modifiche al sistema penale».
 
-#### Art. 17
+### Art. 17
 
 Programma coordinato di controllo
 
@@ -430,7 +428,7 @@ Programma coordinato di controllo
 
 > \- Il decreto dei Ministri delle politiche agricole e della sanita' in data 14 ottobre 1999, reca: «Programma coordinato di controllo nel settore dell'alimentazione animale».
 
-#### Art. 18
+### Art. 18
 
 Comunicazioni
 
@@ -448,7 +446,7 @@ c) risultati dei controlli, con particolare riferimento al numero e alla natura 
 
 d) azioni intraprese in caso di accertamento di infrazioni.
 
-#### Art. 19
+### Art. 19
 
 Disposizioni finali
 

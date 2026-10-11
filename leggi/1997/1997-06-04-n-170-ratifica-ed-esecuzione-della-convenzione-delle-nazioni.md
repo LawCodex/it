@@ -27,21 +27,21 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la convenzione delle Nazioni Unite sulla lotta contro la desertificazione nei Paesi gravemente colpiti dalla siccita' e/o dalla desertificazione, in particolare in Africa, con allegati, fatta a Parigi il 14 ottobre 1994.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 36 della convenzione stessa.
 
-##### Art. 3
+#### Art. 3
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 726 milioni annue a decorrere dal 1997, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1997-1999, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1997, allo scopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -57,7 +57,7 @@ Visto, il Guardasigilli: FLICK
 
 ## Allegati
 
-##### Convention
+#### Convention
 
 Convention
 
@@ -129,7 +129,7 @@ Risolute a prendere misure adeguate per lottare contro la desertificazione e att
 
 Hanno convenuto quanto segue:
 
-##### Articolo 1
+#### Articolo 1
 
 Definizioni
 
@@ -169,7 +169,7 @@ Ai fini della presente Convenzione:
 
 (k) l'espressione "Paesi sviluppati Parte" designa i Paesi sviluppati Parte e le organizzazioni d'integrazione economica regionale composte di Paesi sviluppati.
 
-##### Articolo 2
+#### Articolo 2
 
 Obiettivo
 
@@ -177,7 +177,7 @@ Obiettivo
 
 2\. Per raggiungere tale obiettivo occorrera' applicare strategie integrate a lungo termine incentrate simultaneamente, nelle zone colpite, sul miglioramento della produttivita' delle terre e sul ristabilimento, la conservazione e una gestione sostenibile delle risorse in terre e in acqua, e che permettano in definitiva di migliorare le condizioni di vita, in particolare a livello delle collettivita'.
 
-##### Articolo 3
+#### Articolo 3
 
 Principi
 
@@ -193,7 +193,7 @@ Per raggiungere gli obiettivi della presente Convenzione e per applicarne le dis
 
 ## SECONDA PARTE - DISPOSIZIONI GENERALI
 
-##### Articolo 4
+#### Articolo 4
 
 Obblighi generali
 
@@ -215,7 +215,7 @@ Obblighi generali
 
 3\. I Paesi in sviluppo colpiti, Parti della presente Convenzione, possono pretendere un aiuto per applicare la Convenzione.
 
-##### Articolo 5
+#### Articolo 5
 
 Obblighi dei Paesi Parte colpiti
 
@@ -231,7 +231,7 @@ Oltre agli obblighi di cui all'articolo 4, i Paesi Parte colpiti si impegnano a:
 
 (e) creare un contesto propizio rafforzando, secondo quanto conviene, la pertinente legislazione e, qualora non esista, adottando nuove leggi e elaborando nuove politiche a lungo termine e nuovi programmi d'azione.
 
-##### Articolo 6
+#### Articolo 6
 
 Obblighi dei Paesi Parte sviluppati
 
@@ -247,13 +247,13 @@ Oltre agli obblighi generali loro imposti dall'articolo 4, i Paesi sviluppati Pa
 
 (e) favorire e facilitare l'accesso dei Paesi Parte colpiti, in particolare dei Paesi in sviluppo, alla tecnologia, alle conoscenze e alle capacita' appropriate.
 
-##### Articolo 7
+#### Articolo 7
 
 Priorita' all'Africa
 
 Nell'ambito dell'attuazione della presente Convenzione, le Parti accordano priorita' ai Paesi Parte colpiti dell'Africa, tenuto conto della situazione particolare vigente in questa regione, senza tuttavia trascurare i Paesi in sviluppo colpiti, Parti della presente Convenzione, in altre regioni.
 
-##### Articolo 8
+#### Articolo 8
 
 Relazioni con altre convenzioni
 
@@ -263,11 +263,9 @@ Relazioni con altre convenzioni
 
 ## PARTE TERZA - PROGRAMMI D'AZIONE, COOPERAZIONE SCIENTIFICA E TECNICA E MISURE D'APPOGGIO
 
-### Sezione 1:
+### Sezione 1: - Programmi d'azione
 
-#### Programmi d'azione
-
-##### Articolo 9
+#### Articolo 9
 
 Approccio generale
 
@@ -277,7 +275,7 @@ Approccio generale
 
 3\. Le Parti promuovono gli organi, fondi e programmi del sistema delle Nazioni Unite e le altre organizzazioni intergovernative competenti, gli istituti d'insegnamento, la comunita' scientifica e le organizzazioni non governative in grado di cooperare, conformemente al loro mandato e alle loro capacita', a sostenere l'elaborazione, l'attuazione e il controllo operativo dei programmi d'azione.
 
-##### Articolo 10
+#### Articolo 10
 
 Programmi d'azione nazionali
 
@@ -311,7 +309,7 @@ Programmi d'azione nazionali
 
 4\. Tenuto conto della situazione di ogni Paese Parte colpito e dei suoi propri bisogni, i programmi d'azione nazionali prevedono tra l'altro, secondo quanto conviene, provvedimenti in tutti o parte degli ambiti prioritari qui di seguito, che hanno un rapporto con la lotta contro la desertificazione e l'attenuazione degli effetti della siccita' nelle zone colpite e concernono le loro popolazioni: promozione di nuovi mezzi d'esistenza e miglioramento del contesto economico nazionale nell'ottica di consolidare i programmi di eliminazione della poverta' e di sicurezza alimentare, dinamica demografica, gestione durevole delle risorse naturali, pratiche agricole ecologicamente durevoli, valorizzazione ed utilizzazione efficace di diverse fonti energetiche, quadri istituzionali e giuridici, rafforzamento dei mezzi di valutazione e di monitoraggio, segnatamente con la creazione di servizi idrologici e meteorologici, e rafforzamento delle capacita', educazione e sensibilizzazione del pubblico.
 
-##### Articolo 11
+#### Articolo 11
 
 Programmi d'azione subregionali e regionali
 
@@ -319,13 +317,13 @@ I Paesi Parte colpiti si consultano e cooperano per elaborare, secondo quanto co
 
 Questa cooperazione puo' estendersi anche all'applicazione di programmi congiunti stabiliti di comune intesa per la gestione durevole delle risorse naturali transfrontaliere, la collaborazione scientifica e tecnica e il rafforzamento delle istituzioni competenti.
 
-##### Articolo 12
+#### Articolo 12
 
 Cooperazione internazionale
 
 I Paesi Parte colpiti devono, in collaborazione con le altre Parti e la comunita' internazionale, cooperare per promuovere un contesto internazionale favorevole agli scopi dell'attuazione della Convenzione. Tale cooperazione dovrebbe estendersi al trasferimento di tecnologia, nonche' alla ricerca - sviluppo scientifico, alla raccolta e alla diffusione d'informazioni e alle risorse finanziarie.
 
-##### Articolo 13
+#### Articolo 13
 
 Sostegno all'elaborazione e all'attuazione dei programmi d'azione 1. I provvedimenti destinati a sostenere i programmi d'azione in applicazione dell'articolo 9 comprendono tra l'altro:
 
@@ -339,7 +337,7 @@ Sostegno all'elaborazione e all'attuazione dei programmi d'azione 1. I provvedim
 
 2\. Tale sostegno ai Paesi Parte in sviluppo e' concesso prioritariamente ai Paesi Parte africani e ai Paesi Parte meno progrediti.
 
-##### Articolo 14
+#### Articolo 14
 
 Coordinamento ai livelli dell'elaborazione e dell'attuazione dei programmi d'azione
 
@@ -347,15 +345,15 @@ Coordinamento ai livelli dell'elaborazione e dell'attuazione dei programmi d'azi
 
 2\. Le Parti stabiliscono, in particolare ai livelli nazionale e locale, meccanismi operativi atti a garantire il migliore coordinamento possibile tra i Paesi Parte sviluppati, i Paesi Parte in sviluppo e le organizzazioni intergovernative e non governative competenti, al fine di evitare i doppioni, di armonizzare gli interventi e gli approcci e di ottimizzare l'effetto dell'aiuto. Nei Paesi Parte in sviluppo ci si concentrera' prioritariamente a coordinare le attivita' relative alla cooperazione internazionale al fine di raggiungere il massimo d'efficacia nell'utilizzazione delle risorse, di assicurare un aiuto adeguato e di facilitare l'attuazione dei programmi nazionali e il rispetto delle priorita' ai sensi della presente Convenzione.
 
-##### Articolo 15
+#### Articolo 15
 
 Allegati concernenti l'attuazione a livello regionale
 
 Gli elementi da integrarsi nei programmi d'azione sono scelti e adattati in funzione delle caratteristiche socio-economiche, geografiche e climatiche dei Paesi Parte o delle regioni colpite, nonche' del loro livello di sviluppo. Direttive per l'elaborazione dei programmi d'azione, che precisano l'orientamento e il contenuto di questi ultimi per le differenti subregioni e regioni, sono formulate negli allegati concernenti l'attuazione a livello regionale.
 
-## Sezione 2: - Cooperazione scientifica e tecnica
+### Sezione 2: - Cooperazione scientifica e tecnica
 
-##### Articolo 16
+#### Articolo 16
 
 Raccolta, analisi e scambio d'informazioni
 
@@ -381,7 +379,7 @@ Le Parti convengono, a seconda delle loro rispettive capacita', di integrare e c
 
 (g) fatte salve le disposizioni delle loro legislazioni e/o delle loro politiche nazionali, scambiano informazioni sulle conoscenze tradizionali e locali provvedendo ad assicurare debitamente la protezione e facendo profittare in modo adeguato la popolazione locale interessata dei vantaggi che ne risultano, in modo equo e secondo modalita' stabilite di comune intesa.
 
-##### Articolo 17
+#### Articolo 17
 
 Ricerca-sviluppo
 
@@ -403,7 +401,7 @@ Ricerca-sviluppo
 
 2\. Le priorita' in materia di ricerca per le differenti regioni e subregioni, che variano in funzione della situazione locale, dovrebbero essere indicate nei programmi d'azione. La Conferenza delle Parti riesamina periodicamente tali priorita', fondandosi sui pareri del Comitato della scienza e della tecnologia.
 
-##### Articolo 18
+#### Articolo 18
 
 Trasferimento, acquisizione, adattamento e approntamento di tecnologie
 
@@ -427,9 +425,9 @@ Trasferimento, acquisizione, adattamento e approntamento di tecnologie
 
 (d) facilitare, secondo quanto conviene, l'adattamento di tali tecnologie, conoscenze, capacita' operative e pratiche, in modo che possano essere largamente utilizzate, ed integrarle, ove occorra, alle tecnologie moderne.
 
-## Sezione 3: - Misure di sostegno
+### Sezione 3: - Misure di sostegno
 
-##### Articolo 19
+#### Articolo 19
 
 Rafforzamento delle capacita', educazione e sensibilizzazione del pubblico
 
@@ -473,7 +471,7 @@ Rafforzamento delle capacita', educazione e sensibilizzazione del pubblico
 
 4\. La Conferenza delle Parti costituisce e/o rafforza reti di centri regionali d'educazione e di formazione per lottare contro la desertificazione e attenuare gli effetti della siccita'. Queste reti sono coordinate da un'istituzione creata o designata a questo effetto al fine di istruire il personale scientifico, tecnico e di gestione e di rafforzare le istituzioni incaricate dell'educazione e dell'istruzione nei Paesi Parte colpiti, ove occorra, per l'armonizzazione dei programmi e l'organizzazione di scambi di esperienze tra tali istituzioni. Queste reti cooperano strettamente con le organizzazioni intergovernative e non governative competenti, per evitare doppioni.
 
-##### Articolo 20
+#### Articolo 20
 
 Risorse finanziarie
 
@@ -505,7 +503,7 @@ Risorse finanziarie
 
 7\. Nell'adempiere gli obblighi che spettano loro a norma della Convenzione, compresi in particolare quelli che si riferiscono alle risorse finanziarie e al trasferimento di tecnologia, i Paesi Parte sviluppati aiuteranno in modo significativo i Paesi in sviluppo colpiti, Parti della presente Convenzione, particolarmente quelli d'Africa, ad adempiere pienamente i loro obblighi secondo la Convenzione. Nell'adempiere i loro obblighi, i Paesi Parte sviluppati dovrebbero tenere pienamente conto del fatto che lo sviluppo economico e sociale e l'eliminazione della poverta' sono le prime priorita' dei Paesi in sviluppo colpiti, Parti della presente Convenzione, particolarmente quelli d'Africa.
 
-##### Articolo 21
+#### Articolo 21
 
 Meccanismi finanziari
 
@@ -545,7 +543,7 @@ Queste azioni possono esser perfezionate mediante un coordinamento migliore e un
 
 ## PARTE QUARTA - ISTITUZIONI
 
-##### Articolo 22
+#### Articolo 22
 
 Conferenza delle Parti
 
@@ -589,7 +587,7 @@ Sempre che la Conferenza delle Parti non decida altrimenti, la seconda, la terza
 
 8\. La Conferenza delle Parti puo' domandare alle organizzazioni nazionali e internazionali competenti che dispongono di conoscenze specializzate pertinenti di fornirle informazioni concernenti il paragrafo (g) dell'articolo 16, il paragrafo 1 (c) dell'articolo 17 e il paragrafo 2 (b) dell'articolo 18.
 
-##### Articolo 23
+#### Articolo 23
 
 Segretariato permanente
 
@@ -613,7 +611,7 @@ Segretariato permanente
 
 3\. In occasione della sua prima sessione, la Conferenza delle Parti designa un Segretariato permanente e prende le disposizioni per assicurarne il funzionamento.
 
-##### Articolo 24
+#### Articolo 24
 
 Comitato della scienza e della tecnologia
 
@@ -623,7 +621,7 @@ Comitato della scienza e della tecnologia
 
 3\. La Conferenza delle Parti puo', a seconda dei bisogni, nominare gruppi speciali per fornire informazioni e pareri, per il tramite del Comitato, su questioni particolari concernenti lo stato delle conoscenze negli ambiti della scienza e della tecnologia che hanno un nesso con la lotta contro la desertificazione e con l'attenuazione degli effetti della siccita'. Questi gruppi sono composti di esperti scelti tra coloro il cui nome figura nello schedario, tenuto conto della necessita' di un approccio pluridisciplinare e di un'ampia rappresentanza geografica. Questi esperti hanno una formazione scientifica ed un'esperienza pratica e saranno nominati dalla Conferenza delle Parti su raccomandazione del Comitato. La Conferenza delle Parti stabilisce il mandato e le modalita' di funzionamento di tali gruppi.
 
-##### Articolo 25
+#### Articolo 25
 
 Costituzione di una rete d'istituzioni, d'organismi e di organi esistenti
 
@@ -639,7 +637,7 @@ Costituzione di una rete d'istituzioni, d'organismi e di organi esistenti
 
 ## PARTE QUINTA - PROCEDURE
 
-##### Articolo 26
+#### Articolo 26
 
 Comunicazione d'informazioni
 
@@ -657,13 +655,13 @@ Comunicazione d'informazioni
 
 7\. La Conferenza delle Parti facilita la fornitura, se lo domandano, ai Paesi in sviluppo colpiti, Parti della presente Convenzione, in particolare in Africa, di un sostegno tecnico e finanziario per compilare e comunicare le informazioni di cui al presente articolo nonche' per determinare i bisogni tecnici e finanziari connessi ai programmi d'azione.
 
-##### Articolo 27
+#### Articolo 27
 
 Misure da adottare per disciplinare le questioni concernenti l'attuazione della Convenzione.
 
 La Conferenza delle Parti esamina e adotta procedure e meccanismi istituzionali per risolvere le questioni che possono porsi in merito all'attuazione della Convenzione.
 
-##### Articolo 28
+#### Articolo 28
 
 Composizione delle controversie
 
@@ -683,7 +681,7 @@ Composizione delle controversie
 
 6\. Se le Parti in causa non hanno accettato la medesima procedura o non hanno accettato alcuna delle procedure di cui al paragrafo 2 e non hanno potuto comporre la loro controversia nei 12 mesi che seguono la notifica ad opera di una Parte ad un'altra Parte dell'esistenza di una controversia tra loro, tale controversia e' sottoposta a conciliazione, su domanda di una qualsiasi delle Parti in causa, conformemente alla procedura adottata, non appena possibile, dalla Conferenza delle Parti, in un allegato.
 
-##### Articolo 29
+#### Articolo 29
 
 Statuto degli allegati
 
@@ -691,7 +689,7 @@ Statuto degli allegati
 
 2\. Le Parti interpretano le disposizioni degli allegati in modo conforme ai diritti e agli obblighi loro imposti in virtu' degli articoli della presente Convenzione.
 
-##### Articolo 30
+#### Articolo 30
 
 Emendamenti alla Convenzione
 
@@ -707,7 +705,7 @@ Emendamenti alla Convenzione
 
 6\. Ai fini del presente articolo e dell'articolo 31, l'espressione "Parti presenti e votanti" designa le Parti presenti che esprimono un voto affermativo o negativo.
 
-##### Articolo 31
+#### Articolo 31
 
 Adozione e emendamenti di allegati
 
@@ -725,7 +723,7 @@ L'adozione o l'emendamento di un allegato e' notificato dal depositario a tutte 
 
 4\. Se l'adozione di un allegato o di un emendamento a un allegato implica l'adozione di un emendamento alla Convenzione, tale allegato o tale emendamento a un allegato entra in vigore soltanto quando l'emendamento alla Convenzione entra esso stesso in vigore.
 
-##### Articolo 32
+#### Articolo 32
 
 Diritto di voto
 
@@ -735,13 +733,13 @@ Diritto di voto
 
 ## PARTE SESTA - DISPOSIZIONI FINALI
 
-##### Articolo 33
+#### Articolo 33
 
 Firma
 
 La presente Convenzione e' aperta alla firma degli Stati che sono Membri dell'Organizzazione delle Nazioni Unite o di una qualsiasi delle istituzioni specializzate delle Nazioni Unite, o che sono Parti dello Statuto della Corte internazionale di Giustizia, nonche' delle organizzazioni d'integrazione economica regionale, a Parigi, il 14 e 15 ottobre 1994, e in seguito alla sede dell'Organizzazione delle Nazioni Unite a Nuova York, fino al 13 ottobre 1995.
 
-##### Articolo 34
+#### Articolo 34
 
 Ratifica, accettazione, approvazione ed adesione
 
@@ -753,13 +751,13 @@ Ratifica, accettazione, approvazione ed adesione
 
 4\. Nel suo strumento di ratifica, d'accettazione, d'approvazione o d'adesione, qualsiasi Parte puo' indicare che un nuovo allegato concernente l'attuazione a livello regionale o un emendamento a un nuovo allegato concernente l'attuazione a livello regionale entrera' in vigore nei suoi riguardi soltanto dopo il deposito del suo strumento di ratifica, d'accettazione, d'approvazione o d'adesione.
 
-##### Articolo 35
+#### Articolo 35
 
 Disposizioni provvisorie
 
 Le funzioni di segretariato di cui all'articolo 23 saranno esercitate, a titolo provvisorio, dal Segretariato istituito dall'Assemblea generale delle Nazioni Unite, nella sua Risoluzione 47/188 del 22 dicembre 1992, sino alla fine della prima sessione della Conferenza delle Parti.
 
-##### Articolo 36
+#### Articolo 36
 
 Entrata in vigore
 
@@ -769,13 +767,13 @@ Entrata in vigore
 
 3\. Ai fini dei paragrafi 1 e 2, lo strumento depositato da un'organizzazione d'integrazione economica regionale non si aggiunge a quelli depositati dagli Stati membri di tale organizzazione.
 
-##### Articolo 37
+#### Articolo 37
 
 Riserve
 
 La presente Convenzione non ammette alcuna riserva.
 
-##### Articolo 38
+#### Articolo 38
 
 Denuncia
 
@@ -783,13 +781,13 @@ Denuncia
 
 2\. La denuncia ha effetto allo scadere di un termine di un anno a decorrere dalla data di ricezione della sua notifica dal depositario o a qualsiasi altra data ulteriore specificata nella notifica.
 
-##### Articolo 39
+#### Articolo 39
 
 Depositario
 
 Il Segretario generale dell'Organizzazione delle Nazioni Unite e' il depositario della Convenzione.
 
-##### Articolo 40
+#### Articolo 40
 
 Testi autentici
 
@@ -799,7 +797,7 @@ IN FEDE DI CHE, i sottoscritti, debitamente autorizzati a tal fine, hanno firmat
 
 FATTO a Parigi, il 17 giugno millenovecentonovantaquattro.
 
-##### art. 1
+#### art. 1
 
 ALLEGATO I
 
@@ -809,7 +807,7 @@ Portata
 
 Il presente allegato si applica all'Africa, nei riguardi di qualsiasi Parte e conformemente alla Convenzione, in particolare all'articolo 7, ai fini della lotta contro la desertificazione e/o dell'attenuazione degli effetti della siccita' nelle zone aride, semi-aride e subumide secche in questa regione.
 
-##### Articolo 2
+#### Articolo 2
 
 Oggetto
 
@@ -821,7 +819,7 @@ Il presente allegato ha per oggetto, ai livelli nazionale, subregionale e region
 
 (c) promuovere meccanismi e attivita' relativi alla lotta contro la desertificazione e/o all'attenuazione degli effetti della siccita' nelle zone aride, semi-aride e subumide secche dell'Africa.
 
-##### Articolo 3
+#### Articolo 3
 
 Particolarita' della regione africana
 
@@ -841,7 +839,7 @@ Per adempiere gli obblighi che loro spettano in virtu' della Convenzione, le Par
 
 (h) il ruolo primordiale delle azioni di lotta contro la desertificazione e/o di attenuazione degli effetti della siccita' tra le priorita' nazionali di sviluppo nei Paesi africani colpiti.
 
-##### Articolo 4
+#### Articolo 4
 
 Impegni e obblighi dei Paesi Parte africani
 
@@ -865,7 +863,7 @@ Impegni e obblighi dei Paesi Parte africani
 
 (c) identificare e mobilizzare nuove e supplementari risorse finanziarie nazionali e sviluppare prioritariamente i mezzi e meccanismi disponibili a livello nazionale per mobilizzare risorse finanziarie interne.
 
-##### Articolo 5
+#### Articolo 5
 
 Impegni e obblighi dei Paesi Parte sviluppati
 
@@ -879,7 +877,7 @@ Impegni e obblighi dei Paesi Parte sviluppati
 
 2\. Gli altri Paesi Parte possono fornire, a titolo volontario, tecnologie, conoscenze e capacita' operative relative alla desertificazione e/o risorse finanziarie ai Paesi africani colpiti, Parti della Convenzione. Il trasferimento di tali tecnologie, conoscenze e capacita' operative e' facilitato dalla cooperazione internazionale.
 
-##### Articolo 6
+#### Articolo 6
 
 Quadro di pianificazione strategica per uno sviluppo sostenibile
 
@@ -887,13 +885,13 @@ Quadro di pianificazione strategica per uno sviluppo sostenibile
 
 2\. Un processo consultivo e partecipativo e' innescato con la partecipazione dei poteri pubblici ai livelli adeguati, delle popolazioni locali, delle collettivita' e delle organizzazioni non governative, al fine di fornire indicazioni concernenti la strategia da applicare, secondo una pianificazione flessibile che permetta una partecipazione ottimale delle popolazioni locali e delle collettivita'. Su domanda di un Paese africano colpito, Parte della Convenzione, organismi di aiuto bilaterale e multilaterale possono essere associati a tale processo, secondo quanto conviene.
 
-##### Articolo 7
+#### Articolo 7
 
 Scadenzario previsto per l'elaborazione dei programmi d'azione
 
 Nell'attesa dell'entrata in vigore della Convenzione, i Paesi Parte africani, in cooperazione con altri membri della comunita' internazionale, secondo quanto conviene, applicano provvisoriamente, nella misura del possibile, le disposizioni relative all'elaborazione dei programmi d'azione nazionali, subregionali e regionali.
 
-##### Articolo 8
+#### Articolo 8
 
 Contenuto dei programmi d'azione nazionali
 
@@ -977,7 +975,7 @@ c) misure per migliorare l'organizzazione istituzionale, consistenti:
 
 (iii) nel sorvegliare e valutare il degrado ecologico per fornire, in tempo utile, informazioni affidabili sul processo di degrado delle risorse e sulla dinamica di tale fenomeno per essere in grado di concepire migliori politiche e misure di lotta.
 
-##### Articolo 9
+#### Articolo 9
 
 Elaborazione dei programmi d'azione nazionali e definizione di criteri di valutazione e di attuazione
 
@@ -993,7 +991,7 @@ Ogni Paese africano colpito, Parte della Convenzione, designa un organo di coord
 
 (e) elabora rapporti circostanziati sullo stato di avanzamento dei programmi d'azione nazionali.
 
-##### Articolo 10
+#### Articolo 10
 
 Quadro organizzativo dei programmi d'azione subregionali
 
@@ -1009,7 +1007,7 @@ Quadro organizzativo dei programmi d'azione subregionali
 
 2\. Le istituzioni specializzate subregionali possono, su domanda, fornire un sostegno e/o essere incaricate di coordinare le attivita' che rientrano nel loro ambito di competenza rispettivo.
 
-##### Articolo 11
+#### Articolo 11
 
 Contenuto ed elaborazione dei programmi d'azione subregionali
 
@@ -1033,7 +1031,7 @@ I programmi d'azione subregionali sono incentrati sulle questioni che sono megli
 
 (i) elaborazione di politiche nei campi che, come il commercio, incidono sulle zone e le popolazioni colpite, e in particolare di politiche di coordinamento dei regimi di commercializzazione regionali e di creazione d'infrastrutture comuni.
 
-##### Articolo 12
+#### Articolo 12
 
 Quadro organizzativo del programma d'azione regionale
 
@@ -1041,7 +1039,7 @@ Quadro organizzativo del programma d'azione regionale
 
 2\. Le Parti possono fornire un sostegno adeguato alle istituzioni e organizzazioni regionali africane competenti per permettere loro di aiutare i Paesi Parte africani ad adempiere le responsabilita' loro imposte dalla Convenzione.
 
-##### Articolo 13
+#### Articolo 13
 
 Contenuto del programma d'azione regionale
 
@@ -1057,7 +1055,7 @@ Il programma d'azione regionale comprende misure relative alla lotta contro la d
 
 (f) coordinamento e consolidamento dei sistemi subregionali e regionali d'allarme precoce e dei piani d'urgenza in caso di siccita'.
 
-##### Articolo 14
+#### Articolo 14
 
 Risorse finanziarie
 
@@ -1067,7 +1065,7 @@ Risorse finanziarie
 
 3\. In ossequio alle disposizioni dell'articolo 7 della Convenzione, i Paesi Parte sviluppati continuano a stanziare risorse importanti e/o risorse accresciute in favore dei Paesi africani colpiti, Parti della Convenzione, nonche' altre forme di aiuto sulla base di accordi e di meccanismi di compartecipazione di cui all'articolo 18, prestando debitamente attenzione alle questioni relative all'indebitamento, agli scambi internazionali e agli accordi di commercializzazione, conformemente al paragrafo 2 (b) dell'articolo 4 della Convenzione.
 
-##### Articolo 15
+#### Articolo 15
 
 Meccanismi finanziari
 
@@ -1081,7 +1079,7 @@ Meccanismi finanziari
 
 3\. Le Parti razionalizzano, nella misura del possibile, le modalita' per convogliare i fondi ai Paesi africani colpiti, Parti della Convenzione.
 
-##### Articolo 16
+#### Articolo 16
 
 Assistenza tecnica e cooperazione
 
@@ -1091,13 +1089,13 @@ Le Parti s'impegnano, in funzione delle loro rispettive capacita', a razionalizz
 
 (b) far capo di preferenza ai servizi di esperti nazionali competenti o, qualora necessario, di esperti competenti della subregione e/o della regione, per la concezione, l'elaborazione e l'attuazione dei progetti e formare esperti locali qualora non ve ne siano; e (c) fare in modo che l'assistenza tecnica da apportare sia gestita e coordinata correttamente nonche' utilizzata con efficacia.
 
-##### Articolo 17
+#### Articolo 17
 
 Trasferimento, acquisizione e adattamento di tecnologie ecologicamente razionali e accesso a tali tecnologie
 
 Nel quadro dell'applicazione dell'articolo 18 della Convenzione, relativo al trasferimento, all'acquisizione, all'adattamento e alla definizione di tecnologie, le Parti si impegnano a conferire la priorita' ai Paesi Parte africani e, se necessario, a sviluppare con loro nuovi modelli di compartecipazione e di cooperazione per accrescere il consolidamento delle capacita' nei campi di ricerca e di sviluppo scientifici nonche' della raccolta e della diffusione dell'informazione per permettere loro di attuare le loro strategie miranti a lottare contro la desertificazione e ad attenuare gli effetti della siccita'.
 
-##### Articolo 18
+#### Articolo 18
 
 Coordinamento e accordi di compartecipazione
 
@@ -1129,7 +1127,7 @@ Coordinamento e accordi di compartecipazione
 
 7\. In applicazione dell'articolo 14 della Convenzione, i Paesi Parte sviluppati sono incoraggiati ad instaurare tra loro, di propria iniziativa, un processo informale di consultazione e di coordinamento ai livelli nazionale, subregionale e regionale ed a partecipare, su domanda di un Paese africano colpito, Parte della Convenzione, o dell'organizzazione subregionale o regionale competente, ad un processo consultivo nazionale, subregionale o regionale avente per scopo di valutare i bisogni in aiuto e di rispondervi per facilitare l'attuazione del programma d'azione.
 
-##### Articolo 19
+#### Articolo 19
 
 Disposizioni relative all'assistenza operativa
 
@@ -1143,13 +1141,13 @@ ALLEGATO II
 
 ALLEGATO CONCERNENTE L'ATTUAZIONE A LIVELLO REGIONALE PER L'ASIA
 
-##### Articolo 1
+#### Articolo 1
 
 Oggetto
 
 Il presente allegato fornisce direttive e indica le disposizioni da adottare per l'attuazione efficace della Convenzione dei Paesi Parte colpiti nella regione dell'Asia tenendo conto delle particolarita' di quest'ultima.
 
-##### Articolo 2
+#### Articolo 2
 
 Particolarita' della regione asiatica
 
@@ -1167,7 +1165,7 @@ Per adempiere gli obblighi che spettano loro in virtu' della Convenzione, le Par
 
 (f) la necessita' per essi di una cooperazione internazionale per poter perseguire obiettivi di sviluppo sostenibile in rapporto con la lotta contro la desertificazione e l'attenuazione degli effetti della siccita'.
 
-##### Articolo 3
+#### Articolo 3
 
 Quadro dei programmi d'azione nazionali
 
@@ -1175,7 +1173,7 @@ Quadro dei programmi d'azione nazionali
 
 2\. I Paesi Parte colpiti elaborano, secondo quanto conviene, programmi d'azione nazionali in virtu' degli articoli 9-11 della Convenzione, prestando attenzione speciale al paragrafo 2(f) dell'articolo 10. Se del caso, su domanda del Paese Parte colpito interessato, organismi di cooperazione bilaterali e multilaterali possono essere associati a questo processo.
 
-##### Articolo 4
+#### Articolo 4
 
 Programmi d'azione nazionali
 
@@ -1201,7 +1199,7 @@ Programmi d'azione nazionali
 
 2\. In ossequio alle disposizioni dell'articolo 10 della Convenzione, la strategia generale da applicare nel quadro dei programmi d'azione nazionali lascia ampiamente posto ai programmi integrati di sviluppo locale per le zone colpite poggianti su meccanismi partecipativi e sull'integrazione di strategie d'eliminazione della poverta' nelle iniziative miranti a lottare contro la desertificazione e ad attenuare gli effetti della siccita'. Le misure settoriali previste nei programmi d'azione sono classificate per campo prioritario tenendo conto della grande diversita' delle zone colpite della regione di cui al paragrafo (a) dell'articolo 2.
 
-##### Articolo 5
+#### Articolo 5
 
 Programmi d'azione subregionali e comuni
 
@@ -1219,7 +1217,7 @@ Programmi d'azione subregionali e comuni
 
 3\. Tra i programmi d'azione subregionali o comuni possono figurare programmi comuni decisi per gestire in modo durevole le risorse naturali transfrontaliere che hanno un nesso con la desertificazione, priorita' concernenti il coordinamento e altre attivita' nell'ambito del rafforzamento delle capacita', della cooperazione scientifica e tecnica, in particolare dei sistemi d'allarme precoce di siccita' e meccanismi di riunione dell'informazione, nonche' mezzi per consolidare le organizzazioni o istituzioni subregionali e di altro tipo.
 
-##### Articolo 6
+#### Articolo 6
 
 Attivita' regionali
 
@@ -1233,7 +1231,7 @@ Nel quadro delle attivita' regionali intese a consolidare i programmi d'azione s
 
 (d) incoraggiare i programmi di sensibilizzazione del pubblico e promuovere il rafforzamento delle capacita' a tutti i livelli intensificando le attivita' di formazione e di ricerca-sviluppo e instaurando sistemi adeguati per mettere in valore le risorse umane.
 
-##### Articolo 7
+#### Articolo 7
 
 Risorse e meccanismi finanziari
 
@@ -1249,7 +1247,7 @@ Risorse e meccanismi finanziari
 
 3\. Le Parti razionalizzano, nella misura del possibile, le procedure per convogliare i fondi ai Paesi Parte colpiti della regione.
 
-##### Articolo 8
+#### Articolo 8
 
 Meccanismi di cooperazione e di coordinamento
 
@@ -1279,13 +1277,13 @@ ALLEGATO CONCERNENTE L'ATTUAZIONE A LIVELLO REGIONALE
 
 PER L'AMERICA LATINA E I CARAIBI
 
-##### Articolo 1
+#### Articolo 1
 
 Oggetto
 
 Il presente allegato fornisce orientamenti generali per l'attuazione della Convenzione nella regione dell'America latina e dei Caraibi tenendo conto delle particolarita' di quest'ultima.
 
-##### Articolo 2
+#### Articolo 2
 
 Particolarita' della regione dell'America latina e dei Caraibi
 
@@ -1295,7 +1293,7 @@ Le Parti, conformemente alle disposizioni della Convenzione, prendono in conside
 
 (c) una nettissima riduzione della produttivita' degli ecosistemi che e' la principale conseguenza della desertificazione e della siccita' e che si traduce in un calo di rendimento nell'agricoltura, nell'allevamento e nella silvicoltura, nonche' in una diminuzione della diversita' biologica; dal punto di vista sociale ne risultano fenomeni di impoverimento, fenomeni migratori, spostamenti interni di popolazione e un deterioramento della qualita' della vita; di conseguenza la regione dovra' affrontare in modo integrato i problemi della desertificazione e della siccita' incoraggiando modi di sviluppo sostenibili conformi alla realta' ambientale, economica e sociale di ogni Paese.
 
-##### Articolo 3
+#### Articolo 3
 
 Programmi d'azione
 
@@ -1303,7 +1301,7 @@ Programmi d'azione
 
 2\. Nell'elaborazione dei loro programmi d'azione nazionali, i Paesi Parte colpiti della regione prestano attenzione particolare al paragrafo 2 (f) dell'articolo 10 della Convenzione.
 
-##### Articolo 4
+#### Articolo 4
 
 Contenuto dei programmi d'azione nazionali
 
@@ -1333,7 +1331,7 @@ A seconda della loro rispettiva situazione, i Paesi Parte colpiti della regione 
 
 (l) la creazione o il consolidamento dei quadri istituzionali e giuridici che permettano di applicare la Convenzione e intesi, tra l'altro, a decentralizzare le strutture e le funzioni amministrative legate alla desertificazione e alla siccita', con la partecipazione delle comunita' colpite e della societa' in generale.
 
-##### Articolo 5
+#### Articolo 5
 
 Cooperazione tecnica, scientifica e tecnologica
 
@@ -1349,7 +1347,7 @@ Conformemente alla Convenzione, in particolare ai suoi articoli 16- 18, e nel qu
 
 (e) operano a favore della definizione, dell'adattamento, dell'adozione e del trasferimento di nuove tecnologie ecologicamente razionali.
 
-##### Articolo 6
+#### Articolo 6
 
 Risorse e meccanismi finanziari
 
@@ -1361,7 +1359,7 @@ Conformemente alla Convenzione, in particolare ai suoi articoli 20 e 21, nel qua
 
 (c) favoriscono la partecipazione d'organismi di cooperazione finanziaria bilaterale e/o multilaterale per garantire l'attuazione della Convenzione.
 
-##### Articolo 7
+#### Articolo 7
 
 Quadro istituzionale
 
@@ -1391,13 +1389,13 @@ ALLEGATO CONCERNENTE L'ATTUAZIONE A LIVELLO REGIONALE
 
 PER IL MEDITERRANEO SETTENTRIONALE
 
-##### Articolo 1
+#### Articolo 1
 
 Oggetto
 
 Il presente allegato fornisce direttive e indica le disposizioni da prendere per l'attuazione efficace della Convenzione nei Paesi Parte colpiti della regione del Mediterraneo settentrionale tenendo conto delle particolarita' di quest'ultima.
 
-##### Articolo 2
+#### Articolo 2
 
 Particolarita' della regione del Mediterraneo settentrionale
 
@@ -1417,13 +1415,13 @@ Le particolarita' della regione del Mediterraneo settentrionale di cui all'artic
 
 (g) una concentrazione dell'attivita' economica nelle zone costiere imputabile allo sviluppo dell'urbanizzazione, alle attivita' industriali, al turismo e all'agricoltura irrigata.
 
-##### Articolo 3
+#### Articolo 3
 
 Quadro della pianificazione strategica per uno sviluppo sostenibile 1. I programmi d'azione nazionali fanno parte integrante del quadro della pianificazione strategica per lo sviluppo sostenibile dei Paesi Parte colpiti del Mediterraneo settentrionale e ne sono un elemento essenziale.
 
 2\. Un processo consultivo e partecipativo che fa capo ai poteri pubblici ai livelli appropriati, agli enti locali e alle organizzazioni non governative, e' avviato con lo scopo di fornire indicazioni sulla strategia da applicare, secondo una pianificazione flessibile, per permettere una partecipazione ottimale a livello locale, in applicazione del paragrafo 2 (f) dell'articolo 10 della Convenzione.
 
-##### Articolo 4
+#### Articolo 4
 
 Obbligo di elaborare programmi d'azione nazionali e scadenziario
 
@@ -1431,7 +1429,7 @@ I Paesi Parte colpiti della regione del Mediterraneo settentrionale elaboreranno
 
 L'elaborazione di tali programmi sara' ultimata il piu' presto possibile.
 
-##### Articolo 5
+#### Articolo 5
 
 Elaborazione e attuazione dei programmi d'azione nazionali
 
@@ -1449,7 +1447,7 @@ Per elaborare e attuare i programmi d'azione nazionali in applicazione degli art
 
 (f) definire e applicare procedure e punti di riferimento per sorvegliare e valutare l'attuazione del programma.
 
-##### Articolo 6
+#### Articolo 6
 
 Contenuto dei programmi d'azione nazionali
 
@@ -1465,7 +1463,7 @@ I Paesi Parte colpiti della regione possono prevedere nei loro progammi d'azione
 
 (f) la ricerca, la formazione e la sensibilizzazione del pubblico.
 
-##### Articolo 7
+#### Articolo 7
 
 Programmi d'azione subregionali, regionali e congiunti
 
@@ -1481,19 +1479,19 @@ Programmi d'azione subregionali, regionali e congiunti
 
 (c) analizzare i programmi esistenti in materia di desertificazione comuni alle Parti della regione nonche' i loro rapporti con i programmi d'azione nazionali.
 
-##### Articolo 8
+#### Articolo 8
 
 Coordinamento dei programmi d'azione subregionali, regionali e congiunti
 
 I Paesi Parte colpiti che elaborano un programma d'azione subregionale, regionale o congiunto possono istituire un comitato di coordinamento composto di rappresentanti di ogni Paese Parte colpito al fine di esaminare i progressi della lotta contro la desertificazione, di armonizzare i programmi d'azione nazionali, di formulare raccomandazioni ai differenti stadi dell'elaborazione e dell'attuazione dei programmi subregionali, regionali o congiunti, e di servire quale centro di collegamento per il coordinamento e la promozione della cooperazione tecnica in applicazione degli articoli 16-19 della Convenzione.
 
-##### Articolo 9
+#### Articolo 9
 
 Parti che non hanno diritto ad un'assistenza finanziaria
 
 I Paesi sviluppati colpiti della regione, Parti della Convenzione, non hanno diritto ad un'assistenza finanziaria ai fini dell'attuazione dei programmi nazionali, subregionali, regionali e congiunti a norma della Convenzione.
 
-##### Articolo 10
+#### Articolo 10
 
 Coordinamento con le altre subregioni e regioni
 

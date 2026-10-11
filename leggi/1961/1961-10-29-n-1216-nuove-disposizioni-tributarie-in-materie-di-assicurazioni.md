@@ -30,7 +30,7 @@ la seguente legge:
 
 ## TITOLO I - DELLE IMPOSTE SULLE ASSICURAZIONI
 
-##### Art. 1
+### Art. 1
 
 Sono soggette alle imposte stabilite nell'annessa tariffa ordinaria (allegato A):
 
@@ -66,7 +66,7 @@ AGGIORNAMENTO (11)
 
 Il D.L. 30 dicembre 1997, n. 457 ,convertito con modificazioni dalla L. 27 febbraio 1998, n. 30 (in G.U. 28/02/1998, n.49) ha disposto (con l'art. 9-quater, comma 1) che "Per le assicurazioni riguardanti navi immatricolate o registrate in Italia l'aliquota di cui all'articolo 1 della legge 29 ottobre 1961, n. 1216, viene fissata nella misura dello 0,05 per cento a decorrere dal 1 gennaio 1998."
 
-##### Art. 1-bis - Imposta sui premi delle assicurazioni obbligatorie dei veicoli a motore e dei natanti
+### Art. 1-bis - Imposta sui premi delle assicurazioni obbligatorie dei veicoli a motore e dei natanti
 
 1\. Le assicurazioni obbligatorie della responsabilita' civile per i danni causati dalla circolazione dei veicoli e dei natanti sono soggette all'imposta sui premi nella misura del dodicivirgolacinque per cento. Tale misura si applica anche alle assicurazioni di altri rischi inerenti al veicolo o al natante o ai danni causati dalla loro circolazione ((, ivi comprese le assicurazioni relative al rischio di infortunio del conducente e quelle relative al rischio di assistenza stradale a prescindere dalla distinta indicazione nel contratto assicurativo)). (17) ((32))
 
@@ -88,17 +88,17 @@ La L. 30 dicembre 2025, n. 199, ha disposto (con l'art. 1, comma 59) che "Il sec
 
 Ha inoltre disposto (con l'art. 1, comma 64) che "Le disposizioni di cui ai commi 60, 61, 62 e 63 si applicano sui contratti stipulati o rinnovati a decorrere dal 1° gennaio 2026".
 
-##### Art. 2
+### Art. 2
 
 ((IL D.LGS. 17 MARZO 1995, N. 175 HA CONFERMATO LA SOPPRESSIONE DEL PRESENTE ARTICOLO))
 
-##### Art. 2-bis
+### Art. 2-bis
 
 (((Sostituzione dell'impresa nella coassicurazione).
 
 1\. Nel caso di subentro di un assicuratore in un rapporto di coassicurazione non e' dovuta nuovamente l'imposta in relazione al premio ceduto all'assicuratore subentrante.))
 
-##### Art. 3
+### Art. 3
 
 Le riassicurazioni non sono soggette ad imposta quando si riferiscono ad assicurazioni per le quali sia stata pagata l'imposta a norma della presente legge o ad assicurazioni comprese nell'allegata tabella C) comunque esenti da imposta in forza di leggi speciali. In caso diverso le riassicurazioni sono soggette ad imposta secondo le disposizioni dell'articolo 1, avuto riguardo all'oggetto dell'assicurazione originaria, con le aliquote stabilite nella tariffa.(5)((6))
 
@@ -118,7 +118,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 17 marzo 1995, n. 175 ha confermato (con l'art. 175, comma 3)la precedente modifica.
 
-##### Art. 4
+### Art. 4
 
 Le imposte stabilite dalla presente legge sono dovute proporzionalmente per ogni lira di ciascun pagamento del premio. Esse divengono applicabili a misura che, in Italia, ed all'estero, sia pagato ed altrimenti soddisfatto il premio, e non cessano di essere dovute ancorche' questo, per qualsiasi causa, venga in tutto o in parte restituito dall'assicuratore.
 
@@ -126,7 +126,7 @@ Nel determinare l'imponibile il premio deve essere valutato nella sua integrita'
 
 Per le assicurazioni mutue l'imponibile e' costituito dalle somme che, sotto qualsiasi denominazione, sono versate dai contraenti alla mutua, eccezione fatta per le imposte di cui al precedente comma che vengano rifuse dal contraente. Non costituiscono imponibile i conferimenti effettuati per la costituzione di fondi di garanzia previsti dall'articolo 2548 del Codice civile.
 
-##### Art. 4-bis - Imposta sui premi dovuta sui contratti conclusi da imprese che operano in libera prestazione di servizi
+### Art. 4-bis - Imposta sui premi dovuta sui contratti conclusi da imprese che operano in libera prestazione di servizi
 
 1\. Le imprese che intendono operare nel territorio della Repubblica in libera prestazione di servizi devono nominare un rappresentante fiscale ai fini del pagamento dell'imposta prevista dalla legge 29 ottobre 1961, n. 1216, e successive modificazioni, dovuta sui premi relativi ai contratti conclusi.
 
@@ -142,7 +142,7 @@ Per le assicurazioni mutue l'imponibile e' costituito dalle somme che, sotto qua
 
 6-bis. Le disposizioni del presente articolo non si applicano alle imprese assicuratrici aventi sede principale negli Stati dell'Unione europea ovvero negli Stati dello Spazio economico europeo che assicurano un adeguato scambio di informazioni. Le imprese assicuratrici che operano nel territorio dello Stato in regime di libera prestazione di servizi, ove non si avvalgano di un rappresentante fiscale, presentano entro il 31 maggio di ciascun anno, ((...)) , la denuncia dei premi ed accessori incassati nell'anno solare precedente, distinguendo i premi stessi per categoria e per aliquota applicabile. Si applicano al rappresentante fiscale eventualmente nominato le disposizioni dell'articolo 9.
 
-##### Art. 5
+### Art. 5
 
 Per l'esercizio delle assicurazioni soggette alle imposte previste dalla presente legge, gli assicuratori nazionali e quelli esteri operanti in Italia devono tenere, per ogni esercizio annuale, secondo i rispettivi bilanci, un registro conforme a modello stabilito con decreto del Ministro per le finanze, di concerto con quello per l'industria e il commercio, nel quale devono registrare tutte le somme che sono loro pagate o altrimenti soddisfatte, in Italia o all'estero, direttamente o a mezzo di agenti o incaricati, per premi ed accessori in dipendenza di dette assicurazioni.
 
@@ -182,7 +182,7 @@ Anche per queste partite dovranno essere compiute le operazioni di cui al comma 
 
 Qualora siano tenuti piu' registri separati, ciascuno di essi dovra' essere come sopra addizionato e chiuso, e le cifre totali rispettive verranno riportate e riassunte in uno di questi registri, con la dichiarazione di cui all'ottavo comma per l'ammontare cumulativo di ogni colonna dei registri medesimi.
 
-##### Art. 6
+### Art. 6
 
 Per le partite riscosse a mezzo di agenti o incaricati, con o senza formale procura, e' data facolta' agli assicuratori di iscrivere le partite stesse nel registro di cui ai precedente articolo, anziche' per ogni, polizza, cumulativamente per ogni rendiconto di ciascun agente ed incaricato, e per ciascuna delle categorie di assicurazioni indicate nelle allegate tariffe, raggruppando le categorie soggette ad una identica aliquota di imposta e riportando le cifre totali dell'incasso risultate da ogni rendiconto originale, con riferimento al medesimo.
 
@@ -198,7 +198,7 @@ Quando gli assicuratori si avvalgono della facolta' di cui al primo comma, gli a
 
 Agli effetti delle disposizioni contenute nei successivi articoli 12 e 24 i rendiconti, quando ne siano stati riportati i totali nel registro dei premi, sono considerati come parte integrante del registro medesimo.
 
-##### Art. 6-bis
+### Art. 6-bis
 
 (( (Imposta sui premi dovuta sui contratti stipulati in coassicurazione comunitaria).))
 
@@ -206,13 +206,13 @@ Agli effetti delle disposizioni contenute nei successivi articoli 12 e 24 i rend
 
 2\. ((L'impresa che assume la posizione di coassicuratore delegatario, se non e' stabilita nel territorio della Repubblica, e' tenuta a nominare un proprio rappresentante ai fini del pagamento dell'imposta di cui al comma 1.))
 
-##### Art. 7
+### Art. 7
 
 Per il registro prescritto dall'articolo 5 debbono osservarsi le norme stabilite dall'articolo 2215 del Codice civile. La vidimazione del registro e' esente da tassa, di concessione governativa.
 
 Il Ministro per le finanze, di concerto con quello per l'industria e il commercio, puo' consentire con apposite decreto che il registro di cui al citato articolo sia sostituito con altro a schede mobili, anche con sistema, meccanografico.
 
-##### Art. 8
+### Art. 8
 
 Il registro dei premi deve essere tenuto presso la sede dell'assicuratore se italiano, o presso la sede del rappresentante in Italia dell'assicuratore estero. Per gli agenti od incaricati di cui all'articolo i il registro deve essere tenuto presso la sede dell'agenzia o dell'ufficio. Gli assicuratori aventi piu' sedi o rappresentanze, devono tenere il registro presso la sede o la rappresentanza principale o presso ciascuna delle sedi o rappresentanze che, nei rapporti contabili, siano indipendenti l'una dall'altra.
 
@@ -220,7 +220,7 @@ Il registro medesimo deve essere conservato per dieci anni, computabili dalla fi
 
 Del pari, gli assicuratori sono tenuti a conservare per cinque anni dai giorno in cui hanno cessato di avere effetto le polizze originali relative alle assicurazioni assoggettate ad imposta.
 
-##### Art. 9 - Denuncia e versamenti
+### Art. 9 - Denuncia e versamenti
 
 1\. Gli assicuratori debbono versare all'ufficio del registro entro il mese solare successivo l'imposta dovuta sui premi ed accessori incassati in ciascun mese solare, nonche' eventuali conguagli dell'imposta dovuta sui premi ed accessori incassati nel secondo mese precedente. Per i premi ed accessori incassati nel mese di novembre, nonche' per gli eventuali conguagli relativi al mese di ottobre, l'imposta deve essere versata entro il 20 dicembre successivo. I versamenti cosi' effettuati vengono scomputati nella liquidazione definitiva di cui al comma 4.
 
@@ -260,11 +260,11 @@ AGGIORNAMENTO (28)
 
 Il D.Lgs. 12 febbraio 2024, n. 13 ha disposto (con l'art. 5, comma 2) che "La disposizione di cui al comma 1, lettera a) si applica alle dichiarazioni presentate a decorrere dal periodo di imposta successivo a quello in corso alla data di pubblicazione del presente decreto sulla Gazzetta ufficiale della Repubblica italiana".
 
-##### Art. 10
+### Art. 10
 
 ((ARTICOLO SOPPRESSO DAL D.L. 30 DICEMBRE 1982, N. 953 , CONVERTITO CON MODIFICAZIONI DALLA L. 28 FEBBRAIO 1983, N. 53))
 
-##### Art. 11
+### Art. 11
 
 Per le assicurazioni stipulate da contraenti domiciliati ed aventi sede in Italia con assicuratori all'estero, la denunzia dell'ammontare del premio e degli accessori versati all'assicuratore estero ed il pagamento della corrispondente imposta devono essere eseguiti dal contraente all'Ufficio del registro nella cui circoscrizione egli ha il suo domicilio.
 
@@ -272,7 +272,7 @@ La denunzia deve essere presentata entro un mese dal giorno del pagamento del pr
 
 Per le merci trasportate da o verso l'Italia gli Uffici doganali sono tenuti ad accertare, all'atto delle operazioni doganali, se sia stata stipulata assicurazione contro i rischi del trasporto e, quando questa risulti stipulata con assicuratore all'estero, a controllare se per la stessa sia stata pagata l'imposta dovuta, a norma dell'articolo 1 della presente legge, o, in caso diverso a segnalare la assicurazione all'Ufficio del registro nel cui distretto sono domiciliati ed hanno sede il contraente o, nell'ipotesi di cui al quinto comma, lettera e), dell'articolo 1, la ditta o persona assicurata.
 
-##### Art. 12
+### Art. 12
 
 Gli assicuratori e i loro agenti ed incaricati hanno obbligo di esibire ai funzionari ed impiegati di cui al successivo articolo 28 e agli uffici dell'Amministrazione finanziaria, al ogni richiesta, il registro dei premi e di permettere che ne facciano l'esame e lo pongano a riscontro con i rimanenti libri, con le polizze originali, con le quietanze e con tutti gli altri atti, scritti e carte della propria azienda di assicurazione, oltre che con le denunzie di cui all'articolo 9.
 
@@ -284,35 +284,33 @@ processo verbale di constatazione ai sensi
 
 ## TITOLO II - DELLE IMPOSTE SUI CONTRATTI DI RENDITA VITALIZIA
 
-##### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 FEBBRAIO 2000, N. 47))
 
-##### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 FEBBRAIO 2000, N. 47))
 
-##### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 FEBBRAIO 2000, N. 47))
 
-## TITOLO III - DISPOSIZIONI COMUNI ALLE IMPOSTE SULLE
+## TITOLO III - DISPOSIZIONI COMUNI ALLE IMPOSTE SULLE ASSICURAZIONI E SUI CONTRATTI DI RENDITA VITALIZIA
 
-### ASSICURAZIONI E SUI CONTRATTI DI RENDITA VITALIZIA
-
-##### Art. 16
+### Art. 16
 
 Nelle imposte che debbono corrispondersi in base alla presente legge sono compenetrate le imposte di bollo dovute sui contratti di assicurazione, di riassicurazione e di rendita vitalizia, sulle ricevute parziali di pagamento, sulle quietanze, ivi comprese quelle rilasciate agli assicuratori per il pagamento delle somme assicurate, e su ogni altro atto inerente alla acquisizione, gestione ed esecuzione dei contratti di assicurazione, di riassicurazione e di rendita vitalizia posto in essere nei rapporti dell'assicuratore con altri assicuratori, con i suoi agenti, intermediari ed altri collaboratori anche autonomi, e con gli assicurati.
 
 I contratti, le ricevute e le quietanze di cui al comma precedente sono esenti dall'imposta di registro e dalla formalita' della registrazione.
 
-##### Art. 17
+### Art. 17
 
 Salvo patto contrario, gli assicuratori hanno diritto di rivalersi sui contraenti per le somme dovute a titolo di imposta sulle assicurazioni e sui contratti di rendita vitalizia.
 
 Quando abbia luogo la rivalsa, nei contratti e nelle ricevute relative deve essere, a cura dell'assicuratore o del suo agente od incaricato, indicata in modo distinto la somma preciso delle imposte rimborsate dal contraente.
 
-##### Art. 18
+### Art. 18
 
 E' fatto divieto ai magistrati di ogni giurisdizione ed agli arbitri di pronunciare sentenze e di emettere decreti o provvedimenti sulla presentazione ed in relazione a contratti di assicurazione, di riassicurazione o di rendita vitalizia soggetti ad imposta a norma della presente legge, per i quali non sia stata regolarmente pagata imposta dovuta e l'eventuale sopratassa.
 
@@ -322,11 +320,11 @@ La prova del regolare pagamento dell'imposta puo' essere data con qualsiasi mezz
 
 Le disposizioni proibitive di questo articolo non si applicano ai procedimenti penali ed alla materiale descrizione di documenti negli inventari ed in altri atti conservativi.
 
-##### Art. 19
+### Art. 19
 
 Non possono essere dichiarate efficaci nel territorio della Repubblica le sentenze di autorita' giudiziarie straniere o di arbitri stranieri relative a contestazioni derivanti dalle operazioni indicate negli articoli 1, 3 e 13 della presente legge se non venga esibito il certificato comprovante l'avvenuto pagamento dell'imposta e dell'eventuale sopratassa.
 
-##### Art. 20
+### Art. 20
 
 Gli assicuratori, compresi quelli che fanno contratti di rendita vitalizia, devono, entro trenta giorni dall'inizio della loro attivita' denunziare per iscritto all'Ufficio del registro nella cui circoscrizione hanno la loro sede principale:
 
@@ -342,7 +340,7 @@ Alla stessa denunzia da farsi all'Ufficio del registro nella cui circoscrizione 
 
 Ogni modifica degli elementi della denunzia deve essere notificata entro i successivi 30 giorni.
 
-##### Art. 21
+### Art. 21
 
 I rappresentanti e gli incaricati speciali nello Stato di assicuratori esteri sono solidalmente responsabili con l'assicuratore che rappresentano per il pagamento delle imposte, sopratasse e pene pecuniarie stabilite dalla presente legge, per l'inosservanza delle disposizioni in essa contenute.
 
@@ -350,7 +348,7 @@ Per i contratti di assicurazione((...))stipulati con assicuratori all'estero da 
 
 Per le assicurazioni previste dall'articolo 1, quinto comma, lettera e) e' solidalmente responsabile per il pagamento delle imposte, sopratasse e pene pecuniarie la ditta o persona per conto della quale e' fatta l'assicurazione.
 
-##### Art. 22
+### Art. 22
 
 Per la liquidazione delle imposte previste dalla presente legge relative a contratti stipulati in valuta estera il ragguaglio in lire italiane del valore imponibile si effettua:
 
@@ -360,7 +358,7 @@ b) per le altre valute estere, in base al cambio risultante dal rapporto tra la 
 
 La liquidazione deve, essere effettuata al cambio medio settimanale valido per il giorno in cui e' stato effettuato il pagamento del premio all'assicuratore.
 
-##### Art. 23
+### Art. 23
 
 Le infrazioni alle disposizioni che disciplinano l'esercizio delle assicurazioni private accertate dagli organi del Ministero dell'industria, e del commercio debbono essere comunicate, per i provvedimenti da adottarsi a norma della presente legge, ai competenti uffici finanziari.
 
@@ -368,7 +366,7 @@ Questi ultimi uffici sono a loro volta, tenuti a comunicare al Ministero del l'i
 
 ## TITOLO IV - DELLE SANZIONI
 
-##### Art. 24 - Sanzioni
+### Art. 24 - Sanzioni
 
 1\. Le violazioni alle disposizioni della presente legge sono punite con le seguenti sanzioni amministrative:
 
@@ -402,25 +400,21 @@ AGGIORNAMENTO (29)
 
 Il D.Lgs. 14 giugno 2024, n. 87, ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
-##### Art. 25
+### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 DICEMBRE 1997, N. 473))
 
-##### Art. 26
+### Art. 26
 
 Le somme riscosse per le pene pecuniarie previste dalla presente legge sono ripartite a norma della legge 7 febbraio 1951, n. 168, detratto il 10 per cento per spese inerenti alla riscossione.
 
-## TITOLO V - DISPOSIZIONI PER LA RISOLUZIONE DELLE CONTROVERSIE, PER LA
+## TITOLO V - DISPOSIZIONI PER LA RISOLUZIONE DELLE CONTROVERSIE, PER LA RISCOSSIONE COATTIVA E PER L'ACCERTAMENTO DELLE VIOLAZIONI ((E LA RECIPROCA ASSISTENZA FRA GLI STATI MEMBRI DELL'UNIONE EUROPEA))
 
-### RISCOSSIONE COATTIVA E PER L'ACCERTAMENTO DELLE VIOLAZIONI - ((E LA RECIPROCA ASSISTENZA
-
-#### FRA GLI STATI MEMBRI DELL'UNIONE EUROPEA))
-
-##### Art. 27
+### Art. 27
 
 Per la risoluzione, in via amministrativa in via giudiziaria, delle controversie relative alla applicazione delle imposte e soprattasse previste dalla presente legge e per la riscossione coattiva delle dette imposte e soprattasse e delle pene pecuniarie contemplate dalla legge stessa si osservano le disposizioni vigenti in materia d'imposta di registro.
 
-##### Art. 28
+### Art. 28
 
 ((COMMA ABROGATO DAL D.LGS. 18 DICEMBRE 1997, N. 473))
 
@@ -428,7 +422,7 @@ Agli effetti degli articoli 31 e 34 della legge 7 gennaio 1929, n. 4, l'accertam
 
 I funzionari o gli impiegati di cui al secondo comma, nonche' gli ufficiali ed agenti della Polizia tributaria sono tenuti ad osservare il segreto di ufficio per quanto riguarda il contenuto degli atti da essi esaminati nello esercizio delle loro funzioni.
 
-##### Art. 28-bis
+### Art. 28-bis
 
 (( (Assistenza per lo scambio di informazioni tra le autorita' competenti degli Stati membri dell'Unione europea). ))
 
@@ -440,7 +434,7 @@ I funzionari o gli impiegati di cui al secondo comma, nonche' gli ufficiali ed a
 
 ## TITOLO VI - DELLA PRESCRIZIONE
 
-##### Art. 29
+### Art. 29
 
 (( (Prescrizione e decadenza dell'azione dello Stato). ))
 
@@ -460,13 +454,13 @@ AGGIORNAMENTO (28)
 
 Il D.Lgs. 12 febbraio 2024, n. 13 ha disposto (con l'art. 5, comma 2) che "Se non stabilito diversamente, le disposizioni di cui al comma 1, lettera b), si applicano agli avvisi relativi al periodo di imposta successivo a quello in corso alla data di pubblicazione del presente decreto sulla Gazzetta ufficiale della Repubblica italiana".
 
-##### Art. 30
+### Art. 30
 
 L'azione del contribuente per chiedere la restituzione delle imposte, soprattasse e pene pecuniarie indebitamente pagate si prescrive con il decorso di tre anni dai giorno dell'effettuato pagamento.
 
 ## TITOLO VII - DISPOSIZIONI FINALI E TRANSITORIE
 
-##### Art. 31
+### Art. 31
 
 ((Le imposte stabilite dalla presente legge sono dovute anche per i contratti di assicurazione e vitalizi in corso alla data di cui al primo comma del successivo articolo 33 e ne viene fatta applicazione sull'ammontare dei premi ed accessori incassati a cominciare da detta data)).
 
@@ -474,7 +468,7 @@ Per gli stessi contratti gli assicuratori, anche quando si fossero accollato il 
 
 La disposizione di cui al primo comma non si applica nei confronti dei contratti per i quali l'imposta sia gia' stata corrisposta una volta tanto sul premio accumulato per la durata dell'assicurazione.
 
-##### Art. 32
+### Art. 32
 
 Le imposte stabilite dalla tariffa allegata alla presente legge per le assicurazioni contro i danni dello incendio e per le assicurazioni globali comprendenti il rischio di incendio sono comprensive del contributo previsto dall'articolo 4 della legge 13 maggio 1961, n. 469.
 
@@ -482,7 +476,7 @@ L'obbligo di corrispondere tale contributo cessa con l'entrata in applicazione d
 
 Nei confronti degli assicuratori contro i rischi dello incendio operanti nella regione Trentino-Alto Adige e' ammesso in detrazione dall'imposta dovuta per le assicurazioni di cui al primo comma l'importo del contributo annualmente corrisposto dagli stessi alla Cassa regionale antincendi della predetta Regione ai sensi dell'articolo 32 della legge regionale 20 agosto 1954, n. 24, nell'ammontare determinato per ciascuno di essi conformita' alla citata disposizione.
 
-##### Art. 33
+### Art. 33
 
 Le disposizioni della presente legge e delle tariffe e tabelle ad essa allegate si applicano a decorrere dal primo giorno del settimo mese successivo a quello della pubblicazione nella Gazzetta Ufficiale. Restano tuttavia esclusi dall'applicazione delle nuove disposizioni i contratti in corso per i quali l'imposta sia gia' stata corrisposta una volta tanto sul premio indicato in polizza accumulato per la durata dell'assicurazione.
 
@@ -496,7 +490,7 @@ Le eventuali differenze risultanti a debito o a credito dell'assicuratore dalla 
 
 Per il pagamento dell'imposta dovuta sui premi ed accessori pagati o altrimenti soddisfatti agli assicuratori lino a tutto il 30 giugno 1962 restano ferme le disposizioni dell'articolo 21 del regio decreto 30 dicembre 1923, n. 3281; per i premi ed accessori incassati entro il sopraddetto termine ed iscritti nel registro dei premi successivamente al termine stesso, gli assicuratori sono tenuti a presentare una denunzia complementare entro il 30 settembre 1962 corrispondendo l'imposta relativa nei 15 giorni successivi. Restano altresi' ferme le disposizioni degli articoli 6 e 28 del citato regio decreto n. 3281 per le assicurazioni marittime ed aeree e per i contratti di rendita vitalizia stipulati fino a tutto il 30 giugno 1962)).
 
-##### Art. 34
+### Art. 34
 
 Sono abrogate le disposizioni del regio decreto 30 dicembre 1923, 3281, e delle successive leggi modificative ed integrative nonche' tutte le altre disposizioni in contrasto con quelle della presente legge.
 
@@ -516,7 +510,7 @@ Visto, il Guardasigilli: GONELLA
 
 ## TITOLO VII - DISPOSIZIONI FINALI E TRANSITORIE
 
-##### Allegato A
+### Allegato A
 
 ALLEGATO A
 
@@ -609,7 +603,7 @@ La L. 30 dicembre 2025, n. 199, ha disposto (con l'art. 1, comma 60, lettera b))
 
 Ha inoltre disposto (con l'art. 1, comma 64) che "Le disposizioni di cui ai commi 60, 61, 62 e 63 si applicano sui contratti stipulati o rinnovati a decorrere dal 1° gennaio 2026".
 
-##### Allegato B
+### Allegato B
 
 ALLEGATO B
 
@@ -619,7 +613,7 @@ SOGGETTE ALLA IMPOSTA IN MISURA RIDOTTA
 
 Parte di provvedimento in formato grafico
 
-##### Allegato C
+### Allegato C
 
 ALLEGATO C
 

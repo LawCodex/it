@@ -32,7 +32,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI GENERALI
 
-#### Art. 1 - Natura e sede
+### Art. 1 - Natura e sede
 
 1\. Le camere di commercio, industria, artigianato e agricoltura, di seguito denominate: "camere di commercio", sono enti pubblici dotati di autonomia funzionale che svolgono, nell'ambito della circoscrizione territoriale di competenza, sulla base del principio di sussidiarieta' di cui all'articolo 118 della Costituzione, funzioni di interesse generale per il sistema delle imprese, curandone lo sviluppo nell'ambito delle economie locali.
 
@@ -50,7 +50,7 @@ Con i medesimi decreti sono disciplinate le modalita' per la successione nei rap
 
 5-quater. ((COMMA ABROGATO DAL D.L. 14 AGOSTO 2020, N. 104)).
 
-#### Art. 2 - Compiti e funzioni
+### Art. 2 - Compiti e funzioni
 
 1\. COMMA ABROGATO DAL D.LGS. 25 NOVEMBRE 2016, N. 219.
 
@@ -98,7 +98,7 @@ g) ferme restando quelle gia' in corso o da completare, attivita' oggetto di con
 
 9\. Le camere di commercio e le loro unioni possono formulare pareri e proposte alle amministrazioni dello Stato, alle regioni e agli enti locali sulle questioni che comunque interessano le imprese della circoscrizione territoriale di competenza.
 
-#### Art. 3 - Potesta' statutaria e regolamentare
+### Art. 3 - Potesta' statutaria e regolamentare
 
 1\. In conformita' ai principi della presente legge, ad ogni camera di commercio e' riconosciuta potesta' statutaria e regolamentare. Lo statuto disciplina, tra l'altro, con riferimento alle caratteristiche del territorio:
 
@@ -118,7 +118,7 @@ d) le forme di partecipazione.
 
 ((4-bis) I regolamenti per l'esercizio delle funzioni e dei compiti amministrativi e quelli relativi alle materie disciplinate dallo statuto sono approvati dal consiglio con il voto della maggioranza assoluta dei componenti.))
 
-#### Art. 4
+### Art. 4
 
 (( (Vigilanza).
 
@@ -130,7 +130,7 @@ b) alle regioni nelle materie di propria competenza.
 
 2\. La vigilanza si esercita, in particolare, negli ambiti relativi all'attivita' amministrativa e contabile, al funzionamento degli organi e allo svolgimento dei compiti di interesse generale secondo quanto stabilito negli articoli 4-bis, 5 e 5-bis.))
 
-#### Art. 4-bis - Vigilanza amministrativo-contabile
+### Art. 4-bis - Vigilanza amministrativo-contabile
 
 1\. Il Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze, previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, stabilisce con proprio regolamento ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, le norme che disciplinano la gestione patrimoniale e finanziaria delle camere di commercio e delle loro aziende speciali, nel rispetto dei principi di armonizzazione della finanza pubblica.
 
@@ -154,7 +154,7 @@ b) dell'efficacia dei programmi e delle attivita' svolti anche in forma associat
 
 2-sexies. Il Comitato, sulla base delle valutazioni di cui al comma 2-quater, individua le Camere di commercio che raggiungono livelli di eccellenza ai fini del riconoscimento delle premialita' di cui all'articolo 18, comma 9.
 
-#### Art. 5 - Scioglimento dei consigli
+### Art. 5 - Scioglimento dei consigli
 
 1\. I consigli sono sciolti con decreto del Ministro dello sviluppo economico:
 
@@ -176,7 +176,7 @@ d) nel caso di decadenza per mancata ricostituzione entro il termine di cui all'
 
 4\. Con i provvedimenti di cui ai commi 1 e 2 si provvede alla nomina di un commissario straordinario, scelto tra dirigenti pubblici ((...)) ed esperti di comprovata esperienza professionale. Entro e non oltre centoventi giorni dalla data di emanazione del decreto di nomina, il commissario straordinario avvia le procedure per il rinnovo del consiglio camerale, pena la decadenza dall'incarico.
 
-#### Art. 5-bis
+### Art. 5-bis
 
 (( (Relazione sull'attivita').
 
@@ -184,7 +184,7 @@ d) nel caso di decadenza per mancata ricostituzione entro il termine di cui all'
 
 2\. Le Unioni regionali presentano alle regioni, entro il 30 giugno di ogni anno, la relazione annuale sulle attivita' svolte dalle camere di commercio con particolare riferimento a quelle in favore dell'economia locale.))
 
-#### Art. 6 - Unioni regionali
+### Art. 6 - Unioni regionali
 
 ((1. Le camere di commercio possono associarsi in unioni regionali costituite ai sensi del codice civile, nelle circoscrizioni regionali in cui sono presenti almeno tre camere di commercio e in cui tutte le camere presenti aderiscono a tali associazioni, allo scopo di esercitare congiuntamente funzioni e compiti per il perseguimento degli obiettivi comuni del sistema camerale nell'ambito del territorio regionale di riferimento. Le unioni regionali curano e rappresentano gli interessi comuni delle camere di commercio associate ed assicurano il coordinamento dei rapporti con le Regioni territorialmente competenti; possono promuovere e realizzare servizi comuni per l'esercizio in forma associata di attivita' e servizi di competenza camerale. Fermo quanto previsto dal comma 1 bis del presente articolo, lo scioglimento delle Unioni regionali costituite ai sensi del presente comma puo' essere disposta solo con il consenso unanime dei soggetti associati.))
 
@@ -204,7 +204,7 @@ d) nel caso di decadenza per mancata ricostituzione entro il termine di cui all'
 
 7\. Il finanziamento ordinario delle unioni regionali delle camere di commercio e' assicurato da un'aliquota delle entrate, come definite per l'Unioncamere ai sensi dell'articolo 7, comma 7, delle camere di commercio associate e dalle entrate e dai contributi per attivita' svolte per conto della regione ed altri enti pubblici o privati.
 
-#### Art. 7 - Unione italiana delle camere di commercio, industria, artigianato e agricoltura
+### Art. 7 - Unione italiana delle camere di commercio, industria, artigianato e agricoltura
 
 ((1. L'Unioncamere, ente con personalita' giuridica di diritto pubblico, cura e rappresenta gli interessi generali delle camere di commercio e degli altri organismi del sistema camerale italiano; promuove, realizza e gestisce, direttamente o per il tramite di proprie aziende speciali, nonche' mediante la partecipazione ad organismi anche associativi, ad enti, a consorzi e a societa' anche a prevalente capitale privato e, nei limiti di cui al decreto legislativo 19 agosto 2016, n.175, recante il testo unico in materia di societa' a partecipazione pubblica, a societa', servizi e attivita' di interesse delle camere di commercio e delle categorie economiche.))
 
@@ -224,7 +224,7 @@ d) nel caso di decadenza per mancata ricostituzione entro il termine di cui all'
 
 ## CAPO II - REGISTRO DELLE IMPRESE
 
-#### Art. 8 - Registro delle imprese
+### Art. 8 - Registro delle imprese
 
 1\. E' istituito presso la camera di commercio l'ufficio del registro delle imprese di cui all'articolo 2188 del codice civile.
 
@@ -244,7 +244,7 @@ d) nel caso di decadenza per mancata ricostituzione entro il termine di cui all'
 
 ## CAPO III - O R G A N I
 
-#### Art. 9
+### Art. 9
 
 O r g a n i
 
@@ -258,7 +258,7 @@ c) il presidente;
 
 d) il collegio dei revisori dei conti.
 
-#### Art. 10 - Consiglio
+### Art. 10 - Consiglio
 
 1\. Il numero dei componenti del consiglio e' determinato in base al numero delle imprese ed unita' locali iscritte nel registro delle imprese ovvero annotate nello stesso, nel modo seguente:
 
@@ -284,7 +284,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 15 febbraio 2010, n. 23, ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui agli articoli 10, 12, 13, 14, 15 e 16 della legge 29 dicembre 1993, n. 580, come modificate dal presente decreto legislativo, si applicano dal sessantesimo giorno successivo all'emanazione dei regolamenti previsti dagli articoli 10, comma 3, e 12, comma 4, della predetta legge".
 
-#### Art. 11 - Funzioni del consiglio
+### Art. 11 - Funzioni del consiglio
 
 1\. Il consiglio, nell'ambito delle materie di competenza previste dalla legge e dallo statuto, svolge in particolare le seguenti funzioni:
 
@@ -298,7 +298,7 @@ d) approva la relazione previsionale e programmatica, il preventivo economico e 
 
 e) ((LETTERA ABROGATA DAL D.LGS. 25 NOVEMBRE 2016, N. 219)).
 
-#### Art. 12 - Costituzione del consiglio
+### Art. 12 - Costituzione del consiglio
 
 1\. I componenti del consiglio sono designati dalle organizzazioni rappresentative delle imprese appartenenti ai settori di cui all'articolo 10, comma 2, nonche' dalle organizzazioni sindacali dei lavoratori e dalle associazioni di tutela degli interessi dei consumatori e degli utenti e dalla Consulta di cui all'articolo 10, comma 6.
 
@@ -340,7 +340,7 @@ AGGIORNAMENTO (25)
 
 Il D.L. 23 dicembre 2023, n. 215, convertito con modificazioni dalla L. 23 febbraio 2024, n. 18, ha disposto (con l'art. 17, comma 1-bis) che "L'articolo 12 della citata legge n. 580 del 1993 si interpreta nel senso che la designazione dei componenti dei consigli delle camere di commercio, industria, artigianato e agricoltura e' effettuata dalle organizzazioni rappresentative delle imprese e dalle organizzazioni sindacali dei lavoratori costituite a livello provinciale o pluriprovinciale ovvero, in mancanza, da quelle costituite a livello regionale, ove presenti, o a livello nazionale, con riferimento esclusivo, in ogni caso, alla rappresentativita' delle medesime organizzazioni nell'ambito della circoscrizione territoriale di competenza della camera di commercio interessata".
 
-#### Art. 13
+### Art. 13
 
 (( (Requisiti per la nomina e cause ostative).
 
@@ -370,7 +370,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 15 febbraio 2010, n. 23, ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui agli articoli 10, 12, 13, 14, 15 e 16 della legge 29 dicembre 1993, n. 580, come modificate dal presente decreto legislativo, si applicano dal sessantesimo giorno successivo all'emanazione dei regolamenti previsti dagli articoli 10, comma 3, e 12, comma 4, della predetta legge".
 
-#### Art. 14 - Giunta
+### Art. 14 - Giunta
 
 1\. La giunta e' l'organo esecutivo della camera di commercio ed e' composta dal presidente e da un numero di membri pari a 5 per le camere i cui consiglieri sono individuati ai sensi della lettera a), del comma 1, dell'articolo 10 e pari a 7 per le camere i cui consiglieri sono individuati ai sensi della lettera b) del comma 1, dello stesso articolo 10. Dei suddetti membri almeno quattro devono essere eletti in rappresentanza dei settori dell'industria, del commercio, dell'artigianato e dell'agricoltura. Nell'elezione dei membri della giunta ciascun consigliere puo' esprimere un numero di preferenze non superiore ad un terzo dei membri della giunta medesima.
 
@@ -400,7 +400,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 15 febbraio 2010, n. 23, ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui agli articoli 10, 12, 13, 14, 15 e 16 della legge 29 dicembre 1993, n. 580, come modificate dal presente decreto legislativo, si applicano dal sessantesimo giorno successivo all'emanazione dei regolamenti previsti dagli articoli 10, comma 3, e 12, comma 4, della predetta legge".
 
-#### Art. 15 - Riunioni e deliberazioni
+### Art. 15 - Riunioni e deliberazioni
 
 1\. Il consiglio si riunisce in via ordinaria entro il mese di aprile per l'approvazione del bilancio d'esercizio, entro il mese di ottobre per l'approvazione della relazione previsionale e programmatica, entro il mese di luglio per l'aggiornamento del preventivo economico ed entro il mese di dicembre per l'approvazione del preventivo economico; si riunisce in via straordinaria quando lo richiedano il presidente o la giunta o almeno un quarto dei componenti del consiglio stesso, con l'indicazione degli argomenti che si intendono trattare. ((23))
 
@@ -424,7 +424,7 @@ AGGIORNAMENTO (23)
 
 Il D.L. 30 dicembre 2021, n. 228, convertito con modificazioni dalla L. 25 febbraio 2022, n. 15, ha disposto (con l'art. 1, comma 25-bis) che "Per l'anno 2022, il termine di cui all'articolo 15, comma 1, della legge 29 dicembre 1993, n. 580, e' prorogato al 30 settembre, al fine di prevedere nell'aggiornamento del preventivo economico gli oneri relativi al trattamento economico degli organi delle camere di commercio, industria, artigianato e agricoltura".
 
-#### Art. 16 - Presidente
+### Art. 16 - Presidente
 
 1\. Il presidente e' eletto, entro trenta giorni dalla nomina del consiglio, con la maggioranza dei due terzi dei componenti del consiglio. Qualora non si raggiunga tale maggioranza neanche con un secondo scrutinio, si procede, entro i successivi quindici giorni, ad una terza votazione in cui per l'elezione e' richiesta la maggioranza dei componenti del consiglio. Qualora nella terza votazione non sia stata raggiunta la maggioranza necessaria, si procede ad una quarta votazione di ballottaggio tra i due candidati che nella terza votazione hanno ottenuto il maggior numero di voti. Qualora nella votazione di ballottaggio nessun candidato raggiunga la maggioranza della meta' piu' uno dei componenti in carica, il consiglio decade.
 
@@ -440,7 +440,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 15 febbraio 2010, n. 23, ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui agli articoli 10, 12, 13, 14, 15 e 16 della legge 29 dicembre 1993, n. 580, come modificate dal presente decreto legislativo, si applicano dal sessantesimo giorno successivo all'emanazione dei regolamenti previsti dagli articoli 10, comma 3, e 12, comma 4, della predetta legge".
 
-#### Art. 17 - Collegio dei revisori dei conti
+### Art. 17 - Collegio dei revisori dei conti
 
 1\. Il collegio dei revisori dei conti e' nominato dal consiglio ed e' composto da tre membri effettivi e da tre membri supplenti, designati rispettivamente dal Ministro dell'economia e delle finanze, con funzioni di presidente, dal Ministro dello sviluppo economico e dal Presidente della giunta regionale. I membri effettivi e quelli supplenti devono essere iscritti all'albo dei revisori dei conti, salvo che si tratti di dirigenti o funzionari pubblici ((...)).
 
@@ -458,11 +458,9 @@ Il D.Lgs. 15 febbraio 2010, n. 23, ha disposto (con l'art. 3, comma 1) che "Le d
 
 8\. Al collegio dei revisori dei conti si applicano i principi del codice civile relativi ai sindaci delle societa' per azioni, in quanto compatibili.
 
-## CAPO IV - DISPOSIZIONI SUL FINANZIAMENTO
+## CAPO IV - DISPOSIZIONI SUL FINANZIAMENTO E SUL PERSONALE
 
-### E SUL PERSONALE
-
-#### Art. 18 - Finanziamento delle camere di commercio
+### Art. 18 - Finanziamento delle camere di commercio
 
 1\. Al finanziamento ordinario delle camere di commercio si provvede mediante:
 
@@ -534,7 +532,7 @@ AGGIORNAMENTO (19)
 
 L'aggiornamento in calce, precedentemente disposto dall'art. 7, comma 1, lettera a) del D.L. 2 marzo 2020, n. 9, e' stato eliminato; la modifica ha perso efficacia per effetto dell'abrogazione del D.L. medesimo ad opera della L. 24 aprile 2020, n. 27, la quale ne ha contestualmente fatti salvi gli effetti.
 
-#### Art. 19
+### Art. 19
 
 Personale delle camere di commercio
 
@@ -542,7 +540,7 @@ Personale delle camere di commercio
 
 2\. Il trattamento previdenziale dei dipendenti delle camere di commercio continua ad essere disciplinato dalle disposizioni vigenti.
 
-#### Art. 20 - Segretario generale
+### Art. 20 - Segretario generale
 
 1\. Al segretario generale della camera di commercio competono le funzioni di vertice dell'amministrazione, ((corrispondenti a quelli)) di cui all'articolo 16 del decreto legislativo 30 marzo 2001, n. 165.
 
@@ -574,13 +572,13 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 15 febbraio 2010, n. 23, ha disposto (con l'art. 3, comma 7) che "Le disposizioni dell'articolo 20 della legge n. 580 del 1993, come modificato dall'articolo 1, comma 20, del presente decreto, si applicano decorsi novanta giorni dalla data di entrata in vigore del decreto di cui al comma 5 dello stesso articolo 20".
 
-#### Art. 21
+### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2016, N. 219))
 
 ## CAPO V - DISPOSIZIONI FINALI E TRANSITORIE
 
-#### Art. 22
+### Art. 22
 
 Uso della denominazione "camera di commercio"
 
@@ -596,11 +594,11 @@ Il D.L. 18 settembre 1995, n. 381, convertito, con modificazioni, dalla L. 15 no
 
 Ha inoltre disposto (con l'art. 4, comma 1) che "Le diposizioni del presente decreto hanno effetto dal 16 settembre 1995".
 
-#### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2016, N. 219))
 
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2016, N. 219))
 

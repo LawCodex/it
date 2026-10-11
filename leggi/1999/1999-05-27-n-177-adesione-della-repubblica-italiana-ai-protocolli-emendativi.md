@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-### ART. 1
+## ART. 1
 
 1\. Il Presidente della Repubblica e' autorizzato ad aderire ai Protocolli emendativi delle Convenzioni del 1969 e del 1971 concernenti, rispettivamente, la responsabilita' civile per i danni derivanti dall'inquinamento da idrocarburi, con allegato, e l'istituzione di un Fondo internazionale per l'indennizzo dei medesimi danni, adottati a Londra il 27 novembre 1992.
 
-### ART. 2
+## ART. 2
 
 1\. Piena ed intera esecuzione e' data ai Protocolli di cui all'articolo 1, a decorrere dalla data prevista, rispettivamente, dal paragrafo 4 dell'articolo 13 del Protocollo di emendamento alla Convenzione internazionale sulla responsabilita' civile per i danni dovuti all'inquinamento da idrocarburi del 1969 e dal paragrafo 3 dell'articolo 30 del Protocollo di emendamento alla Convenzione internazionale sull'istituzione di un Fondo per l'indennizzo dei danni derivanti da inquinamento del 1971.
 
-### ART. 3
+## ART. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -51,7 +51,7 @@ Visto, il Guardasigilli: DILIBERTO
 
 ## Allegati
 
-### Protocol
+## Protocol
 
 Parte di provvedimento in formato grafico
 
@@ -73,11 +73,11 @@ RICONOSCENDO che sono necessarie disposizioni particolari per introdurre gli eme
 
 HANNO CONCORDATO quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 La Convenzione che e' modificata dalle disposizioni del presente Protocollo e' la Convenzione Internazionale sulla Responsabilita' Civile per Danni dovuti ad Inquinamento da Idrocarburi del 1969, qui di seguito denominata la "Convenzione del 1969 sulla Responsabilita'". Per gli Stati Parte al Protocollo del 1976 della Convenzione sulla Responsabilita' del 1969, si considerera' che tale riferimento comprenda Responsabilita' del 1968 emendata da detto Protocollo.
 
-### Articolo 2
+## Articolo 2
 
 L'Articolo I della Convenzione sulla Responsabilita' del 1969 viene emendato come segue:
 
@@ -119,7 +119,7 @@ Internazionale."
 
 emendata da detto Protocollo."
 
-### Articolo 3
+## Articolo 3
 
 L'Articolo II della Convenzione sulla Responsabilita' del 1969 viene sostituito dal testo seguente:
 
@@ -135,7 +135,7 @@ L'Articolo II della Convenzione sulla Responsabilita' del 1969 viene sostituito 
 
 prevenire o ridurre al minimo tali danni."
 
-### Articolo 4
+## Articolo 4
 
 L'Articolo III della Convenzione sulla Responsabilita' del 1969 tiene emendato come segue:
 
@@ -163,7 +163,7 @@ tranne nel caso in cui il danno sia dovuto a loro atti e omissioni personali, co
 
 tali danni"
 
-### Articolo 5
+## Articolo 5
 
 Articolo IV della Convenzione sulla Responsabilita' del 1969 viene sostituita con il testo seguente:
 
@@ -171,7 +171,7 @@ Articolo IV della Convenzione sulla Responsabilita' del 1969 viene sostituita co
 
 di tutti i danni che non possono essere ragionevolmente separati."
 
-### Articolo 6
+## Articolo 6
 
 L'Articolo V della Convenzione sulla Responsabilita' del 1969 viene emendato come segue:
 
@@ -217,7 +217,7 @@ modifica nell'uno o nell'altra."
 
 proprietario."
 
-### Articolo 7
+## Articolo 7
 
 L'Articolo VII della Convenzione sulla Responsabilita' del 1969 viene emendata come segue:
 
@@ -245,7 +245,7 @@ Contraente."
 
 responsabilita' previsti dall 'Articolo V, paragrafo 1."
 
-### Articolo. 8
+## Articolo. 8
 
 L'Articolo IX della Convenzione sulla Responsabilita' del 1969 viene emendata come segue:
 
@@ -255,7 +255,7 @@ Il paragrafo 1 viene sostituito con il testo seguente:
 
 comunicazione di tali istanze."
 
-### Articolo 9
+## Articolo 9
 
 Dopo l'Articolo XII della Convenzione sulla Responsabilita' dal 1969 vengono inseriti i due nuovi articoli seguenti:
 
@@ -281,11 +281,11 @@ Le clausole finali della presente Convenzione saranno gli articoli da 12 a 18 de
 
 agli Stati Contraenti di quel Protocollo."
 
-### Articolo 10
+## Articolo 10
 
 Il modello di certificato allegato alla Convenzione sulla Responsabilita' del 1969 viene sostituito con il modello allegato al presente Protocollo.
 
-### Articolo 11
+## Articolo 11
 
 1 Per Parti al presente Protocollo, la Convenzione sulla Responsabilita' del 1969 ed il presente Protocollo saranno letti ed interpretati insieme come un unico strumento.
 
@@ -293,7 +293,7 @@ Il modello di certificato allegato alla Convenzione sulla Responsabilita' del 19
 
 ## CLAUSOLE FINALI
 
-### Articolo 12
+## Articolo 12
 
 Firma, ratifica, accettazione, approvazione e adesione
 
@@ -315,7 +315,7 @@ da ratifica, accettazione o approvazione, oppure
 
 6 Si riterra' che qualsiasi strumento di ratifica, accettazione, approvazione o adesione depositato dopo l'entrata in vigore di un emendamento della Convenzione sulla Resporsabilita' del 1969 emendata dal presente Protocollo si applichi alla Convenzione in tal modo emandata e modificata da tale emendamento.
 
-### Articolo 13
+## Articolo 13
 
 Entrata in vigore
 
@@ -329,7 +329,7 @@ Ogni rinuncia entrera' in vigore alla data di ricezione della notifica, a condiz
 
 4 Per ogni Stato che ratifica, accetta, approva o aderisce ad esso dopo che sono state soddisfatte le condizioni per l'entrata in vigore di cui al paragrafo 1, il presente Protocollo entrera' in vigore 12 mesi dopo la data di deposito del relativo strumento da parte di tale Stato.
 
-### Articolo 14
+## Articolo 14
 
 Revisione ed emendamento
 
@@ -337,7 +337,7 @@ Revisione ed emendamento
 
 2 L'Organizzazione convochera' una conferenza degli Stati Contraenti allo scopo di rivedere o emendare la Convenzione sulla Responsabilita' del 1992 su richiesta di non meno di un terzo degli Stati Contraenti.
 
-### Articolo 15
+## Articolo 15
 
 Emendamento ai limiti
 
@@ -367,7 +367,7 @@ L'emendamento si riterra' accettato alla fine di un periodo di 18 mesi dalla dat
 
 10 Nel caso in cui un emendamento sia stato adottato dal Comitato Affari Giuridici, ma non e' ancora scaduto il periodo di 18 mesi valido perche' possa essere accettato, uno Stato che diventa Stato Contraente in qual periodo sara' vincolato dall'emendamento, qualora esso entri in vigore. Uno Stato che diventa Stato Contraente successivamente a tale periodo, sara' vincolato da un emendamento che e' stato accettato in conformita' con il paragrafo 7. Nei casi di cui al presente paragrafo, uno Stato e' vincolato da un emendamento quando esso entra in vigore, ovvero quando il presente Protocollo entra in vigore per quello Stato, se tale data e' successiva.
 
-### Articolo 16
+## Articolo 16
 
 Denuncia
 
@@ -381,7 +381,7 @@ Denuncia
 
 5 La denuncia del Protocollo del 1992 di emendamento alla Convenzione sul Fondo del 1971 da parte di uno Stato che resta Parte alla Convenzione sul Fondo del 1971 sara' considerato una denuncia del presente Protocollo. Tale denuncia avra' effetto alla data in cui avra' effetto la denuncia del Protocollo del 1992 di emendamento alla Convenzione sul Fondo del 1971, in conformita' con l'Articolo 34 di quel Protocollo.
 
-### Articolo 17
+## Articolo 17
 
 Depositario
 
@@ -413,7 +413,7 @@ Depositario
 
 3 Non appena il presente Protocollo entrera' in vigore, il testo verra' trasmesso dal Segretario Generale dell'Organizzazione al Segretario delle Nazioni Unite, che lo registrera' e lo pubblichera', in conformita' con l'Articolo 102 della Carta delle Nazioni Unite.
 
-### Articolo 18
+## Articolo 18
 
 Lingue
 
@@ -423,7 +423,7 @@ FATTO A LONDRA il ventisette novembre mille novecento novantadue.
 
 IN FEDE DI CHE i sottoscritti, all'uopo debitamente autorizzati dai rispettivi Governi hanno firmato il presente Protocollo.
 
-### Allegato
+## Allegato
 
 ALLEGATO
 
@@ -496,11 +496,11 @@ TENENDO PRESENTE l'adozione del Protocollo del 1992 di emendamento alla Convenzi
 
 HANNO CONCORDATO quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 La Convenzione che e' modificata dalle disposizioni del presente Protocollo e' la Convenzione Internazionale sull'Istituzione di un Fondo Internazionale per il Risarcimento dei Danni dovuti ad Inquinamento da Idrocarburi del 1971, qui di seguito denominata la "Convenzione sul Fondo del 1971". Per gli Stati Parte al Protocollo del 1976 della Convenzione sul Fondo del 1971, si riterra' che tale riferimento comprenda la Convenzione sul Fondo del 1971 emendata da detto Protocollo.
 
-### Articolo 2
+## Articolo 2
 
 L'Articolo 1 della Convenzione sul Fondo del 1971 viene emendata come segue:
 
@@ -532,7 +532,7 @@ Responsabilita' del 1992."
 
 della Convenzione sulla Responsabilita' del 1992."
 
-### Articolo 3
+## Articolo 3
 
 l'Articolo II della Convenzione sul Fondo del 1971 viene sostituito dal testo seguente:
 
@@ -544,7 +544,7 @@ Il paragrafo 1 viene sostituito dal testo seguente:
 
 (b) dare effetto ai relativi obiettivi, enunciati nella presente Convenzione."
 
-### Articolo 4
+## Articolo 4
 
 L'Articolo III della convenzione sul Fondo del 1971 viene sostituito con il testo seguente:
 
@@ -560,11 +560,11 @@ L'Articolo III della convenzione sul Fondo del 1971 viene sostituito con il test
 
 o ridurre al minimo tali danni."
 
-### Articolo 5
+## Articolo 5
 
 Il titolo degli articolo da 4 a 9 della Convenzione sul Fondo del 1971 viene emendato cancellando le parole "e indennizzo".
 
-### Articolo 6
+## Articolo 6
 
 L'Articolo 4 della Convenzione sul Fondo dei 1971 viene emendato come segue:
 
@@ -602,11 +602,11 @@ base alla presente Convenzione sia uguale per tutti i richiedenti."
 
 Paragrafo 4 (e) del presente Articolo."
 
-### Articolo 7
+## Articolo 7
 
 L'Articolo 5 della Convenzione sul Fondo del 1971 viene cancellato.
 
-### Articolo 8
+## Articolo 8
 
 L'Articolo 6 del Convenzione sul Fondo del 1971 viene emendata come segue:
 
@@ -614,7 +614,7 @@ L'Articolo 6 del Convenzione sul Fondo del 1971 viene emendata come segue:
 
 2 Il paragrafo 2 viene cancellato.
 
-### Articolo 9
+## Articolo 9
 
 L'Articolo 7 della Convenzione sul Fondo del 1971 viene emendato come segue:
 
@@ -626,11 +626,11 @@ L'Articolo 7 della Convenzione sul Fondo del 1971 viene emendato come segue:
 
 4 Alla seconda frase del paragrafo 3 le parole "o ai sensi dell'Articolo 5, paragrafo 1" vengono cancellate.
 
-### Articolo 10
+## Articolo 10
 
 Nell'Articolo 8 della Convenzione sul Fondo del 1971 il riferimento alla "Convenzione sulla Responsabilita'" viene sostituito con il rifierimento alla "Convenzione sulla Responsabilita' del 1992".
 
-### Articolo 11
+## Articolo 11
 
 L'Articolo 9 della Convenzione sul Fondo del 1971 viene emendato come segue:
 
@@ -642,7 +642,7 @@ confronti del proprietario o del suo garante."
 
 2 Al paragrafo 2 le parole "o indennizzo" vengono cancellate.
 
-### Articolo 12
+## Articolo 12
 
 L 'Articolo 10 della Convenzione sul Fondo del 1971 viene emendato come segue:
 
@@ -652,11 +652,11 @@ La frase di apertura del paragrafo 1 viene sostituita con il testo seguente:
 
 alle 150.000 tonnellate."
 
-### Articolo 13
+## Articolo 13
 
 L'Articolo 11 della Convenzione sul Fondo viene cancellato.
 
-### Articolo 14
+## Articolo 14
 
 L'Articolo 12 della Convenzione sul Fondo del 1971 viene emendato come segue:
 
@@ -684,7 +684,7 @@ decidere una data di pagamento diversa."
 
 Il paragrafo 6 viene cancellato.
 
-### Articolo 15
+## Articolo 15
 
 L'Articolo 13 della Convenzione del Fondo del 1971 viene emendata come segue:
 
@@ -694,7 +694,7 @@ L'Articolo 13 della Convenzione del Fondo del 1971 viene emendata come segue:
 
 2 Al paragrafo 3 le parole "Articoli 10 e 11" vengono sostituite con le parole "Articoli 10 e 12" e le parole "per un periodo superiore a tre mesi" vengono cancellate.
 
-### Articolo 16
+## Articolo 16
 
 All'Articolo 15 della Convenzione sul Fondo del 1971 viene aggiunto un nuovo paragrafo 4:
 
@@ -704,7 +704,7 @@ L'Assemblea, previo parere del Direttore, decidera' se tale
 
 risarcimento dovra' essere corrisposto da quello Stato Contraente."
 
-### Articolo 17
+## Articolo 17
 
 L'Articolo 16 della Convenzione sul Fondo del 1971 viene sostituita con il testo seguente:.
 
@@ -712,7 +712,7 @@ L'Articolo 16 della Convenzione sul Fondo del 1971 viene sostituita con il testo
 
 capo un Direttore."
 
-### Articolo 18
+## Articolo 18
 
 L'Articolo 18 della Convenzione sul Fondo del 1971 viene emendata come segue:
 
@@ -732,7 +732,7 @@ sussidiario;"
 
 6 Il paragrafo 12 viene cancellato.
 
-### Articolo 19
+## Articolo 19
 
 L'Articolo 19 della Convenzione sul Fondo del 1971 viene emendato come segue:
 
@@ -744,11 +744,11 @@ convocazione del Direttore."
 
 2 Al paragrafo 2, le parole "del Comitato Esecutivo" vengono cancellate.
 
-### Articolo 20
+## Articolo 20
 
 Gli Articoli da 21 a 27 della Convenzione sul Fondo del 1971 ed i rispettivi titoli vengono cancellati.
 
-### Articolo 21
+## Articolo 21
 
 L'Articolo 29 della Convenzione sul Fondo del 1971 viene emendata come segue:
 
@@ -768,11 +768,11 @@ Convenzione, dai Regolamenti Interni del Fondo e dall'Assemblea."
 
 5 Al paragrafo 2(h) le parole "il Comitato Esecutivo" vengono cancellate.
 
-### Articolo 22
+## Articolo 22
 
 All'Articolo 31, paragrafo 1, della Convenzione sul Fondo del 1971, vengono cancellate le parole "Comitato esecutivo e".
 
-### Articolo 23
+## Articolo 23
 
 L'Articolo 32 della Convenzione sul Fondo del 1971 viene emendata come segue:
 
@@ -780,7 +780,7 @@ L'Articolo 32 della Convenzione sul Fondo del 1971 viene emendata come segue:
 
 2 Al punto (b) vengono cancellate le parole "ed il Comitato Esecutivo".
 
-### Articolo 24
+## Articolo 24
 
 L'Articolo 33 della Convenzione sul Fondo del 1971 viene emendato come segue:
 
@@ -792,7 +792,7 @@ L'Articolo 33 della Convenzione sul Fondo del 1971 viene emendato come segue:
 
 "(c) l'istituzione di organi sussidiari, di cui all'Articolo 18, paragrafo 9, e questioni relative a tale istituzione."
 
-### Articolo 25
+## Articolo 25
 
 L'Articolo 35 della Convenzione sul Fondo del 1971 viene sostituito, con il testo seguente:
 
@@ -800,7 +800,7 @@ L'Articolo 35 della Convenzione sul Fondo del 1971 viene sostituito, con il test
 
 ventesimo giorno successivo a tale data."
 
-### Articolo 26
+## Articolo 26
 
 Dopo l'Articolo 36 della Convenzione sul Fondo del 1971 vengono inseriti quattro nuovi articoli come segue:
 
@@ -852,7 +852,7 @@ Le clausole finali della presente Convenzione saranno gli articoli da 28 a 39 de
 
 Contraenti di quel Protocollo."
 
-### Articolo 27
+## Articolo 27
 
 1 La Convenzione sul Fondo del 1971 ed il presente Protocollo sono, fra le Parti al presente Protocollo, letti ed interpretati insieme come unico strumento.
 
@@ -860,7 +860,7 @@ Contraenti di quel Protocollo."
 
 ## CLAUSOLE FINALI
 
-### Articolo 28
+## Articolo 28
 
 Firma, ratifica, accettazione, approvazione ed adesione
 
@@ -878,7 +878,7 @@ Firma, ratifica, accettazione, approvazione ed adesione
 
 7 Si riterra' che qualsiasi strumento di ratifica, accettazione, approvazione o adesione depositato dopo l'entrata in vigore di un emendamento alla Convenzione sul Fondo del 1971 emendata dal presente Protocollo si applichi alla Convenzione in tal modo emendata e modificata da tale emendamento.
 
-### Articolo 29
+## Articolo 29
 
 Informazioni sugli idrocarburi che danno luogo a contributi
 
@@ -886,7 +886,7 @@ Informazioni sugli idrocarburi che danno luogo a contributi
 
 2 Durante il periodo transitorio il Direttore, per le Parti, comunichera' ogni anno al Segretario Generale dell'Organizzazione i dati relativi alle quantita' di idrocarburi che danno luogo a contributi ricevute da coloro che dovranno contribuire al Fondo, in conformita' con l'Articolo 10 della Convenzione sul Fondo del 1971, emendata dal presente Protocollo.
 
-### Articolo 30
+## Articolo 30
 
 Entrata in vigore
 
@@ -906,7 +906,7 @@ Entrata in vigore
 
 6 Si riterra' che ogni Stato che ha espresso una dichiarazione ai sensi dell'Articolo 13, paragrafo 2, del Protocollo del 1992 di emendamento alla Convenzione sulla Responsabilita' del 1969 abbia altresi' espresso una dichiarazione ai sensi del paragrafo 4 del presente Articolo. Si riterra' che il ritiro di una dichiarazione ai sensi di detto Articolo 13, paragrafo 2, sia valido anche ai sensi del paragrafo 5 del presente Articolo.
 
-### Articolo 31
+## Articolo 31
 
 Denuncia delle Convenzione del 1969 e del 1971
 
@@ -920,7 +920,7 @@ meno; e
 
 tutte le Parti al presente Protocollo e tutti gli Stati che hanno depositato uno strumento di ratifica, accettazione, approvazione o adesione, fermo restando l'Articolo 30, paragrafo 4, o meno, se saranno Parti ad esso denunceranno la Convenzione sul Fondo del 1971 e la Convenzione sulla Responsabilita' del 1969, con effetto 12 mesi dopo la scadenza del summenzionato periodo di sei mesi.
 
-### Articolo 32
+## Articolo 32
 
 Revisione ed emendamento
 
@@ -928,7 +928,7 @@ Revisione ed emendamento
 
 2 L'Organizzazione convochera' una conferenza degli Stati Contraenti allo scopo di rivedere o emendare la Convenzione sul Fondo del 1992, su richiesta di non meno di un terzo di tutti gli Stati Contraenti.
 
-### Articolo 33
+## Articolo 33
 
 Emendamento ai limiti di risarcimento
 
@@ -958,7 +958,7 @@ L'emendamento si riterra' accettato alla fine di un periodo di 18 mesi dalla dat
 
 10 Nel caso in cui un emendamento sia stato adottato dal Comitato Affari Giuridici, ma non sia ancora scaduto il periodo di 18 mesi valido perche' possa essere accettato, uno Stato che diventa Stato Contraente in qual periodo sara' vincolato dall'emendamento, qualora esso entri in vigore. Uno Stato che diventa Stato Contraente successivamente a tale periodo sara' vincolato da un emendamento che e' stato accettato in conformita' con il paragrafo 7. Nei casi previsti dal presente paragrafo, uno Stato; sara' vincolato da un emendamento quando esso entra in vigore, ovvero il presente Protocollo entrera' in vigore per quello Stato, se tale data e' successiva.
 
-### Articolo 34
+## Articolo 34
 
 Denuncia
 
@@ -976,7 +976,7 @@ Denuncia
 
 7 Nonostante l'eventuale denuncia del presente Protocollo da parte di una Parte, in conformita' con il Presente Articolo, continueranno ad applicarsi le disposizioni del presente Protocollo relative agli obblighi a versare i contributi, di cui all'Articolo 10 della Convenzione sul Fondo del 1971, emendata dal presente Protocollo, relative ad un incidente di cui all'Articolo 12, paragrafo 2(b), di quella Convenzione emendata, che si sia verificato prima che abbia effetto la denuncia.
 
-### Articolo 35
+## Articolo 35
 
 Sessioni straordinarie dell'Assemblea
 
@@ -986,7 +986,7 @@ Sessioni straordinarie dell'Assemblea
 
 3 Qualora l'Assemblea nel corso di una riunione straordinaria convocata ai sensi dei paragrafi 1 o 2, decida che la denuncia comportera' un significativo aumento del livello di contributi per i rimanenti Stati Membri, ciascuno di tali Stati, entro 120 giorni prima che abbia effetto la denuncia, puo' denunciare il presente Protocollo, con effetto dalla stessa data.
 
-### Articolo 36
+## Articolo 36
 
 Sospensione
 
@@ -994,7 +994,7 @@ Sospensione
 
 2 Gli Stati che saranno vincolati dal presente Protocollo il giorno prima della data in cui cessera' di essere in vigore consentiranno al Fondo di esercitare le proprie mansioni, descritte all'Articolo 37 del presente Protocollo e, solo a tal fine, resteranno vincolati dal presente Protocollo.
 
-### Articolo 37
+## Articolo 37
 
 Scioglimento del Fondo
 
@@ -1008,7 +1008,7 @@ vigore, il Fondo, cio' nondimeno
 
 3 Ai fini dei presente Articolo il Fondo restera' una persona giuridica.
 
-### Articolo 38
+## Articolo 38
 
 Depositario
 
@@ -1042,7 +1042,7 @@ Depositario
 
 Non appena il presente Protocollo entrera' in vigore, il testo verra' trasmesso dal Segretario Generale dell'Organizzazione al Segretariato delle Nazioni Unite, che lo registrera' e lo pubblichera', in conformita' con l'Articolo 102 della Carta delle Nazioni Unite.
 
-### Articolo 39
+## Articolo 39
 
 Lingue
 

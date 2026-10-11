@@ -42,7 +42,7 @@ HA SANZIONATO E PROMULGA:
 
 ## Imposta di negoziazione
 
-### Art. 1
+## Art. 1
 
 A decorrere dal 1° gennaio 1947, l'imposta di negoziazione per i titoli che nell'anno precedente sono stati quotati in Borsa e' liquidata sul valore medio risultante dai prezzi ufficiali di compenso determinati dai Comitati direttivi degli agenti di cambio nel suddetto anno, detratte le somme che al 31 dicembre dell'anno stesso si giustificheranno tuttora dovute per la liberazione del titoli.
 
@@ -54,7 +54,7 @@ La richiesta di tale valutazione deve essere fatta entro l'anno successivo a que
 
 Qualora, per qualsiasi motivo, non risultino accertati prezzi ufficiali di compenso, la relativa valutazione sara' fatta dal Comitato direttivo degli agenti di cambio della Borsa valori locale, o in mancanza di Borsa locale, da quello della Borsa piu' vicina alla sede della societa' emittente.
 
-### Art. 2
+## Art. 2
 
 Il limite di capitale previsto dall'art. 9 della tariffa allegato C al regio decreto-legge 15 novembre 1938, n. 1975, convertito nella legge 2 giugno 1939, n. 739, per la esenzione della imposta di negoziazione delle societa' cooperative di ogni specie e' elevato a L. 300.000 sempre che il valore nominale delle azioni non superi le lire mille.
 
@@ -66,7 +66,7 @@ Le norme del presente articolo hanno effetto dal 1° gennaio 1947.
 
 ## Imposta sul capitale delle societa' estere - operanti in territorio nazionale
 
-### Art. 3
+## Art. 3
 
 Per le societa' ed associazioni estere soggette alla imposta sul capitale, prevista nel titolo II del regio decreto 30 dicembre 1923, n. 3280, l'ammontare del capitale imponibile e' annualmente determinato dalla Amministrazione delle finanze tenendo conto degli aumenti e delle reali diminuzioni verificatisi nel capitale dell'anno precedente, e, nel caso di capitale impiegato superiore a quello destinato, dei valori in comune commercio delle singole attivita'.
 
@@ -76,13 +76,13 @@ Liquidata l'imposta sul tale ammontare, l'Ufficio del registro la notifica al co
 
 Entro trenta giorni dalla notificazione, il contribuente che non intenda accettare la liquidazione fatti dall'Ufficio puo' ricorrere in prima istanza alla Commissione Distrettuale - 2ª Sezione - di cui all'art. 26 del regio decreto-legge 7 agosto 1936, n. 1639, per contestare la determinazione del capitale imponibile, tanto in relazione ai cespiti assoggettati ad imposta, quanto nei riguardi del valore attribuito a tali cespiti. Il ricorso non sospende il pagamento della imposta liquidata.
 
-### Art. 4
+## Art. 4
 
 Contro le decisioni delle Commissioni distrettuali pronunciate a norma del precedente articolo e' ammesso gravame in secondo ed ultimo grado, alle Sezioni speciali delle Commissioni provinciali, ai sensi dell'art. 1 del decreto legislativo luogotenenziale 25 maggio 1945, n. 301.
 
 Restano ferme le disposizioni del regio decreto-legge 7 agosto 1936, n. 1639, per quanto riguarda la definizione delle controversie sulla legittimita' della imposta indicata nell'articolo precedente.
 
-### Art. 5
+## Art. 5
 
 E' abrogata la legge 29 marzo 1940, n. 242.
 
@@ -92,7 +92,7 @@ Imposta sulle anticipazioni o sovvenzioni
 
 contro deposito o pegno
 
-### Art. 6
+## Art. 6
 
 Il termine per la presentazione delle denunzie semestrali prescritte dall'art. 22 del testo di legge approvato con regio decreto 30 dicembre 1923, n. 3280, ai fini della imposta sulle anticipazioni e sovvenzioni contro deposito o pegno, e' protratto a fine febbraio e fine agosto di ciascun anno.
 

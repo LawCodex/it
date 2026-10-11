@@ -28,21 +28,17 @@ PROMULGA
 
 la seguente legge:
 
-## Titolo I - PRINCIPI GENERALI.
+## Titolo I - PRINCIPI GENERALI. ISTITUZIONE DELLA CONSULTA PER I PROBLEMI DEI LAVORATORI IMMIGRATI E DELLE LORO FAMIGLIE. ISTITUZIONE DEL SERVIZIO PER I PROBLEMI DEI LAVORATORI IMMIGRATI E DELLE LORO FAMIGLIE.
 
-### ISTITUZIONE DELLA CONSULTA PER I PROBLEMI DEI LAVORATORI IMMIGRATI E - DELLE LORO FAMIGLIE.
-
-#### ISTITUZIONE DEL SERVIZIO PER I PROBLEMI DEI LAVORATORI IMMIGRATI E - DELLE LORO FAMIGLIE.
-
-##### Art. 1
+### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286))
 
-##### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286))
 
-##### Art. 3
+### Art. 3
 
 1\. E' istituito, presso la Direzione generale del collocamento della manodopera del Ministero del lavoro e della previdenza sociale, apposito servizio per i problemi dei lavoratori immigrati extracomunitari e delle loro famiglie il quale, sulla base delle direttive del Ministro e dei pareri espressi dalla consulta di cui all'articolo 2 e dalla commissione centrale per l'impiego, promuove, direttamente o attraverso le amministrazioni o le istituzioni competenti per materia, interventi o azioni per:
 
@@ -68,49 +64,47 @@ l) l'esame dei problemi relativi alle rimesse valutarie.
 
 2\. Al servizio e' preposto un dirigente superiore, designato fra quelli attualmente in servizio presso il Ministero del lavoro e della previdenza sociale, il quale e' membro di diritto della consulta di cui all'articolo 2. Egli e' coadiuvato da personale tecnico e d'ordine destinato al servizio con decreto del Ministro del lavoro e della previdenza sociale, senza altra modificazione ne' ampliamento della dotazione organica del Ministero.
 
-##### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286))
 
-## Titolo II - PROGRAMMAZIONE DELL'OCCUPAZIONE DEI LAVORATORI SUBORDINATI
+## Titolo II - PROGRAMMAZIONE DELL'OCCUPAZIONE DEI LAVORATORI SUBORDINATI EXTRACOMUNITARI IN ITALIA
 
-### EXTRACOMUNITARI IN ITALIA
-
-##### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286))
 
-##### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286))
 
-##### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286))
 
 ## Titolo III - PROCEDURE PER L'ACCESSO ALL'OCCUPAZIONE
 
-##### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286))
 
-##### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286))
 
-##### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286))
 
-##### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286))
 
-##### Art. 12
+### Art. 12
 
 (( IL D.LGS. 25 LUGLIO 1998, N. 286 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO ))
 
-##### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286)) ((4))
 
@@ -120,30 +114,28 @@ AGGIORNAMENTO (4)
 
 Il D.lgs. 25 luglio 1998, n. 286 ha disposto (con l'art. 45, comma 3) che "Il contributo di cui all'articolo 13, comma 2, della legge 30 dicembre 1986, n. 943, e' soppresso a decorrere dal 1 gennaio 2000".
 
-##### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286))
 
-##### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286))
 
-## Titolo IV - REGOLARIZZAZIONE DELLE SITUAZIONI PREGRESSE
+## Titolo IV - REGOLARIZZAZIONE DELLE SITUAZIONI PREGRESSE COPERTURA FINANZIARIA
 
-### COPERTURA FINANZIARIA
-
-##### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286))
 
-##### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286))
 
-##### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286))
 
-##### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 LUGLIO 1998, N. 286))

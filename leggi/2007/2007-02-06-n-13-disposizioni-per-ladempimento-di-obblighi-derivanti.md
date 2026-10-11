@@ -30,7 +30,7 @@ la seguente legge:
 
 ## Capo I - DELEGA AL GOVERNO PER L'ATTUAZIONE DI DIRETTIVE COMUNITARIE
 
-#### Art. 1 - Delega al Governo per l'attuazione di direttive comunitarie
+### Art. 1 - Delega al Governo per l'attuazione di direttive comunitarie
 
 1\. Il Governo e' delegato ad adottare, entro il termine di dodici mesi dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B. Per le direttive il cui termine di recepimento sia gia' scaduto ovvero scada nei sei mesi successivi alla data di entrata in vigore della presente legge, il termine per l'adozione dei decreti legislativi di cui al presente comma e' ridotto a sei mesi.
 
@@ -200,7 +200,7 @@ Qualora il termine per l'espressione del parere parlamentare di cui al presente 
 
 > \- L'art. 117, quinto comma, della Costituzione, cosi' recita: «Le regioni e le province autonome di Trento e di Bolzano, nelle materie di loro competenza, partecipano alle decisioni dirette alla formazione degli atti normativi comunitari e provvedono all'attuazione e all'esecuzione degli accordi internazionali e degli atti dell'Unione europea, nel rispetto delle norme di procedura stabilite da legge dello Stato, che disciplina le modalita' di esercizio del potere sostitutivo in caso di inadempienza.».
 
-#### Art. 2 - Principi e criteri direttivi generali della delega legislativa
+### Art. 2 - Principi e criteri direttivi generali della delega legislativa
 
 1\. Salvi gli specifici principi e criteri direttivi stabiliti dalle disposizioni di cui al capo IV e in aggiunta a quelli contenuti nelle direttive da attuare, i decreti legislativi di cui all'articolo 1 sono informati ai seguenti principi e criteri direttivi generali:
 
@@ -240,7 +240,7 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > 3\. Restano salvi i rapporti finanziari direttamente intrattenuti con le Comunita' europee dalle amministrazioni e dagli organismi di cui all'art. 2 del decreto del Presidente della Repubblica 16 aprile 1971, n. 321, ed alla legge 26 novembre 1975, n. 748.».
 
-#### Art. 3 - Delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie
+### Art. 3 - Delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie
 
 1\. Al fine di assicurare la piena integrazione delle norme comunitarie nell'ordinamento nazionale, il Governo, fatte salve le norme penali vigenti, e' delegato ad adottare, entro due anni dalla data di entrata in vigore della presente legge, disposizioni recanti sanzioni penali o amministrative per le violazioni di direttive comunitarie attuate in via regolamentare o amministrativa, ai sensi delle leggi comunitarie vigenti, e di regolamenti comunitari vigenti alla data di entrata in vigore della presente legge, per le quali non siano gia' previste sanzioni penali o amministrative.
 
@@ -252,7 +252,7 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > \- Per il testo dell'art. 14 della legge 23 agosto 1988, n. 400, si vedano le note all'art. 1.
 
-#### Art. 4 - Oneri relativi a prestazioni e controlli
+### Art. 4 - Oneri relativi a prestazioni e controlli
 
 1\. In relazione agli oneri per prestazioni e controlli si applicano le disposizioni di cui all'articolo 9, comma 2, della legge 4 febbraio 2005, n. 11.
 
@@ -266,7 +266,7 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > «Regolamento recante norme di semplificazione del procedimento per il versamento di somme all'entrata e la riassegnazione alle unita' previsionali di base per la spesa del bilancio dello Stato, con particolare riferimento ai finanziamenti dell'Unione europea, ai sensi dell'art. 20, comma 8, della legge 15 marzo 1997, n. 59.».
 
-#### Art. 5 - Delega al Governo per il riordino normativo nelle materie interessate dalle direttive comunitarie
+### Art. 5 - Delega al Governo per il riordino normativo nelle materie interessate dalle direttive comunitarie
 
 1\. Il Governo e' delegato ad adottare, senza nuovi o maggiori oneri a carico della finanza pubblica, con le modalita' di cui ai commi 2 e 3 dell'articolo 1, entro il termine di diciotto mesi dalla data di entrata in vigore della presente legge, testi unici delle disposizioni dettate in attuazione delle deleghe conferite per il recepimento di direttive comunitarie, al fine di coordinare le medesime con le altre norme legislative vigenti nelle stesse materie, apportando le sole modificazioni necessarie a garantire la semplificazione e la coerenza logica, sistematica e lessicale della normativa.
 
@@ -274,7 +274,7 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 3\. Per le disposizioni adottate ai sensi del presente articolo si applica quanto previsto al comma 7 dell'articolo 1.
 
-#### Art. 6 - Attuazione di direttive comunitarie con regolamento autorizzato
+### Art. 6 - Attuazione di direttive comunitarie con regolamento autorizzato
 
 1\. Il Governo e' autorizzato a dare attuazione alle direttive comprese nell'elenco di cui all'allegato C con uno o piu' regolamenti da emanare ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, secondo quanto disposto dagli articoli 9 e 11 della legge 4 febbraio 2005, n. 11, e con le procedure ivi previste, previo parere dei competenti organi parlamentari ai quali gli schemi di regolamento sono trasmessi con apposite relazioni cui e' allegato il parere del Consiglio di Stato e che si esprimono entro quaranta giorni dall'assegnazione. Decorso il predetto termine, i regolamenti sono emanati anche in mancanza di detti pareri.
 
@@ -290,11 +290,9 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > \- Per il testo degli articoli 9 e 11 della legge 4 febbraio 2005, n. 11, si vedano le note all'art. 1.
 
-## Capo II - INFORMAZIONI AL PARLAMENTO SUL CONTENZIOSO COMUNITARIO
+## Capo II - INFORMAZIONI AL PARLAMENTO SUL CONTENZIOSO COMUNITARIO E SUI FLUSSI FINANZIARI CON L'UNIONE EUROPEA
 
-### E SUI FLUSSI FINANZIARI CON L'UNIONE EUROPEA
-
-#### Art. 7
+### Art. 7
 
 (Introduzione degli articoli 15-bis e 15-ter
 
@@ -324,7 +322,7 @@ Art. 15-ter. - (Relazione trimestrale al Parlamento sui flussi finanziari con l'
 
 ## Capo III - PRINCIPI FONDAMENTALI DELLA LEGISLAZIONE CONCORRENTE
 
-#### Art. 8
+### Art. 8
 
 (Individuazione di principi fondamentali in particolari materie
 
@@ -348,11 +346,9 @@ c) possibilita' per le regioni e le province autonome di introdurre, nell'ambito
 
 4\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri per la finanza pubblica.
 
-## Capo IV - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI
+## Capo IV - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA LEGISLATIVA
 
-### DI - DELEGA LEGISLATIVA
-
-#### Art. 9 - Introduzione dell'articolo 26-bis della legge 25 gennaio 2006, n. 29, recante attuazione della direttiva 2005/14/CE sull'assicurazione della responsabilita' civile risultante dalla circolazione di autoveicoli
+### Art. 9 - Introduzione dell'articolo 26-bis della legge 25 gennaio 2006, n. 29, recante attuazione della direttiva 2005/14/CE sull'assicurazione della responsabilita' civile risultante dalla circolazione di autoveicoli
 
 1\. Dopo l'articolo 26 della legge 25 gennaio 2006, n. 29, e' aggiunto il seguente:
 
@@ -392,7 +388,7 @@ c) prevedere, ai fini del risarcimento da parte del Fondo di garanzia per le vit
 
 > 9\. Il Governo, quando non intende conformarsi ai pareri parlamentari di cui al comma 3, relativi a sanzioni penali contenute negli schemi di decreti legislativi recanti attuazione delle direttive comprese negli allegati A e B, ritrasmette con le sue osservazioni e con eventuali modificazioni i testi alla Camera dei deputati e al Senato della Repubblica. Decorsi trenta giorni dalla data di ritrasmissione, i decreti sono emanati anche in mancanza di nuovo parere.».
 
-#### Art. 10 - Introduzione dell'articolo 9-bis della legge 18 aprile 2005, n. 62, e altre disposizioni per l'attuazione della direttiva 2004/39/CE, come modificata dalla direttiva 2006/31/CE, in materia di mercati degli strumenti finanziari
+### Art. 10 - Introduzione dell'articolo 9-bis della legge 18 aprile 2005, n. 62, e altre disposizioni per l'attuazione della direttiva 2004/39/CE, come modificata dalla direttiva 2006/31/CE, in materia di mercati degli strumenti finanziari
 
 1\. Dopo l'articolo 9 della legge 18 aprile 2005, n. 62, e' inserito il seguente:
 
@@ -696,7 +692,7 @@ z) disciplinare i rapporti con le autorita' estere anche con riferimento ai pote
 
 > Se le comunicazioni sono dovute da una persona fisica, in caso di violazione la sanzione si applica nei confronti di quest'ultima».».
 
-#### Art. 11 - Attuazione della direttiva 2005/71/CE del Consiglio, del 12 ottobre 2005, relativa a una procedura specificamente concepita per l'ammissione di cittadini di paesi terzi a fini di ricerca scientifica
+### Art. 11 - Attuazione della direttiva 2005/71/CE del Consiglio, del 12 ottobre 2005, relativa a una procedura specificamente concepita per l'ammissione di cittadini di paesi terzi a fini di ricerca scientifica
 
 1\. Nella predisposizione del decreto legislativo per l'attuazione della direttiva 2005/71/CE del Consiglio, del 12 ottobre 2005, relativa a una procedura specificamente concepita per l'ammissione di cittadini di paesi terzi a fini di ricerca scientifica, il Governo e' tenuto a seguire, oltre ai principi e criteri direttivi di cui all'articolo 2, anche il seguente principio e criterio direttivo: prevedere che la domanda di ammissione possa essere accettata anche quando il cittadino del paese terzo si trova gia' regolarmente sul territorio dello Stato italiano.
 
@@ -704,7 +700,7 @@ z) disciplinare i rapporti con le autorita' estere anche con riferimento ai pote
 
 > \- Per la direttiva 2005/71/CE, si vedano le note all'art. 1.
 
-#### Art. 12 - Attuazione della direttiva 2005/85/CE del Consiglio, del 1 dicembre 2005, recante norme minime per le procedure applicate negli Stati membri ai fini del riconoscimento e della revoca dello status di rifugiato
+### Art. 12 - Attuazione della direttiva 2005/85/CE del Consiglio, del 1 dicembre 2005, recante norme minime per le procedure applicate negli Stati membri ai fini del riconoscimento e della revoca dello status di rifugiato
 
 1\. Nella predisposizione del decreto legislativo per l'attuazione della direttiva 2005/85/CE del Consiglio, del 1 dicembre 2005, recante norme minime per le procedure applicate negli Stati membri ai fini del riconoscimento e della revoca dello status di rifugiato, il Governo e' tenuto a seguire, oltre ai principi e criteri direttivi di cui all'articolo 2, anche il seguente: nel caso in cui il richiedente asilo sia cittadino di un Paese terzo sicuro, ovvero, se apolide, vi abbia in precedenza soggiornato abitualmente, ovvero provenga da un Paese di origine sicuro, prevedere che la domanda di asilo e' dichiarata infondata, salvo che siano invocati gravi motivi per non ritenere sicuro quel Paese nelle circostanze specifiche in cui si trova il richiedente. Tra i gravi motivi possono essere comprese gravi discriminazioni e repressioni di comportamenti riferiti al richiedente e che risultano oggettivamente perseguiti nel Paese d'origine o di provenienza e non costituenti reato per l'ordinamento italiano.
 
@@ -712,7 +708,7 @@ z) disciplinare i rapporti con le autorita' estere anche con riferimento ai pote
 
 > \- Per la direttiva 2005/85/CE, si vedano le note all'art. 1.
 
-#### Art. 13 - Modifiche alla legge 24 luglio 1985, n. 409. Attuazione della direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 settembre 2005, in materia di diritti acquisiti per l'esercizio della professione di odontoiatra
+### Art. 13 - Modifiche alla legge 24 luglio 1985, n. 409. Attuazione della direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 settembre 2005, in materia di diritti acquisiti per l'esercizio della professione di odontoiatra
 
 1\. All'articolo 19, comma 1, della legge 24 luglio 1985, n. 409, e successive modificazioni, e' aggiunta, in fine, la seguente lettera:
 
@@ -748,7 +744,7 @@ z) disciplinare i rapporti con le autorita' estere anche con riferimento ai pote
 
 > 2\. All'albo degli odontoiatri e' aggiunto l'elenco degli odontoiatri abilitati a continuare, in via transitoria, l'esercizio della professione, ai sensi della legge 5 giugno 1930, n. 943».
 
-#### Art. 14 - Modifiche alla legge 8 luglio 1997, n. 213, recante classificazione delle carcasse bovine, in applicazione di regolamenti comunitari
+### Art. 14 - Modifiche alla legge 8 luglio 1997, n. 213, recante classificazione delle carcasse bovine, in applicazione di regolamenti comunitari
 
 1\. L'articolo 3 della legge 8 luglio 1997, n. 213, e' sostituito dal seguente:
 
@@ -784,7 +780,7 @@ Art. 3-ter. - (Disposizioni finali). - 1. Se nei cinque anni successivi alla com
 
 > \- La legge 8 luglio 1997, n. 213, reca: «Classificazione delle carcasse bovine in applicazione di regolamenti comunitari».
 
-#### Art. 15 - Modifica all'articolo 7 del decreto legislativo 25 febbraio 2000, n. 174, recante attuazione della direttiva 98/8/CE, in materia di immissione sul mercato di biocidi
+### Art. 15 - Modifica all'articolo 7 del decreto legislativo 25 febbraio 2000, n. 174, recante attuazione della direttiva 98/8/CE, in materia di immissione sul mercato di biocidi
 
 1\. Il comma 3 dell'articolo 7 del decreto legislativo 25 febbraio 2000, n. 174, e' sostituito dal seguente:
 
@@ -816,7 +812,7 @@ Art. 3-ter. - (Disposizioni finali). - 1. Se nei cinque anni successivi alla com
 
 > 3\. Non e' consentito il rilascio dell'autorizzazione all'immissione sul mercato per l'impiego da parte del pubblico di un biocida classificato a norma del decreto legislativo 14 marzo 2003, n. 65, e successive modificazioni, come «tossico» o «molto tossico», «cancerogeno di categoria 1 o 2», «mutageno di categoria 1 o 2» o «tossico per la riproduzione di categoria 1 o 2», fermo restando che per l'impiego professionale ed industriale l'autorizzazione all'immissione sul mercato puo' essere sottoposta ad eventuali restrizioni di uso».
 
-#### Art. 16 - Modifiche al decreto legislativo 17 marzo 1995, n. 194, recante attuazione della direttiva 91/414/CEE, in materia di immissione in commercio di prodotti fitosanitari
+### Art. 16 - Modifiche al decreto legislativo 17 marzo 1995, n. 194, recante attuazione della direttiva 91/414/CEE, in materia di immissione in commercio di prodotti fitosanitari
 
 1\. Al decreto legislativo 17 marzo 1995, n. 194, sono apportate le seguenti modificazioni:
 
@@ -852,7 +848,7 @@ b) all'articolo 20, al comma 5 e' premesso il seguente:
 
 > d) amministrazione generale indispensabile per le attivita' della Commissione, incluse quelle per l'approvvigionamento di strumenti e programmi informatici».
 
-#### Art. 17 - Criteri direttivi per le modifiche al regolamento di cui al decreto del Presidente della Repubblica 23 aprile 2001, n. 290, in materia di immissione in commercio e vendita di prodotti fitosanitari
+### Art. 17 - Criteri direttivi per le modifiche al regolamento di cui al decreto del Presidente della Repubblica 23 aprile 2001, n. 290, in materia di immissione in commercio e vendita di prodotti fitosanitari
 
 1\. Il Governo e' autorizzato a modificare, entro diciotto mesi dalla data di entrata in vigore della presente legge, il comma 2 dell'articolo 11 del regolamento di cui al decreto del Presidente della Repubblica 23 aprile 2001, n. 290, in base ai seguenti criteri direttivi:
 
@@ -898,7 +894,7 @@ b) demandare a un decreto del Ministro della salute, di concerto con il Ministro
 
 > Il regolamento (CEE) n. 2092/91 e' pubblicato nella G.U.C.E. n. L 198 del 22 luglio 1991.
 
-#### Art. 18 - Modifiche al decreto legislativo 9 maggio 2001, n. 269, recante attuazione della direttiva 1999/5/CE, riguardante le apparecchiature radio, le apparecchiature terminali di telecomunicazione ed il reciproco riconoscimento della loro conformita
+### Art. 18 - Modifiche al decreto legislativo 9 maggio 2001, n. 269, recante attuazione della direttiva 1999/5/CE, riguardante le apparecchiature radio, le apparecchiature terminali di telecomunicazione ed il reciproco riconoscimento della loro conformita
 
 1\. All'articolo 3 del decreto legislativo 9 maggio 2001, n. 269, il comma 2 e' sostituito dal seguente:
 
@@ -948,7 +944,7 @@ b) demandare a un decreto del Ministro della salute, di concerto con il Ministro
 
 > 5\. L'identificazione di categoria dell'apparecchio assume la forma decisa dalla Commissione europea. Se del caso, l'identificatore include un elemento inteso a informare l'utente del fatto che l'apparecchio utilizza bande di frequenza radio di cui impiego non e' armonizzato nell'Unione europea. Esso ha la stessa altezza delle iniziali «CE».».
 
-#### Art. 19 - Introduzione dell'articolo 144-bis del codice di cui al decreto legislativo 6 settembre 2005, n. 206, recante disposizioni per la tutela dei consumatori
+### Art. 19 - Introduzione dell'articolo 144-bis del codice di cui al decreto legislativo 6 settembre 2005, n. 206, recante disposizioni per la tutela dei consumatori
 
 1\. Dopo l'articolo 144 del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206, e' inserito il seguente:
 
@@ -978,7 +974,7 @@ e) commercio elettronico, di cui alla parte III, titolo III, capo II.
 
 > \- Il decreto legislativo 6 settembre 2005, n. 206 (Codice del consumo, a norma dell'art. 7 della legge 29 luglio 2003, n. 229) e' pubblicato nella Gazzetta Ufficiale 8 ottobre 2005, n. 235, S.O.
 
-#### Art. 20 - Comunicazioni periodiche all'AGEA in materia di produzione di olio di oliva e di olive da tavola
+### Art. 20 - Comunicazioni periodiche all'AGEA in materia di produzione di olio di oliva e di olive da tavola
 
 1\. ((COMMA ABROGATO DAL D.LGS. 21 MAGGIO 2018, N.74)).
 
@@ -988,7 +984,7 @@ e) commercio elettronico, di cui alla parte III, titolo III, capo II.
 
 4\. In relazione alla nuova disciplina dell'organizzazione comune di mercato dell'olio di oliva di cui al regolamento (CE) n. 865/2004 del Consiglio, del 29 aprile 2004, all'articolo 7, comma 3, della legge 27 gennaio 1968, n. 35, e successive modificazioni, dopo le parole: "quantita' nominali unitarie seguenti espresse in litri:" sono inserite le seguenti: "0,05,".
 
-#### Art. 21 - Modifiche all'articolo 29 della legge 29 dicembre 1990, n. 428, in materia di rimborso di tributi
+### Art. 21 - Modifiche all'articolo 29 della legge 29 dicembre 1990, n. 428, in materia di rimborso di tributi
 
 1\. Al comma 2 dell'articolo 29 della legge 29 dicembre 1990, n. 428, sono aggiunte, in fine, le seguenti parole: ", circostanza che non puo' essere assunta dagli uffici tributari a mezzo di presunzioni".
 
@@ -1012,7 +1008,7 @@ e) commercio elettronico, di cui alla parte III, titolo III, capo II.
 
 > 8\. La disposizione contenuta nel comma 4 si applica a decorrere dal periodo d'imposta in corso alla data di entrata in vigore della presente legge.».
 
-#### Art. 22 - Abrogazione della legge 10 agosto 2000, n. 250, recante norme per l'utilizzazione dei traccianti di evidenziazione nel latte in polvere destinato ad uso zootecnico
+### Art. 22 - Abrogazione della legge 10 agosto 2000, n. 250, recante norme per l'utilizzazione dei traccianti di evidenziazione nel latte in polvere destinato ad uso zootecnico
 
 1\. La legge 10 agosto 2000, n. 250, e' abrogata.
 
@@ -1020,7 +1016,7 @@ e) commercio elettronico, di cui alla parte III, titolo III, capo II.
 
 > \- La legge 10 agosto 2000, n. 250, abrogata dalla presente legge, recava: «Norme per l'utilizzazione dei traccianti di evidenziazione nel latte in polvere destinato ad uso zootecnico.».
 
-#### Art. 23 - Modifica dell'articolo 14 del decreto legislativo 13 gennaio 1999, n. 18, in materia di servizi di assistenza a terra negli aeroporti
+### Art. 23 - Modifica dell'articolo 14 del decreto legislativo 13 gennaio 1999, n. 18, in materia di servizi di assistenza a terra negli aeroporti
 
 1\. L'articolo 14 del decreto legislativo 13 gennaio 1999, n. 18, e' sostituito dal seguente:
 
@@ -1032,7 +1028,7 @@ e) commercio elettronico, di cui alla parte III, titolo III, capo II.
 
 > «Attuazione, della direttiva 96/67/CE relativa al libero accesso al mercato dei servizi di assistenza a terra negli aeroporti della Comunita'.».
 
-#### Art. 24 - Modifiche all'articolo 21 del testo unico di cui al decreto legislativo 26 ottobre 1995, n. 504, in materia di accise sugli oli minerali
+### Art. 24 - Modifiche all'articolo 21 del testo unico di cui al decreto legislativo 26 ottobre 1995, n. 504, in materia di accise sugli oli minerali
 
 1\. All'articolo 21 del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e le relative sanzioni penali ed amministrative, di cui al decreto legislativo 26 ottobre 1995, n. 504, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -1128,7 +1124,7 @@ b) dopo il comma 6-ter e' aggiunto il seguente:
 
 > 7\. Le aliquote a volume si applicano con riferimento alla temperatura di 15° Celsius ed alla pressione normale.».
 
-#### Art. 25 - Attuazione delle decisioni dei rappresentanti dei Governi degli Stati membri dell'Unione europea riuniti in sede di Consiglio del ((15 ottobre 2001)), del 28 aprile 2004 e del 10 novembre 2004, relative a privilegi e immunita' accordati ad agenzie e meccanismi istituiti dall'Unione europea nell'ambito della politica estera e di sicurezzacomune e della politica europea di sicurezza e di difesa e ai membri del loro personale
+### Art. 25 - Attuazione delle decisioni dei rappresentanti dei Governi degli Stati membri dell'Unione europea riuniti in sede di Consiglio del ((15 ottobre 2001)), del 28 aprile 2004 e del 10 novembre 2004, relative a privilegi e immunita' accordati ad agenzie e meccanismi istituiti dall'Unione europea nell'ambito della politica estera e di sicurezzacomune e della politica europea di sicurezza e di difesa e ai membri del loro personale
 
 1\. E' data attuazione alle seguenti decisioni dei rappresentanti dei Governi degli Stati membri dell'Unione europea riuniti in sede di Consiglio, le quali sono obbligatorie e vincolanti a decorrere dalla data di entrata in vigore della presente legge:
 
@@ -1138,7 +1134,7 @@ b) decisione del 28 aprile 2004, relativa a privilegi e immunita' accordati ad A
 
 c) decisione del 10 novembre 2004, relativa a privilegi e immunita' accordati all'Agenzia europea per la difesa e ai membri del suo personale.
 
-#### Art. 26 - Modifiche alla legge 16 aprile 1987, n. 183, concernenti organismi consultivi con competenze in materia di politiche comunitarie
+### Art. 26 - Modifiche alla legge 16 aprile 1987, n. 183, concernenti organismi consultivi con competenze in materia di politiche comunitarie
 
 1\. L'articolo 4 e i commi 2 e 3 dell'articolo 19 della legge 16 aprile 1987, n. 183, sono abrogati.
 
@@ -1154,7 +1150,7 @@ c) decisione del 10 novembre 2004, relativa a privilegi e immunita' accordati al
 
 > 2.-3. (Abrogati)».
 
-#### Art. 27 - Modifica all'articolo 181 del codice della navigazione
+### Art. 27 - Modifica all'articolo 181 del codice della navigazione
 
 1\. All'articolo 181, terzo comma, del codice della navigazione, di cui al regio decreto 30 marzo 1942, n. 327, le parole: "o consolari" sono soppresse.
 
@@ -1168,7 +1164,7 @@ c) decisione del 10 novembre 2004, relativa a privilegi e immunita' accordati al
 
 > 3\. Le spedizioni non possono essere rilasciate qualora risulti che l'armatore o il comandante della nave non ha adempiuto agli obblighi imposti dalle norme di polizia, da quelle per la sicurezza della navigazione, nonche' agli obblighi relativi alle visite ed alle prescrizioni impartite dalle competenti autorita'. Del pari le spedizioni non possono essere rilasciate qualora risulti che l'armatore o il comandante della nave non ha compiuto gli adempimenti sanitari, fiscali e doganali ovvero non ha provveduto al pagamento dei diritti portuali, al versamento delle cauzioni eventualmente richieste a norma delle vigenti disposizioni di legge o regolamentari, nonche' in tutti gli altri casi previsti da disposizioni di legge.».
 
-#### Art. 28 - Abrogazione dell'articolo 23, comma 3, della legge 18 aprile 2005, n. 62
+### Art. 28 - Abrogazione dell'articolo 23, comma 3, della legge 18 aprile 2005, n. 62
 
 1\. All'articolo 23 della legge 18 aprile 2005, n. 62, il comma 3 e' abrogato.
 

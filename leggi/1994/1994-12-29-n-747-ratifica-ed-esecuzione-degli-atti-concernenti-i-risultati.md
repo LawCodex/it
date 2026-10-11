@@ -12304,7 +12304,7 @@ Se i Membri non accordano tali diritti agli organismi di radiodiffusione, danno 
 
 6\. Qualsiasi Membro puo', in relazione ai diritti di cui ai paragrafi 1, 2 e 3 prevedere condizioni, limitazioni, deroghe e riserve entro i limiti consentiti dalla Convenzione di Roma. Tuttavia, le disposizioni dell'articolo 18 della Convenzione di Berna (1971) si applicano, mutatis mutandis, anche ai diritti degli artisti interpreti o esecutori e dei produttori di fonogrammi sui fonogrammi.
 
-## SEZIONE 2: MARCHI
+### SEZIONE 2: MARCHI
 
 #### Articolo 15
 
@@ -12370,7 +12370,7 @@ Licenza e cessione
 
 I Membri possono determinare le condizioni relative alla licenza e alla cessione dei marchi, restando inteso che la licenza obbligatoria non e' consentita e che il titolare di un marchio registrato ha il diritto di trasferire il marchio contestualmente o meno all'azienda cui il marchio appartiene.
 
-## SEZIONE 3: INDICAZIONI GEOGRAFICHE
+### SEZIONE 3: INDICAZIONI GEOGRAFICHE
 
 #### Articolo 22
 
@@ -12438,7 +12438,7 @@ le misure adottate per attuare la presente sezione non compromettono il diritto 
 
 9\. Non sussiste alcun obbligo ai sensi del presente Accordo di proteggere le indicazioni geografiche che non siano o cessino di essere protette nel loro paese d'origine, o che siano ivi cadute in disuso.
 
-## SEZIONE 4: DISEGNI INDUSTRIALI
+### SEZIONE 4: DISEGNI INDUSTRIALI
 
 #### Articolo 25
 
@@ -12458,7 +12458,7 @@ Protezione
 
 3\. La protezione e' accordata per una durata non inferiore a 10 anni.
 
-## SEZIONE 5: BREVETTI
+### SEZIONE 5: BREVETTI
 
 #### Articolo 27
 
@@ -12682,7 +12682,7 @@ titolare del brevetto non ha potuto determinare con mezzi ragionevoli il procedi
 
 3\. Nell'espletamento della prova contraria, si deve prendere in considerazione il legittimo interesse del convenuto alla protezione dei suoi segreti di fabbricazione e commerciali.
 
-## SEZIONE 6: TOPOGRAFIE DI PRODOTTI A SEMICONDUTTORI
+### SEZIONE 6: TOPOGRAFIE DI PRODOTTI A SEMICONDUTTORI
 
 #### Articolo 35
 
@@ -12718,7 +12718,7 @@ Durata della protezione
 
 3\. In deroga ai paragrafi 1 e 2, un Membro puo' prescrivere che la protezione decada 15 anni dopo la creazione della topografia.
 
-## SEZIONE 7: PROTEZIONE DI INFORMAZIONI SEGRETE
+### SEZIONE 7: PROTEZIONE DI INFORMAZIONI SEGRETE
 
 #### Articolo 39
 
@@ -12774,7 +12774,7 @@ Tuttavia, non vi e' alcun obbligo di prevedere un'opportunita' di riesame delle 
 
 5\. E' inteso che la presente parte non crea alcun obbligo di predisporre un sistema giudiziario per la tutela dei diritti di proprieta' intellettuale distinto da quello per l'applicazione della legge in generale, ne' influisce sulla capacita' dei Membri di applicare le rispettive leggi in generale. Nessuna disposizione della presente parte crea obbligo riguardo alla distribuzione delle risorse tra i mezzi per la tutela dei diritti di proprieta' intellettuale e i mezzi per l'applicazione della legge in generale.
 
-## SEZIONE 2: PROCEDIMENTI E RIMEDI CIVILI E AMMINISTRATIVI
+### SEZIONE 2: PROCEDIMENTI E RIMEDI CIVILI E AMMINISTRATIVI
 
 #### Articolo 42
 
@@ -12834,7 +12834,7 @@ Procedure amministrative
 
 Nella misura in cui un provvedimento civile puo' essere disposto in seguito a procedure amministrative concernenti il merito di una controversia, tali procedure sono conformi a principi sostanzialmente equivalenti a quelli enunciati nella presente sezione.
 
-## SEZIONE 3: MISURE PROVVISORIE
+### SEZIONE 3: MISURE PROVVISORIE
 
 #### Articolo 50
 
@@ -12864,7 +12864,7 @@ presunta violazione.
 
 8\. Nella misura in cui una misura provvisoria puo' esser ordinata in seguito a procedure amministrative, tali procedure sono conformi a principi sostanzialmente equivalenti a quelli enunciati nella presente sezione.
 
-## SEZIONE 4: DISPOSIZIONI SPECIALI IN MATERIA DI MISURE ALLA
+### SEZIONE 4: DISPOSIZIONI SPECIALI IN MATERIA DI MISURE ALLA
 
 #### Articolo 51
 
@@ -12974,7 +12974,7 @@ Importazioni de minimis
 
 I Membri possono escludere dall'applicazione delle disposizioni che precedono i piccoli quantitativi di merci a carattere non commerciale contenute nel bagaglio personale dei viaggiatori o inviate in piccole spedizioni.
 
-## SEZIONE 5: PROCEDIMENTI PENALI
+### SEZIONE 5: PROCEDIMENTI PENALI
 
 #### Articolo 61
 

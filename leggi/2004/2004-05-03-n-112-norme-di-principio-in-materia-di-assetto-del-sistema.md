@@ -22,31 +22,31 @@ retrieved: 2026-10-11
 
 ## Capo I - PRINCIPI GENERALI
 
-#### Art. 1
+### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177))
 
-#### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177))
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177))
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177))
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177))
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177))
 
-#### Art. 7 - Principi generali in materia di emittenza radiotelevisiva di ambito locale
+### Art. 7 - Principi generali in materia di emittenza radiotelevisiva di ambito locale
 
 1\. L'emittenza radiotelevisiva di ambito locale valorizza e promuove le culture regionali o locali, nel quadro dell'unita' politica, culturale e linguistica del Paese. Restano ferme le norme a tutela delle minoranze linguistiche riconosciute dalla legge.
 
@@ -90,7 +90,7 @@ AGGIORNAMENTO (6)
 
 Il D.P.R. 25 novembre 2010, n. 223 ha disposto (con l'art. 22, comma 2) che "Ai sensi del comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99, il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
 
-#### Art. 8 - Diffusioni interconnesse
+### Art. 8 - Diffusioni interconnesse
 
 1\. All'articolo 21, comma 2, della legge 6 agosto 1990, n. 223, dopo le parole: "sei ore" sono inserite le seguenti: "per le emittenti radiofoniche e le dodici ore per le emittenti televisive. La variazione dell'orario di trasmissione in contemporanea da parte dei soggetti autorizzati e' consentita previa comunicazione al Ministero delle comunicazioni, da inoltrare con un anticipo di almeno quindici giorni".
 
@@ -134,7 +134,7 @@ Il D.P.R. 25 novembre 2010, n. 223 ha disposto (con l'art. 22, comma 2) che "Ai 
 
 > \- Per la legge 5 ottobre 1991, n. 327, si vedano note all'art. 2.
 
-#### Art. 9 - Disposizioni in materia di risanamento degli impianti radiotelevisivi
+### Art. 9 - Disposizioni in materia di risanamento degli impianti radiotelevisivi
 
 1\. All'articolo 2, comma 2, del decreto-legge 23 gennaio 2001, n. 5, convertito, con modificazioni, dalla legge 20 marzo 2001, n. 66, e' aggiunto il seguente periodo: "Ai soggetti titolari legittimamente operanti, interessati da ordinanze di riduzione a conformita' di impianti di radiodiffusione per esigenze di carattere urbanistico, ambientale o sanitario, che abbiano presentato agli organi periferici del Ministero delle comunicazioni piani di risanamento, ottenendo autorizzazione alla modifica degli impianti, cui hanno ottemperato nel termine di centottanta giorni, si applicano le sanzioni di cui al precedente periodo, ridotte di un terzo".
 
@@ -150,7 +150,7 @@ Il D.P.R. 25 novembre 2010, n. 223 ha disposto (con l'art. 22, comma 2) che "Ai 
 
 > In caso di reiterazione della violazione, il Ministro dell'ambiente, fatte salve le disposizioni di cui all'art. 8 della legge 8 luglio 1986, n. 349, e di cui all'art. 8 della legge 3 marzo 1987, n. 59, di concerto con il Ministro della sanita' e con il Ministro delle comunicazioni, dispone, anche su segnalazione delle regioni e delle province autonome, la disattivazione degli impianti, alla quale provvedono i competenti organi del Ministero delle comunicazioni, fino all'esecuzione delle azioni di risanamento. Ai soggetti titolari legittimamente operanti interessati da ordinanze di riduzione a conformita' di impianti di radiodiffusione per esigenze di carattere urbanistico, ambientale o sanitario, che abbiano presentato agli organi periferici del Ministero delle comunicazioni piani di risanamento, ottenendo autorizzazione alla modifica degli impianti, cui hanno ottemperato nel termine di centottanta giorni, si applicano le sanzioni di cui al precedente periodo, ridotte di un terzo.».
 
-#### Art. 10 - Tutela dei minori nella programmazione televisiva
+### Art. 10 - Tutela dei minori nella programmazione televisiva
 
 1\. Fermo restando il rispetto delle norme comunitarie e nazionali vigenti a tutela dei minori e in particolare delle norme contenute nell'articolo 8, comma 1, e nell'articolo 15, comma 10, della legge 6 agosto 1990, n. 223, le emittenti televisive devono osservare ((e promuovere)) le disposizioni per la tutela dei minori previste dal Codice di autoregolamentazione TV e minori approvato il 29 novembre 2002. Eventuali integrazioni, modifiche o adozione di nuovi documenti di autoregolamentazione sono recepiti con decreto del Ministro delle comunicazioni, emanato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, previo parere della Commissione parlamentare di cui alla legge 23 dicembre 1997, n. 451.
 
@@ -176,7 +176,7 @@ Il D.P.R. 25 novembre 2010, n. 223 ha disposto (con l'art. 22, comma 2) che "Ai 
 
 10\. Le quote di riserva per la trasmissione di opere europee, previste dall'articolo 2, comma 1, della legge 30 aprile 1998, n. 122, devono comprendere anche opere cinematografiche o per la televisione, comprese quelle di animazione, specificamente rivolte ai minori, nonche' produzioni e programmi adatti ai minori ovvero idonei alla visione da parte dei minori e degli adulti. Il tempo minimo di trasmissione riservato a tali opere e programmi e' determinato dall'Autorita' per le garanzie nelle comunicazioni.
 
-#### Art. 11 - Principio di tutela della produzione audiovisiva europea
+### Art. 11 - Principio di tutela della produzione audiovisiva europea
 
 1\. I fornitori di contenuti televisivi favoriscono lo sviluppo e la diffusione della produzione audiovisiva europea anche secondo quanto previsto, con riferimento ai produttori indipendenti, dall'articolo 2 della legge 30 aprile 1998, n. 122, e riservano, comunque, ad opere europee la maggior parte del loro tempo di trasmissione in ambito nazionale su frequenze terrestri, escluso il tempo destinato a notiziari, a manifestazioni sportive, a giochi televisivi, alla pubblicita' oppure a servizi di teletext, a dibattiti e a televendite. Deroghe possono essere richieste all'Autorita' per le garanzie nelle comunicazioni secondo quanto disposto dall'articolo 5 del citato regolamento di cui alla deliberazione della stessa Autorita' 16 marzo 1999, n. 9/1999.
 
@@ -188,7 +188,7 @@ Il D.P.R. 25 novembre 2010, n. 223 ha disposto (con l'art. 22, comma 2) che "Ai 
 
 > «Art. 5 (Deroga per i canali tematici). - I singoli canali tematici possono richiedere all'Autorita', illustrandone i motivi, la deroga totale o parziale agli obblighi di riserva di emissione e di investimento cosi' come definiti nel presente regolamento».
 
-#### Art. 12 - Uso efficiente dello spettro elettromagnetico
+### Art. 12 - Uso efficiente dello spettro elettromagnetico
 
 1\. Lo spettro elettromagnetico costituisce risorsa essenziale ai fini dell'attivita' radiotelevisiva. I soggetti che svolgono attivita' di radiodiffusione sono tenuti ad assicurare un uso efficiente delle frequenze radio ad essi assegnate, ed in particolare a:
 
@@ -242,7 +242,7 @@ f) assicurare che le proprie emissioni non provochino interferenze con altre emi
 
 > «17. Le imprese di radiodiffusione sonora e televisiva operanti in ambito locale e le imprese di radiodiffusione sonora operanti in ambito nazionale possono effettuare collegamenti in diretta sia attraverso ponti mobili, sia attraverso collegamenti temporanei funzionanti su base non interferenziale con altri utilizzatori dello spettro radio, in occasione di avvenimenti di cronaca, politica, spettacolo, cultura, sport e attualita'. Le stesse imprese, durante la diffussione dei programmi e sulle, stesse frequenze assegnate, possono trasmettere dati e informazioni all'utenza. La concessione costituisce titolo per l'utilizzazione dei ponti mobili e dei collegamenti temporanei, nonche' per trasmettere dati e informazioni all'utenza».
 
-#### Art. 13 - Autorita' per le garanzie nelle comunicazioni
+### Art. 13 - Autorita' per le garanzie nelle comunicazioni
 
 1\. L'Autorita' per le garanzie nelle comunicazioni, nell'esercizio dei compiti ad essa affidati dalla legge, assicura il rispetto dei diritti fondamentali della persona nel settore delle comunicazioni, anche radiotelevisive.
 
@@ -252,7 +252,7 @@ f) assicurare che le proprie emissioni non provochino interferenze con altre emi
 
 ## Capo II - TUTELA DELLA CONCORRENZA E DEL MERCATO
 
-#### Art. 14 - Accertamento della sussistenza di posizioni dominanti nel sistema integrato delle comunicazioni
+### Art. 14 - Accertamento della sussistenza di posizioni dominanti nel sistema integrato delle comunicazioni
 
 1\. I soggetti che operano nel sistema integrato delle comunicazioni sono tenuti a notificare all'Autorita' per le garanzie nelle comunicazioni le intese e le operazioni di concentrazione al fine di consentire, secondo le procedure previste in apposito regolamento adottato dall'Autorita' medesima, la verifica del rispetto dei principi enunciati dall'articolo 15.
 
@@ -374,7 +374,7 @@ f) assicurare che le proprie emissioni non provochino interferenze con altre emi
 
 > 20\. Ai fini dell'applicazione degli articoli 4, 7 e 8 della legge 7 agosto 1990, n. 250, e dell'art. 7 del decreto-legge 27 agosto 1993, n. 323, convertito, con modificazioni, dalla legge 27 ottobre 1993, n. 422, per trasmissioni quotidiane si intendono quelle effettuate nel limite orario previsto dalle suddette disposizioni, con frequenza non inferiore a cinque giorni alla settimana o, in alternativa, a centoventi giorni al semestre.».
 
-#### Art. 15
+### Art. 15
 
 (Limiti al cumulo dei programmi televisivi e radiofonici e alla raccolta di risorse nel sistema integrato delle comunicazioni.
 
@@ -460,11 +460,9 @@ b) al comma 9-bis, al primo periodo, dopo le parole: "se comprende forme di pubb
 
 > \- La legge 7 marzo 2001, n. 62, recante: «Nuove norme sull'editoria e sui prodotti editoriali e modifiche alla legge 5 agosto 1981, n. 416» e' pubblicata nella Gazzetta Ufficiale 21 marzo 2001, n. 67.
 
-## Capo III - PRINCIPI E CRITERI DIRETTIVI PER L'EMANAZIONE DEL TESTO UNICO DELLA
+## Capo III - PRINCIPI E CRITERI DIRETTIVI PER L'EMANAZIONE DEL TESTO UNICO DELLA RADIOTELEVISIONE
 
-### RADIOTELEVISIONE
-
-#### Art. 16
+### Art. 16
 
 (Delega al Governo per l'emanazione
 
@@ -498,15 +496,13 @@ AGGIORNAMENTO (1)
 
 La L. 27 dicembre 2004, n. 306 ha disposto (con l'art. 8, comma 1) che "Il termine di dodici mesi indicato al comma 1 dell'articolo 16 della legge 3 maggio 2004, n. 112, e' prorogato di tre mesi."
 
-## Capo IV - COMPITI DEL SERVIZIO PUBBLICO GENERALE RADIOTELEVISIVO E RIFORMA
+## Capo IV - COMPITI DEL SERVIZIO PUBBLICO GENERALE RADIOTELEVISIVO E RIFORMA DELLA RAI-RADIOTELEVISIONE ITALIANA SPA
 
-### DELLA RAI-RADIOTELEVISIONE ITALIANA SPA
-
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DALLA L. 28 DICEMBRE 2015, N. 220))
 
-#### Art. 18 - Finanziamento del servizio pubblico generale radiotelevisivo
+### Art. 18 - Finanziamento del servizio pubblico generale radiotelevisivo
 
 1\. Al fine di consentire la determinazione del costo di fornitura del servizio pubblico generale radiotelevisivo, coperto dal canone di abbonamento di cui al regio decreto-legge 21 febbraio 1938, n. 246, convertito dalla legge 4 giugno 1938, n. 880, e successive modificazioni, e di assicurare la trasparenza e la responsabilita' nell'utilizzo del finanziamento pubblico, la societa' concessionaria predispone il bilancio di esercizio indicando in una contabilita' separata i ricavi derivanti dal gettito del canone e gli oneri sostenuti nell'anno solare precedente per la fornitura del suddetto servizio, sulla base di uno schema approvato dall'Autorita' per le garanzie nelle comunicazioni, imputando o attribuendo i costi sulla base di principi di contabilita' applicati in modo coerente e obiettivamente giustificati e definendo con chiarezza i principi di contabilita' analitica secondo cui vengono tenuti conti separati.
 
@@ -534,7 +530,7 @@ Ogni qualvolta vengano utilizzate le stesse risorse di personale, apparecchiatur
 
 > 4\. Per l'iscrizione nell'albo le societa' di revisione devono essere munite di idonea garanzia prestata da banche, assicurazioni o intermediari iscritti nell'elenco speciale previsto dall'art. 107 del decreto legislativo 1° settembre 1993, n. 385, a copertura dei rischi derivanti dall'esercizio dell'attivita' di revisione contabile.».
 
-#### Art. 19 - Verifica dell'adempimento dei compiti
+### Art. 19 - Verifica dell'adempimento dei compiti
 
 1\. In conformita' a quanto stabilito nella comunicazione della Commissione delle Comunita' europee 2001/C 320/04, pubblicata nella Gazzetta Ufficiale delle Comunita' europee C 320 del 15 novembre 2001, relativa all'applicazione delle norme sugli aiuti di Stato al servizio pubblico di radiodiffusione, e' affidato all'Autorita' per le garanzie nelle comunicazioni il compito di verificare che il servizio pubblico generale radiotelevisivo venga effettivamente prestato ai sensi delle disposizioni di cui alla presente legge, del contratto nazionale di servizio e degli specifici contratti di servizio conclusi con le regioni e con le province autonome di Trento e di Bolzano, tenendo conto anche dei parametri di qualita' del servizio e degli indici di soddisfazione degli utenti definiti nel contratto medesimo.
 
@@ -554,11 +550,11 @@ Ogni qualvolta vengano utilizzate le stesse risorse di personale, apparecchiatur
 
 9\. L'Autorita' per le garanzie nelle comunicazioni da' conto dei risultati del controllo ogni anno nella relazione annuale.
 
-#### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DALLA L. 28 DICEMBRE 2015, N. 220))
 
-#### Art. 21 - Dismissione della partecipazione dello Stato nella RAI-Radiotelevisione italiana Spa
+### Art. 21 - Dismissione della partecipazione dello Stato nella RAI-Radiotelevisione italiana Spa
 
 1\. Entro sessanta giorni dalla data di entrata in vigore della presente legge e' completata la fusione per incorporazione della RAI-Radiotelevisione italiana Spa nella societa' RAI-Holding Spa. Ai fini di tale operazione, i termini di cui agli articoli 2501-ter, ultimo comma, 2501-septies, primo comma, e 2503, primo comma, del codice civile, sono dimezzati. Le licenze, autorizzazioni e concessioni di cui e' titolare la RAI-Radiotelevisione italiana Spa saranno, per effetto della presente legge, trasferite di pieno diritto alla societa' incorporante, senza necessita' di ulteriori provvedimenti.
 
@@ -630,7 +626,7 @@ Ogni qualvolta vengano utilizzate le stesse risorse di personale, apparecchiatur
 
 ## Capo V - DISPOSIZIONI TRANSITORIE E FINALI E ABROGAZIONI
 
-#### Art. 22 - Attuazione del piano nazionale di assegnazione delle frequenze radiofoniche e televisive in tecnica digitale
+### Art. 22 - Attuazione del piano nazionale di assegnazione delle frequenze radiofoniche e televisive in tecnica digitale
 
 1\. L'Autorita' per le garanzie nelle comunicazioni definisce il programma di attuazione del piano nazionale di assegnazione delle frequenze radiofoniche e televisive in tecnica digitale, valorizzando la sperimentazione e osservando criteri di gradualita' e di salvaguardia del servizio, a tutela dell'utenza.
 
@@ -642,7 +638,7 @@ Ogni qualvolta vengano utilizzate le stesse risorse di personale, apparecchiatur
 
 > «11. L'Autorita' disciplina con propri provvedimenti le modalita' per la soluzione non giurisdizionale delle controversie che possono insorgere fra utenti o categorie di utenti ed un soggetto autorizzato o destinatario di licenze oppure tra soggetti autorizzati o destinatari di licenze tra loro. Per le predette controversie, individuate con provvedimenti dell'Autorita', non puo' proporsi ricorso in sede giurisdizionale fino a che non sia stato esperito un tentativo obbligatorio di conciliazione da ultimare entro trenta giorni dalla proposizione dell'istanza all'Autorita'. A tal fine, i termini per agire in sede giurisdizionale sono sospesi fino alla scadenza del termine per la conclusione del procedimento di conciliazione.».
 
-#### Art. 23 - Disciplina della fase di avvio delle trasmissioni televisive in tecnica digitale
+### Art. 23 - Disciplina della fase di avvio delle trasmissioni televisive in tecnica digitale
 
 1\. Fino all'attuazione del piano nazionale di assegnazione delle frequenze televisive in tecnica digitale, i soggetti esercenti a qualunque titolo attivita' di radiodiffusione televisiva in ambito nazionale e locale in possesso dei requisiti previsti per ottenere l'autorizzazione per la sperimentazione delle trasmissioni in tecnica digitale terrestre, ai sensi dell'articolo 2-bis del decreto-legge 23 gennaio 2001, n. 5, convertito, con modificazioni, dalla legge 20 marzo 2001, n. 66, possono effettuare, anche attraverso la ripetizione simultanea dei programmi gia' diffusi in tecnica analogica, le predette sperimentazioni fino alla completa conversione delle reti, nonche' richiedere, a decorrere dalla data di entrata in vigore della presente legge e nei limiti e nei termini previsti dal regolamento relativo alla radiodiffusione terrestre in tecnica digitale, di cui alla deliberazione dell'Autorita' per le garanzie nelle comunicazioni 15 novembre 2001, n. 435/01/CONS, pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 284 del 6 dicembre 2001, e successive modificazioni, le licenze e le autorizzazioni per avviare le trasmissioni in tecnica digitale terrestre.
 
@@ -786,7 +782,7 @@ Ogni qualvolta vengano utilizzate le stesse risorse di personale, apparecchiatur
 
 > «Art. 9 (Trasmissioni simultanee). - 1. Ai titolari di concessioni su frequenze terrestri e' consentita, previa notifica dell'Autorita', inclusiva anche dei dati di cui all'allegato 2 del presente regolamento, la ritrasmissione simultanea integrale, fatto salvo il rispetto dei diritti di trasmissione acquisiti, su reti di diffusione via satellite.»
 
-#### Art. 24 - Disciplina della fase di avvio delle trasmissioni radiofoniche in tecnica digitale
+### Art. 24 - Disciplina della fase di avvio delle trasmissioni radiofoniche in tecnica digitale
 
 1\. L'Autorita' per le garanzie nelle comunicazioni, al fine di promuovere lo sviluppo della diffusione radiofonica in tecnica digitale, adotta, sentiti il Ministro delle comunicazioni e le associazioni maggiormente rappresentative delle imprese radiofoniche, entro tre mesi dalla data di entrata in vigore della presente legge, un regolamento secondo i seguenti principi e criteri direttivi:
 
@@ -830,7 +826,7 @@ g) disciplina della fase di avvio dell'attuazione del piano nazionale di assegna
 
 > 2-quater. Uno stesso soggetto, esercente la radiodiffusione sonora in ambito locale, direttamente o attraverso piu' soggetti tra loro collegati o controllati, puo' irradiare il segnale fino ad una copertura massima di quindici milioni di abitanti. Le imprese che alla data di entrata in vigore della legge di conversione del presente decreto superino i predetti limiti sono tenute ad adeguarsi ai limiti stessi entro sei mesi. in caso di inottemperanza, il Ministero delle comunicazioni dispone la sospensione dell'esercizio fino all'avvenuto adeguamento.».
 
-#### Art. 25 - Accelerazione e agevolazione della conversione alla trasmissione in tecnica digitale
+### Art. 25 - Accelerazione e agevolazione della conversione alla trasmissione in tecnica digitale
 
 1\. Ai fini dello sviluppo del pluralismo sono rese attive, dal 31 dicembre 2003, reti televisive digitali terrestri, con un'offerta di programmi in chiaro accessibili mediante decoder o ricevitori digitali.
 
@@ -872,11 +868,11 @@ a) all'articolo 19, primo comma, lettera b), sono soppresse le parole: "ad onde 
 
 b) all'articolo 20, terzo comma, sono soppresse le parole da: "mentre le trasmissioni" fino alla fine del comma.
 
-#### Art. 26 - Disposizioni particolari per la regione autonoma Valle d'Aosta e per le province autonome di Trento e di Bolzano
+### Art. 26 - Disposizioni particolari per la regione autonoma Valle d'Aosta e per le province autonome di Trento e di Bolzano
 
 1\. Fermo restando il rispetto dei principi fondamentali previsti dalla presente legge, la regione autonoma Valle d'Aosta e le province autonome di Trento e di Bolzano provvedono alle finalita' della presente legge nell'ambito delle specifiche competenze ad esse spettanti ai sensi dello Statuto speciale e delle relative norme di attuazione, anche con riferimento alle disposizioni del titolo V della parte seconda della Costituzione per le parti in cui prevedono forme di autonomia piu' ampie rispetto a quelle gia' attribuite.
 
-#### Art. 27 - Sanatoria di impianti esistenti
+### Art. 27 - Sanatoria di impianti esistenti
 
 1\. Possono continuare ad operare tutti gli impianti, attivi alla data di entrata in vigore della presente legge da almeno dieci anni, ancorche' relativi a frequenze non censite ai sensi dell'articolo 32 della legge 6 agosto 1990, n. 223, ovvero consentite in ritardo, in quanto destinate a migliorare le potenzialita' del bacino d'utenza connesso all'impianto principale regolarmente censito e munito di concessione, ancorche' oggetto di provvedimento di spegnimento o analogo, purche':
 
@@ -908,7 +904,7 @@ f) si tratti di microimpianti attivati in zone disagiate di montagna ad una quot
 
 > 6\. Le disposizioni di cui ai precedenti commi si applicano anche agli esercenti di impianti di ripetizione di segnali esteri.».
 
-#### Art. 28 - Abrogazioni
+### Art. 28 - Abrogazioni
 
 1\. Sono abrogate le seguenti disposizioni:
 
@@ -1018,7 +1014,7 @@ g) articolo 2, comma 4, del decreto-legge 18 novembre 1999, n. 433, convertito, 
 
 > 7\. Le concessioni di cui al presente articolo hanno validita' sino alla scadenza del termine delle concessioni per la radiodiffusione televisiva su frequenze terrestri in ambito nazionale.».
 
-#### Art. 29 - Entrata in vigore
+### Art. 29 - Entrata in vigore
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 

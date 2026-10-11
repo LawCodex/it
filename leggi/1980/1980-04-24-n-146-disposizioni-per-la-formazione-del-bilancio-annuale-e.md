@@ -28,7 +28,7 @@ la seguente legge:
 
 ## DISPOSIZIONI IN MATERIA FISCALE
 
-### Art. 1
+## Art. 1
 
 Al primo comma dell'articolo 10 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597, nel testo sostituito dall'articolo 5 della legge 13 aprile 1977 n. 114, la lettera c) e' sostituita dalla seguente:
 
@@ -38,7 +38,7 @@ L'importo di lire due milioni indicato nel primo comma, lettera i), del citato a
 
 Le disposizioni dei commi precedenti hanno effetto relativamente agli oneri sostenuti dal 1 gennaio 1980.
 
-### Art. 2
+## Art. 2
 
 I numeri 1) e 2) del secondo comma dell'articolo 15 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597, e successive modificazioni, sono sostituiti dai seguenti:
 
@@ -78,7 +78,7 @@ Nell'articolo 48 del decreto del Presidente della Repubblica 29 settembre 1973, 
 
 Le disposizioni di cui al presente articolo hanno effetto dal 10 gennaio 1980, salvo quanto stabilito dalle disposizioni transitorie della presente legge.
 
-### Art. 3
+## Art. 3
 
 Con effetto dal 1 gennaio 1980 ai possessori di redditi di lavoro dipendente e dei redditi di cui all'articolo 47, primo comma, lettera a), del decreto del Presidente della Repubblica 29 settembre 1973, n.
 
@@ -108,7 +108,7 @@ Il D.L. 22 dicembre 1981, n. 787, convertito con modificazioni
 
 dalla L. 26 febbraio 1982, n. 52 (in G.U. 01/03/1982, n. 58), come modificato dal D.L. 30 dicembre 1982, n. 953, convertito con modificazioni dalla L. 28 febbraio 1983, n. 53 (in G.U. 01/03/1983, n. 58), ha disposto (con l'art. 11) che l'ulteriore detrazione di imposta di lire 130.000 e' elevata a lire 180.000. Il D.L. 30 dicembre 1982, n. 953, convertito con modificazioni dalla L. 28 febbraio 1983, n. 53 (in G.U. 01/03/1983, n. 58), ha disposto (con l'art. 26 comma 1) che la disposizione che modifica il D.L. 22 dicembre 1981, n. 787, convertito con modificazioni dalla L. 26 febbraio ha "effetto dal 1 gennaio 1983".
 
-### Art. 4
+## Art. 4
 
 Per le unita' immobiliari destinate ad uso di abitazione, possedute dal contribuente in aggiunta a quella adibita ad abitazione principale ed utilizzate come residenze secondarie o comunque tenute a propria disposizione, il reddito dei fabbricati determinato a norma dell'articolo 88 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597, e' aumentato di un terzo, con effetto dal 10 gennaio 1979. Sono esentate dall'aumento le unita' immobiliari adibite ad uso professionale.
 
@@ -118,7 +118,7 @@ I possessori di unita' immobiliari per le quali non sia stata presentata la dich
 
 Chi non dichiara i redditi dei fabbricati esenti dall'imposta locale sui redditi o li dichiara in misura inferiore per oltre un terzo del loro ammontare decade dal beneficio dell'esenzione a partire dal primo periodo di imposta per il quale ha commesso l'infrazione, ferme restando le sanzioni per l'omissione, l'incompletezza o la infedelta' della dichiarazione.
 
-### Art. 5
+## Art. 5
 
 La Cassa depositi e prestiti e' esente dall'imposta sul reddito delle persone giuridiche.
 
@@ -126,7 +126,7 @@ La disposizione di cui al presente articolo si applica anche per gli esercizi de
 
 ## PROVVEDIMENTI URGENTI PER LA RIDUZIONE DELLE EVASIONI - PER L'ANNO 1980
 
-### Art. 6
+## Art. 6
 
 Il primo comma dell'articolo 37 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e' sostituito dal seguente:
 
@@ -136,7 +136,7 @@ Al primo comma dell'articolo 51 del decreto del Presidente della Repubblica 26 o
 
 "Il controllo delle dichiarazioni presentate e l'individuazione dei soggetti che ne hanno omesso la presentazione sono effettuati sulla base di criteri selettivi fissati annualmente dal Ministro delle finanze che tengano anche conto della capacita' operativa degli uffici stessi".
 
-### Art. 7
+## Art. 7
 
 L'articolo 7 del decreto-legge 6 luglio 1974, n. 260, convertito, con modificazioni, nella legge 14 agosto 1974, n. 354, come sostituito dall'articolo 2 della legge 2 maggio 1976, n. 160, e' sostituito dal seguente:
 
@@ -148,7 +148,7 @@ Con il decreto di cui al comma precedente puo' stabilirsi che i controlli si est
 
 I controlli previsti nei precedenti commi possono essere effettuati, con i criteri e le modalita' ivi indicati, anche da nuclei misti di funzionari delle amministrazioni delle imposte dirette e delle tasse e imposte indirette sugli affari, costituiti con decreto del Ministro delle finanze".
 
-### Art. 8
+## Art. 8
 
 Nell'ambito del Ministero delle finanze sono istituiti i centri di servizio in numero non superiore a quindici.
 
@@ -200,23 +200,23 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del comma 8 del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-### Art. 9
+## Art. 9
 
 ((IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-### Art. 10
+## Art. 10
 
 ((ARTICOLO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133)).
 
-### Art. 11
+## Art. 11
 
 ((ARTICOLO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133)).
 
-### Art. 12
+## Art. 12
 
 ((ARTICOLO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133)).
 
-### Art. 13
+## Art. 13
 
 Le dotazioni organiche del personale dell'Amministrazione delle finanze sono aumentate di n. 1.300 posti complessivi, di cui n. 600 sono assegnati al ruolo della carriera direttiva dell'amministrazione periferica delle imposte dirette; n. 300 al ruolo della carriera direttiva dell'amministrazione periferica delle tasse ed imposte indirette sugli affari - personale degli uffici del registro ed ispettorati compartimentali; n. 50 al ruolo della carriera direttiva dell'amministrazione periferica delle dogane ed imposte indirette - personale amministrativo delle dogane; n. 50 al ruolo della carriera di concetto degli uffici tecnici delle imposte di fabbricazione - contabili; n. 150 al ruolo del personale della carriera esecutiva delle dogane; n. 50 al ruolo del personale della carriera esecutiva degli uffici tecnici delle imposte di fabbricazione; n. 100 al ruolo del personale della carriera ausiliaria delle dogane. Detti aumenti non comportano, in nessun caso, il riassorbimento dei posti in soprannumero attualmente esistenti. La disposizione di cui all'articolo 2, terzo comma, della legge 4 agosto 1975, n. 397, si applica anche al ruolo della carriera direttiva delle dogane. Con decreto del Ministro delle finanze sono determinate le nuove piante organiche dei predetti ruoli, secondo i criteri stabiliti dalle vigenti disposizioni sullo stato giuridico del personale civile dello Stato.
 
@@ -224,29 +224,29 @@ Alla copertura dei posti recati in aumento dal precedente comma ai ruoli delle c
 
 Per l'attuazione del presente articolo e' autorizzata per l'anno 1980 la complessiva spesa di lire 13 miliardi.
 
-### Art. 14
+## Art. 14
 
 Per l'anno 1980 e' autorizzata la spesa di lire 9 miliardi da iscrivere in apposito capitolo dello stato di previsione del Ministero delle finanze per l'acquisto di mezzi tecnici, di arredi e di attrezzature e per la fornitura di stampati e di servizi necessari al funzionamento degli uffici tributari, in aggiunta alle forniture ordinarie previste dalle vigenti disposizioni.
 
 Per l'anno 1980, il Ministro delle finanze ed i funzionari con qualifica dirigenziale, nell'ambito delle competenze previste dal decreto del Presidente della Repubblica 1 giugno 1972, n. 748, sono autorizzati a stipulare, fino alla concorrenza di lire 9 miliardi, anche in deroga alle norme sulla contabilita' generale dello Stato e all'articolo 14 della legge 28 settembre 1942, n. 1140, con esclusione di ogni forma di gestione fuori bilancio, contratti e convenzioni con uno o piu' enti, ditte e societa' che offrono idonee garanzie di affidabilita' per l'acquisizione dei mezzi tecnici, degli arredi e delle attrezzature e per la fornitura degli stampati e dei servizi di cui al comma precedente.
 
-### Art. 15
+## Art. 15
 
 Per l'anno 1980 nei confronti del personale civile dello Stato appartenente ai ruoli del Ministero delle finanze, trasferito, per esigenze di servizio, ad altra sede, la misura dell'indennita' di prima sistemazione e' elevata a L. 500.000 oltre a tre mensilita' dell'indennita' integrativa speciale vigente al momento del trasferimento.
 
 Il trattamento previsto dal primo comma dell'articolo 1 del decreto del Presidente della Repubblica 16 gennaio 1978, n. 513, e dall'articolo 1 della legge 26 luglio 1978, n. 417, cessa, nei confronti del personale di cui al comma precedente, dopo i primi trecentosessanta giorni di missione continuativa nella medesima localita'.
 
-### Art. 16
+## Art. 16
 
 Al fine di provvedere alle necessita' urgenti ed improrogabili di ammodernamento delle strutture dell'amministrazione periferica delle dogane e delle imposte indirette, nello stato di previsione del Ministero delle finanze relativo all'anno 1980 e' iscritto uno stanziamento di 40 miliardi di lire. In relazione a tale stanziamento il Ministero delle finanze e' autorizzato ad acquistare o a costruire, direttamente o a mezzo di enti, anche in deroga alle norme sulla contabilita' generale dello Stato, fabbricati e relative pertinenze, ed attrezzature da destinare a nuove sedi del Laboratorio chimico centrale delle dogane e delle imposte indirette in Roma e della dogana di Brescia, nonche' fabbricati di tipo economico da destinare ad alloggi ad uso esclusivo degli impiegati civili in servizio presso gli uffici periferici dell'Amministrazione medesima.
 
 Si osservano le disposizioni di cui agli articoli 2, 3, 5 e 6 della legge 27 giugno 1949, n. 329, sostituita alla competenza dell'intendente di finanza, prevista nell'articolo 3, quella del capo della circoscrizione doganale.
 
-### Art. 17
+## Art. 17
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 1996, N. 662))
 
-### Art. 18
+## Art. 18
 
 Al decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -264,7 +264,7 @@ Dopo l'ultimo comma dell'articolo 44 e' aggiunto il seguente:
 
 "Il comune per gli adempimenti previsti dal terzo e quarto comma puo' richiedere dati e notizie alle amministrazioni ed enti pubblici che hanno obbligo di rispondere gratuitamente".
 
-### Art. 19
+## Art. 19
 
 Il terzo comma dell'articolo 22 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 643, e successive modificazioni, e' sostituito dal seguente:
 
@@ -274,17 +274,17 @@ Dopo il terzo comma dell'articolo 22 del decreto del Presidente della Repubblica
 
 "Presso ogni ufficio del registro e' costituita la commissione per l'esame delle proposte del comune. Ad essa si applicano le disposizioni dell'articolo 45 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600".
 
-### Art. 20
+## Art. 20
 
 Il Ministro delle finanze puo' richiamare in servizio temporaneo fino al raggiungimento dei limiti di eta' per il collocamento in congedo assoluto e comunque non oltre il 31 dicembre 1985, col consenso degli interessati e anche in eccedenza agli organici, i sottufficiali ed i militari di truppa della Guardia di finanza che cesseranno dal servizio permanente o continuativo per eta' o gia' si trovino in servizio temporaneo dalla data di entrata in vigore della presente legge al 31 dicembre 1984, fatta eccezione di quelli inclusi nei contingenti formati ai sensi del decreto-legge 8 luglio 1974, n. 261, convertito, con modificazioni, nella legge 14 agosto 1974, n. 355.
 
 ## DISPOSIZIONI IN MATERIA DI PREVIDENZA E OCCUPAZIONE
 
-### Art. 21
+## Art. 21
 
 Il contributo dello Stato alla gestione ordinaria della Cassa integrazione guadagni degli operai dell'industria e al Fondo pensioni lavoratori dipendenti presso l'Istituto nazionale della previdenza sociale, previsto dall'articolo 12 della legge 20 maggio 1975, n. 164, e' stabilito, per l'anno finanziario 1980, in L. 80.000.000.000.
 
-### Art. 22
+## Art. 22
 
 I programmi ed i progetti predisposti in attuazione della legge 1 giugno 1977, n. 285, e successive modificazioni ed integrazioni, ed in conformita' delle norme comunitarie che regolano il funzionamento del Fondo sociale europeo, vengono presentati a cura del Ministero del lavoro e della previdenza sociale alla commissione delle Comunita' europee per ottenere i relativi contributi.
 
@@ -296,21 +296,21 @@ I contributi comunitari di cui al secondo comma sono riassegnati ad apposito cap
 
 I contribuiti del Fondo sociale europeo ottenuti per gli incentivi di cui all'articolo 9 della legge 1 giugno 1977, n. 285, e successive modifiche e integrazioni, sono devoluti ai datori di lavoro destinatari degli incentivi stessi.
 
-### Art. 23
+## Art. 23
 
 Ai sensi del secondo e del terzo comma dell'articolo 22 della legge 21 dicembre 1978, n. 845, il complessivo finanziamento dello Stato per le attivita' di formazione professionale rientranti nelle competenze dello Stato e per quelle di formazione professionale residue svolte nelle regioni a statuto speciale, nonche' per il finanziamento dell'Istituto per lo sviluppo della formazione professionale dei lavoratori (ISFOL) e' fissato, per l'anno finanziario 1980, in lire 30 miliardi.
 
 ## DISPOSIZIONI IN MATERIA DI OPERE PUBBLICHE - E DI GIUSTIZIA
 
-### Art. 24
+## Art. 24
 
 Per provvedere al completamento di opere in corso, di competenza dello Stato e finanziate con leggi speciali, ivi compresi gli oneri maturati e maturandi per la revisione dei prezzi contrattuali, indennita' di espropriazione, perizie di varianti o suppletive, risoluzione di vertenze in via amministrativa o giurisdizionale ed imposta sul valore aggiunto previsti dall'articolo 18 del decreto-legge 13 agosto 1975, n. 376, convertito, con modificazioni, nella legge 16 ottobre 1975, n. 492, e' autorizzata la spesa di lire 15 miliardi per ciascuno degli anni finanziari 1980 e 1981 da iscrivere negli stati di previsione del Ministero dei lavori pubblici per i medesimi anni.
 
-### Art. 25
+## Art. 25
 
 Ai fini dell'attuazione del programma di intervento di cui alle leggi 12 dicembre 1971, n. 1133, e 1 luglio 1977, n. 404, per la costruzione, il completamento, l'adattamento, la permuta, nonche' l'acquisto di immobili da destinare ad istituti di prevenzione e pena e' autorizzata l'ulteriore complessiva spesa di lire 150 miliardi, da iscrivere nello stato di previsione della spesa del Ministero dei lavori pubblici negli anni 1981 e 1982.
 
-### Art. 26
+## Art. 26
 
 Il Ministero dei lavori pubblici d'intesa con il Ministero di grazia e giustizia, per il completamento del piano di ammodernamento degli edifici penitenziari, e' autorizzato ad approntare procedure di appalto concorso per la costruzione di nuovi istituti di prevenzione e pena.
 
@@ -318,7 +318,7 @@ Si applicano le norme di cui all'articolo 2 del regio decreto-legge 28 agosto 19
 
 Gli istituti nonche' l'onere finanziario saranno indicati dal Ministero di grazia e giustizia di concerto con quelli dei lavori pubblici e del tesoro.
 
-### Art. 27
+## Art. 27
 
 Per l'anno 1980 e' autorizzata la spesa di lire 150 miliardi, da iscrivere in apposito capitolo dello stato di previsione della spesa del Ministero di grazia e giustizia per l'acquisizione di beni, attrezzature e servizi, per la predisposizione di strutture e per ogni altro intervento urgente per l'amministrazione della giustizia, anche in riferimento all'attuazione della riforma della procedura penale.
 
@@ -328,7 +328,7 @@ Per l'anno 1980 e' autorizzata la spesa di lire 5 miliardi, da iscrivere in appo
 
 A tal fine il Ministro di grazia e giustizia puo' anche, sentito il consiglio di amministrazione, acquisire, nelle materie di sua competenza, le collaborazioni previsto dagli articoli 3, 4 e 5 del decreto-legge 24 luglio 1973, n. 428, convertito nella legge 4 agosto 1973, n. 497.
 
-### Art. 28
+## Art. 28
 
 Nell'ambito degli investimenti che possono essere effettuati ai sensi della vigente normativa in materia di finanza locale, i comuni possono contrarre con la Cassa depositi e prestiti mutui per l'esecuzione di costruzioni di nuovi edifici giudiziari ovvero ricostruzioni, ristrutturazioni, sopraelevazioni, completamenti, ampliamenti o restauri di edifici di proprieta' comunale, destinati o da destinare a sede di uffici giudiziari, nonche' per l'acquisto, anche a trattativa privata, di edifici in costruzione o gia' costruiti, anche se da restaurare, ristrutturare, completare o ampliare per renderli idonei all'uso giudiziario, da adibire a sedi di uffici giudiziari.
 
@@ -342,7 +342,7 @@ Se i comuni non sono piu' in grado di assumere mutui ai sensi del decreto-legge 
 
 ## DISPOSIZIONI PER IL MEZZOGIORNO
 
-### Art. 29
+## Art. 29
 
 Al fine di assicurare la piena funzionalita' degli interventi gia' avviati e non completati della Cassa per il Mezzogiorno nonche' di garantire il finanziamento straordinario dei programmi regionali di sviluppo delle regioni del Mezzogiorno, il CIPE approva, entro sessanta giorni dalla entrata in vigore della presente legge, un programma straordinario di interventi per l'importo complessivo di lire 1.500 miliardi da ripartirsi fra i seguenti organi ed amministrazioni pubbliche:
 
@@ -352,7 +352,7 @@ b) fondo per i programmi regionali di sviluppo di cui all'articolo 12 della legg
 
 Alla spesa di cui al precedente comma si provvede, a decorrere dall'anno 1981, mediante appositi stanziamenti da iscrivere nello stato di previsione della spesa del Ministero del tesoro. Per l'anno 1981 lo stanziamento viene determinato in lire 100 miliardi.
 
-### Art. 30
+## Art. 30
 
 L'importo di lire 1.500 miliardi entro il quale, ai sensi dell'articolo 22 della legge 2 maggio 1976, n. 183, la Cassa per il Mezzogiorno e' autorizzata ad assumere impegni nel quinquennio 1976-1980 in eccedenza all'apporto complessivo previsto dallo stesso articolo 22 per il medesimo periodo, gia' aumentato di lire 3.500 miliardi dall'articolo 47 della legge 21 dicembre 1978, n. 843, e' ulteriormente elevato di lire 1.800 miliardi, da destinare alla realizzazione dei progetti speciali e delle infrastrutture industriali.
 
@@ -362,13 +362,13 @@ Nel settore ospedaliero, la Cassa per il Mezzogiorno e' autorizzata, sino all'im
 
 Al maggiore onere di cui ai precedenti commi si fara' fronte, a decorrere dall'anno finanziario 1981, mediante appositi stanziamenti da iscrivere nello stato di previsione della spesa del Ministero del tesoro. Per l'anno 1981 lo stanziamento viene determinato in 400 miliardi di lire.
 
-### Art. 31
+## Art. 31
 
 ((ARTICOLO ABROGATO DALLA L. 28 NOVEMBRE 1980, N. 784)).
 
 ## DISPOSIZIONI VARIE
 
-### Art. 32
+## Art. 32
 
 Per gli invalidi ascritti alla 1a categoria con assegno di superinvalidita', le nuove misure dell'indennita' integrativa speciale derivanti dall'applicazione dei valori unitari di cui al quarto comma dell'articolo 74 del testo unico delle norme in materia di pensioni di guerra approvato con decreto del Presidente della Repubblica 23 dicembre 1978, n. 915, si applicano a decorrere dal 10 gennaio 1980 e con effetto dal 1 gennaio di ciascun anno, con esclusivo riferimento ai punti di variazione dell'indice del costo della vita accertati nel periodo annuale 1 novembre 1978-31 ottobre 1979 e nei successivi corrispondenti periodi.
 
@@ -386,13 +386,13 @@ AGGIORNAMENTO (7)
 
 Il D.P.R. 30 dicembre 1981, n. 834 ha disposto (con l'art. 1 comma 4) che a decorrere dal 1° gennaio 1982 e' soppresso il secondo comma dell'art. 32 della legge 24 aprile 1980, n. 146.
 
-### Art. 33
+## Art. 33
 
 Il fondo di dotazione della Cassa per il credito alle imprese artigiane, di cui all'articolo 36 della legge 25 luglio 1952, n. 949, e successive modificazioni ed integrazioni, e' aumentato della somma di lire 120 miliardi ripartita in ragione di lire 40 miliardi per ciascuno degli anni dal 1980 al 1982.
 
 Il fondo per il concorso nel pagamento degli interessi sulle operazioni di credito a favore delle imprese artigiane, costituito presso la Cassa per il credito alle imprese artigiane ai sensi dell'articolo 37 della legge 25 luglio 1952, n. 949, e successive modificazioni ed integrazioni, e' incrementato della somma di lire 420 miliardi ripartita in ragione di lire 60 miliardi per ciascuno degli anni dal 1980 al 1986.
 
-### Art. 34
+## Art. 34
 
 La complessiva autorizzazione di spesa di lire 85 miliardi di cui all'articolo 6 della legge 10 ottobre 1975, n. 517, e' aumentata di lire 250 miliardi in ragione di lire 25 miliardi per ciascuno degli anni dal 1980 al 1989.
 
@@ -410,55 +410,55 @@ All'articolo 3 della legge 10 ottobre 1975, n. 517, il quinto comma e' sostituit
 
 Per ciascun membro del comitato di cui al comma precedente, e' prevista la designazione di un supplente che interviene in caso di assenza del titolare".
 
-### Art. 35
+## Art. 35
 
 Il fondo contributi di cui al primo capoverso dell'articolo 3 della legge 28 maggio 1973, n. 295, costituito presso il Mediocredito centrale, e' incrementato della somma di lire 1.430 miliardi dei quali la somma di lire 1.250 miliardi e' riservata alla corresponsione di contributi in conto interessi sulle operazioni di finanziamento all'esportazione a pagamento differito previste dalla legge 24 maggio 1977, n. 227, e successive modificazioni.
 
 La somma di cui al precedente comma sara' iscritta nello stato di previsione del Ministero del tesoro in ragione di lire 130 miliardi nell'anno 1980, 350 miliardi nell'anno 1981, 345 miliardi nell'anno 1982, 250 miliardi nell'anno 1983, 200 miliardi nell'anno 1984 e 155 miliardi nell'anno 1985.
 
-### Art. 36
+## Art. 36
 
 L'assegnazione a favore dell'Istituto centrale di statistica di cui al regio decreto-legge 27 maggio 1929, n. 1285, comprensiva di quelle di cui al regio decreto 2 giugno 1927, n. 1035, per le spese di formazione delle statistiche agrarie e al regio decreto 8 giugno 1933, n. 697, per il servizio delle statistiche del lavoro italiano all'estero, e' autorizzata annualmente con apposita disposizione da inserire nella legge di approvazione del bilancio.
 
-### Art. 37
+## Art. 37
 
 Alle occorrenze relative alla liquidazione dell'Opera nazionale per la protezione della maternita' e dell'infanzia prevista dall'articolo 1 della legge 23 dicembre 1975, n. 698, si provvede con le disponibilita' del conto di tesoreria di cui all'articolo 14 della legge 4 dicembre 1956, n. 1404, in favore del quale possono essere autorizzati conferimenti da stabilirsi annualmente con apposita disposizione da inserire nella legge di approvazione del bilancio.
 
-### Art. 38
+## Art. 38
 
 Le somme dovute dalle singole amministrazioni statali a quella delle poste e delle telecomunicazioni ai sensi degli articoli 15, 16, 17 e 19 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con decreto del Presidente della Repubblica 29 marzo 1973, n. 156, sono poste a carico del Ministero del tesoro e sono autorizzate annualmente con apposita disposizione da inserire nella legge di approvazione del bilancio.
 
-### Art. 39
+## Art. 39
 
 La concessione di contributi da parte del Tesoro dello Stato a favore del Fondo per il culto, per porre lo stesso in grado di adempiere ai fini di istituto, e' autorizzata con apposita disposizione da inserire nella legge di approvazione del bilancio.
 
-### Art. 40
+## Art. 40
 
 Ad integrazione delle somme previste dalla legge 24 giugno 1974, n. 268, per il conseguimento dei fini di cui ai titoli I e II della legge stessa, e' autorizzata l'ulteriore spesa di lire 60 miliardi di cui lire 10 miliardi per l'anno finanziario 1980.
 
-### Art. 41
+## Art. 41
 
 A decorrere dall'anno finanziario 1980 cessa l'erogazione del contributo a favore del Banco di Sardegna nelle spese di vigilanza sulle casse agrarie e sugli altri istituti esercenti il credito agrario previsto dalla legge 23 febbraio 1952, n. 123.
 
 ## DISPOSIZIONI DI CARATTERE FINANZIARIO
 
-### Art. 42
+## Art. 42
 
 In relazione all'andamento del mercato monetario e finanziario il Ministero del tesoro e la Banca d'Italia potranno stipulare apposite convenzioni per disciplinare la sostituzione di titoli emessi dallo Stato e interamente posseduti dalla Banca stessa con nuovi titoli nella forma di certificati speciali di credito del Tesoro, di certificati di credito del Tesoro, di buoni ordinari del Tesoro e di buoni poliennali del Tesoro. Il Ministro del tesoro e' autorizzato a disporre con proprio decreto e sentito il Comitato interministeriale per il credito ed il risparmio, l'emissione di detti nuovi titoli, determinandone altresi' il tasso di interesse, la durata, le condizioni di rimborso ed ogni altra modalita' e caratteristica. Ove occorra si applicano le disposizioni delle lettere a), b) e c) dell'articolo 50 della legge 21 dicembre 1978, n. 843, e dell'articolo 71 del regio decreto 18 novembre 1923, n. 2440.
 
-### Art. 43
+## Art. 43
 
 Gli importi da iscrivere in relazione alle autorizzazioni di spesa recate da leggi a carattere pluriennale restano determinati, per ciascuno degli anni 1980, 1981 e 1982, nelle misure indicate nella tabella A allegata alla presente legge.
 
-### Art. 44
+## Art. 44
 
 Gli importi da iscrivere nei fondi speciali di cui all'articolo 10 della legge 5 agosto 1978, n. 468, per il finanziamento dei provvedimenti legislativi che si prevede possano essere approvati nell'anno 1980 restano rispettivamente determinati in L. 31.299.447.000.000 per il fondo speciale destinato alle spese correnti e in L. 5.311.845.000.000 per il fondo speciale destinato alle spese in conto capitale.
 
-### Art. 45
+## Art. 45
 
 Nelle tabelle B e C allegate alla presente legge sono indicate le voci da iscrivere nei fondi speciali per il finanziamento dei provvedimenti legislativi che si prevede possano essere approvati nel corso dell'anno 1980
 
-### Art. 46
+## Art. 46
 
 Il livello massimo del ricorso al mercato finanziario di cui all'articolo 11 della legge 5 agosto 1978, n. 468, resta fissato in termini di competenza in L. 72.770.536.976.000.
 
@@ -466,7 +466,7 @@ Il Governo della Repubblica e' tenuto ad indicare nella Relazione previsionale e
 
 ## DISPOSIZIONI FINALI E TRANSITORIE
 
-### Art. 47
+## Art. 47
 
 Le disposizioni di cui al terzo e quarto comma dell'articolo 2 si applicano a partire dal 1 agosto 1980.
 
@@ -480,7 +480,7 @@ AGGIORNAMENTO (25)
 
 Il D.L. 6 dicembre 2011, n. 201, convertito con modificazioni dalla L. 22 dicembre 2011, n. 214, ha disposto (con l'art. 23, comma 6) che "Fermi restando i divieti e le incompatibilita' previsti dalla legge, il secondo comma dell'articolo 47, della legge 24 aprile 1980, n. 146, si interpreta nel senso che ai dipendenti pubblici, che non siano membri del Parlamento e siano chiamati all'ufficio di Ministro e di Sottosegretario, non spetta la parte del trattamento economico, comprese le componenti accessoria e variabile della retribuzione, eccedente il limite indicato nella predetta disposizione, fermo restando, in ogni caso, che il periodo di aspettativa e' considerato utile ai fini dell'anzianita' di servizio e del trattamento di quiescenza e di previdenza, con riferimento all'ultimo trattamento economico in godimento, inclusa, per i dirigenti, la parte fissa e variabile della retribuzione di posizione, ed esclusa la retribuzione di risultato".
 
-### Art. 48
+## Art. 48
 
 I termini previsti nel secondo e terzo comma dell'articolo 17 della legge 9 ottobre 1971, n. 825, e successive modificazioni, sono ulteriormente prorogati, rispettivamente, al 31 dicembre 1982 e al 31 dicembre 1983.
 
@@ -490,7 +490,7 @@ L'autorizzazione di cui all'articolo 17, quinto comma, della legge 9 ottobre 197
 
 ((COMMA ABROGATO DALLA L. 29 DICEMBRE 1987, N. 550)).
 
-### Art. 49
+## Art. 49
 
 La presente legge entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 
@@ -506,7 +506,7 @@ Visto, il Guardasigilli: MORLINO
 
 ## DISPOSIZIONI FINALI E TRANSITORIE
 
-### Tabella A
+## Tabella A
 
 TABELLA A
 
@@ -516,7 +516,7 @@ AUTORIZZAZIONI DI SPESA RECATE DA LEGGI PLURIENNALI
 
 Parte di provvedimento in formato grafico
 
-### Tabella B
+## Tabella B
 
 TABELLA B
 
@@ -524,7 +524,7 @@ INDICAZIONE DELLE VOCI DA INCLUDERE NEL FONDO SPECIALE DI PARTE CORRENTE
 
 Parte di provvedimento in formato grafico
 
-### Tabella C
+## Tabella C
 
 TABELLA C
 

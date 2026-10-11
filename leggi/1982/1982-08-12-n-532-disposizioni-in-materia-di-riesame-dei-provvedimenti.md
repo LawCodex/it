@@ -26,17 +26,15 @@ PROMULGA
 
 la seguente legge:
 
-## Capo I - DEI PROVVEDIMENTI RESTRITTIVI DELLA LIBERTA' PERSONALE E DELLE MISURE
+## Capo I - DEI PROVVEDIMENTI RESTRITTIVI DELLA LIBERTA' PERSONALE E DELLE MISURE DISPOSTE IN LUOGO DELLA CARCERAZIONE PREVENTIVA
 
-### DISPOSTE IN LUOGO DELLA CARCERAZIONE PREVENTIVA
-
-#### Art. 1
+### Art. 1
 
 Dopo l'ultimo comma dell'articolo 198 del codice di procedura penale e' inserito il seguente:
 
 "L'imputato che si trovi in stato di arresto presso la propria abitazione o in altro luogo designato dal giudice puo' proporre la richiesta di riesame prevista dall'articolo 263-bis ed ogni impugnazione anche in tali luoghi con dichiarazione ricevuta da un ufficiale di polizia giudiziaria, il quale ne cura l'immediata trasmissione al cancelliere del giudice che emise il provvedimento impugnato o quello del quale si chiede il riesame".
 
-#### Art. 2
+### Art. 2
 
 Il terzo comma dell'articolo 246 del codice di procedura penale e' sostituito dal seguente:
 
@@ -48,7 +46,7 @@ Dopo l'ultimo comma dell'articolo 246 del codice di procedura penale e' aggiunto
 
 "Contro il decreto di convalida dell'arresto e contro quello previsto dal quarto comma l'imputato puo' proporre richiesta di riesame ai sensi degli articoli 263-bis, 263-ter e 263-quater".
 
-#### Art. 3
+### Art. 3
 
 L'articolo 247 del codice di procedura penale e' sostituito dal seguente:
 
@@ -60,7 +58,7 @@ L'autorita' giudiziaria competente per il procedimento puo' in ogni momento disp
 
 Contro il provvedimento previsto dal comma precedente puo' essere proposta richiesta di riesame e si applicano le disposizioni contenute negli articoli 263-bis, 263-ter e 263-quater".
 
-#### Art. 4
+### Art. 4
 
 Il secondo comma dell'articolo 254 del codice di procedura penale e' sostituito dai seguenti:
 
@@ -70,7 +68,7 @@ Valutati gli elementi di cui al comma precedente il giudice, nell'emettere manda
 
 Le misure previste nel comma precedente possono essere revocate con decreto motivato, quando sopravvengono modificazioni degli elementi indicati nel secondo comma; devono essere revocate quando l'imputato viola taluno degli obblighi impostigli".
 
-#### Art. 5
+### Art. 5
 
 Il primo comma dell'articolo 259 del codice di procedura penale e' sostituito dal seguente:
 
@@ -80,7 +78,7 @@ Dopo l'ultimo comma dell'articolo 259 del codice di procedura penale e' aggiunto
 
 "Contro il provvedimento previsto nel comma precedente puo' essere proposta richiesta di riesame e si applicano le disposizioni contenute negli articoli 263-bis, 263-ter e 263-quater".
 
-#### Art. 6
+### Art. 6
 
 L'articolo 263 del codice di procedura penale e' sostituito dal seguente:
 
@@ -94,7 +92,7 @@ Sull'appello decide in ogni caso, in camera di consiglio, il tribunale competent
 
 Contro le ordinanze emesse dal tribunale ai sensi del comma precedente possono proporre ricorso per Cassazione il procuratore della Repubblica, il procuratore generale, l'imputato e il suo difensore".
 
-#### Art. 7
+### Art. 7
 
 L'articolo 263-bis del codice di procedura penale e' sostituito dal seguente:
 
@@ -106,7 +104,7 @@ Avverso i mandati e gli ordini di cattura o di arresto ovvero avverso il decreto
 
 La richiesta di riesame e il ricorso per Cassazione non sospendono l'esecuzione del provvedimento".
 
-#### Art. 8
+### Art. 8
 
 Dopo l'articolo 263-bis del codice di procedura penale e aggiunto il seguente:
 
@@ -122,7 +120,7 @@ Il decreto di proroga emanato a norma del comma precedente deve essere comunicat
 
 Se il tribunale non decide entro i termini sopra indicati il mandato o l'ordine di cattura o di arresto cessa di avere efficacia".
 
-#### Art. 9
+### Art. 9
 
 Dopo l'articolo 263-ter del codice di procedura penale e' inserito il seguente:
 
@@ -130,23 +128,23 @@ Dopo l'articolo 263-ter del codice di procedura penale e' inserito il seguente:
 
 Il ricorso non sospende l'esecuzione dell'ordinanza".
 
-#### Art. 10
+### Art. 10
 
 Nel secondo comma dell'articolo 264 del codice di procedura penale le parole "sommaria enunciazione" sono sostituite dalle altre: "specifica enunciazione degli indizi di colpevolezza ai sensi dell'articolo 252".
 
-#### Art. 11
+### Art. 11
 
 Nell'articolo 266 del codice di procedura penale e' aggiunto in fine il seguente comma:
 
 "Quando sia disposta la misura dell'arresto nella propria abitazione o in altro luogo di privata dimora ovvero in un luogo pubblico di cura o di assistenza, gli ufficiali od agenti di polizia giudiziaria o della forza pubblica provvedono a darne immediata comunicazione all'ufficio di polizia giudiziaria indicato nel mandato stesso".
 
-#### Art. 12
+### Art. 12
 
 Il primo comma dell'articolo 271 del codice di procedura penale e' sostituito dal seguente:
 
 "La durata della custodia preventiva decorre per ogni effetto dal giorno in cui l'imputato venne fermato o arrestato o dal giorno in cui e' iniziata l'esecuzione del provvedimento emesso a norma del terzo comma dell'articolo 254".
 
-#### Art. 13
+### Art. 13
 
 Il terzo e il quarto comma dell'articolo 272-bis del codice di procedura penale sono sostituiti dai seguenti:
 
@@ -154,7 +152,7 @@ Il terzo e il quarto comma dell'articolo 272-bis del codice di procedura penale 
 
 Contro le ordinanze emesse dal tribunale ai sensi del comma precedente puo' essere proposto ricorso per Cassazione".
 
-#### Art. 14
+### Art. 14
 
 Al primo comma dell'articolo 277 del codice di procedura penale, dopo le parole "stato di custodia preventiva", sono inserite le altre: "anche se in stato di arresto nella propria abitazione o in altro luogo di privata dimora ovvero in un luogo pubblico di cura o di assistenza".
 
@@ -164,13 +162,13 @@ Dopo il secondo comma dell'articolo 277 del codice di procedura penale sono aggi
 
 Alla misura prevista nel comma precedente si applicano gli articoli 278, 279, 280, 281, 292, primo e secondo comma, 375, terzo comma, e 503, ultimo comma".
 
-#### Art. 15
+### Art. 15
 
 Dopo il secondo comma dell'articolo 279 del codice di procedura penale e' inserito il seguente:
 
 "L'ordinanza con la quale si dispone l'applicazione della misura prevista nel terzo comma dell'articolo 277 e' immediatamente comunicata all'ufficio di polizia giudiziaria indicato nel provvedimento".
 
-#### Art. 16
+### Art. 16
 
 L'articolo 281 del codice di procedura penale e' sostituito dal seguente:
 
@@ -180,27 +178,27 @@ Sull'appello decide in ogni caso, in camera di consiglio, il tribunale competent
 
 Si applicano il quarto, il quinto e l'ultimo comma dell'articolo 272-bis".
 
-#### Art. 17
+### Art. 17
 
 Dopo il secondo comma dell'articolo 502 del codice di procedura penale e' aggiunto il seguente:
 
 "Le disposizioni previste dai commi precedenti si applicano anche se l'arrestato, dopo essere stato presentato all'udienza, e' liberato ai sensi dell'articolo 263-ter".
 
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DALLA L. 28 LUGLIO 1984, N. 398 ))
 
-#### Art. 19
+### Art. 19
 
 Nell'articolo 5 del decreto del Presidente della Repubblica 8 agosto 1955, n. 666, come modificato dall'articolo 3 della legge 21 marzo 1958, n. 229, sono aggiunte, in fine, le seguenti parole: "L'attestazione della autenticita' della firma non occorre per la richiesta di riesame o la dichiarazione di impugnazione proposta dall'imputato che sia sottoposto alla misura prevista nell'ultimo comma dell'articolo 198 del codice di procedura penale".
 
-#### Art. 20
+### Art. 20
 
 Nell'articolo 11 del decreto del Presidente della Repubblica 25 ottobre 1955, n. 932, recante norme di attuazione e di coordinamento della legge 18 giugno 1955, n. 517, dopo le parole "dell'articolo 263-bis", sono inserite le altre "o dell'articolo 263-quater".
 
 ## Capo II - DEI PROVVEDIMENTI DI SEQUESTRO
 
-#### Art. 21
+### Art. 21
 
 Dopo l'articolo 224 del codice di procedura penale e' inserito il seguente:
 
@@ -210,13 +208,13 @@ Il processo verbale deve essere immediatamente consegnato in copia alla persona 
 
 Copia del decreto di convalida deve essere immediatamente notificata alla persona alla quale le cose sono state sequestrate".
 
-#### Art. 22
+### Art. 22
 
 L'ultima parte del secondo comma dell'articolo 231 del codice di procedura penale e' sostituito dalla seguente:
 
 "Se trattasi di reato per il quale egli non e' competente, deve trasmettere gli atti del procedimento ed ogni cosa che vi si riferisce all'autorita' giudiziaria competente. Procede tuttavia in ogni caso agli atti urgenti di accertamento e di assicurazione delle prove, ivi compreso l'eventuale sequestro di cose che si trovino nel territorio sottoposto alla sua giurisdizione e, se la legge autorizza il mandato di cattura, puo' provvisoriamente emettere mandato d'arresto".
 
-#### Art. 23
+### Art. 23
 
 Dopo l'articolo 343 del codice di procedura penale e' aggiunto il seguente:
 
@@ -232,25 +230,25 @@ Avverso l'ordinanza emessa dal tribunale possono proporre ricorso per Cassazione
 
 ## Capo III - DISPOSIZIONI FINALI
 
-#### Art. 24
+### Art. 24
 
 Dopo l'articolo 392 del codice di procedura penale e' inserito il seguente:
 
 "Art. 392-bis - Termini per l'attivita' del pubblico ministero. - Entro un anno dalla data di iscrizione del procedimento nel registro generale degli affari penali, il pubblico ministero richiede al presidente del tribunale competente il decreto di citazione ovvero richiede al giudice istruttore il proscioglimento dell'imputato o l'archiviazione del procedimento o la prosecuzione dell'istruttoria con rito formale".
 
-#### Art. 25
+### Art. 25
 
 I procedimenti di cui agli articoli 263-bis e 263-ter del codice di procedura penale sono attribuiti ad una o piu' sezioni penali del tribunale, la cui composizione e' indicata nelle tabelle formate ogni anno dal Consiglio superiore della magistratura, con predeterminazione dei magistrati titolari e supplenti. Ove l'organico lo consenta, la composizione e' totalmente variata dal Consiglio superiore della magistratura ogni anno, all'atto della formazione delle tabelle.
 
-#### Art. 26
+### Art. 26
 
 Per i provvedimenti emessi dalle autorita' giudiziarie il cui ufficio ha sede nella provincia di Caserta, la competenza prevista dagli articoli 263 e 343-bis del codice di procedura penale appartiene al tribunale di Santa Maria Capua Vetere.
 
-#### Art. 27
+### Art. 27
 
 I presidenti dei tribunali ai quali sono attribuiti i procedimenti di cui all'articolo 263, secondo comma, 263-bis, e 263-ter del codice di procedura penale devono trasmettere all'Istituto centrale di statistica, ai fini della pubblicazione annuale, complete informazioni statistiche relative all'applicazione delle procedure di riesame previste dalla presente legge.
 
-#### Art. 28
+### Art. 28
 
 Il primo e il secondo comma dell'articolo 48 delle disposizioni di attuazione del codice di procedura penale approvate con regio decreto 28 maggio 1931, numero 602, sono sostituiti dai seguenti:
 
@@ -260,27 +258,27 @@ L'interessato o il suo mandatario, che riceve le cose restituite, ne rilascia ri
 
 La restituzione e' concessa a condizione che prima siano pagate le spese per la custodia e la conservazione delle cose sequestrate, salvo che l'imputato sia stato prosciolto o che le cose sequestrate appartengano a persona diversa dall'imputato o dal responsabile civile o che il decreto di sequestro sia stato revocato ai sensi dell'articolo 343-bis del codice di procedura penale".
 
-#### Art. 29
+### Art. 29
 
 Il terzo comma dell'articolo 385 del codice penale e' sostituito dal seguente:
 
 "Le disposizioni precedenti si applicano anche all'imputato che essendo in stato di arresto nella propria abitazione o in altro luogo designato nel provvedimento se ne allontani, nonche' al condannato ammesso a lavorare fuori dello stabilimento penale".
 
-#### Art. 30
+### Art. 30
 
 Il secondo comma dell'articolo 8 del decreto-legge 15 dicembre 1979, n. 625, convertito, con modificazioni, nella legge 6 febbraio 1980, n. 15, e' sostituito dal seguente:
 
 "La liberta' provvisoria non puo' essere altresi' concessa per i delitti preveduti dall'articolo 416 del codice penale e per quelli indicati dall'articolo 165-ter del codice di procedura penale, se per i delitti previsti da tali articoli e' obbligatoria l'emissione del mandato di cattura".
 
-#### Art. 31
+### Art. 31
 
 ((ARTICOLO ABROGATO DALLA L. 28 LUGLIO 1984, N. 398 ))
 
-#### Art. 32
+### Art. 32
 
 Le disposizioni che riguardano le richieste di riesame previste dalla presente legge si applicano solo ai provvedimenti emanati successivamente alla sua entrata in vigore.
 
-#### Art. 33
+### Art. 33
 
 In ordine alle impugnazioni gia' proposte alla data di entrata in vigore della presente legge continuano ad applicarsi le norme attualmente vigenti. Tuttavia per i ricorsi avverso ordini o mandati di cattura o di arresto ovvero contro decreti di convalida di arresto, pendenti alla data di entrata in vigore della presente legge, la Corte di cassazione decide anche nel merito, nei casi in cui dalla legge stessa sia consentito il riesame del provvedimento e l'imputato ne faccia richiesta con dichiarazione presentata alla cancelleria della Corte entro sette giorni dalla data di entrata in vigore della presente legge. Si applicano il secondo ed il terzo comma dell'articolo 198 del codice di procedura penale.
 

@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione tra l'Italia e la Svizzera, relativa alla sicurezza sociale con Protocollo finale e Dichiarazioni comuni, conclusa a Roma il 14 dicembre 1962.
 
-##### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data agli Atti Internazionali indicati nell'articolo precedente, a decorrere dalla loro entrata in vigore in conformita' al disposto dell'articolo 26 della Convenzione stessa.
 
@@ -67,7 +67,7 @@ Il Consiglio federale svizzero
 
 Il signor Arnold Saxer, incaricato degli Accordi internazionali in materia di assicurazioni sociali, Berna, i quali, dopo essersi scambiati i loro pieni poteri trovati in buona e debita forma, hanno concordato le disposizioni seguenti:
 
-##### Articolo 1
+#### Articolo 1
 
 1\. La presente Convenzione si applica:
 
@@ -107,13 +107,13 @@ b) alle leggi e ai regolamenti che estenderanno i regimi
 
 esistenti a categorie nuove di beneficiari, sempreche' non vi sia al riguardo opposizione della Parte interessata, notificata al Governo dell'altra Parte entro tre mesi dalla pubblicazione di tali atti.
 
-##### Articolo 2
+#### Articolo 2
 
 Con riserva delle disposizioni della presente Convenzione e del suo
 
 Protocollo finale i cittadini italiani e svizzeri godono della parita' di trattamento per quanto concerne i diritti e gli obblighi derivanti dalle disposizioni delle legislazioni elencate all'articolo 1.
 
-##### Articolo 3
+#### Articolo 3
 
 Con riserva delle disposizioni della presente Convenzione e del suo
 
@@ -121,7 +121,7 @@ Protocollo finale i cittadini italiani e svizzeri che possono avanzare diritti a
 
 ## PARTE SECONDA - LEGISLAZIONE APPLICABILE
 
-##### Articolo 4
+#### Articolo 4
 
 1\. La legislazione applicabile e' di regola quella, della Parte
 
@@ -129,7 +129,7 @@ contraente sul cui territorio viene esercitata la attivita' determinante ai fini
 
 2\. Nei casi in cui, per le attivita' esercitate nel territorio di ambedue le Parti contraenti, siano applicabili, in base alla regola enunciata al paragrafo 1, le legislazioni delle due Parti, i contributi alle assicurazioni di ciascuna delle due Parti sono dovuti unicamente sulla parte di reddito realizzata sul rispettivo territorio.
 
-##### Articolo 5
+#### Articolo 5
 
 Il principio stabilito all'articolo 4, 1° paragrafo, e' soggetto
 
@@ -151,7 +151,7 @@ e) I lavoratori di un servizio amministrativo ufficiale (dogana, poste, controll
 
 f) I capi e i membri delle Missioni diplomatiche e consolari di una delle Parti contraenti, ivi compresi i funzionari appartenenti ai ruoli delle cancellerie, inviati nel territorio dell'altra Parte sono soggetti alla legislazione delle Parte che li ha inviati se sono cittadini di questa Parte. La stessa regola si applica agli impiegati appartenenti ai ruoli delle cancellerie nonche' alle persone che sono al servizio personale dei suddetti capi, membri e funzionari, allorche' essi siano, cittadini della Parte rappresentata e non facciano espressa richiesta di essere sottoposti alla legislazione della Parte sul cui territorio sono occupati.
 
-##### Articolo 6
+#### Articolo 6
 
 Le autorita' competenti delle due Parti contraenti possono
 
@@ -159,11 +159,9 @@ stabilire, di comune accordo, altre eccezioni al principio della legislazione ap
 
 ## PARTE TERZA - Disposizioni particolari
 
-### Capitolo I
+### Capitolo I - Assicurazione invalidita', vecchiaia e superstiti
 
-#### Assicurazione invalidita', vecchiaia e superstiti
-
-##### Articolo 7
+#### Articolo 7
 
 Ai cittadini italiani e ai loro superstiti si applicano le seguenti
 
@@ -177,7 +175,7 @@ assicurazione svizzera, ne' il beneficiario ne' i suoi superstiti possono piu' f
 
 b) I cittadini italiani hanno diritto alle rendite straordinarie fino a quando conservano il domicilio in Svizzera e se immediatamente prima della data da cui domandano la rendita abbiano risieduto in Svizzera ininterrottamente per almeno 10 anni interi quando si tratta di una rendita di vecchiaia, e per almeno 5 anni interi quando si tratta di una rendita di superstiti o di una rendita di vecchiaia che la sostituisce.
 
-##### Articolo 8
+#### Articolo 8
 
 Ai cittadini italiani si applicano le seguenti disposizioni
 
@@ -207,7 +205,7 @@ e) Le rendite ordinarie di invalidita' previste per gli
 
 assicurati con grado di invalidita' inferiore al 50% come pure gli assegni per invalidi bisognosi di cure e assistenza speciali possono essere concessi ai cittadini italiani solo fino a quando essi conservino il loro domicilio in Svizzera.
 
-##### Articolo 9
+#### Articolo 9
 
 1\. Quando in base ai soli periodi d'assicurazione e ai periodi
 
@@ -229,7 +227,7 @@ b) In base a questo ammontare elevato, ove occorra, fino
 
 all'ammontare della pensione minima garantita dalla legislazione italiana, l'organismo assicuratore italiano determina la prestazione dovuta al pro rata della durata dei periodi di assicurazione compiuti nelle assicurazioni italiane, in relazione alla durata totale dei periodi compiuti nelle assicurazioni delle due Parti, tenendo conto, tuttavia, dei periodi compiuti nell'assicurazione svizzera solo in quanto non si sovrappongono ai periodi italiani.
 
-##### Articolo 10
+#### Articolo 10
 
 1\. I cittadini svizzeri i quali, nonostante l'applicazione
 
@@ -239,19 +237,19 @@ dell'articolo 9, non possono far valere un diritto ad una prestazione delle assi
 
 contributi non puo' piu' far valere diritti nei riguardi delle assicurazioni sociali italiane in base a detti contributi.
 
-## Capitolo II - Assicurazione contro gli infortuni e le malattie professionali
+### Capitolo II - Assicurazione contro gli infortuni e le malattie professionali
 
-##### Articolo 11
+#### Articolo 11
 
 I cittadini italiani e svizzeri assicurati secondo la legislazione di una delle Parti contraenti i quali siano vittime di un infortunio o contraggano una malattia professionale sul territorio dell'altra Parte, possono domandare tutte le cure mediche necessarie all'organismo per l'assicurazione infortuni o l'assicurazione malattie della Parte sul cui territorio si trovano. In questi casi l'organismo assicuratore da cui dipende l'assicurato deve rimborsare le spese delle cure mediche all'organismo assicuratore che le ha concesse.
 
-##### Articolo 12
+#### Articolo 12
 
 Quando un organismo assicuratore di una delle Parti contraenti
 
 debba versare delle prestazioni ad un assicurato, l'organismo assicuratore dell'altra Parte che debba liquidare delle prestazioni per un nuovo infortunio o una nuova malattia professionale per lo stesso assicurato tiene conto, come se fossero a proprio carico, delle prestazioni concesse dal primo organismo assicuratore.
 
-##### Articolo 13
+#### Articolo 13
 
 1\. Nel caso di una malattia professionale suscettibile di essere
 
@@ -261,7 +259,7 @@ indennizzata in base alla legislazione di ambedue le Parti, le prestazioni sono 
 
 lavoratori, convenire l'adozione di una regolamentazione che introduca la totalizzazione dei periodi di lavoro da prendere in considerazione compiuti nel territorio delle due Parti contraenti, come pure la ripartizione degli oneri delle prestazioni secondo la durata dei periodi predetti.
 
-##### Articolo 14
+#### Articolo 14
 
 1\. Quando, in caso di aggravamento di una malattia professionale, un lavoratore che ha beneficiato o che beneficia di un indennizzo per una malattia professionale in base alla legislazione di una delle Parti faccia valere, per una malattia professionale della stessa natura, diritti a prestazioni in base alla legislazione dell'altra Parte, si applicano le seguenti regole:
 
@@ -275,19 +273,19 @@ b) Se il lavoratore ha esercitato sul territorio di quest'ultima Parte tale atti
 
 articolo, il lavoratore deve fornire all'organismo assicuratore della Parte, in base alla cui legislazione fa valere diritti a prestazioni, le informazioni necessarie relative alle prestazioni liquidate anteriormente a titolo di indennizzo per la malattia professionale di cui si tratta. Se tale organismo lo ritiene necessario, puo' documentarsi su tali prestazioni presso l'organismo che ha concesso all'interessato le prestazioni anteriori.
 
-## Capitolo III - Assegni familiari
+### Capitolo III - Assegni familiari
 
-##### Articolo 15
+#### Articolo 15
 
 I lavoratori agricoli di cittadinanza italiana beneficiano, per la durata della loro occupazione in Svizzera degli assegni per i figli, previsti dalla legislazione federale concernente gli assegni familiari ai lavoratori agricoli ed ai piccoli contadini, qualunque sia il luogo di residenza delle persone che danno diritto agli assegni per i figli.
 
-##### Articolo 16
+#### Articolo 16
 
 I cittadini svizzeri beneficiano, per la durata della loro
 
 occupazione in Italia, degli assegni familiari previsti dalla legislazione italiana, qualunque sia il luogo di residenza delle persone che danno diritto agli assegni familiari.
 
-##### Articolo 17
+#### Articolo 17
 
 Se un figlio da' diritto ad assegni per figli sia in base alla
 
@@ -295,7 +293,7 @@ legislazione svizzera sia in base alla legislazione italiana, gli assegni dovuti
 
 ## PARTE QUARTA - DISPOSIZIONI DI APPLICAZIONE
 
-##### Articolo 18
+#### Articolo 18
 
 1\. Per l'applicazione della presente Convenzione le autorita' e gli
 
@@ -329,7 +327,7 @@ per quanto riguarda la Svizzera:
 
 l'Ufficio federale delle assicurazioni sociali.
 
-##### Articolo 19
+#### Articolo 19
 
 1\. Gli organismi assicuratori obbligati a corrispondere prestazioni
 
@@ -343,19 +341,19 @@ presente Convenzione hanno luogo in conformita' agli accordi vigenti in materia 
 
 parte contraente intese a sottoporre a restrizioni il commercio delle valute, saranno prese immediatamente misure, con accordo tra le due Parti, per assicurare il trasferimento delle somme dovute da una parte e dall'altra, in conformita' alle disposizioni della presente Convenzione.
 
-##### Articolo 20
+#### Articolo 20
 
 1\. Il beneficio delle esenzioni o riduzioni dei diritti di bollo e delle tasse previste dalla legislazione di una delle Parti contraenti per i documenti da produrre, per l'applicazione della legislazione di questa Parte, e' esteso ai documenti da produrre per l'applicazione della legislazione dell'altra Parte.
 
 2\. Le autorita' o organismi dell'una o dell'altra Parte contraente dispenseranno dal visto di legalizzazione da parte delle autorita' diplomatiche o consolari, tutti gli atti, certificati o documenti, da produrre per l'applicazione della presente Convenzione.
 
-##### Articolo 21
+#### Articolo 21
 
 Le domande, dichiarazioni o ricorsi che avrebbero dovuto essere
 
 presentati entro un termine determinato da un organismo di una delle Parti contraenti, saranno considerati come ricevibili se sono presentati nello stesso termine ad un organismo corrispondente dell'altra Parte. In tal caso, quest'ultimo organismo, trasmette senza indugio dette domande, dichiarazioni o ricorsi all'organismo competente della prima Parte.
 
-##### Articolo 22
+#### Articolo 22
 
 1\. I Governi delle due Parti contraenti designeranno una
 
@@ -377,11 +375,9 @@ contraenti alternativamente in Italia e in Svizzera.
 
 ## PARTE QUINTA - DISPOSIZIONI TRANSITORIE
 
-### Capitolo I
+### Capitolo I - Assicurazione invalidita', vecchiaia e superstiti
 
-#### Assicurazione invalidita', vecchiaia e superstiti
-
-##### Articolo 23
+#### Articolo 23
 
 1\. Da parte svizzera le prestazioni sono accordate di regola
 
@@ -419,9 +415,9 @@ per far valere i diritti cominceranno a decorrere al piu' presto alla data dell'
 
 5\. Per un periodo di cinque anni a partire dalla data dell'entrata in vigore della presente Convenzione, i cittadini italiani hanno la facolta', in deroga all'art. 7, di chiedere, al verificarsi dell'evento assicurato in caso di vecchiaia, secondo la legislazione italiana, il trasferimento alle assicurazioni italiane dei contributi versati da loro stessi e dai loro datori di lavoro all'assicurazione vecchiaia e superstiti svizzera, a condizione tuttavia che essi abbiano lasciato la Svizzera per stabilirsi in Italia o in un terzo Paese prima della fine dell'anno in cui detto evento si sia verificato. Per quanto riguarda l'utilizzazione dei contributi trasferiti, l'eventuale rimborso all'interessato e gli effetti del trasferimento, si applica l'articolo 5, paragrafi 4 e 5, della Convenzione del 17 ottobre 1951.
 
-## Capitolo II - Assicurazione contro gli infortuni e le malattie professionali
+### Capitolo II - Assicurazione contro gli infortuni e le malattie professionali
 
-##### Articolo 24
+#### Articolo 24
 
 1\. I cittadini italiani i quali, durante il periodo anteriore
 
@@ -431,9 +427,9 @@ Per gli infortuni verificatisi anteriormente alla data dell'entrata in vigore de
 
 2\. I cittadini italiani che abbiano usufruito di una assicurazione complementare ai sensi del paragrafo precedente anteriormente al 1 gennaio successivo all'entrata, in vigore della presente Convenzione, riceveranno, per gli infortuni verificatisi dal 1 gennaio predetto, le prestazioni complete in conformita' della legge federale svizzera sulle assicurazioni in caso di malattie e di infortuni. Qualora fossero stati vittime di un infortunio prima di tale data, la riduzione delle prestazioni in base all'articolo 90 della citata legge continuera' ad essere applicata.
 
-## Capitolo III - Assegni familiari
+### Capitolo III - Assegni familiari
 
-##### Articolo 25
+#### Articolo 25
 
 Gli assegni familiari saranno concessi secondo le disposizioni
 
@@ -441,7 +437,7 @@ della presente Convenzione a partire dal 1 gennaio 1963.
 
 ## PARTE SESTA - DISPOSIZIONI FINALI
 
-##### Articolo 26
+#### Articolo 26
 
 1\. La presente Convenzione sara' ratificata e gli strumenti di
 
@@ -455,7 +451,7 @@ quello in cui gli strumenti di ratifica saranno stati scambiati.
 
 Svizzera del 17 ottobre 1951 e' abrogata dalla data dell'entrata in vigore della presente Convenzione, con riserva tuttavia dell'articolo 14, paragrafo 2, e per l'applicazione dell'articolo 23, paragrafo 5, della presente Convenzione, dell'articolo 5, paragrafi 4 e 5.
 
-##### Articolo 27
+#### Articolo 27
 
 1\. La presente Convenzione e' conclusa per un periodo di un anno e sara' rinnovata tacitamente di anno in anno, salvo denuncia dell'una o dell'altra parte contraente notificata almeno tre mesi prima della scadenza del termine.
 
@@ -477,7 +473,7 @@ Per il Consiglio federale svizzero
 
 SAXER
 
-##### Protocollo
+#### Protocollo
 
 PROTOCOLLO FINALE
 
@@ -553,7 +549,7 @@ Per il Consiglio federale svizzero
 
 SAXER
 
-##### Dichiarazioni
+#### Dichiarazioni
 
 DICHIARAZIONI COMUNI
 
@@ -605,7 +601,7 @@ Per il Consiglio federale svizzero
 
 SAXER
 
-##### Convention
+#### Convention
 
 CONVENTION
 

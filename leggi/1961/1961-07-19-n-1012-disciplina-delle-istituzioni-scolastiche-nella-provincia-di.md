@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Nelle scuole materne, elementari e secondarie della provincia di Gorizia e del Territorio di Trieste l'insegnamento e' impartito nella lingua materna degli alunni.
 
@@ -36,23 +36,23 @@ All'istituzione ed all'eventuale soppressione delle scuole con lingua di insegna
 
 Nulla e' innovato per quanto concerne gli oneri degli Enti locali in materia di istruzione.
 
-### Art. 2
+## Art. 2
 
 Le scuole di cui al secondo comma dell'articolo 1 sono riservate agli appartenenti al gruppo linguistico sloveno, cittadini italiani o regolarmente residenti nella zona.
 
 L'iscrizione e la frequenza nelle scuole con lingua d'insegnamento slovena sono sottoposte alle norme vigenti per le corrispondenti scuole italiane.
 
-### Art. 3
+## Art. 3
 
 Nelle scuole elementari e secondarie con lingua di insegnamento slovena e' obbligatorio lo studio della lingua italiana.
 
 Alle cattedre di lingua italiana nelle scuole secondarie con lingua d'insegnamento slovena possono essere assegnati professori di ruolo o incaricati delle corrispondenti scuole italiane, aventi piena conoscenza della lingua slovena da accertarsi mediante apposita prova.
 
-### Art. 4
+## Art. 4
 
 Gli orari ed i programmi di insegnamento e di esame per ciascun tipo di scuola ed istituto con lingua di insegnamento slovena sono approvati con decreto del Presidente della Repubblica, su proposta del Ministro per la pubblica istruzione ((sentita la Commissione scolastica regionale per l'istruzione in lingua slovena)).
 
-### Art. 5
+## Art. 5
 
 Per l'insegnamento nelle scuole elementari in lingua slovena della provincia di Gorizia e del Territorio di Trieste e' istituito presso ciascuno dei due Provveditorati agli studi uno speciale ruolo di insegnanti elementari.
 
@@ -60,11 +60,11 @@ I posti nei ruoli suddetti sono conferiti per concorsi, ai quali possono parteci
 
 Gli insegnanti elementari dei ruoli speciali di cui al presente articolo godono dello stesso trattamento economico e di carriera vigente per gli insegnanti elementari dei ruoli magistrali comuni.
 
-### Art. 6
+## Art. 6
 
 Per il servizio di vigilanza e ispettivo sulle scuole elementari con lingua d'insegnamento slovena, i provveditori agli studi di Gorizia e di Trieste si avvalgono di personale che abbia piena conoscenza della lingua slovena.
 
-### Art. 7
+## Art. 7
 
 I posti di ruolo del personale direttivo ed insegnante delle scuole secondarie con lingua di insegnamento slovena della provincia di Gorizia e del Territorio di Trieste sono conferiti a seguito di concorsi banditi dal Ministero della pubblica istruzione, con l'osservanza delle norme vigenti in materia.
 
@@ -72,27 +72,27 @@ Ai concorsi di cui al comma precedente possono partecipare i candidati di lingua
 
 Gli insegnanti delle scuole secondarie predette godono dello stesso trattamento economico e di carriera, vigente per i professori delle corrispondenti scuole italiane.
 
-### Art. 8
+## Art. 8
 
 Ai diplomi ed ai certificati degli studi compiuti nelle scuole con lingua d'insegnamento slovena viene riconosciuta, a tutti gli effetti, la stessa validita' dei diplomi e dei certificati delle corrispondenti scuole statali con lingua di insegnamento italiana.
 
 ## NORME FINALI E TRANSITORIE
 
-### Art. 9
+## Art. 9
 
 Il Ministro per la pubblica istruzione stabilisce il numero dei posti di ruolo del personale direttivo, insegnante, amministrativo e subalterno delle scuole con lingua di insegnamento slovena, in base alle norme generali vigenti nonche' alle disposizioni della presente legge, entro sei mesi dalla sua entrata in vigore.
 
-### Art. 10
+## Art. 10
 
 Nel ruolo speciale degli insegnanti delle scuole elementari con lingua d'insegnamento slovena del Territorio di Trieste, sono iscritti gli insegnanti elementari assunti in ruolo a norma dell'articolo 12 delle legge 13 marzo 1958, n. 248, nonche', a domanda, gli insegnanti di ruolo in servizio nelle scuole stesse al momento dell'entrata, in vigore della presente legge.
 
-### Art. 11
+## Art. 11
 
 E' confermata l'istituzione nelle scuole secondarie con lingua d'insegnamento slovena nel Territorio di Trieste del contingente dei posti di ruolo speciale transitorio, disposta con effetto dal 1 ottobre 1958 dal Commissario generale del Governo per il Territorio di Trieste, sulla base della situazione di fatto esistente alla predetta data, con i criteri dell'articolo 1 del decreto legislativo 7 maggio 1948, n. 1128, e, per gli insegnamenti conferiti per incarico, con i criteri stabiliti dalla tabella annessa al decreto del Presidente della Repubblica 8 giugno 1949, n. 405.
 
 Con decreti del Ministro per la pubblica istruzione saranno altresi' confermate le graduatorie di merito, distinte per insegnamento nonche' le nomine per i posti di ruolo speciale transitorio di cui trattasi, conferite dallo stesso Commissario generale del Governo al personale insegnante non di ruolo delle scuole secondarie in lingua slovena del Territorio di Trieste, in possesso dei requisiti prescritti dalla legge 13 marzo 1958, numero 248.
 
-### Art. 12
+## Art. 12
 
 All'atto della prima applicazione della presente legge, e' indetto un concorso speciale riservato al personale non di ruolo in possesso di abilitazione che insegni attualmente nelle scuole con lingua di insegnamento slovena o che vi abbia insegnato per un periodo di tempo non inferiore a tre anni scolastici, anche non consecutivi, con qualifica non inferiore a buono.
 
@@ -100,13 +100,13 @@ Tale concorso viene espletato per titoli e per esame-colloquio tendente ad accer
 
 All'atto della prima applicazione della presente legge, il personale insegnante dei ruoli ordinari distaccato a prestare servizio presso le scuole con lingua d'insegnamento slovena, e' collocato, a domanda, nei limiti delle cattedre o dei posti di ruolo previsti per ciascuna scuola, nelle cattedre o nei posti di cui all'articolo 1, comma secondo e relativamente all'insegnamento da essi impartito.
 
-### Art. 13
+## Art. 13
 
 Per il personale amministrativo e di servizio, a carico dello Stato, dipendente dalle scuole con lingua d'insegnamento slovena, verranno riaperti i termini per la presentazione delle domande per collocamento nei ruoli speciali transitori (ruoli aggiunti) previsti dalla legge 5 giugno 1951, n. 376, e dal decreto del Presidente della Repubblica 3 maggio 1955, n. 448.
 
 Al personale suddetto verranno accordati tutti i benefici previsti dai due citati provvedimenti legislativi.
 
-### Art. 14
+## Art. 14
 
 Per quanto non e' previsto dalla presente legge, si applicano le norme vigenti rispettivamente in materia di istruzione elementare e secondaria.
 

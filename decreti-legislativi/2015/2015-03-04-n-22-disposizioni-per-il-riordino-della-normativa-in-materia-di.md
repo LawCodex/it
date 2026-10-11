@@ -46,11 +46,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - Disciplina della Nuova prestazione di Assicurazione Sociale per l'Impiego (NASpI)
 
-### Disciplina della Nuova prestazione di Assicurazione Sociale per - l'Impiego (NASpI)
-
-#### Art. 1
+### Art. 1
 
 Nuova prestazione di Assicurazione Sociale per l'Impiego - NASpI
 
@@ -468,13 +466,13 @@ Nuova prestazione di Assicurazione Sociale per l'Impiego - NASpI
 
 > 73\. All'articolo 5, commi 1 e 2, della legge 23 luglio 1991, n. 223, le parole: «collocare in mobilita'» sono sostituite dalla seguente: «licenziare».".
 
-#### Art. 2
+### Art. 2
 
 Destinatari
 
 1\. Sono destinatari della NASpI i lavoratori dipendenti con esclusione dei dipendenti a tempo indeterminato delle pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, nonche' degli operai agricoli a tempo determinato o indeterminato, per i quali ultimi trovano applicazione le norme di cui all'articolo 7, comma 1, del decreto-legge 21 marzo 1988, n. 86, convertito, con modificazioni, dalla legge 20 maggio 1988, n. 160, all'articolo 25 della legge 8 agosto 1972, n. 457, all'articolo 7 della legge 16 febbraio 1977, n. 37, e all'articolo 1 della legge 24 dicembre 2007, n. 247. ((A decorrere dal 1° gennaio 2022 sono destinatari della NASpI anche gli operai agricoli a tempo indeterminato delle cooperative e loro consorzi che trasformano, manipolano e commercializzano prodotti agricoli e zootecnici prevalentemente propri o conferiti dai loro soci, di cui alla legge 15 giugno 1984, n. 240)).
 
-#### Art. 3
+### Art. 3
 
 Requisiti
 
@@ -492,7 +490,7 @@ c-bis) ((con riferimento agli eventi di disoccupazione verificatisi dal 1° genn
 
 2\. La NASpI e' riconosciuta anche ai lavoratori che hanno rassegnato le dimissioni per giusta causa e nei casi di risoluzione consensuale del rapporto di lavoro intervenuta nell'ambito della procedura di cui all'articolo 7 della legge 15 luglio 1966, n. 604, come modificato dall'articolo 1, comma 40, della legge n. 92 del 2012.
 
-#### Art. 4
+### Art. 4
 
 Calcolo e misura
 
@@ -512,13 +510,13 @@ AGGIORNAMENTO (11)
 
 La L. 13 giugno 2023, n. 83 ha disposto (con l'art. 7, comma 1) che "Per i lavoratori frontalieri di cui all'articolo 2, lettera b), dell'Accordo di cui all'articolo 1, comma 1, lettera a), della presente legge, la Nuova prestazione di Assicurazione Sociale per l'Impiego (NASpI), in deroga all'articolo 4 del decreto-legislativo 4 marzo 2015, n. 22, e' calcolata per i primi tre mesi in misura pari all'importo erogabile, in caso di disoccupazione, ai sensi della legislazione svizzera, secondo le modalita' stabilite dall'articolo 65, paragrafo 6, secondo periodo, del regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, applicabile in forza dell'Accordo tra la Comunita' europea ed i suoi Stati membri, da una parte, e la Confederazione svizzera, dall'altra, sulla libera circolazione delle persone, fatto a Lussemburgo il 21 giugno 1999, di cui alla legge 15 novembre 2000, n. 364".
 
-#### Art. 5
+### Art. 5
 
 Durata
 
 1\. La NASpI e' corrisposta mensilmente, per un numero di settimane pari alla meta' delle settimane di contribuzione degli ultimi quattro anni. Ai fini del calcolo della durata non sono computati i periodi contributivi che hanno gia' dato luogo ad erogazione delle prestazioni di disoccupazione. ((PERIODO SOPPRESSO DAL D.LGS. 14 SETTEMBRE 2015, N. 148)).
 
-#### Art. 6
+### Art. 6
 
 Domanda e decorrenza della prestazione
 
@@ -532,7 +530,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, ha disposto (con l'art. 33, comma 1) che "Al fine di agevolare la presentazione delle domande di disoccupazione NASpI e DIS-COLL, in considerazione dell'emergenza epidemiologica da COVID-19, per gli eventi di cessazione involontaria dall'attivita' lavorativa verificatisi a decorrere dal 1° gennaio 2020 e fino al 31 dicembre 2020, i termini di decadenza previsti dall'articolo 6, comma 1, e dall'articolo 15, comma 8, del decreto legislativo 4 marzo 2015, n. 22, sono ampliati da sessantotto a centoventotto giorni".
 
-#### Art. 7
+### Art. 7
 
 Condizionalita'
 
@@ -548,7 +546,7 @@ Condizionalita'
 
 > Per il testo dell'articolo 1, comma 3, della citata legge n. 183 del 2014 si vedano le note alle premesse.
 
-#### Art. 8
+### Art. 8
 
 Incentivo all'autoimprenditorialita'
 
@@ -574,7 +572,7 @@ AGGIORNAMENTO (12)
 
 La Corte Costituzionale, con sentenza 10 aprile - 20 maggio 2024, n. 90 (in G.U. 1ª s.s. 22/05/2024, n. 21), ha dichiarato "l'illegittimita' costituzionale dell'art. 8, comma 4, del decreto legislativo 4 marzo 2015, n. 22 (Disposizioni per il riordino della normativa in materia di ammortizzatori sociali in caso di disoccupazione involontaria e di ricollocazione dei lavoratori disoccupati, in attuazione della legge 10 dicembre 2014, n. 183), nella parte in cui non limita l'obbligo restitutorio dell'anticipazione della Nuova assicurazione sociale per l'impiego (NASpI) nella misura corrispondente alla durata del periodo di lavoro subordinato, quando il lavoratore non possa proseguire, per causa sopravvenuta a lui non imputabile, l'attivita' di impresa per la quale l'anticipazione gli e' stata erogata".
 
-#### Art. 9
+### Art. 9
 
 Compatibilita' con il rapporto di lavoro subordinato
 
@@ -590,7 +588,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 17 marzo 2020, n. 18 ha disposto (con l'art. 33, commi 1 e 3) che "Al fine di agevolare la presentazione delle domande di disoccupazione NASpI e DIS-COLL, in considerazione dell'emergenza epidemiologica da COVID-19, per gli eventi di cessazione involontaria dall'attivita' lavorativa verificatisi a decorrere dal 1° gennaio 2020 e fino al 31 dicembre 2020 (...) Sono altresi' ampliati di 60 giorni i termini previsti per la presentazione della domanda di incentivo all'autoimprenditorialita' di cui all'articolo 8, comma 3, del decreto legislativo n. 22 del 2015, nonche' i termini per l'assolvimento degli obblighi di cui all'articolo 9, commi 2 e 3, di cui all'articolo 10, comma 1, e di cui all'articolo 15, comma 12, del medesimo decreto legislativo".
 
-#### Art. 10
+### Art. 10
 
 Compatibilita' con lo svolgimento di attivita' lavorativa in forma autonoma o di impresa individuale
 
@@ -604,7 +602,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 17 marzo 2020, n. 18 ha disposto (con l'art. 33, commi 1 e 3) che "Al fine di agevolare la presentazione delle domande di disoccupazione NASpI e DIS-COLL, in considerazione dell'emergenza epidemiologica da COVID-19, per gli eventi di cessazione involontaria dall'attivita' lavorativa verificatisi a decorrere dal 1° gennaio 2020 e fino al 31 dicembre 2020 (...) Sono altresi' ampliati di 60 giorni i termini previsti per la presentazione della domanda di incentivo all'autoimprenditorialita' di cui all'articolo 8, comma 3, del decreto legislativo n. 22 del 2015, nonche' i termini per l'assolvimento degli obblighi di cui all'articolo 9, commi 2 e 3, di cui all'articolo 10, comma 1, e di cui all'articolo 15, comma 12, del medesimo decreto legislativo".
 
-#### Art. 11
+### Art. 11
 
 Decadenza
 
@@ -620,7 +618,7 @@ d) raggiungimento dei requisiti per il pensionamento di vecchiaia o anticipato;
 
 e) acquisizione del diritto all'assegno ordinario di invalidita', salvo il diritto del lavoratore di optare per la NASpI.
 
-#### Art. 12
+### Art. 12
 
 Contribuzione figurativa
 
@@ -638,7 +636,7 @@ Rimane salvo il computo dell'anzianita' contributiva relativa ai periodi eventua
 
 > 2\. A decorrere dal 1° gennaio 2012, con riferimento alle anzianita' contributive maturate a decorrere da tale data, la quota di pensione corrispondente a tali anzianita' e' calcolata secondo il sistema contributivo. In ogni caso, l'importo complessivo del trattamento pensionistico non puo' eccedere quello che sarebbe stato liquidato con l'applicazione delle regole di calcolo vigenti prima della data di entrata in vigore del presente decreto computando, ai fini della determinazione della misura del trattamento, l'anzianita' contributiva necessaria per il conseguimento del diritto alla prestazione, integrata da quella eventualmente maturata fra la data di conseguimento del diritto e la data di decorrenza del primo periodo utile per la corresponsione della prestazione stessa.".
 
-#### Art. 13
+### Art. 13
 
 Misura dell'indennita' per i soci lavoratori
 
@@ -650,17 +648,15 @@ ed il personale artistico
 
 > Il testo del decreto del Presidente della Repubblica 30 aprile 1970, n. 602 (Riassetto previdenziale ed assistenziale di particolari categorie di lavoratori soci di societa' e di enti cooperativi, anche di fatto, che prestino la loro attivita' per conto delle societa' ed enti medesimi), e' pubblicato nella Gazzetta Ufficiale 20 agosto 1970, n. 209.
 
-#### Art. 14
+### Art. 14
 
 Rinvio
 
 1\. Alla NASpI si applicano le disposizioni in materia di ASpI in quanto compatibili.
 
-## Titolo II
+## Titolo II - Indennita' di disoccupazione per i lavoratori con rapporto di collaborazione coordinata (DIS-COLL)
 
-### Indennita' di disoccupazione per i lavoratori con rapporto di - collaborazione coordinata (DIS-COLL)
-
-#### Art. 15
+### Art. 15
 
 Indennita' di disoccupazione per i lavoratori con rapporto di collaborazione coordinata e continuativa - DIS-COLL
 
@@ -734,11 +730,9 @@ Il D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 20
 
 Ha inoltre disposto (con l'art. 33, comma 3) che sono altresi' ampliati di 60 giorni i termini previsti per l'assolvimento degli obblighi di cui al comma 12 del presente articolo.
 
-## Titolo III
+## Titolo III - Assegno di disoccupazione
 
-### Assegno di disoccupazione
-
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 SETTEMBRE 2017, N. 147))
 
@@ -752,11 +746,9 @@ Il D.Lgs. 15 settembre 2017, n. 147 ha disposto (con l'art. 18, comma 1) che "A 
 
 Ha inoltre disposto (con l'art. 18, comma 2) che "L'autorizzazione di spesa di cui all'articolo 16, comma 7, del decreto legislativo n. 22 del 2015, e successive modificazioni e integrazioni, confluisce integralmente nel Fondo Poverta' a decorrere dal 2019".
 
-## Titolo IV
+## Titolo IV - Contratto di ricollocazione
 
-### Contratto di ricollocazione
-
-#### Art. 17
+### Art. 17
 
 Contratto di ricollocazione
 
@@ -774,11 +766,9 @@ Contratto di ricollocazione
 
 7\. ((COMMA ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 150)).
 
-## Titolo V
+## Titolo V - Disposizioni finanziarie e finali
 
-### Disposizioni finanziarie e finali
-
-#### Art. 18
+### Art. 18
 
 Copertura finanziaria
 
@@ -826,7 +816,7 @@ Copertura finanziaria
 
 > m) le norme eventualmente necessarie a garantire l'attuazione del Patto di stabilita' interno, come definito ai sensi degli articoli 8, comma 2, e 10-bis, comma 1, lettera d), nonche' a realizzare il Patto di convergenza di cui all'articolo 18 della legge 5 maggio 2009, n. 42, come modificato dall'articolo 51, comma 3, della presente legge.".
 
-#### Art. 19
+### Art. 19
 
 Entrata in vigore
 

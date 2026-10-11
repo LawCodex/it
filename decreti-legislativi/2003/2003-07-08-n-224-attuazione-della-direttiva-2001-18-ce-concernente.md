@@ -54,7 +54,7 @@ il seguente decreto legislativo:
 
 ## Titolo I - Disposizioni generali
 
-#### Art. 1
+### Art. 1
 
 Campo di applicazione
 
@@ -174,7 +174,7 @@ b) immissione sul mercato di OGM come tali o contenuti in prodotti.
 
 > \- Il decreto legislativo 3 marzo 1993, n. 92, abrogato dal presente decreto, recava: «Attuazione della direttiva 90/220/CEE concernente l'emissione deliberata nell'ambiente di organismi geneticamente modificati».
 
-#### Art. 2
+### Art. 2
 
 Autorita' nazionale competente
 
@@ -188,7 +188,7 @@ b) delle valutazioni di possibili effetti sulla salute umana, animale e sull'amb
 
 c) della compatibilita' dell'emissione deliberata nell'ambiente o dell'immissione sul mercato con l'esigenza di tutela dell'agrobiodiversita', dei sistemi agrari e della filiera agroalimentare, con particolare riferimento ai prodotti tipici, biologici e di qualita'.
 
-#### Art. 3
+### Art. 3
 
 Definizioni
 
@@ -232,7 +232,7 @@ i-quater) richiedente: il soggetto che presenta la domanda di autorizzazione di 
 
 i-quinquies) principio di coesistenza: il principio di cui all'articolo 2 del decreto-legge 22 novembre 2004, n. 279, convertito, con modificazioni, dalla legge 28 gennaio 2005, n. 5.))
 
-#### Art. 4
+### Art. 4
 
 Deroghe
 
@@ -240,7 +240,7 @@ Deroghe
 
 2\. Il presente decreto non si applica al trasporto di OGM per ferrovia, su strada, per vie navigabili interne, per mare o per via aerea.
 
-#### Art. 5
+### Art. 5
 
 Obblighi generali
 
@@ -296,7 +296,7 @@ i) valuta tutte le nuove informazioni comunque acquisite in merito ai rischi di 
 
 4\. L'autorita' nazionale competente adotta le misure necessarie per porre immediatamente termine all'emissione deliberata nell'ambiente o all'immissione sul mercato di OGM che non siano stati autorizzati ai sensi del presente decreto. Detta autorita', sentita la Commissione di cui all'art. 6, stabilisce le misure necessarie per la messa in sicurezza, il ripristino e la bonifica dei siti interessati, nonche' per lo smaltimento dei rifiuti e da' immediata comunicazione alla Commissione europea, alle autorita' competenti degli altri Stati membri, ai Ministeri di cui all'articolo 2, alle regioni e province autonome e al pubblico dei provvedimenti adottati ai sensi del presente comma.
 
-#### Art. 6
+### Art. 6
 
 Commissione interministeriale di valutazione
 
@@ -414,11 +414,9 @@ n) un esperto dell'Istituto superiore per la prevenzione e la sicurezza del lavo
 
 > Tutti i riferimenti al predetto art. 15, contenuti in atti normativi, si intendono pertanto sostituiti con i riferimenti al presente articolo».
 
-## Titolo II - Emissione deliberata nell'ambiente di OGM per
+## Titolo II - Emissione deliberata nell'ambiente di OGM per qualsiasi fine diverso dall'immissione sul mercato
 
-### qualsiasi fine diverso dall'immissione sul mercato
-
-#### Art. 7
+### Art. 7
 
 Preparati medicinali
 
@@ -436,7 +434,7 @@ e) la necessita' del consenso esplicito da parte dei soggetti sottoposti alla sp
 
 2\. La valutazione dei rischi per l'ambiente presentati dalle sostanze e dai preparati di cui al comma 1 e' effettuata dalla Commissione di cui all'articolo 6 e comunicata al Ministero della salute per i provvedimenti di competenza.
 
-#### Art. 8
+### Art. 8
 
 Notifica
 
@@ -478,7 +476,7 @@ AGGIORNAMENTO (4)
 
 Il D.L. 14 aprile 2023, n.39, convertito, con modificazioni, dalla L. 13 giugno 2023, n. 68 ha disposto (con l'art. 9-bis, comma 5) che "Per l'autorizzazione all'emissione deliberata nell'ambiente di organismi prodotti con tecniche di editing genomico mediante mutagenesi sito-diretta o di cisgenesi a fini sperimentali e scientifici di cui al presente articolo non si applica quanto previsto dall'articolo 8, commi 2, lettera c), e 6, del decreto legislativo 8 luglio 2003, n. 224".
 
-#### Art. 9
+### Art. 9
 
 Istruttoria della notifica
 
@@ -502,13 +500,13 @@ b) comunica per iscritto al notificante i motivi del diniego.
 
 6\. Il notificante puo' procedere all'emissione solamente dopo il rilascio del provvedimento di autorizzazione dell'autorita' nazionale competente, rispettando tutte le condizioni in essa precisate.
 
-#### Art. 10
+### Art. 10
 
 Procedure differenziate e semplificate
 
 1\. L'autorita' nazionale competente, ove siano disponibili sufficienti evidenze scientifiche riguardo alle emissioni di taluni OGM in determinati ecosistemi e se gli OGM in questione soddisfano i criteri enunciati nell'allegato V, acquisito il parere della Commissione di cui all'articolo 6 e dei Ministeri di cui all'articolo 2, per quanto di rispettiva competenza, puo' presentare alla Commissione europea una proposta motivata al fine di ottenere un'autorizzazione alla applicazione di procedure differenziate o semplificate per tali tipi di OGM.
 
-#### Art. 11
+### Art. 11
 
 Modifiche e nuove informazioni sulle notifiche
 
@@ -524,7 +522,7 @@ d) informare l'autorita' nazionale competente e le regioni e province autonome i
 
 2\. Se l'autorita' nazionale competente viene a conoscenza, direttamente o tramite i Ministeri di cui all'articolo 2 o da altra fonte, di nuove informazioni ritenute rilevanti ai fini dell'esistenza di nuovi o maggiori rischi per la salute umana, animale e per l'ambiente o delle circostanze di cui al comma 1, le valuta, avvalendosi della Commissione di cui all'articolo 6, le comunica alle regioni e alle province autonome interessate, le rende accessibili al pubblico e impone al notificante, ove necessario, di modificare le modalita' dell'emissione deliberata, di sospenderla o di interromperla definitivamente, informandone il pubblico.
 
-#### Art. 12
+### Art. 12
 
 Consultazione e informazione pubblica
 
@@ -558,7 +556,7 @@ f) la relazione conclusiva ed il parere sull'emissione di cui all'articolo 13.
 
 6\. Chiunque coltiva piante geneticamente modificate appone adeguati cartelli di segnalazione che indicano chiaramente la presenza di OGM.
 
-#### Art. 13
+### Art. 13
 
 Relazione conclusiva sull'emissione
 
@@ -568,7 +566,7 @@ Relazione conclusiva sull'emissione
 
 3\. L'autorita' nazionale competente, avvalendosi della Commissione di cui all'articolo 6, effettua una valutazione della relazione di cui al comma 1, elaborando sulla stessa un parere che deve essere comunicato al notificante ed alle regioni e province autonome interessate.
 
-#### Art. 14
+### Art. 14
 
 Scambio di informazioni con le autorita' competenti
 
@@ -582,11 +580,9 @@ degli altri Stati membri e con la Commissione europea
 
 4\. L'autorita' nazionale competente una volta all'anno trasmette alla Commissione europea un elenco degli OGM il cui rilascio e' stato autorizzato mediante le procedure differenziate e semplificate autorizzate dalla Commissione europea, nonche' un elenco degli OGM i cui rilasci non sono stati autorizzati.
 
-## Titolo III - Immissione sul mercato di ogm come tali
+## Titolo III - Immissione sul mercato di ogm come tali o contenuti in prodotti
 
-### o contenuti in prodotti
-
-#### Art. 15
+### Art. 15
 
 Normativa settoriale
 
@@ -604,7 +600,7 @@ b) obblighi in materia di gestione del rischio, di etichettatura, di monitoraggi
 
 > \- Il regolamento CEE del Consiglio n. 2309/93 e' pubblicato in GUCE n. L 214 del 24 agosto 1993.
 
-#### Art. 16
+### Art. 16
 
 Procedura di notifica
 
@@ -656,7 +652,7 @@ i) la sintesi delle informazioni di cui ai punti precedenti, redatta nelle lingu
 
 > \- Il decreto del Presidente della Repubblica 9 maggio 2001, n. 322, reca: «Regolamento recante modifiche al decreto del Presidente della Repubblica 8 ottobre 1973, n. 1065, in attuazione delle direttive 98/95/CE e 98/96/CE concernenti la commercializzazione dei prodotti sementieri, il catalogo comune delle varieta' delle specie di piante agricole e i relativi controlli».
 
-#### Art. 17
+### Art. 17
 
 Relazione di valutazione
 
@@ -680,7 +676,7 @@ b) nel caso in cui la relazione di valutazione di cui al comma 3 indica che l'OG
 
 6\. Un successivo ritiro della notifica da parte del notificante non pregiudica la presentazione di detta notifica all'autorita' competente di un altro Stato membro.
 
-#### Art. 18
+### Art. 18
 
 Adempimenti successivi alla relazione di valutazione
 
@@ -710,7 +706,7 @@ b) trascorsi centocinque giorni dalla data di invio della documentazione di cui 
 
 > \- Per il decreto legislativo 24 aprile 2001, n. 212 e per il decreto del Presidente della Repubblica 9 maggio 2001, n. 322, vedi note all'art. 16.
 
-#### Art. 19
+### Art. 19
 
 Criteri e informazione per determinati OGM
 
@@ -718,7 +714,7 @@ Criteri e informazione per determinati OGM
 
 2\. I criteri e i requisiti delle informazioni di cui al comma 1, devono, comunque, garantire la sicurezza per la salute umana, animale e per l'ambiente e devono basarsi su riscontri scientifici e sull'esperienza maturata in casi analoghi.
 
-#### Art. 20
+### Art. 20
 
 Rinnovo dell'autorizzazione
 
@@ -756,7 +752,7 @@ c) qualsiasi altra nuova informazione resasi disponibile concernente i rischi pe
 
 > \- Per la direttiva 2001/18/CE vedi note alle premesse.
 
-#### Art. 21
+### Art. 21
 
 Provvedimento di autorizzazione
 
@@ -782,7 +778,7 @@ g) gli obblighi in materia di monitoraggio di cui all'articolo 22, l'obbligo di 
 
 4\. L'autorita' nazionale competente adotta le misure necessarie a garantire l'accesso del pubblico all'autorizzazione di cui agli articoli 18, comma 1 e 20, comma 6, e alle decisioni della Commissione europea di cui agli articoli 18, comma 3 e 20, comma 7, nonche' ai documenti equipollenti rilasciati dalle autorita' competenti degli altri Stati membri.
 
-#### Art. 22
+### Art. 22
 
 Monitoraggio e ricerca
 
@@ -794,7 +790,7 @@ Monitoraggio e ricerca
 
 4\. I Ministeri dell'ambiente e della tutela del territorio, della salute, delle politiche agricole e forestali, dell'istruzione, dell'universita' e della ricerca assicurano la realizzazione di attivita' di ricerca sistematica ed indipendente sui rischi potenziali inerenti l'emissione deliberata nell'ambiente e l'immissione sul mercato di OGM, garantendo ai ricercatori libero accesso a tutto il materiale pertinente, salvo quanto disposto dall'articolo 27.
 
-#### Art. 23
+### Art. 23
 
 Gestione delle nuove informazioni
 
@@ -820,7 +816,7 @@ b) comunicare le predette informazioni e le misure adottate all'autorita' nazion
 
 > \- Per la direttiva 2001/18/CE vedi note alle premesse.
 
-#### Art. 24
+### Art. 24
 
 Etichettatura
 
@@ -828,7 +824,7 @@ Etichettatura
 
 2\. Per i prodotti per i quali non possono essere escluse tracce non intenzionali e tecnicamente inevitabili di OGM autorizzati puo' essere fissata, in conformita' alla normativa comunitaria, una soglia minima al di sotto della quale tali prodotti non devono essere etichettati a norma del comma 1, fatta salva la disciplina in materia di sementi. In ogni caso, la prova della non intenzionalita' e dell'inevitabilita' tecnica di tale presenza deve essere dimostrata dal produttore.
 
-#### Art. 25
+### Art. 25
 
 Clausola di salvaguardia
 
@@ -836,7 +832,7 @@ Clausola di salvaguardia
 
 2\. L'autorita' nazionale competente da' immediata comunicazione alla Commissione europea e alle autorita' competenti degli altri Stati membri dei provvedimenti adottati ai sensi del comma 1, fornendo le relative motivazioni basate su una nuova valutazione dei rischi e indicando se e come le condizioni poste dall'autorizzazione devono essere modificate o l'autorizzazione stessa deve essere revocata. Dei predetti provvedimenti l'autorita' nazionale competente da' idonea informazione al pubblico.
 
-#### Art. 26
+### Art. 26
 
 Informazione pubblica
 
@@ -864,7 +860,7 @@ i) i provvedimenti adottati ai sensi dell'articolo 25;
 
 ## ((Titolo III-bis - Limitazione e divieto di coltivazione di OGM sul territorio nazionale))
 
-#### Art. 26-bis
+### Art. 26-bis
 
 ((Finalita' e campo di applicazione))
 
@@ -880,7 +876,7 @@ a) si intende per autorizzazione all'immissione in commercio l'autorizzazione al
 
 b) l'autorita' nazionale competente e' il Ministero delle politiche agricole alimentari e forestali.))
 
-#### Art. 26-ter
+### Art. 26-ter
 
 ((Adeguamento dell'ambito geografico))
 
@@ -894,7 +890,7 @@ Tale richiesta e' presentata nel corso della procedura di autorizzazione all'imm
 
 4\. Qualora la richiesta di cui al comma 1 sia stata comunicata alla Commissione europea dopo la data di trasmissione della relazione di valutazione effettuata ai sensi dell'articolo 17, il termine per il rilascio dell'autorizzazione di cui all'articolo 18, comma 1, e quello per l'adozione della decisione di cui all'articolo 18, comma 3, sono prorogati per una sola volta di quindici giorni.))
 
-#### Art. 26-quater
+### Art. 26-quater
 
 ((Misure che limitano o vietano la coltivazione di OGM sul territorio nazionale))
 
@@ -934,7 +930,7 @@ c) le regioni e le province autonome di Trento e di Bolzano, sul cui territorio 
 
 8\. Il Ministero delle politiche agricole alimentari e forestali comunica l'adozione delle misure di cui al presente articolo alla Commissione europea, agli altri Stati membri e al titolare dell'autorizzazione. L'autorita' nazionale competente di cui all'articolo 2, comma 1, il Ministero delle politiche agricole alimentari e forestali, il Ministero della salute nonche' le regioni e le province autonome di Trento e di Bolzano pubblicano le misure adottate sui propri siti internet istituzionali.))
 
-#### Art. 26-quinquies
+### Art. 26-quinquies
 
 ((Reintegrazione nell'ambito geografico e revoca delle misure di limitazione o divieto))
 
@@ -946,7 +942,7 @@ c) le regioni e le province autonome di Trento e di Bolzano, sul cui territorio 
 
 4\. Se le richieste di reintegrazione riguardano la revoca delle misure adottate ai sensi dell'articolo 26-quater, queste ultime sono revocate di conseguenza, con le medesime modalita' di cui allo stesso articolo 26-quater, comma 6. Il Ministero delle politiche agricole alimentari e forestali informa della revoca la Commissione europea, gli altri Stati membri e il titolare dell'autorizzazione. Il Ministero delle politiche agricole alimentari e forestali, l'autorita' nazionale competente di cui all'articolo 2, comma 1, il Ministero della salute e le regioni e le province autonome di Trento e di Bolzano pubblicano le misure modificate sui propri siti internet istituzionali.))
 
-#### Art. 26-sexies
+### Art. 26-sexies
 
 ((Coesistenza nelle zone di frontiera o tra Regioni confinanti))
 
@@ -958,7 +954,7 @@ c) le regioni e le province autonome di Trento e di Bolzano, sul cui territorio 
 
 ## Titolo IV - Disposizioni finali
 
-#### Art. 27
+### Art. 27
 
 Riservatezza
 
@@ -990,7 +986,7 @@ h) valutazione del rischio ambientale.
 
 6\. Le informazioni riservate ai sensi del comma 3, possono essere comunicate solo alla Commissione europea nonche', in caso di procedure amministrative o giudiziarie, alle pubbliche autorita' che ne fanno richiesta e che sono responsabili dei relativi procedimenti, segnalandone il carattere di riservatezza.
 
-#### Art. 28
+### Art. 28
 
 Etichettatura degli OGM, diversi dai microrganismi
 
@@ -1000,7 +996,7 @@ in ambiente confinato
 
 1\. Agli OGM da utilizzare per le operazioni di cui all'articolo 3, comma 1, lettera d), punto 2, si applicano i pertinenti requisiti in materia di etichettatura di cui all'allegato IV.
 
-#### Art. 29
+### Art. 29
 
 Adeguamento degli allegati al progresso tecnico
 
@@ -1014,7 +1010,7 @@ Adeguamento degli allegati al progresso tecnico
 
 > I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione».
 
-#### Art. 30
+### Art. 30
 
 Pubblici registri
 
@@ -1024,13 +1020,13 @@ Le informazioni annotate su tali registri sono immediatamente rese pubbliche e l
 
 2\. Chiunque coltiva OGM comunica alle regioni e province autonome competenti per territorio, entro quindici giorni dalla messa in coltura, la localizzazione delle coltivazioni e conserva per dieci anni le informazioni relative agli OGM coltivati ed alla loro localizzazione.
 
-#### Art. 31
+### Art. 31
 
 Informazione alla Commissione europea
 
 1\. Ogni tre anni l'autorita' nazionale competente invia alla Commissione europea, una relazione sulle misure adottate per l'attuazione del presente decreto. Tale relazione include una illustrazione circostanziata delle esperienze acquisite in materia di OGM immessi sul mercato.
 
-#### Art. 32
+### Art. 32
 
 Attivita' di vigilanza
 
@@ -1040,7 +1036,7 @@ Attivita' di vigilanza
 
 3\. L'attivita' di vigilanza e' svolta su incarico delle amministrazioni di cui al comma 1 e, nel caso di incarico da parte dell'autorita' nazionale competente, sentita la Commissione cui all'articolo 6.
 
-#### Art. 33
+### Art. 33
 
 Spese
 
@@ -1056,7 +1052,7 @@ Spese
 
 6\. Con disposizioni regionali sono determinate, sulla base del costo del servizio, le tariffe corrispondenti relative alle attivita' di competenza e le modalita' di versamento delle stesse tariffe.
 
-#### Art. 34
+### Art. 34
 
 Sanzioni relative al Titolo II
 
@@ -1074,7 +1070,7 @@ Sanzioni relative al Titolo II
 
 7\. Chiunque, nell'ipotesi prevista dall'articolo 12, comma 6, non appone adeguati cartelli di segnalazione che indicano chiaramente la presenza di OGM, e' punito con la sanzione amministrativa pecuniaria da euro 4.000 ad euro 10.000.
 
-#### Art. 35
+### Art. 35
 
 Sanzioni relative al Titolo III
 
@@ -1098,7 +1094,7 @@ Sanzioni relative al Titolo III
 
 10\. Chiunque, nell'ipotesi prevista dall'articolo 30, comma 2, non comunica alle regioni e alle province autonome competenti per territorio, entro quindici giorni dalla messa in coltura, la localizzazione delle coltivazioni degli OGM o non conserva per dieci anni le informazioni relative agli OGM coltivati ed alla localizzazione delle coltivazioni, e' punito con la sanzione amministrativa pecuniaria da euro 6.000 a euro 12.000.
 
-#### Art. 35-bis
+### Art. 35-bis
 
 ((Sanzioni relative al Titolo III-bis))
 
@@ -1124,7 +1120,7 @@ c) i divieti temporanei di impianto dell'OGM o degli OGM interessati previsti da
 
 5\. Il pagamento delle somme dovute per le sanzioni amministrative pecuniarie previste dal presente articolo e' devoluto ad apposito capitolo del capo XVII dello stato di previsione dell'entrata del bilancio dello Stato.))
 
-#### Art. 36
+### Art. 36
 
 Sanzioni per danni provocati alla salute umana
 
@@ -1274,13 +1270,13 @@ e risarcimento del danno ambientale
 
 > 4\. Alle sanzioni amministrative pecuniarie previste dal presente decreto non si applica il pagamento in misura ridotta di cui all'art. 16 della legge 24 novembre 1981, n. 689».
 
-#### Art. 37
+### Art. 37
 
 Disposizioni finanziarie
 
 1\. Dall'attuazione del presente decreto non possono derivare nuovi o maggiori oneri per la finanza pubblica.
 
-#### Art. 38
+### Art. 38
 
 Disposizioni transitorie e finali
 
@@ -1324,7 +1320,7 @@ Visto, il Guardasigilli: Castelli
 
 ## Titolo IV - Disposizioni finali
 
-#### Allegato I A
+### Allegato I A
 
 ALLEGATO I A
 
@@ -1352,7 +1348,7 @@ Tecniche di cui all'articolo 3, comma 1, lettera b), punto 2, che non si ritiene
 
 3\) induzione della poliploidia.
 
-#### Allegato I B
+### Allegato I B
 
 ALLEGATO I B
 
@@ -1366,7 +1362,7 @@ Le tecniche o i metodi di modificazione genetica che implicano l'esclusione degl
 
 2\) la fusione cellulare, inclusa la fusione di protoplasti, di cellule vegetali di organismi che possono scambiare materiale genetico anche con metodi di riproduzione tradizionali.
 
-#### Allegato II
+### Allegato II
 
 ALLEGATO II
 
@@ -1652,7 +1648,7 @@ g) Effetti sulla salute umana e animale.))
 
 (( 1) Parere dell'Autorita' europea per la sicurezza alimentare che definisce gli orientamenti per la valutazione del rischio ambientale delle piante geneticamente modificate, EFSA Journal 2010; 8(11):1879.))
 
-#### Allegato III
+### Allegato III
 
 ((ALLEGATO III
 
@@ -2312,7 +2308,7 @@ La sintesi deve tenere conto della caratterizzazione del rischio in conformita' 
 
 6\) Informazioni su emissioni precedenti della PSGM, se del caso.))
 
-#### Allegato IV
+### Allegato IV
 
 ALLEGATO IV
 
@@ -2360,7 +2356,7 @@ Restrizioni proposte nell'uso autorizzato dell'OGM, ad esempio dove e a quali sc
 
 (((2) Regolamento (CE) n. 65/2004 della Commissione, del 14 gennaio 2004, che stabilisce un sistema per la determinazione e l'assegnazione di identificatori unici per gli organismi geneticamente modificati (GU L 10 del 16.1.2004, pag. 5).))
 
-#### Allegato V
+### Allegato V
 
 ALLEGATO V
 
@@ -2380,7 +2376,7 @@ D) Devono essere rese disponibili tutte le informazioni necessarie a dimostrare 
 
 E) Nelle condizioni di emissione sperimentale l'OGM non deve comportare rischi per la salute umana, animale o per l'ambiente piu' numerosi o piu' rilevanti di quanto avvenga nelle emissioni dei corrispondenti organismi progenitori, se del caso, e degli organismi riceventi. L'eventuale capacita' di diffusione nell'ambiente e di invasione di altri ecosistemi non collegati cosi', come l'eventuale capacita' di trasferimento del materiale genetico in altri organismi presenti nell'ambiente non devono determinare effetti negativi.
 
-#### Allegato VI
+### Allegato VI
 
 ALLEGATO VI
 
@@ -2410,7 +2406,7 @@ E) Una valutazione conclusiva circa:
 
 F) La valutazione conclusiva deve indicare con chiarezza l'uso proposto, la gestione del rischio e il piano di monitoraggio proposto. Qualora si sia giunti alla conclusione che l'OGM non debba essere immesso sul mercato, l'autorita' competente deve motivarne le ragioni.
 
-#### Allegato VII
+### Allegato VII
 
 ALLEGATO VII
 
@@ -2456,7 +2452,7 @@ b) un'attivita' di sorveglianza che possa, se appropriato, avvalersi delle consu
 
 6\. prendere in considerazione i meccanismi per l'identificazione e la conferma di ogni effetto negativo osservato sulla salute umana, animale e sull'ambiente e permettere, ove opportuno, al titolare dell'autorizzazione o all'autorita' competente di adottare le misure necessarie per proteggere la salute umana, animale e l'ambiente.
 
-#### Allegato VIII
+### Allegato VIII
 
 ALLEGATO VIII
 

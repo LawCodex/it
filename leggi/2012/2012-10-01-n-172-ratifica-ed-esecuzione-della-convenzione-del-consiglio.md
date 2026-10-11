@@ -27,23 +27,21 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Ratifica ed esecuzione
 
-### Ratifica ed esecuzione
-
-#### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione del Consiglio d'Europa per la protezione dei minori contro lo sfruttamento e l'abuso sessuale, fatta a Lanzarote il 25 ottobre 2007, di seguito denominata «Convenzione».
 
-#### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data alla Convenzione, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 45 della Convenzione stessa.
 
-#### Art. 3
+### Art. 3
 
 Autorita' nazionale
 
@@ -51,11 +49,9 @@ Autorita' nazionale
 
 2\. Le attivita' di registrazione e di conservazione dei dati di cui al comma 1 sono svolte in conformita' al Trattato concluso il 27 maggio 2005 tra il Regno del Belgio, la Repubblica federale di Germania, il Regno di Spagna, la Repubblica francese, il Granducato di Lussemburgo, il Regno dei Paesi Bassi e la Repubblica d'Austria, relativo all'approfondimento della cooperazione transfrontaliera, in particolare allo scopo di contrastare il terrorismo, la criminalita' transfrontaliera e la migrazione illegale (Trattato di Prüm), reso esecutivo dalla legge 30 giugno 2009, n. 85, e alle relative disposizioni di attuazione.
 
-## Capo II
+## Capo II - Disposizioni di adeguamento dell'ordinamento interno
 
-### Disposizioni di adeguamento dell'ordinamento interno
-
-#### Art. 4
+### Art. 4
 
 Modifiche al codice penale
 
@@ -237,7 +233,7 @@ z) nella sezione II del capo III del titolo XII del libro II, dopo l'articolo 60
 
 «Art. 609-undecies (Adescamento di minorenni). - Chiunque, allo scopo di commettere i reati di cui agli articoli 600, 600-bis, 600-ter e 600-quater, anche se relativi al materiale pornografico di cui all'articolo 600-quater.1, 600-quinquies, 609-bis, 609-quater, 609-quinquies e 609-octies, adesca un minore di anni sedici, e' punito, se il fatto non costituisce piu' grave reato, con la reclusione da uno a tre anni. Per adescamento si intende qualsiasi atto volto a carpire la fiducia del minore attraverso artifici, lusinghe o minacce posti in essere anche mediante l'utilizzo della rete internet o di altre reti o mezzi di comunicazione».
 
-#### Art. 5
+### Art. 5
 
 Modifiche al codice di procedura penale
 
@@ -277,13 +273,13 @@ i) all'articolo 407, comma 2, lettera a), al numero 7-bis), le parole: «600-bis
 
 l) al comma 1-bis dell'articolo 444, le parole: «600-bis, primo e terzo comma,» sono sostituite dalla seguente: «600-bis,».
 
-#### Art. 6
+### Art. 6
 
 Modifica al codice di cui al decreto legislativo 6 settembre 2011, n. 159, in materia di divieto di avvicinamento ai luoghi frequentati abitualmente da minori.
 
 1\. Al comma 5 dell'articolo 8 del codice delle leggi antimafia e delle misure di prevenzione, di cui al decreto legislativo 6 settembre 2011, n. 159, sono aggiunte, in fine, le seguenti parole: «, ovvero, con riferimento ai soggetti di cui all'articolo 1, lettera c), il divieto di avvicinarsi a determinati luoghi, frequentati abitualmente da minori».
 
-#### Art. 7
+### Art. 7
 
 Modifiche alla legge 26 luglio 1975, n. 354, in materia di concessione di benefici ai detenuti per reati in danno di minori.
 
@@ -299,13 +295,13 @@ Modifiche alla legge 26 luglio 1975, n. 354, in materia di concessione di benefi
 
 La partecipazione a tale trattamento e' valutata ai sensi dell'articolo 4-bis, comma 1-quinquies, della presente legge ai fini della concessione dei benefici previsti dalla medesima disposizione».
 
-#### Art. 8
+### Art. 8
 
 Confisca
 
 1\. All'articolo 12-sexies, comma 1, del decreto-legge 8 giugno 1992, n. 306, convertito, con modificazioni, dalla legge 7 agosto 1992, n. 356, e successive modificazioni, dopo la parola: «600,» sono inserite le seguenti: «600-bis, primo comma, 600-ter, primo e secondo comma, 600-quater.1, relativamente alla condotta di produzione o commercio di materiale pornografico, 600-quinquies,».
 
-#### Art. 9
+### Art. 9
 
 Disposizioni in materia di gratuito patrocinio
 
@@ -313,7 +309,7 @@ Disposizioni in materia di gratuito patrocinio
 
 «4-ter. La persona offesa dai reati di cui agli articoli 609-bis, 609-quater e 609-octies, nonche', ove commessi in danno di minori, dai reati di cui agli articoli 600, 600-bis, 600-ter, 600-quinquies, 601, 602, 609-quinquies e 609-undecies del codice penale, puo' essere ammessa al patrocinio anche in deroga ai limiti di reddito previsti dal presente decreto».
 
-#### Art. 10
+### Art. 10
 
 Clausola di invarianza
 
@@ -337,7 +333,7 @@ Visto, il Guardasigilli: Severino
 
 ## Allegati
 
-#### Convention
+### Convention
 
 Council of Europe Convention
 
@@ -399,7 +395,7 @@ Tenuto conto della necessita' di elaborare uno strumento internazionale globale 
 
 hanno convenuto quanto segue:
 
-#### Articolo 1 - Oggetto
+### Articolo 1 - Oggetto
 
 1\. Gli obiettivi di questa Convenzione sono:
 
@@ -411,13 +407,13 @@ c. promuovere la cooperazione nazionale ed internazionale contro lo sfruttamento
 
 2\. Onde assicurare l'efficace applicazione delle sue disposizioni ad opera delle Parti, la presente Convenzione istituisce un meccanismo di monitoraggio specifico.
 
-#### art. 2
+### art. 2
 
 Articolo 2 - Principio di non discriminazione
 
 L'applicazione della presente Convenzione ad opera delle Parti, in particolare l'applicazione delle misure di protezione dei diritti delle vittime, sara' assicurata senza alcuna discriminazione, che sia in particolare basata sul sesso, razza, colore, lingua, religione, opinioni politiche o di altro genere, origine nazionale o sociale, l'appartenenza a una minoranza nazionale, la condizione economica, la nascita, l'orientamento sessuale, lo stato di salute, la diversa abilita' o qualsiasi altra condizione.
 
-#### Articolo 3 - Definizioni
+### Articolo 3 - Definizioni
 
 Ai fini della presente Convenzione:
 
@@ -429,11 +425,11 @@ c. il termine "vittima" designa ogni bambino vittima di sfruttamento o abusi ses
 
 ## Capitolo II - Misure preventive
 
-#### Articolo 4 - Principi
+### Articolo 4 - Principi
 
 Le Parti adotteranno le misure legislative o di altro genere necessarie a prevenire tutte le forme di sfruttamento e abuso sessuale riferiti a bambini e per proteggere questi ultimi.
 
-#### art. 5
+### art. 5
 
 Articolo 5 - Reclutamento, formazione e sensibilizzazione delle persone che lavorano a contatto con i bambini.
 
@@ -443,17 +439,17 @@ Articolo 5 - Reclutamento, formazione e sensibilizzazione delle persone che lavo
 
 3\. Le Parti adotteranno le necessarie misure legislative o di altro genere, in conformita' con la legislazione interna, affinche' le condizioni di accesso alle professioni il cui esercizio comporti contatti regolari con i bambini, consentano di assicurarsi che i candidati a dette professioni non abbiano subito condanne per atti di sfruttamento o di abusi sessuali relativi a bambini.
 
-#### Articolo 6 - Istruzione dei bambini
+### Articolo 6 - Istruzione dei bambini
 
 Le Parti adotteranno le necessarie misure legislative o di altro genere, affinche' i bambini, durante l'istruzione primaria e secondaria, ricevano informazioni sui rischi di sfruttamento e di abusi sessuali, cosi' come sui mezzi per difendersi, adattate alla loro fase evolutiva. Questa informazione, fornita, quando opportuno, in collaborazione con i genitori, deve essere iscritta in un contesto piu' ampio di informazione sulla sessualita' e porre particolare attenzione alle situazioni di rischio, specialmente quelle derivanti dall'utilizzo delle nuove tecnologie della informazione e della comunicazione.
 
-#### art. 7
+### art. 7
 
 Articolo 7 - Programmi o misure di intervento preventivo
 
 Le Parti vigileranno affinche' persone che temano di poter commettere qualcuno dei reati previsti dalla Convenzione possano avere accesso, ove necessario, a programmi o misure di intervento efficaci rivolte a valutare e prevenire i rischi di passaggio all'atto.
 
-#### art. 8
+### art. 8
 
 Articolo 8 - Misure nei confronti del pubblico
 
@@ -461,7 +457,7 @@ Articolo 8 - Misure nei confronti del pubblico
 
 2\. Le Parti adotteranno le necessarie misure legislative o di altro genere, per prevenire o proibire la diffusione di materiale che pubblicizzi i reati definiti in conformita' con la presente Convenzione.
 
-#### art. 9
+### art. 9
 
 Articolo 9 - Partecipazione dei bambini, del settore privato, dei media e della societa' civile
 
@@ -475,7 +471,7 @@ Articolo 9 - Partecipazione dei bambini, del settore privato, dei media e della 
 
 ## Capitolo III - Autorita' specializzate e organismi di coordinamento
 
-#### art. 10
+### art. 10
 
 Articolo 10 - Misure nazionali di coordinamento e di collaborazione
 
@@ -491,13 +487,13 @@ b. meccanismi per la raccolta di dati o punti di informazione a livello nazional
 
 ## Capitolo IV - Misure di protezione ed assistenza alle vittime
 
-#### Articolo 11- Principi
+### Articolo 11- Principi
 
 1\. Le Parti adotteranno programmi sociali efficaci e creeranno strutture pluridisciplinari atte a fornire il necessario supporto alle vittime, i loro parenti prossimi ed a coloro ai quali queste sono affidate.
 
 2\. Le Parti adotteranno le necessarie misure legislative o di altro genere per assicurare che quando l'eta' della vittima sia incerta e ci siano ragioni per credere che la vittima sia un bambino, le misure di protezione e assistenza previste per i bambini siano accordate in attesa di verificarne e determinarne l'eta'.
 
-#### art. 12
+### art. 12
 
 Articolo 12 - Segnalazione di sospetti di sfruttamento o di abusi sessuali
 
@@ -505,11 +501,11 @@ Articolo 12 - Segnalazione di sospetti di sfruttamento o di abusi sessuali
 
 2\. Le Parti adotteranno le necessarie misure legislative o di altro genere per incoraggiare ogni persona che sia a conoscenza o che sospetti, in buona fede, fatti di sfruttamento o di abusi sessuali a danno di bambini, a segnalarli ai servizi competenti.
 
-#### Articolo 13 - Servizi di assistenza
+### Articolo 13 - Servizi di assistenza
 
 Le Parti adotteranno le necessarie misure legislative o di altro genere per incoraggiare e sostenere l'attivazione di servizi di comunicazione, quali linee telefoniche o internet, che consentano di fornire consigli a chi chiama, anche a titolo confidenziale e nel rispetto del loro anonimato.
 
-#### Articolo 14 - Assistenza alle vittime
+### Articolo 14 - Assistenza alle vittime
 
 1\. Le Parti adotteranno le necessarie misure legislative o di altro genere per assistere, a breve e lungo termine le vittime al fine di assicurare la loro guarigione fisica e psico-sociale. Le misure adottate in applicazione del presente paragrafo dovranno tenere in debito conto il punto di vista, i bisogni e le preoccupazioni del bambino.
 
@@ -525,7 +521,7 @@ Le Parti adotteranno le necessarie misure legislative o di altro genere per inco
 
 ## Capitolo V - programmi o misure di intervento
 
-#### Articolo 15 - Principi generali
+### Articolo 15 - Principi generali
 
 1\. Le Parti prevederanno, in conformita' alla propria legislazione interna, programmi o misure di intervento efficaci per le persone indicate nell' articolo 16, paragrafi 1 e 2, onde prevenire e minimizzare i rischi di recidive dei reati a carattere sessuale a danno dei bambini. Tali programmi o misure dovranno essere accessibili in ogni momento della procedura, in ambiente carcerario o all'esterno, secondo le condizioni definite dalla legislazione interna.
 
@@ -535,7 +531,7 @@ Le Parti adotteranno le necessarie misure legislative o di altro genere per inco
 
 4\. Le Parti provvederanno, in conformita' alla propria legislazione interna, ad effettuare una valutazione dell'efficacia dei programmi e delle misure di intervento mese in atto.
 
-#### art. 16
+### art. 16
 
 Articolo 16 - Destinatari dei programmi e delle misure di intervento
 
@@ -545,7 +541,7 @@ Articolo 16 - Destinatari dei programmi e delle misure di intervento
 
 3\. Le Parti provvederanno, in conformita' alla propria legislazione interna, a che programmi o misure di intervento vengano messe in atto o adattate per corrispondere ai bisogni connessi allo sviluppo dei bambini che abbiano commesso reati di natura sessuale, inclusi coloro che sono al di sotto dell'eta' della responsabilita' penale, allo scopo di trattare i loro problemi di condotta sessuale.
 
-#### Articolo 17 - Informazione e consenso
+### Articolo 17 - Informazione e consenso
 
 1\. Le Parti provvederanno, in conformita' alla propria legislazione interna, a che le persone indicate dall'articolo 16 nei confronti delle quali sono proposti programmi o misure di intervento, siano pienamente informate di tale proposta e acconsentano al programma o alla misura con piena consapevolezza.
 
@@ -553,7 +549,7 @@ Articolo 16 - Destinatari dei programmi e delle misure di intervento
 
 ## Capitolo VI - Diritto penale materiale
 
-#### Articolo 18 - Abusi sessuali
+### Articolo 18 - Abusi sessuali
 
 1\. Le Parti adotteranno le necessarie misure legislative o di altro genere per assicurare che siano considerati reati penali i seguenti comportamenti intenzionali:
 
@@ -571,7 +567,7 @@ b. praticare attivita' sessuali con un bambino:
 
 3\. Le disposizioni del paragrafo 1.a, non si riferiscono alle attivita' sessuali consentite tra minori.
 
-#### art. 19
+### art. 19
 
 Articolo 19 - Reati relativi alla prostituzione infantile
 
@@ -585,7 +581,7 @@ c. ricorrere alla prostituzione di un bambino.
 
 2\. Ai fini del presente articolo, l'espressione "prostituzione infantile" definisce il fatto di utilizzare un bambino per attivita' sessuali dove il denaro o altre forme di remunerazione o corrispettivo siano dati o promessi come pagamento, a prescindere dal fatto che tale pagamento, promessa o corrispettivo sia fatto al bambino o a una terza persona.
 
-#### art. 20
+### art. 20
 
 Articolo 20 - Reati relativi alla pornografia infantile
 
@@ -613,7 +609,7 @@ f. accedere consapevolmente e attraverso tecnologie di comunicazione e di inform
 
 4\. Le Parti potranno riservarsi il diritto di non applicare, in toto o in parte, il paragrafo 1. f.
 
-#### art. 21
+### art. 21
 
 Articolo 21 - Reati relativi alla partecipazione di un bambino a spettacoli pornografici
 
@@ -627,17 +623,17 @@ c. assistere con cognizione di causa a spettacoli pornografici che includano la 
 
 2\. Le Parti potranno riservarsi il diritto di limitare l'applicazione del paragrafo 1.c ai casi in cui bambini siano stati reclutati o costretti conformemente al paragrafo 1. a. o b.
 
-#### Articolo 22 - Corruzione di bambini
+### Articolo 22 - Corruzione di bambini
 
 Le Parti adotteranno le misure necessarie legislative o di altro genere al fine di considerare reato penale il fatto intenzionale di far assistere, a fini sessuali, un bambino che non abbia raggiunto l'eta' fissata in applicazione dell'articolo 18, paragrafo 2, anche senza che egli partecipi ad abusi sessuali o ad attivita' sessuali.
 
-#### art. 23
+### art. 23
 
 Articolo 23 - Adescamento di bambini a scopi sessuali
 
 Le Parti adotteranno le necessarie misure legislative o di altro genere al fine di considerare reato penale il fatto che un adulto proponga intenzionalmente, per mezzo delle tecnologie di comunicazione e di informazione, un incontro ad un bambino che non abbia raggiunto l'eta' del fissata in applicazione dell'articolo 18, paragrafo 2, allo scopo di commettere, in tale incontro, un reato stabilito in conformita' agli articoli 18, paragrafo 1.a, o 20, paragrafo 1.a, qualora tale proposta sia seguita da atti materiali riconducibili a detto incontro.
 
-#### art. 24
+### art. 24
 
 Articolo 24 - Favoreggiamento e tentativo
 
@@ -647,7 +643,7 @@ Articolo 24 - Favoreggiamento e tentativo
 
 3\. Le Parti potranno riservarsi il diritto di non applicare, in toto o in parte, il paragrafo 2 ai reati stabiliti dall'articolo 20, paragrafo 1.b ed f, dall'articolo 2. 1.c, dall'articolo 22 e dall'articolo 23.
 
-#### Articolo 25 - Giurisdizione
+### Articolo 25 - Giurisdizione
 
 1\. Le Parti adotteranno le necessarie misure necessarie legislative o di altro genere per assicurare la propria giurisdizione a perseguire ogni reato stabilito in conformita' alla presente Convenzione quando il reato sia commesso:
 
@@ -677,7 +673,7 @@ e. da parte di una persona che abbia la sua residenza abituale sul territorio di
 
 9\. Fatte salve le norme generali di diritto internazionale, la presente Convenzione non esclude alcuna giurisdizione penale esercitata da una Parte in conformita' della propria legislazione interna
 
-#### art. 26
+### art. 26
 
 Articolo 26 - Responsabilita' delle persone giuridiche
 
@@ -695,7 +691,7 @@ Articolo 26 - Responsabilita' delle persone giuridiche
 
 4\. Detta responsabilita' e' definita senza pregiudizio della responsabilita' penale delle persone fisiche che abbiano commesso il reato.
 
-#### Articolo 27 - Sanzioni e provvedimenti
+### Articolo 27 - Sanzioni e provvedimenti
 
 1\. Ciascuna Parte adottera' i necessari provvedimenti legislativi o di altro genere affinche' i reati stabiliti in conformita' della presente Convenzione siano passibili di sanzioni efficaci, proporzionate e dissuasive, tenuto conto della loro gravita'. Queste sanzioni dovranno includere pene consistenti nella privazione della liberta' che possano dar luogo all'estradizione.
 
@@ -723,7 +719,7 @@ b. consentire la chiusura temporanea definitiva di ogni struttura utilizzata per
 
 5\. Ciascuna Parte potra' decidere che i prodotti del crimine o i beni confiscati in conformita' al presente articolo possano venire allocati ad un fondo speciale per finanziare programmi di prevenzione e di assistenza alle vittime di in dei reati delineati in conformita' alla presente Convenzione.
 
-#### Articolo 28 - Circostanze aggravanti
+### Articolo 28 - Circostanze aggravanti
 
 Ciascuna Parte adottera' i necessari provvedimenti legislativi o di altro genere per assicurare che le seguenti circostanze, nel caso in cui non rappresentino gia' elementi costitutivi di reato, in accordo con la legislazione interna, possano essere considerate come circostanze aggravanti nella determinazione delle pene relative ai reati stabiliti in conformita' alla presente Convenzione:
 
@@ -741,13 +737,13 @@ f. qualora il reato sia stato commesso nell'ambito di un'organizzazione criminal
 
 g. qualora il reo sia stato gia' condannato per fatti della stessa natura.
 
-#### Articolo 29 - Precedenti condanne
+### Articolo 29 - Precedenti condanne
 
 Ciascuna Parte adottera' i necessari provvedimenti legislativi o di altro genere per prevedere la possibilita' di tenere, nell'ambito della valutazione della pena, nella dovuta considerazione le condanne definitive pronunciate da altra Parte per reati stabiliti in conformita' della presente Convenzione.
 
 ## Capitolo VII - Indagini, procedimenti e diritto procedurale
 
-#### Articolo 30 - Principi
+### Articolo 30 - Principi
 
 1\. Ciascuna Parte adottera' i necessari provvedimenti legislativi o di altro genere affinche' le indagini e procedure penali avvengano nell'interesse superiore e nel rispetto dei diritti del bambino.
 
@@ -763,7 +759,7 @@ Ciascuna Parte adottera' i necessari provvedimenti legislativi o di altro genere
 
 \- consentire alle unita' o servizi di indagine di identificare le vittime dei reati stabiliti in conformita' all'articolo 20, in particolare mediante l'analisi dei materiali di pornografia infantile, quali le fotografie, le registrazioni audiovisive accessibili, diffuse o trasmesse per mezzo delle tecnologie di comunicazione e di informazione.
 
-#### art. 31
+### art. 31
 
 Articolo 31 - Provvedimenti generali di protezione
 
@@ -789,15 +785,15 @@ f assicurando che esse, cosi' come le loro famiglie e i testimoni a carico siano
 
 6\. Ciascuna Parte vigilera' affinche' le informazioni date alle vittime, in conformita' alle disposizioni del presente articolo, siano adatte alla loro eta' e al loro grado di maturita', fornite in un linguaggio per loro comprensibile.
 
-#### Articolo 32 - Avvio dei procedimenti
+### Articolo 32 - Avvio dei procedimenti
 
 Ciascuna Parte adottera' i necessari provvedimenti legislativi o di altro genere per assicurare che le indagini o i seguiti relativi ai reati stabiliti in conformita' alla presente Convenzione non siano subordinati alla dichiarazione o all'accusa proveniente da una vittima e che il procedimento continui anche nel caso in cui la vittima ritratti.
 
-#### Articolo 33 - Prescrizione
+### Articolo 33 - Prescrizione
 
 Ciascuna Parte adottera' i necessari provvedimenti legislativi o di altro genere affinche' i termini di prescrizione per dare inizio ai procedimenti riguardo ai reati stabiliti in conformita' alla agli articoli 18, 19 paragrafo 1.a e b, e 21, paragrafo 1.a e b vengano dilatati per una durata sufficiente a consentire l'avvio efficiente dei seguiti dopo che la vittima abbia raggiunto la maggiore eta' e che siano proporzionati alla gravita' del reato in questione.
 
-#### Articolo 34 - Indagini
+### Articolo 34 - Indagini
 
 1\. Ciascuna Parte adottera' i necessari provvedimenti affinche' le persone, le unita' o i servizi incaricati delle indagini siano specializzati nella lotta contro lo sfruttamento e gli abusi sessuali relativi ai bambini, o che ie persone siano formate a questo scopo.
 
@@ -805,7 +801,7 @@ Detti servizi o unita' dovranno disporre di adeguate risorse finanziarie.
 
 2\. Ciascuna Parte adottera' i necessari provvedimenti legislativi o di altro genere affinche' l'incertezza sull'eta' reale della vittima non pregiudichi l'avvio di un'inchiesta penale.
 
-#### Articolo 35 - Colloqui con il bambino
+### Articolo 35 - Colloqui con il bambino
 
 1\. Ciascuna Parte adottera' i necessari provvedimenti legislativi o di altro genere affinche':
 
@@ -825,7 +821,7 @@ f. il bambino possa essere accompagnato dal suo rappresentante legale, o, in cas
 
 3\. Quando l'eta' della vittima sia incerta e ci siano ragionevoli motivi di ritenere che questa sia un bambino, le misure previste ai paragrafi 1 e 2 devono essere applicate nell'attesa che l'eta' venga verificata e determinata.
 
-#### Articolo 36 - Procedimenti giudiziari
+### Articolo 36 - Procedimenti giudiziari
 
 1\. Ciascuna Parte adottera' i necessari provvedimenti legislativi o di altro genere, affinche' nel rispetto delle regole che governano l'autonomia delle professioni giudiziarie, venga resa possibile la formazione in materia di diritti del bambino, di sfruttamento e di abusi sessuali relativi ai bambini, a vantaggio degli attori dei procedimenti giudiziari, in particolare i giudici, i procuratori e gli avvocati.
 
@@ -837,7 +833,7 @@ b. la vittima possa venire ascoltata in udienza senza esservi presente, specie m
 
 ## Capitolo VIII - Registrazione e conservazione di dati
 
-#### art. 37
+### art. 37
 
 Articolo 37 - Registrazione e conservazione dei dati nazionali sui condannati per i reati sessuali
 
@@ -849,7 +845,7 @@ Articolo 37 - Registrazione e conservazione dei dati nazionali sui condannati pe
 
 ## Capitolo IX - Cooperazione internazionale
 
-#### art. 38
+### art. 38
 
 Articolo 38 - Principi generali e misure di cooperazione internazionale
 
@@ -869,7 +865,7 @@ c. condurre indagini o procedimenti concernenti reati stabiliti in conformita' a
 
 ## Capitolo X - Meccanismo di monitoraggio
 
-#### Articolo 39 - Comitato delle Parti
+### Articolo 39 - Comitato delle Parti
 
 1\. Il Comitato delle Parti e' composto dai rappresentanti delle Parti aderenti alla Convenzione.
 
@@ -877,7 +873,7 @@ c. condurre indagini o procedimenti concernenti reati stabiliti in conformita' a
 
 3\. Il Comitato delle Parti adotta il proprio regolamento interno.
 
-#### Articolo 40 - Altri rappresentanti
+### Articolo 40 - Altri rappresentanti
 
 1\. L'Assemblea Parlamentare del Consiglio d'Europa, il Commissario ai Diritti dell'Uomo, il Comitato Europeo per i problemi criminali (CDPC) cosi' come altri comitati intergovernativi pertinenti del Consiglio d'Europa, che designino ciascuno un rappresentante presso il Comitato delle Parti.
 
@@ -887,7 +883,7 @@ c. condurre indagini o procedimenti concernenti reati stabiliti in conformita' a
 
 4\. I rappresentanti designati in virtu' dei sopra citati paragrafi da 1 a 3, partecipano alle riunioni del Comitato delle Parti senza diritto di voto.
 
-#### art. 41
+### art. 41
 
 Articolo 41 - Funzioni del Comitato delle Parti
 
@@ -907,13 +903,13 @@ b. esprimere pareri su ogni questione relativa all'applicazione della presente C
 
 ## Capitolo XI - Relazioni con altri strumenti internazionali
 
-#### art. 42
+### art. 42
 
 Articolo 42 - Relazione con la Convenzione delle Nazioni Unite relativa ai diritti del bambino e suo Protocollo facoltativo concernente il traffico di bambini, la prostituzione dei bambini e la pornografia infantile
 
 La presente Convenzione non incide sui diritti ed obblighi derivanti dalle disposizioni della Convenzione delle Nazioni Unite relativa ai diritti del bambino ed il suo Protocollo facoltativo relativo ai traffico di bambini, la prostituzione di minori e la pornografia infantile; essa si prefigge di rafforzare la protezione avviata da tali strumenti e di potenziare e completare le norme da questi enunciate.
 
-#### art. 43
+### art. 43
 
 Articolo 43 - Relazioni con altri strumenti internazionali
 
@@ -925,7 +921,7 @@ Articolo 43 - Relazioni con altri strumenti internazionali
 
 ## Capitolo XII - Emendamenti alla Convenzione
 
-#### Articolo 44 - Emendamenti
+### Articolo 44 - Emendamenti
 
 1\. Ogni emendamento alla presente Convenzione proposto da una Parte dovra' venire comunicato al Segretario Generale del Consiglio d'Europa e, per il tramite di quest' ultimo, venire inoltrato agli Stai Membri del Consiglio d'Europa, ad ogni altro stato firmatario, ad ogni Stato Parte, alla Comunita' Europea, ad ogni Stato invitato a firmare la presente Convenzione, in conformita' all'Art. 45, paragrafo 1, nonche' ad ogni Stato invitato ad aderire alla presente Convenzione, in conformita' all' Art. 46 paragrafo 1.
 
@@ -939,7 +935,7 @@ Articolo 43 - Relazioni con altri strumenti internazionali
 
 ## Capitolo XIII - Clausole finali
 
-#### art. 45
+### art. 45
 
 Articolo 45 - Firma ed entrata in vigore
 
@@ -951,13 +947,13 @@ Articolo 45 - Firma ed entrata in vigore
 
 4\. Qualora uno Stato contemplato nel paragrafo 1 o la Comunita' Europea esprimano successivamente il proprio accordo ad essere vincolati dalla Convenzione, quest'ultima entrera' in vigore il primo giorno del mese successivo alla scadenza di un periodo di tre mesi seguenti la data della notifica dello strumento di ratifica, d'accettazione o dell'approvazione.
 
-#### Articolo 46 - Adesione alla Convenzione
+### Articolo 46 - Adesione alla Convenzione
 
 1\. Dopo l'entrata in vigore della presente Convenzione, il Comitato dei Ministri del Consiglio d'Europa potra', previa consultazione delle Parti della Convenzione ed averne ottenuto il consenso unanime, invitare qualsiasi Stato non membro del Consiglio d'Europa e che non abbia partecipato all'elaborazione della Convenzione ad aderire alla presente Convenzione in virtu' di una decisione assunta a maggioranza, prevista nell'Art. 20.d dello Statuto del Consiglio d'Europa ed all'unanimita' dei voti dei rappresentanti degli Stati contraenti aventi diritto di seggio presso il Comitato dei Ministri.
 
 2\. Per tutti gli Stati aderenti, la Convenzione entrera' in vigore il primo giorno del mese successivo alla scadenza di un periodo di tre mesi seguenti la data della notifica dello strumento di adesione presso il Segretario Generale del Consiglio d'Europa.
 
-#### Articolo 47 - Applicazione territoriale
+### Articolo 47 - Applicazione territoriale
 
 1\. Tutti gli Stati aderenti o la Comunita' Europea possono, al momento della firma o al momento della notifica del proprio strumento di ratifica, di accettazione, di approvazione o di adesione, indicare il territorio ove la presente Convenzione verra' applicata.
 
@@ -965,17 +961,17 @@ Articolo 45 - Firma ed entrata in vigore
 
 3\. Qualsivoglia dichiarazione fatta in virtu' dei due paragrafi precedenti potra', per quanto attiene tutti i territori indicati da questa dichiarazione, venire ritirata mediante notifica indirizzata al Segretario Generale del Consiglio d'Europa. Detto ritiro avra' effetto il primo giorno del mese successivo alla scadenza di un periodo di tre mesi seguenti la data di ricezione della notifica da parte del Segretario Generale.
 
-#### Articolo 48 - Riserve
+### Articolo 48 - Riserve
 
 Non e' ammessa alcuna riserva alle disposizioni della presente Convenzione, eccetto che a quelle espressamente previste. Ogni riserva puo' venire ritirata in qualsiasi momento.
 
-#### Articolo 49 - Denuncia
+### Articolo 49 - Denuncia
 
 1\. Ognuna delle Parti ha facolta', in qualsiasi momento, di denunciare la presente Convenzione inviandone notifica al Segretario Generale del Consiglio d'Europa.
 
 2\. Detta denuncia avra' effetto il primo giorno del mese successivo alla scadenza di un periodo di tre mesi seguenti la data di ricezione della notifica da parte del Segretario Generale.
 
-#### Articolo 50 - Notifica
+### Articolo 50 - Notifica
 
 Il Segretario Generale del Consiglio d'Europa notifichera' agli Stati membri del Consiglio d'Europa, a tutti gli Stati firmatari, a tutti gli Stati Parte, alla Comunita' Europea, a tutti gli Stati invitati a firmare la presente Convenzione, in conformita' alle disposizioni dell'articolo 45, nonche' a tutti gli Stati invitati ad aderire alla Convenzione, in conformita' alle disposizioni dell'articolo 46:
 

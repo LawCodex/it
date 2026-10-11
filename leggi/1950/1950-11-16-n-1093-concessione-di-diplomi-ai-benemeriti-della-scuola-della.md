@@ -26,27 +26,27 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Possono essere conferiti diplomi alle persone ed agli enti che con opere di riconosciuto valore, con segnalati servigi o con cospicue elargizioni, abbiano acquistato titoli di particolare benemerenza nel campo dell'educazione, della scuola e nella diffusione ed elevazione della cultura.
 
-### Art. 2
+## Art. 2
 
 I diplomi di benemerenza di cui al precedente articolo sono di prima, di seconda e di terza classe, e danno facolta', a coloro cui saranno conferiti, di fregiarsi rispettivamente di medaglia d'oro, d'argento e di bronzo.
 
-### Art. 3
+## Art. 3
 
 Tali medaglie, del diametro di 32 millimetri, avranno nel "recto" il simbolo della Repubblica e del "verso" una corona di quercia racchiudente la leggenda "Ai benemeriti della cultura".
 
-### Art. 4
+## Art. 4
 
 Rimangono ferme le disposizioni degli articoli 384 e seguenti del regolamento generale sul servizi dell'istruzione elementare, approvato con regio decreto 26 aprile 1928, n. 1297, per quanto riguarda il conferimento dei diplomi di benemerenza per l'istruzione popolare; il numero dei diplomi di cui all'art. 387 e' raddoppiato per ogni categoria.
 
-### Art. 5
+## Art. 5
 
 Il conferimento dei diplomi sara' fatto per decreto Presidenziale, su proposta del Ministro per la pubblica istruzione.
 
-### Art. 6
+## Art. 6
 
 Il Ministro per la pubblica istruzione fara' le proposte, di cui all'articolo precedente, su parere di una Commissione da lui nominata e presieduta, e costituita:
 
@@ -64,21 +64,21 @@ In caso di assenza o di impedimento del Ministro, la Commissione sara' presiedut
 
 I membri della Commissione durano in carica due anni e possono essere confermati.
 
-### Art. 7
+## Art. 7
 
 La concessione dei diplomi avviene una volta all'anno, alla data del 2 giugno.
 
-### Art. 8
+## Art. 8
 
 Con apposito regolamento saranno stabilite le modalita' relative al conferimento dei diplomi. Nel frattempo rimane in vigore, in quanto compatibile con la presente legge, il regolamento approvato con regio decreto 15 febbraio 1940, n. 133.
 
-### Art. 9
+## Art. 9
 
 Sono abrogate la legge 22 giugno 1939, n. 975, e la legge 25 giugno 1940, n. 844.
 
 ## Disposizione transitoria
 
-### Art. 10
+## Art. 10
 
 Nella prima applicazione della presente legge, la Commissione di cui all'art. 6 e' costituita soltanto dalle persone di cui alle lettere a), b), e c dello stesso articolo.
 

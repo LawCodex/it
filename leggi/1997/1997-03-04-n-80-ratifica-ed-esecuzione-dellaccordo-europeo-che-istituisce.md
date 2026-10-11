@@ -25,21 +25,21 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo europeo che istituisce un'Associazione tra le Comunita' europee ed i loro Stati membri, da una parte, e la Repubblica di Lettonia, dall'altra, con cinque protocolli, diciotto allegati, atto finale e dichiarazioni, fatto a Lussemburgo il 12 giugno 1995.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 131 dell'accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 11 milioni annue a decorrere dal 1996, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, allo scopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -161,7 +161,7 @@ TENENDO CONTO della strategia di preparazione all'adesione adottata dal Consigli
 
 HANNO CONVENUTO QUANTO SEGUE:
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 1\. E' istituita un'associazione tra la Comunita' e i suoi Stati membri, da una parte, e la Lettonia, dall'altra.
 
@@ -183,13 +183,13 @@ HANNO CONVENUTO QUANTO SEGUE:
 
 ## TITOLO I - PRINCIPI GENERALI
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 1\. Il rispetto dei principi democratici e dei diritti dell'uomo sancito dall'Atto finale di Helsinki e dalla Carta di Parigi per una nuova Europa, nonche' i principi dell'economia di mercato, sono alla base delle politiche interna ed estera delle Parti e costituiscono elementi fondamentali del presente accordo.
 
 2\. Le Parti ritengono fondamentale, per la futura prosperita' e stabilita' della regione, che gli Stati baltici, mantengano e sviluppino la cooperazione fra di essi e moltiplichino gli sforzi per promuovere questo processo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 1\. L'associazione prevede un periodo transitorio, menzionato negli articoli specifici qui di seguito, che scadra' al piu' tardi il 31 dicembre 1999.
 
@@ -199,7 +199,7 @@ HANNO CONVENUTO QUANTO SEGUE:
 
 ## TITOLO II - DIALOGO POLITICO
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 L'Unione europea e la Lettonia sviluppano e intensificano il dialogo politico, che accompagna e consolida il ravvicinamento tra l'Unione europea e la Lettonia, sostiene i mutamenti politici ed economici in corso in questo paese e contribuisce a istituire nuovi legami di solidarieta' e nuove forme di cooperazione tra le Parti. Il dialogo politico favorisce in particolare:
 
@@ -211,11 +211,11 @@ L'Unione europea e la Lettonia sviluppano e intensificano il dialogo politico, c
 
 \- la sicurezza e la stabilita' in Europa.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Il dialogo politico si svolge a livello multilaterale, nelle forme e secondo le prassi concordate con i paesi associati dell'Europa centrale.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 1\. A livello ministeriale, il dialogo politico bilaterale avviene nell'ambito del Consiglio di associazione, cui spetta la responsabilita' generale di tutte le questioni che le Parti ritengono utile sottoporgli.
 
@@ -229,13 +229,13 @@ Il dialogo politico si svolge a livello multilaterale, nelle forme e secondo le 
 
 \- con qualsiasi altro mezzo che possa contribuire a consolidare, sviluppare e intensificare tale dialogo.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 A livello parlamentare, il dialogo politico si svolge nell'ambito del Comitato parlamentare dell'associazione tra le Comunita' europee, i loro Stati membri e la Repubblica di Lettonia (in appresso denominato "Comitato parlamentare").
 
 ## TITOLO III - LIBERA CIRCOLAZIONE DELLE MERCI
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 1\. Nel corso di un periodo transitorio della durata massima ai quattro anni a decorrere dall'entrata in vigore dell'accordo sul libero scambio e sulle questioni commerciali, avvenuta il 1 gennaio 1995, la Comunita' e la Lettonia istituiscono progressivamente una zona di libero scambio, secondo le disposizioni del presente accordo e in conformita' con le disposizioni del GATT e dell'OMC.
 
@@ -247,9 +247,9 @@ A livello parlamentare, il dialogo politico si svolge nell'ambito del Comitato p
 
 5\. La Comunita' e la Lettonia si comunicano a vicenda i rispettivi dazi di base.
 
-## CAPITOLO I - PRODOTTI INDUSTRIALI
+### CAPITOLO I - PRODOTTI INDUSTRIALI
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 1\. Le disposizioni del presente capitolo si applicano ai prodotti originari della Comunita' e della Lettonia elencati nei capitoli 25-97 della nomenclatura combinata, fatta eccezione per i prodotti elencati nell'allegato 1.
 
@@ -257,13 +257,13 @@ A livello parlamentare, il dialogo politico si svolge nell'ambito del Comitato p
 
 3\. Gli scambi tra le Parti dei prodotti contemplati dal trattato che istituisce la Comunita' europea dell'energia atomica avvengono in conformita' delle disposizioni di detto trattato.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 1\. I dazi doganali all'importazione applicabili nella Comunita' ai prodotti originari della Lettonia sono aboliti il 1 gennaio 1995.
 
 2\. Le restrizioni quantitative all'importazione nella Comunita' e le misure di effetto equivalente sono abolite il 1 gennaio 1995 per i prodotti originari della Lettonia.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 1\. I dazi doganali all'importazione applicabili in Lettonia ai prodotti originari della Comunita' diversi da quelli elencati negli allegati II e III sono aboliti il 1 gennaio 1995.
 
@@ -281,15 +281,15 @@ A livello parlamentare, il dialogo politico si svolge nell'ambito del Comitato p
 
 4\. Le restrizioni quantitative all'importazione in Lettonia di prodotti originari della Comunita' e le misure d'effetto equivalente sono abolite il 1 gennaio 1995.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Le disposizioni relative all'abolizione dei dazi doganali all'importazione si applicano anche ai dazi doganali di carattere fiscale.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Il 1 gennaio 1995, vengono aboliti tutti gli oneri di effetto equivalente a dazi doganali all'importazione negli scambi tra la Comunita' e la Lettonia.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 1\. Il 1 gennaio 1995, la Comunita' e la Lettonia aboliscono i dazi doganali all'esportazione e gli oneri di effetto equivalente, fatta eccezione per quelli elencati nell'allegato IV, che saranno aboliti dalla Lettonia entro e non oltre la fine del 1998.
 
@@ -297,37 +297,37 @@ Il 1 gennaio 1995, vengono aboliti tutti gli oneri di effetto equivalente a dazi
 
 3\. Le restrizioni quantitative all'esportazione nella Comunita' e tutte le misure di effetto equivalente sono abolite dalla Lettonia il 1 gennaio 1995.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Ciascuna delle Parti si dichiara disposta a ridurre i suoi dazi doganali sugli scambi con l'altra Parte piu' rapidamente di quanto previsto agli articoli 10 e 11 qualora lo permettano le sue condizioni economiche generali e la situazione del settore economico interessato.
 
 Il Consiglio di associazione puo' formulare raccomandazioni in tal senso.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 1\. I prodotti tessili di origine lettone elencati nell'allegato V del presente accordo beneficiano di una sospensione dei dazi doganali all'importazione nella Comunita' secondo le modalita' indicate nel medesimo allegato, che puo' essere riveduto previa decisione del Consiglio di associazione secondo le procedure di cui all'articolo 112.
 
 2\. Il protocollo n. 1 specifica le altre disposizioni applicabili ai prodotti tessili indicati nel protocollo stesso.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 1\. Le disposizioni del presente capitolo non ostano al mantenimento da parte della Comunita' di una componente agricola nei dazi applicabili ai prodotti elencati nell'allegato VI originari della Lettonia.
 
 2\. Le disposizioni del presente capitolo non ostano all'introduzione da parte della Lettonia di una componente agricola nei dazi applicabili ai prodotti elencati nell'allegato VI originari della Comunita'.
 
-## CAPITOLO II - AGRICOLTURA
+### CAPITOLO II - AGRICOLTURA
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 1\. Le disposizioni del presente capitolo si applicano ai prodotti agricoli originari della Comunita' e della Lettonia.
 
 2\. Per "prodotti agricoli" si intendono i prodotti elencati nei capitoli 1-24 della nomenclatura combinata e i prodotti elencati nell'allegato I, fatta pero' eccezione per i prodotti della pesca, definiti ai sensi dell'articolo 22, paragrafo 2.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 Il protocollo n. 2 specifica il regime commerciale applicabile ai prodotti agricoli trasformati ivi elencati.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 1\. A decorrere dal 1 gennaio 1995, cessano di applicarsi restrizioni quantitative alle importazioni nella Comunita' di prodotti agricoli originari della Lettonia e alle importazioni in Lettonia di prodotti agricoli originari della Comunita'.
 
@@ -337,31 +337,31 @@ Il protocollo n. 2 specifica il regime commerciale applicabile ai prodotti agric
 
 4\. Tenendo conto del volume dei loro scambi di prodotti agricoli, della loro appartenenza a settori particolarmente sensibili, delle regole della politica agraria comune della Comunita', delle regole della politica agraria della Lettonia, del ruolo dell'agricoltura nell'economia lettone, del potenziale di produzione e di esportazione dei suoi settori e mercati tradizionali, le Comunita' e la Lettonia esaminano in sede di Consiglio di associazione, prodotto per prodotto e in modo ordinato e reciproco, le possibilita' di riconoscersi a vicenda ulteriori concessioni.
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 Fatte salve altre disposizioni del presente accordo, e in particolare l'articolo 30, qualora, dato il carattere particolarmente sensibile dei mercati agricoli, le importazioni di prodotti originari di una delle Parti soggette alle concessioni riconosciute ai sensi dell'articolo 20 provochino gravi perturbazioni sui mercati dell'altra Parte, le due Parti avviano immediatamente consultazioni per trovare una soluzione adeguata. In attesa di tale soluzione, la Parte interessata puo' adottare le misure che ritiene necessarie.
 
-## CAPITOLO III - PESCA
+### CAPITOLO III - PESCA
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 1\. Le disposizioni del presente capitolo si applicano ai prodotti della pesca originari della Comunita' e della Lettonia.
 
 2\. Per "prodotti della pesca" si intendono i prodotti elencati nel capitolo 3 della nomenclatura combinata e i gruppi di prodotti di cui ai codici 0511 91 10, 0511 91 90, 1604, 1605, 1902 20 10 e 2301 20 00 della nomenclatura combinata.
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 1\. La Comunita' e la Lettonia si accordano reciprocamente le concessioni di cui agli allegati XII e XIII alle condizioni ivi specificate.
 
 2\. Le disposizioni degli articoli 20, paragrafo 4, e 21 si applicano, mutatis mutandis, ai prodotti della pesca.
 
-## CAPITOLO IV - DISPOSIZIONI COMUNI
+### CAPITOLO IV - DISPOSIZIONI COMUNI
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 Le disposizioni del presente titolo si applicano agli scambi di tutti i prodotti originari di entrambe le Parti salvo quanto altrimenti disposto nel presente capitolo o nei protocolli n. 1 e 2.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 1\. A decorrere dal 1 gennaio 1995, negli scambi tra la Comunita' e la Lettonia:
 
@@ -371,19 +371,19 @@ Le disposizioni del presente titolo si applicano agli scambi di tutti i prodotti
 
 2\. Fatte salve le concessioni riconosciute ai sensi dell'articolo 20, le disposizioni del paragrafo 1 del presente articolo non limitano in alcun modo il perseguimento delle rispettive politiche nei settori agricolo e della pesca della Lettonia e della Comunita' o l'adozione di misure nel quadro di tali politiche.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 1\. Le Parti si astengono dall'introdurre qualsiasi misura o prassi di natura fiscale interna che istituisca, direttamente o indirettamente, discriminazioni tra i prodotti di una Parte e i prodotti simili originari del territorio dell'altra Parte.
 
 2\. I prodotti esportati nel territorio di una delle Parti non possono beneficiare di un rimborso delle imposte indirette interne superiore all'ammontare delle imposte dirette o indirette cui sono stati soggetti.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 1\. Il presente accordo non osta al mantenimento o all'istituzione di unioni doganali, zone di libero scambio o accordi sugli scambi transfrontalieri se non nella misura in cui essi alterano le condizioni commerciali previste dal presente accordo.
 
 2\. Nell'ambito del Consiglio di associazione si tengono consultazioni tra le Parti in merito agli accordi istitutivi delle suddette unioni doganali o zone di libero scambio e, se del caso, in merito ad altre importanti questioni relative alle rispettive politiche commerciali nei confronti dei paesi terzi. Nel caso in cui un paese terzo entri a far parte della Comunita', si tengono consultazioni di questo tipo per tener conto dei reciproci interessi della Comunita' e della Lettonia sanciti nei presente accordo.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 La Lettonia puo' adottare misure eccezionali di durata limitata in deroga alle disposizioni dell'articolo 11 e dell'articolo 25, paragrafo 1, primo trattino sotto forma di dazi doganali maggiorati.
 
@@ -399,11 +399,11 @@ Nessun prodotto puo' essere assoggettato a una misura di questo tipo qualora sia
 
 La Lettonia informa il Consiglio di associazione di ogni misura eccezionale che intenda adottare e, a richiesta della Comunita', si tengono consultazioni nell'ambito del Consiglio di associazione sulle suddette misure e sui settori di applicazione prima di attuarle. In occasione dell'adozione di tali misure, la Lettonia fornisce al Consiglio di associazione un calendario con le date di eliminazione dei dazi doganali introdotti ai sensi del presente articolo. Detto calendario prevede la graduale eliminazione di tali dazi iniziando al piu' tardi dopo due anni dalla loro introduzione, a tassi annuali uniformi. Il Consiglio di associazione puo' decidere un calendario diverso.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 Qualora una delle Parti ritenga che negli scambi con l'altra Parte stiano verificandosi pratiche di dumping, nell'accezione dell'articolo VI del GATT, essa puo' adottare misure adeguate nei confronti di tali pratiche in conformita' dell'accordo relativo all'applicazione dell'articolo VI del GATT, della relativa legislazione interna e delle condizioni e procedure di cui all'articolo 33.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 Qualora un prodotto venga importato in quantita' maggiorate e in condizioni tali da provocare o minacciare di provocare:
 
@@ -413,7 +413,7 @@ Qualora un prodotto venga importato in quantita' maggiorate e in condizioni tali
 
 la Parte interessata, sia essa la Comunita' o la Lettonia, puo' adottare le misure del caso alle condizioni e secondo le procedure specificate nell'articolo 33.
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 Qualora l'osservanza delle disposizioni degli articoli 14 e 25 porti a
 
@@ -423,11 +423,11 @@ ii) una penuria grave, o la minaccia di penuria grave, di un prodotto essenziale
 
 e qualora le circostanze di cui sopra diano luogo, o possano probabilmente dar luogo a gravi difficolta' per la Parte esportatrice, quest'ultima puo' adottare le misure del caso alle condizioni e secondo le procedure specificate nell'articolo 33. Dette misure hanno carattere non discriminatorio e sono revocate quando la situazione non ne giustifica piu' il mantenimento.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 Gli Stati membri dell'Unione europea (in appresso denominati "gli Stati membri") e la Lettonia procedono ad un progressivo riordinamento dei monopoli nazionali che presentano un carattere commerciale in modo che venga esclusa, alla fine de 1998, qualsiasi discriminazione fra i cittadini degli Stati membri per quanto riguarda le condizioni relative all'approvvigionamento e agli sbocchi. Il Consiglio di associazione e' informato delle misure adottate a tal fine.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 1\. Nel caso in cui la Comunita' o la Lettonia assoggettino le importazioni di prodotti tali da provocare le difficolta' di cui all'articolo 30 a una procedura amministrativa finalizzata a fornire tempestive informazioni sull'andamento dei flussi commerciali, esse ne informano l'altra Parte.
 
@@ -451,25 +451,23 @@ Il Consiglio di associazione puo' adottare qualsiasi decisione necessaria per po
 
 d) Qualora circostanze eccezionali che richiedono un intervento immediato rendano impossibile un'informazione o, a seconda dei casi, un esame preventivo, la Parte interessata, sia essa la Comunita' o la Lettonia, puo' applicare immediatamente, nelle situazioni specificate negli articoli 29, 30 e 31, le misure precauzionali strettamente necessarie per far fronte alla situazione.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 Il protocollo n. 3 stabilisce le norme di origine per l'applicazione delle preferenze tariffarie previste nel presente accordo nonche' i metodi di cooperazione amministrativa.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 L'accordo lascia impregiudicati i divieti o restrizioni all'importazione, all'esportazione o al transito di merci giustificati da motivi di moralita' pubblica, di ordine pubblico o di pubblica sicurezza, di tutela della salute e della vita delle persone o degli animali o di preservazione di vegetali di protezione del patrimonio artistico, storico o archeologico, o di tutela della proprieta' intellettuale, industriale e commerciale o delle norme relative all'oro e all'argento. Tuttavia tali divieti o restrizioni non devono costituire un mezzo di discriminazione arbitraria ne' una restrizione dissimulata al commercio tra le parti.
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 Il protocollo n. 4, valido fino al 31 dicembre 1995, riporta le specifiche disposizioni da applicare agli scambi tra la Lettonia, da una parte, e la Spagna e il Portogallo, dall'atra.
 
 ## TITOLO IV - CIRCOLAZIONE DEI LAVORATORI, STABILIMENTO, PRESTAZIONE DI SERVIZI
 
-### CAPITOLO I
+### CAPITOLO I - CIRCOLAZIONE DEI LAVORATORI
 
-#### CIRCOLAZIONE DEI LAVORATORI
-
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 1\. Nel rispetto delle condizioni e modalita' applicabili in ciascuno Stato membro:
 
@@ -479,7 +477,7 @@ Il protocollo n. 4, valido fino al 31 dicembre 1995, riporta le specifiche dispo
 
 2\. Nel rispetto delle condizioni e modalita' applicabili nel suo territorio, la Lettonia concede il trattamento di cui al paragrafo 1 ai lavoratori cittadini di uno Stato membro legalmente occupati sul suo territorio, nonche' ai loro coniugi e figli legalmente residenti in tale territorio.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 1\. Al fine di coordinare i sistemi di sicurezza sociale per i lavoratori di nazionalita' lettone legalmente occupati nel territorio di uno Stato membro e per i loro familiari legalmente residenti in tale territorio, e nel rispetto delle condizioni e modalita' applicabili in ciascuno Stato membro,
 
@@ -491,17 +489,17 @@ Il protocollo n. 4, valido fino al 31 dicembre 1995, riporta le specifiche dispo
 
 2\. La Lettonia concede ai lavoratori cittadini di uno Stato membro legalmente occupati sul suo territorio e ai loro familiari legalmente residenti sul suo territorio un trattamento analogo a quello specificato al secondo e al terzo trattino del paragrafo 1.
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 1\. Il Consiglio di associazione adotta con apposita decisione le disposizioni necessarie per il conseguimento dell'obiettivo di cui all'articolo 38.
 
 2\. Il Consiglio di associazione adotta con apposita decisione norme particolareggiate in materia di collaborazione amministrativa che diano le necessarie garanzie di gestione e di controllo per l'applicazione delle disposizioni di cui al paragrafo 1.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 Le disposizioni adottate dal Consiglio di associazione in conformita' dell'articolo 39 non modificano eventuali diritti o obblighi derivanti da accordi bilaterali tra la Lettonia e gli Stati membri qualora tali accordi prevedano un trattamento piu' favorevole per i cittadini della Lettonia o degli Stati membri.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 1\. Tenendo conto della situazione del mercato del lavoro nello Stato membro in questione, nel rispetto della sua legislazione e delle regole in vigore in quello Stato membro in materia di mobilita' dei lavoratori:
 
@@ -511,17 +509,17 @@ Le disposizioni adottate dal Consiglio di associazione in conformita' dell'artic
 
 2\. Il Consiglio di associazione valuta l'opportunita' di concedere ulteriori facilitazioni, ivi comprese le possibilita' di accesso alla formazione professionale, in conformita' con le norme e procedure in vigore negli Stati membri e tenendo conto della situazione del mercato del lavoro degli Stati membri e della Comunita'.
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 A decorrere dalla fine del periodo transitorio o anche prima, se la situazione sociale ed economica della Lettonia sara' stata largamente allineata a quella degli Stati membri e se lo consentira' la situazione occupazionale nella Comunita', il Consiglio di associazione esaminera' altri modi per favorire la circolazione dei lavoratori e formulera' raccomandazioni in tal senso.
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 Al fine di agevolare la ristrutturazione delle risorse di manodopera derivante dalla ristrutturazione economica in atto in Lettonia, la Comunita' fornisce assistenza tecnica per l'istituzione di un adeguato sistema di sicurezza sociale in Lettonia nei modi specificati all'articolo 92 del presente accordo.
 
-## CAPITOLO II - STABILIMENTO
+### CAPITOLO II - STABILIMENTO
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 1\. A partire dall'entrata in vigore del presente accordo, la Comunita' e gli Stati membri concedono, fatta eccezione per i settori specificati nell'allegato XIV:
 
@@ -541,13 +539,13 @@ Una volta scaduto il periodo transitorio di cui all'articolo 3, il Consiglio di 
 
 5\. Il trattamento di cui ai paragrafi 1 e 2 si applica allo stabilimento e all'attivita' dei cittadini sin dalla fine del periodo transitorio di cui all'articolo 3.
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 1\. Le disposizioni del presente capitolo non si applicano ai servizi di trasporto aereo, fluviale e marittimo.
 
 2\. Il Consiglio di associazione puo' formulare raccomandazioni per migliorare le condizioni di stabilimento e di attivita' nei settori di cui al paragrafo 1.
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 Ai fini del presente accordo,
 
@@ -577,7 +575,7 @@ g) Per "cittadino della Comunita'" o "cittadino della Lettonia" si intende, risp
 
 h) Per quanto riguarda il trasporto marittimo internazionale, comprese le operazioni intermodali che implicano una tratta marittima, beneficiano delle disposizioni dei capitoli II e III i cittadini degli Stati membri o della Lettonia stabiliti al di fuori della Comunita' e della Lettonia e le agenzie marittime stabilite al di fuori della Comunita' o della Lettonia e controllate da cittadini di uno Stato membro o della Lettonia, se le loro navi sono registrate in detto Stato membro o in Lettonia in conformita' delle rispettive legislazioni.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 1\. Fatte salve le disposizioni dell'articolo 43, fatta eccezione per i servizi finanziari di cui all'allegato XVI, ciascuna Parte puo' disciplinare lo stabilimento e l'attivita' delle societa' e dei cittadini sul suo territorio, sempreche' cosi facendo non discrimini le societa' e i cittadini della controparte rispetto alle sue societa' e ai suoi cittadini.
 
@@ -585,13 +583,13 @@ h) Per quanto riguarda il trasporto marittimo internazionale, comprese le operaz
 
 3\. Nessuna disposizione dell'accordo impone a una delle Parti di rivelare informazioni connesse all'attivita' e alla contabilita' di singoli clienti o informazioni riservate in possesso di organismi pubblici.
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 1\. Le disposizioni degli articoli 44 e 47 non impediscono a una delle Parti di applicare regole particolari, per lo stabilimento e l'attivita' sul suo territorio di filiali di societa' dell'altra Parte al di fuori del territorio della prima, giustificate da differenze giuridiche o tecniche tra dette filiali e quelle di societa' stabilite sul suo territorio oppure, per i servizi finanziari, da motivi di prudenza.
 
 2\. La differenza di trattamento si limita a quanto strettamente necessario in seguito a tali differenze giuridiche o tecniche oppure, per i servizi finanziari, per motivi di prudenza.
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 1\. Una "societa' comunitaria" o una "societa' lettone" stabilita, rispettivamente, sul territorio della Lettonia o della Comunita' ha il diritto di assumere o di far assumere da una delle sue consociate o filiali, conformemente alla legislazione in vigore nel paese di stabilimento, sul territorio della Lettonia e della Comunita', cittadini degli Stati membri e della Lettonia, purche' si tratti di quadri intermedi ai sensi del paragrafo 2 del presente articolo impiegati esclusivamente da societa', consociate o filiali.
 
@@ -619,11 +617,11 @@ c) Per "persona trasferita all'interno della societa'" si intende una persona fi
 
 \- la sede principale della societa' si trovi al di fuori della Comunita' e della Lettonia e che non esistano altri rappresentanti, uffici, filiali o consociate della societa' nello Stato membro della Comunita' o in Lettonia.
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 Al fine di rendere piu' agevole per i cittadini della Comunita' e della Lettonia l'avvio e lo svolgimento di attivita' professionali regolamentate in Lettonia e nella Comunita', il Consiglio di associazione esamina le iniziative da prendere ai fini del reciproco riconoscimento delle qualifiche. Il Consiglio di associazione puo' prendere tutte le misure necessarie a tal fine.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 Durante il periodo transitorio di cui all'articolo 3, la Lettonia puo' prendere misure in deroga alle disposizioni del presente capitolo per quanto riguarda lo stabilimento di societa' e cittadini comunitari qualora determinate industrie:
 
@@ -649,9 +647,9 @@ Prima di introdurre le suddette misure, la Lettonia consulta il Consiglio di ass
 
 Al termine del periodo transitorio di cui all'articolo 3, la Lettonia puo' introdurre misure di questo tipo solo con l'autorizzazione del Consiglio di associazione e alle condizioni stabilite da quest'ultimo.
 
-## CAPITOLO III - PRESTAZIONE DI SERVIZI
+### CAPITOLO III - PRESTAZIONE DI SERVIZI
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 1\. Le Parti si impegnano, in conformita' delle seguenti disposizioni, a prendere i provvedimenti necessari per consentire progressivamente la prestazione di servizi da parte di societa' o di cittadini comunitari o lettoni stabiliti in una Parte diversa da quella della persona alla quale i servizi sono destinati.
 
@@ -659,13 +657,13 @@ Al termine del periodo transitorio di cui all'articolo 3, la Lettonia puo' intro
 
 3\. Entro e non oltre otto anni dall'entrata in vigore del presente accordo, il Consiglio di associazione prende le misure necessarie per la progressiva attuazione delle disposizioni del paragrafo 1. Si tiene conto dei progressi compiuti dalle Parti per quanto riguarda il ravvicinamento delle loro leggi.
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 1\. Le Parti si astengono da misure o azioni che rendano le condizioni per la prestazione di servizi da parte di cittadini o societa' della Comunita' e della Lettonia stabiliti in una Parte diversa da quella del destinatario dei servizi nettamente piu' restrittive rispetto alla situazione esistente il giorno precedente all'entrata in vigore dell'accordo.
 
 2\. Se una Parte ritiene che le misure introdotte dall'altra Parte dopo la firma dell'accordo rendano la situazione, per quanto riguarda la prestazione di servizi, nettamente piu' restrittiva rispetto a quella esistente al momento della firma dell'accordo, puo' chiedere all'altra Parte di avviare consultazioni.
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 1\. Per quanto riguarda i trasporti marittimi internazionali, le Parti si impegnano ad applicare efficacemente il principio dell'accesso senza restrizioni al mercato e ai traffici su base commerciale.
 
@@ -697,23 +695,23 @@ Ogni Parte concede, fra l'altro, un trattamento non meno favorevole di quello ri
 
 8\. Parallelamente al comune progresso nel conseguimento degli obiettivi del presente capitolo, il Consiglio di associazione esamina in che modo si possano creare le condizioni necessarie per migliorare la libera prestazione dei servizi di trasporto stradale, ferroviario, fluviale e aereo.
 
-## CAPITOLO IV - DISPOSIZIONI GENERALI
+### CAPITOLO IV - DISPOSIZIONI GENERALI
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 1\. L'applicazione delle disposizioni del presente titolo e' soggetta alle limitazioni giustificate da motivi di ordine pubblico, di pubblica sicurezza o di pubblica sanita'.
 
 2\. Dette disposizioni non si applicano alle attivita' svolte sul territorio di una Parte e connesse, anche occasionalmente, all'esercizio dei pubblici poteri.
 
-##### ARTICOLO 56
+#### ARTICOLO 56
 
 Ai fini del presente titolo, nessuna disposizione dell'accordo impedisce alle Parti di applicare le rispettive leggi e disposizioni in materia di ingresso e soggiorno, lavoro, condizioni di lavoro e stabilimento delle persone fisiche, nonche' di prestazione dei servizi, a condizione che, cosi' facendo, esse non le applichino in modo da vanificare o compromettere i benefici spettanti all'una o all'altra in base ad una specifica disposizione dell'accordo.
 
-##### ARTICOLO 57
+#### ARTICOLO 57
 
 Le societa' controllate da e di proprieta' esclusiva di societa' o cittadini della Lettonia oppure di proprieta' comune di societa' o cittadini della Comunita' beneficiano anch'esse delle disposizioni dei capitoli II, III e IV del presente titolo.
 
-##### ARTICOLO 58
+#### ARTICOLO 58
 
 1\. Il trattamento della nazione piu' favorita concesso a norma del presente titolo non si applica alle agevolazioni fiscali gia' concesse o che le Parti concederanno in futuro in base ad accordi volti a evitare la doppia imposizione o altre intese in materia fiscale.
 
@@ -721,25 +719,23 @@ Le societa' controllate da e di proprieta' esclusiva di societa' o cittadini del
 
 3\. Nessuna disposizione del presente titolo vieta agli Stati membri o alla Lettonia di fare distinzioni, nell'applicare le pertinenti disposizioni della loro legislazione tributaria, fra contribuenti la cui situazione non e' identica, segnatamente per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 59
+#### ARTICOLO 59
 
 Le Parti adeguano progressivamente le disposizioni del presente titolo. Nel formulare raccomandazioni in tal senso, il Consiglio di associazione tiene conto dei rispettivi obblighi delle Parti a norma dell'accordo generale sul commercio dei servizi (GATS), in particolare l'articolo V.
 
-##### ARTICOLO 60
+#### ARTICOLO 60
 
 Le disposizioni del presente accordo non vietano alle Parti di prendere le misure necessarie per impedire l'elusione, tramite le disposizioni del presente accordo, delle disposizioni relative e all'accesso dei paesi terzi ai loro mercati.
 
 ## TITOLO V - PAGAMENTI, CAPITALI, CONCORRENZA E ALTRE DISPOSIZIONI DI CARATTERE ECONOMICO, RAVVICINAMENTO DELLE LEGISLAZIONI
 
-### CAPITOLO I
+### CAPITOLO I - PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALE
 
-#### PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALE
-
-##### ARTICOLO 61
+#### ARTICOLO 61
 
 Le Parti si impegnano ad autorizzare, in moneta liberamente convertibile secondo le disposizioni dell'articolo VIII dello statuto del Fondo monetario internazionale, qualsiasi pagamento e trasferimento sul conto corrente della bilancia dei pagamenti tra residenti della Comunita' e della Lettonia.
 
-##### ARTICOLO 62
+#### ARTICOLO 62
 
 1\. Per quanto riguarda le operazioni sul conto capitale della bilancia dei pagamenti, a decorrere dall'entrata in vigore dell'accordo gli Stati membri e la Lettonia garantiscono la libera circolazione dei capitali relativi ad investimenti diretti effettuati in societa' costituite in conformita' delle leggi del paese ospitante e agli investimenti effettuati in conformita' delle disposizioni del titolo IV, capitolo II, nonche' la liquidazione o il rimpatrio di detti investimenti e dei profitti da essi derivanti.
 
@@ -753,15 +749,15 @@ Cio' si applica anche alla libera circolazione dei capitali relativi ai crediti 
 
 4\. Le Parti si consultano per facilitare la circolazione dei capitali tra la Comunita' e la Lettonia al fine di promuovere gli obiettivi del presente accordo.
 
-##### ARTICOLO 63
+#### ARTICOLO 63
 
 1\. Le Parti prendono misure atte a consentire la creazione delle condizioni necessarie per l'ulteriore graduale applicazione delle norme comunitarie in materia di libera circolazione dei capitali.
 
 2\. Il Consiglio di associazione esamina in che modo rendere possibile la piena applicazione delle norme comunitarie in materia di circolazione dei capitali.
 
-## CAPITOLO II - CONCORRENZA E ALTRE DISPOSIZIONI DI CARATTERE ECONOMICO
+### CAPITOLO II - CONCORRENZA E ALTRE DISPOSIZIONI DI CARATTERE ECONOMICO
 
-##### ARTICOLO 64
+#### ARTICOLO 64
 
 1\. Sono incompatibili con il corretto funzionamento del presente accordo, nella misura in cui possano essere pregiudizievoli al commercio tra la Comunita' e la Lettonia:
 
@@ -807,7 +803,7 @@ Nel caso di pratiche incompatibili ai sensi del paragrafo 1, iii) del presente a
 
 7\. Fatte salve eventuali disposizioni contrarie adottate a norma del paragrafo 3, le Parti si scambiano informazioni tenendo conto delle limitazioni imposte dal rispetto del segreto professionale.
 
-##### ARTICOLO 65
+#### ARTICOLO 65
 
 1\. Le Parti si adoperano per evitare l'imposizione di misure restrittive, ivi comprese le misure relative alle importazioni, a fini di bilancia dei pagamenti. In caso di imposizione di tali misure, la Parte che le ha introdotte presenta appena possibile all'altra Parte il calendario relativo alla loro abolizione.
 
@@ -815,11 +811,11 @@ Nel caso di pratiche incompatibili ai sensi del paragrafo 1, iii) del presente a
 
 3\. Le eventuali misure restrittive non si applicano ai trasferimenti relativi a investimenti e, in particolare, al rimpatrio degli importi investiti o reinvestiti e di qualsiasi tipo di reddito da essi derivante.
 
-##### ARTICOLO 66
+#### ARTICOLO 66
 
 Per quanto riguarda le imprese pubbliche e le imprese cui sono stati riconosciuti diritti speciali o esclusivi, il Consiglio di associazione garantisce che, a decorrere dal 1 gennaio 1998, si applichino i principi del trattato che istituisce la Comunita' europea, in particolare l'articolo 90, e i pertinenti principi del trattato CECA, segnatamente la liberta' decisionale per gli imprenditori.
 
-##### ARTICOLO 67
+#### ARTICOLO 67
 
 1\. A norma del presente articolo e dell'allegato XVII, le Parti confermano l'importanza che attribuiscono ad un'adeguata ed effettiva tutela e applicazione dei diritti di proprieta' intellettuale, industriale e commerciale.
 
@@ -829,7 +825,7 @@ Per quanto riguarda le imprese pubbliche e le imprese cui sono stati riconosciut
 
 4\. In caso di problemi in materia di proprieta' intellettuale, industriale e commerciale tali da falsare le condizioni del commercio, si tengono urgentemente consultazioni su richiesta di una delle Parti per trovare soluzioni reciprocamente soddisfacenti.
 
-##### ARTICOLO 68
+#### ARTICOLO 68
 
 1\. Le Parti sono favorevoli ad una maggiore apertura dell'aggiudicazione degli appalti pubblici in base ai principi di non discriminazione e di reciprocita', segnatamente nell'ambito del GATT e dell'OMC.
 
@@ -845,19 +841,19 @@ Il Consiglio di associazione esamina periodicamente la possibilita' per la Letto
 
 3\. Per quanto riguarda lo stabilimento, l'attivita' e la fornitura di servizi tra la Comunita' e la Lettonia, nonche' l'occupazione e la circolazione della manodopera per l'esecuzione dei contratti d'appalto pubblici, si applicano le disposizioni degli articoli 37-60 del presente accordo.
 
-## CAPITOLO III - RAVVICINAMENTO DELLE LEGISLAZIONI
+### CAPITOLO III - RAVVICINAMENTO DELLE LEGISLAZIONI
 
-##### ARTICOLO 69
+#### ARTICOLO 69
 
 Le Parti riconoscono che un importante requisito per l'integrazione economica della Lettonia nella Comunita' e' il ravvicinamento della legislazione presente e futura della Lettonia a quella della Comunita'. La Lettonia deve pertanto adoperarsi per rendere la propria legislazione progressivamente compatibile con quella comunitaria.
 
-##### ARTICOLO 70
+#### ARTICOLO 70
 
 Il ravvicinamento delle legislazioni si estende in particolare ai seguenti settori: legislazione doganale, diritto societario, legislazione bancaria, conti societari e imposizione delle imprese, proprieta' intellettuale, servizi finanziari, regole di concorrenza, tutela della salute e della vita di esseri umani, animali e piante, tutela dei lavoratori sul posto di lavoro, tutela dei consumatori, imposizione indiretta, norme e standard tecnici, legislazione e normative in campo nucleare, trasporti, telecomunicazioni, ambiente, commesse pubbliche, statistiche, affidabilita' dei prodotti, diritto del lavoro e degli imprenditori.
 
 Fra questi settori, si dovrebbe progredire rapidamente nel ravvicinamento delle leggi riguardanti, in particolare, il mercato interno, la concorrenza, la tutela dei lavoratori, la tutela dell'ambiente e la tutela dei consumatori.
 
-##### ARTICOLO 71
+#### ARTICOLO 71
 
 La Comunita' fornisce alla Lettonia l'assistenza tecnica necessaria per attuare queste misure, che possono comprendere, tra l'altro:
 
@@ -877,7 +873,7 @@ La Comunita' fornisce alla Lettonia l'assistenza tecnica necessaria per attuare 
 
 ## TITOLO VI - COOPERAZIONE ECONOMICA
 
-##### ARTICOLO 72
+#### ARTICOLO 72
 
 1\. La Comunita' e la Lettonia sviluppano ulteriormente la cooperazione economica onde contribuire allo sviluppo e al potenziale di crescita della Lettonia, rafforzando i legami economici esistenti sulla base piu' ampia possibile, a vantaggio di entrambe le Parti.
 
@@ -887,7 +883,7 @@ La Comunita' fornisce alla Lettonia l'assistenza tecnica necessaria per attuare 
 
 4\. Infine, si rivolgera' particolare attenzione alle misure atte a promuovere la cooperazione tra i tre Stati baltici, con gli altri paesi dell'Europa centrale e orientale nonche' con gli altri paesi situati sulle rive del Mar Baltico per uno sviluppo integrato della regione.
 
-##### ARTICOLO 73
+#### ARTICOLO 73
 
 COOPERAZIONE INDUSTRIALE
 
@@ -903,7 +899,7 @@ COOPERAZIONE INDUSTRIALE
 
 2\. Le azioni di cooperazione industriale tengono conto delle priorita' stabilite dalla Lettonia, puntano in particolare a costituire un contesto adeguato per le imprese, a migliorare il know- how in materia di gestione e a promuovere la trasparenza in materia di mercati e di condizioni per l'attivita' delle imprese e comprendono, se del caso, assistenza tecnica.
 
-##### ARTICOLO 74
+#### ARTICOLO 74
 
 PROMOZIONE E TUTELA DEGLI INVESTIMENTI
 
@@ -923,7 +919,7 @@ La Comunita' potrebbe fornire assistenza nella fase di avviamento agli organismi
 
 3\. La Lettonia si atterra' alle norme sulle misure relative agli investimenti che incidono sugli scambi commerciali (TRIMS).
 
-##### ARTICOLO 75
+#### ARTICOLO 75
 
 PICCOLE E MEDIE IMPRESE
 
@@ -939,7 +935,7 @@ PICCOLE E MEDIE IMPRESE
 
 3\. Sara' prevista un'assistenza tecnica, segnatamente ai fini di un adeguato sostegno istituzionale alle PMI a livello nazionale e regionale per quanto riguarda i servizi finanziari, la formazione, le consulenze, i servizi tecnologici e la commercializzazione.
 
-##### ARTICOLO 76
+#### ARTICOLO 76
 
 NORME IN CAMPO AGRICOLO E INDUSTRIALE E VALUTAZIONE DELLA CONFORMITA' 1. Le Parti cooperano, se del caso con l'assistenza tecnica della Comunita', al fine di ridurre le differenze a livello di norme tecniche e di procedure di valutazione della conformita'.
 
@@ -953,7 +949,7 @@ NORME IN CAMPO AGRICOLO E INDUSTRIALE E VALUTAZIONE DELLA CONFORMITA' 1. Le Part
 
 3\. La Comunita' fornisce alla Lettonia l'assistenza tecnica necessaria, segnatamente organizzando programmi di formazione per gli esperti lettoni in materia di standardizzazione, metrologia, certificazione e sistemi di qualita' nei paesi europei.
 
-##### ARTICOLO 77
+#### ARTICOLO 77
 
 COOPERAZIONE SCIENTIFICA E TECNOLOGICA
 
@@ -977,7 +973,7 @@ Si fornisce la necessaria assistenza tecnica.
 
 3\. La cooperazione prevista dal programma quadro comunitario nel settore della ricerca e dello sviluppo tecnologico viene eseguita in base ad intese specifiche da negoziare e da concludere conformemente alle procedure giuridiche di ciascuna delle Parti.
 
-##### ARTICOLO 78
+#### ARTICOLO 78
 
 ISTRUZIONE E FORMAZIONE
 
@@ -1005,7 +1001,7 @@ ISTRUZIONE E FORMAZIONE
 
 \- fornitura di materiale e attrezzature per la formazione.
 
-##### ARTICOLO 79
+#### ARTICOLO 79
 
 AGRICOLTURA E SETTORE AGROINDUSTRIALE
 
@@ -1043,7 +1039,7 @@ Si cerchera' in particolare di:
 
 2\. La Comunita' fornisce l'assistenza tecnica necessaria per conseguire questi obiettivi.
 
-##### ARTICOLO 80
+#### ARTICOLO 80
 
 PESCA
 
@@ -1071,7 +1067,7 @@ PESCA
 
 \- della cooperazione nell'ambito delle organizzazioni internazionali per la pesca.
 
-##### ARTICOLO 81
+#### ARTICOLO 81
 
 ENERGIA
 
@@ -1109,7 +1105,7 @@ ENERGIA
 
 3\. Si fornira' la necessaria assistenza tecnica.
 
-##### ARTICOLO 82
+#### ARTICOLO 82
 
 SICUREZZA NUCLEARE
 
@@ -1139,7 +1135,7 @@ SICUREZZA NUCLEARE
 
 4\. Le Parti riconoscono la necessita' di instaurare una cooperazione, nei limiti dei rispettivi poteri e delle rispettive competenze, per combattere il contrabbando nucleare. Sono previsti scambi di informazioni, sostegno tecnico per analizzare e identificare il materiale e un'assistenza amministrativa e tecnica per predisporre controlli doganali efficaci. A seconda delle future esigenze, si potra' ampliare la cooperazione nel settore.
 
-##### ARTICOLO 83
+#### ARTICOLO 83
 
 AMBIENTE
 
@@ -1201,7 +1197,7 @@ AMBIENTE
 
 \- studi di impatto ambientale;
 
-##### ARTICOLO 84
+#### ARTICOLO 84
 
 TRASPORTI
 
@@ -1243,7 +1239,7 @@ TRASPORTI
 
 \- progetti concreti in un contesto trilaterale o multilaterale (Consiglio degli Stati del Mar Baltico), di cooperazione regionale, come la Via Baltica.
 
-##### ARTICOLO 85
+#### ARTICOLO 85
 
 TELECOMUNICAZIONI, SERVIZI POSTALI E TRASMISSIONI RADIOTELEVISIVE 1. Le Parti ampliano e intensificano la cooperazione nel settore, e a tale scopo avviano in particolare le seguenti iniziative:
 
@@ -1285,7 +1281,7 @@ soprattutto di quelli con applicazioni commerciali.
 
 \- modernizzazione dei servizi postali e radiotelevisivi lettoni.
 
-##### ARTICOLO 86
+#### ARTICOLO 86
 
 INFRASTRUTTURE D'INFORMAZIONE
 
@@ -1307,7 +1303,7 @@ Le Parti si adoperano per ampliare e rafforzare la cooperazione al fine di crear
 
 \- promozione dello sviluppo dei servizi d'informazione e delle infrastrutture.
 
-##### ARTICOLO 87
+#### ARTICOLO 87
 
 BANCHE, ASSICURAZIONI E ALTRI SERVIZI FINANZIARI
 
@@ -1329,7 +1325,7 @@ BANCHE, ASSICURAZIONI E ALTRI SERVIZI FINANZIARI
 
 3\. A tal fine, la cooperazione comprende la concessione di assistenza tecnica e formazione.
 
-##### ARTICOLO 88
+#### ARTICOLO 88
 
 COOPERAZIONE NEL SETTORE DELLA REVISIONE DEI CONTI E DEI CONTROLLI FINANZIARI
 
@@ -1345,13 +1341,13 @@ COOPERAZIONE NEL SETTORE DELLA REVISIONE DEI CONTI E DEI CONTROLLI FINANZIARI
 
 3\. A tal fine, la Comunita' fornisce la necessaria assistenza tecnica.
 
-##### ARTICOLO 89
+#### ARTICOLO 89
 
 POLITICA MONETARIA
 
 Su richiesta delle autorita' lettoni, la Comunita' fornisce l'assistenza tecnica necessaria per aiutare la Lettonia ad allineare progressivamente le sue politiche a quelle del Sistema monetario europeo. Su richiesta della Lettonia, si procede altresi' a scambi informali di informazioni sui principi e sul funzionamento del Sistema monetario europeo.
 
-##### ARTICOLO 90
+#### ARTICOLO 90
 
 RICICLAGGIO DEL DENARO
 
@@ -1359,7 +1355,7 @@ RICICLAGGIO DEL DENARO
 
 2\. La cooperazione nel settore comprende un'assistenza amministrativa e tecnica volta a definire norme adeguate contro il riciclaggio del denaro equivalenti a quelle adottate in materia dalla Comunita' e dai consessi internazionali, ivi compresa la Task Force "Azione finanziaria" (FATF).
 
-##### ARTICOLO 91
+#### ARTICOLO 91
 
 SVILUPPO REGIONALE
 
@@ -1381,7 +1377,7 @@ SVILUPPO REGIONALE
 
 \- avvio di programmi di scambi di informazioni e di esperienze, con vari metodi tra cui i seminari.
 
-##### ARTICOLO 92
+#### ARTICOLO 92
 
 COOPERAZIONE NEL SETTORE SOCIALE
 
@@ -1411,7 +1407,7 @@ La collaborazione in questo campo prende la forma di studi, prestazioni di esper
 
 3\. Per quanto riguarda la previdenza sociale, la cooperazione tra le Parti punta ad adeguare il sistema previdenziale lettone alla nuova situazione economica e sociale, principalmente assicurando i servizi di esperti e fornendo informazioni e formazione.
 
-##### ARTICOLO 93
+#### ARTICOLO 93
 
 TURISMO
 
@@ -1429,7 +1425,7 @@ Le Parti promuovono e intensificano la cooperazione nel settore del turismo, in 
 
 \- introducendo sistemi informatizzati di prenotazione e di informazione (preferibilmente comuni ai tre Stati baltici) e norme di tutela di consumatori per i turisti.
 
-##### ARTICOLO 94
+#### ARTICOLO 94
 
 INFORMAZIONE E COMUNICAZIONE
 
@@ -1439,7 +1435,7 @@ INFORMAZIONE E COMUNICAZIONE
 
 3\. La cooperazione puo' comprendere programmi di scambio, borse di studio, cicli di formazione per giornalisti ed esperti in materia di mass media.
 
-##### ARTICOLO 95
+#### ARTICOLO 95
 
 TUTELA DEI CONSUMATORI
 
@@ -1469,7 +1465,7 @@ TUTELA DEI CONSUMATORI
 
 4\. La Comunita' fornira' l'assistenza tecnica necessaria.
 
-##### ARTICOLO 96
+#### ARTICOLO 96
 
 DOGANE
 
@@ -1493,7 +1489,7 @@ Si fornira' l'assistenza tecnica necessaria.
 
 3\. Fatta salva l'ulteriore cooperazione prevista dal presente accordo, in particolare dall'articolo 100 e dal Titolo VII, l'assistenza reciproca tra le autorita' amministrative delle Parti competenti per quanto riguarda le questioni doganali e' disciplinata dalle disposizioni del protocollo n. 5.
 
-##### ARTICOLO 97
+#### ARTICOLO 97
 
 COOPERAZIONE STATISTICA
 
@@ -1515,7 +1511,7 @@ COOPERAZIONE STATISTICA
 
 3\. La Comunita' fornira' l'assistenza tecnica necessaria.
 
-##### ARTICOLO 98
+#### ARTICOLO 98
 
 ECONOMIA
 
@@ -1529,13 +1525,13 @@ ECONOMIA
 
 \- mediante il programma d'azione per la cooperazione economica (ACE), promuovono una cooperazione su vasta scala tra economisti e dirigenti della Comunita' e della Lettonia, al fine di accelerare i trasferimenti di know-how per l'elaborazione delle politiche economiche e di procedere ad una vasta diffusione dei risultati della ricerca in materia.
 
-##### ARTICOLO 99
+#### ARTICOLO 99
 
 PUBBLICA AMMINISTRAZIONE
 
 Le Parti promuovono la cooperazione tra le rispettive autorita' nel settore della pubblica amministrazione, anche avviando programmi di scambio, al fine di migliorare la reciproca conoscenza della struttura e del funzionamento dei rispettivi sistemi.
 
-##### ARTICOLO 100
+#### ARTICOLO 100
 
 DROGA
 
@@ -1561,7 +1557,7 @@ Le Parti possono decidere, di comune accordo, di includere altri settori.
 
 ## TITOLO VII - COOPERAZIONE PER LA PREVENZIONE DELLE ATTIVITA' ILLECITE
 
-##### ARTICOLO 101
+#### ARTICOLO 101
 
 1\. Le Parti collaborano, nei limiti dei rispettivi poteri e delle rispettive competenze, per prevenire le seguenti attivita' illecite:
 
@@ -1595,7 +1591,7 @@ Le Parti possono decidere, di comune accordo, di includere altri settori.
 
 ## TITOLO VIII - COOPERAZIONE CULTURALE
 
-##### ARTICOLO 102
+#### ARTICOLO 102
 
 1\. Le Parti si impegnano a promuovere, incoraggiare e agevolare la cooperazione culturale. All'occorrenza, potranno essere estesi alla Lettonia i programmi di cooperazione culturale comunitari o quelli di uno o piu' Stati membri e si potranno sviluppare ulteriori attivita' di reciproco interesse.
 
@@ -1623,11 +1619,11 @@ La cooperazione potrebbe comprendere, tra l'altro, lo scambio di programmi, bors
 
 ## TITOLO IX - COOPERAZIONE FINANZIARIA
 
-##### ARTICOLO 103
+#### ARTICOLO 103
 
 Al fine di raggiungere gli obiettivi del presente accordo e in conformita' degli articoli 104, 105, 106 e 107, fatto salvo l'articolo 107, la Lettonia beneficia di assistenza finanziaria temporanea da parte della Comunita' sotto forma di sovvenzioni e prestiti, compresi prestiti della Banca europea per gli investimenti (BEI), conformemente alle disposizioni dell'articolo 18 dello statuto della Banca, per accelerare la trasformazione economica del paese.
 
-##### ARTICOLO 104
+#### ARTICOLO 104
 
 Tale assistenza finanziaria e' coperta:
 
@@ -1635,13 +1631,13 @@ Tale assistenza finanziaria e' coperta:
 
 \- dal prestito o dai prestiti concessi dalla Banca europea per gli investimenti entro un massimale e per un periodo di disponibilita' da stabilire previa consultazione con la Lettonia in applicazione delle pertinenti disposizioni del trattato sull'Unione europea.
 
-##### ARTICOLO 105
+#### ARTICOLO 105
 
 Gli obiettivi e i settori dell'assistenza finanziaria comunitaria sono stabiliti in un programma indicativo da concordare tra le Parti.
 
 Le Parti informano il Consiglio di associazione.
 
-##### ARTICOLO 106
+#### ARTICOLO 106
 
 1\. In caso di necessita' straordinaria e tenendo conto della disponibilita' di tutte le risorse finanziarie, su richiesta della Lettonia e in coordinamento con le istituzioni finanziarie internazionali, nel contesto del G-24, la Comunita' valuta la possibilita' di concedere assistenza finanziaria temporanea:
 
@@ -1653,25 +1649,25 @@ Le Parti informano il Consiglio di associazione.
 
 3\. Il Consiglio di associazione e' informato delle condizioni alle quali tale assistenza e' concessa e del rispetto degli impegni assunti dalla Lettonia in materia.
 
-##### ARTICOLO 107
+#### ARTICOLO 107
 
 L'assistenza finanziaria comunitaria e' valutata alla luce delle necessita' emerse, del livello di sviluppo del paese, delle priorita' stabilite, delle potenzialita' di assorbimento dell'economia lettone, della capacita' di rimborsare i prestiti e di progredire in direzione di un'economia di mercato e della ristrutturazione della Lettonia.
 
-##### ARTICOLO 108
+#### ARTICOLO 108
 
 Per consentire un impiego ottimale delle risorse disponibili, le Parti si adoperano affinche' i contributi comunitari siano erogati in stretto coordinamento con quelli provenienti da altre fonti quali gli Stati membri della Comunita', altri paesi, inclusi quelli del G-24, e le istituzioni finanziarie internazionali quali il Fondo monetario internazionale, la Banca internazionale per la ricostruzione e lo sviluppo e la Banca europea per la ricostruzione e lo sviluppo.
 
-##### ARTICOLO 109
+#### ARTICOLO 109
 
 La Lettonia partecipa ai programmi quadro, ai programmi specifici, ai progetti e alle altre azioni della Comunita' nei settori indicati nell'allegato XVIII. Fatta salva l'attuale partecipazione della Lettonia alle attivita' di cui all'allegato XVIII, il Consiglio di associazione stabilisce le modalita' e le condizioni della partecipazione della Lettonia a queste attivita'. Il contributo finanziario della Lettonia alle attivita' di cui all'allegato XVIII si basa sul principio che impone al paese di sostenere il costo della sua partecipazione. All'occorrenza, la Comunita' puo' decidere caso per caso, attenendosi alle regole applicabili al bilancio generale delle Comunita' europee, di integrare il contributo della Lettonia.
 
 ## TITOLO X - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-##### ARTICOLO 110
+#### ARTICOLO 110
 
 E' istituito un Consiglio di associazione incaricato di sorvegliare l'attuazione del presente accordo. Il Consiglio si riunisce una volta all'anno a livello ministeriale e quando le circostanze lo richiedono. Esso esamina qualsiasi questione importante inerente all'accordo e qualunque altro problema bilaterale o internazionale di reciproco interesse.
 
-##### ARTICOLO 111
+#### ARTICOLO 111
 
 1\. Il Consiglio di associazione e composto, da un lato, dai membri del Consiglio dell'Unione europea e da membri della Commissione delle Comunita' europee e, dall'altro, da membri designati dal governo lettone.
 
@@ -1683,7 +1679,7 @@ E' istituito un Consiglio di associazione incaricato di sorvegliare l'attuazione
 
 5\. Se del caso, la BEI partecipa, in qualita' di osservatore, ai lavori del Consiglio di associazione.
 
-##### ARTICOLO 112
+#### ARTICOLO 112
 
 Ai fini della realizzazione degli obiettivi dell'accordo, il Consiglio di associazione ha il potere di prendere decisioni nei casi contemplati dall'accordo stesso. Tali decisioni sono vincolanti per le Parti, che adottano le misure necessarie per la loro attuazione.
 
@@ -1691,7 +1687,7 @@ Il Consiglio di associazione puo' altresi' formulare adeguate raccomandazioni.
 
 Le decisioni e raccomandazioni sono elaborate previo accordo tra le Parti.
 
-##### ARTICOLO 113
+#### ARTICOLO 113
 
 1\. Ciascuna Parte puo' deferire al Consiglio di associazione qualsiasi controversia relativa all'applicazione o all'interpretazione del presente accordo.
 
@@ -1707,7 +1703,7 @@ Le decisioni arbitrali sono pronunciate a maggioranza.
 
 Ciascuna delle parti in causa deve adottare le misure necessarie all'attuazione della decisione arbitrale.
 
-##### ARTICOLO 114
+#### ARTICOLO 114
 
 1\. Nell'esercizio delle sue funzioni, il Consiglio di associazione e' assistito da un comitato di associazione composto, da un lato, da rappresentanti dei membri del Consiglio dell'Unione europea e dei membri della Commissione delle Comunita' europee e, dall'altro, da rappresentanti del governo lettone, normalmente alti funzionari.
 
@@ -1715,19 +1711,19 @@ Il regolamento interno del Consiglio di associazione determina le funzioni del c
 
 2\. Il Consiglio di associazione puo' delegare al comitato di associazione taluni suoi poteri. In questi casi, il comitato di associazione adotta le sue decisioni alle condizioni stabilite all'articolo 112.
 
-##### ARTICOLO 115
+#### ARTICOLO 115
 
 Il Consiglio di associazione puo' decidere l'istituzione di qualsiasi altro comitato o organo speciale che lo assista nell'esercizio delle sue funzioni.
 
 Nel suo regolamento interno, il Consiglio di associazione precisa la composizione e le funzioni di tali comitati o organi, nonche' le modalita' del loro funzionamento.
 
-##### ARTICOLO 116
+#### ARTICOLO 116
 
 E' istituito un Comitato parlamentare quale foro per lo scambio di opinioni tra membri del Parlamento lettone e del Parlamento europeo.
 
 Il calendario e la frequenza delle riunioni sono decisi dal comitato stesso.
 
-##### ARTICOLO 117
+#### ARTICOLO 117
 
 1\. Il Comitato parlamentare e' composto, da un lato, da membri del Parlamento europeo e, dall'altro, da membri del Parlamento lettone.
 
@@ -1735,7 +1731,7 @@ Il calendario e la frequenza delle riunioni sono decisi dal comitato stesso.
 
 3\. Il Comitato parlamentare di associazione e' presieduto a turno dal Parlamento europeo e dal Parlamento lettone, in conformita' delle disposizioni da stabilire nel suo regolamento interno.
 
-##### ARTICOLO 118
+#### ARTICOLO 118
 
 Il Comitato parlamentare puo' chiedere informazioni inerenti all'attuazione del presente accordo al Consiglio di' associazione; quest'ultimo fornisce al comitato le informazioni richieste.
 
@@ -1743,11 +1739,11 @@ Il Comitato parlamentare e' tenuto al corrente delle decisioni del Consiglio di 
 
 Il Comitato parlamentare puo' rivolgere raccomandazioni al Consiglio di associazione.
 
-##### ARTICOLO 119
+#### ARTICOLO 119
 
 Nell'ambito del presente accordo, ciascuna delle Parti si impegna a garantire che le persone fisiche e giuridiche dell'altra Parte possano adire, senza discriminazioni rispetto ai propri cittadini, i competenti organi giuridici e amministrativi delle Parti per tutelare i loro diritti individuali e di proprieta', inclusi quelli riguardanti la proprieta' intellettuale, industriale e commerciale.
 
-##### ARTICOLO 120
+#### ARTICOLO 120
 
 L'accordo non impedisce ad una Parte contraente di adottare qualsiasi misura:
 
@@ -1759,7 +1755,7 @@ c) ritenuta essenziale per la propria sicurezza in caso di gravi disordini inter
 
 d) ritenuta necessaria per l'adempimento dei suoi obblighi e impegni internazionali in materia di controllo del doppio uso di beni e tecnologie industriali.
 
-##### ARTICOLO 121
+#### ARTICOLO 121
 
 1\. Nei settori contemplati dal presente accordo e fatta salva qualsiasi disposizione speciale ivi contenuta:
 
@@ -1769,13 +1765,13 @@ d) ritenuta necessaria per l'adempimento dei suoi obblighi e impegni internazion
 
 2\. Le disposizioni del paragrafo 1 non pregiudicano il diritto delle Parti di applicare le pertinenti disposizioni della loro normativa fiscale nei confronti di contribuenti che non si trovino in situazioni identiche per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 122
+#### ARTICOLO 122
 
 Quando sono importati nella Comunita', i prodotti originari della Lettonia non beneficiano di un trattamento piu' favorevole di quello che gli Stati membri si applicano reciprocamente.
 
 Il trattamento concesso alla Lettonia ai sensi del titolo IV e del capitolo I del titolo V non deve essere piu' favorevole di quello che gli Stati membri si applicano reciprocamente.
 
-##### ARTICOLO 123
+#### ARTICOLO 123
 
 1\. Le Parti adottano qualsiasi provvedimento generale o specifico necessario per l'adempimento degli obblighi che loro incombono nel quadro del presente accordo. Esse si adoperano per la realizzazione degli obiettivi fissati nell'accordo.
 
@@ -1783,37 +1779,37 @@ Il trattamento concesso alla Lettonia ai sensi del titolo IV e del capitolo I de
 
 Nella scelta delle misure, si privilegiano quelle meno lesive per il funzionamento dell'accordo. Le misure decise sono comunicate senza indugio al Consiglio di associazione e, qualora l'altra Parte ne faccia richiesta, sono oggetto di consultazioni in seno a detto organo.
 
-##### ARTICOLO 124
+#### ARTICOLO 124
 
 Fino a quando i privati cittadini e gli operatori economici non godranno di diritti equivalenti in virtu' dell'applicazione del presente accordo, esso non reca pregiudizio ai diritti loro garantiti da accordi vigenti che vincolano uno o piu' Stati membri, da un lato, e la Lettonia, dall'altro, fatta eccezione per i settori di competenza europea e fatti salvi gli obblighi degli Stati membri derivanti dal presente accordo nei settori di loro competenza.
 
-##### ARTICOLO 125
+#### ARTICOLO 125
 
 Ai fini del presente accordo, per "Parti" si intendono la Comunita', i suoi Stati membri o la Comunita' e i suoi Stati membri, conformemente ai rispettivi poteri, da un lato, e la Lettonia, dall'altro.
 
-##### ARTICOLO 126
+#### ARTICOLO 126
 
 I protocolli nn. 1-5 e gli allegati I-XVIII sono parte integrante del presente accordo.
 
-##### ARTICOLO 127
+#### ARTICOLO 127
 
 Il presente accordo e' concluso per un periodo illimitato.
 
 Ciascuna delle Parti puo' denunciare l'accordo dandone notifica all'altra Parte. L'accordo cessa di essere applicabile dopo sei mesi dalla data di tale notifica.
 
-##### ARTICOLO 128
+#### ARTICOLO 128
 
 Il Segretariato generale del Consiglio dell'Unione europea e' il depositario del presente accordo.
 
-##### ARTICOLO 129
+#### ARTICOLO 129
 
 Il presente accordo si applica, da un lato, ai territori in cui si applicano i trattati che istituiscono la Comunita' europea, la Comunita' europea dell'energia atomica e la Comunita' europea del carbone e dell'acciaio, alle condizioni precisate in detti trattati, e, dall'altro, al territorio della Repubblica di Lettonia.
 
-##### ARTICOLO 130
+#### ARTICOLO 130
 
 Il presente accordo e' redatto in due esemplari in lingua danese, finnica, francese, greca, inglese, italiana, olandese, portoghese, spagnola, svedese, tedesca e lettone, ciascun testo facente ugualmente fede.
 
-##### ARTICOLO 131
+#### ARTICOLO 131
 
 Il presente accordo e' approvato dalle Parti conformemente alle loro rispettive procedure.
 
@@ -1829,265 +1825,265 @@ Nel corso della prima riunione, il Consiglio di associazione adotta tutte le mod
 
 Fatto a Lussemburgo, addi' dodici giugno millenovecentonovantacinque.
 
-##### Elenco Allegati
+#### Elenco Allegati
 
 Elenco Allegati
 
 Parte di provvedimento in formato grafico
 
-##### Allegato I
+#### Allegato I
 
 Allegato I
 
 Parte di provvedimento in formato grafico
 
-##### Allegato II
+#### Allegato II
 
 Allegato II
 
 Parte di provvedimento in formato grafico
 
-##### Allegato III
+#### Allegato III
 
 Allegato III
 
 Parte di provvedimento in formato grafico
 
-##### Allegato IV
+#### Allegato IV
 
 Allegato IV
 
 Parte di provvedimento in formato grafico
 
-##### Allegato V
+#### Allegato V
 
 Allegato V
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VI
+#### Allegato VI
 
 Allegato VI
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VII
+#### Allegato VII
 
 Allegato VII
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VIII
+#### Allegato VIII
 
 Allegato VIII
 
 Parte di provvedimento in formato grafico
 
-##### Allegato IX
+#### Allegato IX
 
 Allegato IX
 
 Parte di provvedimento in formato grafico
 
-##### Allegato X
+#### Allegato X
 
 Allegato X
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XI
+#### Allegato XI
 
 Allegato XI
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XII
+#### Allegato XII
 
 Allegato XII
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XIII
+#### Allegato XIII
 
 Allegato XIII
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XIV
+#### Allegato XIV
 
 Allegato XIV
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XV
+#### Allegato XV
 
 Allegato XV
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XVI
+#### Allegato XVI
 
 Allegato XVI
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XVII
+#### Allegato XVII
 
 Allegato XVII
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XVIII
+#### Allegato XVIII
 
 Allegato XVIII
 
 Parte di provvedimento in formato grafico
 
-##### Elenco Protocolli
+#### Elenco Protocolli
 
 Elenco Protocolli
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo n. 1
+#### Protocollo n. 1
 
 Protocollo n. 1
 
 Parte di provvedimento in formato grafico
 
-##### Allegato I
+#### Allegato I
 
 Allegato I
 
 Parte di provvedimento in formato grafico
 
-##### Allegato II
+#### Allegato II
 
 Allegato II
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo A
+#### Protocollo A
 
 Protocollo A
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo B
+#### Protocollo B
 
 Protocollo B
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo C
+#### Protocollo C
 
 Protocollo C
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo D
+#### Protocollo D
 
 Protocollo D
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo n. 2
+#### Protocollo n. 2
 
 Protocollo n. 2
 
 Parte di provvedimento in formato grafico
 
-##### Allegato I
+#### Allegato I
 
 Allegato I
 
 Parte di provvedimento in formato grafico
 
-##### Allegato II
+#### Allegato II
 
 Allegato II
 
 Parte di provvedimento in formato grafico
 
-##### Allegato III
+#### Allegato III
 
 Allegato III
 
 Parte di provvedimento in formato grafico
 
-##### Allegato IV
+#### Allegato IV
 
 Allegato IV
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo n. 3
+#### Protocollo n. 3
 
 Protocollo n. 3
 
 Parte di provvedimento in formato grafico
 
-##### Allegato I
+#### Allegato I
 
 Allegato I
 
 Parte di provvedimento in formato grafico
 
-##### Allegato II
+#### Allegato II
 
 Allegato II
 
 Parte di provvedimento in formato grafico
 
-##### Allegato III
+#### Allegato III
 
 Allegato III
 
 Parte di provvedimento in formato grafico
 
-##### Allegato IV
+#### Allegato IV
 
 Allegato IV
 
 Parte di provvedimento in formato grafico
 
-##### Allegato V
+#### Allegato V
 
 Allegato V
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo n. 4
+#### Protocollo n. 4
 
 Protocollo n. 4
 
 Parte di provvedimento in formato grafico
 
-##### Allegato A
+#### Allegato A
 
 Allegato A
 
 Parte di provvedimento in formato grafico
 
-##### Allegato B
+#### Allegato B
 
 Allegato B
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo n. 5
+#### Protocollo n. 5
 
 Protocollo n. 5
 
 Parte di provvedimento in formato grafico
 
-##### Atto finale
+#### Atto finale
 
 Atto finale
 
 Parte di provvedimento in formato grafico
 
-##### Dichiarazioni comuni
+#### Dichiarazioni comuni
 
 Dichiarazioni comuni
 

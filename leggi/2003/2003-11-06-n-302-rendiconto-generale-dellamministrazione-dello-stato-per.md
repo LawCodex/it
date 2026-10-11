@@ -557,7 +557,7 @@ emoderivati
 
 \- 103.807,11 -
 
-## Capo II - CONTO GENERALE DEL PATRIMONIO
+### Capo II - CONTO GENERALE DEL PATRIMONIO
 
 #### Art. 8 - Risultati generali della gestione patrimoniale
 
@@ -655,7 +655,7 @@ dell'esercizio
  =============
 ```
 
-## Capo II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
+### Capo II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
 #### Art. 11 - Entrate
 
@@ -761,7 +761,7 @@ Spese dell'esercizio 2002 " 4.656.038.858,93
 
 Saldo della gestione di competenza  -
 
-## Capo III - ARCHIVI NOTARILI
+### Capo III - ARCHIVI NOTARILI
 
 #### Art. 15 - Avanzo
 
@@ -777,7 +777,7 @@ Spese " 285.060.345,62
  ==================
 ```
 
-## Capo IV - FONDO EDIFICI DI CULTO
+### Capo IV - FONDO EDIFICI DI CULTO
 
 #### Art. 16 - Entrate
 
@@ -895,7 +895,7 @@ Saldo effettivo dell'esercizio 2001 € 1.779.238,65
  ===============
 ```
 
-## Capo IV - FONDO EDIFICI DI CULTO
+### Capo IV - FONDO EDIFICI DI CULTO
 
 #### Allegato n. 1
 

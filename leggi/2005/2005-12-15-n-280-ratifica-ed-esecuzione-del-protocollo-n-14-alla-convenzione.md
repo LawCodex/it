@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare il Protocollo n. 14 alla Convenzione per la salvaguardia dei diritti dell'uomo e delle liberta' fondamentali, emendante il sistema di controllo della Convenzione, fatto a Strasburgo il 13 maggio 2004.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data al Protocollo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 19 del Protocollo stesso.
 
-### Art. 3
+## Art. 3
 
 Entrata in vigore
 
@@ -59,7 +59,7 @@ Visto, il Guardasigilli: Castelli
 
 ## Allegati
 
-### Protocol
+## Protocol
 
 Protocol
 
@@ -95,11 +95,11 @@ Ritenendo, in particolare che occorre vigilare affinche' la Corte continui a svo
 
 Hanno convenuto quanto segue.
 
-### Articolo 1
+## Articolo 1
 
 Il paragrafo 2 dell'articolo 22 della Convenzione e' soppresso.
 
-### Articolo 2
+## Articolo 2
 
 L'articolo 23 della Convenzione e' modificato come segue:
 
@@ -113,11 +113,11 @@ l'eta' di settant'anni
 
 4\. Un giudice puo' essere sollevato dalle sue funzioni solo se gli altri giudici decidono, a maggioranza di due terzi, che tale giudice ha smesso di corrispondere alle condizioni richieste."
 
-### Articolo 3
+## Articolo 3
 
 L'articolo 24 della Convenzione e' soppresso.
 
-### Articolo 4
+## Articolo 4
 
 L'Articolo 25 della Convenzione diviene l'articolo 24 e la sua formulazione e' modificata come segue:
 
@@ -125,7 +125,7 @@ L'Articolo 25 della Convenzione diviene l'articolo 24 e la sua formulazione e' m
 
 2 Quando siede in formazione di giudice unico, la Corte e' assistita da relatori che esercitano le loro funzioni sotto l'autorita' del presidente della Corte. Essi fanno parte della cancelleria della Corte ".
 
-### Articolo 5
+## Articolo 5
 
 L'Articolo 26 della Convenzione diviene l'articolo 25 (Assemblea plenaria) e la sua formulazione e' modificata come segue:
 
@@ -137,7 +137,7 @@ L'Articolo 26 della Convenzione diviene l'articolo 25 (Assemblea plenaria) e la 
 
 "f fa qualsiasi domanda a titolo dell'articolo 26, paragrafo 2."
 
-### Articolo 6
+## Articolo 6
 
 L'articolo 27 della Convenzione diviene l'articolo 26 e la sua formulazione e' modificata come segue:
 
@@ -151,7 +151,7 @@ L'articolo 27 della Convenzione diviene l'articolo 26 e la sua formulazione e' m
 
 5 Fanno altresi' parte della Sezione allargata il presidente della Corte, i vice presidenti, i presidenti delle Sezioni ed altri giudici designati conformemente al regolamento della Corte. Quando il caso e' deferito alla Sezione allargata in forza dell'articolo 43, nessun giudice della Sezione che ha pronunziato la sentenza puo' avervi un seggio, ad eccezione del Presidente della Sezione e del giudice che ha esercitato le sue funzioni a titolo dell'Alta Parte contraente interessata".
 
-### Articolo 7
+## Articolo 7
 
 Dopo il nuovo articolo 26, un nuovo articolo 27 e' inserito nella Convenzione, con la seguente formulazione:
 
@@ -161,7 +161,7 @@ Dopo il nuovo articolo 26, un nuovo articolo 27 e' inserito nella Convenzione, c
 
 3 Se il giudice unico non dichiara che il ricorso e' irricevibile o non lo cancella dal ruolo, lo trasmette ad un comitato o ad una Sezione per l'esame complementare ".
 
-### Articolo 8
+## Articolo 8
 
 L'Articolo 28 della Convenzione e' modificato come segue:
 
@@ -177,7 +177,7 @@ b dichiararlo ricevibile e pronunziare contestualmente una decisione in merito q
 
 3 Se il giudice eletto a titolo dell'Alta Parte contraente parte della controversia non fa parte del Comitato, quest'ultimo puo', in qualsiasi momento della procedura invitarlo a partecipare alla procedura in sostituzione di uno dei suoi membri, in considerazione di tutti i fattori pertinenti, ivi compreso il fatto di sapere se questa Parte ha contestato l'applicazione della procedura del paragrafo 1.b".
 
-### Articolo 9
+## Articolo 9
 
 L'articolo 29 della Convenzione e' emendato come segue:
 
@@ -187,7 +187,7 @@ L'articolo 29 della Convenzione e' emendato come segue:
 
 3 Il paragrafo 3 e' soppresso.
 
-### Articolo 10
+## Articolo 10
 
 L'articolo 31 della Convenzione e' emendato come segue;
 
@@ -195,13 +195,13 @@ L'articolo 31 della Convenzione e' emendato come segue;
 
 2 Il paragrafo b diviene il paragrafo c ed un nuovo paragrafo b viene inserito con la seguente formulazione: "b si pronuncia sulle questioni di cui la Corte e' investita dal Comitato dei Ministri in forza dell'articolo 46, paragrafo 4; e"
 
-### Articolo 11
+## Articolo 11
 
 L'articolo 32 della Convenzione e' emendato come segue.
 
 Alla fine del paragrafo 1, una virgola ed il numero 46 sono inseriti dopo il numero 34.
 
-### Articolo 12
+## Articolo 12
 
 Il paragrafo 3 dell'articolo 35 della Convenzione e' modificato come segue:
 
@@ -213,17 +213,17 @@ abusivo; oppure
 
 b) che il ricorrente non ha subito alcun danno rilevante, a meno che il rispetto dei diritti dell'Uomo garantiti dalla Convenzione e dai suoi Protocolli non esiga un esame del ricorso per quanto riguarda il merito e a patto di non rigettare, per questa ragione alcuna causa che non sia stata debitamente esaminata da un tribunale interno".
 
-### Articolo 13
+## Articolo 13
 
 Un nuovo paragrafo 3 e' aggiunto alla fine dell'articolo 36 della Convenzione, con la seguente formulazione: " In qualsiasi caso dinanzi ad una Sezione o ad una Sezione allargata, il Commissario ai diritti dell'Uomo del Consiglio d'Europa puo' presentare osservazioni scritte e partecipare alle udienze".
 
-### Articolo 14
+## Articolo 14
 
 L'articolo 38 della Convenzione e' modificato come segue:
 
 " Articolo 38 (Esame contraddittorio del caso). - La Corte esamina il caso in contraddittorio con i rappresentanti delle Parti e, se del caso, procede ad un'indagine per lo svolgimento efficace della quale le Alte Parti contraenti interessate forniranno tutte le agevolazioni necessarie".
 
-### Articolo 15
+## Articolo 15
 
 L'articolo 39 della Convenzione e' modificato come segue:
 
@@ -235,7 +235,7 @@ L'articolo 39 della Convenzione e' modificato come segue:
 
 4\. Questa decisione e' trasmessa al Comitato dei Ministri che sorveglia l'esecuzione dei termini della composizione amichevole come figurano nella decisione.
 
-### Articolo 16
+## Articolo 16
 
 L'articolo 46 della Convenzione e' modificato come segue:
 
@@ -251,7 +251,7 @@ Le Alte Parti contraenti s'impegnano a conformarsi alle sentenze definitive dell
 
 5 Se la Corte accerta una violazione del paragrafo 1, essa rinvia il caso al Comitato dei Ministri affinche' esamini i provvedimenti da adottare. Qualora la Corte accerti che non vi e' stata violazione del paragrafo 1, essa rinvia il caso al Comitato dei Ministri, il quale decide di porre fine al suo esame"
 
-### Articolo 17
+## Articolo 17
 
 L'articolo 59 della Convenzione e' emendato come segue:
 
@@ -263,7 +263,7 @@ L'articolo 59 della Convenzione e' emendato come segue:
 
 ## Disposizioni finali e transitorie
 
-### Articolo 18
+## Articolo 18
 
 1 Il Presente Protocollo e' aperto alla firma degli Stati membri del Consiglio d'Europa, firmatari della Convenzione, che possono esprimere il loro consenso ad essere vincolati da:
 
@@ -275,21 +275,21 @@ b) firma con riserva di ratifica, di accettazione o di approvazione, seguita da 
 
 2 Gli strumenti di ratifica, di accettazione o di approvazione saranno depositati presso il Segretario Generale del Consiglio d'Europa.
 
-### Articolo 19
+## Articolo 19
 
 Il presente Protocollo entrera' in vigore il primo giorno del mese successivo alla scadenza di un periodo di tre mesi dopo la data in cui tutte le Parti della Convenzione avranno espresso il loro consenso ad essere vincolate dal Protocollo, conformemente alle norme dell'articolo 18.
 
-### Articolo 20
+## Articolo 20
 
 1 Alla data dell'entrata in vigore del presente Protocollo, le sue disposizioni si applicano a tutti i ricorsi pendenti davanti alla Corte, nonche' a tutte le sentenze la cui esecuzione e' oggetto della sorveglianza del Comitato dei Ministri.
 
 2 Il nuovo criterio di ricevibilita' inserito dall'articolo 12 del presente Protocollo nell'articolo 35, paragrafo 3 b) della Convenzione, non si applica ai ricorsi dichiarati ricevibili prima dell'entrata in vigore del Protocollo. Entro due anni dopo l'entrata in vigore del presente Protocollo, solo le Sezioni e la Sezione allargata possono applicare il nuovo criterio di ricevibilita'.
 
-### Articolo 21
+## Articolo 21
 
 Alla data di entrata in vigore del presente Protocollo, la durata del mandato dei giudici che compiono il loro primo mandato e' prorogata a pieno titolo , al fine di ottenere un totale di nove anni. Gli altri giudici pongono fine al loro mandato , il quale e' legittimamente prorogato di due anni.
 
-### Articolo 22
+## Articolo 22
 
 Il Segretario Generale del Consiglio d'Europa notifichera' agli Stati membri del Consiglio d'Europa:
 

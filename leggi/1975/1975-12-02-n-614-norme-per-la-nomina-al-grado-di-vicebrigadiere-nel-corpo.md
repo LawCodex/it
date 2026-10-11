@@ -27,7 +27,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI GENERALI
 
-##### Art. 1
+#### Art. 1
 
 Per il conferimento del grado di vicebrigadiere nel Corpo degli agenti di custodia e' richiesto il possesso dei requisiti fisici, morali, di carattere, intellettuali, di cultura e professionali necessari per bene adempiere le funzioni del nuovo grado.
 
@@ -35,13 +35,11 @@ E', inoltre, necessario avere riportato le classifiche indicate nei successivi a
 
 Aver disimpegnato bene le funzioni del proprio grado e' condizione indispensabile ma non sufficiente per l'avanzamento al grado superiore.
 
-## CAPO II - CONFERIMENTO DEL GRADO
+## CAPO II - CONFERIMENTO DEL GRADO DI VICEBRIGADIERE
 
-### DI VICEBRIGADIERE
+### Sezione I - DISPOSIZIONI GENERALI
 
-#### Sezione I - DISPOSIZIONI GENERALI
-
-##### Art. 2
+#### Art. 2
 
 Il conferimento del grado di vicebrigadiere ha luogo:
 
@@ -51,15 +49,15 @@ Il conferimento del grado di vicebrigadiere ha luogo:
 
 I posti non coperti ai sensi del numero 1 del precedente comma sono portati in aumento a quelli da conferire mediante esame di idoneita'.
 
-##### Art. 3
+#### Art. 3
 
 Il concorso e l'esame di idoneita' di cui all'articolo 2 sono indetti con decreto ministeriale da pubblicarsi nel Bollettino ufficiale del Ministero di grazia e giustizia.
 
 Il termine per la presentazione delle domande non puo' essere inferiore a trenta giorni dalla data di pubblicazione del decreto.
 
-## Sezione II - CONCORSO PER ESAMI
+### Sezione II - CONCORSO PER ESAMI
 
-##### Art. 4
+#### Art. 4
 
 Per partecipare al concorso di cui all'articolo 2 gli appuntati e le guardie debbono aver prestato almeno tre anni di servizio effettivo nel Corpo degli agenti di custodia e non aver superato il 35° anno di eta'.
 
@@ -67,7 +65,7 @@ Per gli appuntati e le guardie in possesso del diploma di istituto di istruzione
 
 Il limite di eta' di cui al primo comma e' elevato a 37 anni per gli ex combattenti e categorie equiparate per legge.
 
-##### Art. 5
+#### Art. 5
 
 Per essere ammessi al concorso gli aspiranti debbono aver dato prova di adeguata capacita' professionale, diligenza e buona condotta, aver riportato nel biennio Precedente o, se questo non sia trascorso, per quelli in possesso di diploma di istruzione secondaria o equipollente, nel primo anno di servizio, classifica non inferiore a "buono" e non trovarsi sottoposti ad esperimento per rafferma.
 
@@ -79,7 +77,7 @@ b) coloro i quali, nei due anni precedenti alla data del bando o successivamente
 
 Il giudizio sul possesso dei requisiti per l'ammissione al concorso e' demandato alla commissione centrale di cui all'articolo 3 del regolamento per il Corpo degli agenti di custodia approvato con regio decreto 30 dicembre 1937, n. 2584.
 
-##### Art. 6
+#### Art. 6
 
 L'esame di concorso consiste in due prove: una scritta ed una orale.
 
@@ -107,7 +105,7 @@ La graduatoria di merito viene formata sulla base del punteggio attribuito al ca
 
 A parita' di voti ha la precedenza il concorrente che riveste il grado di appuntato; a parita' di grado vale l'ordine di precedenza nel ruolo di anzianita'.
 
-##### Art. 7
+#### Art. 7
 
 I vincitori del concorso di cui all'articolo 6 sono ammessi a frequentare il corso allievi sottufficiali.
 
@@ -115,7 +113,7 @@ I vincitori del concorso, i quali, per infermita' o per altra causa indipendente
 
 Non sono ammessi al corso coloro i quali, successivamente all'ammissione al concorso, riportino la sanzione della riduzione di paga di secondo grado non inferiore a dieci giorni od altra piu' grave.
 
-##### Art. 8
+#### Art. 8
 
 Il corso allievi sottufficiali ha carattere strettamente professionale, ha durata non inferiore a sei mesi ed ha luogo presso una scuola o uno stabilimento penitenziario designato dal Ministero di grazia e giustizia.
 
@@ -129,7 +127,7 @@ I posti da conferire in conformita' al secondo comma dell'articolo 7 ed al prece
 
 Sono esclusi dal corso gli allievi che riportino la sanzione della riduzione di paga di secondo grado od altra piu' grave.
 
-##### Art. 9
+#### Art. 9
 
 Al termine del corso gli allievi debbono sostenere un esame finale costituito da una prova scritta ed una orale sulle materie che hanno formato oggetto di insegnamento.
 
@@ -143,17 +141,17 @@ La graduatoria e' stabilita dalla media dei voti riportati nelle prove scritte e
 
 A parita' di votazione ha la precedenza il concorrente che riveste il grado di appuntato; a parita' di grado vale l'ordine di precedenza nel ruolo di anzianita'.
 
-##### Art. 10
+#### Art. 10
 
 Il giudizio sugli esami finali e la formazione della graduatoria definitiva ai fini del conferimento del grado di vicebrigadiere sono demandati ad una commissione composta dal direttore della scuola, che la presiede, e dai docenti delle singole materie.
 
 Le funzioni di segretario sono esercitate da un impiegato di concetto dell'Amministrazione degli istituti di prevenzione e pena.
 
-##### Art. 11
+#### Art. 11
 
 Gli allievi che, per malattia o altra causa di forza maggiore, non abbiano potuto partecipare agli esami finali sono ammessi ad una sessione straordinaria di esami, da tenersi secondo le stesse norme di cui agli articoli precedenti entro 30 giorni dalla conclusione degli esami finali del corso.
 
-##### Art. 12
+#### Art. 12
 
 Gli allievi risultati idonei negli esami finali di cui agli articoli 9 e 11 sono iscritti in una graduatoria unica di merito; la graduatoria e' comunicata al Ministero di grazia e giustizia.
 
@@ -161,9 +159,9 @@ Il Ministro per la grazia e giustizia, riconosciuta la regolarita' del procedime
 
 La nomina e' conferita secondo l'ordine della graduatoria e con decorrenza dalla data del decreto.
 
-## Sezione III - ESAME DI IDONEITA'
+### Sezione III - ESAME DI IDONEITA'
 
-##### Art. 13
+#### Art. 13
 
 All'esame di idoneita' per il conferimento del grado di vicebrigadiere sono ammessi gli appuntati, in possesso dei requisiti previsti dall'articolo 1 e con almeno cinque anni di anzianita' di grado, i quali abbiano riportato nell'ultimo quinquennio la classifica di "ottimo" e non siano sottoposti ad esperimento per rafferma.
 
@@ -175,7 +173,7 @@ b) coloro i quali nei due anni precedenti la data del bando o successivamente ab
 
 Il giudizio sul possesso dei requisiti per l'ammissione al concorso e' demandato alla commissione centrale di cui al precedente articolo 5.
 
-##### Art. 14
+#### Art. 14
 
 L'esame di idoneita' consiste in una prova orale su materie attinenti ai servizi di istituto.
 
@@ -189,7 +187,7 @@ Sono dichiarati idonei coloro i quali conseguono nella prova d'esame una votazio
 
 A parita' di voti vale l'ordine di precedenza nel ruolo di anzianita' e, a parita' di anzianita', l'eta'.
 
-##### Art. 15
+#### Art. 15
 
 Il Ministro per la grazia e giustizia, riconosciuta la regolarita' del procedimento, con proprio decreto approva la graduatoria e conferisce la nomina al grado di vicebrigadiere.
 
@@ -199,13 +197,13 @@ I vicebrigadieri nominati ai sensi del presente articolo sono iscritti nel ruolo
 
 RINVIO
 
-##### Art. 16
+#### Art. 16
 
 Per quanto non regolato dalla presente legge, si applicano le norme della legge 18 febbraio 1963, n. 173, e successive modificazioni.
 
 NORME TRANSITORIE
 
-##### Art. 17
+#### Art. 17
 
 Al primo concorso ed al primo esame di idoneita' banditi successivamente all'entrata in vigore della presente legge, possono partecipare gli appuntati e le guardie che siano in possesso dei requisiti richiesti dall'articolo 22 del regolamento per il Corpo degli agenti di custodia approvato con regio decreto 30 dicembre 1937, n. 2584, se piu' favorevoli.
 

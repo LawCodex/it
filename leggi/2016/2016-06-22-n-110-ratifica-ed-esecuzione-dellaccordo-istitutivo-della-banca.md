@@ -30,19 +30,19 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo istitutivo della Banca asiatica per gli investimenti in infrastrutture, con Allegati, fatto a Pechino il 29 giugno 2015.
 
-#### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 59 dell'Accordo stesso.
 
-#### Art. 3
+### Art. 3
 
 Quota di partecipazione
 
@@ -50,7 +50,7 @@ Quota di partecipazione
 
 2\. La Banca asiatica per gli investimenti in infrastrutture, per tutto quanto attiene all'attuazione dell'Accordo di cui all'articolo 1, comunica con il Ministero dell'economia e delle finanze, ai sensi e per gli effetti dell'articolo 33, paragrafo 1, dell'Accordo medesimo.
 
-#### Art. 4
+### Art. 4
 
 Copertura finanziaria
 
@@ -64,7 +64,7 @@ b) per l'importo di 60 milioni di euro per ciascuno degli anni 2018 e 2019, medi
 
 3\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 5
+### Art. 5
 
 Entrata in vigore
 
@@ -84,7 +84,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Agreement
+### Agreement
 
 Allegato
 
@@ -108,7 +108,7 @@ convinti che la creazione di un istituto finanziario multilaterale dedicato allo
 
 hanno convenuto di istituire la Banca, che operera' come segue:
 
-#### Art. 1
+### Art. 1
 
 Scopo
 
@@ -116,7 +116,7 @@ Scopo
 
 (2) Ai sensi del presente Accordo, i termini «Asia» e «regione» si riferiscono alle regioni geografiche classificate dalle Nazioni Unite come Asia e Oceania e alla loro composizione, a meno che il Consiglio dei Governatori non decida altrimenti.
 
-#### Art. 2
+### Art. 2
 
 Funzioni
 
@@ -130,7 +130,7 @@ iii) incoraggiare gli investimenti privati in progetti, imprese e attivita' che 
 
 iv) avviare tutte le altre attivita' e fornire tutti gli altri servizi atti a sostenere queste funzioni.
 
-#### Art. 3
+### Art. 3
 
 Membri
 
@@ -146,7 +146,7 @@ b) I membri fondatori sono quelli menzionati nell'allegato A che alla data menzi
 
 ## Capitolo II - CAPITALE
 
-#### Art. 4
+### Art. 4
 
 Capitale autorizzato
 
@@ -158,7 +158,7 @@ Capitale autorizzato
 
 (4) Ai sensi del presente Accordo, il termine «dollaro» e il simbolo «$» si riferiscono alla valuta di pagamento ufficiale degli Stati Uniti d'America.
 
-#### Art. 5
+### Art. 5
 
 Sottoscrizione di azioni
 
@@ -170,7 +170,7 @@ Sottoscrizione di azioni
 
 (4) Il Consiglio dei Governatori riesamina il capitale sociale della Banca almeno ogni cinque (5) anni. In caso di aumento del capitale sociale autorizzato, a ogni membro e' offerta un'opportunita' ragionevole di sottoscrivere, secondo le modalita' e alle condizioni decise dal Consiglio dei Governatori, una percentuale dell'aumento equivalente alla quota del capitale sociale sottoscritto della Banca che deteneva immediatamente prima dell'aumento. Nessun membro e' tenuto a sottoscrivere alcuna percentuale dell'aumento del capitale sociale.
 
-#### Art. 6
+### Art. 6
 
 Pagamento delle sottoscrizioni
 
@@ -204,7 +204,7 @@ v) la Banca puo' rinunciare ai suoi diritti al pagamento di cui al numero iii e 
 
 (6) La Banca accetta da ogni membro che versa la sua sottoscrizione secondo il paragrafo 5, lettera b, titoli di credito o altre obbligazioni emessi dal Governo del membro o dal depositario da esso designato, invece dell'importo pagabile nella valuta nazionale, a condizione che la Banca non abbia bisogno di tale importo per effettuare le sue operazioni. Tali titoli di credito o obbligazioni non sono negoziabili, non fruttano interessi e, su richiesta, devono essere pagati alla Banca al valore nominale.
 
-#### Art. 7
+### Art. 7
 
 Condizioni applicabili alle azioni
 
@@ -216,7 +216,7 @@ Condizioni applicabili alle azioni
 
 (4) Nessun membro risponde degli obblighi della Banca in virtu' della sua adesione.
 
-#### Art. 8
+### Art. 8
 
 Risorse ordinarie
 
@@ -234,13 +234,13 @@ v) tutti gli altri fondi o redditi ricevuti dalla Banca che non fanno parte dei 
 
 ## Capitolo III - OPERAZIONI DELLA BANCA
 
-#### Art. 9
+### Art. 9
 
 Impiego delle risorse
 
 Le risorse e i servizi della Banca sono impiegati esclusivamente per raggiungere lo scopo e svolgere le funzioni definiti, rispettivamente, agli articoli 1 e 2 e conformemente ai principi di una sana gestione bancaria.
 
-#### Art. 10
+### Art. 10
 
 Operazioni ordinarie e speciali
 
@@ -258,7 +258,7 @@ I due tipi di operazioni possono finanziare separatamente elementi di uno stesso
 
 (4) Le spese direttamente legate alle operazioni ordinarie sono imputate alle risorse ordinarie della Banca, quelle direttamente legate alle operazioni speciali sono imputate alle risorse dei Fondi speciali. Tutte le altre spese sono imputate come stabilito dalla Banca.
 
-#### Art. 11
+### Art. 11
 
 Beneficiari e modalita' operative
 
@@ -280,7 +280,7 @@ v) fornendo assistenza tecnica secondo l'articolo 15; o
 
 vi) attraverso altri tipi di finanziamento decisi dal Consiglio dei Governatori mediante una votazione a Maggioranza Speciale secondo l'articolo 28.
 
-#### Art. 12
+### Art. 12
 
 Limiti delle operazioni ordinarie
 
@@ -288,7 +288,7 @@ Limiti delle operazioni ordinarie
 
 (2) L'importo delle partecipazioni azionarie versate della Banca non puo' superare un importo corrispondente al capitale totale sottoscritto e versato piu' le riserve generali.
 
-#### Art. 13
+### Art. 13
 
 Principi operativi
 
@@ -316,7 +316,7 @@ Le operazioni della Banca sono realizzate conformemente ai seguenti principi:
 
 11\. la Banca cerca di mantenere una diversificazione ragionevole nelle sue partecipazioni azionarie. Nell'ambito di queste ultime, non assume alcuna responsabilita' per la gestione di qualsiasi ente o impresa in cui investe e non cerca di ottenere il controllo sull'ente o sull'impresa in questione, salvo laddove necessario per salvaguardare l'investimento della Banca.
 
-#### Art. 14
+### Art. 14
 
 Termini e condizioni di finanziamento
 
@@ -328,7 +328,7 @@ Termini e condizioni di finanziamento
 
 (4) Nell'ambito delle sue operazioni, la Banca puo' fornire un finanziamento nella valuta nazionale del paese interessato, conformemente alle politiche volte a ridurre i rischi di cambio.
 
-#### Art. 15
+### Art. 15
 
 Assistenza tecnica
 
@@ -338,7 +338,7 @@ Assistenza tecnica
 
 ## Capitolo IV - FINANZE DELLA BANCA
 
-#### Art. 16
+### Art. 16
 
 Poteri generali
 
@@ -362,7 +362,7 @@ Oltre ai poteri specificati altrove nel presente Accordo, la Banca:
 
 9\. puo' esercitare tutti gli altri poteri ed emanare le regole e i regolamenti necessari o opportuni per sostenere il suo scopo e le sue funzioni, a patto che siano conformi alle disposizioni del presente Accordo.
 
-#### Art. 17
+### Art. 17
 
 Fondi speciali
 
@@ -382,7 +382,7 @@ iii) i redditi derivanti da investimenti di risorse dei Fondi Speciali; e
 
 iv) tutte le altre risorse messe a disposizione di Fondi speciali.
 
-#### Art. 18
+### Art. 18
 
 Destinazione e distribuzione del reddito netto
 
@@ -390,7 +390,7 @@ Destinazione e distribuzione del reddito netto
 
 (2) La distribuzione prevista al paragrafo 1 e' effettuata proporzionalmente al numero di azioni possedute da ogni membro; il Consiglio dei Governatori stabilisce le modalita' e la valuta dei pagamenti.
 
-#### Art. 19
+### Art. 19
 
 Valute
 
@@ -398,7 +398,7 @@ Valute
 
 (2) Spetta alla Banca determinare il valore o la convertibilita' di una valuta ogni qualvolta sia necessario in virtu' del presente Accordo.
 
-#### Art. 20
+### Art. 20
 
 Metodi per adempiere agli impegni della Banca
 
@@ -418,13 +418,13 @@ v) infine, a un importo adeguato del capitale sottoscritto non versato, che sara
 
 ## Capitolo V - GOVERNO DELL'ISTITUZIONE
 
-#### Art. 21
+### Art. 21
 
 Struttura
 
 La Banca ha un Consiglio dei Governatori, un Consiglio di amministrazione, un Presidente, uno o piu' Vicepresidenti e un numero di dirigenti e dipendenti determinato secondo le necessita'.
 
-#### Art. 22
+### Art. 22
 
 Consiglio dei Governatori: composizione
 
@@ -434,7 +434,7 @@ Consiglio dei Governatori: composizione
 
 (3) I Governatori e i supplenti svolgono il mandato senza ricevere alcuna remunerazione dalla Banca; quest'ultima si riserva pero' la facolta' di rimborsare loro spese ragionevoli sostenute per presenziare alle riunioni.
 
-#### Art. 23
+### Art. 23
 
 Consiglio dei Governatori: poteri
 
@@ -466,7 +466,7 @@ xi) esercitare ogni altro potere che il presente Accordo conferisce espressament
 
 (3) Il Consiglio dei Governatori mantiene il pieno potere di esercitare la sua autorita' su ogni materia delegata al Consiglio di amministrazione secondo il paragrafo 2.
 
-#### Art. 24
+### Art. 24
 
 Consiglio dei Governatori: procedura
 
@@ -478,7 +478,7 @@ Consiglio dei Governatori: procedura
 
 (4) Il Consiglio dei Governatori e, per quanto autorizzato, il Consiglio di amministrazione possono creare filiali e adottare le regole e i regolamenti necessari o opportuni per la gestione della Banca.
 
-#### Art. 25
+### Art. 25
 
 Consiglio di amministrazione: composizione
 
@@ -506,7 +506,7 @@ c) Durante la vacanza, un suo supplente esercita i poteri dell'ex Amministratore
 
 (6) Gli Amministratori e i loro supplenti non sono remunerati dalla Banca, a meno che il Consiglio dei Governatori non decida altrimenti; la Banca puo' tuttavia rimborsare loro ragionevoli spese sostenute per presenziare alle riunioni.
 
-#### Art. 26
+### Art. 26
 
 Consiglio di amministrazione: poteri
 
@@ -526,7 +526,7 @@ vi) istituire i comitati ritenuti necessari; e
 
 vii) sottoporre all'approvazione del Consiglio dei Governatori, ad ogni esercizio finanziario, i conti controllati dai revisori.
 
-#### Art. 27
+### Art. 27
 
 Consiglio di amministrazione: procedura
 
@@ -538,7 +538,7 @@ Consiglio di amministrazione: procedura
 
 (4) Il Consiglio di amministrazione istituisce procedure che consentano di tenere riunioni virtuali o di votare su una questione senza convocare una riunione.
 
-#### Art. 28
+### Art. 28
 
 Votazioni
 
@@ -566,7 +566,7 @@ i) Gli Amministratori che hanno diritto a esprimere i voti di piu' di un membro 
 
 ii) A meno che il presente Accordo non preveda espressamente altrimenti, il Consiglio di amministrazione decide su tutte le questioni che gli sono sottoposte con una maggioranza dei voti espressi.
 
-#### Art. 29
+### Art. 29
 
 Presidente
 
@@ -582,7 +582,7 @@ Puo' partecipare, senza diritto di voto, alle riunioni del Consiglio dei Governa
 
 (4) Il Presidente e' il rappresentante legale della Banca. E' il capo del personale della Banca e conduce, sotto la direzione del Consiglio di amministrazione, gli affari correnti della Banca.
 
-#### Art. 30
+### Art. 30
 
 Dirigenti e dipendenti della Banca
 
@@ -592,7 +592,7 @@ Dirigenti e dipendenti della Banca
 
 (3) Nel nominare i dirigenti e i dipendenti e nel raccomandare i Vicepresidenti, previa assicurazione del rispetto dei massimi standard in termini di efficienza e competenza, il Presidente presta la dovuta attenzione all'assunzione di personale su una base geografico-regionale la piu' estesa possibile.
 
-#### Art. 31
+### Art. 31
 
 Carattere internazionale della Banca
 
@@ -604,7 +604,7 @@ Carattere internazionale della Banca
 
 ## Capitolo VI - DISPOSIZIONI GENERALI
 
-#### Art. 32
+### Art. 32
 
 Sedi della Banca
 
@@ -612,7 +612,7 @@ Sedi della Banca
 
 (2) La Banca puo' creare agenzie e succursali altrove.
 
-#### Art. 33
+### Art. 33
 
 Canali di comunicazione; depositari
 
@@ -622,7 +622,7 @@ Canali di comunicazione; depositari
 
 (3) La Banca puo' detenere le sue attivita' patrimoniali presso i depositari decisi dal Consiglio di amministrazione.
 
-#### Art. 34
+### Art. 34
 
 Rapporti e informazioni
 
@@ -634,7 +634,7 @@ Rapporti e informazioni
 
 (4) La Banca definisce una politica in materia di divulgazione delle informazioni allo scopo di promuovere la trasparenza delle sue operazioni. La Banca puo' pubblicare ogni altro rapporto che ritenga opportuno ai fini del suo scopo e delle sue funzioni.
 
-#### Art. 35
+### Art. 35
 
 Cooperazione con membri
 
@@ -644,7 +644,7 @@ e organizzazioni internazionali
 
 (2) Con l'approvazione del Consiglio di amministrazione, la Banca puo' concludere accordi con queste organizzazioni per scopi compatibili con il presente Accordo.
 
-#### Art. 36
+### Art. 36
 
 Rimandi
 
@@ -654,7 +654,7 @@ Rimandi
 
 ## Capitolo VII - RECESSO E SOSPENSIONE DEI MEMBRI 21
 
-#### Art. 37
+### Art. 37
 
 Recesso
 
@@ -664,7 +664,7 @@ Recesso
 
 (3) Un membro che recede conserva, verso la Banca, gli obblighi cui sottostava, per l'insieme dei suoi impegni diretti e condizionali, alla data di ricezione della notifica di recesso. Se quest'ultimo diviene effettivo, il membro non assume alcuna responsabilita' per gli obblighi risultanti da operazioni fatte dalla Banca dopo la data in cui la Banca ha ricevuto la notifica di recesso.
 
-#### Art. 38
+### Art. 38
 
 Sospensione
 
@@ -674,7 +674,7 @@ Sospensione
 
 (3) Durante la sospensione, il membro e' privato di tutti i diritti conferiti dal presente Accordo, salvo da quello di recesso, ma ne resta sottoposto a tutti gli obblighi.
 
-#### Art. 39
+### Art. 39
 
 Liquidazione dei conti
 
@@ -694,17 +694,15 @@ iv) se la Banca subisce perdite su prestiti, garanzie, partecipazioni azionarie 
 
 (4) Se la Banca cessa la sua attivita' conformemente all'articolo 41 entro sei (6) mesi dalla data in cui un Paese cessa di essere membro, tutti i diritti del medesimo sono definiti conformemente agli articoli 41-43. Il Paese in questione, quanto all'applicazione di detti articoli, e' considerato come se fosse ancora membro, pur non avendo diritto di voto.
 
-## Capitolo VIII - SOSPENSIONE E CESSAZIONE
+## Capitolo VIII - SOSPENSIONE E CESSAZIONE DELLE OPERAZIONI DELLA BANCA
 
-### DELLE OPERAZIONI DELLA BANCA
-
-#### Art. 40
+### Art. 40
 
 Sospensione temporanea delle operazioni
 
 In caso di emergenza, il Consiglio di amministrazione puo' sospendere temporaneamente le operazioni in relazione a nuovi prestiti, garanzie, partecipazioni azionarie e altre forme di finanziamento di cui all'articolo 11 paragrafo 2 numero vi, nell'attesa che il Consiglio dei Governatori abbia la possibilita' di decidere in proposito.
 
-#### Art. 41
+### Art. 41
 
 Cessazione delle operazioni
 
@@ -712,7 +710,7 @@ Cessazione delle operazioni
 
 (2) Dopo la cessazione, la Banca smette immediatamente tutte le attivita' tranne quelle connesse con la realizzazione, la conservazione e la salvaguardia adeguate del suo patrimonio e con la liquidazione dei suoi obblighi.
 
-#### Art. 42
+### Art. 42
 
 Responsabilita' dei membri e liquidazione dei crediti
 
@@ -720,7 +718,7 @@ Responsabilita' dei membri e liquidazione dei crediti
 
 (2) I detentori di crediti diretti vanno tacitati attingendo dapprima al patrimonio della Banca e successivamente ai fondi versati alla Banca o ad azioni non versate o a chiamata. Prima di ogni versamento ai creditori diretti, il Consiglio di amministrazione prende le misure ritenute necessarie per assicurare un riparto proporzionale fra detentori di crediti diretti e detentori di crediti condizionali.
 
-#### Art. 43
+### Art. 43
 
 Distribuzione dell'attivo
 
@@ -738,7 +736,7 @@ Nessun membro puo' ricevere la propria parte prima di aver pienamente soddisfatt
 
 ## Capitolo IX - STATUS, IMMUNITÀ, PRIVILEGI ED ESENZIONI
 
-#### Art. 44
+### Art. 44
 
 Scopo del presente capitolo
 
@@ -746,7 +744,7 @@ Scopo del presente capitolo
 
 (2) Ogni membro adotta immediatamente le misure necessarie per rendere effettive sul proprio territorio le disposizioni del presente capitolo e informa la Banca sulle misure adottate.
 
-#### Art. 45
+### Art. 45
 
 Status della Banca
 
@@ -760,7 +758,7 @@ iii) agire e rispondere in giudizio; e
 
 iv) adottare tutte le altre misure necessarie od opportune ai fini del suo scopo e delle sue attivita'.
 
-#### Art. 46
+### Art. 46
 
 Immunita' dalla giurisdizione
 
@@ -770,7 +768,7 @@ Immunita' dalla giurisdizione
 
 (3) Le proprieta' e il patrimonio della Banca, ovunque si trovino e chiunque li detenga, sono immuni da ogni forma di sequestro, pignoramento o procedura esecutiva fintanto che non sia stata pronunciata una sentenza definitiva contro la Banca.
 
-#### Art. 47
+### Art. 47
 
 Immunita' del patrimonio e degli archivi
 
@@ -778,19 +776,19 @@ Immunita' del patrimonio e degli archivi
 
 (2) Gli archivi della Banca e, in generale, tutti i documenti da essa posseduti o detenuti sono inviolabili, ovunque si trovino e chiunque li detenga.
 
-#### Art. 48
+### Art. 48
 
 Esenzione del patrimonio da ogni limitazione
 
 Fatte salve le disposizioni del presente Accordo, il patrimonio della Banca e' esente da restrizioni, regolamentazioni, controlli e moratorie d'ogni specie, nella misura necessaria per raggiungere lo scopo ed esercitare le funzioni della Banca efficacemente.
 
-#### Art. 49
+### Art. 49
 
 Privilegi in materia di comunicazioni
 
 Ogni membro accorda alle comunicazioni ufficiali della Banca lo stesso trattamento che accorda alle comunicazioni ufficiali degli altri membri.
 
-#### Art. 50
+### Art. 50
 
 Immunita' e privilegi dei dirigenti e dei dipendenti
 
@@ -802,7 +800,7 @@ ii) beneficiano, nei Paesi membri di cui non sono ne' cittadini ne' soggetti naz
 
 iii) beneficiano delle stesse agevolazioni in materia di trasporti accordate ai rappresentanti, funzionari e dipendenti di pari rango degli altri membri.
 
-#### Art. 51
+### Art. 51
 
 Esenzioni tributarie
 
@@ -822,7 +820,7 @@ i) che discrimini tale obbligazione o titolo per l'unico motivo di essere stati 
 
 ii) se l'unica base giuridica di tale imposta e' la localita' dove ha sede un ufficio o un centro operativo della Banca.
 
-#### Art. 52
+### Art. 52
 
 Rinunce
 
@@ -830,7 +828,7 @@ Rinunce
 
 ## Capitolo X - EMENDAMENTI, INTERPRETAZIONE, ARBITRATO
 
-#### Art. 53
+### Art. 53
 
 Emendamenti
 
@@ -846,7 +844,7 @@ iii) i diritti relativi all'acquisto di capitale sociale di cui all'articolo 5 p
 
 (3) Ogni proposta di emendamento del presente Accordo, formulata da un membro o dal Consiglio di amministrazione, va comunicata al Presidente del Consiglio dei Governatori, che la sottopone al Consiglio stesso. In caso di adozione dell'emendamento, la Banca certifica il fatto con una nota ufficiale indirizzata a tutti i membri. L'emendamento entra in vigore, per tutti i membri, tre (3) mesi dopo la data della nota ufficiale, a meno che il Consiglio dei Governatori non abbia disposto altrimenti.
 
-#### Art. 54
+### Art. 54
 
 Interpretazione
 
@@ -854,13 +852,13 @@ Interpretazione
 
 (2) In tutti i casi in cui il Consiglio di amministrazione ha preso una decisione in virtu' del paragrafo 1, ogni membro puo' chiedere che la divergenza sia portata al Consiglio dei Governatori, la cui decisione e' inappellabile. Nell'attesa della decisione del Consiglio dei Governatori, la Banca puo', in quanto lo ritenga necessario, agire conformemente alla decisione del Consiglio di amministrazione.
 
-#### Art. 55
+### Art. 55
 
 Arbitrato
 
 Ogni controversia fra la Banca e un Paese che ha cessato di essere membro oppure fra la Banca e un membro dopo la decisione di porre fine alle attivita' della Banca e' sottoposta a un tribunale di tre arbitri: uno nominato dalla Banca, uno dal Paese interessato e uno, tranne intesa contraria fra le parti, dal Presidente della Corte internazionale di giustizia o da un'altra autorita' eventualmente designata nei regolamenti adottati dal Consiglio dei Governatori. Una votazione a maggioranza assoluta degli arbitri e' sufficiente per raggiungere una decisione inappellabile e vincolante per le parti. Il terzo arbitro ha facolta' di risolvere eventuali questioni procedurali in caso di disaccordo fra le parti.
 
-#### Art. 56
+### Art. 56
 
 Approvazione tacita
 
@@ -868,7 +866,7 @@ Ogni qualvolta e' richiesta l'approvazione di un membro affinche' la Banca possa
 
 ## Capitolo XI - DISPOSIZIONI FINALI
 
-#### Art. 57
+### Art. 57
 
 Firma e deposito
 
@@ -876,7 +874,7 @@ Firma e deposito
 
 (2) Il depositario invia copie certificate conformi del presente Accordo a tutti i firmatari e agli altri Paesi che divengono membri della Banca.
 
-#### Art. 58
+### Art. 58
 
 Ratifica, accettazione o approvazione
 
@@ -884,13 +882,13 @@ Ratifica, accettazione o approvazione
 
 (2) Il firmatario il cui strumento di ratifica, accettazione o approvazione sia depositato prima della data di entrata in vigore del presente Accordo diviene membro della Banca alla data di entrata in vigore. Ogni altro firmatario che si sia conformato al disposto del paragrafo precedente diviene membro alla data di deposito del proprio strumento di ratifica, accettazione o approvazione.
 
-#### Art. 59
+### Art. 59
 
 Entrata in vigore
 
 Il presente Accordo entra in vigore non appena siano stati depositati gli strumenti di ratifica, accettazione o approvazione di almeno dieci (10) firmatari, le cui sottoscrizioni iniziali, conformemente all'Allegato A, rappresentino complessivamente almeno il cinquanta (50) per cento del totale delle sottoscrizioni.
 
-#### Art. 60
+### Art. 60
 
 Assemblea inaugurale e avvio delle operazioni
 
@@ -910,7 +908,7 @@ iv) adotta tutte le altre misure necessarie per preparare l'avvio delle operazio
 
 Fatto a Pechino, nella Repubblica Popolare Cinese, il 29 giugno 2015 in un solo originale depositato negli archivi del depositario, i cui testi in inglese, cinese e francese fanno ugualmente fede.
 
-#### Allegato A
+### Allegato A
 
 Allegato A
 
@@ -1056,7 +1054,7 @@ secondo l'articolo 58
 |===================================================================|
 ```
 
-#### Allegato B
+### Allegato B
 
 Allegato B
 

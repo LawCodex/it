@@ -26,9 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## Capo I - ORDINAMENTO DEL PERSONALE
+### Capo I - ORDINAMENTO DEL PERSONALE
 
-### Art. 1
+#### Art. 1
 
 Classificazione del personale postelegrafonico
 
@@ -58,13 +58,13 @@ AGGIORNAMENTO (1)
 
 La L. 22 dicembre 1981, n. 797, ha disposto (con l'art. 5, comma 1) che "Con effetto dal 1 gennaio 1982 i due settori operativi previsti, rispettivamente, dalle lettere b) e e) dell'ultimo comma dell'articolo 1 della legge 3 aprile 1979, n. 101, vengono fusi nell'unico settore dell'esercizio UP e ASST."
 
-### Art. 2
+#### Art. 2
 
 Equiparazione degli operai agli impiegati
 
 Gli operai delle aziende postelegrafoniche sono equiparati, a tutti gli effetti, agli impiegati inquadrati nelle stesse categorie professionali e sono assoggettati alle stesse norme dello stato giuridico.
 
-### Art. 3
+#### Art. 3
 
 Declaratoria di categoria
 
@@ -110,7 +110,7 @@ AGGIORNAMENTO (1)
 
 La L. 22 dicembre 1981, n. 797, ha disposto (con l'art. 3) che le modifiche al presente articolo 3, relative alle declaratorie di categorie, hanno effetto dal 1 gennaio 1982.
 
-### Art. 4
+#### Art. 4
 
 Dotazioni organiche e contingenti
 
@@ -118,7 +118,7 @@ Le dotazioni dei posti di organico sono stabilite cumulativamente per ciascuna c
 
 La dotazione organica di ciascuna categoria e la dotazione organica di ciascuno dei due raggruppamenti della VII categoria sono ripartite, in relazione alle esigenze dei servizi e con le modalita' di cui al penultimo comma dell'articolo 1, in contingenti autonomi per le diverse qualifiche funzionali in cui essi si articolano, in conformita' a quanto stabilito al successivo articolo 5.
 
-### Art. 5
+#### Art. 5
 
 Ruoli organici dell'Amministrazione PT
 
@@ -130,7 +130,7 @@ b) per il rimanente personale dell'esercizio, con modalita' e criteri conformi a
 
 c) per il personale degli uffici, per il personale della VII categoria, raggruppamento a) e per il personale dell'VIII categoria, con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con quello del tesoro, sentiti la commissione paritetica amministrazione-sindacati di cui al precedente articolo 1 e il consiglio di amministrazione, nel limite, rispettivamente, del 3 per cento (uffici), dello 0,75 per cento (VII categoria, raggruppamento a) e dello 0,50 per cento (VIII categoria) della dotazione complessiva del personale dell'esercizio.
 
-### Art. 6
+#### Art. 6
 
 Ruoli organici dell'ASST
 
@@ -142,7 +142,7 @@ Con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con 
 
 L'adeguamento dei ruoli organici, per effetto dell'applicazione delle disposizioni di cui ai precedenti commi, decorre dal 1 gennaio 1980.
 
-### Art. 7
+#### Art. 7
 
 Assunzione in impiego
 
@@ -192,7 +192,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 ottobre 1989, n. 355, ha disposto (con l'art. 4, comma 2) che "le percentuali indicate nelle lettere a) e b) del numero 8) del primo comma dell'articolo 7 della legge 3 aprile 1979, n. 101, riguardanti i posti da conferire negli anni dal 1982 al 1987, sono da riferire alla dotazione organica della corrispondente qualifica".
 
-### Art. 8
+#### Art. 8
 
 Titoli di studio
 
@@ -210,7 +210,7 @@ Per il personale di ruolo ammesso ai concorsi, interni o pubblici, per l'accesso
 
 La disposizione del comma precedente non si applica per la nomina a qualifiche tecniche.
 
-### Art. 9
+#### Art. 9
 
 Anzianita' minime
 
@@ -224,7 +224,7 @@ c) dalla categoria III alla IV: 3 anni;
 
 d) dalla categoria IV alla V, dalla V alla VI, dalla VI alla VII e dalla VII all'VIII: 4 anni.
 
-### Art. 10
+#### Art. 10
 
 Concorsi di reclutamento
 
@@ -244,13 +244,13 @@ I concorsi di reclutamento, pubblici o interni, salvo quelli di accesso alla cat
 
 Le disposizioni di cui all'articolo 27 della legge 18 marzo 1968, n. 249, non si applicano all'Amministrazione delle poste e delle telecomunicazioni ed all'Azienda di Stato per i servizi telefonici.
 
-### Art. 11
+#### Art. 11
 
 Cambio di qualifica funzionale
 
 I casi e le modalita' di passaggio da un contingente all'altro previsti nell'ambito della stessa categoria per le diverse qualifiche funzionali sono disciplinati con decreto del Ministro delle poste e delle telecomunicazioni, sentiti gli organi di cui al terzo comma del precedente articolo 10.
 
-### Art. 12
+#### Art. 12
 
 Accesso alle qualifiche dirigenziali
 
@@ -258,7 +258,7 @@ Salvo quanto previsto al comma successivo, l'accesso alle qualifiche dirigenzial
 
 Restano ferme le disposizioni del citato decreto del Presidente della Repubblica n. 748 in favore del personale delle qualifiche ad esaurimento di ispettore generale e di direttore di divisione e di quello proveniente dalla qualifica di direttore aggiunto di divisione.
 
-### Art. 13
+#### Art. 13
 
 ((Conferimento dei compiti di categoria o qualifica superiore.
 
@@ -280,7 +280,7 @@ Restano ferme le disposizioni del citato decreto del Presidente della Repubblica
 
 9\. Le disposizioni di attuazione dei commi 1 e 8 sono emanate con le modalita' di cui all'articolo 10, terzo comma, della presente legge.))
 
-### Art. 14
+#### Art. 14
 
 Valutazione del personale
 
@@ -294,7 +294,7 @@ I rapporti informativi e i giudizi complessivi annuali sono mantenuti in vigore 
 
 Sono, altresi', mantenute in vigore le relazioni al termine del periodo di prova del personale di prima nomina, ai fini della conferma in ruolo.
 
-### Art. 15
+#### Art. 15
 
 Ritardi nella progressione economica e giuridica
 
@@ -302,9 +302,9 @@ Il personale al quale venga inflitta la nota di demerito di cui all'articolo pre
 
 Nel caso di sospensione dalla qualifica il ritardo e' di due anni.
 
-## Capo II - TRATTAMENTO ECONOMICO
+### Capo II - TRATTAMENTO ECONOMICO
 
-### Art. 16
+#### Art. 16
 
 Tabella degli stipendi
 
@@ -378,7 +378,7 @@ VIII . . . . . . . . . . . . . . . . . . . . . . . . . . L.
 
 (1) L. 2.400.000 dopo sei mesi dalla data di assunzione."
 
-### Art. 17
+#### Art. 17
 
 Trattamento temporaneo per talune qualifiche
 
@@ -390,19 +390,19 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 5 febbraio 1982, n.23, ha disposto (con l'art. 5) che "Con effetto dal 31 gennaio 1981 sono soppressi i trattamenti economici transitori previsti dagli articoli 17, 34 e 41 della legge 3 aprile 1979, n. 101."
 
-### Art. 18
+#### Art. 18
 
 Trattamento economico nel passaggio di categoria
 
 Il dipendente postelegrafonico che, mediante concorso interno o pubblico, transita a categoria superiore, consegue nella nuova posizione, anche ai fini dell'ulteriore progressione economica, la classe di stipendio che gli assicuri lo stipendio d'importo immediatamente superiore al trattamento complessivo, per stipendio ed eventuale assegno personale di cui alla lettera c) del successivo articolo 39, in godimento all'atto del passaggio; se quest'ultimo trattamento risulta di importo superiore anche a quello inerente all'ottava classe di stipendio, della nuova categoria, al dipendente sono attribuiti in tale classe gli aumenti periodici necessari per assicurargli uno stipendio immediatamente superiore al trattamento gia' in godimento.
 
-### Art. 19
+#### Art. 19
 
 Valutazione di anzianita' pregressa
 
 Al personale transitato a categoria superiore e' valutata, ai fini dell'ulteriore progressione economica in tale categoria, la frazione di biennio maturata nella posizione stipendiale di provenienza qualora, al compimento del biennio, avesse conseguito, nella precedente posizione, uno stipendio d'importo superiore a quello attribuitogli all'atto del passaggio di categoria.
 
-### Art. 20
+#### Art. 20
 
 Trattamento di quiescenza e di previdenza
 
@@ -412,7 +412,7 @@ Le quote mensili, di cui al precedente comma, si considerano maturate in numero 
 
 Sulle quote aggiuntive, di cui ai precedenti commi, sono operate le normali ritenute per la quiescenza e per la previdenza.
 
-### Art. 21
+#### Art. 21
 
 Stipendi del personale non di ruolo
 
@@ -426,15 +426,15 @@ L. 2.088.000;
 
 c) impiegati straordinari di cui alla legge 14 dicembre 1965, n. 1376: L. 2.800.000.
 
-### Art. 22
+#### Art. 22
 
 Revisione del premio industriale
 
 Con la procedura prevista dall'articolo 9 della legge 22 luglio 1975, n. 382, si provvede con decorrenza 1 gennaio 1979 alla revisione della disciplina del premio industriale, previsto dagli articoli 28 e 29 dell'allegato alla legge 11 febbraio 1970, n. 29, e successive modificazioni ed integrazioni, nei limiti di spesa annua di lire 19.500 milioni per l'Amministrazione delle poste e delle telecomunicazioni e di lire 1.500 milioni per l'Azienda di Stato per i servizi telefonici.
 
-## Capo III - ASPETTI SINDACALI
+### Capo III - ASPETTI SINDACALI
 
-### Art. 23
+#### Art. 23
 
 Aspettative e permessi per motivi sindacali
 
@@ -444,7 +444,7 @@ Il contingente delle aspettative e' ripartito tra le organizzazioni sindacali in
 
 Il numero delle assenze, da autorizzare ai sensi degli articoli 47 e 48 della citata legge n. 249, e' fissato, per ciascuna provincia e per ciascuna organizzazione sindacale, con le modalita' di cui al precedente primo comma.
 
-### Art. 24
+#### Art. 24
 
 Revoca delle designazioni
 
@@ -452,7 +452,7 @@ I rappresentanti del personale nominati in seno agli organi collegiali delle azi
 
 La decadenza dei primi e la nomina dei nuovi rappresentanti decorrono dalla data del provvedimento dell'amministrazione, da emanare entro quindici giorni dalla ricezione della comunicazione.
 
-### Art. 25
+#### Art. 25
 
 Ritenute per contributi sindacali
 
@@ -460,7 +460,7 @@ I contributi sindacali dei dipendenti delle aziende postelegrafoniche, nella mis
 
 In caso di modifica delle misure percentuali della trattenuta stabilite dagli organismi statutari delle organizzazioni sindacali, il dipendente ha facolta' di revocare la delega con effetto dalla data di decorrenza della modifica, purche' notifichi la revoca alle organizzazioni sindacali entro il termine di trenta giorni dalla data in cui e' stata resa pubblica la modifica stessa.
 
-### Art. 26
+#### Art. 26
 
 Contributi associativi
 
@@ -476,9 +476,9 @@ Le aziende sono autorizzate, altresi', ad emanare le norme di applicazione del p
 
 Il Ministro delle poste e delle telecomunicazioni determina con proprio decreto, sentito il consiglio di amministrazione, la misura del rimborso degli oneri sostenuti dalle aziende per l'effettuazione di ritenute diverse da quelle di cui al precedente comma)).
 
-## Capo IV
+### Capo IV
 
-### Art. 27
+#### Art. 27
 
 Assunzioni senza concorso
 
@@ -488,15 +488,15 @@ A tal fine sono utilizzati i posti disponibili nelle attuali prima, seconda, ter
 
 In caso di rinuncia espressa da parte del coniuge o di sua inesistenza, le Aziende predette hanno eguale facolta' di assumere un figlio maggiorenne del dipendente deceduto che ne faccia richiesta entro due anni dal riconoscimento che il decesso e' avvenuto per causa direttamente connessa con il servizio o, se piu' favorevole, dal raggiungimento della maggiore eta'. Allorche' piu' figli maggiorenni abbiano presentato richiesta di assunzione, le aziende possono procedere all'assunzione di uno di essi, secondo l'ordine cronologico della nascita)).
 
-## Capo V - DISPOSIZIONI FINALI E TRANSITORIE
+### Capo V - DISPOSIZIONI FINALI E TRANSITORIE
 
-### Art. 28
+#### Art. 28
 
 Norme compatibili
 
 Al personale contemplato dalla presente legge continuano ad applicarsi le norme di stato giuridico e quelle del cessato ordinamento delle carriere che non siano incompatibili con le disposizioni della medesima presente legge. In quanto occorrano, le norme di raccordo fra il cessato ordinamento ed il nuovo sono stabilite con le modalita' di cui al penultimo comma del precedente articolo 1.
 
-### Art. 29
+#### Art. 29
 
 Inquadramento nelle nuove categorie
 
@@ -552,7 +552,7 @@ b) per l'Azienda di Stato per i servizi telefonici: il personale della stessa qu
 
 L'inquadramento di cui al precedente comma e' effettuato salvaguardando l'ordine di ruolo delle qualifiche di provenienza.
 
-### Art. 30
+#### Art. 30
 
 Ruoli organici
 
@@ -562,7 +562,7 @@ Contestualmente alla definizione dei profili professionali si procede, con le mo
 
 Con decorrenza dal 1 gennaio 1979 le dotazioni organiche della VII categoria, raggruppamento a) e della VIII categoria dell'Azienda di Stato per i servizi telefonici sono fissate in misura pari, rispettivamente, al 60 per cento ed al 40 per cento delle dotazioni delle qualifiche non dirigenziali delle carriere direttive dell'Azienda stessa.
 
-### Art. 31
+#### Art. 31
 
 Titoli di studio
 
@@ -576,13 +576,13 @@ c) il diploma di istituto d'istruzione secondaria di primo grado per l'accesso a
 
 Ai fini dell'accesso alla III categoria, per gli attuali iscritti negli albi provinciali dei sostituti portalettere e' sufficiente il possesso della licenza della scuola elementare.
 
-### Art. 32
+#### Art. 32
 
 Anzianita' minima
 
 Ai fini previsti dal precedente articolo 9, l'anzianita' di servizio acquisita nella soppressa carriera di provenienza, o nella soppressa qualifica ove quest'ultima dia titolo all'inquadramento in una categoria superiore rispetto a quella prevista per i provenienti da qualifica inferiore della stessa ex-carriera, e' considerata equipollente a quella maturata nella categoria di inquadramento.
 
-### Art. 33
+#### Art. 33
 
 Titolo di merito autonomo
 
@@ -590,7 +590,7 @@ L'idoneita' conseguita nei concorsi per esame di passaggio alla qualifica interm
 
 ## Titolo di merito autonomo
 
-### Art. 34
+#### Art. 34
 
 Accesso alla categoria VIII
 
@@ -606,7 +606,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 5 febbraio 1982, n.23, ha disposto (con l'art. 5) che "Con effetto dal 31 gennaio 1981 sono soppressi i trattamenti economici transitori previsti dagli articoli 17, 34 e 41 della legge 3 aprile 1979, n. 101."
 
-### Art. 35
+#### Art. 35
 
 Riserva di posti
 
@@ -614,19 +614,19 @@ I posti che si rendono vacanti a far tempo dal 1 gennaio 1979 nel contingente de
 
 La riserva del 40 per cento dei posti nei pubblici concorsi per l'accesso alla V categoria, nel contingente del personale degli uffici e in taluni contingenti del personale dell'esercizio, prevista dall'articolo 7 in favore del personale di IV categoria dei vari corrispondenti settori operativi, e' elevata, sino al 14 ottobre 1980, al 60 per cento, salve le speciali norme vigenti per l'assunzione degli idonei dei concorsi pubblici gia' espletati alla data del 14 ottobre 1978.
 
-### Art. 36
+#### Art. 36
 
 Interpretazione autentica
 
 Il disposto, di cui al quattordicesimo comma dell'articolo 120 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077, deve intendersi applicabile anche ai concorsi per il conferimento dei posti di direttore di ufficio locale di gruppo A e C, previsti dal primo e dal secondo comma dello stesso articolo.
 
-### Art. 37
+#### Art. 37
 
 Cambio di contingenti
 
 Il personale delle poste e delle telecomunicazioni della tabella XXIV in servizio nelle zone urbanizzate e gli operatori ed operatori principali degli uffici locali trasformati in uffici principali vengono inquadrati, nell'ambito delle competenti categorie, nei corrispondenti contingenti del personale degli uffici principali, con il pieno riconoscimento della anzianita' acquisita nei ruoli degli uffici locali e delle agenzie.
 
-### Art. 38
+#### Art. 38
 
 Concorso per titoli riservato
 
@@ -634,7 +634,7 @@ Entro sei mesi dalla data di entrata in vigore della presente legge sara' bandit
 
 La dotazione organica della IV categoria sara' ridotta e quella della V categoria sara' incrementata di un numero di posti pari alla attuale dotazione organica della qualifica iniziale della predetta tabella XI.
 
-### Art. 39
+#### Art. 39
 
 Inquadramento ai fini economici
 
@@ -650,13 +650,13 @@ A decorrere dal 1 maggio 1978 al personale postelegrafonico di cui alla presente
 
 In sede di liquidazione degli stipendi, di cui alla precedente lettera c), le aziende postelegrafoniche sono autorizzate a portare a conguaglio gli importi corrisposti ai predetti titoli.
 
-### Art. 40
+#### Art. 40
 
 Retroattivita'
 
 Nella prima applicazione della presente legge, ai soli fini del conseguimento della classe di stipendio successiva allo stipendio attribuito nel primo inquadramento, quest'ultimo si considera decorrente dal 1 gennaio 1977 o dalla data di assunzione del personale, se successiva.
 
-### Art. 41
+#### Art. 41
 
 Trattamenti transitori per talune qualifiche
 
@@ -686,7 +686,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 ottobre 1989, n. 335, ha disposto (con l'art. 10, comma 3) che "Nei confronti del personale di cui alla prima parte del secondo comma dell'articolo 41 della legge 3 aprile 1979, n. 101, per "maturato economico" realizzato alla data del 30 aprile 1978 si intende il trattamento economico determinato ai sensi degli articoli 39 e 40 della stessa legge. Qualora detto trattamento, ancorche' inferiore allo stipendio iniziale della rispettiva categoria di inquadramento, risulti superiore allo stipendio iniziale della rispettiva categoria immediatamente inferiore, e' attribuito, in quest'ultima categoria, lo stipendio calcolato ai sensi dei citati articoli 39 e 40. L'eventuale assegno personale conferito in tale sede e' riassorbito all'atto dell'attribuzione dello stipendio iniziale della rispettiva categoria di inquadramento".
 
-### Art. 42
+#### Art. 42
 
 Modificazioni delle situazioni soggettive
 
@@ -696,13 +696,13 @@ Nel caso in cui, nel periodo anzidetto, il dipendente abbia conseguito il passag
 
 Il disposto di cui ai precedenti commi si applica anche nei confronti di coloro che conseguano il miglioramento in base a concorsi gia' indetti al 14 ottobre 1978 o che saranno banditi anche successivamente, ma per i posti disponibili al 1 gennaio 1978.
 
-### Art. 43
+#### Art. 43
 
 Formazione professionale
 
 Al fine di conseguire il piu' alto grado di professionalita' dei lavoratori postelegrafonici, le aziende predispongono ed attuano programmi organici di formazione professionale del personale mediante corsi di qualificazione, riqualificazione, aggiornamento e specializzazione, dando priorita' ai corsi per il personale addetto ai servizi al pubblico, alla ripartizione delle corrispondenze e dei pacchi o a servizi soggetti a trasformazioni tecnologiche.
 
-### Art. 44
+#### Art. 44
 
 Onere
 

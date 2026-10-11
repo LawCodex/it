@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 (Servizi di distribuzione e vendita
 
@@ -62,7 +62,7 @@ AGGIORNAMENTO (13)
 
 Il D.P.R. 7 febbraio 2000, n. 115 ha disposto (con l'art. 1) l'abrogazione del comma 2 del presente articolo "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 6".
 
-### Art. 2
+## Art. 2
 
 (Attribuzioni degli Ispettorati
 
@@ -74,19 +74,19 @@ Ad essi sono preposti funzionari amministrativi della carriera direttiva, i qual
 
 Il funzionario preposto all'Ispettorato compartimentale interviene in rappresentanza dell'Amministrazione in materia di contratti e per la prevenzione e repressione delle frodi fiscali, entro i limiti e con le modalita' stabilite dal regolamento.
 
-### Art. 3
+## Art. 3
 
 ((ARTICOLO ABROGATO DAL D.P.R.15 DICEMBRE 2003, N. 385))
 
-### Art. 4
+## Art. 4
 
 ((ARTICOLO ABROGATO DAL D.P.R.15 DICEMBRE 2003, N. 385))
 
-### Art. 5
+## Art. 5
 
 ((ARTICOLO ABROGATO DAL D.P.R.15 DICEMBRE 2003, N. 385))
 
-### Art. 6 - Cause di esclusione dalla gestione dei magazzini di vendita
+## Art. 6 - Cause di esclusione dalla gestione dei magazzini di vendita
 
 Non puo' gestire un magazzino chi:
 
@@ -124,7 +124,7 @@ AGGIORNAMENTO (18)
 
 Il D.L. 21 giugno 2013, n. 69 convertito con modificazioni dalla L. 9 agosto 2013, n. 98 ha disposto (con l'art. 42, comma 4) che "Sono abrogate le disposizioni relative all'obbligatorieta' del certificato per la vendita dei generi di monopolio, di cui all'articolo 6, primo comma, numero 5), della legge 22 dicembre 1957, n. 1293".
 
-### Art. 7 - Cause di incompatibilita' alla gestione dei magazzini di vendita
+## Art. 7 - Cause di incompatibilita' alla gestione dei magazzini di vendita
 
 Non puo' gestire un magazzino chi:
 
@@ -136,11 +136,11 @@ Non puo' gestire un magazzino chi:
 
 L'incompatibilita' cessa se, entro i termini stabiliti dall'Amministrazione, l'interessato ne abbia rimosso la causa.
 
-### Art. 8
+## Art. 8
 
 ((ARTICOLO ABROGATO DAL D.P.R.15 DICEMBRE 2003, N. 385))
 
-### Art. 9 - Gestione personale - Coadiutore
+## Art. 9 - Gestione personale - Coadiutore
 
 Il magazzino deve essere gestito personalmente dal magazziniere.
 
@@ -154,15 +154,15 @@ L'appalto deve essere preceduto da un periodo di prova di almeno sei mesi, svolt
 
 Al coadiutore sono estese le disposizioni degli articoli 6 e 7.
 
-### Art. 10
+## Art. 10
 
 ((ARTICOLO ABROGATO DAL D.P.R.15 DICEMBRE 2003, N. 385))
 
-### Art. 11
+## Art. 11
 
 ((ARTICOLO ABROGATO DAL D.P.R.15 DICEMBRE 2003, N. 385))
 
-### Art. 12 - Sospensione dei magazzinieri dalla gestione
+## Art. 12 - Sospensione dei magazzinieri dalla gestione
 
 E' in facolta' dell'Amministrazione sospendere dal servizio il magazziniere denunziato per uno dei reati di cui all'art. 6, n. 6, lettere a), b), c) e d).
 
@@ -170,7 +170,7 @@ La riammissione in servizio non da' diritto ad indennizzo o risarcimento ed ha l
 
 Nel caso di dichiarazione di fallimento del magazziniere, ovvero di condanna che importi interdizione temporanea dai pubblici uffici, la sospensione e' obbligatoria.
 
-### Art. 13 - Decadenza dalla gestione
+## Art. 13 - Decadenza dalla gestione
 
 Il magazziniere decade dalla gestione:
 
@@ -182,7 +182,7 @@ c) quando non abbia ottenuto la cancellazione dal registro dei falliti entro due
 
 d) quando abbia riportato condanna che importi interdizione temporanea dai pubblici uffici per un periodo superiore a due anni.
 
-### Art. 14 - Disdetta, revoca e rinunzia
+## Art. 14 - Disdetta, revoca e rinunzia
 
 L'Amministrazione puo' procedere alla disdetta del contratto d'appalto ovvero alla revoca della reggenza provvisoria del magazzino, quando il magazziniere:
 
@@ -212,7 +212,7 @@ Nessun indennizzo spetta al magazziniere in caso di disdetta dell'appalto o di r
 
 Il regolamento stabilisce le modalita' e la procedura per l'adozione dei provvedimenti innanzi citati.
 
-### Art. 15 - Pene pecuniarie disciplinari
+## Art. 15 - Pene pecuniarie disciplinari
 
 L'Amministrazione puo' infliggere al magazziniere una sanzione pecuniaria, da un minimo di lire 5000 a un massimo di lire 100.000, con le modalita' e la procedura stabilite dal regolamento, per irregolarita' di gestione, ivi comprese quelle previste nel precedente articolo, che non siano ritenute di natura o gravita' tali da comportare la disdetta del contratto o la revoca della reggenza. ((10))
 
@@ -222,19 +222,19 @@ AGGIORNAMENTO (10)
 
 La L. 29 gennaio 1986, n. 25 ha disposto (con l'art. 14, comma 1) che gli importi delle pene pecuniarie disciplinari di cui agli articoli 15 e 35 della legge 22 dicembre 1957, n. 1293 sono decuplicati.
 
-### Art. 16 - Sistemi di vendita
+## Art. 16 - Sistemi di vendita
 
 La vendita al pubblico di generi di monopolio e' effettuata a mezzo di rivendite o di patentini.
 
 ((I punti vendita di cui al primo comma sono istituiti dall'Ufficio regionale secondo i criteri e le modalita' stabiliti con provvedimento del Direttore generale dell'Amministrazione autonoma dei monopoli di Stato.))
 
-### Art. 17 - Insegna
+## Art. 17 - Insegna
 
 Le rivendite devono tenere all'esterno del locale l'insegna prescritta dall'Amministrazione.
 
 ((COMMA ABROGATO DAL D.P.R. 26 OTTOBRE 1972, N. 639)).
 
-### Art. 18
+## Art. 18
 
 (Cause di esclusione dalla gestione di rivendite
 
@@ -242,7 +242,7 @@ e cause d'incompatibilita' - Sospensione - Decadenza)
 
 Alla rivendite si applicano le disposizioni degli articoli 6, 7, 12 e 13.
 
-### Art. 19 - Rivendite di generi di monopolio - Distinzione
+## Art. 19 - Rivendite di generi di monopolio - Distinzione
 
 Le rivendite di generi di monopolio si distinguono:
 
@@ -260,11 +260,11 @@ Le rivendite speciali sono anch'esse affidate, in genere, a privati, a trattativ
 
 ((Nei casi di rinnovo delle concessioni di cui al precedente comma, il concessionario e' tenuto a corrispondere all'Amministrazione una somma di denaro una tantum pari al 50 per cento dell'aggio percepito per la vendita dei tabacchi lavorati nell'anno finanziario precedente la stipulazione dell'atto di rinnovo della concessione. Nel caso di rinnovi per periodi di tempo inferiori al novennio la somma di cui sopra e' proporzionalmente ridotta. Per il rinnovo novennale delle rivendite site in stazioni ferroviarie la somma una tantum di cui sopra e' ragguagliata al 17 per cento dell'aggio sui tabacchi conseguito nell'anno finanziario precedente)).
 
-### Art. 20
+## Art. 20
 
 ((ARTICOLO SOPPRESSO DALLA L. 13 MAGGIO 1983, N. 198))
 
-### Art. 21 - Istituzione delle rivendite ordinarie
+## Art. 21 - Istituzione delle rivendite ordinarie
 
 Le rivendite ordinarie sono istituite dove e quando l'Amministrazione lo ritenga utile ed opportuno nell'interesse del servizio.
 
@@ -276,11 +276,11 @@ La rivendita e' aggiudicata al concorrente che, osservati i requisiti posti nell
 
 L'esperimento di cui ai precedenti commi dura un triennio, allo scadere del quale la rivendita, se non e' stata soppressa, e' classificata ai sensi dell'art. 25 e puo' essere appaltata a trattativa privata o assegnata direttamente allo stesso titolare.
 
-### Art. 22 - Istituzione delle rivendite speciali
+## Art. 22 - Istituzione delle rivendite speciali
 
 Le rivendite speciali sono istituite per soddisfare particolari esigenze del pubblico servizio anche di carattere temporaneo quando, a giudizio dell'Amministrazione, mancano le condizioni per procedere alla istituzione di una rivendita ordinaria, ovvero al rilascio di un patentino.
 
-### Art. 23 - Patentino per la vendita dei generi di monopolio
+## Art. 23 - Patentino per la vendita dei generi di monopolio
 
 Salvo quanto previsto per le rivendite ordinarie e speciali, l'Amministrazione puo' consentire la vendita dei generi di monopolio nei pubblici esercizi, nei luoghi di ritrovo e di cura e negli spacci cooperativi.
 
@@ -288,7 +288,7 @@ L'autorizzazione e' effettuata a mezzo di patentino.
 
 La rivendita ordinaria piu' vicina al locale cui e' concesso il patentino rifornisce quest'ultimo dei generi, salvo diversa determinazione dell'Amministrazione.
 
-### Art. 24
+## Art. 24
 
 Acquisto o vendita dei generi di monopolio Aggi e indennita'
 
@@ -334,7 +334,7 @@ AGGIORNAMENTO (15)
 
 Il D.LGS. 26 ottobre 1995, n. 504, come modificato dal D.LGS. 29 marzo 2010, n. 48, ha disposto (con l'art. 39-septies) che "L'aggio ai rivenditori di cui all'articolo 24 della legge 22 dicembre 1957, n, 1293, e' stabilito nella misura del 10 per cento del prezzo di vendita al pubblico dei tabacchi lavorati".
 
-### Art. 25 - Classificazione delle rivendite ordinarie secondo il reddito
+## Art. 25 - Classificazione delle rivendite ordinarie secondo il reddito
 
 Le rivendite ordinarie sono classificate in base al reddito prodotto nell'ultimo esercizio finanziario, nelle seguenti categorie: 1ª categoria: rivendite con reddito di lire 400.000 e superiore;
 
@@ -374,7 +374,7 @@ AGGIORNAMENTO (10)
 
 La L. 29 gennaio 1986, n. 25 ha disposto (con l'art. 7, comma 1) che "I limiti di valore indicati nell'articolo 25 della legge 22 dicembre 1957, n. 1293, modificati dall'articolo 2 della legge 5 febbraio 1968, n. 64 e dall'articolo 2 della legge 6 giugno 1973, n. 312, sono elevati da lire un milione a lire dieci milioni".
 
-### Art. 26 - Canoni e sopracanoni dovuti dai rivenditori
+## Art. 26 - Canoni e sopracanoni dovuti dai rivenditori
 
 ((Le rivendite ordinarie e speciali sono tenute al pagamento di un canone annuo all'Amministrazione quando nell'esercizio precedente il reddito abbia superato le lire 1.000.000. Oltre tale somma il canone e' dovuto nella seguente misura:
 
@@ -432,7 +432,7 @@ oltre " 3.000.000.................... " 24 %
 
 Lo stesso D.P.R. ha inoltre disposto (con l'art. 2) che "La disposizione contenuta nell'art. 1 avra' applicazione dal primo del mese successivo alla data di pubblicazione del presente decreto".
 
-### Art. 27 - Deserzione o infruttuosita' delle gare o dei concorsi - Soppressione
+## Art. 27 - Deserzione o infruttuosita' delle gare o dei concorsi - Soppressione
 
 In caso di deserzione o infruttuosita', delle aste o dei concorsi previsti dagli articoli 21 e 25, l'Amministrazione puo' assegnare la rivendita a trattativa privata.
 
@@ -440,7 +440,7 @@ In questo caso non opera la riserva prevista, dal secondo comma dell'art. 21 e d
 
 Le rivendite rimaste inattive per un intero esercizio finanziario possono essere soppresse.
 
-### Art. 28 - Gestione personale - Coadiutore - Assistenti
+## Art. 28 - Gestione personale - Coadiutore - Assistenti
 
 Le rivendite devono essere gestite personalmente dagli assegnatari, i quali sono gli unici responsabili verso l'Amministrazione.
 
@@ -458,11 +458,11 @@ In deroga al primo comma sono dispensati dalla gestione personale i grandi inval
 
 Al coadiutore ed agli assistenti sono estese le disposizioni dell'art. 6 e dell'art. 7, numeri 2) e 3).
 
-### Art. 29 - Gerenza provvisoria della rivendite
+## Art. 29 - Gerenza provvisoria della rivendite
 
 In caso di vacanza della rivendita e fino alla sua definitiva sistemazione, la gerenza provvisoria puo' essere affidata al rivenditore in servizio al momento della vacanza, o al suo coadiutore o, in mancanza, ad altra persona in possesso, a giudizio dell'Amministrazione, dei prescritti requisiti.
 
-### Art. 30
+## Art. 30
 
 (Appalto a trattativa privata delle rivendite
 
@@ -470,23 +470,23 @@ ordinarie vacanti di particolare importanza).
 
 Salvo il disposto degli articoli 25 e 28, e' in facolta' dell'Amministrazione appaltare a trattativa privata, dietro pagamento di un congruo sopracanone annuo per la durata dell'appalto, le rivendite ordinarie vacanti che effettuino un prelevamento annuo di tabacchi non inferiore a lire 25 milioni e siano ubicate in vie o localita' che, a giudizio dell'Amministrazione, si rivelino di eccezionale utilita' per lo svolgimento del servizio.
 
-### Art. 31 - Cessione delle rivendite
+## Art. 31 - Cessione delle rivendite
 
 ((Le rivendite ordinarie e speciali non possono a qualsiasi titolo essere cedute.
 
 Quando si verifichi cessione dell'azienda ubicata nello stesso locale della rivendita, l'Amministrazione puo' consentire che il rivenditore rinunci alla gestione ed il cessionario consegua, alle condizioni in vigore, l'assegnazione della rivendita a trattativa, privata)).
 
-### Art. 32 - Cauzione
+## Art. 32 - Cauzione
 
 ((I titolari di rivendita ordinaria di prima categoria, all'atto della stipulazione del contratto, sono tenuti a prestare una cauzione, a garanzia degli obblighi derivanti dalla gestione, pari ad un ventesimo del reddito conseguito nell'ultimo anno solare di funzionamento della rivendita)).
 
-### Art. 33 - Orario delle rivendite
+## Art. 33 - Orario delle rivendite
 
 L'orario giornaliero delle rivendite e' determinato dal funzionario preposto all'Ispettorato compartimentale, sentito il parere dell'Autorita' comunale.
 
 Le rivendite debbono rimanere aperte solo nei giorni feriali. Nei giorni festivi saranno stabiliti turni di apertura obbligatoria delle rivendite, per sopperire alle esigenze di servizio, senza pregiudizio degli obblighi imposti agli esercenti di concedere al personale dipendente il riposo settimanale previsto dalle norme in vigore.
 
-### Art. 34 - Disdetta, revoca e rinunzia
+## Art. 34 - Disdetta, revoca e rinunzia
 
 L'Amministrazione puo' procedere alla disdetta del contratto d'appalto o alla revoca della gestione delle rivendite nei seguenti casi:
 
@@ -524,7 +524,7 @@ Le norme del presente articolo si applicano anche alle provvisorie gerenze delle
 
 Il regolamento stabilisce le modalita' e la procedura per l'adozione dei provvedimenti innanzi citati.
 
-### Art. 35 - Pene pecuniarie disciplinari
+## Art. 35 - Pene pecuniarie disciplinari
 
 L'Amministrazione puo' infliggere una pena pecuniaria, disciplinare da un minimo di lire 1000 ad un massimo di lire 50.000 con le modalita' e la procedura stabilite dal regolamento, per qualsiasi irregolarita' di gestione, ivi comprese quelle previste nel precedente articolo, che non siano ritenute di natura e gravita' tali da comportare la disdetta o la revoca della gestione. ((10))
 
@@ -534,7 +534,7 @@ AGGIORNAMENTO (10)
 
 La L. 29 gennaio 1986, n. 25 ha disposto (con l'art. 14, comma 1) che gli importi delle pene pecuniarie disciplinari di cui agli articoli 15 e 35 della legge 22 dicembre 1957, n. 1293 sono decuplicati.
 
-### Art. 36 - Ricorso gerarchico
+## Art. 36 - Ricorso gerarchico
 
 Avverso i provvedimenti dei funzionari preposti agli Ispettorati compartimentali, adottati in materia di magazzini e rivendite ai sensi di questa legge, e' ammesso ricorso gerarchico al Ministro per le finanze.
 
@@ -542,17 +542,17 @@ La disposizione di cui al precedente comma si applica anche ai procedimenti d'as
 
 ## Disposizioni transitorie
 
-### Art. 37
+## Art. 37
 
 I magazzinieri ed i rivenditori, in servizio alla data di entrata in vigore della presente legge, possono conseguire la diretta assegnazione a trattativa privata del magazzino o della rivendita che rispettivamente gestiscono.
 
 I coadiutori di magazzini o rivendite, in servizio alla data di entrata in vigore della presente legge, possono conseguire, entro sei mesi dalla data medesima, la diretta assegnazione dei magazzini e rivendite presso cui prestano servizio, nel caso di vacanza verificatasi entro lo stesso periodo.
 
-### Art. 38
+## Art. 38
 
 La disposizione di cui all'art. 26 avra' applicazione dal primo luglio successivo alla data di pubblicazione della presente legge.
 
-### Art. 39
+## Art. 39
 
 Col regolamento saranno emanate le disposizioni necessarie per l'esecuzione della presente legge.
 

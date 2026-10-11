@@ -30,7 +30,7 @@ la seguente legge:
 
 ## CAPO I - INNOVAZIONE
 
-#### Art. 1 - Banda larga
+### Art. 1 - Banda larga
 
 1\. Il Governo, nel rispetto delle attribuzioni costituzionali delle regioni e nel rispetto dell'articolo 4, comma 3, lettera h), del codice delle comunicazioni elettroniche, di cui al decreto legislativo 1° agosto 2003, n. 259, individua un programma di interventi infrastrutturali nelle aree sottoutilizzate necessari per facilitare l'adeguamento delle reti di comunicazione elettronica pubbliche e private all'evoluzione tecnologica e alla fornitura dei servizi avanzati di informazione e di comunicazione del Paese.
 
@@ -54,7 +54,7 @@ Al relativo finanziamento si provvede con una dotazione (( fino ad un massimo ))
 
 ## CAPO II - SEMPLIFICAZIONI
 
-#### Art. 2 - Societa' di consulenza finanziaria
+### Art. 2 - Societa' di consulenza finanziaria
 
 1\. Al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, dopo l'articolo 18-bis e' inserito il seguente:
 
@@ -64,7 +64,7 @@ Al relativo finanziamento si provvede con una dotazione (( fino ad un massimo ))
 
 3\. Nell'albo di cui all'articolo 18-bis, comma 2, e' istituita una sezione dedicata alle societa' di consulenza finanziaria per la quale si applicano i commi 3, 4, 5, 6, 7 e 8 del medesimo articolo".
 
-#### Art. 3 - Chiarezza dei testi normativi
+### Art. 3 - Chiarezza dei testi normativi
 
 1\. Al capo III della legge 23 agosto 1988, n. 400, prima dell'articolo 14 e' inserito il seguente:
 
@@ -80,7 +80,7 @@ b) ogni rinvio ad altre norme contenuto in disposizioni legislative, nonche' in 
 
 4\. La Presidenza del Consiglio dei ministri adotta atti di indirizzo e coordinamento per assicurare che gli interventi normativi incidenti sulle materie oggetto di riordino, mediante l'adozione di codici e di testi unici, siano attuati esclusivamente mediante modifica o integrazione delle disposizioni contenute nei corrispondenti codici e testi unici".
 
-#### Art. 4 - Semplificazione della legislazione
+### Art. 4 - Semplificazione della legislazione
 
 1\. All'articolo 14 della legge 28 novembre 2005, n. 246, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -262,7 +262,7 @@ n. 9, sono soppresse le voci di cui all'allegato 1 annesso alla presente legge, 
 
 > 24\. La Commissione esercita i compiti di cui al comma 21, lettera c), a decorrere dall'inizio della legislatura successiva alla data di entrata in vigore della presente legge. Dallo stesso termine cessano gli effetti dell'art. 5, commi 1, 2 e 3, della legge 15 marzo 1997, n. 59.».
 
-#### Art. 5
+### Art. 5
 
 (Modifiche alla disciplina dei regolamenti.
 
@@ -330,7 +330,7 @@ d) ricognizione delle disposizioni, non inserite nel testo unico, che restano co
 
 > 4-ter. Con regolamenti da emanare ai sensi del comma 1 del presente articolo, si provvede al periodico riordino delle disposizioni regolamentari vigenti, alla ricognizione di quelle che sono state oggetto di abrogazione implicita e all'espressa abrogazione di quelle che hanno esaurito la loro funzione o sono prive di effettivo contenuto normativo o sono comunque obsolete.».
 
-#### Art. 6 - Misure per la semplificazione della gestione amministrativa e finanziaria delle rappresentanze diplomatiche e degli uffici consolari
+### Art. 6 - Misure per la semplificazione della gestione amministrativa e finanziaria delle rappresentanze diplomatiche e degli uffici consolari
 
 1\. Con regolamento emanato ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, su proposta del Ministro degli affari esteri e del Ministro dell'economia e delle finanze, di concerto con il Ministro per la pubblica amministrazione e l'innovazione e con il Ministro per la semplificazione normativa, sono disciplinati i procedimenti in materia di autonomia gestionale e finanziaria delle rappresentanze diplomatiche e degli uffici consolari di I categoria, di cui all'articolo 18, comma 2-bis, del decreto-legge 1° ottobre 2007, n. 159, convertito, con modificazioni, dalla legge 29 novembre 2007, n. 222, nell'osservanza dei principi di cui all'articolo 20, comma 4, della legge 15 marzo 1997, n. 59, e successive modificazioni, nonche' dei seguenti criteri:
 
@@ -384,7 +384,7 @@ e) il regolamento di cui al decreto del Presidente della Repubblica 22 marzo 200
 
 > f-quinquies) avvalimento di uffici e strutture tecniche e amministrative pubbliche da parte di altre pubbliche amministrazioni, sulla base di accordi conclusi ai sensi dell'art. 15 della legge 7 agosto 1990, n. 241, e successive modificazioni.».
 
-#### Art. 7
+### Art. 7
 
 (Certezza dei tempi di conclusione
 
@@ -460,7 +460,7 @@ d) il comma 5 dell'articolo 20 e' sostituito dal seguente:
 
 > \- Il decreto legislativo 22 gennaio 2004, n. 42, recante «Codice dei beni culturali e del paesaggio, ai sensi dell'art. 10 della legge 6 luglio 2002, n. 137» e' pubblicato nella Gazzetta Ufficiale 24 febbraio 2004, n. 45, supplemento ordinario.
 
-#### Art. 8
+### Art. 8
 
 (Certezza dei tempi in caso di attivita'
 
@@ -514,7 +514,7 @@ b) all'articolo 25, comma 4, quarto periodo, dopo le parole: "Nei confronti degl
 
 > «4. Decorsi inutilmente trenta giorni dalla richiesta, questa si intende respinta. In caso di diniego dell'accesso, espresso o tacito, o di differimento dello stesso ai sensi dell'art. 24, comma 4, il richiedente puo' presentare ricorso al tribunale amministrativo regionale ai sensi del comma 5, ovvero chiedere, nello stesso termine e nei confronti degli atti delle amministrazioni comunali, provinciali e regionali, al difensore civico competente per ambito territoriale, ove costituito, che sia riesaminata la suddetta determinazione. Qualora tale organo non sia stato istituito, la competenza e' attribuita al difensore civico competente per l'ambito territoriale immediatamente superiore. Nei confronti degli atti delle amministrazioni centrali e periferiche dello Stato tale richiesta e' inoltrata presso la Commissione per l'accesso di cui all'art. 27 nonche' presso l'amministrazione resistente. Il difensore civico o la Commissione per l'accesso si pronunciano entro trenta giorni dalla presentazione dell'istanza. Scaduto infruttuosamente tale termine, il ricorso si intende respinto. Se il difensore civico o la Commissione per l'accesso ritengono illegittimo il diniego o il differimento, ne informano il richiedente e lo comunicano all'autorita' disponente. Se questa non emana il provvedimento confermativo motivato entro trenta giorni dal ricevimento della comunicazione del difensore civico o della Commissione, l'accesso e' consentito. Qualora il richiedente l'accesso si sia rivolto al difensore civico o alla Commissione, il termine di cui al comma 5 decorre dalla data di ricevimento, da parte del richiedente, dell'esito della sua istanza al difensore civico o alla Commissione stessa. Se l'accesso e' negato o differito per motivi inerenti ai dati personali che si riferiscono a soggetti terzi, la Commissione provvede, sentito il Garante per la protezione dei dati personali, il quale si pronuncia entro il termine di dieci giorni dalla richiesta, decorso inutilmente il quale il parere si intende reso. Qualora un procedimento di cui alla sezione III del capo I del titolo I della parte III del decreto legislativo 30 giugno 2003, n. 196, o di cui agli articoli 154, 157, 158, 159 e 160 del medesimo decreto legislativo n. 196 del 2003, relativo al trattamento pubblico di dati personali da parte di una pubblica amministrazione, interessi l'accesso ai documenti amministrativi, il Garante per la protezione dei dati personali chiede il parere, obbligatorio e non vincolante, della Commissione per l'accesso ai documenti amministrativi. La richiesta di parere sospende il termine per la pronuncia del Garante sino all'acquisizione del parere, e comunque per non oltre quindici giorni. Decorso inutilmente detto termine, il Garante adotta la propria decisione.».
 
-#### Art. 9 - Conferenza di servizi e silenzio assenso
+### Art. 9 - Conferenza di servizi e silenzio assenso
 
 1\. All'articolo 14-ter, comma 1, della legge 7 agosto 1990, n. 241, e successive modificazioni, sono aggiunte, in fine, le seguenti parole: "e puo' svolgersi per via telematica".
 
@@ -588,7 +588,7 @@ esperibile da qualunque interessato nei termini di legge, puo' riguardare anche 
 
 > \- Per il riferimento al testo del comma 4 dell'art. 20 della gia' citata legge n. 241 del 1990, vedasi in note all'art. 7.
 
-#### Art. 10
+### Art. 10
 
 (Tutela degli interessati nei procedimenti
 
@@ -662,7 +662,7 @@ b) all'articolo 29:
 
 > 2-quinquies. Le regioni a statuto speciale e le province autonome di Trento e di Bolzano adeguano la propria legislazione alle disposizioni del presente articolo, secondo i rispettivi statuti e le relative norme di attuazione.».
 
-#### Art. 11 - Delega al Governo in materia di nuovi ser vizi erogati dalle farmacie nell'ambito del Servizio sanitario nazionale nonche' disposizioni concernenti i comuni con popolazione fino a 5.000 abitanti
+### Art. 11 - Delega al Governo in materia di nuovi ser vizi erogati dalle farmacie nell'ambito del Servizio sanitario nazionale nonche' disposizioni concernenti i comuni con popolazione fino a 5.000 abitanti
 
 1\. Ferme restando le competenze regionali, il Governo e' delegato ad adottare, entro tre mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi finalizzati all'individuazione di nuovi servizi a forte valenza socio-sanitaria erogati dalle farmacie pubbliche e private nell'ambito del Servizio sanitario nazionale, sulla base dei seguenti principi e criteri direttivi:
 
@@ -698,7 +698,7 @@ f) rivedere i requisiti di ruralita' di cui agli articoli 2 e seguenti della leg
 
 > Le disposizioni relative alla misura e alle modalita' di applicazione e riscossione del contributo ed ai rimborsi di quote delle indennita' ai comuni, anche con pagamenti in conto, sono emanate con regio decreto su proposta del Ministro per l'interno di concerto con quello per le finanze.».
 
-#### Art. 12
+### Art. 12
 
 (Delega al Governo per l'adozione di decreti
 
@@ -972,7 +972,7 @@ ambientale)
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.».
 
-#### Art. 13 - Cooperazione allo sviluppo internazionale
+### Art. 13 - Cooperazione allo sviluppo internazionale
 
 1\. Entro due mesi dalla data di entrata in vigore della presente legge, con decreto del Ministro degli affari esteri, di concerto con il Ministro dell'economia e delle finanze, sono definite le modalita' semplificate di svolgimento delle procedure amministrative e contrattuali riguardanti:
 
@@ -1016,7 +1016,7 @@ f) l'articolo 13, commi da 1 a 6, della legge 18 giugno 2009, n. 69".
 
 \- Il regolamento di cui all'art. 31, comma 1, alinea della L. 11 agosto 2014, n. 125 e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
-#### Art. 14
+### Art. 14
 
 (Trasparenza dei flussi finanziari dei Fondi
 
@@ -1064,7 +1064,7 @@ aree sottoutilizzate)
 
 > «2. Per amministrazioni pubbliche si intendono tutte le amministrazioni dello Stato, ivi compresi gli istituti e scuole di ogni ordine e grado e le istituzioni educative, le aziende ed amministrazioni dello Stato ad ordinamento autonomo, le Regioni, le Province, i Comuni, le Comunita' montane, e loro consorzi e associazioni, le istituzioni universitarie, gli Istituti autonomi case popolari, le Camere di commercio, industria, artigianato e agricoltura e loro associazioni, tutti gli enti pubblici non economici nazionali, regionali e locali, le amministrazioni, le aziende e gli enti del Servizio sanitario nazionale, l'Agenzia per la rappresentanza negoziale delle pubbliche amministrazioni (ARAN) e le Agenzie di cui al decreto legislativo 30 luglio 1999, n. 300.».
 
-#### Art. 15
+### Art. 15
 
 (Fondo nazionale di garanzia
 
@@ -1126,7 +1126,7 @@ per i servizi turistici)
 
 > Fino alla data di entrata in vigore del decreto di cui al presente comma, restano in vigore le disposizioni di cui al decreto del Ministro dell'industria, del commercio e dell'artigianato 23 luglio 1999, n. 349.».
 
-#### Art. 16
+### Art. 16
 
 (Misure in tema di concorrenza e tutela
 
@@ -1232,7 +1232,7 @@ degli utenti nel settore postale)
 
 > 5-bis. Le disposizioni del presente art. sono estese ai titolari di licenza individuale e di autorizzazione generale, i quali sono tenuti a comunicare all'Autorita' di regolamentazione del settore postale le procedure elaborate per la trattazione dei reclami degli utenti. L'Autorita' puo' richiedere modifiche alle procedure anzidette.».
 
-#### Art. 17
+### Art. 17
 
 (Misure di semplificazione delle procedure
 
@@ -1250,7 +1250,7 @@ relative ai piccoli appalti pubblici)
 
 > «7. E' fatto divieto ai concorrenti di partecipare alla gara in piu' di un raggruppamento temporaneo o consorzio ordinario di concorrenti, ovvero di partecipare alla gara anche in forma individuale qualora abbia partecipato alla gara medesima in raggruppamento o consorzio ordinario di concorrenti. I consorzi di cui all'art. 34, comma 1, lettera b), sono tenuti ad indicare, in sede di offerta, per quali consorziati il consorzio concorre; a questi ultimi e' fatto divieto di partecipare, in qualsiasi altra forma, alla medesima gara; in caso di violazione sono esclusi dalla gara sia il consorzio sia il consorziato; in caso di inosservanza di tale divieto si applica l'art. 353 del codice penale. Per i consorzi di cui all'art. 34, comma 1, lettera b), qualora le stazioni appaltanti si avvalgano della facolta' di cui all'art. 122, comma 9, e all'art. 124, comma 8, e' vietata la partecipazione alla medesima procedura di affidamento del consorzio e dei consorziati; in caso di inosservanza di tale divieto si applica l'art. 353 del codice penale.».
 
-#### Art. 18
+### Art. 18
 
 (Progetti di eccellenza per il rilancio
 
@@ -1262,7 +1262,7 @@ della competitivita' turistica italiana)
 
 Per il cofinanziamento delle iniziative e dei progetti presentati ai sensi del periodo precedente, e' autorizzata la spesa di 48 milioni di europer ciascuno degli anni 2007, 2008 e 2009. Il Dipartimento per lo sviluppo e la competitivita' del turismo provvede a cofinanziare le iniziative e i progetti di cui al presente comma attraverso accordi di programma con le regioni territorialmente interessate".
 
-#### Art. 19 - ENIT - Agenzia nazionale del turismo
+### Art. 19 - ENIT - Agenzia nazionale del turismo
 
 1\. Il Governo e' autorizzato a modificare il comma 1 dell'articolo 5 del regolamento di cui al decreto del Presidente della Repubblica 6 aprile 2006, n. 207, in conformita' ai commi 2, 3, 4 e 5 del presente articolo che restano in vigore nelle more dell'approvazione del nuovo regolamento.
 
@@ -1280,11 +1280,9 @@ Per il cofinanziamento delle iniziative e dei progetti presentati ai sensi del p
 
 > «1. Il consiglio di amministrazione e' nominato con decreto del Ministro delle attivita' produttive, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, ed e' composto, oltre al Presidente, al Coordinatore degli assessori regionali al turismo e al Direttore della Direzione generale per il turismo del Ministero delle attivita' produttive, da tredici membri, di cui sei in rappresentanza delle regioni, designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, tre designati dalle organizzazioni di categoria maggiormente rappresentative, due designati dal Ministro delle attivita' produttive, uno designato dal Ministro degli affari esteri ed uno designato dall'Unioncamere.».
 
-## CAPO III - PIANO INDUSTRIALE DELLA
+## CAPO III - PIANO INDUSTRIALE DELLA PUBBLICA AMMINISTRAZIONE
 
-### PUBBLICA AMMINISTRAZIONE
-
-#### Art. 20 - Misure urgenti per l'efficienza del Corpo forestale dello Stato
+### Art. 20 - Misure urgenti per l'efficienza del Corpo forestale dello Stato
 
 1\. Al fine di garantire maggiore efficacia, efficienza e tempestivita' nell'azione amministrativa e nell'erogazione dei servizi nonche' per razionalizzare ed economizzare le procedure, il Corpo forestale dello Stato, limitatamente all'anno 2009, e' autorizzato ad assumere personale operaio a tempo determinato ai sensi dell'articolo 1 della legge 5 aprile 1985, n. 124, entro il limite di spesa di 3 milioni di euro.
 
@@ -1336,7 +1334,7 @@ Per il cofinanziamento delle iniziative e dei progetti presentati ai sensi del p
 
 > e) nell'Agenzia delle dogane, che utilizza prioritariamente le graduatorie formate a seguito di procedure selettive gia' espletate e per le quali il limite di eta' anagrafica vigente per i contratti di formazione e lavoro dei soggetti risultati idonei e' riferito alla data di formazione della graduatoria stessa, ovvero ricorre alla mobilita', anche ai sensi dell'art. 1, comma 536, della legge n. 296 del 2006, per 34 milioni di euro per l'anno 2008, 46 milioni di euro per l'anno 2009 e 62 milioni di euro annui a decorrere dall'anno 2010. L'Agenzia delle dogane e' autorizzata a stipulare contratti di formazione e lavoro, anche in deroga all'art. 36 del decreto legislativo 30 marzo 2001, n. 165, come sostituito dall'art. 3, comma 79, della presente legge, in particolare, con soggetti risultati idonei, con un punteggio minimo finale non inferiore a 46, nelle graduatorie formate a seguito delle procedure indette dall'Agenzia delle entrate con bandi pubblicati nella Gazzetta Ufficiale, 4ª serie speciale, n. 84 del 21 ottobre 2005 e n. 28 del 6 aprile 2007, per la selezione, con contratti di formazione e lavoro, rispettivamente di 1.500 e 500 funzionari, terza area funzionale, F1, per attivita' amministrativo-tributarie, e con soggetti risultati idonei nelle graduatorie formate a seguito delle procedure selettive indette dall'Agenzia delle dogane in data non anteriore al 1° settembre 2005, rispettivamente, per 150 posti di collaboratore tributario, terza area funzionale, F1, per 25 posti di chimico, terza area funzionale, F1, per 20 posti di collaboratore di sistema, terza area funzionale, F1, e per 10 posti di collaboratori statistici, terza area funzionale, F1. Nei limiti delle autorizzazioni di spesa stabilite dalla presente lettera, l'Agenzia delle dogane puo' stipulare ulteriori contratti di formazione e lavoro anche con soggetti risultati idonei, nelle graduatorie formate a seguito delle procedure indette dall'Agenzia delle entrate con bandi pubblicati nella Gazzetta Ufficiale, 4ª serie speciale, n. 84 del 21 ottobre 2005 e n. 28 del 6 aprile 2007, con un punteggio finale inferiore a 46; in ogni caso l'utilizzo di tali graduatorie da parte dell'Agenzia delle entrate, nei limiti di cui al quarto periodo del comma 345, e' prioritario rispetto all'utilizzo delle medesime graduatorie da parte dell'Agenzia delle dogane.».
 
-#### Art. 21 - Trasparenza sulle retribuzioni dei dirigenti e sui tassi di assenza e di maggiore presenza del personale
+### Art. 21 - Trasparenza sulle retribuzioni dei dirigenti e sui tassi di assenza e di maggiore presenza del personale
 
 1\. ((COMMA ABROGATO DAL D.LGS. 14 MARZO 2013, N. 33)).
 
@@ -1348,7 +1346,7 @@ Per il cofinanziamento delle iniziative e dei progetti presentati ai sensi del p
 
 3\. Il termine di cui all'alinea del comma 52-bis dell'articolo 3 della legge 24 dicembre 2007, n. 244, e' differito fino al sessantesimo giorno successivo alla data di entrata in vigore della presente legge.
 
-#### Art. 22 - Spese di funzionamento e disposizioni in materia di gestione delle risorse umane
+### Art. 22 - Spese di funzionamento e disposizioni in materia di gestione delle risorse umane
 
 1\. Dopo l'articolo 6 del decreto legislativo 30 marzo 2001, n. 165, e' inserito il seguente:
 
@@ -1382,7 +1380,7 @@ b) le parole: "o dei mestieri artigianali" sono sostituite dalle seguenti: ", de
 
 > Il ricorso a contratti di collaborazione coordinata e continuativa per lo svolgimento di funzioni ordinarie o l'utilizzo dei collaboratori come lavoratori subordinati e' causa di responsabilita' amministrativa per il dirigente che ha stipulato i contratti. Il secondo periodo dell'art. 1, comma 9, del decreto-legge 12 luglio 2004, n. 168, convertito, con modificazioni, dalla legge 30 luglio 2004, n. 191, e' soppresso.».
 
-#### Art. 23 - Diffusione delle buone prassi nelle pubbliche amministrazioni e tempi per l'adozione dei provvedimenti o per l'erogazione dei servizi al pubblico
+### Art. 23 - Diffusione delle buone prassi nelle pubbliche amministrazioni e tempi per l'adozione dei provvedimenti o per l'erogazione dei servizi al pubblico
 
 1\. ((COMMA ABROGATO DAL D.LGS. 14 MARZO 2013, N. 33)).
 
@@ -1396,7 +1394,7 @@ b) le parole: "o dei mestieri artigianali" sono sostituite dalle seguenti: ", de
 
 6\. Con decreto del Ministro per la pubblica amministrazione e l'innovazione, di concerto con il Ministro dell'economia e delle finanze, sentita la Conferenza unificata, da adottare entro un mese dalla data di entrata in vigore della presente legge, sono definite le modalita' di attuazione dell'obbligo informativo di cui al comma 5, lettera a), avuto riguardo all'individuazione dei tempi medi ponderati di pagamento con riferimento, in particolare, alle tipologie contrattuali, ai termini contrattualmente stabiliti e all'importo dei pagamenti.
 
-#### Art. 24
+### Art. 24
 
 (Riorganizzazione del Centro nazionale per l'informatica nella pubblica amministrazione, del Centro di formazione studi e della
 
@@ -1462,7 +1460,7 @@ d) riallocazione delle risorse umane e finanziarie in relazione alla riorganizza
 
 > 7\. Sono abrogati gli articoli 38 e 39 del decreto legislativo 3 febbraio 1993, n. 29. Sono fatti salvi i procedimenti concorsuali per i quali sia stato gia' pubblicato il bando di concorso.».
 
-#### Art. 25
+### Art. 25
 
 (Trasformazione in fondazione del Centro
 
@@ -1556,7 +1554,7 @@ delle arti contemporanee)
 
 > 4\. La Direzione generale per la qualita' e la tutela del paesaggio, l'architettura e l'arte contemporanee si articola in cinque uffici dirigenziali non generali; i compiti di detti Uffici sono definiti con decreto ministeriale di natura non regolamentare, adottato nel termine di sessanta giorni dall'emanazione del presente regolamento.».
 
-#### Art. 26
+### Art. 26
 
 (Misure occupazionali nei confronti di personale impiegato in attivita' socialmente utili
 
@@ -1568,7 +1566,7 @@ da Italia Lavoro S.p.A.)
 
 2\. Tutte le operazioni di cui al presente articolo sono effettuate in regime di neutralita' fiscale. Tutti i relativi atti, contratti, convenzioni e trasferimenti sono esenti da qualsivoglia tributo, comunque denominato.
 
-#### Art. 27
+### Art. 27
 
 (Modifica della legge 27 settembre 2007,
 
@@ -1720,7 +1718,7 @@ d) alla lettera g) sono aggiunte, in fine, le seguenti parole: ", nonche' del co
 
 > g) trasferimento, all'amministrazione che riveste preminente competenza nella materia, delle funzioni di enti, organismi e strutture soppressi.».
 
-#### Art. 28
+### Art. 28
 
 (Personale a tempo determinato presso la
 
@@ -1734,7 +1732,7 @@ Croce Rossa italiana)
 
 > «366. Al fine di assicurare l'espletamento delle attivita' che la associazione italiana della Croce rossa svolge in regime convenzionale nel settore dei servizi sociali e socio-sanitari, i contratti di lavoro a tempo determinato stipulati sulla base delle convenzioni sono confermati per la durata delle convenzioni medesime. In tutti gli altri casi restano ferme le limitazioni previste dalla presente legge in materia di lavoro flessibile. Alla copertura dell'onere relativo la associazione italiana della Croce rossa provvede nell'ambito delle risorse finanziarie previste dalle convenzioni e in ogni caso senza nuovi o maggiori oneri a carico della finanza pubblica.».
 
-#### Art. 29
+### Art. 29
 
 (Disposizioni relative alle sedi diplomatiche
 
@@ -1798,7 +1796,7 @@ e consolari)
 
 > «2. Nei riguardi delle Forze armate e di Polizia, del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, dei servizi di protezione civile, nonche' nell'ambito delle strutture giudiziarie, penitenziarie, di quelle destinate per finalita' istituzionali alle attivita' degli organi con compiti in materia di ordine e sicurezza pubblica, delle universita', degli istituti di istruzione universitaria, delle istituzioni dell'alta formazione artistica e coreutica, degli istituti di istruzione ed educazione di ogni ordine e grado, delle organizzazioni di volontariato di cui alla legge 1° agosto 1991, n. 266, degli uffici all'estero di cui all'art. 30 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e dei mezzi di trasporto aerei e marittimi, le disposizioni del presente decreto legislativo sono applicate tenendo conto delle effettive particolari esigenze connesse al servizio espletato o alle peculiarita' organizzative, individuate entro e non oltre ventiquattro mesi dalla data di entrata in vigore del presente decreto legislativo con decreti emanati, ai sensi dell'art. 17, comma 2, della legge 23 agosto 1988, n. 400, dai Ministri competenti di concerto con i Ministri del lavoro e della previdenza sociale, della salute e per le riforme e le innovazioni nella pubblica amministrazione, acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentite le organizzazioni sindacali comparativamente piu' rappresentative sul piano nazionale nonche', relativamente agli schemi di decreti di interesse delle Forze armate, compresa l'Arma dei carabinieri ed il Corpo della Guardia di finanza, gli organismi a livello nazionale rappresentativi del personale militare; analogamente si provvede per quanto riguarda gli archivi, le biblioteche e i musei solo nel caso siano sottoposti a particolari vincoli di tutela dei beni artistici storici e culturali. Con decreti, da emanare entro ventiquattro mesi dalla data di entrata in vigore del presente decreto, ai sensi dell'art. 17, comma 2, della legge 23 agosto 1988, n. 400, su proposta dei Ministri competenti, di concerto con i Ministri del lavoro e della previdenza sociale e della salute, acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, si provvede a dettare le disposizioni necessarie a consentire il coordinamento con la disciplina recata dal presente decreto della normativa relativa alle attivita' lavorative a bordo delle navi, di cui al decreto legislativo 27 luglio 1999, n. 271, in ambito portuale, di cui al decreto legislativo 27 luglio 1999, n. 272, e per il settore delle navi da pesca, di cui al decreto legislativo 17 agosto 1999, n. 298, e l'armonizzazione delle disposizioni tecniche di cui ai titoli dal II al XII del medesimo decreto con la disciplina in tema di trasporto ferroviario contenuta nella legge 26 aprile 1974, n. 191, e relativi decreti di attuazione.».
 
-#### Art. 30
+### Art. 30
 
 (Tutela non giurisdizionale
 
@@ -1816,7 +1814,7 @@ dell'utente dei servizi pubblici)
 
 > \- La legge 31 luglio 1997, n. 249 recante «Istituzione dell'Autorita' per le garanzie nelle comunicazioni e norme sui sistemi delle telecomunicazioni e radiotelevisivo» e' pubblicata nella Gazzetta Ufficiale 31 luglio 1997, n. 177, supplemento ordinario.
 
-#### Art. 31
+### Art. 31
 
 (Modifiche all'articolo 41 della legge
 
@@ -1836,7 +1834,7 @@ dell'utente dei servizi pubblici)
 
 > 6\. Lo statuto, l'organizzazione e i ruoli organici della Fondazione Ugo Bordoni sono ridefiniti in coerenza con le attivita' indicate al comma 5 e con la finalita', prevalente e dedicata, di ricerca e assistenza in favore del Ministero dello sviluppo economico, di altre amministrazioni pubbliche, nonche' delle Autorita' amministrative indipendenti. I dipendenti della Fondazione risultanti in esubero in base alla nuova organizzazione, e comunque fino ad un massimo di 80 unita', possono chiedere di essere immessi, anche in soprannumero, nel ruolo dell'Istituto superiore delle comunicazioni e delle tecnologie dell'informazione e del Ministero delle comunicazioni, al quale accedono con procedure concorsuali, secondo criteri e modalita' da definire con decreto del Ministro delle comunicazioni, di concerto con il Ministro per la funzione pubblica. Al loro inquadramento si provvede nei posti e con le qualifiche professionali analoghe a quelle rivestite. Al personale immesso compete il trattamento economico spettante agli appartenenti alla qualifica in cui ciascun dipendente e' inquadrato, senza tenere conto dell'anzianita' giuridica ed economica maturata con il precedente rapporto. Per le finalita' di cui al presente comma, e' autorizzata la spesa annua massima di 4.648.000 euro a decorrere dall'anno 2002, cui si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2002-2004, nell'ambito dell'unita' previsionale di base di parte corrente «Fondo speciale» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2002, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle comunicazioni. I dipendenti che hanno presentato domanda di inquadramento possono essere mantenuti in servizio presso la Fondazione fino al completamento delle procedure concorsuali.».
 
-#### Art. 32 - Eliminazione degli sprechi relativi al mantenimento di documenti in forma cartacea
+### Art. 32 - Eliminazione degli sprechi relativi al mantenimento di documenti in forma cartacea
 
 1\. A far data dal 1° gennaio 2010, gli obblighi di pubblicazione di atti e provvedimenti amministrativi aventi effetto di pubblicita' legale si intendono assolti con la pubblicazione nei propri siti informatici da parte delle amministrazioni e degli enti pubblici obbligati. ((La pubblicazione e' effettuata nel rispetto dei principi di eguaglianza e di non discriminazione, applicando i requisiti tecnici di accessibilita' di cui all'articolo 11 della legge 9 gennaio 2004, n. 4. La mancata pubblicazione nei termini di cui al periodo precedente e' altresi' rilevante ai fini della misurazione e della valutazione della performance individuale dei dirigenti responsabili)).
 
@@ -1860,7 +1858,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 13 maggio 2011, n. 70, convertito con modificazioni dalla L. 12 luglio 2011, n. 106, ha disposto (con l'art. 5, comma 7) che "La disposizione di cui al comma 6 si applica decorsi sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-#### Art. 33 - Delega al Governo per la modifica del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82
+### Art. 33 - Delega al Governo per la modifica del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82
 
 1\. Il Governo e' delegato ad adottare, secondo le modalita' e i principi e criteri direttivi di cui all'articolo 20 della legge 15 marzo 1997, n. 59, e successive modificazioni, entro diciotto mesi dalla data di entratain vigore della presente legge, su proposta del Ministro per la pubblica amministrazione e l'innovazione, di concerto con i Ministri interessati, uno o piu' decreti legislativi volti a modificare il codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, nel rispetto dei seguenti principi e criteri direttivi specifici:
 
@@ -2050,7 +2048,7 @@ q) introdurre nel codice ulteriori disposizioni volte ad implementare la sicurez
 
 > «2. Per amministrazioni pubbliche si intendono tutte le amministrazioni dello Stato, ivi compresi gli istituti e scuole di ogni ordine e grado e le istituzioni educative, le aziende ed amministrazioni dello Stato ad ordinamento autonomo, le regioni, le province, i comuni, le comunita' montane, e loro consorzi e associazioni, le istituzioni universitarie, gli Istituti autonomi case popolari, le Camere di commercio, industria, artigianato e agricoltura e loro associazioni, tutti gli enti pubblici non economici nazionali, regionali e locali, le amministrazioni, le aziende e gli enti del Servizio sanitario nazionale, l'Agenzia per la rappresentanza negoziale delle pubbliche amministrazioni (ARAN) e le Agenzie di cui al decreto legislativo 30 luglio 1999, n. 300.».
 
-#### Art. 34
+### Art. 34
 
 (Servizi informatici per le relazioni
 
@@ -2114,7 +2112,7 @@ b) all'articolo 54, dopo il comma 2-bis sono inseriti i seguenti:
 
 > 4-bis. La pubblicazione telematica produce effetti di pubblicita' legale nei casi e nei modi espressamente previsti dall'ordinamento.».
 
-#### Art. 35
+### Art. 35
 
 (Diffusione delle tecnologie telematiche nelle
 
@@ -2182,7 +2180,7 @@ b) al comma 6:
 
 > 12\. L'INPS trasmette, in via informatica, le comunicazioni semplificate di cui al comma 11 ai servizi competenti, al Ministero del lavoro, della salute e delle politiche sociali, all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL), nonche' alla prefettura-ufficio territoriale del Governo, nell'ambito del Sistema pubblico di connettivita' (SPC) e nel rispetto delle regole tecniche di sicurezza, di cui all'art. 71, comma 1-bis, del codice di cui al decreto legislativo 7 marzo 2005, n. 82, anche ai fini di quanto previsto dall'art. 4-bis, comma 6, del decreto legislativo 21 aprile 2000, n. 181, e successive modificazioni.
 
-#### Art. 36 - VOIP e Sistema pubblico di connettivita'
+### Art. 36 - VOIP e Sistema pubblico di connettivita'
 
 1\. Al fine di consentire l'attuazione di quanto previsto all'articolo 78, comma 2-bis, del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, il CNIPA provvede alla realizzazione e alla gestione di un nodo di interconnessione per i servizi "Voce tramite protocollo internet" (VOIP) per il triennio 20092011, in conformita' all'articolo 83 del medesimo codice.
 
@@ -2242,7 +2240,7 @@ b) al comma 6:
 
 > 6\. Le disposizioni del presente codice non si applicano limitatamente all'esercizio delle attivita' e funzioni di ordine e sicurezza pubblica, difesa e sicurezza nazionale, e consultazioni elettorali.».
 
-#### Art. 37 - Carta nazionale dei servizi
+### Art. 37 - Carta nazionale dei servizi
 
 1\. All'articolo 66 del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, e' aggiunto, in fine, il seguente comma:
 
@@ -2336,7 +2334,7 @@ b) all'articolo 8, il comma 5 e' abrogato.
 
 > 3\. Ferma restando la disciplina riguardante le trasmissioni telematiche gestite dal Ministero dell'economia e delle finanze e dalle agenzie fiscali, con decreto del Presidente del Consiglio dei Ministri o del Ministro delegato per l'innovazione e le tecnologie, di concerto con il Ministro per la funzione pubblica e d'intesa con la Conferenza unificata di cui all'art. 8 del decreto legislativo 28 agosto 1997, n. 281, e' fissata la data, comunque non successiva al 31 dicembre 2007,a decorrere dalla quale non e' piu' consentito l'accesso ai servizi erogati in rete dalle pubbliche amministrazioni, con strumenti diversi dalla carta d'identita' elettronica e dalla carta nazionale dei servizi.».
 
-#### Art. 38
+### Art. 38
 
 (Modifica dell'articolo 9 della legge
 
@@ -2364,7 +2362,7 @@ In ogni caso, le richieste dei contributi provenienti dai soggetti pubblici sara
 
 2\. I commi 1255 e 1256 dell'articolo 1 della legge 27 dicembre 2006, n. 296, sono abrogati.
 
-#### Art. 39 - Riallocazione di fondi
+### Art. 39 - Riallocazione di fondi
 
 1\. Le somme di cui all'articolo 2-bis, comma 1, lettera b), del decreto-legge 30 giugno 2005, n. 115, convertito, con modificazioni, dalla legge 17 agosto 2005, n. 168, non impegnate alla data di entrata in vigore della presente legge, sono destinate al cofinanziamento dei progetti di sviluppo di reti di connettivita', anche con tecnologie senza fili (wireless), e di servizi innovativi di tipo amministrativo e didattico presentati dalle universita'.
 
@@ -2464,7 +2462,7 @@ All'attuazione del presente comma si provvede nel limite delle risorse finanziar
 
 > «1. Nel perseguimento dei fini di maggior efficienza ed economicita' dell'azione amministrativa, nonche' di modernizzazione e sviluppo del Paese, il Ministro per l'innovazione e le tecnologie, nell'attivita' di coordinamento e di valutazione dei programmi, dei progetti e dei piani di azione formulati dalle amministrazioni per lo sviluppo dei sistemi informativi, sostiene progetti di grande contenuto innovativo, di rilevanza strategica, di preminente interesse nazionale, con particolare attenzione per i progetti di carattere intersettoriale, con finanziamenti aggiuntivi a carico e nei limiti del Fondo di cui al comma 2; puo' inoltre promuovere e finanziare progetti, anche di carattere internazionale, del Dipartimento per l'innovazione e le tecnologie con le medesime caratteristiche.».
 
-#### Art. 40
+### Art. 40
 
 (Modifiche agli articoli 38 e 48 del decreto legge 25 giugno 2008, n. 112, convertito,
 
@@ -2528,7 +2526,7 @@ c) al comma 4, dopo le parole: "Ministro per la semplificazione normativa" sono 
 
 > «1. Le pubbliche amministrazioni centrali di cui all'art. 1, comma 1, lettera z), del decreto legislativo 7 marzo 2005, n. 82 sono tenute ad approvvigionarsi di combustibile da riscaldamento e dei relativi servizi nonche' di energia elettrica mediante le convenzioni Consip o comunque a prezzi inferiori o uguali a quelli praticati dalla Consip.».
 
-#### Art. 41
+### Art. 41
 
 (Modifiche al decreto-legge 23 maggio 2008,
 
@@ -2568,7 +2566,7 @@ b) al comma 3, dopo il primo periodo e' inserito il seguente: "Agli oneri deriva
 
 ## CAPO IV - GIUSTIZIA
 
-#### Art. 42 - Disposizioni concernenti la Corte dei conti
+### Art. 42 - Disposizioni concernenti la Corte dei conti
 
 1\. All'articolo 5 della legge 21 luglio 2000, n. 205, sono apportate le seguenti modificazioni:
 
@@ -2600,7 +2598,7 @@ b) dopo il comma 1 e' inserito il seguente:
 
 > Esse sono presiedute dal presidente della Corte dei conti o da un presidente di sezione e giudicano con sette magistrati. Ad esse sono assegnati due presidenti di sezione e un numero di consiglieri determinato dal consiglio di presidenza della Corte dei conti all'inizio dell'anno giudiziario. Il presidente della Corte puo' disporre che le sezioni riunite si pronuncino sui giudizi che presentano una questione di diritto gia' decisa in senso difforme dalle sezioni giurisdizionali, centrali o regionali, e su quelli che presentano una questione di massima di particolare importanza. Se la sezione giurisdizionale, centrale o regionale, ritiene di non condividere il principio di diritto enunciato dalle sezioni riunite, rimette a queste ultime, con ordinanza motivata, la decisione del giudizio.».
 
-#### Art. 43
+### Art. 43
 
 (Norme urgenti per la funzionalita'
 
@@ -2644,7 +2642,7 @@ Al Fondo e' attribuita la quota di proventi derivanti da incarichi di segretario
 
 > «Art. 14 (Rimborso spese generali). - 1. All'Avvocato e al praticante autorizzato al patrocinio e' dovuto un rimborso forfettario delle spese generali in ragione del 12,5% sull'importo degli onorari e dei diritti ripetibile dal soccombente.».
 
-#### Art. 44 - Delega al Governo per il riassetto della disciplina del processo amministrativo
+### Art. 44 - Delega al Governo per il riassetto della disciplina del processo amministrativo
 
 1\. Il Governo e' delegato ad adottare, entro un anno dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi per il riassetto del processo avanti ai tribunali amministrativi regionali e al Consiglio di Stato, al fine di adeguare le norme vigenti alla giurisprudenza della Corte costituzionale e delle giurisdizioni superiori, di coordinarle con le norme del codice di procedura civile in quanto espressione di principi generali e di assicurare la concentrazione delle tutele.
 
@@ -2702,7 +2700,7 @@ g) riordinare il sistema delle impugnazioni, individuando le disposizioni applic
 
 > «309. Il maggior gettito derivante dall'applicazione delle disposizioni di cui ai commi da 306 a 308 e' versato al bilancio dello Stato, per essere riassegnato allo stato di previsione del Ministero della giustizia per il pagamento di debiti pregressi nonche' per l'adeguamento delle spese di funzionamento degli uffici giudiziari e allo stato di previsione del Ministero dell'economia e delle finanze per le spese riguardanti il funzionamento del Consiglio di Stato e dei tribunali amministrativi regionali, ivi comprese quelle occorrenti per incentivare progetti speciali per lo smaltimento dell'arretrato e per il miglior funzionamento del processo amministrativo.».
 
-#### Art. 45
+### Art. 45
 
 (Modifiche al libro primo del codice di
 
@@ -2996,7 +2994,7 @@ b) al terzo comma, la parola: "terzo" e' sostituita dalla seguente: "quarto".
 
 > La parte che dimostra di essere incorsa in decadenze per causa ad essa non imputabile puo' chiedere al giudice di essere rimessa in termini. Il giudice provvede a norma dell'art. 294, secondo e terzo comma.».
 
-#### Art. 46
+### Art. 46
 
 (Modifiche al libro secondo
 
@@ -3096,7 +3094,7 @@ b) al secondo comma, le parole: "sei mesi" sono sostituite dalle seguenti: "tre 
 
 24\. Il primo comma dell'articolo 291 del codice di procedura civile si applica anche nei giudizi davanti ai giudici ((. . .)) contabili.
 
-#### Art. 47
+### Art. 47
 
 (Ulteriori modifiche al libro secondo del
 
@@ -3172,7 +3170,7 @@ e) all'articolo 375 sono apportate le seguenti modificazioni:
 
 > \[Le conclusioni del pubblico ministero, almeno venti giorni prima dell'adunanza della Corte in camera di consiglio, sono notificate agli avvocati delle parti, che hanno facolta' di presentare memorie entro il termine di cui all'art. 378 e di essere sentiti, se compaiono, nei casi previsti al primo comma, numeri 1), 4) e 5), limitatamente al regolamento di giurisdizione, e al secondo comma].».
 
-#### Art. 48
+### Art. 48
 
 (Introduzione dell'articolo 540-bis
 
@@ -3182,7 +3180,7 @@ del codice di procedura civile)
 
 "Art. 540-bis. - (Integrazione del pignoramento). - Quando le cose pignorate risultano invendute a seguito del secondo o successivo esperimento ovvero quando la somma assegnata, ai sensi degli articoli 510, 541 e 542, non e' sufficiente a soddisfare le ragioni dei creditori, il giudice, ad istanza di uno di questi, provvede a norma dell'ultimo comma dell'articolo 518. Se sono pignorate nuove cose, il giudice ne dispone la vendita senza che vi sia necessita' di nuova istanza. In caso contrario, dichiara l'estinzione del procedimento, salvo che non siano da completare le operazioni di vendita".
 
-#### Art. 49
+### Art. 49
 
 (Modifiche al libro terzo
 
@@ -3234,7 +3232,7 @@ La disposizione di cui al terzo comma si applica, in quanto compatibile, anche a
 
 > Contro l'ordinanza che dichiara l'estinzione ovvero rigetta l'eccezione relativa e' ammesso reclamo da parte del debitore o del creditore pignorante ovvero degli altri creditori intervenuti nel termine perentorio di venti giorni dall'udienza o dalla comunicazione dell'ordinanza e con l'osservanza delle forme di cui all'art. 178 terzo, quarto e quinto comma. Il collegio provvede in camera di consiglio con sentenza.».
 
-#### Art. 50
+### Art. 50
 
 (Modifiche al libro quarto
 
@@ -3282,7 +3280,7 @@ b) al settimo comma, le parole: "primo comma" sono sostituite dalle seguenti: "s
 
 > L'autorita' del provvedimento cautelare non e' invocabile in un diverso processo.».
 
-#### Art. 51 - Procedimento sommario di cognizione
+### Art. 51 - Procedimento sommario di cognizione
 
 1\. Dopo il capo III del titolo I del libro quarto del codice di procedura civile e' inserito il seguente:
 
@@ -3322,7 +3320,7 @@ Art. 702-quater. - (Appello). - L'ordinanza emessa ai sensi del sesto comma dell
 
 Il presidente del collegio puo' delegare l'assunzione dei mezzi istruttori ad uno dei componenti del collegio".
 
-#### Art. 52
+### Art. 52
 
 (Modifiche alle disposizioni per l'attuazione
 
@@ -3384,7 +3382,7 @@ Le sottoscrizioni devono essere autenticate da un segretario comunale o dal canc
 
 > «Art. 152 (Esenzione dal pagamento di spese, competenze e onorari nei giudizi per prestazioni previdenziali). - Nei giudizi promossi per ottenere prestazioni previdenziali o assistenziali la parte soccombente, salvo comunque quanto previsto dall'art. 96, primo comma, del codice di procedura civile, non puo' essere condannata al pagamento delle spese, competenze ed onorari quando risulti titolare, nell'anno precedente a quello della pronuncia, di un reddito imponibile ai fini IRPEF, risultante dall'ultima dichiarazione, pari o inferiore a due volte l'importo del reddito stabilito ai sensi degli articoli 76, commi da 1 a 3, e 77 del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia di cui al decreto del Presidente della repubblica 30 maggio 2002, n. 115. L'interessato che, con riferimento all'anno precedente a quello di instaurazione del giudizio, si trova nelle condizioni indicate nel presente articolo formula apposita dichiarazione sostitutiva di certificazione nelle conclusioni dell'atto introduttivo e si impegna a comunicare, fino a che il processo non sia definito, le variazioni rilevanti dei limiti di reddito verificatesi nell'anno precedente. Si applicano i commi 2 e 3 dell'art. 79 e dell'art. 88 del citato testo unico di cui al decreto del Presidente della repubblica n. 115 del 2002. Le spese, competenze ed onorari liquidati dal giudice nei giudizi per prestazioni previdenziali non possono superare il valore della prestazione dedotta in giudizio.».
 
-#### Art. 53
+### Art. 53
 
 (Abrogazione dell'articolo 3 della legge
 
@@ -3406,7 +3404,7 @@ transitorie)
 
 > Nell'udienza come sopra fissata provvede a norma degli articoli che precedono.».
 
-#### Art. 54
+### Art. 54
 
 (Delega al Governo per la riduzione
 
@@ -3460,7 +3458,7 @@ d) restano in ogni caso ferme le disposizioni processuali in materia di procedur
 
 > \- Il decreto legislativo 6 settembre 2005, n. 206 recante «Codice del consumo, a norma dell'art. 7 della L. 29 luglio 2003, n. 229» e' pubblicato nella Gazzetta Ufficiale 8 ottobre 2005, n. 235, S.O.
 
-#### Art. 55
+### Art. 55
 
 (Notificazione a cura dell'Avvocatura
 
@@ -3478,7 +3476,7 @@ dello Stato)
 
 > \- La legge 21 gennaio 1994, n. 53 recante «Facolta' di notificazioni di atti civili, amministrativi e stragiudiziali per gli avvocati e procuratori legali» e' pubblicata nella Gazzetta Ufficiale 26 gennaio 1994, n. 20.
 
-#### Art. 56
+### Art. 56
 
 (Misure in tema di razionalizzazione delle
 
@@ -3500,7 +3498,7 @@ delle domande giudiziali)
 
 > «Art. 11 (Limite alla presentazione di nuove domande). - A decorrere dall'entrata in vigore della presente legge, l'assicurato che abbia in corso o presenti domanda intesa ad ottenere il riconoscimento del diritto all'assegno di invalidita' o alla pensione di inabilita' di cui agli articoli 1 e 2 non puo' presentare ulteriore domanda per la stessa prestazione fino a quando non sia esaurito l'iter di quella in corso in sede amministrativa o, nel caso di ricorso in sede giudiziaria, fino a quando non sia intervenuta sentenza passata in giudicato.».
 
-#### Art. 57
+### Art. 57
 
 (Modifica all'articolo 9 della legge
 
@@ -3516,7 +3514,7 @@ delle domande giudiziali)
 
 > I ricorsi per i quali non sia stata presentata nuova domanda di fissazione vengono, dopo il decorso infruttuoso del termine assegnato, dichiarati perenti con le modalita' di cui all'ultimo comma dell'art. 26 della legge 6 dicembre 1971, n. 1034, introdotto dal comma 1 del presente articolo. Se, in assenza dell'avviso di cui al primo periodo, e' comunicato alle parti l'avviso di fissazione dell'udienza di discussione nel merito, i ricorsi sono decisi qualora almeno una parte costituita dichiari, anche in udienza a mezzo del proprio difensore, di avere interesse alla decisione; altrimenti sono dichiarati perenti dal presidente del collegio con decreto, ai sensi dell'art. 26, ultimo comma, della legge 6 dicembre 1971, n. 1034.»
 
-#### Art. 58 - Disposizioni transitorie
+### Art. 58 - Disposizioni transitorie
 
 1\. Fatto salvo quanto previsto dai commi successivi, le disposizioni della presente legge che modificano il codice di procedura civile e le disposizioni per l'attuazione del codice di procedura civile si applicano ai giudizi instaurati dopo la data della sua entrata in vigore.
 
@@ -3582,7 +3580,7 @@ delle domande giudiziali)
 
 > \- Per il testo degli articoli 2668-bis e 2668-ter del codice civile si veda nelle note all' art. 62.
 
-#### Art. 59 - Decisione delle questioni di giurisdizione
+### Art. 59 - Decisione delle questioni di giurisdizione
 
 1\. Il giudice che, in materia civile, amministrativa, contabile, tributaria o di giudici speciali, dichiara il proprio difetto di giurisdizione indica altresi', se esistente, il giudice nazionale che ritiene munito di giurisdizione. La pronuncia sulla giurisdizione resa dalle sezioni unite della Corte di cassazione e' vincolante per ogni giudice e per le parti anche in altro processo.
 
@@ -3594,7 +3592,7 @@ delle domande giudiziali)
 
 5\. In ogni caso di riproposizione della domanda davanti al giudice di cui al comma 1, le prove raccolte nel processo davanti al giudice privo di giurisdizione possono essere valutate come argomenti di prova.
 
-#### Art. 60
+### Art. 60
 
 (Delega al Governo in materia di mediazione
 
@@ -3734,7 +3732,7 @@ s) prevedere che il verbale di conciliazione abbia efficacia esecutiva per l'esp
 
 > «Art. 9 (L) (Contributo unificato). - 1. E' dovuto il contributo unificato di iscrizione a ruolo, per ciascun grado di giudizio, nel processo civile, compresa la procedura concorsuale e di volontaria giurisdizione, e nel processo amministrativo, secondo gli importi previsti dall'art. 13 e salvo le esenzioni previste dall'art. 10.».
 
-#### Art. 61 - Disposizioni in materia di concordato
+### Art. 61 - Disposizioni in materia di concordato
 
 1\. All'articolo 125, secondo comma, del regio decreto 16 marzo 1942, n. 267, e successive modificazioni, sono aggiunti, in fine, i seguenti periodi: "In caso di presentazione di piu' proposte o se comunque ne sopraggiunge una nuova, prima che il giudice delegato ordini la comunicazione, il comitato dei creditori sceglie quella da sottoporre all'approvazione dei creditori; su richiesta del curatore, il giudice delegato puo' ordinare la comunicazione ai creditori di una o di altre proposte, tra quelle non scelte, ritenute parimenti convenienti. Si applica l'articolo 41, quarto comma".
 
@@ -3758,7 +3756,7 @@ s) prevedere che il verbale di conciliazione abbia efficacia esecutiva per l'esp
 
 > Quando il giudice delegato dispone il voto su piu' proposte di concordato ai sensi dell'art. 125, secondo comma, terzo periodo, ultima parte, si considera approvata quella tra esse che ha conseguito il maggior numero di consensi a norma dei commi precedenti e, in caso di parita', la proposta presentata per prima.».
 
-#### Art. 62 - Efficacia della trascrizione della domanda giudiziale, del pignoramento immobiliare e del sequestro conservativo sugli immobili
+### Art. 62 - Efficacia della trascrizione della domanda giudiziale, del pignoramento immobiliare e del sequestro conservativo sugli immobili
 
 1\. Dopo l'articolo 2668 del codice civile, sono inseriti i seguenti:
 
@@ -3774,7 +3772,7 @@ Se al tempo della rinnovazione gli immobili a cui si riferisce il titolo risulta
 
 Art. 2668-ter. - (Durata dell'efficacia della trascrizione del pignoramento immobiliare e del sequestro conservativo sugli immobili). - Le disposizioni di cui all'articolo 2668-bis si applicano anche nel caso di trascrizione del pignoramento immobiliare e del sequestro conservativo sugli immobili".
 
-#### Art. 63
+### Art. 63
 
 (Disposizioni in materia di annotazione nei
 
@@ -3792,7 +3790,7 @@ pubblici registri immobiliari)
 
 5\. L'Agenzia del territorio provvede all'assolvimento dei nuovi compiti derivantidall'attuazione del presente articolo con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente, senza nuovi o maggiori oneri a carico della finanza pubblica".
 
-#### Art. 64
+### Art. 64
 
 (Trasferimento presso gli uffici provinciali
 
@@ -3814,7 +3812,7 @@ immobiliare)
 
 > «6. Nei comuni non capoluoghi di provincia ove hanno sede le conservatorie dei registri immobiliari possono essere istituite, con decreto del Ministro delle finanze da emanare sentiti le organizzazioni sindacali rappresentate nel consiglio di amministrazione ed il Consiglio di Stato e da pubblicare nella Gazzetta Ufficiale della Repubblica italiana, sezioni staccate degli uffici del territorio, con competenza limitata alla conservazione dei registri immobiliari.»
 
-#### Art. 65 - Delega al Governo in materia di atto pubblico informatico redatto dal notaio
+### Art. 65 - Delega al Governo in materia di atto pubblico informatico redatto dal notaio
 
 1\. Il Governo e' delegato ad adottare, entro un anno dalla data di entrata in vigore della presente legge, con l'osservanza dei principi e dei criteri direttivi di cui al comma 5, uno o piu' decreti legislativi in materia di ordinamento del notariato con riferimento alle procedure infounatiche e telematiche per la redazione dell'atto pubblico, l'autenticazione di scrittura privata, la tenuta dei repertori e registri e la conservazione dei documenti notarili, nonche' alla rettifica di errori di trascrizioni di' dati degli atti notarili.
 
@@ -3834,7 +3832,7 @@ b) attribuzione al notaio della facolta' di provvedere, mediante propria certifi
 
 > \- Il decreto legislativo 7 marzo 2005, n. 82 recante «Codice dell'amministrazione digitale» e' pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112, S.O.
 
-#### Art. 66
+### Art. 66
 
 (Semplificazione delle procedure
 
@@ -3920,7 +3918,7 @@ d) gli articoli 5-bis, 5-ter e 5-quater della legge 16 febbraio 1913, n. 89.
 
 > La domanda di ammissione e' unica tanto per la prova di preselezione quanto per le prove di esame.».
 
-#### Art. 67
+### Art. 67
 
 (Misure urgenti per il recupero di somme af ferenti al bilancio della giustizia e per il
 
@@ -4160,7 +4158,7 @@ d) la lettera c) e' abrogata.
 
 > c) [Abrogato]».
 
-#### Art. 68 - Abrogazioni e modificazione di norme
+### Art. 68 - Abrogazioni e modificazione di norme
 
 1\. Dalla data di entrata in vigore della presente legge:
 
@@ -4176,7 +4174,7 @@ c) l'articolo 1, comma 372, della legge 24 dicembre 2007, n. 244, e' abrogato.
 
 > «1. Il concessionario, previa ritenuta della tassa del dieci per cento di cui all'art. 154, del decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, versa alla fine di ogni mese all'UNEP le somme relative a diritti e indennita' di trasferta prenotate a debito.».
 
-#### Art. 69
+### Art. 69
 
 (Rimedi giustiziali contro
 
@@ -4222,7 +4220,7 @@ b) il secondo comma e' abrogato.
 
 ## CAPO V - PRIVATIZZAZIONI
 
-#### Art. 70 - Patrimonio dello Stato Spa
+### Art. 70 - Patrimonio dello Stato Spa
 
 1\. All'articolo 7, comma 10, del decreto-legge 15 aprile 2002, n. 63, convertito, con modificazioni, dalla legge 15 giugno 2002, n. 112, sono apportate le seguenti modificazioni:
 
@@ -4238,13 +4236,13 @@ b) dopo il secondo periodo e' inserito il seguente: "La pubblicazione nella Gazz
 
 > Restano comunque fermi i vincoli gravanti sui beni trasferiti e, sino al termine di scadenza prevista nel titolo, i diritti di godimento spettanti a terzi.»
 
-#### Art. 71
+### Art. 71
 
 ((ARTICOLO ABROGATO DAL D.LGS. 19 AGOSTO 2016, N. 175))
 
 ## CAPO VI - CLAUSOLA DI SALVAGUARDIA
 
-#### Art. 72 - Clausola di salvaguardia
+### Art. 72 - Clausola di salvaguardia
 
 1\. Le regioni a statuto speciale e le province autonome di Trento e di Bolzano adeguano la propria legislazione ai principi contenuti 'nella presente legge nell'esercizio delle potesta' loro attribuite dallo statuto di autonomia.
 
@@ -4272,7 +4270,7 @@ Visto, il Guardasigilli: Alfano
 
 ## CAPO VI - CLAUSOLA DI SALVAGUARDIA
 
-#### Allegato 1
+### Allegato 1
 
 ALLEGATO 1
 

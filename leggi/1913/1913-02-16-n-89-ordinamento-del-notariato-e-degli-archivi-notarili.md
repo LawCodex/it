@@ -32,7 +32,7 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 ## Titolo I. - Disposizioni generali.
 
-#### Art. 1
+##### Art. 1
 
 I notari sono ufficiali pubblici istituiti per ricevere gli atti tra vivi e di ultima volonta', attribuire loro pubblica fede, conservarne il deposito, rilasciarne le copie, i certificati e gli estratti.
 
@@ -58,7 +58,7 @@ c) agl'incanti e alle divisioni giudiziali ed a tutte le operazioni all'uopo nec
 
 I notari esercitano, inoltre, le altre attribuzioni loro deferite dalle leggi.
 
-#### Art. 2
+##### Art. 2
 
 L'ufficio di notaro e' incompatibile con qualunque impiego stipendiato o retribuito dallo Stato, dalle Provincie e dai Comuni aventi una popolazione superiore ai 5000 abitanti, con la professione di avvocato, di procuratore, di direttore di banca, di commerciante, di mediatore, agente di cambio o sensale, di ricevitore del lotto, di esattore di tributi o incaricato della gestione esattoriale e con la qualita' di ministro di qualunque culto. ((8))
 
@@ -74,7 +74,7 @@ L'assunzione dei notai agli impieghi suindicati non potra' avvenire se non quand
 
 Ha inoltre disposto (con l'art. 2, comma 1) che "Rimane fermo, in ogni caso, per il notaio l'adempimento degli obblighi stabiliti dalla legge 16 febbraio 1913, n. 89, compresa l'assistenza personale allo studio notarile nella sede di cui e' titolare nei giorni e nelle ore fissate dal presidente della Corte d'appello a norma dell'art. 26 della legge medesima".
 
-#### Art. 3
+##### Art. 3
 
 ((COMMA ABROGATO DAL D.LGS. 3 DICEMBRE 1999, N. 491)).
 
@@ -84,7 +84,7 @@ Inoltre, quando le circostanze lo consigliano, puo' sempre con decreto Reale, pr
 
 I distretti riuniti sono considerati come unico distretto.
 
-#### Art. 4
+##### Art. 4
 
 1\. Il numero e la residenza dei notai per ciascun distretto sono determinati con decreto del Ministro della giustizia emanato, uditi i Consigli notarili e le Corti d'appello, tenendo conto della popolazione, dell'estensione del territorio e dei mezzi di comunicazione, e procurando che di regola ad ogni posto notarile corrisponda una popolazione di almeno 5.000 abitanti.
 
@@ -126,7 +126,7 @@ Il D.L. 24 gennaio 2012, n. 1, convertito con modificazioni dalla L. 24 marzo 20
 
 ### Capo I. - Della nomina dei notari.
 
-#### Art. 5
+##### Art. 5
 
 Per ottenere la nomina a notaro e' necessario:
 
@@ -228,19 +228,19 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 5-bis
+##### Art. 5-bis
 
 ((ARTICOLO ABROGATO DALLA L. 18 GIUGNO 2009, N. 69))
 
-#### Art. 5-ter
+##### Art. 5-ter
 
 ((ARTICOLO ABROGATO DALLA L. 18 GIUGNO 2009, N. 69))
 
-#### Art. 5-quater
+##### Art. 5-quater
 
 ((ARTICOLO ABROGATO DALLA L. 18 GIUGNO 2009, N. 69))
 
-#### Art. 6
+##### Art. 6
 
 ((ARTICOLO ABROGATO DALLA L. 20 GENNAIO 1994, N. 49)) ((51))
 
@@ -250,7 +250,7 @@ AGGIORNAMENTO (51)
 
 La L. 20 gennaio 1994, n. 49 ha disposto (con l'art. 1, comma 3) che "I provvedimenti di autorizzazione all'esercizio notarile, adottati ai sensi dell'articolo 6 della citata legge n. 89 del 1913, debbono essere revocati entro un anno dalla data di entrata in vigore della presente legge".
 
-#### Art. 7
+##### Art. 7
 
 Chi vuole ottenere la iscrizione tra i praticanti e chi vuole essere ammesso all'esame di idoneita', deve presentare la domanda al Consiglio notarile con gli attestati che provino rispettivamente il concorso dei requisiti indicati nei numeri 2, 3 e 4 dell'art. 5 per la iscrizione, e dei numeri 2, 3, 4 e 5 dello stesso articolo, per l'esame d'idoneita'.
 
@@ -260,11 +260,11 @@ Il ricorso del pubblico ministero sara' notificato all'interessato e su quello d
 
 Qualora il Consiglio notarile non si riunisca nel termine di un mese dalla presentazione della domanda, il presidente del Consiglio stesso potra' ordinare, in via d'urgenza, l'iscrizione fra i praticanti, salvo la ratifica del Consiglio nella sua prima adunanza.
 
-#### Art. 8
+##### Art. 8
 
 L'esame e' dato presso la Corte d'appello da cui dipende il distretto notarile ove ebbe termine la pratica, innanzi ad una Commissione composta di un consigliere delegato dal presidente della Corte d'appello, che ne ha la presidenza, di un membro del pubblico ministero presso la stessa Corte d'appello, da nominarsi dal procuratore generale, di un giudice delegato dal presidente del tribunale civile del luogo in cui risiede la Corte d'appello e di due membri del Consiglio notarile del distretto, da nominarsi dal presidente del Consiglio stesso.
 
-#### Art. 9
+##### Art. 9
 
 L'esame e' scritto ed orale.
 
@@ -276,7 +276,7 @@ Le norme da seguirsi negli esami saranno stabilite dal regolamento.
 
 Nel caso di mancata approvazione, il candidato non puo' essere ammesso a nuovo esame, se non dopo decorso un anno dall'ultimo esame subito.
 
-#### Art. 10
+##### Art. 10
 
 ((Quando si verifichi la vacanza di un ufficio di notaro, il procuratore del Re del tribunale, da cui dipende il distretto notarile dove la vacanza si e' verificata, ne da' immediatamente notizia al Ministero della giustizia e degli affari di culto, il quale provvede alla pubblicazione del relativo avviso di concorso, mediante inserzione nella Gazzetta ufficiale ed analogo annunzio nel Bollettino ufficiale.
 
@@ -300,7 +300,7 @@ Ove si verifichi la mancanza di tutti i posti assegnati ad un Comune, si dovra' 
 
 \- (con l'art. 4, comma 1) che "La proroga del termine e gli altri benefizi concessi dei precedenti articoli in favore dei chiamati alle armi si applicano anche ai concorsi gia' pubblicati, ma per i quali alla data del presente decreto non sia ancora decorso il termine per la produzione dei documenti".
 
-#### Art. 11
+##### Art. 11
 
 Il Consiglio notarile, esaminati i documenti dei concorrenti, presenta la proposta per la nomina.
 
@@ -316,37 +316,37 @@ Nei casi di cui alle lettere b) e c), a parita' delle altre condizioni, dovra' a
 
 Nelle sedi di minore importanza provviste di un solo posto notarile, potra' prevalere sui criteri anzidetti la circostanza che il concorrente abbia il domicilio o la residenza nel luogo dove trovasi posto messo a concorso.
 
-#### Art. 12
+##### Art. 12
 
 Non puo' validamente prender parte ad un nuovo concorso, se non dopo cinque anni, chi senza giustificato motivo si ritiri dal concorso, o venga dichiarato decaduto dalla nomina conferitagli, o rinunzi alla medesima; e chi, entro un anno dalla presa di possesso, senza giustificato motivo, rinunzi all'ufficio.
 
 ((Non puo' nemmeno prendere parte validamente ad un altro concorso chi ebbe gia' a conseguire la nomina o il trasloco ad un ufficio notarile, quando non abbia preso possesso dell'ufficio medesimo ed esercitato ivi effettivamente le sue funzioni da almeno due anni)).
 
-#### Art. 13
+##### Art. 13
 
 La proposta del Consiglio notarile, insieme coi documenti, sara' sottoposta alla Corte d'appello, che udito il pubblico ministero, esprimera' in Camera di consiglio il suo avviso motivato. Il presidente della Corte trasmettera' quindi tutte le carte al Ministero di grazia e giustizia.
 
-#### Art. 14
+##### Art. 14
 
 ((Se entro trenta giorni da quello della ricezione degli atti del concorso il Consiglio notarile abbia, senza giustificati motivi, omesso di fare la proposta, il presidente del Consiglio stesso dovra', nei dieci giorni successivi, trasmettere gli atti del concorso alla Corte di appello, la quale fara' la sua proposta, udito il pubblico ministero)).
 
-#### Art. 15
+##### Art. 15
 
 La dichiarazione di annullamento o di diserzione del concorso, sara' fatta dal Ministero di grazia e giustizia e pubblicata nel Bollettino del Ministero stesso.
 
-#### Art. 16
+##### Art. 16
 
 I notari sono nominati a vita con decreto Reale.
 
-#### Art. 17
+##### Art. 17
 
 Il cambio di residenza fra due notari puo', col loro consenso, essere disposto, purche' da non meno di due anni essi abbiano preso possesso dell'ufficio ed esercitato effettivamente le loro funzioni, e purche' si tratti di residenze di pressoche' uguale importanza e l'eta' e l'anzianita' d'esercizio dei richiedenti siano pressoche' uguali.
 
 Il relativo provvedimento sara' dato con decreto Reale, uditi i pareri dei Consigli notarili e delle Corti d'appello competenti.
 
-## Capo II. - Dell'esercizio delle funzioni notarili.
+### Capo II. - Dell'esercizio delle funzioni notarili.
 
-#### Art. 18
+##### Art. 18
 
 Il notaro, prima di assumere l'esercizio delle proprie funzioni, deve:
 
@@ -364,7 +364,7 @@ Il notaro, prima di assumere l'esercizio delle proprie funzioni, deve:
 
 7° adempiere agli altri obblighi indicati nell'articolo 24.
 
-#### Art. 19
+##### Art. 19
 
 1\. Il consiglio nazionale del notariato provvede a forme collettive di assicurazione per la responsabilita' civile derivante dall'esercizio dell'attivita' notarile, uniformi per tutti i notai, con separata contribuzione obbligatoria a carico di tutti gli iscritti al ruolo, da versare al Consiglio nazionale del notariato.
 
@@ -378,13 +378,13 @@ Il contributo e' riscosso dal Consiglio nazionale del notariato con le modalita'
 
 4\. Il Ministro della giustizia, di concerto con il Ministro delle attivita' produttive, sentito il consiglio nazionale del notariato, individua con decreto il massimale minimo delle polizze assicurative individuali e collettive.
 
-#### Art. 20
+##### Art. 20
 
 ((1. Se mancano le forme collettive di assicurazione cui all'articolo 19, il notaio provvede alla stipula di polizza assicurativa individuale per la responsabilita' civile derivante dai danni cagionati nell'esercizio dell'attivita' professionale.
 
 2\. In caso di mancato adempimento dell'obbligo di assicurazione il notaio e' soggetto a procedimento disciplinare e puo' essere sanzionato ai sensi dell'articolo 147)).
 
-#### Art. 21
+##### Art. 21
 
 ((1. Il consiglio nazionale del notariato istituisce, regolamenta e gestisce, con separata contribuzione obbligatoria a carico di tutti gli iscritti al ruolo, un Fondo di garanzia per il ristoro dei danni derivanti da reato commesso dal notaio nell'esercizio della sua attivita' professionale, non coperti da polizze assicurative ed accertati ai sensi dell'articolo 22, commi 3 e 4.
 
@@ -394,7 +394,7 @@ Il contributo e' riscosso dal Consiglio nazionale del notariato con le modalita'
 
 4\. Il contributo e' determinato dal consiglio nazionale del notariato e riscosso secondo le modalita' di cui all'articolo 21 della legge 27 giugno 1991, n. 220)).
 
-#### Art. 22
+##### Art. 22
 
 1\. Il patrimonio del Fondo e' costituto dai contributi dei notai, dalla somme ottenute a titolo di rivalsa per i risarcimenti erogati, dalla dotazione residua del fondo volontario temporaneo di solidarieta', gia' istituito dal consiglio nazionale del notariato e dagli incrementi conseguenti alla gestione del Fondo.
 
@@ -424,7 +424,7 @@ b) all'emissione, per il pagamento dei tributi di cui al primo periodo, di un at
 
 5\. Il contributo corrisposto dal Fondo copre unicamente i danni relativi a fatti verificatisi successivamente alla data della costituzione del fondo.
 
-#### Art. 23
+##### Art. 23
 
 Il sigillo menzionato nel n. 4 dell'art. 18 deve rappresentare lo stemma nazionale circondato dalla leggenda «N . . . n. . . . di (o fu) notaro in n. . . .» senza aggiunta di altri titoli o indicazioni.
 
@@ -434,13 +434,13 @@ Anche di tale sigillo deve lasciarsi l'impronta nel registro del Consiglio, a te
 
 Se il vecchio sigillo si ritrovasse, il notaro non potra' servirsene, ma dovra' invece consegnarlo all'archivio notarile che, previo annullamento, lo conservera' come quelli dei notari che hanno cessato dall'esercizio, a termini dell'art. 40.
 
-#### Art. 23-bis
+##### Art. 23-bis
 
 ((1. Il notaio per l'esercizio delle sue funzioni deve munirsi della firma digitale di cui all'articolo 1, comma 1, lettera s), del decreto legislativo 7 marzo 2005, n. 82, rilasciata dal Consiglio nazionale del notariato.
 
 2\. Le disposizioni di cui al comma 1 si applicano anche al coadiutore e al notaio delegato)).
 
-#### Art. 23-ter
+##### Art. 23-ter
 
 ((1. Il certificato qualificato, di cui all'articolo 1, comma 1, lettera f), del decreto legislativo 7 marzo 2005, n. 82, rilasciato al notaio per l'esercizio delle sue funzioni nel rispetto delle regole tecniche di cui all'articolo 34, commi 3 e 4, dello stesso decreto, attesta, sulla base delle comunicazioni inviate dai consigli notarili distrettuali, anche la sua iscrizione nel ruolo.
 
@@ -448,7 +448,7 @@ Se il vecchio sigillo si ritrovasse, il notaro non potra' servirsene, ma dovra' 
 
 3\. Il notaio custodisce ed utilizza personalmente, ai sensi dell'articolo 32 del decreto legislativo 7 marzo 2005, n. 82, il dispositivo di firma collegato al certificato di cui al comma 1)).
 
-#### Art. 24
+##### Art. 24
 
 Il notaro deve entro novanta giorni dalla data della registrazione del decreto di nomina o di trasferimento, compiere le formalita' stabilite nell'art. 18, e aprire l'ufficio nel luogo assegnatogli. (25) ((31))
 
@@ -480,13 +480,13 @@ AGGIORNAMENTO (31)
 
 Il Regio D.L. 20 gennaio 1936, n. 163, convertito senza modificazioni dalla L. 11 maggio 1936, n. 889, ha disposto (con l'art. 5, comma 1) che "Il termine stabilito nell'art. 24, commi primo e secondo, della legge 16 febbraio 1913, n. 89, e nell'art. 50 del Regio decreto 14 novembre 1926, n. 1953, rimane sospeso durante il periodo di permanenza dei notari sotto le armi nelle circostanze previste nell'art. 1 del R. decreto-legge 1° aprile 1935-XIII, n. 343, convertito nella legge 3 giugno 1935, n. 1019".
 
-#### Art. 25
+##### Art. 25
 
 Le disposizioni degli articoli 18 e 24 si osserveranno anche nel caso di trasferimento del notaro da una ad altra residenza, in quanto siano applicabili.
 
 Qualora la nuove sede appartenga ad altro distretto notarile, la pubblicazione di cui nell'articolo precedente, sara' fatta, in entrambi i distretti, a cura dei rispettivi presidenti dei Consigli notarili.
 
-#### Art. 26
+##### Art. 26
 
 Per assicurare il funzionamento regolare e continuo dell'ufficio, il notaro deve tenere nel Comune o nella frazione di Comune assegnatagli studio aperto con il deposito degli atti, registri e repertori notarili, e deve assistere personalmente allo studio stesso almeno tre giorni a settimana e almeno uno ogni quindici giorni per ciascun Comune o frazione di Comune aggregati.
 
@@ -504,13 +504,13 @@ Tanto il Ministero quanto l'autorita' che ha concesso la permissione di assenza 
 
 Nei luoghi dove non esiste altro notaio, il presidente o il Consiglio notarile, secondo i casi, potranno supplire al notaro assente, delegando un notaro viciniore a compierne in tutto o in parte le funzioni, preferendo pero' fra i viciniori quello proposto dallo stesso notaro assente.
 
-#### Art. 27
+##### Art. 27
 
 Il notaro e' obbligato a prestare il suo ministero ogni volta che ne e' richiesto.
 
 ((Egli non puo' prestarlo fuori del territorio della regione in cui si trova la propria sede ovvero del distretto della Corte d'appello in cui si trova la sede, se tale distretto comprende piu' regioni)).
 
-#### Art. 28
+##### Art. 28
 
 Il notaro non puo' ricevere ((o autenticare)) atti:
 
@@ -524,13 +524,13 @@ Le disposizioni contenute nei numeri 2 e 3 non sono applicabili ai casi d'incant
 
 Il notaro puo' ricusare il suo ministero se le parti non depositino presso di lui l'importo delle tasse, degli onorari e delle spese dell'atto, salvo che si tratti di persone ammesse al beneficio del gratuito patrocinio, oppure di testamenti.
 
-#### Art. 29
+##### Art. 29
 
 E' vietato a due notari, parenti od affini tra loro nei gradi contemplati dal n. 2 dell'articolo precedente, di ricevere uno stesso testamento pubblico.
 
-## Capo III. - Della decadenza della nomina di notaro, della cessazione, sospensione o interruzione dell'esercizio notarile.
+### Capo III. - Della decadenza della nomina di notaro, della cessazione, sospensione o interruzione dell'esercizio notarile.
 
-#### Art. 30
+##### Art. 30
 
 Il notaio decade dalla nomina se, nel termine di cui all'articolo 24, non assume l'esercizio delle sue funzioni e non adempie gli obblighi stabiliti dagli articoli 18 e 24. (49)
 
@@ -556,7 +556,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 31
+##### Art. 31
 
 La dispensa ha luogo nel caso di rinuncia del notaro, o quando il notaro, per debolezza di mente o per infermita', sia divenuto incapace all'adempimento del suo ufficio, salvo il disposto dell'articolo 45 per i casi ivi contemplati. ((49))
 
@@ -572,7 +572,7 @@ AGGIORNAMENTO (49)
 
 La L. 18 febbraio 1983, n. 45 ha disposto (con l'articolo unico, comma 1) che "I notai dichiarati decaduti ai sensi dell'articolo 30, primo comma, della legge 16 febbraio 1913, n. 89, come modificato dagli articoli 10 della legge 30 aprile 1976, n. 197, e 6 della legge 10 maggio 1978, n. 177, e quelli dispensati per rinuncia ai sensi dell'articolo 31 della medesima legge 16 febbraio 1913, n. 89, sono, a loro domanda, riammessi all'esercizio della professione con decreto del Presidente della Repubblica, su proposta del Ministro di grazia e giustizia, a condizione che non abbiano compiuto il 65° anno di eta', e vengono ammessi a concorrere alle sedi vacanti secondo i criteri previsti dalla citata legge 30 aprile 1976, n. 197".
 
-#### Art. 32
+##### Art. 32
 
 La rimozione ha luogo:
 
@@ -584,13 +584,13 @@ La rimozione ha luogo:
 
 4° ((NUMERO ABROGATO DAL D.LGS. 4 MAGGIO 2006, N. 182)).
 
-#### Art. 33
+##### Art. 33
 
 I notari rimossi o dispensati possono essere riammessi all'esercizio, concorrendo nuovamente ad un posto vacante, sempreche' siano cessate le cause che hanno dato luogo alla rimozione ed alla dispensa.
 
 ((COMMA ABROGATO DAL REGIO D.L. 23 OTTOBRE 1924, N. 1737, CONVERTITO SENZA MODIFICAZIONI DALLA L. 18 MARZO 1926, N. 562)).
 
-#### Art. 34
+##### Art. 34
 
 ((1. La decadenza dalla nomina e la cessazione dall'esercizio per dispensa, richiesta del notaio, sono dichiarate con decreto dirigenziale.
 
@@ -606,7 +606,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 35
+##### Art. 35
 
 ((1. Le sanzioni disciplinari della sospensione e della destituzione sono pronunziate nei casi determinati dagli articoli 138, 138-bis, 142, 142-bis e 147, nonche' negli altri casi previsti dalle leggi sul notariato.
 
@@ -620,17 +620,17 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 36
+##### Art. 36
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 MAGGIO 2006, N. 182))
 
-#### Art. 37
+##### Art. 37
 
 La cessazione del notaro dall'esercizio delle sue funzioni, pronunciata in qualunque dei casi determinati dalla legge, sara' prontamente pubblicata a cura del presidente del Consiglio notarile e gratuitamente nella Gazzetta ufficiale, nel giornale degli annunzi giudiziari, e per mezzo di avviso affisso nel capoluogo del collegio notarile.
 
 Un esemplare del detto avviso dovra' poi essere trasmesso al presidente del tribunale civile da cui dipende la sede notarile.
 
-#### Art. 38
+##### Art. 38
 
 L'ufficiale dello stato civile, che riceve la dichiarazione di morte di un notaro, deve informarne immediatamente il Consiglio notarile presso il quale il notaro era iscritto, ed il capo dell'archivio notarile del distretto in cui il medesimo aveva la sua residenza.
 
@@ -660,7 +660,7 @@ AGGIORNAMENTO (55)
 
 La L. 16 giugno 1998, n. 188, nel modificare l'art. 247 del D.Lgs. 19 febbraio 1998, n. 51, ha conseguentemente disposto (con l'art. 1, comma 1) che la presente modifica ha effetto a decorrere dal 2 giugno 1999.
 
-#### Art. 39
+##### Art. 39
 
 Nel caso di morte o di cessazione definitiva dall'esercizio notarile, il capo dell'archivio notarile del distretto deve procedere all'apposizione dei sigilli sopra tutti gli atti, i repertori e le carte relative all'ufficio notarile ed esistenti nello studio del notaio od indebitamente altrove; e quando sia eseguita la rimozione dei sigilli procedera' al ritiro degli atti e dei repertori. (54) (55)
 
@@ -694,7 +694,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 40
+##### Art. 40
 
 ((1. Il sigillo del notaio cessato definitivamente dall'esercizio o trasferito ad altra sede e' depositato nell'archivio notarile distrettuale. Il sigillo e' reso inutilizzabile, in modo da restare comunque riconoscibile, mediante l'apposizione di un segno sull'incisione a cura del capo dell'archivio.
 
@@ -710,17 +710,17 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 41
+##### Art. 41
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 MAGGIO 2006, N. 182))
 
-#### Art. 42
+##### Art. 42
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 MAGGIO 2006, N. 182))
 
-## Capo IV. - Dei coadiutori e delegati.
+### Capo IV. - Dei coadiutori e delegati.
 
-#### Art. 43
+##### Art. 43
 
 ((1. Nei casi di irrogazione della sanzione disciplinare della sospensione o di applicazione della sospensione cautelare di cui all'articolo 158-sexies, commi 1 e 2, o di interdizione temporanea dall'esercizio del notaio, il consiglio notarile del distretto presso il quale il notaio e' iscritto determina se gli atti, i registri ed i repertori devono restare presso lo studio del notaio sospeso o interdetto ovvero se devono essere depositati presso altro notaio.
 
@@ -742,7 +742,7 @@ Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le dis
 
 Ha inoltre disposto (con l'art. 55, comma 4) che "Il decreto di cui all'articolo 43, comma 5, della legge 16 febbraio 1913, n. 89, e' emanato entro centoventi giorni dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale della Repubblica italiana".
 
-#### Art. 44
+##### Art. 44
 
 ((Quando per assenza, per sospensione o interdizione temporanea, per interdizione dai pubblici uffici o per altri provvedimenti comportanti sospensione dall'esercizio della professione ai sensi della legge penale, per malattia o per qualsiasi altro impedimento temporaneo, il notaio non possa esercitare le proprie funzioni, il presidente del consiglio notarile delega d'ufficio un altro notaio esercente, scelto con gli stessi criteri di cui all'articolo 43, comma 3, per la pubblicazione dei testamenti e per il rilascio delle copie, degli estratti e dei certificati. Della delega e' data idonea pubblicita' secondo le modalita' indicate dal decreto di cui all'articolo 43, comma 5)). ((65))
 
@@ -754,7 +754,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 45
+##### Art. 45
 
 ((1. Un coadiutore puo' essere nominato, per un periodo non inferiore ad un mese, in luogo del delegato di cui all'articolo 44, in sostituzione del notaio assente in permesso o temporaneamente impedito. Competente per la nomina e' il presidente del consiglio notarile ovvero il consigliere anziano, qualora il notaio assente rivesta la qualifica di presidente del consiglio.
 
@@ -768,7 +768,7 @@ Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le dis
 
 6\. I periodi durante i quali il coadiutore del notaio componente della commissione di concorso esercita le funzioni, non sono computati in relazione alla nomina del coadiutore ad altri fini)).
 
-#### Art. 46
+##### Art. 46
 
 Il notaro depositario, delegato o coadiutore deve in ogni atto, non escluse le autenticazioni delle copie, degli estratti, e dei certificati, far menzione dell'avuta nomina o delegazione, indicandone la data senza esprimerne la causa.
 
@@ -786,19 +786,19 @@ Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le dis
 
 ### Capo I. - Della forma degli atti notarili.
 
-#### Art. 47
+##### Art. 47
 
 ((1. L'atto notarile non puo' essere ricevuto dal notaio se non in presenza delle parti e, nei casi previsti dall'articolo 48, di due testimoni.
 
 2\. Il notaio indaga la volonta' delle parti e sotto la propria direzione e responsabilita' cura la compilazione integrale dell'atto)).
 
-#### Art. 47-bis
+##### Art. 47-bis
 
 ((1. All'atto pubblico di cui all'articolo 2700 del codice civile, redatto con procedure informatiche si applicano le disposizioni della presente legge e quelle emanate in attuazione della stessa.
 
 2\. L'autenticazione di cui all'articolo 2703, secondo comma, del codice civile, e' regolata, in caso di utilizzo di modalita' informatiche, dall'articolo 25 del decreto legislativo 7 marzo 2005, n 82)).
 
-#### Art. 47-ter
+##### Art. 47-ter
 
 ((1. Le disposizioni per la formazione e la conservazione degli atti pubblici e delle scritture private autenticate si applicano, in quanto compatibili, anche ai documenti informatici di cui ai commi 1 e 2 dell'articolo 47-bis.
 
@@ -806,17 +806,17 @@ Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le dis
 
 3\. Il notaio nell'atto pubblico e nell'autenticazione delle firme deve attestare anche la validita' dei certificati di firma eventualmente utilizzati dalle parti)).
 
-#### Art. 48
+##### Art. 48
 
 ((1. Oltre che in altri casi previsti per legge, e' necessaria la presenza di due testimoni per gli atti di donazione, per le convenzioni matrimoniali e le loro modificazioni e per le dichiarazioni di scelta del regime di separazione dei beni nonche' qualora anche una sola delle parti non sappia o non possa leggere e scrivere ovvero una parte o il notaio ne richieda la presenza. Il notaio deve fare espressa menzione della presenza dei testimoni in principio dell'atto)).
 
-#### Art. 49
+##### Art. 49
 
 ((Il notaio deve essere certo dell'identita' personale delle parti e puo' raggiungere tale certezza, anche al momento della attestazione, valutando tutti gli elementi atti a formare il suo convincimento.
 
 In caso contrario il notaio puo' avvalersi di due fidefacienti da lui conosciuti, che possono essere anche i testimoni)).
 
-#### Art. 50
+##### Art. 50
 
 ((I testimoni debbono essere maggiorenni, cittadini della Repubblica o stranieri in essa residenti che abbiano compiuto il diciottesimo anno di eta', avere la capacita' di agire e non essere interessati nell'atto)). ((47))
 
@@ -830,7 +830,7 @@ AGGIORNAMENTO (47)
 
 La L. 10 maggio 1976, n. 334 ha disposto (con l'art. 2, comma 1) che "La norma contenuta nel precedente articolo si applica a tutti gli atti di cui alla legge 16 febbraio 1913, n. 89, ricevuti successivamente alla entrata in vigore della legge 8 marzo 1975, n. 39, e prima dell'entrata in vigore della presente legge".
 
-#### Art. 51
+##### Art. 51
 
 L'atto notarile reca la intestazione: REPUBBLICA ITALIANA.
 
@@ -884,17 +884,17 @@ AGGIORNAMENTO (35)
 
 La L. 27 maggio 1940, n. 707 ha disposto (con l'art. 19, comma 1) che "La presente legge entrera' in vigore nel sessantesimo giorno dopo la pubblicazione dell'unico provvedimento con cui saranno stati legalmente riconosciuti tutti i Sindacati distrettuali fascisti dei notai con competenza territoriale corrispondente alla circoscrizione dei distretti notarili, salva la determinazione di una diversa competenza relativamente ai distretti notarili di Pola e Zara".
 
-#### Art. 52
+##### Art. 52
 
 La firma che il notaro appone in fine dell'atto, dev'essere munita dell'impronta del suo sigillo.
 
-#### Art. 52-bis
+##### Art. 52-bis
 
 ((1. Le parti, i fidefacenti, l'interprete e i testimoni sottoscrivono personalmente l'atto pubblico informatico in presenza del notaio con firma digitale o con firma elettronica, consistente anche nell'acquisizione digitale della sottoscrizione autografa.
 
 2\. Il notaio appone personalmente la propria firma digitale dopo le parti, l'interprete e i testimoni e in loro presenza)).
 
-#### Art. 53
+##### Art. 53
 
 Gli originali degli atti notarili saranno scritti in carattere chiaro e distinto e facilmente leggibile, senza lacune o spazi vuoti che non siano interlineati, senza abbreviature, correzioni, alterazioni o addizioni nel corpo dell'atto e senza raschiature.
 
@@ -912,13 +912,13 @@ Le aggiunte o variazioni che le parti volessero fare dopo le sottoscrizioni loro
 
 Le cancellature, aggiunte e variazioni fatte e non approvate nei modi sopra stabili si reputano non avvenute.
 
-#### Art. 54
+##### Art. 54
 
 Gli atti notarili devono essere scritti in lingua italiana.
 
 Quando pero' le parti dichiarino di non conoscere la lingua italiana, l'atto puo' essere rogato in lingua straniera, sempre che questa sia conosciuta dai testimoni e dal notaro. In tal caso deve porsi di fronte all'originale o in calce al medesimo la traduzione in lingua italiana, e l'uno e l'altra saranno sottoscritti come e' stabilito nell'art. 51.
 
-#### Art. 55
+##### Art. 55
 
 Qualora il notaro non conosca la lingua straniera, l'atto potra' tuttavia essere ricevuto con l'intervento dell'interprete, che sara' scelto dalle parti.
 
@@ -930,7 +930,7 @@ Se sanno o possono sottoscrivere, bastera' che uno solo dei testimoni, oltre l'i
 
 L'atto sara' scritto in lingua italiana, ma di fronte all'originale o in calce al medesimo dovra' porsi anche la traduzione in lingua straniera da farsi dall'interprete, e l'uno e l'altra saranno sottoscritti come e' disposto nell'art. 51. L'interprete pure dovra' sottoscrivere alla fine e nel margine di ogni foglio tanto l'originale quanto la traduzione.
 
-#### Art. 56
+##### Art. 56
 
 Se alcuna delle parti e' interamente priva dell'udito, essa deve leggere l'atto e di cio' si fara' menzione nel medesimo.
 
@@ -964,7 +964,7 @@ AGGIORNAMENTO (76)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-#### Art. 57
+##### Art. 57
 
 Se alcuna delle parti sia un muto o un sordo-muto, oltre l'intervento dell'interprete prescritto nell'articolo precedente, si osserveranno le seguenti norme:
 
@@ -972,13 +972,13 @@ il muto o sordo-muto, che sappia leggere e scrivere, deve egli stesso leggere l'
 
 se non sappia o non possa leggere e scrivere, sara' necessario che il linguaggio a segni del medesimo, sia inteso anche da uno dei testimoni, o che altrimenti intervenga all'atto un secondo interprete giusta le norme stabilite nei due capoversi dell'articolo precedente.
 
-#### Art. 57-bis
+##### Art. 57-bis
 
 ((1. Quando deve essere allegato un documento redatto su supporto cartaceo ad un documento informatico, il notaio ne allega copia informatica, certificata conforme ai sensi dell'articolo 22, commi 1 e 3, del decreto legislativo 7 marzo 2005, n 82.
 
 2\. Quando un documento informatico deve essere allegato ad un atto pubblico o ad una scrittura privata da autenticare, redatti su supporto cartaceo, il notaio ne allega copia conforme ai sensi dell'articolo 23 del decreto legislativo 7 marzo 2005, n. 82, formata sullo stesso supporto)).
 
-#### Art. 58
+##### Art. 58
 
 L'atto notarile e' nullo, salvo cio' che e' disposto dall'art. 1316 del Codice civile:
 
@@ -1006,21 +1006,21 @@ Il D.Lgs. Luogotenenziale 21 agosto 1945, n. 570 ha disposto (con l'art. 3, comm
 
 In deroga alla disposizione dell'art. 58, n. 2, della legge 16 febbraio 1913, n. 89, sono validi ad ogni effetto gli atti ricevuti dai notai anzidetti dopo la cessazione dall'esercizio temporaneo fino alla data, di entrata in vigore del presente decreto".
 
-#### Art. 59
+##### Art. 59
 
 E' vietato al notaro di fare in qualunque tempo annotazioni sopra gli atti, salvo i casi specialmente determinati dalla legge. Sono autorizzate le annotazioni riflettenti l'adempimento delle formalita' ipotecarie o d'iscrizione e trascrizione demandate al notaro per disposizione di legge, le annotazioni riflettenti le eventuali omologazioni, la dichiarazione di nullita' per sentenza della competente autorita' giudiziaria, la revocazione espressa del mandato a mente dell'art. 1759 del Codice civile e la revoca dell'autorizzazione maritale.
 
-#### Art. 59-bis
+##### Art. 59-bis
 
 ((1. Il notaio ha facolta' di rettificare, fatti salvi i diritti dei terzi, un atto pubblico o una scrittura privata autenticata, contenente errori od omissioni materiali relativi a dati preesistenti alla sua redazione, provvedendovi, anche ai fini dell'esecuzione della pubblicita', mediante propria certificazione contenuta in atto pubblico da lui formato)).
 
-#### Art. 60
+##### Art. 60
 
 Le disposizioni di questo capo si applicano anche ai testamenti ed agli altri atti, in quanto non siano contrarie a quelle contenute nel Codice civile, nel Codice di procedura civile o in qualunque altra legge del Regno, ma le completino.
 
-## Capo II. - Della custodia degli atti presso il notaro e dei repertori.
+### Capo II. - Della custodia degli atti presso il notaro e dei repertori.
 
-#### Art. 61
+##### Art. 61
 
 Il notaro deve custodire con esattezza ed in luogo sicuro, con i relativi allegati:
 
@@ -1034,7 +1034,7 @@ I testamenti pubblici prima della morte del testatore, i testamenti segreti e gl
 
 I testamenti pubblici dopo la morte del testatore, e su richiesta di chiunque possa avervi interesse, e gli altri dopo la loro apertura o pubblicazione, dovranno far passaggio dal fascicolo e repertorio speciale degli atti di ultima volonta' a quello generale degli atti notarili. L'ordine cronologico col quale ciascun testamento dovra' essere collocato nel fascicolo, sara' determinato dalla data dei rispettivi verbali di richiesta, per i testamenti pubblici; di apertura per i testamenti segreti e di pubblicazione, per i testamenti olografi.
 
-#### Art. 62
+##### Art. 62
 
 Il notaro deve tenere, oltre i registri prescritti da altre leggi, due repertori a colonna, uno per gli atti tra vivi, il quale servira' anche agli effetti della legge sulle tasse di registro, e l'altro per gli atti di ultima volonta'. In essi deve prender nota ((entro il giorno successivo)), senza spazi in bianco ed interlinee, e per ordine di numero di tutti gli atti ricevuti rispettivamente tra vivi e di ultima volonta', compresi tra i primi quelli rilasciati in originale, le autenticazioni apposte agli atti privati, e i protesti cambiari.
 
@@ -1080,7 +1080,7 @@ AGGIORNAMENTO (62)
 
 La L. 28 novembre 2005, n. 246 ha disposto (con l'art. 12, comma 2) che "L'indice alfabetico dei nomi e cognomi delle parti previsto a corredo dei repertori degli atti notarili non trova applicazione per il repertorio speciale dei protesti cambiari".
 
-#### Art. 62-bis
+##### Art. 62-bis
 
 ((1. Il notaio per la conservazione degli atti di cui agli articoli 61 e 72, terzo comma, se informatici, si avvale della struttura predisposta e gestita dal Consiglio nazionale del notariato nel rispetto dei principi di cui all'articolo 60 del decreto legislativo 7 marzo 2005, n. 82. Gli atti di cui agli articoli 61 e 72, terzo comma conservati nella suddetta struttura costituiscono ad ogni effetto di legge originali informatici da cui possono essere tratti duplicati e copie.
 
@@ -1088,13 +1088,13 @@ La L. 28 novembre 2005, n. 246 ha disposto (con l'art. 12, comma 2) che "L'indic
 
 3\. Le spese per il funzionamento della struttura sono poste a carico dei notai e sono ripartite secondo i criteri determinati dal Consiglio nazionale del notariato, escluso ogni onere per lo Stato)).
 
-#### Art. 62-ter
+##### Art. 62-ter
 
 ((1. Nella struttura di cui al comma 1 dell'articolo 62-bis il notaio conserva anche le copie informatiche degli atti rogati o autenticati su supporto cartaceo, con l'indicazione degli estremi delle annotazioni di cui all'articolo 23 del regio decreto-legge 23 ottobre 1924, n. 1737, convertito dalla legge 18 marzo 1926, n. 562.
 
 2\. Il notaio attesta la conformita' all'originale delle copie di cui al comma 1)).
 
-#### Art. 62-quater
+##### Art. 62-quater
 
 ((1. In caso di perdita degli atti, dei repertori e dei registri informatici, alla cui conservazione e tenuta e' obbligato il notaio, egli provvede a chiederne la ricostruzione con ricorso al presidente del tribunale competente, ai sensi del regio decreto-legge 15 novembre 1925, n. 2071.
 
@@ -1104,7 +1104,7 @@ La L. 28 novembre 2005, n. 246 ha disposto (con l'art. 12, comma 2) che "L'indic
 
 4\. Non si fa luogo al procedimento di ricostruzione se e' disponibile una copia di sicurezza eseguita nell'ambito delle procedure di conservazione cui all'articolo 68-bis, comma 1)).
 
-#### Art. 63
+##### Art. 63
 
 Nei casi in cui il notaro, adempiendo a disposizioni di legge, abbia presentato alla competente autorita' il proprio repertorio, egli deve servirsi di un fascicolo supplementare di fogli, esenti da bollo, numerati e firmati dal capo dell'archivio notarile del distretto a mente dell'art. 64, per segnarvi le indicazioni relative agli atti che riceva nel frattempo, salvo a trascriverle sul repertorio appena gli sara' restituito. (54) ((55))
 
@@ -1124,11 +1124,11 @@ AGGIORNAMENTO (55)
 
 La L. 16 giugno 1998, n. 188, nel modificare l'art. 247 del D.Lgs. 19 febbraio 1998, n. 51, ha conseguentemente disposto (con l'art. 1, comma 1) che la presente modifica ha effetto a decorrere dal 2 giugno 1999.
 
-#### Art. 64
+##### Art. 64
 
 ((Ogni repertorio, prima di essere posto in uso, e' numerato e firmato in ciascun foglio dal capo dell'archivio notarile distrettuale, il quale nella prima pagina attesta di quanti fogli e' composto il repertorio, apponendovi la data in tutte lettere)).
 
-#### Art. 65
+##### Art. 65
 
 Il notaro ha l'obbligo di trasmettere all'archivio notarile distrettuale, ogni mese, una copia dei repertori limitatamente alle annotazioni degli atti ricevuti nel mese precedente, con l'importo delle tasse dovute all'archivio, compresa la parte del diritto di iscrizione a repertorio di che all'art. 24 dell'annessa tariffa.
 
@@ -1156,7 +1156,7 @@ AGGIORNAMENTO (10)
 
 Il D.L. Luogotenenziale 21 aprile 1918, n. 629, convertito senza modificazioni dalla L. 17 aprile 1925, n. 473, ha disposto (con l'art. 19, comma 1) che "L'articolo 65 della legge notarile e' modificato nel senso che il notaro, nel trasmettere mensilmente all'archivio notarile copia del proprio repertorio, deve aggiungervi soltanto l'importo della parte del diritto di iscrizione a repertorio, da versare alla cassa dell'archivio distrettuale. Pero' le annotazioni a repertorio degli atti registrati formalmente devono riportare la indicazione della tassa d'archivio liquidata dall'ufficio del registro".
 
-#### Art. 66
+##### Art. 66
 
 Il notaro non puo' rilasciare ad alcuno gli originali degli atti, fuori dei casi espressi nell'art. 70, e non puo' essere obbligato a presentarli o depositarli, se non nei casi e nei modi determinati dalla legge.
 
@@ -1180,7 +1180,7 @@ AGGIORNAMENTO (55)
 
 La L. 16 giugno 1998, n. 188, nel modificare l'art. 247 del D.Lgs. 19 febbraio 1998, n. 51, ha conseguentemente disposto (con l'art. 1, comma 1) che la presente modifica ha effetto a decorrere dal 2 giugno 1999.
 
-#### Art. 66-bis
+##### Art. 66-bis
 
 1\. Tutti i repertori e i registri dei quali e' obbligatoria la tenuta per il notaio sono formati e conservati su supporto informatico, nel rispetto dei principi di cui al decreto legislativo 7 marzo 2005, n. 82.
 
@@ -1188,13 +1188,13 @@ La L. 16 giugno 1998, n. 188, nel modificare l'art. 247 del D.Lgs. 19 febbraio 1
 
 3\. ((Con decreto di natura non regolamentare del Ministro della giustizia, sentiti il Ministro della cultura,)) il Consiglio nazionale del notariato ed il Garante per la protezione dei dati personali e la DigitPA, sono determinate le regole tecniche per la formazione e la conservazione dei repertori, per il controllo periodico del repertorio di cui all'articolo 68 del decreto del Presidente della Repubblica 26 aprile 1986, n. 131, e per la ricerca nei repertori stessi delle annotazioni compiute dal notaio.
 
-#### Art. 66-ter
+##### Art. 66-ter
 
 ((1. La tenuta del repertorio informatico, sostituisce gli indici previsti dall'articolo 62, comma sesto)).
 
-## Capo III. - Delle copie degli estratti e dei certificati.
+### Capo III. - Delle copie degli estratti e dei certificati.
 
-#### Art. 67
+##### Art. 67
 
 Il notaro, finche' risiede nel distretto dello stesso Consiglio notarile, e continua nell'esercizio del notariato, ha egli solo il diritto di permettere l'ispezione e la lettura, di rilasciare le copie, gli estratti e i certificati degli atti da lui ricevuti, o presso di lui depositati ((, ivi compresi quelli conservati presso la struttura di cui all'articolo 62-bis)).
 
@@ -1202,7 +1202,7 @@ Egli non puo' permettere l'ispezione ne' la lettura, ne' dar copia degli atti di
 
 Nel caso di testamento rogato da due notari di cui all'articolo 777 del Codice civile e 62 della presente legge, la facolta' di rilasciarne copia appartiene soltanto al notaro che ne ha il deposito.
 
-#### Art. 68
+##### Art. 68
 
 Le disposizioni dell'articolo 53 sul modo in cui debbono essere scritti gli originali e fatte le variazioni, aggiunte o cancellature, sono anche applicabili alle copie, agli estratti ed ai certificati.
 
@@ -1210,7 +1210,7 @@ Le variazioni pero' od aggiunte fatte nell'originale nelle forme stabilite nel d
 
 Le copie potranno essere fatte anche colla stampa o con altri mezzi meccanici, come sara' stabilito dal regolamento.
 
-#### Art. 68-bis
+##### Art. 68-bis
 
 ((1. Con uno o piu' decreti non aventi natura regolamentare del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, il Ministro per la pubblica amministrazione e l'innovazione e il Ministro per la semplificazione normativa sentiti il Consiglio nazionale del notariato ed il Garante per la protezione dei dati personali e la DigitPA, sono determinate, nel rispetto delle disposizioni di cui al decreto legislativo 7 marzo 2005, n. 82:
 
@@ -1230,7 +1230,7 @@ f) le regole tecniche per l'esecuzione delle ispezioni di cui agli articoli da 1
 
 3\. Agli atti e alle copie di cui agli articoli 62-bis e 62-ter si applicano le disposizioni di cui agli articoli 50-bis e 51 del decreto legislativo 7 marzo 2005, n. 82)).
 
-#### Art. 68-ter
+##### Art. 68-ter
 
 ((1. Il notaio puo' rilasciare copie su supporto informatico degli atti da lui conservati, anche se l'originale e' stato formato su un supporto analogico. Parimenti, puo' rilasciare copie su supporto cartaceo, degli stessi atti, anche se informatici.
 
@@ -1238,7 +1238,7 @@ f) le regole tecniche per l'esecuzione delle ispezioni di cui agli articoli da 1
 
 3\. Il notaio attesta la conformita' del documento informatico all'originale o alle copie apponendo la propria firma digitale)).
 
-#### Art. 69
+##### Art. 69
 
 Il notaro deve trascrivere alla fine delle copie le procure annesse a tutti gli altri allegati all'originale, salvoche', riguardo a questi ultimi, chi richiede la copia vi abbia rinunziato. In questo caso il notaro deve fare nella copia menzione della rinuncia, indicando la data e la natura degli allegati non copiati.
 
@@ -1248,15 +1248,15 @@ Le copie, gli estratti od i certificati debbono avere alla fine la data del rila
 
 Oltre le accennate formalita', il notaro deve osservare, nelle copie che rilascia, le altre formalita' stabilite dal Codice di procedura civile.
 
-## Capo IV. - ((Degli atti che si rilasciano in originale, dell'autenticazione e del rilascio di copie di documenti.))
+### Capo IV. - ((Degli atti che si rilasciano in originale, dell'autenticazione e del rilascio di copie di documenti.))
 
-#### Art. 70
+##### Art. 70
 
 Oltre i casi determinati da altre leggi, il notaro puo' rilasciare in originale alle parti soltanto gli atti che contengono procure alle liti, o procure o consensi od autorizzazioni riguardanti gli atti necessari alla esecuzione di un solo affare, o delegazioni per l'esercizio del diritto di elettorato, nei casi determinati dalle leggi politiche od amministrative.
 
 Rilascera' pure i ricorsi di volontaria giurisdizione, le dichiarazioni e gli atti, i certificati di vita di cui ai numeri 1, 2, 3 e 5 dell'art. 1°, e gli atti di autenticazione di cui agli articoli 47 e 72.
 
-#### Art. 71
+##### Art. 71
 
 Il notaio puo' trasmettere il sunto o il contenuto degli atti, per telegrafo o per telefono.
 
@@ -1276,7 +1276,7 @@ Tale atto verra' conservato dal notaro ricevente fra i suoi rogiti e di esso pot
 
 Le comunicazioni telegrafiche e telefoniche come sopra accertate, ai presumono conformi agli atti originali fino a prova contraria.
 
-#### Art. 72
+##### Art. 72
 
 L'autenticazione delle firme apposte in fine delle scritture private ed in margine dei loro fogli intermedi e' stesa di seguito alle firme medesime e deve contenere la dichiarazione che le firme furono apposte in presenza del notaro e, quando occorrano, dei testi e dei fidefacienti, con la data e l'indicazione del luogo.
 
@@ -1284,47 +1284,47 @@ Quanto alle firme dei margini e dei fogli intermedi bastera' che di seguito alle
 
 Le scritture private, autenticate dal notaro, verranno, salvo contrario desiderio delle parti ((e salvo per quelle soggette a pubblicita' immobiliare o commerciale)), restituite alle medesime. In ogni caso pero' debbono essere prima, a cura del notaro, registrate a termini delle leggi sulle tasse di registro.
 
-#### Art. 73
+##### Art. 73
 
 ((1. Il notaio puo' attestare la conformita' all'originale di copie, eseguite su supporto informatico o cartaceo, di documenti formati su qualsiasi supporto ed a lui esibiti in originale o copia conforme)).
 
-## Capo V. - Degli onorari e degli altri diritti del notaro e delle spese.
+### Capo V. - Degli onorari e degli altri diritti del notaro e delle spese.
 
-#### Art. 74
+##### Art. 74
 
 Il notaro ha diritto per ogni atto, copia, estratto o certificato, e per ogni altra operazione eseguita nell'esercizio della sua professione, ad essere retribuito dalle parti mediante onorario, oltre al rimborso delle spese ed ai diritti accessori.
 
 Gli onorari, i diritti accessori e le spese dovute in rimborso al notavo sono determinati dalla tariffa annessa alla presente legge.
 
-#### Art. 75
+##### Art. 75
 
 Se l'atto contiene piu' convenzioni distinte, sono dovuti tanti onorari quante sono le convenzioni.
 
 Quando l'atto comprenda piu' disposizioni necessariamente connesse e derivanti per intrinseca loro natura le une dalle altre, sara' considerato come se comprendesse la sola disposizione che da' luogo all'onorario piu' favorevole al notavo, se pure essa possa considerarsi come accessoria alle altre.
 
-#### Art. 76
+##### Art. 76
 
 Quando l'atto sia nullo per causa imputabile al notaro, o la spedizione della copia dell'estratto o del certificato non faccia fede per essere irregolare, non sara' dovuto alcun onorario, diritto o rimborso di spese.
 
 Negli accennati casi, oltre il risarcimento dei danni a norma di legge, il notaro deve rimborsare le parti delle somme che gli fossero state pagate.
 
-#### Art. 77
+##### Art. 77
 
 ((ARTICOLO ABROGATO DALLA L. 28 NOVEMBRE 2005, N. 246))
 
-#### Art. 78
+##### Art. 78
 
 Salvo quanto e' disposto dall'art. 28, ultimo capoverso, per le persone ammesse al beneficio del gratuito patrocinio, le parti sono tenute in solido verso il notaro tanto al pagamento degli onorari e diritti accessori quanto al rimborso delle spese.
 
 Il notaro puo' rifiutarsi verso chiunque alla spedizione delle copie degli estratti e dei certificati, finche' l'accennato pagamento o rimborso non sia interamente eseguito.
 
-#### Art. 79
+##### Art. 79
 
 E' in facolta' del notaro di valersi, ove lo creda, del procedimento stabilito dall'art. 379 del Codice di procedura civile.
 
 In tal caso egli deve presentare la nota degli onorari, dei diritti accessori e delle spese al pretore del mandamento in cui e' l'ufficio, o al presidente del tribunale da cui dipende la sede del Consiglio notarile, giusta le norme di competenza per valore. La nota deve essere stata preventivamente liquidata ed approvata dal presidente del Consiglio notarile, o da una Commissione delegata dal Consiglio stesso.
 
-#### Art. 80
+##### Art. 80
 
 ((1. Salvo il caso di errore scusabile, il notaio che ha percepito, per onorari, diritti, accessori e spese una somma maggiore di quella dovuta, e' punito con una sanzione pecuniaria pari da uno a tre volte la maggior somma percepita, salvo il diritto della parte di ripetere l'indebito)). ((65))
 
@@ -1334,11 +1334,11 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 81
+##### Art. 81
 
 Nelle cause riguardanti persone ammesse al gratuito patrocinio il notaro, per la riscossione degli onorari e degli altri diritti a lui spettanti, potra' valersi dell'art. 12 della legge 7 luglio 1901, numero 283.
 
-#### Art. 82
+##### Art. 82
 
 ((1. Sono permesse associazioni di notai aventi sede in qualsiasi comune della regione, ovvero del distretto della Corte d'appello in cui si trova la sede, se tale distretto comprende piu' regioni, per svolgere la propria attivita' e per mettere in comune, in tutto o in parte, i proventi delle loro funzioni e ripartirli, poi, in tutto o in parte, in quote uguali o disuguali.
 
@@ -1350,13 +1350,13 @@ Nelle cause riguardanti persone ammesse al gratuito patrocinio il notaro, per la
 
 ### Capo I. - Dei collegi notarili.
 
-#### Art. 83
+##### Art. 83
 
 I notari residenti in ciascun distretto formano un collegio. In ogni collegio e' costituito un Consiglio notarile.
 
 La sede del Consiglio e' quella medesima del tribunale, e, nel caso di piu' distretti riuniti, quella del tribunale indicato nel decreto di riunione.
 
-#### Art. 84
+##### Art. 84
 
 Le adunanze del collegio sono ordinarie e straordinarie, e sono convocate per mezzo di avvisi del presidente del Consiglio notarile, da trasmettersi per ciascuna adunanza ai singoli notari, con l'indicazione degli oggetti da trattare.
 
@@ -1364,13 +1364,13 @@ Salvo giustificati casi di urgenza, l'avviso deve essere trasmesso per le adunan
 
 Nelle adunanze non si potra' discutere ne' deliberare se non su oggetti che interessino direttamente il ceto dei notari e che siano stati indicati nel rispettivo avviso di convocazione.
 
-#### Art. 85
+##### Art. 85
 
 L'adunanza ordinaria del collegio ha luogo ogni anno, non piu' tardi del mese di febbraio, all'oggetto di procedere alla nomina dei membri del Consiglio, di discutere il conto consuntivo e il conto preventivo presentati dal Consiglio medesimo, e di approvare la tabella di cui all'art. 93 ultimo capoverso.
 
 Le adunanze straordinarie hanno luogo ogni volta che il Consiglio lo reputi conveniente, o che ne faccia istanza un terzo almeno dei notari appartenenti al collegio.
 
-#### Art. 86
+##### Art. 86
 
 Terranno l'ufficio di presidente e quello di segretario, rispettivamente, il presidente ed il segretario del Consiglio notarile, o, in mancanza, chi ne fa le veci.
 
@@ -1378,15 +1378,15 @@ Per la validita' delle deliberazioni e' necessario l'intervento almeno della met
 
 Le deliberazioni sono prese a maggioranza assoluta di voti dai notari presenti.
 
-## Capo II. - Dei Consigli notarili.
+### Capo II. - Dei Consigli notarili.
 
-#### Art. 87
+##### Art. 87
 
 Il Consiglio notarile e' composto di cinque, sette, nove o undici membri per ciascun collegio, secondo che il numero dei notari al medesimo assegnati non superi i trenta o superi rispettivamente i trenta, i cinquanta o i settanta.
 
 I parenti e affini sino al terzo grado inclusivamente, non possono essere simultaneamente membri dello stesso Consiglio notarile; e nel caso di simultanea elezione, resta di diritto escluso il meno anziano nell'ufficio di notaro.
 
-#### Art. 88
+##### Art. 88
 
 I membri del Consiglio sono eletti fra i notari esercenti nel distretto.
 
@@ -1400,7 +1400,7 @@ Chi surroga consiglieri che hanno cessato dalle funzioni anzi tempo o per morte 
 
 Fra piu' surroganti, colui che ha riportato maggiori voti e, in caso di parita' di voti, il piu' anziano per esercizio, surroga il consigliere che doveva rimanere in ufficio per piu' lungo tempo.
 
-#### Art. 89
+##### Art. 89
 
 Le elezioni dei membri del Consiglio si fanno a schede segrete.
 
@@ -1410,7 +1410,7 @@ Se alcuno non ottenga tale maggioranza, o se gli eletti non raggiungano il numer
 
 A parita' di voti e' preferito il piu' anziano in esercizio, e fra egualmente anziani, il maggiore di eta'.
 
-#### Art. 90
+##### Art. 90
 
 Il Consiglio notarile elegge nel proprio seno il presidente, il segretario ed il tesoriere, osservate le norme stabilite nell'articolo precedente.
 
@@ -1420,7 +1420,7 @@ Il presidente e il segretario dovranno essere scelti preferibilmente fra i notar
 
 In mancanza del presidente e del segretario, ne faranno rispettivamente le veci il piu' anziano ed il meno anziano in ufficio fra i membri del Consiglio.
 
-#### Art. 91
+##### Art. 91
 
 Il presidente convoca e dirige le adunanze del Consiglio.
 
@@ -1430,7 +1430,7 @@ I processi verbali sono sottoscritti dal presidente e dal segretario.
 
 Chiunque puo', mediante il pagamento del relativo diritto stabilito dalla tariffa, aver copia delle deliberazioni, tranne che concernano questioni di persone. Contro il rifiuto al rilascio delle copie, e' ammesso il ricorso al presidente della Corte d'appello.
 
-#### Art. 92
+##### Art. 92
 
 Per la validita' delle deliberazioni del Consiglio, e' necessario l'intervento della maggioranza dei suoi membri.
 
@@ -1438,7 +1438,7 @@ Le deliberazioni sono prese a maggioranza di voti dei presenti. Nel caso di pari
 
 I membri che non intervengono alle adunanze per tre volte consecutive, senza giustificare al Consiglio un legittimo impedimento, sono dichiarati dimissionari dal Consiglio; e nel caso che il Consiglio per mancanza di numero non possa validamente deliberare, la dichiarazione sara' fatta con decreto dal presidente del tribunale.
 
-#### Art. 93
+##### Art. 93
 
 Il Consiglio oltre quelle altre attribuzioni che gli sono demandate dalla legge:
 
@@ -1456,7 +1456,7 @@ Il Consiglio oltre quelle altre attribuzioni che gli sono demandate dalla legge:
 
 Per supplire alle spese e' imposta ai notari, in proporzione dei proventi riscossi da ciascuno di essi nell'anno precedente, quali si desumono dalla tassa d'archivio da loro pagata, una tassa annua non minore di lire dieci ne' maggiore di lire cento, secondo una tabella di classificazione proposta dal Consiglio ed approvata dal collegio.
 
-#### Art. 93-bis
+##### Art. 93-bis
 
 1\. Il Consiglio notarile distrettuale vigila sull'osservanza, da parte dei notai iscritti al collegio, dei principi e delle norme di deontologia professionale elaborati dal Consiglio nazionale del notariato secondo quanto previsto dall'articolo 2, comma primo, lettera f), della legge 3 agosto 1949, n. 577, e successive modificazioni.
 
@@ -1488,7 +1488,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 93-ter
+##### Art. 93-ter
 
 1\. Se viene rilevata l'inosservanza di leggi, di regolamenti, di principi e norme deontologiche elaborati dal Consiglio nazionale del notariato ovvero la violazione di altri doveri da parte del notaio, il Consiglio notarile del distretto al quale il notaio e' iscritto promuove, per il tramite del presidente, procedimento disciplinare ai sensi dell'articolo 153 ovvero se, al tempo della commissione del fatto, il notaio era iscritto al collegio di altro distretto, ne da' notizia al consiglio di tale distretto.
 
@@ -1502,11 +1502,11 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 94
+##### Art. 94
 
 Il tesoriere del Consiglio riscuote i diritti e le tasse dovute al Consiglio notarile, a norma della tariffa, nonche' le ammende, avvalendosi della procedura speciale, prescritta per la esazione delle tasse, multe e pene pecuniarie di registro.
 
-#### Art. 95
+##### Art. 95
 
 Il ministro di grazia e giustizia, previo il parere della Corte d'appello in Camera di consiglio, puo' sciogliere il Consiglio notarile quando questo, richiamato alla osservanza degli obblighi ad esso imposti dalla legge, persista a violarli o a non adempierli, e per altri gravi motivi. In tal caso, e sino alla composizione del nuovo Consiglio, le attribuzioni del medesimo sono esercitate dal presidente del tribunale civile o da un giudice da lui delegato, i quali dureranno in ufficio tre mesi. Questo termine potra' essere prorogato dal ministro di altri tre mesi, in caso di riconosciuto bisogno.
 
@@ -1518,11 +1518,11 @@ Eletti i nuovi membri, il presidente del tribunale civile o il giudice da lui de
 
 ### Capo I. - Degli archivi notarili distrettuali.
 
-#### Art. 96
+##### Art. 96
 
 In ogni Comune sede di tribunale civile e' stabilito un archivio distrettuale.
 
-#### Art. 97
+##### Art. 97
 
 Gli archivi notarili sono finanziariamente autonomi, e si mantengono coi proventi e coi fondi indicati nella presente legge.
 
@@ -1530,7 +1530,7 @@ Amministrativamente dipendono dal Ministero di grazia e giustizia.
 
 L'amministrazione degli archivi e' soggetta al controllo della Corte dei conti e del Parlamento, al quale ogni anno sara' presentato il bilancio come allegato a quello della spesa del Ministero di grazia e giustizia.
 
-#### Art. 98
+##### Art. 98
 
 Ogni archivio notarile ha un conservatore, il quale e' pure tesoriere dell'archivio.
 
@@ -1556,7 +1556,7 @@ AGGIORNAMENTO (12)
 
 Il Regio D.L. 2 settembre 1919, n. 1599, convertito senza modificazioni dalla L. 17 aprile 1925, n. 473, ha disposto (con l'art. 1, comma 1) che "La costituzione del Consiglio di amministrazione e di disciplina per gli impiegati degli archivi notarili, e' modificata nel senso che al referendario del Consiglio di Stato e' sostituito un consigliere di Corte d'appello".
 
-#### Art. 99
+##### Art. 99
 
 Gli impieghi d'archivio sono incompatibili con l'esercizio del notariato e con qualunque altra professione, salvo l'insegnamento di materie giuridiche ed archivistiche.
 
@@ -1564,23 +1564,23 @@ Sono pure incompatibili con qualunque altro pubblico impiego, salvo speciale aut
 
 Tanto il conservatore, quanto gli archivisti, sottoarchivisti ed assistenti, debbono fissare la loro residenza nel Comune dove e' l'archivio.
 
-#### Art. 100
+##### Art. 100
 
 ((ARTICOLO ABROGATO DAL REGIO D.L. 23 OTTOBRE 1924, N. 1737, CONVERTITO SENZA MODIFICAZIONI DALLA L. 18 MARZO 1926, N. 562))
 
-#### Art. 101
+##### Art. 101
 
 ((ARTICOLO ABROGATO DAL REGIO D.L. 23 OTTOBRE 1924, N. 1737, CONVERTITO SENZA MODIFICAZIONI DALLA L. 18 MARZO 1926, N. 562))
 
-#### Art. 102
+##### Art. 102
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 31 DICEMBRE 1923, N. 3138))
 
-#### Art. 103
+##### Art. 103
 
 ((ARTICOLO ABROGATO DAL REGIO D.L. 23 OTTOBRE 1924, N. 1737, CONVERTITO SENZA MODIFICAZIONI DALLA L. 18 MARZO 1926, N. 562))
 
-#### Art. 104
+##### Art. 104
 
 Gli stipendi degli impiegati addetti ad un archivio saranno corrisposti dalla cassa dell'archivio stesso.
 
@@ -1590,11 +1590,11 @@ Omettendo di eseguire i versamenti alla tesoreria nei termini indicati in questo
 
 Il maggiore stipendio ottenuto in seguito alla formazione ed alle modificazioni della pianta organica, assorbe fino alla sua concorrenza, gli aumenti sessennali, di cui l'impiegato fosse in godimento.
 
-#### Art. 105
+##### Art. 105
 
 ((ARTICOLO ABROGATO DAL REGIO D.L. 23 OTTOBRE 1924, N. 1737, CONVERTITO SENZA MODIFICAZIONI DALLA L. 18 MARZO 1926, N. 562))
 
-#### Art. 106
+##### Art. 106
 
 Nell'archivio notarile distrettuale sono depositati e conservati:
 
@@ -1638,7 +1638,7 @@ AGGIORNAMENTO (10)
 
 Il D.L. Luogotenenziale 21 aprile 1918, n. 629, convertito senza modificazioni dalla L. 17 aprile 1925, n. 473, ha disposto (con l'art. 18, comma 1) che "Il termine stabilito [...] dagli articoli 106, n. 1, e 118 della legge sull'ordinamento del notariato e degli archivi notarili, in data 16 febbraio 1913, n. 89, per la trasmissione all'archivio notarile delle copie consegnate per la registrazione, ivi compreso il secondo originale obbligatorio, di che all'articolo precedente per le scritture private non autenticate, e' portato a dieci anni".
 
-#### Art. 107
+##### Art. 107
 
 La consegna degli atti, volumi e sigilli indicati nei numeri 5, 6, 7 dell'articolo precedente, e' fatta nel termine di un mese dal giorno della cessazione dall'esercizio o del cambiamento di residenza. Nei casi indicati nell'articolo 39, il capo dell'archivio notarile del distretto procede alla rimozione dei sigilli ed al ritiro degli atti, volumi e sigilli nella sede dell'ufficio del notaio, con l'intervento del presidente del consiglio notarile del distretto o di un membro da lui delegato. Nel caso di dispensa per rinunzia, o di cambiamento di residenza, la consegna si fa dal notaro o da un suo procuratore speciale, nella sede dell'archivio, al conservatore, con l'intervento del presidente del Consiglio notarile del distretto presso il quale era iscritto il notaro, o di un membro da esso delegato. (54) ((55))
 
@@ -1674,19 +1674,19 @@ AGGIORNAMENTO (55)
 
 La L. 16 giugno 1998, n. 188, nel modificare l'art. 247 del D.Lgs. 19 febbraio 1998, n. 51, ha conseguentemente disposto (con l'art. 1, comma 1) che la presente modifica ha effetto a decorrere dal 2 giugno 1999.
 
-#### Art. 108
+##### Art. 108
 
 Quando sia seguito il deposito degli atti originali, dei repertori e dei registri; si procedera' immediatamente alla ispezione e verificazione di tutti i detti atti, repertori e registri, in presenza del conservatore dell'archivio, e se ne fara' constatare con apposito verbale da redigersi dal conservatore in carta libera.
 
 Copia tanto di questo verbale, quanto di quello prescritto nell'articolo precedente, potra' essere rilasciata in carta da bollo di lire 1.20 al notaro, ai suoi eredi o aventi diritto, se la richiedano.
 
-#### Art. 109
+##### Art. 109
 
 Gli atti originali ed i repertori debbono essere custoditi nell'archivio, in luogo separato da quello in cui sono custodite le copie.
 
 Le copie devono rilegarsi in volumi corrispondenti ai volumi degli originali di ciascun notaro.
 
-#### Art. 110
+##### Art. 110
 
 Il conservatore dell'archizio rappresenta l'archivio, nel cui interesse puo' compiere, giusta le norme da stabilirsi con regolamento, tutti gli atti conservatori e, previa autorizzazione del Ministero, costituirsi in giudizio sia come attore che come convenuto.
 
@@ -1696,13 +1696,13 @@ Il conservatore e' responsabile della custodia e conservazione di tutti i docume
 
 Ogni anno forma il conto delle spese dell'archivio dell'anno decorso e quello preventivo dell'anno corrente, e li trasmette per l'approvazione al Ministero di grazia e giustizia.
 
-#### Art. 111
+##### Art. 111
 
 Il conservatore, nella qualita' di tesoriere dell'archivio, riscuote, con la procedura indicata nell'art. 94, i diritti e le tasse spettanti all'archivio a norma della tariffa annessa alla presente legge; provvede alle spese del servizio, e paga gli stipendi secondo le norme da stabilirsi nel regolamento.
 
 Per il ricupero dei diritti e delle tasse spettanti all'archivio, ed annotati a debito in applicazione delle leggi sul gratuito patrocinio, il conservatore puo' avvalersi della disposizione indicata nell'art.81.
 
-#### Art. 112
+##### Art. 112
 
 Il conservatore permette l'ispezione e la lettura degli atti depositati in archivio, ne rilascia le copie anche in forma esecutiva, nonche' gli estratti ed i certificati positivi o negativi, salvo il disposto dell'art. 67.
 
@@ -1738,35 +1738,35 @@ AGGIORNAMENTO (26)
 
 Il Regio Decreto 12 dicembre 1926, n. 2143 ha disposto (con l'art. 9, comma 1) che la presente modifica ha effetto dal 1° gennaio 1927.
 
-#### Art. 113
+##### Art. 113
 
 ((COMMA ABROGATO DAL REGIO DECRETO 31 DICEMBRE 1923, N. 3138)).
 
 Il notaro, finche' vive, puo', senza il pagamento di alcuna tassa prendere visione degli atti originali e dei repertori da lui depositati.
 
-#### Art. 114
+##### Art. 114
 
 ((COMMA ABROGATO DAL REGIO D.L. 23 OTTOBRE 1924, N. 1737, CONVERTITO SENZA MODIFICAZIONI DALLA L. 18 MARZO 1926, N. 562)).
 
 In ogni archivio saranno compilati due indici generali per ordine alfabetico, uno per i notari, e indichera' i cognomi ed i nomi dei notari i cui atti sono deposttati, e la data del primo e dell'ultimo atto da ciascuno di essi rogato; e l'altro che indichera' i cognomi ed i nomi delle parti intervenute nell'atto. Nel primo saranno indicati anche gli scaffali ove si custodiscono gli atti di ciascun notaro; nel secondo sara' enunciata la qualita' e la data degli atti, ed il nome del notaio rogante.
 
-#### Art. 115
+##### Art. 115
 
 E' vietato di entrare o di rimanere nell'archivio in tempo di notte, di portare, accendere e ritenere in qualunque tempo fuoco o lume, e di fumare nei locali dell'archivio, senza speciale permesso del conservatore, il quale e' responsabile delle disposizioni date.
 
-#### Art. 116
+##### Art. 116
 
 Salvo le maggiori penalita' stabilite dal Codice penale, i contravventori all'articolo precedente sono punibili con l'ammenda di L. 50, estensibile a L. 400 in caso di recidiva; e se il recidivo e' un impiegato dell'archivio, potra' essere punito anche con la sospensione e con la destituzione dall'impiego.
 
-#### Art. 117
+##### Art. 117
 
 Le penalita' di cui agli articoli 38, 80, 104, 112 e 116 sono applicate dal tribunale in Camera di consiglio, udito l'interessato.
 
 Esse sono devolute a beneficio dell'archivio notarile.
 
-## Capo II. - Degli archivi notarili mandamentali.
+### Capo II. - Degli archivi notarili mandamentali.
 
-#### Art. 118
+##### Art. 118
 
 Gli archivi mandamentali sono istituiti sulla domanda e a spese dei Comuni interessati. In essi vengono depositate le copie certificate conformi degli atti notarili che gli uffici del registro del mandamento dovranno loro trasmettere ai termini della legge sul registro, decorsi due anni dalla registrazione dell'atto.
 
@@ -1778,35 +1778,35 @@ AGGIORNAMENTO ((10))
 
 Il D.L. Luogotenenziale 21 aprile 1918, n. 629, convertito senza modificazioni dalla L. 17 aprile 1925, n. 473, ha disposto (con l'art. 18, comma 1) che "Il termine stabilito [...] dagli articoli 106, n. 1, e 118 della legge sull'ordinamento del notariato e degli archivi notarili, in data 16 febbraio 1913, n. 89, per la trasmissione all'archivio notarile delle copie consegnate per la registrazione, ivi compreso il secondo originale obbligatorio, di che all'articolo precedente per le scritture private non autenticate, e' portato a dieci anni".
 
-#### Art. 119
+##### Art. 119
 
 ((Il conservatore e tesoriere dell'archivio mandamentale e' nominato con decreto del Ministro per la giustizia e gli affari di culto, su proposta del conservatore dell'archivio notarile distrettuale e sentite le Giunte dei Comuni interessati, fra i notari titolari delle sedi notarili assegnate al capoluogo o fra le persone aventi i requisiti per la nomina a notaro)).
 
-#### Art. 120
+##### Art. 120
 
 ((IL REGIO DECRETO 31 DICEMBRE 1923, N. 3138 HA DISPOSTO (CON L'ART. 8, COMMA 1) CHE, A DECORRERE DAL 1 MARZO 1924, IL PRESENTE ARTICOLO E' SOSTITUITO DALL'ATTUALE ART. 119)).
 
-#### Art. 121
+##### Art. 121
 
 Lo stipendio del conservatore sara' fissato di volta in volta per ciascun conservatore dal ministro di grazia e giustizia, sulla proposta dei Comuni interessati, udito il parere del conservatore dell'archivio notarile distrettuale e del pubblico ministero, e sara' pagato direttamente dai Comuni interessati.
 
-#### Art. 122
+##### Art. 122
 
 Il conservatore dell'archivio deve fissare la residenza nel Comune dove e' l'archivio, ed a lui e' applicabile quanto dispone l'art. 102 circa la cauzione, la cui misura pero' sara' determinata per ogni singolo conservatore dal Ministero di grazia e giustizia, sentito il parere del conservatore dell'archivio notarile distrettuale, e del pubblico ministero.
 
-#### Art. 123
+##### Art. 123
 
 Sono pure applicabili al conservatore dell'archivio mandamentale le disposizioni della legge sullo stato giuridico degli impiegati civili indicata nell'art. 98 e gli ultimi tre capoversi dell'art. 112.
 
-#### Art. 124
+##### Art. 124
 
 Salvo il disposto degli articoli 67, prima parte, e 78, il conservatore dell'archivio notarile mandamentale permette l'ispezione e la lettura degli atti depositati, e ne rilascia i certificati, gli estratti e le copie a norma dell'art. 1334 del Codice civile, osservate le disposizioni degli articoli 68 e 69.
 
-#### Art. 125
+##### Art. 125
 
 I proventi dell'archivio notarile mandamentale, prelevate le quote di partecipazione a mente dell'art. 113, sono devoluti a vantaggio dei Comuni interessati.
 
-#### Art. 126
+##### Art. 126
 
 Gli archivi notarili mandamentali sono posti sotto la direzione e sorveglianza del conservatore dell'archivo notarile distrettuale, e sono ad essi applicabili gli articoli 110, 111, 115 e 116.
 
@@ -1814,7 +1814,7 @@ Gli archivi notarili mandamentali sono posti sotto la direzione e sorveglianza d
 
 ### Capo I. - Della vigilanza e delle ispezioni.
 
-#### Art. 127
+##### Art. 127
 
 ((1. Il Ministero della giustizia esercita l'alta vigilanza su tutti i notai, i consigli notarili distrettuali e l'Amministrazione degli archivi notarili e puo' ordinare le ispezioni ritenute opportune.
 
@@ -1828,7 +1828,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 128
+##### Art. 128
 
 ((1. Nell'anno successivo ad ogni biennio, i notai presentano personalmente, o per mezzo di speciale procuratore, i repertori, i registri e gli atti rogati nell'ultimo biennio all'archivio notarile distrettuale per l'ispezione.
 
@@ -1852,7 +1852,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 129
+##### Art. 129
 
 ((Le ispezioni sono eseguite:
 
@@ -1872,7 +1872,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 130
+##### Art. 130
 
 Per l'ispezione degli atti di ogni notaro e' dovuto, tanto al presidente del Consiglio notarile o al notaro da lui delegato, quanto al conservatore d'archivio o a chi ne fa le veci, una indennita' nella misura di lire dieci fino ai primi cento atti esaminati, e di lire cinque per ogni cento atti successivi.
 
@@ -1892,7 +1892,7 @@ AGGIORNAMENTO (21)
 
 Il Regio D.L. 23 ottobre 1924, n. 1737, convertito senza modificazioni dalla L. 18 marzo 1926, n. 562, nel modificare l'art. 23 del Regio Decreto 31 dicembre 1923, n. 3138, ha conseguentemente disposto (con l'art. 59, comma 1) che "L'abolizione della indennita' per le ispezioni, disposta dall'art. 23 del R. decreto 31 dicembre 1923, n. 3138, ha effetto a cominciare dalle ispezioni per il biennio 1922-1923".
 
-#### Art. 131
+##### Art. 131
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2006, N. 249))
 
@@ -1904,7 +1904,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 132
+##### Art. 132
 
 ((1. Fatte salve le ispezioni ordinarie di cui all'articolo 128, il Ministero della giustizia puo' disporre ispezioni straordinarie, anche al fine di controllare le operazioni di verifica di cui all'articolo 129. Se il notaio impedisce o ritarda l'esecuzione dell'ispezione straordinaria, si provvede ai sensi dell'articolo 128, comma 2.
 
@@ -1920,7 +1920,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 133
+##### Art. 133
 
 ((1. Di ciascuna ispezione e' redatto verbale in doppio esemplare in carta libera. Il verbale e' formato e conservato secondo le norme del regolamento di cui al regio decreto 10 settembre 1914, n. 1326 e successive modificazioni)).
 
@@ -1932,7 +1932,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 134
+##### Art. 134
 
 ((1. Tutte le spese per il servizio delle ispezioni e le altre in genere occorrenti per la esecuzione della presente legge sono a carico del bilancio dell'Amministrazione degli archivi notarili)).
 
@@ -1944,9 +1944,9 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-## Capo II. - ((Delle sanzioni disciplinari e dei provvedimenti cautelari.))
+### Capo II. - ((Delle sanzioni disciplinari e dei provvedimenti cautelari.))
 
-#### Art. 135
+##### Art. 135
 
 ((1. Le sanzioni disciplinari per i notai che mancano ai propri doveri sono:
 
@@ -1976,7 +1976,7 @@ Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 1) che "Le disp
 
 Ha inoltre disposto (con l'art. 55, commi 1 e 2) che le modifiche apportate ai commi 1, 2 e 3 entrano in vigore il 1° giugno 2007, mentre il comma 4 il 26 agosto 2006.
 
-#### Art. 136
+##### Art. 136
 
 ((1. L'avvertimento consiste in un rimprovero al notaio per l'infrazione commessa con esortazione a non reiterarla.
 
@@ -1992,7 +1992,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 2) che "Per i fatti commessi anteriormente alla data di entrata in vigore delle disposizioni di cui all'articolo 55, comma 1, continuano ad applicarsi, se piu' favorevoli, le norme modificate dagli articoli 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 47, 50 e 51".
 
-#### Art. 137
+##### Art. 137
 
 ((1. E' punito con la sanzione pecuniaria da 5 euro a 45 euro il notaio che contravviene alle disposizioni dell'articolo 51, secondo comma, numeri 2°, 3°, 4°, 5°, 6°, 7° e 9° e degli articoli 53, 59, 65, 66, 70, 72 e che, nella conservazione degli atti e nella tenuta del repertorio, contravviene alle disposizioni degli articoli 61 e 62.
 
@@ -2016,7 +2016,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 2) che "Per i fatti commessi anteriormente alla data di entrata in vigore delle disposizioni di cui all'articolo 55, comma 1, continuano ad applicarsi, se piu' favorevoli, le norme modificate dagli articoli 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 47, 50 e 51".
 
-#### Art. 138
+##### Art. 138
 
 1\. E' punito con la sospensione da uno a sei mesi il notaio:
 
@@ -2052,7 +2052,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 2) che "Per i fatti commessi anteriormente alla data di entrata in vigore delle disposizioni di cui all'articolo 55, comma 1, continuano ad applicarsi, se piu' favorevoli, le norme modificate dagli articoli 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 47, 50 e 51".
 
-#### Art. 138-bis
+##### Art. 138-bis
 
 1\. Il notaio che chiede l'iscrizione nel registro delle imprese delle deliberazioni di societa' di capitali, dallo stesso notaio verbalizzate, quando risultano manifestamente inesistenti le condizioni richieste dalla legge, viola l'articolo 28, primo comma, numero 1°, ed e' punito con la sospensione di cui all'articolo 138, comma 2, e con la sanzione pecuniaria da 516 euro a 15.493 euro.
 
@@ -2068,11 +2068,11 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 2) che "Per i fatti commessi anteriormente alla data di entrata in vigore delle disposizioni di cui all'articolo 55, comma 1, continuano ad applicarsi, se piu' favorevoli, le norme modificate dagli articoli 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 47, 50 e 51".
 
-#### Art. 138-ter
+##### Art. 138-ter
 
 ((1. Viola l'articolo 28, primo comma, numero 1), ed e' punito con la sospensione di cui all'articolo 138, comma 2, e con la sanzione pecuniaria da 516 euro a 15.493 euro, il notaio che rilascia il certificato preliminare previsto dalla normativa attuativa della direttiva (UE) 2019/2121, del Parlamento europeo e del Consiglio, del 27 novembre 2019, quando dai documenti, dalle informazioni e dalle dichiarazioni previsti dalla medesima normativa risultano manifestamente inesistenti le condizioni richieste dalla legge.))
 
-#### Art. 139
+##### Art. 139
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2006, N. 249))
 
@@ -2084,7 +2084,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 140
+##### Art. 140
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2006, N. 249))
 
@@ -2096,7 +2096,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 141
+##### Art. 141
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2006, N. 249))
 
@@ -2108,7 +2108,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 142
+##### Art. 142
 
 1\. E' punito con la destituzione:
 
@@ -2134,7 +2134,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 2) che "Per i fatti commessi anteriormente alla data di entrata in vigore delle disposizioni di cui all'articolo 55, comma 1, continuano ad applicarsi, se piu' favorevoli, le norme modificate dagli articoli 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 47, 50 e 51".
 
-#### Art. 142-bis
+##### Art. 142-bis
 
 1\. Il notaio che ha commesso un fatto che integra gli estremi di uno dei reati previsti dall'articolo 5, primo comma, numero 3°, e' punito disciplinarmente con una delle sanzioni di cui all'articolo 147, quando la sua condotta viola quest'ultima disposizione. ((Il notaio e' punito in ogni caso con la destituzione quando commette un reato omettendo o ritardando il versamento di tributi dovuti in relazione agli atti da lui rogati o autenticati)).
 
@@ -2148,11 +2148,11 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 2) che "Per i fatti commessi anteriormente alla data di entrata in vigore delle disposizioni di cui all'articolo 55, comma 1, continuano ad applicarsi, se piu' favorevoli, le norme modificate dagli articoli 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 47, 50 e 51".
 
-#### Art. 143
+##### Art. 143
 
 Salvo particolari disposizioni diverse, si applicano al notaro, per quanto riguarda gli altri repertori e registri che le leggi gli fanno obbligo di tenere, le stesse pene comminate per l'irregolare tenuta o la mancanza del repertorio.
 
-#### Art. 144
+##### Art. 144
 
 1\. Se nel fatto addebitato al notaio ricorrono circostanze attenuanti ovvero quando il notaio, dopo aver commesso l'infrazione, si e' adoperato per eliminare le conseguenze dannose della violazione o ha riparato interamente il danno prodotto, la sanzione pecuniaria e' diminuita di un sesto e sono sostituite l'avvertimento alla censura, la sanzione pecuniaria, applicata nella misura prevista dall'articolo 138-bis, comma 1, alla sospensione e la sospensione alla destituzione.
 
@@ -2168,7 +2168,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 2) che "Per i fatti commessi anteriormente alla data di entrata in vigore delle disposizioni di cui all'articolo 55, comma 1, continuano ad applicarsi, se piu' favorevoli, le norme modificate dagli articoli 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 47, 50 e 51".
 
-#### Art. 145
+##### Art. 145
 
 ((1. Si ha recidiva se il notaio commette nuovamente la stessa infrazione entro cinque anni dalla condanna)).
 
@@ -2180,7 +2180,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 2) che "Per i fatti commessi anteriormente alla data di entrata in vigore delle disposizioni di cui all'articolo 55, comma 1, continuano ad applicarsi, se piu' favorevoli, le norme modificate dagli articoli 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 47, 50 e 51".
 
-#### Art. 145-bis
+##### Art. 145-bis
 
 ((1. In caso di infrazione punibile con la sola sanzione pecuniaria, il notaio, che non sia recidivo nella stessa infrazione, puo' prevenire il procedimento o interromperne il corso prima della decisione definitiva, pagando una somma corrispondente ad un terzo del massimo previsto per la infrazione contestata, oltre le spese del procedimento.
 
@@ -2196,7 +2196,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 146
+##### Art. 146
 
 ((1. L'illecito disciplinare del notaio si prescrive in cinque anni decorrenti dal giorno in cui l'infrazione e' stata commessa ovvero, per le infrazioni di cui all'articolo 128, comma 3, commesse nel biennio, dal primo giorno dell'anno successivo.
 
@@ -2222,7 +2222,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 2) che "Per i fatti commessi anteriormente alla data di entrata in vigore delle disposizioni di cui all'articolo 55, comma 1, continuano ad applicarsi, se piu' favorevoli, le norme modificate dagli articoli 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 47, 50 e 51".
 
-#### Art. 147
+##### Art. 147
 
 1\. E' punito con la censura o con la sospensione fino ad un anno o, nei casi piu' gravi, con la destituzione, il notaio che pone in essere una delle seguenti condotte:
 
@@ -2242,9 +2242,9 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 2) che "Per i fatti commessi anteriormente alla data di entrata in vigore delle disposizioni di cui all'articolo 55, comma 1, continuano ad applicarsi, se piu' favorevoli, le norme modificate dagli articoli 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 47, 50 e 51".
 
-## Capo III. - ((Dell'applicazione delle sanzioni disciplinari, dei provvedimenti cautelari e delle riabilitazioni.))
+### Capo III. - ((Dell'applicazione delle sanzioni disciplinari, dei provvedimenti cautelari e delle riabilitazioni.))
 
-#### Art. 148
+##### Art. 148
 
 ((1. In ogni circoscrizione territoriale e' istituita una Commissione amministrativa regionale di disciplina, di seguito denominata: «Commissione», con sede presso il consiglio notarile distrettuale del capoluogo della regione. Formano un'unica circoscrizione territoriale la Valle d'Aosta ed il Piemonte, le Marche e l'Umbria, l'Abruzzo ed il Molise, la Campania e la Basilicata, il Trentino-Alto Adige, il Friuli-Venezia Giulia ed il Veneto. Per tali circoscrizioni, la sede e' rispettivamente presso il consiglio notarile distrettuale del capoluogo delle regioni Piemonte, Marche, Abruzzo, Campania e Veneto.
 
@@ -2260,7 +2260,7 @@ Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 2) che "Per i f
 
 7\. I componenti della Commissione hanno diritto al rimborso delle spese sostenute per esercitare il proprio ufficio e ad un gettone di presenza nella misura stabilita con delibera del Consiglio nazionale del notariato)).
 
-#### Art. 149
+##### Art. 149
 
 ((1. Non possono essere chiamati a presiedere la Commissione i magistrati iscritti nel registro dei praticanti notai e quelli che nel triennio precedente abbiano partecipato al concorso per la nomina a notaio.
 
@@ -2276,7 +2276,7 @@ d) i notai che sono stati componenti della Commissione per due volte consecutive
 
 3\. Sono incompatibili i magistrati ed i notai che sono parenti o affini entro il terzo grado o coniugi di altri componenti della stessa Commissione ed i notai vincolati da rapporti di associazione professionale con altri componenti della stessa Commissione)).
 
-#### Art. 149-bis
+##### Art. 149-bis
 
 ((1. Il magistrato che presiede la Commissione decade dall'incarico se si iscrive all'albo dei praticanti notai, anche di altro distretto notarile, se presenta domanda di partecipazione al concorso per la nomina a notaio o se sopravviene una delle cause di incompatibilita' previste dall'articolo 149, comma 3.
 
@@ -2286,13 +2286,13 @@ d) i notai che sono stati componenti della Commissione per due volte consecutive
 
 4\. La Commissione in seduta plenaria decide sulle cause di ineleggibilita' e di decadenza dei componenti notai e dispone la sospensione degli stessi componenti dalla carica quando nei loro confronti e' iniziato un procedimento disciplinare)).
 
-#### Art. 149-ter
+##### Art. 149-ter
 
 ((1. Quando, per qualunque causa, viene a mancare un terzo dei notai componenti della Commissione, si procede ad elezioni integrative, che sono indette immediatamente, per la circoscrizione interessata, dal presidente del Consiglio nazionale del notariato. I nuovi eletti durano in carica fino alla scadenza del mandato dei componenti gia' in carica.
 
 2\. Il presidente della Commissione puo' richiedere al presidente del Consiglio nazionale del notariato che vengano indette elezioni integrative anche quando sia venuto a mancare meno di un terzo dei suoi componenti)).
 
-#### Art. 150
+##### Art. 150
 
 ((1. Ogni tre anni, entro il mese di febbraio successivo, il presidente della corte di appello del distretto in cui ha sede la Commissione nomina, tra i magistrati con qualifica non inferiore a magistrato di appello, in servizio da almeno due anni presso gli uffici giudicanti del distretto, il presidente della Commissione.
 
@@ -2300,7 +2300,7 @@ d) i notai che sono stati componenti della Commissione per due volte consecutive
 
 3\. Quando, per qualunque causa, viene a mancare il presidente della Commissione, il presidente della corte d'appello competente provvede immediatamente alla sua sostituzione)).
 
-#### Art. 150-bis
+##### Art. 150-bis
 
 ((1. Ogni tre anni, entro il mese di febbraio successivo, i notai iscritti ai collegi dei distretti che fanno parte di ciascuna circoscrizione eleggono i componenti della Commissione.
 
@@ -2322,7 +2322,7 @@ d) i notai che sono stati componenti della Commissione per due volte consecutive
 
 10\. Il presidente del consiglio notarile del distretto nel quale ha sede la Commissione, nei quindici giorni successivi alla votazione, proclama gli eletti, dandone comunicazione al Ministero della giustizia ed al Consiglio nazionale del notariato nonche' alle corti di appello, alle procure della Repubblica, agli archivi notarili ed ai consigli notarili distrettuali, che hanno competenza nel territorio della circoscrizione)).
 
-#### Art. 150-ter
+##### Art. 150-ter
 
 ((1. Il consiglio notarile del distretto nel quale ha sede la Commissione provvede nello stesso termine di cui all'articolo 150-bis, comma 10, a nominare tra i notai della circoscrizione il segretario ed il tesoriere della Commissione. Il segretario ed il tesoriere non possono essere componenti della Commissione e, se eletti, decadono da tali cariche.
 
@@ -2332,7 +2332,7 @@ d) i notai che sono stati componenti della Commissione per due volte consecutive
 
 4\. Il verbale della riunione di insediamento e' trasmesso immediatamente alle autorita' di cui all'articolo 150-bis, comma 10)).
 
-#### Art. 151
+##### Art. 151
 
 ((1. Il presidente della Commissione forma i collegi giudicanti, avendo cura, in quanto possibile, di assegnarvi notai appartenenti a distretti diversi. Ciascun collegio e' composto dal presidente della Commissione, che lo presiede, e da due notai.
 
@@ -2348,7 +2348,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 152
+##### Art. 152
 
 ((1. Competente per gli illeciti disciplinari commessi dai notai e' la Commissione della circoscrizione nella quale e' compreso il distretto nel cui ruolo era iscritto il notaio quando e' stato commesso il fatto per il quale si procede.
 
@@ -2362,7 +2362,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 153
+##### Art. 153
 
 1\. L'iniziativa del procedimento disciplinare spetta:
 
@@ -2384,7 +2384,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 154
+##### Art. 154
 
 ((1. I componenti della Commissione devono astenersi nei casi indicati all'articolo 51 del codice di procedura civile. Quando l'astensione riguarda il presidente, su di essa provvede il Presidente della Corte d'appello, designando altro magistrato a presiedere il collegio.
 
@@ -2400,7 +2400,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 155
+##### Art. 155
 
 1\. Nei cinque giorni successivi al ricevimento della richiesta, il presidente della Commissione assegna il procedimento al collegio, designa il relatore e da' immediato avviso dell'inizio del procedimento all'organo richiedente e, se diverso, al consiglio notarile del distretto ((in cui il notaio ha sede)), nonche' al notaio incolpato, trasmettendo agli stessi copia degli atti, salvo che la trasmissione risulti oggettivamente difficoltosa. In tale ultimo caso, gli atti sono posti a disposizione dei medesimi soggetti presso la Commissione e nell'avviso e' fatta menzione del deposito e della facolta' di consultare gli atti depositati e di estrarne copia.
 
@@ -2416,7 +2416,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 156
+##### Art. 156
 
 ((1. Il presidente del collegio, entro i quindici giorni successivi alla scadenza del termine per presentare la memoria e sempre che la Commissione non si sia pronunciata ai sensi dell'articolo 155, comma 3, fissa la data per la discussione, che deve aver luogo nei successivi trenta giorni, e ne da' avviso alle parti almeno venti giorni prima)).
 
@@ -2428,7 +2428,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 156-bis
+##### Art. 156-bis
 
 ((1. Il notaio puo' comparire personalmente o a mezzo di procuratore speciale munito di procura rilasciata con atto pubblico o scrittura privata autenticata anche dal difensore.
 
@@ -2460,7 +2460,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 157
+##### Art. 157
 
 ((1. Il collegio delibera in camera di consiglio senza la presenza delle parti.
 
@@ -2478,7 +2478,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 158
+##### Art. 158
 
 1\. Le decisioni della Commissione possono essere impugnate in sede giurisdizionale, anche dalle parti intervenute ai sensi dell'articolo 156-bis, comma 5, e, in ogni caso, dal procuratore della Repubblica competente per l'esercizio dell'azione disciplinare ((...)). ((68))
 
@@ -2508,7 +2508,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che 
 
 Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso".
 
-#### Art. 158-bis
+##### Art. 158-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150)) ((68))
 
@@ -2520,7 +2520,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che 
 
 Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso".
 
-#### Art. 158-ter
+##### Art. 158-ter
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150)) ((68))
 
@@ -2532,7 +2532,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che 
 
 Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso".
 
-#### Art. 158-quater
+##### Art. 158-quater
 
 ((1. All'esecuzione delle sanzioni e delle misure cautelari provvede il presidente del consiglio notarile del distretto nel cui ruolo il notaio e' iscritto, informandone immediatamente il procuratore della Repubblica e il capo dell'archivio notarile competenti per il luogo in cui ha sede il notaio e, se diversi, il procuratore della Repubblica ed il consiglio notarile competenti ai sensi dell'articolo 153, comma 1, lettere a) e b).
 
@@ -2550,7 +2550,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 158-quinquies
+##### Art. 158-quinquies
 
 ((1. In caso di esercizio dell'azione penale a carico di un notaio, il pubblico ministero ne da' immediatamente comunicazione al presidente del consiglio notarile distrettuale di cui all'articolo 153, comma 1, lettera b), specificando il reato per il quale si procede.
 
@@ -2568,7 +2568,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 158-sexies
+##### Art. 158-sexies
 
 ((1. Se risultano addebitati fatti, disciplinarmente rilevanti, che, per la loro gravita', siano incompatibili con l'esercizio delle funzioni notarili, o quando ricorre la necessita' di inibire comportamenti illeciti, possono essere disposte in via cautelare la sospensione dell'incolpato dalle funzioni notarili od ogni altra opportuna misura cautelare, ad istanza dell'organo che ha richiesto l'apertura del procedimento disciplinare o di quello che vi e' intervenuto ai sensi dell'articolo 156-bis, comma 5. Se il procedimento non e' ancora iniziato, la misura cautelare puo' essere adottata ad istanza di uno dei soggetti di cui all'articolo 153, comma 1, lettere a), b) e c).
 
@@ -2596,7 +2596,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 158-septies
+##### Art. 158-septies
 
 ((1. Le misure cautelari sono adottate dalla Commissione, se sono richieste prima dell'apertura del procedimento o nel corso dello stesso, fino a quando la decisione della Commissione non e' divenuta definitiva.
 
@@ -2612,7 +2612,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 158-octies
+##### Art. 158-octies
 
 ((1. Quando e' chiesta l'adozione di una misura cautelare, le parti sono convocate immediatamente con provvedimento notificato almeno tre giorni liberi prima della data fissata per l'esame dell'istanza. Se il procedimento disciplinare non e' stato ancora promosso, sono convocati il soggetto che richiede l'applicazione delle norme ed il notaio nei cui confronti si procede.
 
@@ -2632,7 +2632,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 158-novies
+##### Art. 158-novies
 
 ((1. I provvedimenti cautelari pronunciati dalla Commissione e dalla corte di appello sono reclamabili nei modi previsti dall'articolo 26 del decreto legislativo 1° settembre 2011, n. 150)).((68))
 
@@ -2650,7 +2650,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che 
 
 Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso".
 
-#### Art. 158-decies
+##### Art. 158-decies
 
 1\. Gli atti, i provvedimenti e le decisioni relativi al procedimento disciplinare ed al procedimento cautelare sono comunicati o notificati al notaio nel suo studio o presso il domicilio eletto.
 
@@ -2676,7 +2676,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che 
 
 Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso".
 
-#### Art. 158-undecies
+##### Art. 158-undecies
 
 ((1. Le decisioni, anche di natura cautelare, della Commissione, della Corte d'appello e della Corte di cassazione sono comunicate:
 
@@ -2702,7 +2702,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 28, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49 e 52 si applicano ai procedimenti disciplinari promossi dal 1° giugno 2007".
 
-#### Art. 159
+##### Art. 159
 
 ((1. Il notaio che sia stato destituito puo' domandare di essere riabilitato all'esercizio professionale con deliberazione del consiglio notarile del distretto al cui ruolo era iscritto quando fu destituito nei seguenti casi:
 
@@ -2722,9 +2722,9 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 1 agosto 2006, n. 249 ha diposto (con l'art. 54, comma 2) che "Per i fatti commessi anteriormente alla data di entrata in vigore delle disposizioni di cui all'articolo 55, comma 1, continuano ad applicarsi, se piu' favorevoli, le norme modificate dagli articoli 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 47, 50 e 51".
 
-## ((Capo IV. - Disposizioni comuni.))
+### ((Capo IV. - Disposizioni comuni.))
 
-#### Art. 160
+##### Art. 160
 
 ((1. Per quanto non espressamente previsto dalla presente legge, ai procedimenti amministrativi disciplinati dal presente titolo si applicano, le norme di cui alla legge 7 agosto 1990, n. 241, e successive modificazioni)).
 
@@ -2738,19 +2738,19 @@ Il D.Lgs. 1 agosto 2006, n. 249 ha disposto (con l'art. 54, comma 1) che "Le dis
 
 ## Disposizioni finali e transitorie.
 
-#### Art. 161
+##### Art. 161
 
 E' approvata l'annessa tariffa, la quale fa parte integrante della presente legge.
 
-#### Art. 162
+##### Art. 162
 
 Dal giorno dell'attuazione della presente legge, che sara' determinato per decreto Reale, cessano di avere vigore tutte le leggi, i regolamenti e le disposizioni relative alle materie contemplate nella medesima.
 
-#### Art. 163
+##### Art. 163
 
 Il Governo del Re e' autorizzato a pubblicare per decreto Reale, udito il Consiglio di Stato, il regolamento per la esecuzione della presente legge, con facolta' di comminare la pena dell'ammenda fino a L. 50 per le contravvenzioni alle disposizioni del medesimo.
 
-#### Art. 164
+##### Art. 164
 
 Nel giorno dell'attuazione della presente legge i Consigli notarili esistenti s'intenderanno sciolti, e il presidente del tribunale civile della sede del Consiglio, o un giudice da lui delegato, ne esercitera' le attribuzioni a mente dell'art. 95, sino alla ricostituzione dei nuovi Consigli.
 
@@ -2762,7 +2762,7 @@ Allo stesso modo si provvedera' nel caso di riunione di piu' collegi, a termini 
 
 Le carte, i mobili e tutto il patrimonio spettante ai Consigli notarili soppressi, si devolveranno di diritto al Consiglio che subentra ai medesimi.
 
-#### Art. 165
+##### Art. 165
 
 Sono conservati in ufficio nelle rispettive sedi tutti i notari che nel giorno dell'attuazione della presente legge esercitano il notariato, od hanno titolo legittimo ad esercitarlo per nomina gia' conseguita.
 
@@ -2786,7 +2786,7 @@ AGGIORNAMENTO (19)
 
 Il Regio Decreto 30 dicembre 1923, n. 2778 ha disposto (con l'art. 3, comma 1) che "Ai territori annessi al Regno in virtu' delle leggi 26 settembre 1920, n. 1322, e 19 dicembre 1920, n. 1778, sono estese le disposizioni degli articoli 1, 2, 3, 4, 5 escluso l'ultimo comma, 6, 7, 8, 9, 10, 11, 12 e 13 del Regio decreto-legge 27 maggio 1923, n. 1324".
 
-#### Art. 166
+##### Art. 166
 
 Dopo l'attuazione della presente legge nessuno sara' ammesso a concorrere ai posti vacanti di notaro se non sia fornito di laurea in giurisprudenza, ad eccezione di coloro che abbiano gia' il diploma di notariato o lo conseguano entro un anno dalla detta attuazione.
 
@@ -2796,7 +2796,7 @@ Quelli che all'attuazione della presente legge o abbiano compiuto il primo anno 
 
 La stessa disposizione si applichera' a quelli che abbiano ivi compiuto l'intero corso, qualora intendano conseguire la laurea in giurisprudenza.
 
-#### Art. 167
+##### Art. 167
 
 Per il periodo di anni dieci dall'attuazione della presente legge, nei concorsi si osserveranno le disposizioni che seguono:
 
@@ -2826,31 +2826,31 @@ La proroga e' stabilita fino al 30 giugno 1929 per i concorrenti che abbiano pre
 
 Uguale beneficio e' concesso agli invalidi di guerra".
 
-#### Art. 168
+##### Art. 168
 
 Nel periodo di tempo tra la pubblicazione della presente legge e l'approvazione della tabella di cui all'articolo 4, rimane sospesa la pubblicazione dei concorsi ai posti vacanti, salvo contraria disposizione del ministro di grazia e giustizia in seguito a richiesta del Consiglio notarile.
 
-#### Art. 169
+##### Art. 169
 
 Entro tre mesi dalla ricostituzione dei Consigli notarili, i notati dovranno fornirsi, a mente del numero 6 dell'art. 18, dei fogli del nuovo modulo dei repertori, e col primo giorno del mese successivo comincieranno a servirsene, continuando la numerazione secondo l'antico repertorio.
 
-#### Art. 170
+##### Art. 170
 
 I notari che hanno gia' una cauzione idonea secondo la legge anteriore, non sono tenuti ad elevarla alla misura stabilita dalla presente legge, finche' rimangono nelle sedi in cui presentemente si trovano.
 
-#### Art. 171
+##### Art. 171
 
 I notari nominati o trasferiti prima del giorno dell'attuazione della presente legge, avranno diritto a godere dei termini stabiliti dall'art. 23 della legge anteriore.
 
-#### Art. 172
+##### Art. 172
 
 Nei Comuni dove sia dalla legge anteriore ammessa per gli atti notarili una lingua diversa dall'italiana, si potra' continuare a far uso di tale lingua fino a che non venga diversamente disposto dal Governo, udito il Consiglio provinciale ed il Consiglio di Stato.
 
-#### Art. 173
+##### Art. 173
 
 Per quanto riguarda le formalita' degli atti notarili e i casi di nullita' dei medesimi, si applicheranno le disposizioni piu' favorevoli della presente legge, anche relativamente agli atti ricevuti sotto l'impero della legge anteriore.
 
-#### Art. 174
+##### Art. 174
 
 Gli impiegati d'archivio che esercitano uffici, professioni od impieghi incompatibili con la loro qualita' a termini dell'art. 99, dovranno rinunziarvi nel termine di sei mesi dal giorno dell'attuazione della presente legge, con dichiarazione scritta al ministro di grazia e giustizia.
 
@@ -2874,7 +2874,7 @@ Il Regio D.L. 23 ottobre 1924, n. 1737, convertito senza modificazioni dalla L. 
 
 Gli impiegati stessi, che, entro il termine stabilito, non avranno richiesta la dispensa di cui nel precedente comma, saranno d'ufficio, non oltre il 31 dicembre 1924, dichiarati dimissionari dall'impiego, senza diritto a pensione ne' ad indennita' di quiescenza".
 
-#### Art. 175
+##### Art. 175
 
 Gli impiegati che gia' si trovano addetti agli archivi notarli, saranno conservati col loro grado, rimanendo possibilmente nelle rispettive residenze, e percepiranno lo stipendio corrispondente al grado medesimo ed alla classe cui saranno assegnati, in conformita' della tabella allegata alla presente legge e della pianta organica dell'archivio cui appartengono.
 
@@ -2886,11 +2886,11 @@ Per i conservatori d'archivio ora in carriera non e' richiesto, per concorrere a
 
 Ai conservatori d'archivio che abbiano gia' prestata cauzione secondo la legge anteriore, e' applicabile la disposizione dell'art. 170 cosi' per la misura come per il modo di prestazione della cauzione.
 
-#### Art. 176
+##### Art. 176
 
 Le altre disposizioni della presente legge concernenti i nuovi obblighi ed i nuovi diritti degli impiegati d'archivio, si applicano anche agli impiegati conservati in ufficio all'attuazione della presente legge.
 
-#### Art. 177
+##### Art. 177
 
 Entro due anni dall'attuazione della presente legge potranno essere dispensati dall'impiego, su conforme parere della commissione di cui all'articolo 98, gli impiegati degli archivi notarili che per infermita' o debolezza di mente giudicata permanente o per accertata inettitudine non potessero adempiere convenientemente ai doveri del proprio ufficio, o fossero colpevoli di abituale negligenza nell'adempimento dei doveri medesimi. (4) ((6))
 
@@ -2908,11 +2908,11 @@ AGGIORNAMENTO (6)
 
 Il Decreto Luogotenenziale 21 ottobre 1915, n. 1571 ha disposto (con l'art. 1, comma 1) che il termine di cui all'art. 177 della legge 16 febbraio 1913, n. 89, gia' prorogato al 31 dicembre 1915, e' ulteriormente prorogato al 30 giugno 1916.
 
-#### Art. 178
+##### Art. 178
 
 E' mantenuta la facolta' del Governo di conservare gli attuali archivi comunali, destinati alla conservazione delle carte depositatevi sino alla promulgazione della legge notarile precedente, e che non sono a carico del Governo stesso, ponendoli pero' sotto la dipendenza e la sorveglianza dell'archivio notarile distrettuale.
 
-#### Art. 179
+##### Art. 179
 
 Alla cessazione dell'esercizio di uno degli uffici notarili, gia' di proprieta' privata tuttora esistenti in Roma, e soppressi per effetto dell'art. 148 della legge notarile anteriore 25 maggio 1879, n. 4900, sara' corrisposta a chi ne aveva la proprieta' nel giorno della pubblicazione della legge stessa, o ai suoi eredi o successori a titolo particolare, una indennita' corrispondente ai sette decimi della media desunta dalla somma dei prezzi o valori effettivi dei detti uffici, risultanti, per ciascuno di essi, dai titoli di acquisto stipulati negli ultimi trenta anni anteriori al 1° gennaio 1874.
 
@@ -2926,13 +2926,13 @@ Finocchiaro - Aprile.
 
 Visto, Il guardasigilli: Finocchiaro - Aprile.
 
-## Capo I. - Degli onorari e dei diritti accessori dovuti ai notari.
+### Capo I. - Degli onorari e dei diritti accessori dovuti ai notari.
 
 Tariffa annessa alla legge sull'ordinamento del notariato
 
 e degli archivi notarili.
 
-#### Art. 1
+##### Art. 1
 
 Al notaro sono dovuti i seguenti onorari, diritti accessori e rimborsi di spese per gli atti da lui ricevuti od autenticati:
 
@@ -3002,7 +3002,7 @@ Il D.Lgs. Luogotenenziale 8 dicembre 1944, n. 428 ha disposto (con l'art. 1, com
 
 Gli altri onorari stabiliti nel capo medesimo e nelle successive modificazioni sono aumentati del duecento cinquanta per cento, ad eccezione di quelli per gli atti di protesto che sono aumentati del cento per cento, e salve le disposizioni degli articoli seguenti".
 
-#### Art. 2
+##### Art. 2
 
 Per gli atti ricevuti da due notari nei casi specialmente determinati dalla legge, l'onorario fisso o ad ore e' dovuto, per intero, al notaro che compila l'atto, e per meta' all'altro notaro.
 
@@ -3058,9 +3058,9 @@ Il D.Lgs. Luogotenenziale 8 dicembre 1944, n. 428 ha disposto (con l'art. 1, com
 
 Gli altri onorari stabiliti nel capo medesimo e nelle successive modificazioni sono aumentati del duecento cinquanta per cento, ad eccezione di quelli per gli atti di protesto che sono aumentati del cento per cento, e salve le disposizioni degli articoli seguenti".
 
-## § 1. - Onorari fissi.
+#### § 1. - Onorari fissi.
 
-#### Art. 3
+##### Art. 3
 
 L'onorario e' di lire 50 per le procure generali ad affari, di lire 30 per le procure generali a liti, di lire 15 per le procure a liti innanzi ai pretori, di lire 10 per le procure a liti innanzi ai conciliatori, di lire 25 per ogni altra procura ad affari o a liti.
 
@@ -3128,7 +3128,7 @@ Quando sono piu' i mandanti, che non siano soci, coeredi o comproprietari, delle
 
 Parimenti l'onorario e' aumentato di L. 50 o di L. 20 per ogni persona in piu' quando piu' siano i mandatari con facolta' di agire separatamente l'uno dall'altro".
 
-#### Art. 4
+##### Art. 4
 
 L'onorario e' di lire 60 per gli atti di consegna di testamento segreto, di lire 40 per gli atti di deposito di testamento olografo, di lire 5 per i certificati di vita per pensioni.
 
@@ -3196,7 +3196,7 @@ Per le firme e vidimazioni di libri commerciali l'onorario e' di L.
 
 200".
 
-#### Art. 5
+##### Art. 5
 
 Per ogni atto di protesto di cambiale o biglietto all'ordine in danaro o in derrate, l'onorario e':
 
@@ -3282,9 +3282,9 @@ AGGIORNAMENTO (44)
 
 Il D.Lgs. 9 aprile 1948, n. 528 ha disposto (con l'art. 3, comma 1) che "Gli onorari per gli atti di protesto, di cui all'art. 5 della tariffa annessa alla legge 16 febbraio 1913, n. 89, e successive modificazioni, sono raddoppiati".
 
-## § 2. - Onorari proporzionali al valore.
+#### § 2. - Onorari proporzionali al valore.
 
-#### Art. 6
+##### Art. 6
 
 Per i contratti di trasferimento di proprieta' immobiliare o mobiliare, di costituzione di rendita, di usufrutto, d'uso o di servitu', di mutuo, di surrogazione, di cessione, di fideiussione, di ipoteca, di restituzione di dote, d'enfiteusi, di rinvestimento, se il valore non eccede le L. 500, e' dovuto l'onorario di L. 5.
 
@@ -3394,7 +3394,7 @@ Gli onorari anzidetti sono soggetti alle riduzioni stabilite dagli stessi artico
 
 Nel calcolo dell'onorario le frazioni di L. 1000 del valore non si computano se inferiori a L. 500; si computano per L. 1000 negli altri casi. Parimenti le frazioni di lira dell'onorario non si computano se inferiori a centesimi 50; si computano per una lira negli altri casi".
 
-#### Art. 7
+##### Art. 7
 
 Gli onorari stabiliti per l'articolo precedente sono pure dovuti:
 
@@ -3492,7 +3492,7 @@ Gli onorari anzidetti sono soggetti alle riduzioni stabilite dagli stessi artico
 
 Nel calcolo dell'onorario le frazioni di L. 1000 del valore non si computano se inferiori a L. 500; si computano per L. 1000 negli altri casi. Parimenti le frazioni di lira dell'onorario non si computano se inferiori a centesimi 50; si computano per una lira negli altri casi".
 
-#### Art. 8
+##### Art. 8
 
 Per l'autenticazione delle firme apposte agli atti o contratti indicati nei due articoli precedenti, sono dovuti gli onorari fissati dagli articoli medesimi, ridotti alla meta', ma l'onorario non puo' essere minore di L. 3.
 
@@ -3572,7 +3572,7 @@ Il D.Lgs. Luogotenenziale 8 dicembre 1944, n. 428 ha disposto (con l'art. 1, com
 
 Gli altri onorari stabiliti nel capo medesimo e nelle successive modificazioni sono aumentati del duecento cinquanta per cento, ad eccezione di quelli per gli atti di protesto che sono aumentati del cento per cento, e salve le disposizioni degli articoli seguenti".
 
-#### Art. 9
+##### Art. 9
 
 Al notaro che ha ricevuto il testamento segreto o pubblico, oltre agli onorari stabiliti dagli articoli 4 e 13, sono dovuti, al tempo dell'apertura della successione, gli onorari stabiliti dall'art. 6, su valore dei beni che formano oggetto delle disposizioni testamentarie non revocate, escluso pero' il valore delle quote spettanti a titolo di legittima.
 
@@ -3668,7 +3668,7 @@ Gli onorari anzidetti sono soggetti alle riduzioni stabilite dagli stessi artico
 
 Nel calcolo dell'onorario le frazioni di L. 1000 del valore non si computano se inferiori a L. 500; si computano per L. 1000 negli altri casi. Parimenti le frazioni di lira dell'onorario non si computano se inferiori a centesimi 50; si computano per una lira negli altri casi".
 
-#### Art. 10
+##### Art. 10
 
 Gli uffici del registro parteciperanno senza indugio al conservatore dell'archivio notarile del distretto cui appartiene il notaro, il valore dell'eredita' appena sara' liquidato ai fini fiscali, e il conservatore provvedera' a comunicarlo al notaro.
 
@@ -3744,7 +3744,7 @@ Il D.Lgs. Luogotenenziale 8 dicembre 1944, n. 428 ha disposto (con l'art. 1, com
 
 Gli altri onorari stabiliti nel capo medesimo e nelle successive modificazioni sono aumentati del duecento cinquanta per cento, ad eccezione di quelli per gli atti di protesto che sono aumentati del cento per cento, e salve le disposizioni degli articoli seguenti".
 
-#### Art. 11
+##### Art. 11
 
 Gli onorari spettanti in base all'articolo precedente, sono, quando gli atti di un notaro si trovano depositati in archivio, esatti dal conservatore e corrisposti al notaro od ai suoi eredi.
 
@@ -3822,7 +3822,7 @@ Gli altri onorari stabiliti nel capo medesimo e nelle successive modificazioni s
 
 ## § 3. - Onorari per gli atti preparati dal notaro e non stipulati.
 
-#### Art. 12
+##### Art. 12
 
 Per gli atti preparati dal notaio di commissione delle parti e che poi non siano stati altrimenti stipulati per cause indipendenti dal medesimo, e' dovuto al notaio l'onorario di lire 20 per ciascuna ora o frazione di ora in tale lavoro impiegata.
 
@@ -3886,9 +3886,9 @@ Esso e' raddoppiato se il notaio viene richiesto di notte tempo per gli atti ind
 
 Lo stesso onorario, nella misura di L. 300 per ciascuna ora o frazione di ora, e' dovuto al notaio per gli atti da lui preparati nei casi previsti dall'art. 12 della tariffa anzidetta".
 
-## § 4. - Onorari ad ore.
+#### § 4. - Onorari ad ore.
 
-#### Art. 13
+##### Art. 13
 
 L'onorario ad ore e' dovuto per i processi verbali relativi ad immissioni in possesso, ad inventari, a conti, a divisioni, a vendite giudiziarie, e per gli atti di interpellanza, di constatazione e di offerta reale, salvo nel caso di accettazione dell'offerta l'applicazione degli articoli 6 e 7. Pero' per i verbali di estrazione o assegnazione delle quote nelle divisioni o di deliberamento nelle vendite giudiziali saranno dovuti gli onorari di cui agli articoli 6 e 7.
 
@@ -3954,7 +3954,7 @@ Il D.Lgs. 9 aprile 1948, n. 528 ha disposto (con l'art. 6, comma 1) che "L'onora
 
 ## § 5. - Onorario per copie, estratti, certificati, ispezione, lettura e collazione degli atti.
 
-#### Art. 14
+##### Art. 14
 
 Per ogni copia in forma esecutiva e' dovuto al notaro il quarto dell'onorario stabilito per l'originale dagli articoli precedenti, qualora questi non superi le L. 200, ed il quinto per gli onorari superiori. (33)
 
@@ -4038,7 +4038,7 @@ L'onorario di copia non puo' in ogni caso essere inferiore a L. 80.
 
 Per le copie degli atti di valore indeterminabile l'onorario e' di L. 80 e per le copie ad uso dell'Ufficio del registro e' di L. 25".
 
-#### Art. 15
+##### Art. 15
 
 Per ogni altra copia l'onorario spettante al notaro e' il sesto di quello pagato per l'originale. (27)
 
@@ -4130,7 +4130,7 @@ L'onorario di copia non puo' in ogni caso essere inferiore a L. 80.
 
 Per le copie degli atti di valore indeterminabile l'onorario e' di L. 80 e per le copie ad uso dell'Ufficio del registro e' di L. 25".
 
-#### Art. 16
+##### Art. 16
 
 Per ogni estratto contenente una parte sola dell'atto, l'onorario e' di L. 3.
 
@@ -4192,7 +4192,7 @@ Gli altri onorari stabiliti nel capo medesimo e nelle successive modificazioni s
 
 Ha inoltre disposto (con l'art. 3, comma 1) che "Gli onorari fissi per ogni estratto e per ogni certificato, di cui agli articoli 16 e 17 della tariffa annessa alla legge 16 febbraio 1913, n. 89, e successive modificazioni, sono dovuti nella misura di lire venti".
 
-#### Art. 17
+##### Art. 17
 
 Per ogni certificato e' pure dovuto l'onorario di L. 3. Se il certificato riguarda diversi atti, oltre l'onorario di L. 3, dovuto per uno di essi, e' dovuto l'onorario di lire una per ciascuno degli atti accennati nel certificato medesimo.
 
@@ -4254,7 +4254,7 @@ Il D.Lgs. Luogotenenziale 8 dicembre 1944, n. 428 ha disposto (con l'art. 1, com
 
 Ha inoltre disposto (con l'art. 3, comma 1) che "Gli onorari fissi per ogni estratto e per ogni certificato, di cui agli articoli 16 e 17 della tariffa annessa alla legge 16 febbraio 1913, n. 89, e successive modificazioni, sono dovuti nella misura di lire venti".
 
-#### Art. 18
+##### Art. 18
 
 Salvo i casi di cui nel capoverso dell'art. 75 della legge, per gli estratti ed i certificati relativi ad atti che contengono piu' convenzioni distinte, spettera' oltre l'onorario di estratto e di certificato per una convenzione, una lira per ciascuna delle altre convenzioni alle quali gli estratti e i certificati si riferiscono, e sara' dovuto lo stesso onorario che spetterebbe per la copia dell'atto, se gli estratti e i certificati si riferiscono a tutto quanto l'atto.
 
@@ -4314,7 +4314,7 @@ Il D.Lgs. Luogotenenziale 8 dicembre 1944, n. 428 ha disposto (con l'art. 1, com
 
 Gli altri onorari stabiliti nel capo medesimo e nelle successive modificazioni sono aumentati del duecento cinquanta per cento, ad eccezione di quelli per gli atti di protesto che sono aumentati del cento per cento, e salve le disposizioni degli articoli seguenti".
 
-#### Art. 19
+##### Art. 19
 
 Per la ricerca di un atto spetta l'onorario di lire 2 se l'atto e' indicato con data precisa, di lire 5 se manca tale indicazione.
 
@@ -4368,7 +4368,7 @@ Il D.Lgs. Luogotenenziale 8 dicembre 1944, n. 428 ha disposto (con l'art. 1, com
 
 Gli altri onorari stabiliti nel capo medesimo e nelle successive modificazioni sono aumentati del duecento cinquanta per cento, ad eccezione di quelli per gli atti di protesto che sono aumentati del cento per cento, e salve le disposizioni degli articoli seguenti".
 
-#### Art. 20
+##### Art. 20
 
 Per l'ispezione e la lettura di un atto nell'interesse di privati e' dovuto l'onorario di lire 3 per ogni mezz'ora di tempo impiegata nell'operazione.
 
@@ -4436,7 +4436,7 @@ Il D.Lgs. 9 aprile 1948, n. 528 ha disposto (con l'art. 11, comma 1) che "L'onor
 
 ## § 6. - Onorari per le operazioni di cui il notaro è incaricato dalle parti o dall'autorità giudiziaria.
 
-#### Art. 21
+##### Art. 21
 
 Al notaro che preparo' la minuta, espressamente richiesta dalle parti, di un contratto pel quale e' occorso studiare e consultare titoli e documenti, registri ipotecari o catastali, tenere conferenze, e' dovuto l'onorario stabilito dall'art. 13. ((44))
 
@@ -4514,9 +4514,9 @@ Il D.Lgs. 9 aprile 1948, n. 528 ha disposto (con l'art. 12, commi 1 e 2) che "Pe
 
 Per gli atti indicati nell'ultimo comma del citato art. 21 l'onorario e' di L. 100".
 
-## § 7. - Diritti accessori.
+#### § 7. - Diritti accessori.
 
-#### Art. 22
+##### Art. 22
 
 Al notaro che per compiere un atto del suo ufficio deve allontanarsi dal proprio studio, oltre al rimborso delle spese di viaggio e di soggiorno, sono dovute le seguenti indennita':
 
@@ -4622,7 +4622,7 @@ Lo stesso diritto e' dovuto per la trasmissione all'Archivio notarile della copi
 
 Per la trasmissione del sunto del contenuto degli atti a mezzo del telegrafo o del telefono, e' dovuto al notaio, oltre al diritto di accesso, l'onorario ad ore stabilito dall'art. 6 del presente decreto".
 
-#### Art. 23
+##### Art. 23
 
 Per la scritturazione di due pagine di originali, di copie, di estratti e di certificati e' dovuto al notaro il diritto di sessanta centesimi. (27)
 
@@ -4704,7 +4704,7 @@ AGGIORNAMENTO (44)
 
 Il D.Lgs. 9 aprile 1948, n. 528 ha disposto (con l'art. 14, comma 1) che "Il diritto di scritturazione, di cui all'art. 23 della tariffa annessa alla legge 16 febbraio 1913, n. 89, e successive modificazioni, e' dovuto nella misura di L. 20 per ogni pagina. Esso e' aumentato del 50% nei casi di richieste urgenti di copie di atti e sempre che la copia venga rilasciata entro giorni tre dalla richiesta".
 
-#### Art. 24
+##### Art. 24
 
 Per l'iscrizione di ogni atto nel repertorio, compresa quella di cui all'articolo 18, ultimo capoverso del Regio decreto-legge 14 luglio 1937-XV, n. 1666, convertito con modificazioni nella leggo 30 dicembre 1937-XVI, n. 2358, e' dovuto al notaio il diritto di lire 5 se l'atto e' conservato in originale e di lire 4 se non e' conservato in originale.
 
@@ -4802,7 +4802,7 @@ Il D.Lgs. 9 aprile 1948, n. 528 ha disposto (con l'art. 15, commi 1 e 2) che "Il
 
 La quota di tale diritto devoluta alla Cassa nazionale del notariato e' in ogni caso di L. 10, e viene riscossa, anche per gli atti soggetti a registrazione, a cura dell'Archivio notarile, osservate le norme degli articoli 20 e 21 del regio decreto-legge 14 luglio 1937, n. 1666, convertito nella legge 30 dicembre 1937, n. 2358".
 
-#### Art. 25
+##### Art. 25
 
 Per ogni annotazione al margine di un originale, domandata ed ordinata a norma di legge nell'interesse dei privati, e' dovuto al notaro l'onorario di una lira. ((44))
 
@@ -4870,9 +4870,9 @@ AGGIORNAMENTO (44)
 
 Il D.Lgs. 9 aprile 1948, n. 528 ha disposto (con l'art. 16, comma 1) che "Per ogni annotazione al margine di un originale, nei casi previsti dall'art. 25, primo comma, della tariffa annessa alla legge 16 febbraio 1913, n. 89, e' dovuto al notaio il diritto di L. 50".
 
-## § 8. - Disposizioni comuni ai paragrafi precedenti.
+#### § 8. - Disposizioni comuni ai paragrafi precedenti.
 
-#### Art. 26
+##### Art. 26
 
 Nei casi non indicati specialmente nei paragrafi precedenti, i diritti si debbono liquidare per analogia ai casi espressi nei paragrafi medesimi.
 
@@ -4928,9 +4928,9 @@ Il D.Lgs. Luogotenenziale 8 dicembre 1944, n. 428 ha disposto (con l'art. 1, com
 
 Gli altri onorari stabiliti nel capo medesimo e nelle successive modificazioni sono aumentati del duecento cinquanta per cento, ad eccezione di quelli per gli atti di protesto che sono aumentati del cento per cento, e salve le disposizioni degli articoli seguenti".
 
-## Capo II. - Dei diritti dovuti ai Consigli notarili.
+### Capo II. - Dei diritti dovuti ai Consigli notarili.
 
-#### Art. 27
+##### Art. 27
 
 Ai consigli notarili sono dovuti i seguenti diritti:
 
@@ -4940,9 +4940,9 @@ per esami e iscrizioni;
 
 per copie, estratti e certificati e per diritti accessori.
 
-## § 1. - Per conciliazioni e pareri.
+#### § 1. - Per conciliazioni e pareri.
 
-#### Art. 28
+##### Art. 28
 
 Per ogni conciliazione relativa alle contestazioni accennate nel n. 5 dell'art. 93 e per la liquidazione ed approvazione della nota giusta l'art. 79 della presente legge, sono dovute le seguenti tasse:
 
@@ -4980,7 +4980,7 @@ AGGIORNAMENTO (44)
 
 Il D.Lgs. 9 aprile 1948, n. 528 ha disposto (con l'art. 17, comma 1) che "I diritti dovuti ai Consigli notarili a norma degli articoli 28, 29, 30 e 32 della tariffa annessa alla legge 16 febbraio 1913, n. 89, e successive modificazioni, sono raddoppiati".
 
-#### Art. 29
+##### Art. 29
 
 Per ogni parere chiesto ad un notaro per affare attinente all'esercizio delle sue funzioni, sono dovute L. 6.
 
@@ -4994,9 +4994,9 @@ AGGIORNAMENTO (44)
 
 Il D.Lgs. 9 aprile 1948, n. 528 ha disposto (con l'art. 17, comma 1) che "I diritti dovuti ai Consigli notarili a norma degli articoli 28, 29, 30 e 32 della tariffa annessa alla legge 16 febbraio 1913, n. 89, e successive modificazioni, sono raddoppiati".
 
-## § 2. - Per iscrizioni ed esami.
+#### § 2. - Per iscrizioni ed esami.
 
-#### Art. 30
+##### Art. 30
 
 Per la iscrizione del candidato alla pratica notarile sono dovute L. 20.
 
@@ -5020,9 +5020,9 @@ AGGIORNAMENTO (44)
 
 Il D.Lgs. 9 aprile 1948, n. 528 ha disposto (con l'art. 17, comma 1) che "I diritti dovuti ai Consigli notarili a norma degli articoli 28, 29, 30 e 32 della tariffa annessa alla legge 16 febbraio 1913, n. 89, e successive modificazioni, sono raddoppiati".
 
-## § 3. - Per copie, estratti, certificati e diritti accessori.
+#### § 3. - Per copie, estratti, certificati e diritti accessori.
 
-#### Art. 31
+##### Art. 31
 
 Per le copie ed i certificati rilasciati dal Consiglio notarile o dal suo segretario sono dovuti allo stesso Consiglio gli onorari stabiliti dagli articoli 14, 15, 16, 17.
 
@@ -5030,7 +5030,7 @@ Per le copie delle deliberazioni del Consiglio di cui all'ultimo capoverso dell'
 
 Per la scritturazione delle copie, degli estratti e dei certificati e' dovuto al segretario del Consiglio il diritto fissato dall'articolo 23.
 
-#### Art. 32
+##### Art. 32
 
 Per l'avviso di ammissione all'esercizio del notariato e per ogni altro avviso da pubblicarsi a richiesta delle parti, sono dovute al Consiglio notarile lire 2.
 
@@ -5048,17 +5048,17 @@ AGGIORNAMENTO (44)
 
 Il D.Lgs. 9 aprile 1948, n. 528 ha disposto (con l'art. 17, comma 1) che "I diritti dovuti ai Consigli notarili a norma degli articoli 28, 29, 30 e 32 della tariffa annessa alla legge 16 febbraio 1913, n. 89, e successive modificazioni, sono raddoppiati".
 
-## Capo III. - Delle tasse dovute agli archivi notarili.
+### Capo III. - Delle tasse dovute agli archivi notarili.
 
-#### Art. 33
+##### Art. 33
 
 ((ARTICOLO SOPPRESSO DAL D.L. LUOGOTENENZIALE 21 APRILE 1918, N. 629, CONVERTITO SENZA MODIFICAZIONI DALLA L. 17 APRILE 1925, N. 473))
 
-#### Art. 34
+##### Art. 34
 
 Le tasse dovute agli archivi sono a carico delle parti.
 
-#### Art. 35
+##### Art. 35
 
 Per le copie, gli estratti, i certificati, le ispezioni o lettura di qualsiasi atto notarile conservato in archivio e per ogni altra operazione sono dovute all'archivio le tasse medesime che spettano ai notari a titolo di onorario e di diritti accessori.
 
@@ -5066,11 +5066,11 @@ Per gli atti conservati in archivio in virtu' dei numeri 1, 8, 9 e 10 dell'art. 
 
 Non e' dovuta alcuna tassa per l'ispezione dell'atto se la parte ne commette pure la copia.
 
-#### Art. 36
+##### Art. 36
 
 Per ogni iscrizione nel registro cronologico a senso dell'art. 112 della legge e' dovuto all'archivio il diritto di centesimi cinquanta.
 
-#### Art. 37
+##### Art. 37
 
 Le tasse per le ricerche sono dovute all'archivio nella misura stabilita dall'art. 19. Qualora la ricerca debba estendersi al repertorio o ad altri volumi di piu' notari, sono dovute tante tasse quanti i notari ai cui atti la ricerca si e' estesa.
 
@@ -5084,7 +5084,7 @@ AGGIORNAMENTO (44)
 
 Il D.Lgs. 9 aprile 1948, n. 528, nel modificare l'art. 33 del Regio D.L. 23 ottobre 1924, n. 1737, convertito senza modificazioni dalla L. 18 marzo 1926, n. 562, ha conseguentemente disposto (con l'art. 19, comma 1) che "La tassa di ricerca, di un atto nell'indice generale stabilita dall'art. 33 del regio decreto-legge 23 ottobre 1924, n. 1737, e' aumentata del 500 per cento".
 
-#### Art. 38
+##### Art. 38
 
 Non e' dovuta alcuna tassa per le ispezioni, le letture e le ricerche fatte a scopo puramente storico, letterario o scientifico.
 
@@ -5092,15 +5092,15 @@ Dovranno, peraltro, a tal fine, i richiedenti essere muniti di una speciale auto
 
 L'autorizzazione stessa puo' anche essere concessa direttamente dai capi di archivio, qualora sia giustificato dai richiedenti uno degli scopi sopraindicati.
 
-## Capo IV. - Disposizioni comuni ai capi precedenti.
+### Capo IV. - Disposizioni comuni ai capi precedenti.
 
-#### Art. 39
+##### Art. 39
 
 Non e' dovuta alcuna tassa ne' diritto per le copie, gli estratti, i certificati e per qualunque altra operazione richiesta per uso di ufficio o nell'interesse dello Stato, in conformita' delle norme che saranno stabilite nel regolamento.
 
-## Capo V. - Degli emolumenti dovuti ai periti.
+### Capo V. - Degli emolumenti dovuti ai periti.
 
-#### Art. 40
+##### Art. 40
 
 Ove sia necessaria l'opera di periti per la interpretazione o la riproduzione di atti, d'impronte o disegni, le tasse dovute ai periti sono quelle determinate dalla tariffa giudiziaria in materia civile.
 
@@ -5112,7 +5112,7 @@ Il ministro di grazia e giustizia e dei culti
 
 Finocchiaro-Aprile.
 
-#### Tabella
+##### Tabella
 
 Tabella degli stipendi degli impiegati degli archivi notarili (art. 103 della legge).
 

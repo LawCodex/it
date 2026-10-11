@@ -98,7 +98,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Principi generali
 
-#### Art. 1
+### Art. 1
 
 Principi. Oggetto e finalita'
 
@@ -442,11 +442,9 @@ della valutazione e della certificazione
 
 > nella direttiva emanata dal Ministero dell'istruzione, dell'universita' e della ricerca 1° agosto 2012 n. 70, recante «Linee guida per i percorsi degli istituti professionali relative alle ulteriori articolazioni delle aree di indirizzo negli spazi di flessibilita' previsti dall'art. 5, comma 3, lettera b), e dall'art. 8, comma 4, lettera c) del decreto del Presidente della Repubblica 15 marzo 2010, n. 87 - Opzioni», pubblicata nella Gazzetta Ufficiale 29 ottobre 2012, n. 253, S.O.».
 
-## Capo II - Valutazione, certificazione delle competenze ed esame di Stato nel
+## Capo II - Valutazione, certificazione delle competenze ed esame di Stato nel primo ciclo di istruzione
 
-### primo ciclo di istruzione
-
-#### Art. 2
+### Art. 2
 
 Valutazione nel primo ciclo
 
@@ -476,7 +474,7 @@ AGGIORNAMENTO (7)
 
 Il D.L. 8 aprile 2020, n. 22, convertito con modificazioni dalla L. 6 giugno 2020, n. 41, come modificato dal D.L. 14 agosto 2020, n. 104, convertito con modificazioni dalla L. 13 ottobre 2020, n. 126, ha disposto (con l'art. 1, comma 2-bis) che "In deroga all'articolo 2, comma 1, del decreto legislativo 13 aprile 2017, n. 62, dall'anno scolastico 2020/2021, la valutazione periodica e finale degli apprendimenti degli alunni delle classi della scuola primaria, per ciascuna delle discipline di studio previste dalle indicazioni nazionali per il curricolo e' espressa attraverso un giudizio descrittivo riportato nel documento di valutazione e riferito a differenti livelli di apprendimento, secondo termini e modalita' definiti con ordinanza del Ministro dell'istruzione".
 
-#### Art. 3
+### Art. 3
 
 Ammissione alla classe successiva
 
@@ -488,7 +486,7 @@ nella scuola primaria
 
 3\. I docenti della classe in sede di scrutinio, con decisione assunta all'unanimita', possono non ammettere l'alunna o l'alunno alla classe successiva solo in casi eccezionali e comprovati da specifica motivazione.
 
-#### Art. 4
+### Art. 4
 
 Rilevazioni nazionali sugli apprendimenti delle alunne
 
@@ -560,7 +558,7 @@ e degli alunni della scuola primaria
 
 > 5\. I piani di miglioramento, con i risultati conseguiti dalle singole istituzioni scolastiche, sono comunicati al direttore generale del competente Ufficio scolastico regionale, che ne tiene conto ai fini della individuazione degli obiettivi da assegnare al dirigente scolastico in sede di conferimento del successivo incarico e della valutazione di cui al comma 4.
 
-#### Art. 5
+### Art. 5
 
 Validita' dell'anno scolastico
 
@@ -572,7 +570,7 @@ nella scuola secondaria di primo grado
 
 3\. Fermo restando quanto previsto dai commi 1 e 2, nel caso in cui non sia possibile procedere alla valutazione, il consiglio di classe accerta e verbalizza, nel rispetto dei criteri definiti dal collegio dei docenti, la non validita' dell'anno scolastico e delibera conseguentemente la non ammissione alla classe successiva o all'esame finale del primo ciclo di istruzione.
 
-#### Art. 6
+### Art. 6
 
 Ammissione alla classe successiva nella scuola secondaria di primo grado ed all'esame conclusivo del primo ciclo
 
@@ -588,7 +586,7 @@ Ammissione alla classe successiva nella scuola secondaria di primo grado ed all'
 
 5\. Il voto di ammissione all'esame conclusivo del primo ciclo e' espresso dal consiglio di classe in decimi, considerando il percorso scolastico compiuto dall'alunna o dall'alunno.
 
-#### Art. 7
+### Art. 7
 
 Prove nazionali sugli apprendimenti delle alunne
 
@@ -606,7 +604,7 @@ Tali rilevazioni sono effettuate nella classe terza della scuola secondaria di p
 
 5\. Le azioni relative allo svolgimento delle rilevazioni nazionali costituiscono per le istituzioni scolastiche attivita' ordinarie d'istituto.
 
-#### Art. 8
+### Art. 8
 
 Svolgimento ed esito dell'esame di Stato
 
@@ -666,7 +664,7 @@ c) prova scritta, relativa alle competenze acquisite, articolata in una sezione 
 
 > 11\. I capi d'istituto che rivestano l'incarico di Ministro o Sottosegretario di Stato, ovvero siano in aspettativa per mandato parlamentare o amministrativo o siano in esonero sindacale, distaccati, comandati, utilizzati o collocati fuori ruolo possono assolvere all'obbligo di formazione mediante la frequenza di appositi moduli nell'ambito della formazione prevista dal presente articolo, ovvero della formazione di cui all'art. 29. In tale ultimo caso l'inquadramento decorre ai fini giuridici dalla prima applicazione degli inquadramenti di cui al comma 7 ed ai fini economici dalla data di assegnazione ad una istituzione scolastica autonoma.».
 
-#### Art. 9
+### Art. 9
 
 Certificazione delle competenze nel primo ciclo
 
@@ -688,7 +686,7 @@ e) coerenza con il piano educativo individualizzato per le alunne e gli alunni c
 
 f) indicazione, in forma descrittiva, del livello raggiunto nelle prove a carattere nazionale di cui all'articolo 7, distintamente per ciascuna disciplina oggetto della rilevazione e certificazione sulle abilita' di comprensione e uso della lingua inglese.
 
-#### Art. 10
+### Art. 10
 
 Esami di idoneita' nel primo ciclo e ammissione all'esame di Stato conclusivo del primo ciclo dei candidati privatisti
 
@@ -706,7 +704,7 @@ Esami di idoneita' nel primo ciclo e ammissione all'esame di Stato conclusivo de
 
 7\. In caso di frequenza di una scuola del primo ciclo straniera in Italia riconosciuta dall'ordinamento estero, fatte salve norme di maggior favore previste da Accordi ed Intese bilaterali, le alunne e gli alunni sostengono l'esame di idoneita' ove intendano iscriversi ad una scuola statale o paritaria.
 
-#### Art. 11
+### Art. 11
 
 Valutazione delle alunne e degli alunni con disabilita'
 
@@ -792,7 +790,7 @@ e disturbi specifici di apprendimento
 
 ## Capo III - Esame di Stato nel secondo ciclo di istruzione
 
-#### Art. 12
+### Art. 12
 
 Oggetto e finalita'
 
@@ -806,7 +804,7 @@ Oggetto e finalita'
 
 5\. Nell'ambito della funzione ispettiva sono assicurate verifiche e monitoraggi sul regolare funzionamento degli istituti statali e paritari e, in particolare, sulla organizzazione e la gestione degli esami di Stato, di idoneita' ed integrativi, nonche' sulle iniziative organizzativo-didattiche realizzate dalla istituzione scolastica per il recupero delle carenze formative.
 
-#### Art. 13
+### Art. 13
 
 Ammissione dei candidati interni
 
@@ -834,7 +832,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, ha disposto (con l'art. 6, comma 5-bis) che "In considerazione della particolare situazione linguistica delle scuole in lingua tedesca e delle localita' ladine della Provincia autonoma di Bolzano, le disposizioni in materia di requisiti di ammissione all'esame di Stato di cui agli articoli 13, comma 2, lettera b), e 14, comma 3, sesto periodo, del decreto legislativo 13 aprile 2017, n. 62, si applicano a decorrere dal 1° settembre 2022 per le scuole in lingua tedesca, limitatamente alla prova INVALSI nella disciplina "tedesco", e per le scuole delle localita' ladine, limitatamente alle prove INVALSI nelle discipline "italiano" e "tedesco"".
 
-#### Art. 14
+### Art. 14
 
 Ammissione dei candidati esterni
 
@@ -862,7 +860,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, ha disposto (con l'art. 6, comma 5-bis) che "In considerazione della particolare situazione linguistica delle scuole in lingua tedesca e delle localita' ladine della Provincia autonoma di Bolzano, le disposizioni in materia di requisiti di ammissione all'esame di Stato di cui agli articoli 13, comma 2, lettera b), e 14, comma 3, sesto periodo, del decreto legislativo 13 aprile 2017, n. 62, si applicano a decorrere dal 1° settembre 2022 per le scuole in lingua tedesca, limitatamente alla prova INVALSI nella disciplina "tedesco", e per le scuole delle localita' ladine, limitatamente alle prove INVALSI nelle discipline "italiano" e "tedesco"".
 
-#### Art. 15
+### Art. 15
 
 Attribuzione del credito scolastico
 
@@ -874,7 +872,7 @@ Attribuzione del credito scolastico
 
 3\. Per i candidati esterni il credito scolastico e' attribuito dal consiglio di classe davanti al quale sostengono l'esame preliminare di cui al comma 2 dell'articolo 14, sulla base della documentazione del curriculum scolastico e dei risultati delle prove preliminari.
 
-#### Art. 16
+### Art. 16
 
 Commissione e sede di esame
 
@@ -890,7 +888,7 @@ Commissione e sede di esame
 
 6\. Le commissioni d'esame possono provvedere alla correzione delle prove scritte operando per aree disciplinari; le decisioni finali sono assunte dall'intera commissione a maggioranza assoluta.
 
-#### Art. 17
+### Art. 17
 
 Prove di esame
 
@@ -918,7 +916,7 @@ Prove di esame
 
 11\. Per i candidati risultati assenti ad una o piu' prove, per gravi motivi documentati, valutati dalla commissione, e' prevista una sessione suppletiva e una sessione straordinaria d'esame e, in casi eccezionali, particolari modalita' di svolgimento degli stessi.
 
-#### Art. 18
+### Art. 18
 
 Esiti dell'esame
 
@@ -940,7 +938,7 @@ b) abbiano conseguito il punteggio massimo previsto per ogni prova d'esame.
 
 7\. L'esito dell'esame con l'indicazione del punteggio finale conseguito, inclusa la menzione della lode, e' pubblicato, contemporaneamente per tutti i candidati della classe, all'albo dell'istituto sede della commissione, con la sola indicazione «non diplomato» nel caso di mancato superamento dell'esame stesso.
 
-#### Art. 19
+### Art. 19
 
 Prove scritte a carattere nazionale
 
@@ -952,7 +950,7 @@ predisposte dall'INVALSI
 
 3\. Le azioni relative allo svolgimento delle rilevazioni nazionali costituiscono per le istituzioni scolastiche attivita' ordinarie d'istituto.
 
-#### Art. 20
+### Art. 20
 
 Esame di Stato per le studentesse e gli studenti
 
@@ -986,7 +984,7 @@ con disabilita' e disturbi specifici di apprendimento
 
 14\. Le studentesse e gli studenti con DSA partecipano alle prove standardizzate di cui all'articolo 19. Per lo svolgimento delle suddette prove il consiglio di classe puo' disporre adeguati strumenti compensativi coerenti con il piano didattico personalizzato. Le studentesse e gli studenti con DSA dispensati dalla prova scritta di lingua straniera o esonerati dall'insegnamento della lingua straniera non sostengono la prova nazionale di lingua inglese.
 
-#### Art. 21
+### Art. 21
 
 Diploma finale e curriculum della studentessa e dello studente
 
@@ -1004,7 +1002,7 @@ Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbr
 
 ## Capo IV - Disposizioni finali
 
-#### Art. 22
+### Art. 22
 
 Valutazione di alunne, alunni, studentesse
 
@@ -1016,13 +1014,13 @@ e studenti in ospedale
 
 3\. Le modalita' di valutazione di cui al presente articolo si applicano anche ai casi di istruzione domiciliare.
 
-#### Art. 23
+### Art. 23
 
 Istruzione parentale
 
 1\. In caso di istruzione parentale, i genitori dell'alunna o dell'alunno, della studentessa o dello studente, ovvero coloro che esercitano la responsabilita' genitoriale, sono tenuti a presentare annualmente la comunicazione preventiva al dirigente scolastico del territorio di residenza. Tali alunni o studenti sostengono annualmente l'esame di idoneita' per il passaggio alla classe successiva in qualita' di candidati esterni presso una scuola statale o paritaria, fino all'assolvimento dell'obbligo di istruzione.
 
-#### Art. 24
+### Art. 24
 
 Regioni a statuto speciale e Province di Trento e di Bolzano
 
@@ -1034,7 +1032,7 @@ Regioni a statuto speciale e Province di Trento e di Bolzano
 
 Le prove scritte a carattere nazionale predisposte dall'INVALSI sono tradotte o elaborate in lingua slovena.
 
-#### Art. 25
+### Art. 25
 
 Scuole italiane all'estero
 
@@ -1042,7 +1040,7 @@ Scuole italiane all'estero
 
 2\. L'ammissione all'esame di Stato conclusivo del primo e del secondo ciclo di istruzione avviene in assenza dell'espletamento delle prove standardizzate predisposte dall'INVALSI.
 
-#### Art. 26
+### Art. 26
 
 Decorrenze, disposizioni transitorie, di coordinamento e abrogazioni
 
@@ -1086,7 +1084,7 @@ Il D.L. 25 luglio 2018, n. 91, convertito con modificazioni dalla L. 21 settembr
 
 Ha inoltre disposto (con l'art. 6, comma 3-octies) che "Nelle more della revisione della disciplina dei percorsi di alternanza scuola-lavoro, il termine di entrata in vigore dell'articolo 13, comma 2, lettera c), nonche' dell'articolo 14, comma 3, sesto periodo, limitatamente alle attivita' assimilabili all'alternanza scuola-lavoro, del decreto legislativo 13 aprile 2017, n. 62, e' differito dal 1° settembre 2018 al l° settembre 2019".
 
-#### Art. 27
+### Art. 27
 
 Disposizioni finanziarie
 
@@ -1122,7 +1120,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Allegato A
+### Allegato A
 
 Allegato A
 

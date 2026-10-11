@@ -41,11 +41,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni e principi generali
 
-### Disposizioni e principi generali
-
-#### Art. 1
+### Art. 1
 
 Disposizioni di principio e ambito di applicazione
 
@@ -113,7 +111,7 @@ Disposizioni di principio e ambito di applicazione
 
 > \- Per i riferimenti normativi alla decisione quadro 2009/948/GAI si veda nelle note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -127,13 +125,13 @@ c) «autorita' contattante»: l'autorita' di uno Stato membro dinanzi alla quale
 
 d) «autorita' contattata»: l'autorita' di uno Stato membro cui l'autorita' contattante di altro Stato membro chiede di confermare l'esistenza di procedimenti penali paralleli.
 
-#### Art. 3
+### Art. 3
 
 Autorita' competenti
 
 1\. Le autorita' competenti per l'ordinamento italiano sono il Ministro della giustizia e l'autorita' giudiziaria, secondo le attribuzioni individuate dal presente decreto.
 
-#### Art. 4
+### Art. 4
 
 Obbligo di contattare l'autorita' competente
 
@@ -143,7 +141,7 @@ di altro Stato membro
 
 2\. Quando e' ignota l'autorita' competente da contattare, l'autorita' giudiziaria procedente compie gli accertamenti necessari, anche tramite i punti di contatto della rete giudiziaria europea.
 
-#### Art. 5
+### Art. 5
 
 Obbligo di fornire risposta alla richiesta proveniente dall'autorita' di altro Stato membro
 
@@ -155,7 +153,7 @@ Se nel procedimento pendente dinanzi all'autorita' giudiziaria italiana l'indaga
 
 3\. Se il procedimento parallelo non si svolge dinanzi all'autorita' giudiziaria italiana contattata, quest'ultima trasmette, senza ritardo, la richiesta all'autorita' giudiziaria italiana competente, dandone comunicazione all'autorita' contattante.
 
-#### Art. 6
+### Art. 6
 
 Contenuto della richiesta di informazioni inviata all'autorita' di altro Stato membro
 
@@ -173,7 +171,7 @@ e) custodia cautelare cui e' sottoposto l'indagato o l'imputato;
 
 f) ogni altra informazione che si ritenga opportuno fornire.
 
-#### Art. 7
+### Art. 7
 
 Contenuto della risposta da fornire alla richiesta proveniente dall'autorita' di altro Stato membro
 
@@ -187,7 +185,7 @@ c) fase, stato e grado del procedimento e, ove adottata, decisione e suo contenu
 
 2\. L'autorita' italiana contattata puo' fornire ulteriori informazioni.
 
-#### Art. 8
+### Art. 8
 
 Obbligo di consultazioni dirette
 
@@ -217,17 +215,15 @@ g) ogni altro fattore ritenuto pertinente.
 
 Puo' rifiutare la trasmissione di specifiche informazioni quando la loro comunicazione possa compromettere interessi nazionali essenziali in materia di sicurezza o la sicurezza di una persona.
 
-#### Art. 9
+### Art. 9
 
 Cooperazione con Eurojust
 
 1\. In ogni momento le autorita' competenti italiane e degli altri Stati membri coinvolte nelle consultazioni dirette possono sottoporre la questione sulla risoluzione del conflitto di giurisdizione a Eurojust, nei casi di cui all'articolo 4 della decisione 2002/187/GAI che istituisce Eurojust, come modificata dalla decisione 2009/426/GAI.
 
-## Capo II
+## Capo II - Disposizioni per l'adeguamento dell'ordinamento interno
 
-### Disposizioni per l'adeguamento - dell'ordinamento interno
-
-#### Art. 10
+### Art. 10
 
 Effetti delle consultazioni dirette sul procedimento
 
@@ -235,7 +231,7 @@ Effetti delle consultazioni dirette sul procedimento
 
 2\. La sospensione del processo conseguente al divieto di pronunciare sentenza, di cui e' data immediata notizia al procuratore generale, non puo' avere durata superiore a venti giorni.
 
-#### Art. 11
+### Art. 11
 
 Effetti della concentrazione dei procedimenti
 
@@ -331,7 +327,7 @@ Effetti della concentrazione dei procedimenti
 
 > 5\. Il pubblico ministero provvede con decreto, che deve essere notificato al condannato e al suo difensore.».
 
-#### Art. 12
+### Art. 12
 
 Clausola di invarianza finanziaria
 

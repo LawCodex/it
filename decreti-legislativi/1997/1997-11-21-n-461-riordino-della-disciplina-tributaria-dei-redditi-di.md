@@ -46,7 +46,7 @@ Riforma dei redditi di capitale
 
 e dei redditi diversi
 
-#### Art. 1
+### Art. 1
 
 Modifiche agli articoli 20, 41 e 112 del testo unico delle imposte
 
@@ -228,11 +228,9 @@ Conseguentemente i termini per l'esercizio delle deleghe legislative stabilite a
 
 > 2\. Si considerano prodotti nel territorio dello Stato i redditi indicati nell'art. 20, tenendo conto, per i redditi di impresa, anche delle plusvalenze e delle minusvalenze dei beni destinati o comunque relativi alle attivita' commerciali esercitate nel territorio dello Stato, ancorche' non conseguite attraverso le stabili organizzazioni, nonche' gli utili distribuiti da societa' ed enti di cui alle lettere a) e b) del comma 1 dell'art. 87 e le plusvalenze indicate nell'art. 20, comma 1, lettera f).
 
-## TITOLO I - Riforma dei redditi di capitale
+## TITOLO I - Riforma dei redditi di capitale e dei redditi diversi
 
-### e dei redditi diversi
-
-#### Art. 2
+### Art. 2
 
 Modifiche all'articolo 42 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917
 
@@ -246,7 +244,7 @@ b) dopo il comma 4 aggiunto, in fine, il seguente: "4-bis. Le somme od il valore
 
 3\. ((Nel caso dei rapporti di cui alle lettere g-bis) e g-ter) del comma 1 dell'articolo 44 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, e delle operazioni che producono analoghi effetti economici, al soggetto cui si imputano i dividendi, gli interessi e gli altri proventi, si applica il regime previsto dall'articolo 89, comma 2, del medesimo testo unico, e successive modificazioni, ovvero spettano l'attribuzione di ritenute o il credito per imposte pagate all'estero, soltanto se tale regime, ovvero l'attribuzione delle ritenute o il credito per imposte pagate all'estero, sarebbe spettato al beneficiario effettivo dei dividendi, degli interessi e degli altri proventi)).
 
-#### Art. 3
+### Art. 3
 
 Modifiche all'articolo 81 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre
 
@@ -320,7 +318,7 @@ Agli effetti dell'applicazione delle lettere c), c-bis) e c-ter) del comma 1, si
 
 > 1-ter) Le plusvalenze derivanti dalla cessione a titolo oneroso di valute estere rivenienti da depositi e conti correnti concorrono a formare il reddito a condizione che nel periodo d'imposta la giacenza dei depositi e conti correnti complessivamente intrattenuti dal contribuente, calcolata secondo il cambio vigente all'inizio del periodo di riferimento, sia superiore a cento milioni di lire per almeno sette giorni lavorativi continui.
 
-#### Art. 4
+### Art. 4
 
 Modifiche all'articolo 82 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917
 
@@ -356,11 +354,9 @@ f) nei casi di dilazione o rateazione del pagamento del corrispettivo la plusval
 
 9\. Le plusvalenze, i differenziali positivi e gli altri proventi di cui alle lettere c-bis), c-ter), c-quater) e c-quinquies), del comma 1 dell'articolo 81, nonche' le relative minusvalenze, differenziali negativi ed oneri, per i quali sia superiore ai dodici mesi il periodo intercorrente tra la data di acquisizione e quella di cessione, chiusura o rimborso della partecipazione, titolo, certificato, strumento finanziario o rapporto, concorrono a formare il reddito imponibile per un ammontare che si ottiene applicando al loro importo un fattore di rettifica finalizzato a rendere equivalente la tassazione in base alla realizzazione con quella in base alla maturazione, calcolato tenendo conto del periodo di possesso, del momento di pagamento dell'imposta, dei tassi di rendimento dei titoli di Stato, delle quotazioni dei titoli negoziati in mercati regolamentati e di ogni altro parametro che possa influenzare la determinazione del valore delle attivita' finanziarie produttive di redditi tassabili in base alla maturazione. Con decreti del Ministro delle finanze sono stabiliti i coefficienti di rettifica da utilizzare per la determinazione delle plusvalenze, dei differenziali positivi e dei proventi o delle minusvalenze ed oneri realizzati nel periodo di imposta precedente. I predetti decreti sono pubblicati nella Gazzetta Ufficiale entro il trentesimo giorno precedente a quello del loro utilizzo.".
 
-## TITOLO II - Disciplina dell'imposta sostitutiva
+## TITOLO II - Disciplina dell'imposta sostitutiva sulle plusvalenze e sugli altri redditi
 
-### sulle plusvalenze e sugli altri redditi
-
-#### Art. 5
+### Art. 5
 
 Imposta sostitutiva sulle plusvalenze e sugli altri redditi diversi di cui alle lettere da c) a (( c-sexies) )) del comma 1 dell'articolo 81 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917
 
@@ -408,7 +404,7 @@ La L. 27 dicembre 2017, n. 205 ha disposto (con l'art. 1, comma 1005) che le pre
 
 Ha inoltre disposto (con l'art. 1, comma 1006) che "In deroga alle previsioni di cui ai commi da 999 a 1005, alle distribuzioni di utili derivanti da partecipazioni qualificate in societa' ed enti soggetti all'imposta sul reddito delle societa' formatesi con utili prodotti fino all'esercizio in corso al 31 dicembre 2017, deliberate dal 1º gennaio 2018 al 31 dicembre 2022, continuano ad applicarsi le disposizioni di cui al decreto del Ministro dell'economia e delle finanze 26 maggio 2017, pubblicato nella Gazzetta Ufficiale n. 160 dell'11 luglio 2017".
 
-#### Art. 6
+### Art. 6
 
 Opzione per l'applicazione dell'imposta sostitutiva su ciascuna plusvalenza o altro reddito diverso realizzato
 
@@ -468,7 +464,7 @@ La L. 27 dicembre 2017, n. 205 ha disposto (con l'art. 1, comma 1005) che le pre
 
 Ha inoltre disposto (con l'art. 1, comma 1006) che "In deroga alle previsioni di cui ai commi da 999 a 1005, alle distribuzioni di utili derivanti da partecipazioni qualificate in societa' ed enti soggetti all'imposta sul reddito delle societa' formatesi con utili prodotti fino all'esercizio in corso al 31 dicembre 2017, deliberate dal 1º gennaio 2018 al 31 dicembre 2022, continuano ad applicarsi le disposizioni di cui al decreto del Ministro dell'economia e delle finanze 26 maggio 2017, pubblicato nella Gazzetta Ufficiale n. 160 dell'11 luglio 2017".
 
-#### Art. 7
+### Art. 7
 
 Imposta sostitutiva sul risultato maturato delle gestioni individuali di portafoglio
 
@@ -564,7 +560,7 @@ La L. 27 dicembre 2017, n. 205 ha disposto (con l'art. 1, comma 1005) che le pre
 
 Ha inoltre disposto (con l'art. 1, comma 1006) che "In deroga alle previsioni di cui ai commi da 999 a 1005, alle distribuzioni di utili derivanti da partecipazioni qualificate in societa' ed enti soggetti all'imposta sul reddito delle societa' formatesi con utili prodotti fino all'esercizio in corso al 31 dicembre 2017, deliberate dal 1º gennaio 2018 al 31 dicembre 2022, continuano ad applicarsi le disposizioni di cui al decreto del Ministro dell'economia e delle finanze 26 maggio 2017, pubblicato nella Gazzetta Ufficiale n. 160 dell'11 luglio 2017".
 
-#### Art. 8
+### Art. 8
 
 Imposta sostitutiva sul risultato di gestione
 
@@ -916,11 +912,11 @@ Le ritenute operate sui redditi di capitale si applicano a titolo d'imposta. Non
 
 > 4\. Gli interessi passivi non computati nella determinazione del reddito a norma del presente articolo non danno diritto alla deduzione dal reddito complessivo prevista alle lettere c) e d) del comma 1 dell'art. 10".
 
-#### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.L. 29 DICEMBRE 2010, N. 225, CONVERTITO CON MODIFICAZIONI DALLA L. 26 FEBBRAIO 2011, N. 10))
 
-#### Art. 10
+### Art. 10
 
 Obblighi a carico di intermediari ed altri soggetti che intervengono in operazioni fiscalmente rilevanti
 
@@ -938,7 +934,7 @@ AGGIORNAMENTO (7)
 
 Il D.L. 24 dicembre 2002, n. 282, convertito con modificazioni dalla L. 21 febbraio 2003, n. 27, ha disposto (con l'art. 6, comma 2) che "All'articolo 10, comma 4, del decreto legislativo 21 novembre 1997, n. 461, sono aggiunte, in fine, le seguenti parole: ", nonche' per i trasferimenti dall'estero relativi ad operazioni suscettibili di produrre redditi di capitale sempreche' detti redditi siano stati assoggettati dall'intermediario residente a ritenuta o ad imposta sostitutiva delle imposte sui redditi"."
 
-#### Art. 11
+### Art. 11
 
 Modifiche alla disciplina del monitoraggio fiscale recata dal
 
@@ -1040,11 +1036,9 @@ f) nell'articolo 7, i commi 1-bis ed 1-ter sono sostituiti dai seguenti: "1-bis.
 
 > "Se le comunicazioni previste dall'art. 7 e dal terzo comma dell'art. 16 nonche' dal primo e dal terzo comma dell'art. 10 (4) vengono effettuate nei termini stabiliti si applica, a carico del soggetto o dei soggetti tenuti a sottoscriverle, la pena pecuniaria da lire 200.000 a lire 40 milioni; se le comunicazioni vengono effettuate entro trenta giorni dalla scadenza del termine si applica la pena pecuniaria da lire 40.000 a lire 200.000. In caso di comunicazione incomplete o inesatte si applica la pena pecuniaria da lire 20.000 a lire 400.000 per ciascuna omissione o inesattezza.".
 
-## TITOLO III - Riordino delle ritenute
+## TITOLO III - Riordino delle ritenute e delle imposte sostitutive sui redditi di capitale
 
-### e delle imposte sostitutive sui redditi di capitale
-
-#### Art. 12
+### Art. 12
 
 Modifiche alla disciplina delle ritenute alla fonte e delle imposte sostitutive sui redditi di capitale
 
@@ -1212,7 +1206,7 @@ b) il secondo comma e' abrogato.
 
 ((13-bis. I titoli emessi da enti e organismi internazionali costituiti in base ad accordi internazionali resi esecutivi in Italia sono equiparati a tutti gli effetti fiscali ai titoli dello Stato italiano.))
 
-#### Art. 13
+### Art. 13
 
 (( ARTICOLO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
 
@@ -1228,7 +1222,7 @@ Il D.L. 30 settembre 2003, n. 269, convertito con modificazioni dalla L. 24 nove
 
 ## TITOLO IV - Disposizioni transitorie
 
-#### Art. 14
+### Art. 14
 
 Regime transitorio per le ritenute sui redditi di capitale e l'imposta sostitutiva sulle plusvalenze e gli altri redditi diversi
 
@@ -1272,7 +1266,7 @@ b) nel caso dei titoli, certificati, diritti, valute estere, metalli preziosi al
 
 13\. ((COMMA ABROGATO DAL D.L. 25 SETTEMBRE 2001, N. 350, CONVERTITO CON MODIFICAZIONI DALLA L. 23 NOVEMBRE 2001, N. 409 )).
 
-#### Art. 15
+### Art. 15
 
 Regime transitorio per le gestioni individuali e gli organismi d'investimento collettivo
 
@@ -1298,7 +1292,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 16 giugno 1998, n. 201, ha disposto (con l'art. 5, comma 1, lettera f)) che "nel comma 8 le parole: "anche nel caso in cui sia stata esercitata l'opzione prevista" sono soppresse".
 
-#### Art. 16
+### Art. 16
 
 Abrogazione di norme e entrata in vigore
 

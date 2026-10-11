@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## Titolo I - MODIFICHE AL TESTO UNICO 20 MARZO 1967, N. 223, DELLE LEGGI PER LA
+## Titolo I - MODIFICHE AL TESTO UNICO 20 MARZO 1967, N. 223, DELLE LEGGI PER LA DISCIPLINA DELL'ELETTORATO ATTIVO E PER LA TENUTA E LA REVISIONE DELLE LISTE ELETTORALI.
 
-### DISCIPLINA DELL'ELETTORATO ATTIVO E PER LA TENUTA E LA REVISIONE - DELLE LISTE ELETTORALI.
-
-#### Art. 1
+### Art. 1
 
 L'articolo 11 del testo unico delle leggi per la disciplina dell'elettorato attivo e per la tenuta e la revisione delle liste elettorali approvato con decreto del Presidente della Repubblica 20 marzo 1967, n. 223, e' sostituito dal seguente:
 
@@ -50,7 +48,7 @@ I cittadini italiani residenti all'estero, emigrati dalle zone che, in dipendenz
 
 Della condizione di cittadino residente all'estero e' fatta apposita annotazione nello schedario elettorale e nelle liste sezionali".
 
-#### Art. 2
+### Art. 2
 
 All'articolo 32 del testo unico 20 marzo 1967, n. 223, sono apportate le seguenti modifiche:
 
@@ -70,7 +68,7 @@ Le deliberazioni della commissione elettorale comunale relative alle variazioni 
 
 Avverso le deliberazioni di cui ai precedenti commi e' ammesso ricorso alla commissione elettorale mandamentale nel termine di dieci giorni, rispettivamente dalla data della notificazione o dalla data del deposito".
 
-#### Art. 3
+### Art. 3
 
 Dopo l'articolo 32 del testo unico 20 marzo 1967, n. 223, e' inserito il seguente articolo:
 
@@ -82,11 +80,9 @@ Dell'ammissione al voto e' data notizia al presidente del seggio, il quale ammet
 
 Le variazioni alle liste elettorali conseguenti alle determinazioni di cui al presente articolo sono eseguite entro il mese successivo a quello in cui ha avuto luogo la consultazione".
 
-## Titolo II - NORME TRANSITORIE PER LA ISCRIZIONE O REISCRIZIONE NELLE LISTE
+## Titolo II - NORME TRANSITORIE PER LA ISCRIZIONE O REISCRIZIONE NELLE LISTE ELETTORALI DEGLI ELETTORI RESIDENTI ALL'ESTERO
 
-### ELETTORALI DEGLI ELETTORI RESIDENTI ALL'ESTERO
-
-#### Art. 4
+### Art. 4
 
 I cittadini italiani gia' cancellati dal registro della popolazione stabile del comune per emigrazione definitiva all'estero sono iscritti d'ufficio nelle liste elettorali del comune di ultima residenza entro il mese di febbraio dell'anno 1979.
 
@@ -102,11 +98,11 @@ Durante lo stesso periodo il sindaco, con manifesto da affiggere all'albo comuna
 
 La commissione elettorale mandamentale decide entro cinque giorni dalla acquisizione delle eventuali controdeduzioni.
 
-#### Art. 5
+### Art. 5
 
 Gli elettori italiani residenti all'estero che per qualsiasi motivo non vengono iscritti nelle liste elettorali a norma del precedente articolo, pure avendone i titoli possono chiedere di essere iscritti nelle liste elettorali o di esservi reiscritti, se gia' cancellati, a norma del testo unico 20 marzo 1967, n. 223, e successive modificazioni.
 
-#### Art. 6
+### Art. 6
 
 Salvo quanto disposto dalla legge sulla elezione dei rappresentanti dell'Italia al Parlamento europeo, entro il ventesimo giorno successivo a quello della pubblicazione del decreto di convocazione dei comizi, a cura dei comuni di iscrizione elettorale e' spedita agli elettori residenti all'estero una cartolina avviso recante l'indicazione della data della votazione, l'avvertenza che il destinatario potra' ritirare il certificato elettorale presso il competente ufficio comunale e che la esibizione della cartolina stessa da' diritto al titolare di usufruire delle facilitazioni di viaggio per recarsi a votare nel comune di iscrizione elettorale.
 
@@ -118,11 +114,11 @@ AGGIORNAMENTO (1)
 
 Il D.P.R. 2 aprile 2003 n. 104 ha disposto (con l'art. 23 comma 1) che "in occasione delle consultazioni per l'elezione della Camera dei deputati e del Senato della Repubblica e per i referendum previsti dagli articoli 75 e 138 della Costituzione, la cartolina avviso di cui all'articolo 6 della legge 7 febbraio 1979, n. 40, e' spedita esclusivamente agli elettori che hanno esercitato l'opzione o che sono residenti negli Stati con i cui Governi non sono state concluse le intese in forma semplificata di cui all'articolo 19, comma 1, della legge o negli Stati che si trovano nelle situazioni di cui all'articolo 19, comma 4, della legge".
 
-#### Art. 7
+### Art. 7
 
 Entro dieci giorni dall'iscrizione o reiscrizione effettuata ai sensi dei precedenti articoli 4 e 5 il sindaco ne da' notizia agli interessati.
 
-#### Art. 8
+### Art. 8
 
 La presente legge entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 

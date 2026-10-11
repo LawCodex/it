@@ -25,21 +25,21 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare l'accordo internazionale sulla juta e sui prodotti di juta, adottato a Ginevra il 1 ottobre 1982.
 
-#### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data all'accordo di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 40 dell'accordo stesso.
 
-#### Art. 3
+### Art. 3
 
 All'onere derivante dall'attuazione della presente legge, valutato in annue lire venticinque milioni, si provvede per il 1984 mediante riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per il medesimo anno finanziario, all'uopo utilizzando parte dell'accantonamento preordinato per "Ratifica ed esecuzione di accordi internazionali"; per il triennio 1985-87 mediante riduzione dell'apposito stanziamento iscritto, ai fini del bilancio triennale 1985-87, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1985.
 
 Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 4
+### Art. 4
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -57,7 +57,7 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 ## Allegati
 
-#### Accord International
+### Accord International
 
 ACCORD INTERNATIONAL DE 1982
 
@@ -91,7 +91,7 @@ considerando che una stretta cooperazione internazionale intesa a risolvere i pr
 
 hanno convenuto quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 Obiettivi
 
@@ -115,7 +115,7 @@ Obiettivi
 
 ## CAPO II - DEFINIZIONI
 
-#### Articolo 2
+### Articolo 2
 
 Definizioni
 
@@ -149,7 +149,7 @@ Ai fini del presente accordo si adottano le seguenti definizioni:
 
 ## CAPO III - ORGANIZZAZIONE ED AMMINISTRAZIONE
 
-#### Articolo 3
+### Articolo 3
 
 Costituzione, sede e struttura dell'Organizzazione internazionale della iuta
 
@@ -161,7 +161,7 @@ Costituzione, sede e struttura dell'Organizzazione internazionale della iuta
 
 4\. La sede dell'Organizzazione deve sempre essere situata nel territorio di uno Stato membro.
 
-#### Articolo 4
+### Articolo 4
 
 Membri dell'organizzazione
 
@@ -169,7 +169,7 @@ Membri dell'organizzazione
 
 2\. Un membro puo' cambiare categoria, secondo le condizioni stabilite dal Consiglio.
 
-#### Articolo 5
+### Articolo 5
 
 Partecipazione di organizzazioni intergovernative
 
@@ -179,7 +179,7 @@ Partecipazione di organizzazioni intergovernative
 
 ## CAPO IV - CONSIGLIO INTERNAZIONALE DELLA IUTA
 
-#### Articolo 6
+### Articolo 6
 
 Composizione del Consiglio internazionale della iuta
 
@@ -189,7 +189,7 @@ Composizione del Consiglio internazionale della iuta
 
 3\. I supplenti sono autorizzati a agire ed a votare in nome del delegato durante l'assenza di quest'ultimo oppure in particolari circostanze.
 
-#### Articolo 7
+### Articolo 7
 
 Poteri e funzioni del Consiglio
 
@@ -199,7 +199,7 @@ Poteri e funzioni del Consiglio
 
 3\. Il Consiglio tiene aggiornata la documentazione necessaria all'adempimento delle funzioni conferitegli dal presente accordo.
 
-#### Articolo 8
+### Articolo 8
 
 Presidente e vicepresidente del consiglio
 
@@ -209,7 +209,7 @@ Presidente e vicepresidente del consiglio
 
 3\. Il vicepresidente fa le veci del presidente in caso di assenza temporanea di quest'ultimo. In caso di assenza temporanea sia del presidente che del vicepresidente, oppure di assenza permanente di uno o di ambedue, il Consiglio puo' eleggere tra i rappresentanti dei membri esportatori e/o tra i rappresentanti dei membri importatori, se del caso, nuovi titolari di queste funzioni, a titolo temporaneo o permanente.
 
-#### Articolo 9
+### Articolo 9
 
 Sessioni del consiglio
 
@@ -227,7 +227,7 @@ Qualora, su invito di un membro, il Consiglio si riunisca in un luogo diverso da
 
 4\. La data delle sessioni e il corrispondente ordine del giorno vengono comunicati ai membri dal direttore esecutivo con almeno 30 giorni d'anticipo, fatta, eccezione per i casi urgenti, in cui la comunicazione deve essere effettuata con almeno 7 giorni d'anticipo.
 
-#### Articolo 10
+### Articolo 10
 
 Distribuzione dei voti
 
@@ -245,7 +245,7 @@ Distribuzione dei voti
 
 7\. Per arrotondare il numero dei voti, una frazione inferiore a 0,5 deve essere approssimata per difetto ed una frazione superiore o pari a 0,5 deve essere approssimata per eccesso.
 
-#### Articolo 11
+### Articolo 11
 
 Procedura di votazione del Consiglio
 
@@ -257,7 +257,7 @@ Procedura di votazione del Consiglio
 
 4\. In caso di astensione, si ritiene che un membro non abbia votato.
 
-#### Articolo 12
+### Articolo 12
 
 Decisioni e raccomandazioni del Consiglio
 
@@ -267,7 +267,7 @@ Decisioni e raccomandazioni del Consiglio
 
 3\. Tutte le decisioni e le raccomandazioni del Consiglio devono essere conformi al disposto del presente accordo.
 
-#### Articolo 13
+### Articolo 13
 
 Numero legale alle riunioni del Consiglio
 
@@ -277,7 +277,7 @@ Numero legale alle riunioni del Consiglio
 
 3\. Ogni membro rappresentato in conformita' dell'articolo 11, paragrafo 2, viene considerato presente.
 
-#### Articolo 14
+### Articolo 14
 
 Cooperazione con altre organizzazioni
 
@@ -287,13 +287,13 @@ Cooperazione con altre organizzazioni
 
 3\. In considerazione della funzione specifica assegnata all'UNCTAD nel settore degli scambi internazionali di prodotti di base, il Consiglio tiene questa organizzazione adeguatamente informata delle sue attivita' e dei suoi programmi di lavoro.
 
-#### Articolo 15
+### Articolo 15
 
 Ammissione di osservatori
 
 Il Consiglio puo' invitare qualsiasi non membro o qualsiasi organizzazione, di cui agli articoli 14 e 31, aventi interessi nel settore degli scambi internazionali della iuta e prodotti derivati, oppure dell'industria corrispondente, ad assistere ad una qualsiasi delle sue riunioni in qualita' di osservatore.
 
-#### Articolo 16
+### Articolo 16
 
 Direttore esecutivo e personale
 
@@ -311,7 +311,7 @@ Direttore esecutivo e personale
 
 ## CAPO V - PRIVILEGI E IMMUNITA'
 
-#### Articolo 17
+### Articolo 17
 
 Privilegi e immunita'
 
@@ -335,7 +335,7 @@ c) qualora l'Organizzazione cessi di esistere.
 
 ## CAPO VI - DISPOSIZIONI FINANZIARIE
 
-#### Articolo 18
+### Articolo 18
 
 Conti finanziari
 
@@ -347,7 +347,7 @@ b) conto speciale.
 
 2\. Il Direttore esecutivo e' responsabile dell'amministrazione dei due conti, secondo le disposizioni stabilite dal Consiglio nel proprio regolamento interno.
 
-#### Articolo 19
+### Articolo 19
 
 Modalita' di pagamento
 
@@ -357,7 +357,7 @@ Modalita' di pagamento
 
 3\. Il Consiglio puo' inoltre decidere di accettare altre modalita' di pagamento dei contributi al conto speciale, in particolare attrezzature scientifiche o tecniche oppure prestazioni professionali, per soddisfare le esigenze poste dai progetti approvati.
 
-#### Articolo 20
+### Articolo 20
 
 Verifica e pubblicazione dei conti
 
@@ -365,7 +365,7 @@ Verifica e pubblicazione dei conti
 
 2\. Un estratto del conto amministrativo e del conto speciale verificati da revisori indipendenti vengono resi noti ai membri al piu' presto possibile dopo la chiusura di ciascuna annata della iuta, e comunque entro sei mesi dopo tale data, e vengono sottoposti al Consiglio per approvazione nella sessione successiva. Viene quindi pubblicato un sommario dei conti e del bilancio consuntivo verificati.
 
-#### Articolo 21
+### Articolo 21
 
 Conto amministrativo
 
@@ -387,7 +387,7 @@ Qualora un membro chieda all'Organizzazione la prestazione di servizi speciali, 
 
 8\. Un membro i cui diritti sono stati sospesi a norma del paragrafo 7 del presente articolo continua ad essere tenuto al pagamento del proprio contributo.
 
-#### Articolo 22
+### Articolo 22
 
 Conto speciale
 
@@ -429,7 +429,7 @@ L'Organizzazione non assume alcun obbligo nei confronti di tali crediti.
 
 ## CAPO VII - attivita' OPERATIVE
 
-#### Articolo 23
+### Articolo 23
 
 Progetti
 
@@ -451,7 +451,7 @@ Progetti
 
 9\. Il Consiglio, con votazione speciale, puo' decidere di cessare di patrocinare un progetto.
 
-#### Articolo 24
+### Articolo 24
 
 Ricerca e sviluppo
 
@@ -463,19 +463,19 @@ b) perfezionamento dei processi di produzione utilizzati per i prodotti nuovi e 
 
 c) individuazione di nuovi impieghi finali e miglioramento dei prodotti esistenti.
 
-#### Articolo 25
+### Articolo 25
 
 Promozione del mercato
 
 I progetti relativi alla promozione del mercato dovrebbero tra l'altro avere l'obiettivo di mantenere ed espandere i mercati dei prodotti esistenti e di aprire i mercati per i nuovi prodotti.
 
-#### Articolo 26
+### Articolo 26
 
 Riduzione dei costi
 
 I progetti relativi alla riduzione dei costi dovrebbero, tra l'altro, avere i seguenti obiettivi: miglioramento dei processi e delle tecniche relativi alla produttivita' dell'agricoltura ed alla qualita' della fibra, evoluzione dei processi e delle tecniche relativi ai costi in materia di manodopera, materiale e capitale nell'industria della iuta, nonche' la creazione e la gestione di un sistema di informazioni, destinato ai membri, sui processi e sulle tecniche piu' efficaci attualmente a disposizione dell'economia della iuta.
 
-#### Articolo 27
+### Articolo 27
 
 Criteri relativi all'approvazione dei progetti
 
@@ -491,7 +491,7 @@ d) essere ideati in modo da corrispondere alle dimensioni degli scambi internazi
 
 e) essere in grado di promuovere la capacita' concorrenziale globale oppure di favorire le prospettive di mercato della iuta e dei prodotti da essa derivati.
 
-#### Articolo 28
+### Articolo 28
 
 Comitato sui progetti
 
@@ -509,17 +509,15 @@ C) formula raccomandazioni al Consiglio in merito ai progetti.
 
 ## CAPO VIII - RELAZIONI CON IL FONDO - COMUNE PER I PRODOTTI DI BASE
 
-#### Articolo 29
+### Articolo 29
 
 Relazioni con il Fondo comune per i prodotti di base
 
 L'organizzazione intende avvalersi delle strutture del Fondo comune, quando quest'ultimo diventera' operativo, secondo i principi stabiliti nell'accordo che istituisce il fondo comune per i prodotti di base.
 
-## CAPO IX - ESAME DELLE QUESTIONI DI - RILIEVO RELATIVE ALLA IUTA
+## CAPO IX - ESAME DELLE QUESTIONI DI - RILIEVO RELATIVE ALLA IUTA E PRODOTTI DERIVATI
 
-### E PRODOTTI DERIVATI
-
-#### Articolo 30
+### Articolo 30
 
 Stabilizzazione e concorrenza con le fibre sintetiche e altre questioni
 
@@ -531,7 +529,7 @@ Stabilizzazione e concorrenza con le fibre sintetiche e altre questioni
 
 ## CAPO X - STATISTICHE, STUDI ED INFORMAZIONI
 
-#### Articolo 31
+### Articolo 31
 
 Statistiche, studi ed informazioni
 
@@ -543,7 +541,7 @@ Statistiche, studi ed informazioni
 
 4\. Il Consiglio fa in modo che le informazioni pubblicate non pregiudichino il carattere riservato delle operazioni di persone o di societa' che producono, lavorano oppure commercializzano la iuta, i prodotti da essa derivati, le fibre sintetiche e i prodotti di sostituzione.
 
-#### Articolo 32
+### Articolo 32
 
 Relazione annuale e rapporto sull'analisi e valutazione
 
@@ -555,13 +553,13 @@ Relazione annuale e rapporto sull'analisi e valutazione
 
 ## CAPO XI - VARIE
 
-#### Articolo 33
+### Articolo 33
 
 Ricorsi e controversie
 
 Qualsiasi ricorso per mancato adempimento da parte di un membro degli obblighi imposti dal presente accordo e qualsiasi controversia relativa all'interpretazione o all'applicazione del presente accordo vengono deferite al Consiglio per decisione. Le decisioni del Consiglio in merito sono definitive e vincolanti.
 
-#### Articolo 34
+### Articolo 34
 
 Obblighi generali dei membri
 
@@ -569,7 +567,7 @@ Obblighi generali dei membri
 
 2\. I membri si impegnano ad accettare come vincolanti le decisioni del Consiglio prese a norma del presente accordo e ad astenersi dall'attuare provvedimenti aventi effetto limitativo o contrario ad esse.
 
-#### Articolo 35
+### Articolo 35
 
 Dispensa dagli obblighi
 
@@ -577,7 +575,7 @@ Dispensa dagli obblighi
 
 2\. Quando concede una dispensa ad un membro a norma del paragrafo 1, il Consiglio precisa esplicitamente con quali modalita', a quali condizioni e per quanto tempo il membro e' dispensato da tale obbligo, nonche' i motivi per i quali viene concessa la dispensa.
 
-#### Articolo 36
+### Articolo 36
 
 Provvedimenti differenziali e correttivi
 
@@ -587,7 +585,7 @@ Provvedimenti differenziali e correttivi
 
 ## CAPO XII - DISPOSIZIONI FINALI
 
-#### Articolo 37
+### Articolo 37
 
 Firma, ratifica, accettazione ed approvazione
 
@@ -597,13 +595,13 @@ Firma, ratifica, accettazione ed approvazione
 
 b) dopo la firma, ratificare, accettare o approvare il presente accordo depositando uno strumento a tal fine presso il depositario.
 
-#### Articolo 38
+### Articolo 38
 
 Depositario
 
 Il presente accordo viene depositato presso il Segretario generale delle Nazioni Unite.
 
-#### Articolo 39
+### Articolo 39
 
 Notifica di applicazione a titolo provvisorio
 
@@ -611,7 +609,7 @@ Notifica di applicazione a titolo provvisorio
 
 2\. Un governo che ha notificato, in conformita' del paragrafo 1, la sua intenzione di applicare il presente accordo quando quest'ultimo entrera' in vigore oppure, se e' gia' in vigore, ad una data determinata, e' membro dell'Organizzazione a titolo provvisorio e lo rimarra' sino a quando avra' depositato il suo strumento di ratifica, accettazione, approvazione o adesione.
 
-#### Articolo 40
+### Articolo 40
 
 Entrata in vigore
 
@@ -625,7 +623,7 @@ Entrata in vigore
 
 5\. Il Segretario generale delle Nazioni Unite convoca la prima sessione del Consiglio nella data piu' vicina dopo l'entrata in vigore del presente accordo.
 
-#### Articolo 41
+### Articolo 41
 
 Adesione
 
@@ -633,7 +631,7 @@ Adesione
 
 2\. L'adesione avviene mediante il deposito di un apposito strumento presso il depositario.
 
-#### Articolo 42
+### Articolo 42
 
 Modifiche
 
@@ -649,7 +647,7 @@ Modifiche
 
 6\. Se le condizioni per l'entrata in vigore della modifica non sono soddisfatte entro la data fissata dal Consiglio in conformita' del paragrafo 2 del presente articolo, la modifica deve intendersi ritirata.
 
-#### Articolo 43
+### Articolo 43
 
 Recesso
 
@@ -657,13 +655,13 @@ Recesso
 
 2\. Il ritiro prende effetto 90 giorni dopo che il depositario ha ricevuto la notifica.
 
-#### Articolo 44
+### Articolo 44
 
 Esclusione
 
 Se il Consiglio conclude che un membro ha commesso un'infrazione agli obblighi derivanti dal presente accordo e ritiene che tale inadempienza intralci seriamente il funzionamento dell'accordo, puo', con votazione Speciale, escludere tale membro dall'accordo. Il Consiglio notifica immediatamente la decisione al depositario. Un anno dopo la decisione del Consiglio, il membro cessa di far parte dell'accordo.
 
-#### Articolo 45
+### Articolo 45
 
 Liquidazione dei conti in caso di recesso, di esclusione, oppure nei confronti dei membri che rifiutino di accettare una modifica
 
@@ -679,7 +677,7 @@ c) esclusione dal presente accordo a norma dell'articolo 44.
 
 3\. Un membro che abbia ricevuto un rimborso adeguato a norma del presente articolo non ha diritto ad alcuna quota del ricavo di liquidazione o degli altri averi dell'organizzazione. A tale membro non puo' inoltro essere imputata alcuna quota dell'eventuale disavanzo dell'organizzazione, dopo che e' stato versato il suddetto rimborso.
 
-#### Articolo 46
+### Articolo 46
 
 Durata, proroga e risoluzione
 
@@ -699,7 +697,7 @@ Durata, proroga e risoluzione
 
 8\. Il Consiglio notifica al depositario qualsiasi decisione presa a norma del presente articolo.
 
-#### Articolo 47
+### Articolo 47
 
 Riserve
 
@@ -709,7 +707,7 @@ IN FEDE DI CHE, i sottoscritti, debitamente autorizzati a tale scopo, hanno firm
 
 FATTO a Ginevra il primo giorno di ottobre millenovecentoottantadue, i testi del presente accordo in arabo, francese, inglese, russo e spagnolo, facenti ugualmente fede.
 
-#### Allegato A
+### Allegato A
 
 ALLEGATO A
 
@@ -735,7 +733,7 @@ QUOTE DEI SINGOLI PAESI ESPORTATORI NEI TOTALI NETTO DELLE ESPORTAZIONI DI IUTA 
 +----------------------------------+-------------------------------+
 ```
 
-#### Allegato B
+### Allegato B
 
 ALLEGATO B
 

@@ -36,13 +36,11 @@ Sulla proposta del Ministro delle finanze, di concerto con i Ministri di grazia 
 
 Emana il seguente decreto legislativo:
 
-## Titolo I - ACCERTAMENTO CON ADESIONE
+## Titolo I - ACCERTAMENTO CON ADESIONE E CONCILIAZIONE GIUDIZIALE
 
-### E CONCILIAZIONE GIUDIZIALE - Capo I
+### Capo I - Accertamento con adesione
 
-#### Accertamento con adesione
-
-##### Art. 1
+#### Art. 1
 
 Definizione degli accertamenti
 
@@ -58,7 +56,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 12 febbraio 2024, n. 13 ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
-##### Art. 2
+#### Art. 2
 
 Definizione degli accertamenti nelle imposte sui redditi e nell'imposta sul valore aggiunto
 
@@ -96,7 +94,7 @@ AGGIORNAMENTO (20)
 
 Il D.L. 24 aprile 2017, n. 50, convertito con modificazioni dalla L. 21 giugno 2017, n. 96, ha disposto (con l'art. 1-bis, comma 6) che "Nei confronti dei soggetti di cui al comma 1 che estinguono i debiti tributari della stabile organizzazione, relativi ai periodi d'imposta per i quali sono scaduti i termini di presentazione delle dichiarazioni, versando le somme dovute in base all'accertamento con adesione ai sensi dell'articolo 8, comma 1, del decreto legislativo 19 giugno 1997, n. 218, le sanzioni amministrative applicabili ai sensi dell'articolo 2, comma 5, del medesimo decreto legislativo n. 218 del 1997 sono ridotte alla meta'".
 
-##### Art. 3
+#### Art. 3
 
 Definizione degli accertamenti nelle altre imposte indirette
 
@@ -114,13 +112,11 @@ AGGIORNAMENTO (12)
 
 La L. 13 dicembre 2010, n. 220 ha disposto (con l'art. 1, comma 21) che "Le disposizioni di cui al comma 18 si applicano con riferimento agli atti definibili emessi dagli uffici dell'Agenzia delle entrate a decorrere dal 1° febbraio 2011".
 
-## Titolo I - ACCERTAMENTO CON ADESIONE
+## Titolo I - ACCERTAMENTO CON ADESIONE E CONCILIAZIONE GIUDIZIALE
 
-### E CONCILIAZIONE GIUDIZIALE - Capo II
+### Capo II - Procedimento per la definizione degli accertamenti nelle imposte sui redditi e nell'imposta sul valore aggiunto.
 
-#### Procedimento per la definizione degli accertamenti nelle imposte - sui redditi e nell'imposta sul valore aggiunto.
-
-##### Art. 4
+#### Art. 4
 
 Competenza degli uffici
 
@@ -132,7 +128,7 @@ Competenza degli uffici
 
 4\. Non si applicano le disposizioni dell'articolo 44 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, riguardante la partecipazione dei comuni all'accertamento dei redditi delle persone fisiche.
 
-##### Art. 5
+#### Art. 5
 
 Avvio del procedimento
 
@@ -180,7 +176,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 12 febbraio 2024, n. 13 ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
-##### Art. 5-bis
+#### Art. 5-bis
 
 (( ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 2014, N. 190 )) ((15))
 
@@ -190,7 +186,7 @@ AGGIORNAMENTO (15)
 
 La L. 23 dicembre 2014, n. 190 ha disposto (con l'art. 1, comma 638) che "Le disposizioni di cui agli articoli 5, commi da 1-bis a 1-quinquies, e 11, comma 1-bis, del decreto legislativo 19 giugno 1997, n. 218, nel testo vigente alla data di entrata in vigore della presente legge, continuano ad applicarsi agli inviti al contraddittorio in materia di imposte sui redditi, di imposta sul valore aggiunto e di altre imposte indirette, notificati entro il 31 dicembre 2015, e le disposizioni di cui all'articolo 5-bis dello stesso decreto legislativo n. 218 del 1997 continuano ad applicarsi ai processi verbali di constatazione in materia di imposte sui redditi e di imposta sul valore aggiunto consegnati entro la stessa data".
 
-##### Art. 5-ter
+#### Art. 5-ter
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 FEBBRAIO 2024, N. 13)). ((23))
 
@@ -200,7 +196,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 12 febbraio 2024, n. 13 ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
-##### Art. 5-quater
+#### Art. 5-quater
 
 (( (Adesione ai verbali di constatazione). ))
 
@@ -230,7 +226,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 12 febbraio 2024, n. 13 ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
-##### Art. 6
+#### Art. 6
 
 Istanza del contribuente
 
@@ -260,7 +256,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 12 febbraio 2024, n. 13 ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
-##### Art. 7
+#### Art. 7
 
 Atto di accertamento con adesione
 
@@ -290,7 +286,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 12 febbraio 2024, n. 13 ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
-##### Art. 8 - Adempimenti successivi
+#### Art. 8 - Adempimenti successivi
 
 1\. Il versamento delle somme dovute per effetto dell'accertamento con adesione e' eseguito entro venti giorni dalla redazione dell'atto di cui all'articolo 7.
 
@@ -328,7 +324,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 12 febbraio 2024, n. 13 ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
-##### Art. 9
+#### Art. 9
 
 Perfezionamento della definizione
 
@@ -340,7 +336,7 @@ AGGIORNAMENTO (14)
 
 Il D.L. 6 luglio 2011, n. 98, convertito con modificazioni dalla L. 15 luglio 2011, n. 111, ha disposto (con l'art. 23, comma 20) che "Le disposizioni di cui ai commi da 17 a 19 non si applicano agli atti di adesione, alle definizioni ai sensi dell'articolo 15 del decreto legislativo 19 giugno 1997, n. 218, ed alle conciliazioni giudiziali gia' perfezionate, anche con la prestazione della garanzia, alla data di entrata in vigore del presente decreto".
 
-##### Art. 9-bis
+#### Art. 9-bis
 
 Soggetti aderenti al consolidato nazionale
 
@@ -356,13 +352,11 @@ Il D.L. 31 maggio 2010, n. 78, convertito con modificazioni dalla L. 30 luglio 2
 
 600."
 
-## Titolo I - ACCERTAMENTO CON ADESIONE
+## Titolo I - ACCERTAMENTO CON ADESIONE E CONCILIAZIONE GIUDIZIALE
 
-### E CONCILIAZIONE GIUDIZIALE - Capo III
+### Capo III - Procedimento per la definizione di altre imposte indirette
 
-#### Procedimento per la definizione - di altre imposte indirette
-
-##### Art. 10
+#### Art. 10
 
 Competenza degli uffici
 
@@ -370,7 +364,7 @@ Competenza degli uffici
 
 2\. Fino all'entrata in funzione dell'ufficio indicato nel comma 1, e' competente l'ufficio del registro.
 
-##### Art. 11
+#### Art. 11
 
 Avvio del procedimento
 
@@ -400,7 +394,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 12 febbraio 2024, n. 13 ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
-##### Art. 12
+#### Art. 12
 
 Istanza del contribuente
 
@@ -426,19 +420,17 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 12 febbraio 2024, n. 13 ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
-##### Art. 13
+#### Art. 13
 
 Atto di accertamento con adesione, adempimenti successivi e definizione
 
 1\. La definizione si perfeziona secondo quanto previsto dagli articoli 7, 8 e 9. Il versamento delle somme dovute per effetto dell'adesione e' effettuato presso l'ufficio del registro.
 
-## Titolo I - ACCERTAMENTO CON ADESIONE
+## Titolo I - ACCERTAMENTO CON ADESIONE E CONCILIAZIONE GIUDIZIALE
 
-### E CONCILIAZIONE GIUDIZIALE - Capo IV
+### Capo IV - Conciliazione giudiziale
 
-#### Conciliazione giudiziale
-
-##### Art. 14
+#### Art. 14
 
 Disposizioni in materia di conciliazione giudiziale
 
@@ -556,7 +548,7 @@ Il provvedimento del presidente e' depositato in segreteria entro dieci giorni d
 
 ## Titolo II - DISPOSIZIONI FINALI
 
-##### Art. 15
+#### Art. 15
 
 Sanzioni applicabili nel caso di omessa impugnazione
 
@@ -592,7 +584,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 24 dicembre 2015, n. 159 ha disposto (con l'art. 15, comma 3) che "Le disposizioni di cui all'articolo 2, commi da 2 a 4, non si applicano agli atti di adesione, agli atti definiti ai sensi dell'articolo 15 del decreto legislativo 19 giugno 1997, n. 218, alle conciliazioni giudiziali e alle mediazioni tributarie gia' perfezionati alla data di entrata in vigore del presente decreto".
 
-##### Art. 15-bis
+#### Art. 15-bis
 
 (( (Modalita' di pagamento). ))
 
@@ -608,7 +600,7 @@ AGGIORNAMENTO (19)
 
 Il D.Lgs. 24 dicembre 2015, n. 159 ha disposto (con l'art. 15, comma 3) che "Le disposizioni di cui all'articolo 2, commi da 2 a 4, non si applicano agli atti di adesione, agli atti definiti ai sensi dell'articolo 15 del decreto legislativo 19 giugno 1997, n. 218, alle conciliazioni giudiziali e alle mediazioni tributarie gia' perfezionati alla data di entrata in vigore del presente decreto".
 
-##### Art. 16
+#### Art. 16
 
 Controlli sulla base della copia delle dichiarazioni
 
@@ -618,7 +610,7 @@ Controlli sulla base della copia delle dichiarazioni
 
 > \- Per il testo vigente dell'art. 5 del D.P.R. 22 dicembre 1986, n. 917 (Testo unico delle imposte sui redditi) si veda la nota all'art. 2.
 
-##### Art. 17
+#### Art. 17
 
 Abrogazioni e delegificazione
 

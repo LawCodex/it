@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione tra l'Italia ed il Marocco relativa al reciproco aiuto giudiziario, all'esecuzione delle sentenze e all'estradizione, conclusa a Roma il 12 febbraio 1971.
 
-#### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 51 della convenzione stessa.
 
@@ -45,15 +45,13 @@ Visto, il Guardasigilli: ZAGARI
 
 ## Allegati
 
-#### Convention
+### Convention
 
 CONVENTION D'AIDE MUTUELLE JUDICIAIRE, D'EXEQUATUR DES JUGEMENTS ET D'EXTRADITION ENTRE L'ITALIE ET LE MAROC.
 
 Parte di provvedimento in formato grafico
 
-## Titolo primo - DISPOSIZIONI PRELIMINARI
-
-### LIBERO ACCESSO AI TRIBUNALI
+## Titolo primo - DISPOSIZIONI PRELIMINARI LIBERO ACCESSO AI TRIBUNALI
 
 TRADUZIONE NON UFFICIALE
 
@@ -81,27 +79,25 @@ Sua Maesta' il Re del Marocco:
 
 Il signor Youssef BEN ABBES ATARJI, Ministro degli affari esteri, i quali, dopo essersi scambiati i loro pieni poteri riconosciuti in buona e debita forma, hanno convenuto quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 I cittadini di ciascuna delle parti contraenti avranno, sul territorio dell'altra parte, libero e facile accesso a tutte le giurisdizioni per il perseguimento e la difesa dei loro diritti.
 
-#### Articolo 2
+### Articolo 2
 
 Non potranno essere imposti ai cittadini di ciascuna delle parti contraenti ne' cauzione, ne' deposito sotto qualsiasi denominazione, in ragione sia della loro qualita' di stranieri, sia della mancanza di domicilio o residenza nel paese.
 
 Il comma precedente si applica, salvo le disposizioni di ordine pubblico del paese in cui l'azione e introdotta, alle persone giuridiche costituite o autorizzate secondo le leggi di una delle due parti contraenti.
 
-## Titolo II - AIUTO RECIPROCO
+## Titolo II - AIUTO RECIPROCO TRASMISSIONE DI ATTI GIUDIZIARI ED EXTRA-GIUDIZIARI
 
-### TRASMISSIONE DI ATTI GIUDIZIARI ED EXTRA-GIUDIZIARI
-
-#### Articolo 3
+### Articolo 3
 
 Gli atti giudiziari ed extra-giudiziari, sia in materia civile e commerciale che in materia penale, salvo le disposizioni che regolano il regime di estradizione, destinati a persone residenti sul territorio di uno dei due paesi, saranno trasmessi per via diplomatica normale.
 
 Le disposizioni del presente articolo non escludono la facolta' per le parti contraenti di far pervenire direttamente, per mezzo dei loro rappresentanti diplomatici o consolari, gli atti giudiziari o extra-giudiziari destinati a propri cittadini. In caso di conflitto di legislazione, la nazionalita' del destinatario dell'atto sara' determinata dalla legge del paese in cui deve aver luogo la consegna.
 
-#### Articolo 4
+### Articolo 4
 
 Gli atti giudiziari ed extra-giudiziari non saranno tradotti ma la lettera o la nota di trasmissione sara' redatta nella lingua dell'autorita' richiesta e dovra' contenere le indicazioni seguenti: autorita' da cui emana l'atto;
 
@@ -113,11 +109,11 @@ nome e indirizzo del destinatario;
 
 e, in materia penale, qualificazione del reato.
 
-#### Articolo 5
+### Articolo 5
 
 Se l'autorita' richiesta non e' competente, trasmettera' l'atto d'ufficio a quella competente informandone subito l'autorita' richiedente, per via diplomatica.
 
-#### Articolo 6
+### Articolo 6
 
 L'autorita' richiesta si limitera' a far effettuare la consegna dell'atto al destinatario.
 
@@ -125,17 +121,17 @@ Se questi l'accetta volontariamente, la prova della consegna si fara' a mezzo si
 
 Se la consegna dell'atto non puo' avvenire per qualunque causa, l'autorita' richiesta lo restituira' immediatamente a quella richiedente indicando il motivo della mancata consegna.
 
-#### Articolo 7
+### Articolo 7
 
 La consegna degli atti giudiziari ed extra-giudiziari non dara' luogo al rimborso di alcuna spesa.
 
-#### Articolo 8
+### Articolo 8
 
 Le disposizioni degli articoli precedenti non precludono, in materia civile e commerciale, la facolta', per gli interessati residenti sul territorio di una delle due parti contraenti, di far assicurare in uno dei due paesi la notifica e la consegna di tutti gli atti alle persone residenti in tale paese. La notifica e la consegna devono essere effettuate secondo le modalita' in vigore nel paese in cui esse devono aver luogo.
 
 ## TRASMISSIONE ED ESECUZIONE DI COMMISSIONI ROGATORIE
 
-#### Articolo 9
+### Articolo 9
 
 Le commissioni rogatorie in materia civile e commerciale da eseguirsi sul territorio di una delle due parti contraenti, saranno espletate dalle autorita' giudiziarie.
 
@@ -145,7 +141,7 @@ Se l'autorita' richiesta e' incompetente, trasmettera' di ufficio la commissione
 
 Le disposizioni di questo articolo non precludono la facolta' per le parti contraenti di far eseguire direttamente dai loro rappresentanti diplomatici o consolari le commissioni rogatorie relative all'audizione dei loro cittadini. In caso di conflitto di legislazione, la nazionalita' della persona di cui e' richiesta l'audizione sara' determinata dalla legge del paese in cui deve essere eseguita la commissione rogatoria.
 
-#### Articolo 10
+### Articolo 10
 
 Le commissioni rogatorie in materia penale da eseguirsi nel territorio di una delle due parti contraenti, saranno trasmesse per via diplomatica ed espletate dalle autorita' giudiziarie.
 
@@ -155,15 +151,15 @@ Nei casi di urgenza, esse potranno essere inoltrate direttamente.
 
 Esse saranno restituite, in ogni caso, per via diplomatica.
 
-#### Articolo 11
+### Articolo 11
 
 L'autorita' richiesta potra' rifiutare di eseguire una commissione rogatoria se, in base alla legge del proprio paese, questa non e' di sua competenza o se e' per sua natura tale da arrecare pregiudizio alla sovranita', alla sicurezza o all'ordine pubblico del paese in cui deve aver luogo.
 
-#### Articolo 12
+### Articolo 12
 
 Le persone di cui e' richiesta la testimonianza saranno invitate a comparire secondo la procedura del paese richiesto; se rifiutano di comparire l'autorita' richiesta dovra' usare i mezzi di coercizione previsti dalla legge del proprio paese.
 
-#### Articolo 13
+### Articolo 13
 
 Su espressa domanda dell'autorita' richiedente, l'autorita' richiesta dovra':
 
@@ -171,17 +167,17 @@ Su espressa domanda dell'autorita' richiedente, l'autorita' richiesta dovra':
 
 2\) Informare, in tempo utile, l'autorita' richiedente della data e del luogo in cui si procedera' all'esecuzione della commissione rogatoria, affinche' le parti interessate possano assistervi, nel quadro della legislazione del paese richiesto.
 
-#### Articolo 14
+### Articolo 14
 
 Le commissioni rogatorie dovranno essere accompagnate dalla traduzione nella lingua dell'autorita' richiesta. Tale traduzione sara' autenticata da un traduttore giurato o di cui sara' ricevuto il giuramento conformemente alle leggi del paese richiedente.
 
-#### Articolo 15
+### Articolo 15
 
 L'esecuzione delle commissioni rogatorie non potra' dar luogo ad alcun rimborso di spesa, salvo cio' che concerne gli onorari di esperti.
 
 ## COMPARIZIONE DI TESTIMONI IN MATERIA PENALE
 
-#### Articolo 16
+### Articolo 16
 
 Se la comparizione personale di un testimone e' necessaria in un procedimento penale, il Governo del paese in cui risiede il testimone lo invitera' a rispondere alla convocazione che gli e' stata rivolta.
 
@@ -189,7 +185,7 @@ In tal caso, le indennita' di trasferta e di soggiorno, calcolate sulla base del
 
 Nessun testimone, qualunque sia la sua nazionalita', che, citato in uno dei due paesi, si presenti volontariamente davanti ai giudici dell'altro paese potra' essere perseguito o arrestato per fatti o condanne anteriori alla sua partenza dal territorio dello Stato richiesto. Tale immunita' cessera' trenta giorni dopo la data in cui avra' avuto termine la deposizione e in cui sia stato possibile il ritorno del testimone.
 
-#### Articolo 17
+### Articolo 17
 
 Le domande di comparizione di testimoni detenuti saranno trasmesse per via diplomatica.
 
@@ -197,7 +193,7 @@ Sara' dato seguito alla domanda sempre che particolari circostanze non vi si opp
 
 ## Titolo III - EXEQUATUR IN MATERIA CIVILE E COMMERCIALE
 
-#### Articolo 18
+### Articolo 18
 
 In materia civile e commerciale, le decisioni emesse dalle autorita' giudiziarie in Italia o in Marocco saranno rese esecutive sul territorio dell'altro paese, se rispondono ai seguenti requisiti:
 
@@ -211,17 +207,17 @@ d) che la decisione non sia contraria all'ordine pubblico del paese in cui e' ri
 
 e) che nessun giudice dello Stato richiesto sia stato investito di una domanda fra le stesse parti e per lo stesso oggetto prima della proposizione della domanda davanti al giudice che ha emesso la decisione di cui si chiede l'exequatur.
 
-#### Articolo 19
+### Articolo 19
 
 Le decisioni di cui all'articolo precedente non potranno dar luogo ad alcuna esecuzione forzata da parte delle autorita' dell'altro paese, ne' formare oggetto, da parte di dette autorita', di alcuna pubblica formalita', quali l'iscrizione, la trascrizione o la rettifica sui pubblici registri, se non dopo che siano state dichiarate esecutive.
 
-#### Articolo 20
+### Articolo 20
 
 L'exequatur e' concesso dall'autorita' competente secondo la legge del paese in cui e' richiesta su domanda di ogni parte interessata.
 
 La procedura per la relativa domanda e' quella seguita dalla legge del paese in cui e' richiesta l'esecuzione.
 
-#### Articolo 21
+### Articolo 21
 
 L'autorita' competente si limita a verificare se la decisione di cui e' richiesto l'exequatur risponde ai requisiti di cui agli articoli precedenti per godere dell'autorita' di cosa giudicata. Essa procede d'ufficio a tale esame e deve farne constare il risultato nella decisione.
 
@@ -229,13 +225,13 @@ Nel concedere l'exequatur, l'autorita' competente dispone, se necessario, che si
 
 L'exequatur puo' essere concesso parzialmente per l'uno o l'altro soltanto dei capi della decisione straniera.
 
-#### Articolo 22
+### Articolo 22
 
 La decisione d'exequatur ha effetto fra tutte le parti che ne hanno fatto istanza e per tutto il territorio in cui queste disposizioni sono applicabili.
 
 Essa consente alla decisione resa esecutiva di produrre, a partire dalla data di concessione dell'exequatur e relativamente alle misure di esecuzione, gli stessi effetti di quella pronunciata dal tribunale che ha concesso l'exequatur alla data della concessione di questo.
 
-#### Articolo 23
+### Articolo 23
 
 La parte che invoca l'autorita' di una decisione giudiziaria o che ne domanda l'esecuzione deve produrre:
 
@@ -249,43 +245,43 @@ d) una copia autentica della citazione della parte rimasta contumace;
 
 e) una traduzione completa degli atti suddetti certificata conforme da un traduttore giurato.
 
-#### Articolo 24
+### Articolo 24
 
 Il riconoscimento e l'esecuzione delle sentenze arbitrali sono regolati dalla convenzione di New York adottata il 10 giugno 1958 dall'Assemblea generale delle Nazioni Unite e ratificata dalle due parti contraenti.
 
-#### Articolo 25
+### Articolo 25
 
 Gli atti autentici, particolarmente gli atti notarili, esecutivi in uno dei due paesi, sono dichiarati esecutivi nell'altro paese dall'autorita' competente, secondo la legge del paese in cui l'esecuzione deve aver luogo.
 
 Detta autorita' verifica soltanto se gli atti rispondono ai requisiti necessari per la loro autenticita' nel paese in cui sono stati ricevuti e se le disposizioni in base alle quali l'esecuzione e' richiesta non siano contrarie allo ordine pubblico del paese in cui e' richiesto l'exequatur.
 
-#### Articolo 26
+### Articolo 26
 
 Le ipoteche immobiliari (terrestres) convenzionali, consentite in uno dei due paesi, saranno iscritte e avranno effetto nell'altro paese allorche' la validita' degli atti che ne contengono la stipulazione sara' stata constatata dall'autorita' competente, secondo la legge del paese in cui e' richiesta l'iscrizione. Tale autorita' verifica soltanto se gli atti e le procure, che ne sono il complemento, contengono i requisiti necessari per la loro validita' nel paese in cui sono stati ricevuti.
 
 Le stesse disposizioni valgono anche per gli atti di consenso alla cancellazione o alla riduzione approvata in uno dei due paesi.
 
-#### Articolo 27
+### Articolo 27
 
 Le disposizioni del presente titolo si applicano qualunque sia la nazionalita' delle parti.
 
-#### Articolo 28
+### Articolo 28
 
 Tutte le disposizioni della presente convenzione si applicano sia alle persone fisiche sia alle persone giuridiche, queste ultime costituite secondo le leggi in vigore in Marocco e in Italia e aventi la loro sede in uno di questi paesi.
 
 ## Titolo IV - ESTRADIZIONE
 
-#### Articolo 29
+### Articolo 29
 
 Le parti contraenti s'impegnano a consegnarsi reciprocamente, secondo le norme ed alle condizioni stabilite negli articoli seguenti, le persone che, trovandosi sul territorio di uno dei due Stati, sono perseguite o condannate dalle autorita' giudiziarie dell'altro Stato.
 
-#### Articolo 30
+### Articolo 30
 
 Le parti contraenti non concederanno l'estradizione dei propri cittadini. La qualita' di cittadino sara' accertata al momento della infrazione per la quale e' richiesta l'estradizione.
 
 Tuttavia, la parte richiesta si impegna, nella misura in cui ha competenza a giudicarli, a far perseguire i propri cittadini che avranno commesso nel territorio dell'altro Stato infrazioni punite come crimine o delitto nei due Stati, quando l'altra parte le inviera' per via diplomatica una richiesta di procedimento penale corredata da fascicoli, documenti, oggetti e informazioni in suo possesso. La parte richiedente sara' informata del seguito che sara' dato alla sua richiesta.
 
-#### Articolo 31
+### Articolo 31
 
 Saranno sottoposti ad estradizione:
 
@@ -295,21 +291,21 @@ Saranno sottoposti ad estradizione:
 
 Se il crimine, per cui e' richiesta l'estradizione, e' punito con la pena capitale dalla legge dello Stato richiedente, tale pena sara' sostituita con quella prevista per il medesimo reato dalla legge del paese richiesto.
 
-#### Articolo 32
+### Articolo 32
 
 L'estradizione non sara' accordata se si tratta di reato considerato politico dalla parte richiesta o come fatto connesso a reato di tale natura.
 
 Per l'applicazione della presente convenzione, l'attentato alla vita di un Capo di Stato o di un membro della sua famiglia non sara' considerato come reato politico.
 
-#### Articolo 33
+### Articolo 33
 
 L'estradizione potra' non essere accordata se l'infrazione per la quale e' richiesta consiste unicamente nella violazione di obblighi militari.
 
-#### Articolo 34
+### Articolo 34
 
 In materia di tasse e imposte, di dogana, di cambio, l'estradizione sara' accordata alle condizioni previste dalla presente convenzione, solo se in tal senso sara' stato deciso dalle parti contraenti, con semplice scambio di lettere, per ogni singolo reato o categoria di reati specificamente indicati.
 
-#### Articolo 35
+### Articolo 35
 
 L'estradizione sara' rifiutata:
 
@@ -323,7 +319,7 @@ d) se trattandosi di reati commessi fuori del territorio dello Stato richiedente
 
 L'estradizione potra' essere rifiutata se i reati formano oggetto di azioni penali nello Stato richiesto o sono stati giudicati in uno Stato terzo.
 
-#### Articolo 36
+### Articolo 36
 
 La richiesta di estradizione sara' fatta per iscritto o presentata per via diplomatica. Si dovra' esibire a sostegno di tale richiesta:
 
@@ -333,7 +329,7 @@ b) un'esposizione sui fatti per i quali e' richiesta l'estradizione, sul tempo e
 
 c) una copia delle disposizioni di legge applicabili nonche' i connotati, il piu' possibile precisi, della persona di cui si tratta, con ogni altra indicazione atta ad individuarne la identita' e la nazionalita'.
 
-#### Articolo 37
+### Articolo 37
 
 In caso d'urgenza, su richiesta delle autorita' competenti dello Stato richiedente, si procedera' all'arresto provvisorio, in attesa dell'arrivo della domanda di estradizione e dei documenti menzionati al paragrafo a) dell'articolo 36.
 
@@ -341,21 +337,21 @@ La domanda di arresto provvisorio sara' trasmessa alle autorita' competenti dell
 
 Con essa si dovra' menzionare l'esistenza di uno dei documenti di cui al paragrafo a) dell'articolo 36 e si dovra' manifestare l'intenzione di inviare una domanda di estradizione. Con essa sara' fatta menzione altresi' del reato per il quale e' richiesta l'estradizione, del tempo e del luogo in cui e' stato commesso, nonche' dei connotati, il piu' possibile precisi, della persona di cui si tratta. L'autorita' richiedente sara' informata, senza indugio, del seguito dato alla sua domanda.
 
-#### Articolo 38
+### Articolo 38
 
 Si potra' porre fine all'arresto provvisorio se nel termine di 30 giorni dall'arresto, il Governo richiesto non avra' ricevuto la domanda di estradizione e i documenti menzionati all'articolo 36.
 
 La liberazione non esclude l'arresto e l'estradizione se la domanda di estradizione perviene ulteriormente.
 
-#### Articolo 39
+### Articolo 39
 
 Se le informazioni fornite dalla parte richiedente sono giudicate insufficienti al fine di consentire che la parte richiesta possa prendere una decisione in applicazione della presente convenzione, quest'ultima parte richiedera' il necessario supplemento d'informazione e potra' fissare un termine per ottenerle.
 
-#### Articolo 40
+### Articolo 40
 
 Se l'estradizione e' richiesta contemporaneamente da piu' Stati, sia per gli stessi fatti, sia per fatti diversi, lo Stato richiesto decidera' liberamente, tenuto conto di tutte le circostanze e in particolare della possibilita' di una estradizione ulteriore tra gli Stati richiedenti, delle rispettive date delle domande, della relativa gravita' e del luogo dei reati.
 
-#### Articolo 41
+### Articolo 41
 
 Nel concedere l'estradizione, tutti gli oggetti che provengono da reato o che possono servire come mezzi di prova, trovati in possesso della persona estradata, al momento del suo arresto, o scoperti successivamente saranno sequestrati e consegnati, su richiesta dello Stato richiedente, a quest'ultimo.
 
@@ -367,7 +363,7 @@ Lo Stato richiesto potra' trattenere temporaneamente gli oggetti sequestrati qua
 
 Esso potra' ugualmente, trasmettendoli, riservarsi di averli in restituzione per lo stesso motivo, obbligandosi a sua volta a ritrasmetterli non appena possibile.
 
-#### Articolo 42
+### Articolo 42
 
 Lo Stato richiesto informera' per via diplomatica lo Stato richiedente della sua decisione sull'estradizione.
 
@@ -381,7 +377,7 @@ Salvo quanto previsto nell'ultimo comma del presente articolo, lo Stato richiede
 
 Se circostanze eccezionali impediscono la consegna o il ricevimento dell'estradando, lo Stato interessato ne informera' l'altro Stato prima della scadenza del termine. I due Stati stabiliranno d'accordo una altra data di consegna e saranno applicabili le disposizioni del comma precedente.
 
-#### Articolo 43
+### Articolo 43
 
 Se l'individuo reclamato e' accusato o condannato nello Stato richiesto per un reato diverso da quello per il quale l'estradizione e' richiesta, quest'ultimo Stato dovra' ugualmente decidere sulla domanda e far conoscere allo Stato richiedente la relativa decisione giusta quanto previsto ai commi 1 e 2 dell'articolo 48. La consegna dell'accusato tuttavia, nel caso di accettazione, sara' differita fino a che sia stata soddisfatta la giustizia dello Stato richiesto.
 
@@ -389,7 +385,7 @@ Detta consegna sara' effettuata nella data che sara' concordata in conformita' d
 
 Le disposizioni del presente articolo non impediranno che l'interessato possa essere inviato temporaneamente a comparire davanti alle autorita' giudiziarie dello Stato richiedente, sotto l'espressa condizione che sara' restituito non appena dette autorita' si saranno pronunciate.
 
-#### Articolo 44
+### Articolo 44
 
 L'individuo che sara' stato consegnato non potra' essere ne' perseguito, ne giudicato in contraddittorio, ne' essere detenuto in vista dell'esecuzione di una pena per un reato anteriore alla consegna, diverso da quello per il quale era stata richiesta l'estradizione, salvo nei casi seguenti:
 
@@ -399,11 +395,11 @@ L'individuo che sara' stato consegnato non potra' essere ne' perseguito, ne giud
 
 Qualora la qualificazione data al fatto incriminato sia modificata nel corso della procedura, l'individuo estradato non sara' perseguito o giudicato se non nella misura in cui gli elementi costitutivi dell'infrazione, nuovamente qualificata, permetterebbero l'estradizione.
 
-#### Articolo 45
+### Articolo 45
 
 Salvo che nel caso in cui l'interessato sia rimasto nel territorio dello Stato richiedente nelle condizioni previste all'articolo precedente o che vi sia ritornato in dette condizioni, il consenso dello Stato richiesto sara' necessario perche' lo Stato richiedente possa consegnare ad uno Stato terzo l'individuo che gli sara' stato consegnato.
 
-#### Articolo 46
+### Articolo 46
 
 L'estradizione, in transito attraverso il territorio di una delle parti contraenti, di un individuo consegnato all'altra parte, sara' concessa su domanda inviata per via diplomatica. A sostegno della domanda saranno forniti i documenti necessari per stabilire che si tratta di un reato che da' luogo ad estradizione. Non sara' tenuto conto delle condizioni previste all'articolo 27 e relative alla durata delle pene.
 
@@ -415,13 +411,13 @@ Nel caso in cui sia utilizzata la via aerea, si applicheranno le disposizioni se
 
 Nel caso in cui lo Stato richiesto del transito chiedesse pure la estradizione, si potra' soprassedere al transito fino a che l'individuo reclamato abbia soddisfatto la giustizia di detto Stato.
 
-#### Articolo 47
+### Articolo 47
 
 Le spese derivanti dalla procedura di estradizione saranno a carico dello Stato richiedente, essendo inteso che lo Stato richiesto non reclamera' ne' spese di procedura, ne' spese di carcerazione.
 
 ## Titolo V - SCAMBIO DI NOTIZIE RELATIVE AI CASELLARI GIUDIZIARI
 
-#### Articolo 48
+### Articolo 48
 
 Le due parti contraenti si obbligano a comunicarsi reciprocamente le sentenze di condanna per crimini e delitti pronunciate dalle autorita' giudiziarie di ciascuna delle parti contro i cittadini dell'altra parte, nonche' le misure successive a dette condanne.
 
@@ -431,11 +427,11 @@ Tuttavia, in caso d'urgenza, tali notizie potranno essere comunicate per mezzo d
 
 ## Titolo VI - ASSISTENZA IN GIUDIZIO
 
-#### Articolo 49
+### Articolo 49
 
 I cittadini di ciascuno dei due paesi godranno sul territorio dell'altro del beneficio dell'assistenza in giudizio alla pari dei nazionali purche' si attengano alla legge del paese nel quale sara' richiesta l'assistenza.
 
-#### Articolo 50
+### Articolo 50
 
 Il certificato di poverta' sara' rilasciato al richiedente dalle autorita' del luogo di residenza abituale se egli risiede nel territorio di uno dei due paesi. Tale certificato sara' rilasciato dal console del suo paese, territorialmente competente, se l'interessato risiede in un paese terzo.
 
@@ -443,7 +439,7 @@ Qualora l'interessato risieda nel paese in cui e' presentata la domanda, potrann
 
 ## Titolo VII - DISPOSIZIONI GENERALI
 
-#### Articolo 51
+### Articolo 51
 
 La presente convenzione sara' ratificata ed entrera' in vigore dopo lo scambio degli strumenti di ratifica che avra' luogo non appena possibile.
 

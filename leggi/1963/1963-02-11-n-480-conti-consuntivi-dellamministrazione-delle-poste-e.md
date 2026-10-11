@@ -29,7 +29,7 @@ la seguente legge:
 
 ## AMMINISTRAZIONE DELLE POSTE E DEI TELEGRAFI
 
-### Art. 1
+## Art. 1
 
 Le entrate ordinarie e straordinarie
 
@@ -59,7 +59,7 @@ delle quali furono riscosse e versato. L. 98.506.950.752
 
 e rimasero da riscuotere.............. L. 24.719.252.245
 
-### Art. 2
+## Art. 2
 
 Le spese ordinarie e straordinarie
 
@@ -79,7 +79,7 @@ delle quali furono pagate............. L. 99.961.356.938
 
 e rimasero da pagare.................. L. 23.294.816.039
 
-### Art. 3
+## Art. 3
 
 I residui attivi alla chiusura dell'
 
@@ -95,7 +95,7 @@ furono riscossi e versati............. L. 27.013.961.537
 
 rimasero da riscuotere al 30 giugno 1956 L. 6.036.894.855
 
-### Art. 4
+## Art. 4
 
 I residui passivi alla chiusura dell'
 
@@ -109,7 +109,7 @@ dei quali furono pagati................ L. 15.399.815.816
 
 e rimasero da pagare................... L. 19.664.027.881
 
-### Art. 5
+## Art. 5
 
 I residui attivi alla chiusura dell'esercizio 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -131,7 +131,7 @@ residui degli esercizi precedenti
 
 Residui attivi al 30 giugno 1956.... L. 30.786.147.100
 
-### Art. 6
+## Art. 6
 
 I residui passivi alla chiusura dell'esercizio 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -153,7 +153,7 @@ Residui passivi al 30 giugno 1956... L. 42.958.873.920
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 7
+## Art. 7
 
 Le entrate ordinarie e straordinarie
 
@@ -190,7 +190,7 @@ rimasero da versare L. 314.781.915
 
 e rimasero da riscuotere.............. L. 7.255.935.441
 
-### Art. 8
+## Art. 8
 
 Le spese ordinarie e straordinarie
 
@@ -210,7 +210,7 @@ delle quali furono pagate............. L. 12.618.288.302
 
 e rimasero da pagare.................. L. 25.946.012.937
 
-### Art. 9
+## Art. 9
 
 I residui attivi alla chiusura
 
@@ -233,7 +233,7 @@ rimasero da versare.L. 1.371.470.937
 
 e rimasero da riscuotere............. L. 628.322.700
 
-### Art. 10
+## Art. 10
 
 I residui passivi alla chiusura
 
@@ -247,7 +247,7 @@ dei quali furono pagati............... L. 29.240.777.069
 
 e rimasero da pagare.................. L. 23.165.497.030
 
-### Art. 11
+## Art. 11
 
 I residui attivi alla chiusura dell'esercizio 1955-56, sono stabiliti nelle seguenti somme:
 
@@ -273,7 +273,7 @@ s del riepilogo dell'entrata)......... L. 1.686.252.852
 
 Residui attivi al 30 giugno 1956.... L. 9.570.510.993
 
-### Art. 12
+## Art. 12
 
 I residui passivi alla chiusura dell'esercizio 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -293,7 +293,7 @@ Residui passivi al 30 giugno 1956... L. 49.111.509.967
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 13
+## Art. 13
 
 Le entrate ordinarie e straordinarie
 
@@ -325,7 +325,7 @@ delle quali furono riscosse e verbale. L. 775.610.776.529
 
 e rimasero da riscuotere.............. L. 66.070.921.91
 
-### Art. 14
+## Art. 14
 
 Le spese ordinarie e straordinarie
 
@@ -349,7 +349,7 @@ delle quali furono pagate............. L. 754.812.955.201
 
 e rimasero da pagare.................. L. 86.838.746.269
 
-### Art. 15
+## Art. 15
 
 Il riassunto generale dei risultati dette entrate e delle spese delle ferrovie dello
 
@@ -405,7 +405,7 @@ Differenza coperta con sovvenzioni o
 
 somministrazioni del Tesoro.................. L. 77.574.600.000
 
-### Art. 16
+## Art. 16
 
 I residui attivi alla chiusura dello
 
@@ -421,7 +421,7 @@ furono riscossi e versati............. L. 67.134.118.165
 
 rimasero da riscuotere al 30 giugno 1956 L. 26.277.073.555
 
-### Art. 17
+## Art. 17
 
 I residui passivi alla chiusura del-
 
@@ -435,7 +435,7 @@ dei quali furono pagati............... L. 70.931.462.270
 
 e rimasero da pagare.................. L. 54.323.219.670
 
-### Art. 18
+## Art. 18
 
 I residui attivi alla chiusura dell'esercizio 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -455,7 +455,7 @@ residui degli esercizi precedenti
 
 Residui attivi al 30 giugno 1956.... L. 92.347.998.496
 
-### Art. 19
+## Art. 19
 
 I residui passivi alla chiusura dell'esercizio 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -473,7 +473,7 @@ degli esercizi precedenti(articolo 17) L. 54.323.219.676
 
 Residui passivi al 30 giugno 1956... L. 141.161.965.945
 
-### Art. 20
+## Art. 20
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza ai seguenti capitoli dello stato di previsione della spesa dell'Amministrazione delle ferrovie dello Stato, per l'esercizio finanziario 1955-56:
 

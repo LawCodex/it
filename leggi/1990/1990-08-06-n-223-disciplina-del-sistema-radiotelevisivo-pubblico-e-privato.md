@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - DIFFUSIONE DI PROGRAMMI
+## TITOLO I - DIFFUSIONE DI PROGRAMMI RADIOFONICI E TELEVISIVI
 
-### RADIOFONICI E TELEVISIVI
-
-##### Art. 1
+#### Art. 1
 
 (( ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112 ))
 
@@ -40,15 +38,15 @@ la seguente legge:
 
 ### Capo I - DISPOSIZIONI GENERALI
 
-##### Art. 2
+#### Art. 2
 
 (( ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 ))
 
-##### Art. 3
+#### Art. 3
 
 (( ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 ))
 
-##### Art. 4
+#### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 GIUGNO 2001, N. 327)) ((15))
 
@@ -64,7 +62,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-##### Art. 5 - Collegamenti di telecomunicazione
+#### Art. 5 - Collegamenti di telecomunicazione
 
 1\. La concessione di cui all'articolo 16 ovvero la concessione per servizio pubblico costituiscono titolo per utilizzare i collegamenti di telecomunicazione necessari a coprire l'area da servire, utilizzabili unicamente nei limiti previsti dalle concessioni.
 
@@ -74,7 +72,7 @@ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, 
 
 > \- Per il testo degli articoli 38 e 43 della legge n. 103/1975 vedi nota all'art. 2, comma 1.
 
-##### Art. 6 - Garante per la radiodiffusione e l'editoria
+#### Art. 6 - Garante per la radiodiffusione e l'editoria
 
 1\. (( COMMA ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 )).
 
@@ -102,7 +100,7 @@ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, 
 
 13\. (( COMMA ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 )).
 
-##### Art. 7 - Comitati regionali per i servizi radiotelevisivi
+#### Art. 7 - Comitati regionali per i servizi radiotelevisivi
 
 1\. Ogni consiglio regionale elegge, con voto limitato almeno a due terzi dei membri da eleggere e da scegliersi fra esperti di comunicazione radiotelevisiva, un comitato regionale per i servizi radiotelevisivi. Il comitato regionale e' organo di consulenza della regione in materia radiotelevisiva, in particolare per quanto riguarda i compiti assegnati alle Regioni dalla presente legge. Il comitato altresi' formula proposte al consiglio di amministrazione della concessionaria pubblica in merito a programmazioni regionali che possano essere trasmesse sia in ambito nazionale che regionale; regola l'accesso alle trasmissioni regionali programmate dalla concessionaria pubblica.
 
@@ -116,7 +114,7 @@ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, 
 
 6\. E' abrogato l'articolo 5 della legge 14 aprile 1975, n. 103.
 
-##### Art. 8
+#### Art. 8
 
 Disposizioni sulla pubblicita'
 
@@ -188,41 +186,39 @@ AGGIORNAMENTO (3)
 
 Il D.L. 19 ottobre 1992, n. 408, convertito con modificazioni dalla L. 17 dicembre 1992, n. 383, ha disposto (con l'art. 3, comma 3) che le modifiche di cui ai commi 13 e 15 del presente articolo si applicano a partire dal 1 luglio 1993.
 
-##### Art. 9
+#### Art. 9
 
 (( ARTICOLO ABROGATO DALLA L. 7 GIUGNO 2000, N. 150 ))
 
-##### Art. 10
+#### Art. 10
 
 (( ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 ))
 
-##### Art. 11
+#### Art. 11
 
 (( ARTICOLO ABROGATO DAL. D.LGS. 11 APRILE 2006, N. 198 ))
 
-##### Art. 12
+#### Art. 12
 
 (( ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 ))
 
-##### Art. 13
+#### Art. 13
 
 (( ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 ))
 
-##### Art. 14
+#### Art. 14
 
 (( ARTICOLO ABROGATO DAL D.L. 23 OTTOBRE 1996, N. 545, CONVERTITO CON MODIFICAZIONI DALLA L. 23 DICEMBRE 1996, N. 650 ))
 
-##### Art. 15
+#### Art. 15
 
 (( ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 ))
 
 ## TITOLO II - NORME PER LA RADIODIFFUSIONE
 
-### Capo II - Norme per la
+### Capo II - Norme per la Radiodiffusione Privata
 
-#### Radiodiffusione Privata
-
-##### Art. 16 - Concessione per l'installazione e l'esercizio di impianti di radiodiffusione sonora e televisiva privata
+#### Art. 16 - Concessione per l'installazione e l'esercizio di impianti di radiodiffusione sonora e televisiva privata
 
 1\. La radiodiffusione sonora o televisiva da parte dei soggetti diversi dalla concessionaria pubblica e' subordinata al rilascio di concessione ai sensi del presente articolo. La concessione rilasciata anche per l'installazione dei relativi impianti.
 
@@ -284,11 +280,11 @@ AGGIORNAMENTO (8)
 
 Il D.L. 23 ottobre 1996, n. 545, convertito con modificazioni dalla L. 23 dicembre 1996, n. 650, ha disposto (con l'art. 1, comma 17) che " Per il periodo di validita' delle concessioni di cui all'articolo 1, comma 3, del decreto-legge 19 ottobre 1992, n. 407, convertito, con modificazioni, dalla legge 17 di cembre 1992, n. 482, e successive modificazioni, la percentuale di cui all'articolo 16, comma 5, della legge 6 agosto 1990, n. 223, e' fissata al 30 per cento."
 
-##### Art. 17
+#### Art. 17
 
 (( ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 )).
 
-##### Art. 18 - Norme sugli impianti e le radiofrequenze dei concessionari
+#### Art. 18 - Norme sugli impianti e le radiofrequenze dei concessionari
 
 1\. (( COMMA ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 )).
 
@@ -298,11 +294,11 @@ Il D.L. 23 ottobre 1996, n. 545, convertito con modificazioni dalla L. 23 dicemb
 
 4\. In caso di pubblica emergenza e per un periodo di tempo non superiore alla durata della stessa, il Presidente del Consiglio dei ministri, su proposta dei Ministri della difesa, dell'interno e delle poste e delle telecomunicazioni, puo' disporre che le radiofrequenze assegnate ai concessionari privati siano temporaneamente utilizzate dai competenti organi dello Stato che ne abbiano necessita'.
 
-##### Art. 19
+#### Art. 19
 
 (( ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 ))
 
-##### Art. 20 - Obblighi concernenti la programmazione dei concessionari
+#### Art. 20 - Obblighi concernenti la programmazione dei concessionari
 
 1\. I concessionari privati per la radiodiffusione sonora e televisiva in ambito locale sono tenuti a trasmettere programmi per non meno di otto ore giornaliere e per non meno di sessantaquattro ore settimanali. Su quest'ultimo limite si calcola la percentuale di programmi informativi locali prevista dal comma 18 dell'articolo 16. (5)
 
@@ -322,11 +318,11 @@ AGGIORNAMENTO (5)
 
 Il D.L. 27 agosto 1993, n. 323 convertito con modificazioni dalla L. 27 ottobre 1993, n. 422 ha disposto 8con l'art. 5, comma 1-bis) che " Fermo restando quanto previsto dagli articoli 16, comma 18, e 20, comma 1, della legge 6 agosto 1990, n. 223, le emittenti televisive in ambito locale devono riservare, a decorrere dal 30 novembre 1993, quattro ore settimanali di programmazione comprese tra le ore 9 e le ore 22 alla trasmissione di programmi di informazione, divulgazione e approfondimento su problematiche sociali."
 
-##### Art. 21
+#### Art. 21
 
 (( ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 ))
 
-##### Art. 22 - Canoni e tasse
+#### Art. 22 - Canoni e tasse
 
 1\. (( COMMA ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 )).
 
@@ -348,7 +344,7 @@ AGGIORNAMENTO (9)
 
 IL d.l. 27 agosto 1993, n. 323 nel testo introdotto dalla legge di conversione 27 ottobre 1993, n. 422 ha disposto che" in sede di prima applicazione, per il periodo intercorrente tra la data di rilascio delle concessioni e il 31 dicembre 1994, le emittenti televisive in ambito locale versano il canone di concessione determinato ai sensi del presente articolo 22".
 
-##### Art. 23 - Misure di sostegno della radiodiffusione
+#### Art. 23 - Misure di sostegno della radiodiffusione
 
 1\. Al comma 2 dell'articolo 65 del testo unico approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, dopo la lettera c), e' aggiunta la seguente:
 
@@ -376,7 +372,7 @@ AGGIORNAMENTO (24)
 
 La L. 30 dicembre 2018, n. 145 ha disposto (con l'art. 1, comma 774) che la presente modifica decorre dal 1° gennaio 2020.
 
-##### Art. 24 - Reti della concessionaria pubblica e controllo di imprese concessionarie di pubblicita
+#### Art. 24 - Reti della concessionaria pubblica e controllo di imprese concessionarie di pubblicita
 
 1\. Con l'atto di concessione di cui all'articolo 3 della legge 14 aprile 1975, n. 103, possono essere assentite alla concessionaria pubblica tre reti televisive e tre reti radiofoniche oltre, ove richiesto dai Presidenti del Senato della Repubblica e della Camera dei deputati, una rete radiofonica riservata esclusivamente e trasmissioni dedidate ai lavori parlamentari.
 
@@ -386,19 +382,17 @@ La L. 30 dicembre 2018, n. 145 ha disposto (con l'art. 1, comma 774) che la pres
 
 ## TITOLO II - NORME PER LA RADIODIFFUSIONE
 
-### Capo III - NORME PER LA CONCESSIONARIA
+### Capo III - NORME PER LA CONCESSIONARIA DEL SERVIZIO PUBBLICO
 
-#### DEL SERVIZIO PUBBLICO
-
-##### Art. 25
+#### Art. 25
 
 (( ARTICOLO ABROGATO DALLA L. 25 GIUGNO 1993, N. 206 ))
 
-##### Art. 26
+#### Art. 26
 
 ((ARTICOLO ABROGATO DALLA L. 30 APRILE 1998, N. 122))
 
-##### Art. 27 - Norme sul canone di abbonamento
+#### Art. 27 - Norme sul canone di abbonamento
 
 1\. A decorrere dal 1o gennaio dell'anno successivo a quello di entrata in vigore della presente legge e' soppresso il canone di abbonamento suppletivo dovuto dai detentori di apparecchi atti o adattabili alla ricezione di trasmissioni televisive a colori previsto dall'articolo 15, quarto comma, della legge 14 aprile 1975, n. 103.
 
@@ -408,19 +402,19 @@ La L. 30 dicembre 2018, n. 145 ha disposto (con l'art. 1, comma 774) che la pres
 
 > \- Per il testo dell'art. 15, comma quarto, della legge n. 103/1975, vedi nota all'art. 8, comma 17.
 
-##### Art. 28
+#### Art. 28
 
 (( ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 ))
 
 ## TITOLO III - DIFFUSIONE VIA CAVO
 
-##### Art. 29
+#### Art. 29
 
 (( ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 ))
 
 ## TITOLO IV - SANZIONI
 
-##### Art. 30 - Disposizioni penali
+#### Art. 30 - Disposizioni penali
 
 1\. Nel caso di trasmissioni radiofoniche o televisive che abbiano carattere di oscenita' il concessionario privato o la concessionaria pubblica ovvero la persona da loro delegata al controllo della trasmissione e' punito con le pene previste dal primo comma dell'articolo 528 del codice penale.
 
@@ -456,13 +450,13 @@ AGGIORNAMENTO (25)
 
 La Corte Costituzionale, con sentenza 22 giugno - 12 luglio 2021, n. 150 (in G.U. 1ª s.s. 14/07/2021, n. 28), ha dichiarato "l'illegittimita' costituzionale, in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), dell'art. 30, comma 4, della legge 6 agosto 1990, n. 223 (Disciplina del sistema radiotelevisivo pubblico e privato)".
 
-##### Art. 31
+#### Art. 31
 
 (( ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 ))
 
 ## Titolo V - NORME TRANSITORIE E FINALI
 
-##### Art. 32 - Autorizzazione alla prosecuzione nell'esercizio
+#### Art. 32 - Autorizzazione alla prosecuzione nell'esercizio
 
 1\. I privati, che alla data di entrata in vigore della presente legge eserciscono impianti di radiodiffusione sonora o televisiva in ambito nazionale o locale e i connessi collegamenti di telecomunicazione, sono autorizzati a proseguire nell'esercizio degli impianti stessi, a condizione che abbiano inoltrato domanda per il rilascio della concessione di cui all'articolo 16 entro sessanta giorni dalla data di entrata in vigore della presente legge e fino al rilascio della concessione stessa ovvero fino alla reiezione della domanda e comunque non oltre settecentotrenta giorni dalla data di entrata in vigore della presente legge. (4) ((5))
 
@@ -496,7 +490,7 @@ Il D.L. 27 agosto 1993, n. 323 convertito con modificazioni dalla L. 27 ottobre 
 
 Ha inoltre disposto (con l'art. 4, comma 1) che "Il termine per la prosecuzione dell'esercizio degli impianti per la radiodiffusione sonora e dei connessi collegamenti di telecomunicazione, di cui all'articolo 32, comma 1, della legge 6 agosto 1990, n. 223, e' prorogato, per le emittenti autorizzate alla prosecuzione stessa, fino al rilascio della concessione, ovvero fino alla reiezione della domanda e comunque non oltre il 28 febbraio 1994."
 
-##### Art. 33 - Norme per i soggetti autorizzati
+#### Art. 33 - Norme per i soggetti autorizzati
 
 1\. Le norme di cui agli articoli 10; 11; ai commi 1, 2, 3, 4, 6 e 7 dell'articolo 13, anche se non finalizzate all'iscrizione nel registro nazionale delle imprese radiotelevisive; all'articolo 14, ai commi 6 e 8 a 15 dell'articolo 15; al comma 3 dell'articolo 20 nonche' le connesse disposizioni sanzioni di cui agli articoli 30 e 31 riferentisi ai concessionari privati per la radiodiffusione sonora e televisiva in ambito rispettivamente nazionale e locale, si applicano ai soggetti di cui all'articolo 32 i quali eserciscano rispettivamente, alla data di entrata in vigore della presente legge, reti nazionali ovvero emittenti e reti locali, cosi' come definite ai sensi del comma 11 dell'articolo 3 e del comma 3 dell'articolo 21.
 
@@ -512,7 +506,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 19 ottobre 1992, n. 408, convertito con modificazioni dalla L. 17 dicembre 1992, n. 483, ha disposto (con l'art.4 , comma 1) che " Il termine di cui all'ultimo periodo del comma 2 dell'articolo 33 della legge 6 agosto 1990, n. 223, e' prorogato fino al 1 ottobre 1994. "
 
-##### Art. 34 - Disposizioni transitorie
+#### Art. 34 - Disposizioni transitorie
 
 1\. Il primo piano di assegnazione viene definito sulla base del piano nazionale di ripartizione delle radiofrequenze vigente alla data di entrata in vigore della presente legge. Gli impianti censiti ai sensi dell'articolo 4 del decreto-legge 6 dicembre 1984, n. 807 convertito, con modificazioni, dalla legge 4 febbraio 1985, n. 10, costituiscono elementi per la definizione del piano stesso che e' redatto entro centottanta giorni dalla data di entrata in vigore della presente legge dal Ministero delle poste e delle telecomunicazioni sensita l'apposita commissione nominata dal Ministro delle poste e delle telecomunicazioni, che puo' avvalersi della collaborazione di enti, societa' ed esperti scelti con le modalita' ed alle condizioni previste dall'articolo 380 del testo unico approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
@@ -542,19 +536,19 @@ Il D.L. 27 agosto 1993, n. 323 convertito con modificazioni dalla L. 27 ottobre 
 
 Sono consentiti inoltre, per i sei mesi successivi al rilascio delle concessioni, i trasferimenti di impianti o di rami di azienda fra concessionari televisivi operanti in ambito locale e fra questi e i soggetti di cui al comma 3 dell'articolo 1 del presente decreto, che eserciscano una sola rete."
 
-##### Art. 35 - Emissione radiotelevisiva da Campione d'Italia
+#### Art. 35 - Emissione radiotelevisiva da Campione d'Italia
 
 1\. Le disposizioni intese a disciplinare l'emissione radiotelevisiva proveniente da Campione d'Italia sono adottate dl Ministro delle poste e delle telecomunicazioni d'intesa con il Ministro degli affari esteri, in conformita' alle norme alla presente legge.
 
-##### Art. 36 - Regolamento di attuazione
+#### Art. 36 - Regolamento di attuazione
 
 1\. Il regolamento di attuazione e' emanato entro novanta giorni dall'approvazione del piano di assegnazione con decreto del Presidente della Repubblica su proposta del Ministro delle poste e delle telecomunicazioni, previa deliberazione del Consiglio dei ministri, sentiti il Consiglio superiore tecnico delle poste, delle telecomunicazioni e dell'automazione e il Garante, nonche' le competenti Commissioni parlamentari, che esprimono il parere entro quindici giorni dalla trasmissione dello schema di regolamento.
 
-##### Art. 37
+#### Art. 37
 
 (( ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177 ))
 
-##### Art. 38
+#### Art. 38
 
 (Equiparazione per la ripetizione
 
@@ -566,7 +560,7 @@ dei canali esteri)
 
 > \- Per il testo dell'art. 38 della legge n. 103/1975 vedi nota all'art. 2, comma 1.
 
-##### Art. 39 - Attuazione di direttiva
+#### Art. 39 - Attuazione di direttiva
 
 1\. Con la presente legge e' data attuazione alla direttiva del Consiglio delle Comunita' europee del 3 ottobre 1989 (89/552/CEE).
 
@@ -574,7 +568,7 @@ dei canali esteri)
 
 > \- Per quanto concerne la direttiva n. 89/552/CEE vedi nota all'art. 8 comma 3.
 
-##### Art. 40
+#### Art. 40
 
 (Disposizioni transitorie
 
@@ -586,7 +580,7 @@ a favore della radiodiffusione sonora)
 
 > \- Per il testo del comma 1 dell'art. 11 della legge n. 67/1987 vedi nota all'art. 16 comma 17.
 
-##### Art. 41 - Copertura finanziaria
+#### Art. 41 - Copertura finanziaria
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 6.900 milioni per l'anno 1990, in lire 5.100 milioni per l'anno 1991 e in lire 6.300 milioni a decorrere dall'anno 1992, si provvede mediante utilizzo di una corrispondente quota delle maggiori entrate previste dall'articolo 22.
 
@@ -610,7 +604,7 @@ Visto, il Guardasigilli: VASSALLI
 
 ## Titolo V - NORME TRANSITORIE E FINALI
 
-##### Allegato
+#### Allegato
 
 ALLEGATO
 

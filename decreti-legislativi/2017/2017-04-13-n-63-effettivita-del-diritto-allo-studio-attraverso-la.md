@@ -59,11 +59,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - Diritto allo studio e potenziamento
+## Capo I - Diritto allo studio e potenziamento della Carta dello Studente
 
-### della Carta dello Studente
-
-#### Art. 1
+### Art. 1
 
 Oggetto e finalita'
 
@@ -151,7 +149,7 @@ Oggetto e finalita'
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei ministri. Le sedute sono presiedute dal Presidente del Consiglio dei ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.».
 
-#### Art. 2
+### Art. 2
 
 Servizi
 
@@ -165,7 +163,7 @@ c) fornitura dei libri di testo e degli strumenti didattici indispensabili negli
 
 d) servizi per le alunne e gli alunni, le studentesse e gli studenti ricoverati in ospedale, in case di cura e riabilitazione, nonche' per l'istruzione domiciliare.
 
-#### Art. 3
+### Art. 3
 
 Beneficiari
 
@@ -173,7 +171,7 @@ Beneficiari
 
 2\. In caso di contribuzione delle famiglie, gli enti locali individuano i criteri di accesso ai servizi e le eventuali fasce tariffarie in considerazione del valore dell'indicatore della situazione economica equivalente, di seguito denominato ISEE, ferma restando la gratuita' totale qualora gia' prevista a legislazione vigente.
 
-#### Art. 4
+### Art. 4
 
 Tasse scolastiche
 
@@ -193,7 +191,7 @@ Tasse scolastiche
 
 > «202. E' iscritto nello stato di previsione del Ministero dell'istruzione, dell'universita' e della ricerca un fondo di parte corrente, denominato "Fondo 'La Buona Scuola' per il miglioramento e la valorizzazione dell'istruzione scolastica", con uno stanziamento pari a 83.000 euro per l'anno 2015, a 533.000 euro per l'anno 2016, a 104.043.000 euro per l'anno 2017, a 69.903.000 euro per l'anno 2018, a 47.053.000 euro per l'anno 2019, a 43.490.000 euro per l'anno 2020, a 48.080.000 euro per l'anno 2021, a 56.663.000 euro per l'anno 2022 e a 45.000.000 euro annui a decorrere dall'anno 2023. Al riparto del Fondo si provvede con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro dell'economia e delle finanze. Il decreto di cui al presente comma puo' destinare un importo fino a un massimo del 10 per cento del Fondo ai servizi istituzionali e generali dell'amministrazione per le attivita' di supporto al sistema di istruzione scolastica».
 
-#### Art. 5
+### Art. 5
 
 Servizi di trasporto e forme di agevolazione
 
@@ -223,7 +221,7 @@ della mobilita'
 
 > 6\. Al fine di assicurare l'abbattimento dei livelli di inquinamento atmosferico ed acustico, la riduzione dei consumi energetici, l'aumento dei livelli di sicurezza del trasporto e della circolazione stradale, la riduzione al minimo dell'uso individuale dell'automobile privata e il contenimento del traffico, nel rispetto della normativa vigente e fatte salve l'autonomia didattica e la liberta' di scelta dei docenti, il Ministro dell'istruzione, dell'universita' e della ricerca adotta, entro sessanta giorni dalla data di entrata in vigore della presente legge, sentiti per i profili di competenza i Ministri delle infrastrutture e dei trasporti e dell'ambiente e della tutela del territorio e del mare, specifiche linee guida per favorire l'istituzione in tutti gli istituti scolastici di ogni ordine e grado, nell'ambito della loro autonomia amministrativa ed organizzativa, della figura del mobility manager scolastico, scelto su base volontaria e senza riduzione del carico didattico, in coerenza con il piano dell'offerta formativa, con l'ordinamento scolastico e tenuto conto dell'organizzazione didattica esistente. Il mobility manager scolastico ha il compito di organizzare e coordinare gli spostamenti casa-scuola-casa del personale scolastico e degli alunni; mantenere i collegamenti con le strutture comunali e le aziende di trasporto; coordinarsi con gli altri istituti scolastici presenti nel medesimo comune; verificare soluzioni, con il supporto delle aziende che gestiscono i servizi di trasporto locale, su gomma e su ferro, per il miglioramento dei servizi e l'integrazione degli stessi; garantire l'intermodalita' e l'interscambio; favorire l'utilizzo della bicicletta e di servizi di noleggio di veicoli elettrici o a basso impatto ambientale; segnalare all'ufficio scolastico regionale eventuali problemi legati al trasporto dei disabili. Dall'attuazione del presente comma non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.».
 
-#### Art. 6
+### Art. 6
 
 Servizi di mensa
 
@@ -237,7 +235,7 @@ Servizi di mensa
 
 > «Art. 130 (Progetti formativi di tempo lungo). - 2. Le attivita' di tempo pieno, di cui all'art. 1 della legge 24 settembre 1971, n. 820, potranno proseguire alle seguenti condizioni: a) che esistano le strutture necessarie e che siano effettivamente funzionanti; b) che l'orario settimanale, ivi compreso il "tempo-mensa", sia stabilito in quaranta ore; c) che la programmazione didattica e l'articolazione delle discipline siano uniformate ai programmi vigenti e che l' organizzazione didattica preveda la suddivisione dei docenti per ambiti disciplinari come previsto dall'art. 128».
 
-#### Art. 7
+### Art. 7
 
 Libri di testo e strumenti didattici
 
@@ -291,7 +289,7 @@ Libri di testo e strumenti didattici
 
 > «258. Per concorrere alle spese sostenute e non coperte da contributi o sostegni pubblici di altra natura per l'acquisto di libri di testo e di altri contenuti didattici, anche digitali, relativi ai corsi d'istruzione scolastica fino all'assolvimento dell'obbligo di istruzione scolastica, e' istituito, presso il Ministero dell'istruzione, dell'universita' e della ricerca, un fondo con una dotazione di 10 milioni di euro per ciascuno degli anni 2016, 2017 e 2018. Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, da adottare entro novanta giorni dalla data di entrata in vigore della presente legge, sono stabiliti i criteri e le modalita' di individuazione dei destinatari del suddetto contributo sulla base dell'indicatore della situazione economica equivalente (ISEE), nonche' di assegnazione e di erogazione dello stesso».
 
-#### Art. 8
+### Art. 8
 
 Scuola in ospedale e istruzione domiciliare
 
@@ -315,7 +313,7 @@ Con provvedimento del Ministero dell'istruzione, dell'universita' e della ricerc
 
 > «69. All'esclusivo scopo di far fronte ad esigenze di personale ulteriori rispetto a quelle soddisfatte dall'organico dell'autonomia come definite dalla presente legge, a decorrere dall'anno scolastico 2016/2017, ad esclusione dei posti di sostegno in deroga, nel caso di rilevazione delle inderogabili necessita' previste e disciplinate, in relazione ai vigenti ordinamenti didattici, dal regolamento di cui al decreto del Presidente della Repubblica 20 marzo 2009, n. 81, e' costituito annualmente con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro dell'economia e delle finanze, un ulteriore contingente di posti non facenti parte dell'organico dell'autonomia ne' disponibili, per il personale a tempo indeterminato, per operazioni di mobilita' o assunzioni in ruolo. A tali necessita' si provvede secondo le modalita', i criteri e i parametri previsti dal citato decreto del Presidente della Repubblica 20 marzo 2009, n. 81. Alla copertura di tali posti si provvede a valere sulle graduatorie di personale aspirante alla stipula di contratti a tempo determinato previste dalla normativa vigente ovvero mediante l'impiego di personale a tempo indeterminato con provvedimenti aventi efficacia limitatamente ad un solo anno scolastico. All'attuazione del presente comma si provvede nei limiti delle risorse disponibili annualmente nello stato di previsione del Ministero dell'istruzione, dell'universita' e della ricerca indicate nel decreto ministeriale di cui al primo periodo, fermo restando quanto previsto dall'art. 64, comma 6, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133.».
 
-#### Art. 9
+### Art. 9
 
 Borse di studio
 
@@ -329,7 +327,7 @@ Borse di studio
 
 5\. Gli enti locali erogano i benefici di cui al presente articolo anche in collaborazione con le istituzioni scolastiche.
 
-#### Art. 10
+### Art. 10
 
 Potenziamento della Carta dello Studente
 
@@ -351,11 +349,9 @@ Potenziamento della Carta dello Studente
 
 > «28. Le scuole secondarie di secondo grado introducono insegnamenti opzionali nel secondo biennio e nell'ultimo anno anche utilizzando la quota di autonomia e gli spazi di flessibilita'. Tali insegnamenti, attivati nell'ambito delle risorse finanziarie disponibili a legislazione vigente e dei posti di organico dell'autonomia assegnati sulla base dei piani triennali dell'offerta formativa, sono parte del percorso dello studente e sono inseriti nel curriculum dello studente, che ne individua il profilo associandolo a un'identita' digitale e raccoglie tutti i dati utili anche ai fini dell'orientamento e dell'accesso al mondo del lavoro, relativi al percorso degli studi, alle competenze acquisite, alle eventuali scelte degli insegnamenti opzionali, alle esperienze formative anche in alternanza scuola-lavoro e alle attivita' culturali, artistiche, di pratiche musicali, sportive e di volontariato, svolte in ambito extrascolastico. Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, da adottare, ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, entro centottanta giorni dalla data di entrata in vigore della presente legge, sentito il Garante per la protezione dei dati personali, sono disciplinate le modalita' di individuazione del profilo dello studente da associare ad un'identita' digitale, le modalita' di trattamento dei dati personali contenuti nel curriculum dello studente da parte di ciascuna istituzione scolastica, le modalita' di trasmissione al Ministero dell'istruzione, dell'universita' e della ricerca dei suddetti dati ai fini di renderli accessibili nel Portale unico di cui al comma 136, nonche' i criteri e le modalita' per la mappatura del curriculum dello studente ai fini di una trasparente lettura della progettazione e della valutazione per competenze.».
 
-## Capo II
+## Capo II - Governance e accordi territoriali
 
-### Governance e accordi territoriali
-
-#### Art. 11
+### Art. 11
 
 Conferenza nazionale per il diritto allo studio
 
@@ -365,7 +361,7 @@ Conferenza nazionale per il diritto allo studio
 
 3\. La Conferenza e' convocata dal Ministro dell'istruzione, dell'universita' e della ricerca almeno una volta l'anno. La partecipazione alla Conferenza non da' titolo a gettoni di presenza, compensi, rimborsi spese o altri emolumenti comunque denominati.
 
-#### Art. 12
+### Art. 12
 
 Compiti della Conferenza nazionale
 
@@ -379,7 +375,7 @@ b) esprimere pareri, elaborare proposte e redigere un rapporto, ogni tre anni, i
 
 c) avanzare proposte per il potenziamento della Carta e l'integrazione di ulteriori benefici e agevolazioni a livello delle singole regioni.
 
-#### Art. 13
+### Art. 13
 
 Accordi territoriali
 
@@ -387,7 +383,7 @@ Accordi territoriali
 
 2\. I benefici previsti dal presente decreto, ivi compresi quelli di cui al comma 1, nonche' le ulteriori agevolazioni previste nell'ambito di azioni territoriali per il supporto al diritto allo studio, possono essere erogati anche attraverso l'uso della Carta dello studente.
 
-#### Art. 14
+### Art. 14
 
 Clausola di invarianza finanziaria
 

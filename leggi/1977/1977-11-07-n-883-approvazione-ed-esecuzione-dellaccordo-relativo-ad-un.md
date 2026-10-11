@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+#### Art. 1
 
 E' approvato l'accordo relativo ad un programma internazionale per l'energia, firmato a Parigi il 18 novembre 1974.
 
-### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data all'accordo di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 67 dell'accordo stesso.
 
-### Art. 3
+#### Art. 3
 
 All'onere derivante dall'attuazione della presente legge nell'anno finanziario 1977, valutato per il periodo 1974-77 in lire 700 milioni, si provvede mediante riduzione del fondo speciale di cui al capitolo 6856 dello stato di previsione della spesa del ministero del tesoro per l'anno finanziario medesimo.
 
@@ -53,7 +53,7 @@ Visto, il Guardasigilli: BONIFACIO
 
 ## Allegati
 
-### Agreement
+#### Agreement
 
 AGREEMENT ON AN INTERNATIONAL ENERGY PROGRAM
 
@@ -93,7 +93,7 @@ CONCLUDONO che e' necessario stabilire un Programma internazionale per l'energia
 
 HANNO CONCORDATO quanto segue:
 
-### ARTICOLO INTRODUTTIVO
+#### ARTICOLO INTRODUTTIVO
 
 Articolo 1
 
@@ -105,7 +105,7 @@ Articolo 1
 
 ## CAPITOLO I - AUTOSUFFICIENZA IN CASO DI EMERGENZA
 
-### Articolo 2
+#### Articolo 2
 
 1\. I Paesi partecipanti istituiranno un comune livello di autosufficienza nelle disponibilita' petrolifere in caso di emergenza. A tale scopo ogni Paese partecipante manterra' riserve di emergenza sufficienti a soddisfare, senza importazioni petrolifere nette, i propri consumi per almeno 60 giorni; sia i consumi che le importazioni petrolifere nette saranno calcolati ai livelli medi giornalieri del precedente anno solare.
 
@@ -113,7 +113,7 @@ Articolo 1
 
 3\. Il termine "impegno per le riserve di emergenza" rappresenta le riserve di emergenza equivalenti a 60 giorni delle importazioni petrolifere nette, come definite al paragrafo 1, e, a partire dalla data che verra' convenuta secondo il paragrafo 2, a 90 giorni delle importazioni petrolifere nette come definito al paragrafo 2.
 
-### Articolo 3
+#### Articolo 3
 
 1\. L'impegno per le riserve di emergenza di cui all'articolo 2 puo' essere soddisfatto da:
 
@@ -127,7 +127,7 @@ in conformita' con le disposizioni dell'Allegato, che costituisce parte integran
 
 2\. Il Comitato dei Ministri decidera' a maggioranza, non piu' tardi del 1 luglio 1975, in quale misura l'impegno per le riserve di emergenza puo' essere soddisfatto dagli elementi menzionati al paragrafo 1.
 
-### Articolo 4
+#### Articolo 4
 
 1\. Il Gruppo permanente per i problemi d'emergenza esaminera', senza soluzione di continuita', l'efficacia delle misure adottate da ogni Paese partecipante per soddisfare il proprio impegno per le riserve di emergenza.
 
@@ -135,7 +135,7 @@ in conformita' con le disposizioni dell'Allegato, che costituisce parte integran
 
 ## CAPITOLO II - RESTRIZIONE DELLA DOMANDA
 
-### Articolo 5
+#### Articolo 5
 
 1\. Ogni Paese partecipante terra' pronto in qualsiasi momento un programma di misure contingenti per la restrizione della domanda petrolifera in modo da poter ridurre la sua quota di consumi finali in conformita' con quanto previsto al Capitolo IV.
 
@@ -149,7 +149,7 @@ in conformita' con le disposizioni dell'Allegato, che costituisce parte integran
 
 ## CAPITOLO III - ASSEGNAZIONE
 
-### Articolo 6
+#### Articolo 6
 
 1\. Ogni Paese partecipante adottera' le misure necessarie perche' l'assegnazione delle disponibilita' petrolifere venga realizzata secondo le disposizioni del presente Capitolo e del Capitolo IV.
 
@@ -163,7 +163,7 @@ in conformita' con le disposizioni dell'Allegato, che costituisce parte integran
 
 4\. Il Comitato dei Ministri, decidendo a maggioranza, stabilira' tempestivamente le procedure pratiche per le assegnazioni petrolifere e le procedure e modalita' per la partecipazione delle Compagnie petrolifere nell'ambito del sistema del presente Accordo.
 
-### Articolo 7
+#### Articolo 7
 
 1\. Allorche' le assegnazioni petrolifere sono attuate a norma dell'articolo 13, 14 o 15, ogni Paese partecipante avra' un diritto di rifornimento equivalente al proprio consumo consentito diminuito del proprio obbligo di prelievo dalle riserve di emergenza.
 
@@ -189,7 +189,7 @@ e
 
 8\. Il termine "consumo finale" rappresenta il consumo interno totale di tutti i prodotti petroliferi finiti.
 
-### Articolo 8
+#### Articolo 8
 
 1\. Allorche' l'assegnazione petrolifera ad un Paese partecipante viene effettuata a norma dell'articolo 17, lo stesso Paese partecipante:
 
@@ -201,7 +201,7 @@ e
 
 3\. I Paesi partecipanti possono assolvere ai propri obblighi di assegnazione attraverso una qualunque misura di loro scelta, incluse misure di restrizioni della domanda o il ricorso alle riserve di emergenza.
 
-### Articolo 9
+#### Articolo 9
 
 1\. Allo scopo di soddisfare i diritti e gli obblighi di assegnazione, saranno considerati i seguenti elementi:
 
@@ -219,13 +219,13 @@ e
 
 4\. Quando viene realizzata l'assegnazione, un obiettivo del Programma sara' quello di far si che il petrolio greggio e i prodotti disponibili, nel limite del possibile, siano ripartiti all'interno delle industrie di raffinazione e distribuzione come anche tra compagnie di raffinazione e distribuzione in accordo con la composizione tradizionale dei rifornimenti.
 
-### Articolo 10
+#### Articolo 10
 
 1\. Tra gli obiettivi del Programma vi sara' quello di assicurare un equo trattamento per tutti i Paesi partecipanti e di fissare il prezzo dei quantitativi petroliferi assegnati in base ai prezzi correnti in transazioni commerciali simili.
 
 2\. I problemi relativi al prezzo dei quantitativi petroliferi assegnati durante una emergenza 3, saranno esaminati dal Gruppo permanente per i problemi d'emergenza.
 
-### Articolo 11
+#### Articolo 11
 
 1\. Non e' obiettivo del Programma cercare di aumentare in caso di emergenza la quota mondiale dei rifornimenti petroliferi che il gruppo aveva in normali condizioni di mercato. Lo schema tradizionale del commercio petrolifero dovrebbe essere ragionevolmente mantenuto e dovrebbe essere tenuta in debito conto la posizione dei singoli Paesi non partecipanti.
 
@@ -233,39 +233,39 @@ e
 
 ## CAPITOLO IV - MESSA IN ATTO
 
-### Articolo 12
+#### Articolo 12
 
 Ogni qualvolta il gruppo nel suo insieme o qualche Paese partecipante e' colpito o sta presumibilmente per essere colpito da una riduzione dei propri rifornimenti petroliferi, le misure d'emergenza consistenti nella restrizione obbligatoria della domanda indicata nel Capitolo II, e nella assegnazione delle disponibilita' petrolifere di cui al Capitolo III, saranno messe in atto in conformita' con questo Capitolo.
 
-### Articolo 13
+#### Articolo 13
 
 Ogni qualvolta il gruppo e' colpito o sta presumibilmente sul punto di essere colpito da una riduzione della quota giornaliera dei propri rifornimenti petroliferi che sia almeno equivalente al 7 per cento della quota media giornaliera dei propri consumi finali durante il periodo base, ogni Paese partecipante rendera' esecutive le misure di restrizione della domanda sufficienti a ridurre i propri consumi finali di una quantita' pari al 7 per cento dei propri consumi finali durante il periodo base, e l'assegnazione delle disponibilita' petrolifere tra i Paesi partecipanti verra' effettuata a norma degli articoli 7, 9, 10 ed 11.
 
-### Articolo 14
+#### Articolo 14
 
 Ogni qualvolta il gruppo e' colpito o sta presumibilmente sul punto di essere colpito da una riduzione della quota giornaliera dei propri rifornimenti petroliferi che sia almeno equivalente al 12 per cento della quota media giornaliera dei propri consumi finali durante il periodo base, ogni Paese partecipante rendera' esecutive misure di restrizione della domanda sufficienti a ridurre i propri consumi finali di una quantita' pari al 10 per cento dei propri consumi finali durante il periodo base, e l'assegnazione delle disponibilita' petrolifere tra i Paesi partecipanti verra' effettuato a norma degli articoli 7, 9, 10 ed 11.
 
-### Articolo 15
+#### Articolo 15
 
 Quando la somma giornalmente accumulata degli obblighi di prelievo dalle riserve di emergenza, definiti all'articolo 7, ha raggiunto il 50 per cento degli impegni per le riserve di emergenza ed una decisione e' stata presa a norma dell'articolo 20, ogni Paese partecipante adottera' le misure cosi' decise, e l'assegnazione delle disponibilita' petrolifere tra i Paesi partecipanti verra' effettuata in conformita' con gli articoli 7, 9, 10 ed 11.
 
-### Articolo 16
+#### Articolo 16
 
 Quando la restrizione della domanda e' messa in atto in conformita' con questo capitolo, un Paese partecipante puo', in sostituzione di misure per la restrizione della domanda, utilizzare riserve di emergenza conservate in eccesso al proprio impegno per le riserve di emergenza, come disposto nel Programma.
 
-### Articolo 17
+#### Articolo 17
 
 1\. Ogni qual volta che un qualunque Paese partecipante e' colpito o sta presumibilmente sul punto di essere colpito da una riduzione della quota giornaliera dei propri rifornimenti petroliferi, che risulti in una riduzione della quota giornaliera dei propri consumi finali per un ammontare pari almeno al 7 per cento della quota giornaliera media dei propri consumi finali durante il periodo base, l'assegnazione della disponibilita' petrolifera verso quel Paese verra' effettuata a norma degli articoli da 8 a 11.
 
 2\. L'assegnazione delle disponibilita' petrolifere verra' anche effettuata quando le condizioni di cui al paragrafo 1 si verificano nei confronti di una regione maggiore di un Paese partecipante il cui mercato petrolifero sia non completamente integrato. In tal caso, l'obbligo di assegnazione degli altri Paesi partecipanti sara' ridotto dell'obbligo teorico di assegnazione che compete ad ogni altra regione o regioni maggiori del Paese partecipante interessato.
 
-### Articolo 18
+#### Articolo 18
 
 1\. Il termine "periodo base" si intende riferito ai quattro piu' recenti trimestri con l'intervallo di un trimestre necessario per raccogliere dati. Dal momento in cui le misure di emergenza sono messe in atto, sia nei confronti dell'intero gruppo che di un Paese partecipante, il periodo base sara' mantenuto immutato.
 
 2\. Il Gruppo permanente per i problemi di emergenza esaminera' il periodo base definito al paragrafo 1, tenendo conto in particolare di elementi quali tasso di crescita, variazioni stagionali dei consumi e cambiamenti ciclici e riferira', non piu' tardi del 1 aprile 1975, al Comitato direttivo. Il Comitato direttivo avanzera' adeguate proposte al Comitato dei Ministri, il quale decidera' a maggioranza su tali proposte non piu' tardi del 1 luglio 1975.
 
-### Articolo 19
+#### Articolo 19
 
 1\. Il Segretariato accertera' quando una riduzione dei rifornimenti petroliferi, come menzionato all'articolo 13, 14 o 17, e' stata effettuata o sta presumibilmente per essere effettuata, e stabilira' l'ammontare della riduzione o della prevista riduzione per ogni Paese partecipante e per il gruppo. Il Segretariato terra' informato il Comitato direttivo delle proprie deliberazioni, e riferira' immediatamente il proprio accertamento ai membri del Comitato direttivo e ne informera' i Paesi partecipanti. Il Rapporto includera' informazioni sulla natura della riduzione.
 
@@ -281,7 +281,7 @@ Quando la restrizione della domanda e' messa in atto in conformita' con questo c
 
 7\. Un Comitato consultivo internazionale dell'industria petrolifera verra' convocato al momento della messa in atto delle misure di emergenza per assistere l'Agenzia ad assicurare la concreta operativita' di tali misure.
 
-### Articolo 20
+#### Articolo 20
 
 1\. Il Segretariato accertera' quando la somma giornaliera accumulata degli obblighi di prelievo dalle riserve di emergenza ha raggiunto o sta presumibilmente per raggiungere il 50 per cento degli impegni per le riserve di emergenza. Il Segretariato riferira' immediatamente il proprio accertamento al Comitato direttivo e ne informera' i Paesi partecipanti. Il rapporto includera' informazioni sulla situazione petrolifera.
 
@@ -289,7 +289,7 @@ Quando la restrizione della domanda e' messa in atto in conformita' con questo c
 
 3\. Il Comitato dei Ministri si riunira' entro 48 ore dalla ricezione del rapporto e delle proposte del Comitato direttivo. Il Comitato dei Ministri esaminera' l'accertamento del Segretariato ed il rapporto del Comitato direttivo e decidera' entro le successive 48 ore a maggioranza speciale sulle misure richieste per fronteggiare le necessita' della situazione, incluso l'aumento del livello di restrizione obbligatoria della domanda ritenuto necessario.
 
-### Articolo 21
+#### Articolo 21
 
 1\. Ogni Paese partecipante puo' richiedere al Segretariato di effettuare l'accertamento di cui all'articolo 19 o 20.
 
@@ -299,13 +299,13 @@ Quando la restrizione della domanda e' messa in atto in conformita' con questo c
 
 4\. Il Comitato dei Ministri si riunira' entro 48 ore dalla ricezione del rapporto del Comitato direttivo. Qualora esso convenga, a maggioranza, che le condizioni di cui all'articolo 13, 14, 15 o 17 si sono verificate, saranno messe in atto le conseguenti misure di emergenza.
 
-### Articolo 22
+#### Articolo 22
 
 Il Comitato dei Ministri puo' decidere in ogni momento all'unanimita' di mettere in atto qualsiasi appropriata misura di emergenza, non prevista nel presente Accordo, ove la situazione lo richieda.
 
 ## CESSAZIONE
 
-### Articolo 23
+#### Articolo 23
 
 1\. Il Segretariato accertera' quando la riduzione dei rifornimenti, indicata all'articolo 13, 14 o 17, e' diminuita o sta presumibilmente per diminuire al di sotto del livello menzionato nel pertinente articolo. Il Segretariato terra' informato il Comitato direttivo delle proprie deliberazioni e comunichera' immediatamente il proprio accertamento ai membri del Comitato direttivo e ne informera' i Paesi partecipanti.
 
@@ -317,13 +317,13 @@ Il Comitato dei Ministri puo' decidere in ogni momento all'unanimita' di mettere
 
 5\. Ogni Paese partecipante puo' chiedere al Segretariato di effettuare un accertamento a norma del presente articolo.
 
-### Articolo 24
+#### Articolo 24
 
 Quando le misure di emergenza sono in vigore e il Segretariato non ha effettuato l'accertamento di cui all'articolo 23, il Comitato dei Ministri puo' in ogni momento decidere, a maggioranza speciale, di sospendere completamente o in parte tali misure.
 
 ## CAPITOLO V - SISTEMA DI INFORMAZIONI SUL MERCATO PETROLIFERO INTERNAZIONALE
 
-### Articolo 25
+#### Articolo 25
 
 1\. I Paesi partecipanti stabiliranno un sistema di informazioni consistente di due Sezioni:
 
@@ -335,13 +335,13 @@ Quando le misure di emergenza sono in vigore e il Segretariato non ha effettuato
 
 3\. Il Segretariato sara' responsabile per il funzionamento del Sistema di informazioni e mettera' a disposizione dei Paesi partecipanti le informazioni ottenute.
 
-### Articolo 26
+#### Articolo 26
 
 Il termine "compagnie petrolifere" comprende le compagnie internazionali, le compagnie nazionali, le compagnie integrate e altri enti che hanno un ruolo significativo nella industria petrolifera internazionale.
 
-## SEZIONE GENERALE
+### SEZIONE GENERALE
 
-### Articolo 27
+#### Articolo 27
 
 1\. Nel quadro della Sezione generale del Sistema di informazioni, i Paesi partecipanti metteranno a disposizione del Segretariato, con carattere di regolarita', informazioni sui dati precisi riportati nell'articolo 29 sulle seguenti materie che si riferiscono alle compagnie petrolifere operanti nell'ambito delle loro rispettive giurisdizioni:
 
@@ -371,17 +371,17 @@ j) altri argomenti conformi a quanto deciso all'unanimita' dal Comitato dei Mini
 
 4\. Nessun Paese partecipante avra' diritto di ottenere attraverso la Sezione generale informazioni sulle attivita' di una compagnia operante nell'ambito della propria giurisdizione, informazioni che esso non potrebbe ottenere da quella compagnia in applicazione delle proprie leggi od attraverso le proprie istituzioni e consuetudini se tale compagnia operasse unicamente nell'ambito della sua giurisdizione.
 
-### Articolo 28
+#### Articolo 28
 
 Le informazioni ottenute su base "non privativa" sono le informazioni che non costituiscono o non si riferiscono a brevetti, marchi di fabbrica, a procedimenti scientifici o di produzione o sviluppi, vendite individuali, denuncie dei redditi, liste dei clienti, informazioni geologiche e geofisiche incluse le mappe.
 
-### Articolo 29
+#### Articolo 29
 
 1\. Entro 60 giorni dal primo giorno dell'entrata in vigore provvisoria del presente Accordo, e successivamente quando opportuno, il Gruppo permanente per il Mercato petrolifero sottoporra' al Comitato direttivo un rapporto in cui identifichera' i dati precisi, nell'ambito della lista di argomenti di cui all'articolo 27, paragrafo 1, che sono richiesti per una efficiente gestione della Sezione generale, specificando anche le procedure per ottenere tali dati in via regolare.
 
 2\. Il Comitato direttivo esaminera' il rapporto ed avanzera' proposte al Comitato dei Ministri che, entro 30 giorni dalla presentazione del rapporto al Comitato direttivo, prendera' a maggioranza le decisioni necessarie per istituire e gestire in maniera efficiente la Sezione generale.
 
-### Articolo 30
+#### Articolo 30
 
 Nel preparare i propri rapporti a norma dell'articolo 29, il Gruppo permanente per il Mercato petrolifero:
 
@@ -395,15 +395,15 @@ Nel preparare i propri rapporti a norma dell'articolo 29, il Gruppo permanente p
 
 \- mettera' a punto procedure per assicurare adeguatamente la riservatezza delle informazioni.
 
-### Articolo 31
+#### Articolo 31
 
 1\. Il Gruppo permanente per il Mercato petrolifero esaminera', senza soluzione di continuita', le operazioni della Sezione generale.
 
 2\. Nella ipotesi di mutamenti delle condizioni del mercato petrolifero internazionale, il Gruppo permanente per il Mercato petrolifero riferira' al Comitato direttivo. Il Comitato direttivo avanzera' proposte su opportune modifiche al Comitato dei Ministri, che decidera' su tali proposte a maggioranza.
 
-## SEZIONE SPECIALE
+### SEZIONE SPECIALE
 
-### Articolo 32
+#### Articolo 32
 
 1\. Nel quadro della Sezione speciale del Sistema di informazioni, i Paesi partecipanti metteranno a disposizione del Segretariato tutte le informazioni necessarie ad assicurare un efficiente funzionamento delle misure di emergenza.
 
@@ -411,7 +411,7 @@ Nel preparare i propri rapporti a norma dell'articolo 29, il Gruppo permanente p
 
 3\. Il Segretariato, sulla base di queste informazioni e di altre informazioni disponibili, sorvegliera' continuamente l'andamento dei rifornimenti e dei consumi petroliferi nell'ambito del Gruppo e in ciascuno dei Paesi partecipanti.
 
-### Articolo 33
+#### Articolo 33
 
 Nel quadro della Sezione speciale i Paesi partecipanti metteranno regolarmente a disposizione del Segretariato informazioni concernenti i dati precisi definiti a norma dell'articolo 34 a riguardo dei seguenti argomenti:
 
@@ -427,13 +427,13 @@ e) livelli correnti e previsti dei rifornimenti e della domanda internazionale;
 
 f) altri elementi stabiliti all'unanimita' dal Comitato dei Ministri.
 
-### Articolo 34
+#### Articolo 34
 
 1\. Entro 30 giorni dal primo giorno dell'entrata in vigore provvisoria del presente Accordo, il Gruppo permanente per i problemi di emergenza fara' rapporto al Comitato direttivo indicando i dati precisi di cui alla lista degli argomenti dell'articolo 33, che sono richiesti nel quadro della Sezione speciale allo scopo di assicurare il funzionamento efficiente delle misure di emergenza, specificando anche le procedure per ottenere tali dati in via regolare, incluse le procedure urgenti in situazioni di emergenza.
 
 2\. Il Comitato direttivo esaminera' il rapporto e avanzera' proposte al Comitato dei Ministri, che, entro 30 giorni dalla presentazione del rapporto al Comitato direttivo, prendera', a maggioranza, le decisioni necessarie per la istituzione e l'avvio della Sezione speciale.
 
-### Articolo 35
+#### Articolo 35
 
 1\. Nel preparare il suo rapporto a norma dell'articolo 34, il Gruppo permanente per i problemi di emergenza:
 
@@ -443,13 +443,13 @@ f) altri elementi stabiliti all'unanimita' dal Comitato dei Ministri.
 
 \- mettera' a punto le procedure per assicurare la riservatezza delle informazioni.
 
-### Articolo 36
+#### Articolo 36
 
 Il Gruppo permanente per i problemi di emergenza esaminera', senza soluzione di continuita', il funzionamento della Sezione speciale e riferira', ove ritenuto opportuno, al Comitato direttivo. Il Comitato direttivo avanzera' proposte circa le opportune modifiche al Comitato dei Ministri, il quale decidera' a maggioranza su tali proposte.
 
 ## CAPITOLO VI - SISTEMA PER LA CONSULTAZIONE CON LE COMPAGNIE PETROLIFERE
 
-### Articolo 37
+#### Articolo 37
 
 1\. I Paesi partecipanti istituiranno nell'ambito dell'Agenzia un sistema permanente per la consultazione secondo il quale uno o piu' Paesi possono, nella maniera piu' adeguata, consultare le singole compagnie petrolifere, e chiedere loro informazioni, su tutti gli aspetti importanti dell'industria petrolifera, e nell'ambito del quale i Paesi partecipanti possono scambiarsi tra di loro, con spirito di collaborazione, i risultati di tali consultazioni.
 
@@ -457,13 +457,13 @@ Il Gruppo permanente per i problemi di emergenza esaminera', senza soluzione di 
 
 3\. Entro 60 giorni dal primo giorno dell'entrata in vigore provvisoria del presente Accordo, e successivamente a seconda dell'opportunita' il Gruppo permanente per il Mercato petrolifero, dopo consultazione con le compagnie petrolifere, sottoporra' al Comitato direttivo un rapporto sulle procedure per tali consultazioni. Il Comitato direttivo esaminera' il Rapporto e presentera' proposte al Comitato dei Ministri che, entro 30 giorni dalla presentazione del Rapporto al Comitato direttivo, decidera' a maggioranza su tali procedure.
 
-### Articolo 38
+#### Articolo 38
 
 1\. Il Gruppo permanente per il Mercato petrolifero presentera' un rapporto al Comitato direttivo sulle consultazioni avute con ciascuna Compagnia petrolifera entro 30 giorni dalla consultazione stessa.
 
 2\. Il Comitato direttivo prendera' in esame il rapporto e puo' presentare proposte su opportune azioni di cooperazione al Comitato dei Ministri che decidera' su tali proposte.
 
-### Articolo 39
+#### Articolo 39
 
 1\. Il Gruppo permanente per il Mercato petrolifero valutera' senza soluzione di continuita' i risultati delle consultazioni e delle informazioni raccolte dalle compagnie petrolifere.
 
@@ -471,19 +471,19 @@ Il Gruppo permanente per i problemi di emergenza esaminera', senza soluzione di 
 
 3\. Il Comitato direttivo esaminera' tali rapporti e fara' proposte sulle adeguate azioni di cooperazione al Comitato dei Ministri, che decidera' su tali proposte.
 
-### Articolo 40
+#### Articolo 40
 
 Il Gruppo permanente per il Mercato petrolifero sottoporra' annualmente un rapporto generale al Comitato direttivo sul funzionamento del Sistema per la consultazione con le compagnie petrolifere.
 
 ## CAPITOLO VII - COOPERAZIONE A LUNGO TERMINE SULL'ENERGIA
 
-### Articolo 41
+#### Articolo 41
 
 1\. I Paesi partecipanti sono risoluti a ridurre, a piu' lunga scadenza, la loro dipendenza dalle importazioni petrolifere per far fronte ai loro fabbisogni totali di energia.
 
 2\. A tal fine i Paesi partecipanti intraprenderanno programmi nazionali e promuoveranno l'adozione di programmi di cooperazione, comprendenti, a seconda dei casi, la ripartizione dei mezzi e degli sforzi, mentre concerteranno le politiche nazionali nelle aree indicate all'articolo 42.
 
-### Articolo 42
+#### Articolo 42
 
 1\. Il Gruppo permanente per la cooperazione a lungo termine esaminera' e riferira' al Comitato direttivo sull'azione di cooperazione. Saranno, in particolare, prese in esame le seguenti aree:
 
@@ -551,7 +551,7 @@ servizi di arricchimento;
 
 3\. I programmi sviluppati in base al paragrafo 1 possono essere finanziati congiuntamente. Tale finanziamento congiunto puo' avvenire a norma dell'articolo 64, paragrafo 2.
 
-### Articolo 43
+#### Articolo 43
 
 1\. Il Comitato direttivo esaminera' i rapporti del Gruppo permanente e presentera' adeguate proposte al Comitato dei Ministri, il quale decidera' su tali proposte non piu' tardi del 1 luglio 1975.
 
@@ -559,19 +559,19 @@ servizi di arricchimento;
 
 ## CAPITOLO VIII - RELAZIONI CON I PAESI PRODUTTORI E CON ALTRI PAESI CONSUMATORI
 
-### Articolo 44
+#### Articolo 44
 
 I Paesi partecipanti faranno ogni sforzo per promuovere la collaborazione con i Paesi produttori di petrolio e con gli altri Paesi consumatori, inclusi i Paesi in via di sviluppo. Essi esamineranno gli sviluppi nel campo dell'energia allo scopo di identificare le occasioni per promuovere un dialogo costruttivo, nonche' altre forme di cooperazione con i Paesi produttori e con gli altri Paesi consumatori.
 
-### Articolo 45
+#### Articolo 45
 
 Per raggiungere gli obiettivi indicati nell'articolo 44, i Paesi partecipanti daranno piena considerazione ai bisogni e agli interessi di altri Paesi consumatori, particolarmente quelli in via di sviluppo.
 
-### Articolo 46
+#### Articolo 46
 
 Nel quadro del Programma, i Paesi partecipanti procederanno a scambi di vedute sulle loro relazioni con i Paesi produttori di petrolio. A tal fine, i Paesi partecipanti si scambieranno informazioni circa azioni di cooperazione intraprese per proprio conto con i Paesi produttori e che abbiano rilevanza nei confronti degli obiettivi del Programma.
 
-### Articolo 47
+#### Articolo 47
 
 Nel quadro del Programma i Paesi partecipanti:
 
@@ -581,7 +581,7 @@ Nel quadro del Programma i Paesi partecipanti:
 
 \- terranno sotto esame le prospettive di collaborazione con i Paesi produttori di petrolio sulle questioni riguardanti l'energia che siano di reciproco interesse, come la conservazione dell'energia, lo sviluppo di fonti alternative, la ricerca e lo sviluppo.
 
-### Articolo 48
+#### Articolo 48
 
 1\. Il Gruppo permanente per le relazioni con i Paesi produttori e gli altri Paesi consumatori esaminera' e riferira' al Comitato direttivo sugli argomenti trattati nel presente Capitolo.
 
@@ -589,7 +589,7 @@ Nel quadro del Programma i Paesi partecipanti:
 
 ## CAPITOLO IX - DISPOSIZIONI ISTITUZIONALI E GENERALI
 
-### Articolo 49
+#### Articolo 49
 
 1\. L'Agenzia avra' i seguenti organi:
 
@@ -613,7 +613,7 @@ Nel quadro del Programma i Paesi partecipanti:
 
 ## COMITATO DEI MINISTRI
 
-### Articolo 50
+#### Articolo 50
 
 1\. Il Comitato dei Ministri sara' composto da uno o piu' Ministri, o da loro delegati, per ogni Paese partecipante.
 
@@ -621,7 +621,7 @@ Nel quadro del Programma i Paesi partecipanti:
 
 3\. Il Comitato dei Ministri eleggera', decidendo a maggioranza, i propri Presidente e Vice Presidenti.
 
-### Articolo 51
+#### Articolo 51
 
 1\. Il Comitato dei Ministri adottera' le decisioni e formulera' le raccomandazioni necessarie per l'adeguato funzionamento del Programma.
 
@@ -629,7 +629,7 @@ Nel quadro del Programma i Paesi partecipanti:
 
 3\. Il Comitato dei Ministri puo', decidendo a maggioranza, delegare qualunque delle sue funzioni agli altri organi dell'Agenzia.
 
-### Articolo 52
+#### Articolo 52
 
 1\. A norma dell'articolo 61, paragrafo 3, e dell'articolo 65, le decisioni adottate in base al presente Accordo dal Comitato dei Ministri o da qualunque altro organo delegato dal Comitato dei Ministri, saranno vincolanti per i Paesi partecipanti.
 
@@ -637,7 +637,7 @@ Nel quadro del Programma i Paesi partecipanti:
 
 ## COMITATO DIRETTIVO
 
-### Articolo 53
+#### Articolo 53
 
 1\. Il Comitato direttivo sara' composto da uno o piu' funzionari ad alto livello dei Governi di ciascun Paese partecipante.
 
@@ -651,13 +651,13 @@ Nel quadro del Programma i Paesi partecipanti:
 
 ## GRUPPI PERMANENTI
 
-### Articolo 54
+#### Articolo 54
 
 1\. Ogni Gruppo permanente sara' composto di uno o piu' rappresentanti del Governo di ciascun Paese partecipante.
 
 2\. Il Comitato direttivo, decidendo a maggioranza, eleggera' i Presidenti ed i Vice-Presidenti dei Gruppi permanenti.
 
-### Articolo 55
+#### Articolo 55
 
 1\. Il Gruppo permanente per i problemi di emergenza assolvera' le funzioni assegnategli nei Capitoli dal I al V e nell'Allegato e ogni altra funzione delegatagli dal Comitato dei Ministri.
 
@@ -665,7 +665,7 @@ Nel quadro del Programma i Paesi partecipanti:
 
 3\. Il Gruppo permanente puo' consultarsi con le compagnie petrolifere su ogni materia che rientri nella propria competenza.
 
-### Articolo 56
+#### Articolo 56
 
 1\. II Gruppo permanente per il Mercato petrolifero assolvera' le funzioni assegnategli nei Capitoli V e VI ed ogni altra funzione delegatagli dal Comitato dei Ministri.
 
@@ -673,13 +673,13 @@ Nel quadro del Programma i Paesi partecipanti:
 
 3\. Il Gruppo permanente puo' consultarsi con le compagnie petrolifere su qualunque argomento che rientri nella propria competenza.
 
-### Articolo 57
+#### Articolo 57
 
 1\. Il Gruppo permanente sulla cooperazione a lungo termine assolvera' le funzioni assegnategli nel Capitolo VII e ogni altra funzione delegatagli dal Comitato dei Ministri.
 
 2\. Il Gruppo permanente puo' esaminare e riferire al Comitato direttivo in merito a qualunque argomento che rientri nelle finalita' del Capitolo VII.
 
-### Articolo 58
+#### Articolo 58
 
 1\. Il Gruppo permanente per le relazioni con i Paesi produttori e con altri Paesi consumatori assolvera' le funzioni assegnategli nel Capitolo VIII e qualunque altra funzione delegatagli dal Comitato dei Ministri.
 
@@ -689,7 +689,7 @@ Nel quadro del Programma i Paesi partecipanti:
 
 ## SEGRETARIATO
 
-### Articolo 59
+#### Articolo 59
 
 1\. Il Segretariato sara' composto da un Direttore esecutivo e dal personale ritenuto necessario.
 
@@ -701,13 +701,13 @@ Direttore esecutivo e il personale del Segretariato saranno responsabili e rifer
 
 4\. Il Comitato dei Ministri, decidendo a maggioranza, adottera' tutte le decisioni necessarie per la istituzione ed il funzionamento del Segretariato.
 
-### Articolo 60
+#### Articolo 60
 
 Il Segretariato assolvera' le funzioni assegnategli dal presente Accordo e ogni altra funzione attribuitagli dal Comitato dei Ministri.
 
 ## VOTAZIONI
 
-### Articolo 61
+#### Articolo 61
 
 1\. Il Comitato dei Ministri adottera' le decisioni e le raccomandazioni per le quali nel presente Accordo non e' esplicitamente previsto un sistema di voto, secondo quanto segue:
 
@@ -731,7 +731,7 @@ a) esse non saranno vincolanti per uno o piu' Paesi partecipanti;
 
 b) esse saranno vincolanti solo a certe condizioni.
 
-### Articolo 62
+#### Articolo 62
 
 1\. L'unanimita' richiedera' tutti i voti dei Paesi partecipanti
 
@@ -818,13 +818,13 @@ o
 
 ## RELAZIONI CON ALTRI ENTI
 
-### Articolo 63
+#### Articolo 63
 
 Per poter conseguire gli obiettivi del Programma, l'Agenzia puo' stabilire idonee relazioni con paesi non partecipanti, organizzazioni internazionali, governative e non governative, altri enti ed individui.
 
 ## MISURE FINANZIARIE
 
-### Articolo 64
+#### Articolo 64
 
 1\. Le spese del Segretariato e tutte le altre spese comuni saranno divise tra tutti i Paesi partecipanti secondo una scala di contributi elaborata in base ai principi ed alle norme definite nell'Allegato alla Risoluzione del Consiglio dell'OCSE del 10 dicembre 1963, relativa alla determinazione della scala dei contributi dei Paesi membri per il Bilancio dell'Organizzazione. Dopo il primo anno di applicazione del presente Accordo, il Comitato dei Ministri riesaminera' tale scala di contributi e decidera' a maggioranza in merito ad ogni idonea modifica a norma dell'articolo 73.
 
@@ -838,7 +838,7 @@ Per poter conseguire gli obiettivi del Programma, l'Agenzia puo' stabilire idone
 
 ## ATTIVITA' SPECIALI
 
-### Articolo 65
+#### Articolo 65
 
 1\. Due o piu' Paesi partecipanti possono decidere di intraprendere attivita' speciali, nell'ambito di questo Accordo, al di fuori delle attivita' che tutti i Paesi partecipanti debbono svolgere secondo quanto previsto dai Capitoli dal I al V. I Paesi partecipanti che non desiderano partecipare a dette attivita' speciali si asterranno dal prendere parte a dette decisioni e non saranno da esse vincolati. I Paesi partecipanti che intraprendono dette attivita' ne terranno informato il Comitato dei Ministri.
 
@@ -846,13 +846,13 @@ Per poter conseguire gli obiettivi del Programma, l'Agenzia puo' stabilire idone
 
 ## ESECUZIONE DELL'ACCORDO
 
-### Articolo 66
+#### Articolo 66
 
 Ogni Paese partecipante prendera' i provvedimenti necessari, ivi inclusi i provvedimenti di ordine legislativo, per rendere operante il presente Accordo e le decisioni prese dal Comitato dei Ministri.
 
 ## CAPITOLO X - DISPOSIZIONI FINALI
 
-### Articolo 67
+#### Articolo 67
 
 1\. Ogni Stato firmatario notifichera', entro il 1 maggio 1975, al Governo del Belgio che, avendo ultimato le proprie procedure costituzionali, consente ad essere vincolato dal presente, Accordo.
 
@@ -862,7 +862,7 @@ Ogni Paese partecipante prendera' i provvedimenti necessari, ivi inclusi i provv
 
 4\. Dietro richiesta di ogni Stato firmatario il Comitato dei Ministri decidera' a maggioranza di prorogare il limite massimo della notifica oltre il 1 maggio 1975 relativamente a detto Paese.
 
-### Articolo 68
+#### Articolo 68
 
 1\. A prescindere dalle disposizioni dell'articolo 67, il presente Accordo sara' provvisoriamente applicato da tutti gli Stati firmatari, nella misura del possibile, ove cio' non sia in contrasto con la loro legislazione, a partire dal 18 novembre 1974, a seguito della prima riunione del Comitato dei Ministri.
 
@@ -876,19 +876,19 @@ dall'Accordo, o
 
 \- a che non sia trascorso il termine massimo per la notifica del consenso da parte di quello Stato a norma dell'articolo 67.
 
-### Articolo 69
+#### Articolo 69
 
 1\. Il presente Accordo rimarra' in vigore per un periodo di dieci anni dalla data della sua entrata in vigore, dopo di che continuera' ad essere valido salvo e fino che il Comitato dei Ministri non decidera', a maggioranza, la sua cessazione.
 
 2\. Ogni Paese partecipante puo' porre termine, per proprio conto, alla applicazione del presente Accordo dietro preavviso scritto di dodici mesi al Governo del Belgio e detto preavviso non potra' essere dato prima di tre anni dopo il primo giorno della entrata in vigore provvisoria del presente Accordo.
 
-### Articolo 70
+#### Articolo 70
 
 1\. Al momento della firma, della notifica del consenso ad essere vincolato a norma dell'articolo 67, adesione, o in qualsiasi momento successivo, ogni Stato puo' dichiarare per mezzo di notifica indirizzata al Governo del Belgio che il presente Accordo sara' valido per tutti o qualunque dei territori per le cui relazioni internazionali e' responsabile, oppure per i territori entro le sue frontiere per i cui rifornimenti petroliferi a' legalmente responsabile.
 
 2\. Ogni dichiarazione, effettuata in base al paragrafo I, nei riguardi di ogni territorio menzionato in tale dichiarazione, puo' essere ritirata in base alle disposizioni dell'articolo 69, paragrafo 2.
 
-### Articolo 71
+#### Articolo 71
 
 1\. Qualsiasi Membro dell'Organizzazione per la cooperazione e sviluppo economici che sia in grado e desideroso di soddisfare le esigenze del Programma potra' aderire al presente Accordo. Il Comitato dei Ministri decidera' a maggioranza su qualsiasi richiesta di adesione.
 
@@ -896,25 +896,25 @@ dall'Accordo, o
 
 3\. Fino al 1 maggio 1975 le adesioni possono aver luogo su base provvisoria alle condizioni previste nell'articolo 68.
 
-### Articolo 72
+#### Articolo 72
 
 1\. Il presente Accordo sara' aperto per l'adesione da parte delle Comunita' europee.
 
 2\. Il presente Accordo non impedira' in alcun modo l'ulteriore esecuzione dei trattati istitutivi delle Comunita' europee.
 
-### Articolo 73
+#### Articolo 73
 
 Il presente Accordo puo' in ogni momento venire emendato dal Comitato dei Ministri, con decisione unanime. Tale emendamento entrera' in vigore nel modo indicato dal Comitato dei Ministri, con decisione unanime, e con la disposizione che i Paesi partecipanti adempiano le rispettive procedure costituzionali.
 
-### Articolo 74
+#### Articolo 74
 
 Il presente Accordo sara' soggetto a revisione generale dopo il 1 maggio 1980.
 
-### Articolo 75
+#### Articolo 75
 
 Il Governo del Belgio notifichera' a tutti i Paesi partecipanti l'avvenuto deposito della notifica di consentire ad essere vincolati a norma dell'articolo 67, e di ciascun strumento di adesione, dell'entrata in vigore del presente Accordo, o di ogni emendamento apportato, o di ogni denuncia di esso, e di ogni dichiarazione o notifica ricevuta.
 
-### Articolo 76
+#### Articolo 76
 
 L'originale del presente Accordo, di cui i testi inglese, francese e tedesco sono parimenti autentici, sara' depositato presso il Governo del Belgio, ed una copia autenticata di esso sara' fornita a ciascuno degli altri Paesi partecipanti dal Governo del Belgio.
 
@@ -928,7 +928,7 @@ ALLEGATO
 
 RISERVE D'EMERGENZA
 
-### Articolo 1
+#### Articolo 1
 
 1\. Le scorte petrolifere totali sono misurate in accordo con le definizioni dell'OCSE e della CEE, modificate come segue:
 
@@ -992,7 +992,7 @@ d) la possibilita' di accreditare a fronte degli impegni per le riserve di emerg
 
 e) la possibilita' di aumentare le disponibilita' in caso di emergenza mediante risparmi nel sistema di distribuzione.
 
-### Articolo 2
+#### Articolo 2
 
 1\. Disponibilita' di combustibile sostituibile e' definita come il normale consumo petrolifero che puo' essere sostituito da altri combustibili in caso di emergenza, a condizione che tale disponibilita' sia soggetta a controllo del Governo in una emergenza, possa essere resa operativa entro un mese, e che rifornimenti sicuri del combustibile alternativo siano disponibili per l'impiego.
 
@@ -1008,11 +1008,11 @@ a) l'adeguatezza del limite di tempo di un mese menzionato al paragrafo 1;
 
 b) le basi per calcolare la disponibilita' di combustibile sostituibile, fondata su scorte di un combustibile alternativo, a norma delle disposizioni del paragrafo 3.
 
-### Articolo 3
+#### Articolo 3
 
 Un Paese partecipante puo' accreditare a fronte del proprio impegno per le riserve di emergenza le scorte petrolifere tenute in un altro paese a condizione che il Governo di tale altro paese abbia un accordo con il Governo del Paese partecipante in base al quale non porra' alcun impedimento al trasferimento di tali scorte verso il Paese partecipante in una situazione di emergenza.
 
-### Articolo 4
+#### Articolo 4
 
 1\. La capacita' produttiva petrolifera non utilizzata e' definita come la potenziale produzione petrolifera di un Paese partecipante, in eccesso alla normale produzione petrolifera nell'ambito della propria giurisdizione:
 
@@ -1028,24 +1028,24 @@ b) l'adeguatezza del "periodo di autosufficienza" come tempo limite;
 
 c) il problema se una determinata quantita' di capacita' produttiva petrolifera non utilizzata sia di maggior valore per gli scopi della autosufficienza in caso di emergenza della stessa quantita' di scorte petrolifere, l'ammontare del possibile credito per la capacita' produttiva non utilizzata ed il metodo per il suo calcolo.
 
-### Articolo 5
+#### Articolo 5
 
 La capacita' produttiva non utilizzata, disponibile per un Paese partecipante nell'ambito della giurisdizione di un altro paese puo' essere accreditata a fronte del proprio impegno per le riserve di emergenza sulla stessa base della capacita' produttiva petrolifera non utilizzata presente nell'ambito della propria giurisdizione e soggetta alle disposizioni dell'articolo 4 di questo Allegato, a condizione che il Governo dell'altro paese abbia un accordo con il Governo del Paese partecipante in base al quale non porra' alcun impedimento al trasferimento verso il Paese partecipante di petrolio greggio originato da tale capacita' produttiva inutilizzata, in una emergenza.
 
-### Articolo 6
+#### Articolo 6
 
 Il Gruppo permanente per i problemi di emergenza esaminera' e riferira' al Comitato direttivo circa la possibilita' di accreditare a fronte dell'impegno per le riserve di emergenza di un Paese partecipante, citato nell'articolo 2, paragrafo 2, dell'Accordo, investimenti a lungo termine che abbiano l'effetto di ridurre la dipendenza dei Paesi partecipanti dalle importazioni petrolifere.
 
-### Articolo 7
+#### Articolo 7
 
 1\. Il Gruppo permanente per i problemi di emergenza esaminera' e riferira' al Comitato direttivo circa il periodo di riferimento definito all'articolo 2, paragrafo 1, dell'Accordo, tenendo particolarmente in conto elementi quali tasso di crescita, variazioni stagionali dei consumi e cambiamenti ciclici.
 
 2\. Una decisione del Comitato dei Ministri volta a modificare la definizione del periodo di riferimento citato al paragrafo 1 verra' adottata alla unanimita'.
 
-### Articolo 8
+#### Articolo 8
 
 Il Gruppo permanente per i problemi di emergenza esaminera' riferendo al Comitato direttivo tutti gli elementi dal Capitolo I al Capitolo IV dell'Accordo per eliminare possibili anomalie matematiche e statistiche.
 
-### Articolo 9
+#### Articolo 9
 
 I rapporti del Gruppo permanente per i problemi di emergenza relativi agli argomenti menzionati nel presente Allegato saranno sottoposti al Comitato direttivo entro il 1 aprile 1975. Il Comitato direttivo avanzera' proposte adeguate al Comitato dei Ministri il quale, a maggioranza, decidera' su queste proposte non piu' tardi del 1 luglio 1975 ad eccezione di quanto previsto nell'articolo 7, paragrafo 2, del presente Allegato.

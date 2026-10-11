@@ -46,11 +46,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni per l'accesso e lo scambio di informazioni
 
-### Disposizioni per l'accesso e lo scambio di informazioni
-
-#### Art. 1
+### Art. 1
 
 Obiettivo
 
@@ -154,7 +152,7 @@ Obiettivo
 
 > \- Il decreto legislativo 30 giugno 2003, n. 196 (Codice in materia di protezione dei dati personali) e' pubblicato nella Gazzetta Ufficiale del 29 luglio 2003, n. 174.
 
-#### Art. 2
+### Art. 2
 
 Ambito di applicazione
 
@@ -176,7 +174,7 @@ g) circolazione su una corsia vietata;
 
 h) uso indebito di telefono cellulare o di altri dispositivi di comunicazione durante la guida.
 
-#### Art. 3
+### Art. 3
 
 Definizioni
 
@@ -276,7 +274,7 @@ v) ANV, l'Archivio nazionale dei veicoli di cui all'articolo 226, comma 5, del C
 
 > (Omissis)».
 
-#### Art. 4
+### Art. 4
 
 Procedura per lo scambio delle informazioni
 
@@ -312,7 +310,7 @@ c) garantisce la riservatezza dei dati trasmessi attraverso l'uso dell'applicazi
 
 > \- La decisione 2008/616/GAI e 2008/615/GAI sono pubblicate nella G.U.U.E. 6 agosto 2008, n. L 210.
 
-#### Art. 5
+### Art. 5
 
 Accesso alle informazioni
 
@@ -324,7 +322,7 @@ Accesso alle informazioni
 
 > \- Per la direttiva 2011/82/UE si veda nelle note alle premesse.
 
-#### Art. 6
+### Art. 6
 
 Lettera d'informazione sulle infrazioni
 
@@ -344,11 +342,9 @@ in materia di sicurezza stradale
 
 > \- Per l'art. 12 del Codice della strada si veda nelle note all'art. 3.
 
-## Capo II
+## Capo II - Disposizioni in materia di protezione dei dati personali
 
-### Disposizioni in materia di protezione dei dati personali
-
-#### Art. 7
+### Art. 7
 
 Protezione dei dati personali
 
@@ -362,7 +358,7 @@ Protezione dei dati personali
 
 > \- Per il decreto legislativo 30 giugno 2003, n. 196, si veda nelle note alle premesse.
 
-#### Art. 8
+### Art. 8
 
 Verifica della qualita' dei dati comunicati o ricevuti
 
@@ -370,7 +366,7 @@ Verifica della qualita' dei dati comunicati o ricevuti
 
 2\. Se la Motorizzazione ha motivo di ritenere che i dati ricevuti siano inesatti ne da immediata comunicazione al punto di contatto nazionale dello Stato membro che li ha inviati.
 
-#### Art. 9
+### Art. 9
 
 Termini
 
@@ -380,7 +376,7 @@ Termini
 
 3\. Nei casi in cui il punto di contatto di un altro Stato membro indichi termini per la conservazione dei dati comunicati, la Motorizzazione ne informa quanto prima gli organi accertatori i quali, alla scadenza, devono cancellare i dati. Tale obbligo non sussiste per gli organi accertatori se, alla scadenza dei termini, i dati sono necessari per lo svolgimento del procedimento di infrazione in corso, per l'accertamento di reati o per l'esecuzione di sanzioni.
 
-#### Art. 10
+### Art. 10
 
 Diritti dell'interessato
 
@@ -548,7 +544,7 @@ L'indicatore di validita' aggiunto puo' essere tolto a richiesta o con il consen
 
 > 14.».
 
-#### Art. 11
+### Art. 11
 
 Informazione dell'interessato
 
@@ -558,7 +554,7 @@ Informazione dell'interessato
 
 3\. La Motorizzazione puo' chiedere al punto di contatto dello Stato membro di immatricolazione di non informare l'interessato della comunicazione dei dati in conformita' alla legge.
 
-#### Art. 12
+### Art. 12
 
 Finalita' del trattamento
 
@@ -566,13 +562,13 @@ Finalita' del trattamento
 
 2\. La Motorizzazione, in qualita' di punto di contatto nazionale, puo' utilizzare i dati ricevuti in una risposta solo ai fini della procedura in base alla quale e' stata fatta la consultazione, comunicandoli agli organi accertatori. Dopo tale comunicazione i dati sono cancellati.
 
-#### Art. 13
+### Art. 13
 
 Comunicazione a soggetti privati
 
 1\. I dati ricevuti possono essere comunicati dalla Motorizzazione e dagli organi accertatori a privati solo nei casi specificamente previsti dalla legge, informandoli delle finalita' esclusive per le quali i dati possono essere utilizzati.
 
-#### Art. 14
+### Art. 14
 
 Misure di sicurezza
 
@@ -644,7 +640,7 @@ Misure di sicurezza
 
 > «Art. 36. (Adeguamento). - In vigore dal 22 agosto 2008. - 1. Il disciplinare tecnico di cui all'allegato B), relativo alle misure minime di cui al presente capo, e' aggiornato periodicamente con decreto del Ministro della giustizia di concerto con il Ministro per le innovazioni e le tecnologie e il Ministro per la semplificazione normativa, in relazione all'evoluzione tecnica e all'esperienza maturata nel settore».
 
-#### Art. 15
+### Art. 15
 
 Autorita' nazionale di controllo
 
@@ -654,7 +650,7 @@ Autorita' nazionale di controllo
 
 > \- Per la direttiva 2011/82/UE si veda nelle note alle premesse.
 
-#### Art. 16
+### Art. 16
 
 Informazioni destinate agli utenti della strada nell'Unione europea
 
@@ -678,11 +674,9 @@ Informazioni destinate agli utenti della strada nell'Unione europea
 
 > 3\. Restano salvi i rapporti finanziari direttamente intrattenuti con le Comunita' europee dalle amministrazioni e dagli organismi di cui all'articolo 2 del decreto del Presidente della Repubblica 16 aprile 1971, n. 321 , ed alla legge 26 novembre 1975, n. 748».
 
-## Capo III
+## Capo III - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 17
+### Art. 17
 
 Disposizioni di carattere finanziario
 
@@ -694,7 +688,7 @@ Disposizioni di carattere finanziario
 
 4\. Fatto salvo quanto disposto ai comma 1 e 2 del presente articolo, le amministrazioni pubbliche competenti provvedono agli adempimenti previsti dal presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 18
+### Art. 18
 
 Entrata in vigore
 
@@ -724,13 +718,13 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Allegato 1
+### Allegato 1
 
 Allegato 1
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 2
+### Allegato 2
 
 Allegato 2
 

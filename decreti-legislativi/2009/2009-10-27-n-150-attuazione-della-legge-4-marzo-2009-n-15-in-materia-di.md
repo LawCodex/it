@@ -62,11 +62,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## TITOLO I
+## TITOLO I - PRINCIPI GENERALI
 
-### PRINCIPI GENERALI
-
-###### Art. 1
+#### Art. 1
 
 Oggetto e finalita'
 
@@ -80,17 +78,11 @@ Oggetto e finalita'
 
 2-quater. ((L'introduzione della partecipazione di soggetti esterni ai processi di valutazione avviene in modo graduale, secondo linee guida adottate con decreto del Ministro per la pubblica amministrazione che tengano conto della dimensione dell'amministrazione e del grado di complessita' dell'organizzazione del lavoro. L'apporto di soggetti esterni ha natura sussidiaria e non sostitutiva rispetto al giudizio del responsabile del personale)).
 
-## TITOLO II
+## TITOLO II - MISURAZIONE, VALUTAZIONE E TRASPARENZA DELLA PERFORMANCE
 
-### MISURAZIONE, VALUTAZIONE
+### CAPO I - Disposizioni generali
 
-#### E TRASPARENZA DELLA PERFORMANCE
-
-##### CAPO I
-
-###### Disposizioni generali
-
-###### Art. 2
+#### Art. 2
 
 Oggetto e finalita'
 
@@ -102,7 +94,7 @@ a) ((una parte di valutazione collegiale tra dirigenti, nella quale, al fine di 
 
 b) ((ove possibile, una parte di valutazione riguardante la performance organizzativa di strutture, complesse o no, da parte degli utenti esterni di riferimento, ad esclusione delle unita' organizzative che svolgono attivita' fuori del territorio nazionale)).
 
-###### Art. 3
+#### Art. 3
 
 Principi generali
 
@@ -122,11 +114,9 @@ Principi generali
 
 6\. Fermo quanto previsto dall'articolo 13, dall'applicazione delle disposizioni del presente Titolo non devono derivare nuovi o maggiori oneri per la finanza pubblica. Le amministrazioni interessate utilizzano a tale fine le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-## CAPO II
+### CAPO II - Il ciclo di gestione della performance
 
-### Il ciclo di gestione della performance
-
-###### Art. 4
+#### Art. 4
 
 Ciclo di gestione della performance
 
@@ -152,7 +142,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 25 maggio 2017, n. 74 ha disposto (con l'art. 2, comma 1, lettera b)) che al comma 2, lettera f), del presente articolo dopo la parola: «organi» sono inserite le seguenti: «di controllo interni ed».
 
-###### Art. 5
+#### Art. 5
 
 Obiettivi e indicatori
 
@@ -190,7 +180,7 @@ g-ter) ((definiti, con riguardo alle lettere a), b), c), d), e), f), g) e g-bis)
 
 2-bis. Gli obiettivi, anche nell'ottica di una corretta allocazione delle risorse, assicurano l'effettiva inclusione sociale e le possibilita' di accesso delle persone con disabilita'.
 
-###### Art. 6
+#### Art. 6
 
 Monitoraggio della performance
 
@@ -198,7 +188,7 @@ Monitoraggio della performance
 
 2\. COMMA ABROGATO DAL D.L. 25 MAGGIO 2017, N. 74.
 
-###### Art. 7
+#### Art. 7
 
 Sistema di misurazione e valutazione della performance
 
@@ -226,7 +216,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 24 giugno 2014, n. 90 convertito con modificazioni dalla L. 11 agosto 2014, n. 114 ha disposto (con l'art. 19, comma 9) che "Al fine di concentrare l'attivita' dell'Autorita' nazionale anticorruzione sui compiti di trasparenza e di prevenzione della corruzione nelle pubbliche amministrazioni, le funzioni della predetta Autorita' in materia di misurazione e valutazione della performance, di cui agli articoli 7, 8, 9, 10, 12, 13 e 14 del decreto legislativo 27 ottobre 2009, n. 150, sono trasferite al Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 8
+#### Art. 8
 
 Ambiti di misurazione e valutazione della performance organizzativa
 
@@ -258,7 +248,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 24 giugno 2014, n. 90 convertito con modificazioni dalla L. 11 agosto 2014, n. 114 ha disposto (con l'art. 19, comma 9) che "Al fine di concentrare l'attivita' dell'Autorita' nazionale anticorruzione sui compiti di trasparenza e di prevenzione della corruzione nelle pubbliche amministrazioni, le funzioni della predetta Autorita' in materia di misurazione e valutazione della performance, di cui agli articoli 7, 8, 9, 10, 12, 13 e 14 del decreto legislativo 27 ottobre 2009, n. 150, sono trasferite al Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 9
+#### Art. 9
 
 Ambiti di misurazione e valutazione della performance individuale
 
@@ -310,7 +300,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 24 giugno 2014, n. 90 convertito con modificazioni dalla L. 11 agosto 2014, n. 114 ha disposto (con l'art. 19, comma 9) che "Al fine di concentrare l'attivita' dell'Autorita' nazionale anticorruzione sui compiti di trasparenza e di prevenzione della corruzione nelle pubbliche amministrazioni, le funzioni della predetta Autorita' in materia di misurazione e valutazione della performance, di cui agli articoli 7, 8, 9, 10, 12, 13 e 14 del decreto legislativo 27 ottobre 2009, n. 150, sono trasferite al Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 10
+#### Art. 10
 
 Piano della performance e Relazione sulla performance
 
@@ -350,11 +340,9 @@ Il D.P.R. 24 giugno 2022, n. 81, ha disposto (con l'art. 1, comma 1, lettera c))
 
 c) articolo 10, commi 1, lettera a), e 1-ter, del decreto legislativo 27 ottobre 2009, n. 150 (Piano della performance)".
 
-## CAPO III
+### CAPO III - Trasparenza e rendicontazione della performance
 
-### Trasparenza e rendicontazione della performance
-
-###### Art. 11
+#### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 MARZO 2013, N. 33)) ((5))
 
@@ -364,13 +352,9 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 14 marzo 2013, n. 33 ha disposto (con l'art. 52, comma 5) che "Dalla data di entrata in vigore del presente decreto, qualsiasi rinvio al Programma triennale per la trasparenza e l'integrita' di cui all'articolo 11 del decreto legislativo 27 ottobre 2009, n. 150, si intende riferito all'articolo 10".
 
-## CAPO IV
+### CAPO IV - Soggetti del processo di misurazione e valutazione della performance
 
-### Soggetti del processo di misurazione e valutazione
-
-#### della - performance
-
-###### Art. 12
+#### Art. 12
 
 Soggetti
 
@@ -396,7 +380,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 24 giugno 2014, n. 90 convertito con modificazioni dalla L. 11 agosto 2014, n. 114 ha disposto (con l'art. 19, comma 9) che "Al fine di concentrare l'attivita' dell'Autorita' nazionale anticorruzione sui compiti di trasparenza e di prevenzione della corruzione nelle pubbliche amministrazioni, le funzioni della predetta Autorita' in materia di misurazione e valutazione della performance, di cui agli articoli 7, 8, 9, 10, 12, 13 e 14 del decreto legislativo 27 ottobre 2009, n. 150, sono trasferite al Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 13
+#### Art. 13
 
 ((Autorita' nazionale anticorruzione))
 
@@ -472,7 +456,7 @@ Ha inoltre disposto (con l'art. 19, comma 9) che "Al fine di concentrare l'attiv
 
 Con riguardo al solo trasferimento delle funzioni di cui all'articolo 13, comma 6, lettere m) e p), del decreto legislativo n. 150 del 2009, relativamente ai progetti sperimentali e al Portale della trasparenza, detto trasferimento di funzioni deve avvenire previo accordo tra il Dipartimento della funzione pubblica e l'Autorita' nazionale anticorruzione, anche al fine di individuare i progetti che possono piu' opportunamente rimanere nell'ambito della medesima Autorita' nazionale anticorruzione".
 
-###### Art. 14
+#### Art. 14
 
 Organismo indipendente di valutazione della performance
 
@@ -528,7 +512,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 24 giugno 2014, n. 90 convertito con modificazioni dalla L. 11 agosto 2014, n. 114 ha disposto (con l'art. 19, comma 9) che "Al fine di concentrare l'attivita' dell'Autorita' nazionale anticorruzione sui compiti di trasparenza e di prevenzione della corruzione nelle pubbliche amministrazioni, le funzioni della predetta Autorita' in materia di misurazione e valutazione della performance, di cui agli articoli 7, 8, 9, 10, 12, 13 e 14 del decreto legislativo 27 ottobre 2009, n. 150, sono trasferite al Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 14-bis - Elenco, durata e requisiti dei componenti degli OIV
+#### Art. 14-bis - Elenco, durata e requisiti dei componenti degli OIV
 
 1\. Il Dipartimento della funzione pubblica tiene e aggiorna l'Elenco nazionale dei componenti degli Organismi indipendenti di valutazione, secondo le modalita' indicate nel decreto adottato ai sensi dell'articolo 19, comma 10, del decreto-legge n. 90 del 2014.
 
@@ -542,7 +526,7 @@ Il D.L. 24 giugno 2014, n. 90 convertito con modificazioni dalla L. 11 agosto 20
 
 6\. Le nomine e i rinnovi dei componenti degli Organismi indipendenti di valutazione sono nulli in caso di inosservanza delle modalita' e dei requisiti stabiliti dall'articolo 14 e dal presente articolo. Il Dipartimento della funzione pubblica segnala alle amministrazioni interessate l'inosservanza delle predette disposizioni.
 
-###### Art. 15
+#### Art. 15
 
 Responsabilita' dell'organo di indirizzo politico-amministrativo
 
@@ -558,7 +542,7 @@ c) verifica il conseguimento effettivo degli obiettivi strategici;
 
 d) definisce il Programma triennale per la trasparenza e l'integrita' di cui all'articolo 11, nonche' gli eventuali aggiornamenti annuali.
 
-###### Art. 16
+#### Art. 16
 
 Norme per gli Enti territoriali e il Servizio sanitario nazionale
 
@@ -568,15 +552,11 @@ Norme per gli Enti territoriali e il Servizio sanitario nazionale
 
 3\. ((COMMA ABROGATO DAL D.LGS. 25 MAGGIO 2017, N. 74)).
 
-## TITOLO III
+## TITOLO III - MERITO E PREMI
 
-### MERITO E PREMI
+### CAPO I - Disposizioni generali
 
-##### CAPO I
-
-###### Disposizioni generali
-
-###### Art. 17
+#### Art. 17
 
 Oggetto e finalita'
 
@@ -584,7 +564,7 @@ Oggetto e finalita'
 
 2\. Dall'applicazione delle disposizioni del presente Titolo non devono derivare nuovi o maggiori oneri per la finanza pubblica. Le amministrazioni interessate utilizzano a tale fine le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-###### Art. 18
+#### Art. 18
 
 Criteri e modalita' per la valorizzazione del merito ed incentivazione della performance
 
@@ -592,7 +572,7 @@ Criteri e modalita' per la valorizzazione del merito ed incentivazione della per
 
 2\. E' vietata la distribuzione in maniera indifferenziata o sulla base di automatismi di incentivi e premi collegati alla performance in assenza delle verifiche e attestazioni sui sistemi di misurazione e valutazione adottati ai sensi del presente decreto.
 
-###### Art. 19
+#### Art. 19
 
 (( (Criteri per la differenziazione delle valutazioni). ))
 
@@ -606,7 +586,7 @@ AGGIORNAMENTO (4)
 
 Il D.Lgs. 1 agosto 2011, n. 141 ha disposto (con l'art. 6, comma 1) che "La differenziazione retributiva in fasce prevista dagli articoli 19, commi 2 e 3, e 31, comma 2, del decreto legislativo 27 ottobre 2009, n. 150, si applica a partire dalla tornata di contrattazione collettiva successiva a quella relativa al quadriennio 2006-2009. Ai fini previsti dalle citate disposizioni, nelle more dei predetti rinnovi contrattuali, possono essere utilizzate le eventuali economie aggiuntive destinate all'erogazione dei premi dall'articolo 16, comma 5, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111".
 
-###### Art. 19-bis
+#### Art. 19-bis
 
 (( (Partecipazione dei cittadini e degli altri utenti finali). ))
 
@@ -620,11 +600,9 @@ Il D.Lgs. 1 agosto 2011, n. 141 ha disposto (con l'art. 6, comma 1) che "La diff
 
 5\. L'organismo indipendente di valutazione verifica l'effettiva adozione dei predetti sistemi di rilevazione, assicura la pubblicazione dei risultati in forma chiara e comprensibile e ne tiene conto ai fini della valutazione della performance organizzativa dell'amministrazione e in particolare, ai fini della validazione della Relazione sulla performance di cui all'articolo 14, comma 4, lettera c).))
 
-## CAPO II
+### CAPO II - Premi
 
-### Premi
-
-###### Art. 20
+#### Art. 20
 
 Strumenti
 
@@ -644,7 +622,7 @@ f) l'accesso a percorsi di alta formazione e di crescita professionale, in ambit
 
 2\. Gli incentivi di cui alle lettere a), b), c), ed e) del comma 1 sono riconosciuti a valere sulle risorse disponibili per la contrattazione collettiva integrativa.
 
-###### Art. 21
+#### Art. 21
 
 Bonus annuale delle eccellenze
 
@@ -656,7 +634,7 @@ Bonus annuale delle eccellenze
 
 4\. Entro il mese di aprile di ogni anno, le amministrazioni pubbliche, a conclusione del processo di valutazione della performance, assegnano al personale il bonus annuale relativo all'esercizio precedente.
 
-###### Art. 22
+#### Art. 22
 
 Premio annuale per l'innovazione
 
@@ -668,7 +646,7 @@ Premio annuale per l'innovazione
 
 4\. Il progetto premiato e' l'unico candidabile al Premio nazionale per l'innovazione nelle amministrazioni pubbliche, promosso dal Ministro per la pubblica amministrazione e l'innovazione.
 
-###### Art. 23
+#### Art. 23
 
 Progressioni economiche
 
@@ -678,7 +656,7 @@ Progressioni economiche
 
 3\. ((COMMA ABROGATO DAL D.LGS. 25 MAGGIO 2017, N. 74)).
 
-###### Art. 24
+#### Art. 24
 
 Progressioni di carriera
 
@@ -688,7 +666,7 @@ Progressioni di carriera
 
 3\. ((COMMA ABROGATO DAL D.LGS. 25 MAGGIO 2017, N. 74)).
 
-###### Art. 25
+#### Art. 25
 
 Attribuzione di incarichi e responsabilita'
 
@@ -696,7 +674,7 @@ Attribuzione di incarichi e responsabilita'
 
 2\. La professionalita' sviluppata e attestata dal sistema di misurazione e valutazione costituisce criterio per l'assegnazione di incarichi e responsabilita' secondo criteri oggettivi e pubblici.
 
-###### Art. 26
+#### Art. 26
 
 Accesso a percorsi di alta formazione e di crescita professionale
 
@@ -708,7 +686,7 @@ b) favoriscono la crescita professionale e l'ulteriore sviluppo di competenze de
 
 2\. Gli incentivi di cui al comma 1 sono riconosciuti nei limiti delle risorse disponibili di ciascuna amministrazione.
 
-###### Art. 27
+#### Art. 27
 
 Premio di efficienza
 
@@ -804,7 +782,7 @@ Premio di efficienza
 
 > «34. Ai sensi e con le modalita' di cui al comma 33, nel quadro delle generali compatibilita' economico-finanziarie, puo' essere, altresi', devoluta al finanziamento della contrattazione integrativa delle amministrazioni ivi indicate una quota parte delle risorse eventualmente derivanti dai risparmi aggiuntivi rispetto a quelli gia' considerati ai fini del miglioramento dei saldi di finanza pubblica o comunque destinati a tale scopo in forza di una specifica disposizione normativa, realizzati per effetto di processi amministrativi di razionalizzazione e di riduzione dei costi di funzionamento dell'amministrazione, attivati in applicazione del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133.».
 
-###### Art. 28
+#### Art. 28
 
 Qualita' dei servizi pubblici
 
@@ -814,11 +792,9 @@ Qualita' dei servizi pubblici
 
 > \- Per il riferimento al comma 2 dell'art. 11 del gia' citato decreto legislativo n. 286 del 1999, cosi' come modificato dal presente decreto legislativo, vedasi in note all'art. 13.
 
-## CAPO III
+### CAPO III - Norme finali, transitorie e abrogazioni
 
-### Norme finali, transitorie e abrogazioni
-
-###### Art. 29
+#### Art. 29
 
 Inderogabilita'
 
@@ -834,7 +810,7 @@ Inderogabilita'
 
 > La nullita' di singole clausole non importa la nullita' del contratto, quando le clausole nulle sono sostituite di diritto da norme imperative.».
 
-###### Art. 30
+#### Art. 30
 
 Norme transitorie e abrogazioni
 
@@ -916,7 +892,7 @@ E' possibile visualizzare il testo originario accedendo alla versione pdf della 
 
 > \- Per il riferimento all'art. 11 del citato decreto legislativo n. 286 del 1999, cosi' come modificato dal presente decreto legislativo vedasi in note all'art. 13.
 
-###### Art. 31
+#### Art. 31
 
 Norme per gli Enti territoriali e il Servizio sanitario nazionale
 
@@ -930,23 +906,17 @@ Norme per gli Enti territoriali e il Servizio sanitario nazionale
 
 5\. ((COMMA ABROGATO DAL D.LGS. 25 MAGGIO 2017, N. 74)).
 
-## TITOLO IV
+## TITOLO IV - NUOVE NORME GENERALI SULL'ORDINAMENTO DEL LAVORO ALLE DIPENDENZE DELLE AMMINISTRAZIONI PUBBLICHE
 
-### NUOVE NORME GENERALI SULL'ORDINAMENTO DEL LAVORO ALLE DIPENDENZE
+### CAPO I - Principi generali
 
-#### DELLE AMMINISTRAZIONI PUBBLICHE
-
-##### CAPO I
-
-###### Principi generali
-
-###### Art. 32
+#### Art. 32
 
 Oggetto, ambito e finalita'
 
 1\. Le disposizioni del presente Capo definiscono la ripartizione tra le materie sottoposte alla legge, nonche' sulla base di questa, ad atti organizzativi e all'autonoma responsabilita' del dirigente nella gestione delle risorse umane e quelle oggetto della contrattazione collettiva.
 
-###### Art. 33
+#### Art. 33
 
 Modifiche all'articolo 2 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -964,7 +934,7 @@ c) dopo il comma 3 e' aggiunto il seguente:
 
 > \- Per il riferimento all'art. 2 del gia' citato decreto legislativo n. 165 del 2001, cosi' come modificato dal presente decreto legislativo, vedasi in note all'art. 1.
 
-###### Art. 34
+#### Art. 34
 
 Modifica all'articolo 5 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -990,7 +960,7 @@ b) dopo il comma 3 e' aggiunto il seguente:
 
 > 3-bis. Le disposizioni del presente articolo si applicano anche alle Autorita' amministrative indipendenti.».
 
-###### Art. 35
+#### Art. 35
 
 Modifica all'articolo 6 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1018,7 +988,7 @@ Modifica all'articolo 6 del decreto legislativo 30 marzo 2001, n. 165
 
 > 6\. Le amministrazioni pubbliche che non provvedono agli adempimenti di cui al presente articolo non possono assumere nuovo personale, compreso quello appartenente alle categorie protette.».
 
-###### Art. 36
+#### Art. 36
 
 Modifica all'articolo 9 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1026,17 +996,15 @@ Modifica all'articolo 9 del decreto legislativo 30 marzo 2001, n. 165
 
 «Art. 9 (Partecipazione sindacale). - 1. Fermo restando quanto previsto dall'articolo 5, comma 2, i contratti collettivi nazionali disciplinano le modalita' e gli istituti della partecipazione.».
 
-## CAPO II
+### CAPO II - Dirigenza pubblica
 
-### Dirigenza pubblica
-
-###### Art. 37
+#### Art. 37
 
 Oggetto, ambito di applicazione e finalita
 
 1\. Le disposizioni del presente capo modificano la disciplina della dirigenza pubblica per conseguire la migliore organizzazione del lavoro e assicurare il progressivo miglioramento della qualita' delle prestazioni erogate al pubblico, utilizzando anche i criteri di gestione e di valutazione del settore privato, al fine di realizzare adeguati livelli di produttivita' del lavoro pubblico, di favorire il riconoscimento di meriti e demeriti, e di rafforzare il principio di distinzione tra le funzioni di indirizzo e controllo spettanti agli organi di governo e le funzioni di gestione amministrativa spettanti alla dirigenza, nel rispetto della giurisprudenza costituzionale in materia, regolando il rapporto tra organi di vertice e dirigenti titolari di incarichi apicali in modo da garantire la piena e coerente attuazione dell'indirizzo politico in ambito amministrativo.
 
-###### Art. 38
+#### Art. 38
 
 Modifica all'articolo 16 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1050,7 +1018,7 @@ b) dopo la lettera l) e' aggiunta la seguente: «l-bis) concorrono alla definizi
 
 > \- Per il riferimento all'art. 16 del gia' citato decreto legislativo n. 165 del 2001, cosi' come modificato dal presente decreto legislativo, vedasi in note all'art. 7.
 
-###### Art. 39
+#### Art. 39
 
 Modifica all'articolo 17 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1066,7 +1034,7 @@ c) dopo la lettera e) e' aggiunta seguente: «e-bis) effettuano la valutazione d
 
 > \- Per il riferimento all'art. 17 del gia' citato decreto legislativo n. 165 del 2001, cosi' come modificato dal presente decreto legislativo, vedasi in note all'art. 7.
 
-###### Art. 40
+#### Art. 40
 
 Modifica all'articolo 19 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1148,7 +1116,7 @@ g) al comma 8, le parole: «, al comma 5-bis, limitatamente al personale non app
 
 > 12-bis. Le disposizioni del presente articolo costituiscono norme non derogabili dai contratti o accordi collettivi.».
 
-###### Art. 41
+#### Art. 41
 
 Modifica all'articolo 21 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1170,7 +1138,7 @@ b) dopo il comma 1, e' inserito il seguente: «1-bis. Al di fuori dei casi di cu
 
 > 3\. Restano ferme le disposizioni vigenti per il personale delle qualifiche dirigenziali delle Forze di polizia, delle carriere diplomatica e prefettizia e delle Forze armate nonche' del Corpo nazionale dei vigili del fuoco.».
 
-###### Art. 42
+#### Art. 42
 
 Modifica all'articolo 22 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1186,7 +1154,7 @@ Per la partecipazione al Comitato non e' prevista la corresponsione di emolument
 
 3\. Il parere del Comitato dei garanti viene reso entro il termine di quarantacinque giorni dalla richiesta; decorso inutilmente tale termine si prescinde dal parere.».
 
-###### Art. 43
+#### Art. 43
 
 Modifiche all'articolo 23 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1208,7 +1176,7 @@ E' possibile visualizzare il testo originario accedendo alla versione pdf della 
 
 > «1. In ogni amministrazione dello Stato, anche ad ordinamento autonomo, e' istituito il ruolo dei dirigenti, che si articola nella prima e nella seconda fascia, nel cui ambito sono definite apposite sezioni in modo da garantire la eventuale specificita' tecnica. I dirigenti della seconda fascia sono reclutati attraverso i meccanismi di accesso di cui all'art. 28. I dirigenti della seconda fascia transitano nella prima qualora abbiano ricoperto incarichi di direzione di uffici dirigenziali generali o equivalenti, in base ai particolari ordinamenti di cui all'art. 19, comma 11, per un periodo pari almeno a cinque anni senza essere incorsi nelle misure previste dall'art. 21 per le ipotesi di responsabilita' dirigenziale.».
 
-###### Art. 44
+#### Art. 44
 
 Modifica all'articolo 23-bis del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1228,7 +1196,7 @@ b) al comma 2, in fine, sono aggiunte le seguenti parole: «in ordine alle propr
 
 > «2. I dirigenti di cui all'art. 19, comma 10, sono collocati a domanda in aspettativa senza assegni per lo svolgimento dei medesimi incarichi di cui al comma 1 del presente articolo, salvo motivato diniego dell'amministrazione di appartenenza in ordine alle proprie preminenti esigenze organizzative.».
 
-###### Art. 45
+#### Art. 45
 
 Modifica all'articolo 24 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1272,7 +1240,7 @@ b) dopo il comma 1 sono inseriti i seguenti:
 
 > 9.».
 
-###### Art. 46
+#### Art. 46
 
 Modifiche all'articolo 28 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1290,7 +1258,7 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-###### Art. 47
+#### Art. 47
 
 Modifica all'articolo 28 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1310,11 +1278,9 @@ Modifica all'articolo 28 del decreto legislativo 30 marzo 2001, n. 165
 
 8\. Le spese sostenute per l'espletamento del periodo di formazione svolto presso le sedi estere di cui al comma 4 sono a carico delle singole amministrazioni nell'ambito delle risorse finanziarie disponibili a legislazione vigente.».
 
-## CAPO III
+### CAPO III - Uffici, piante organiche, mobilita' e accessi
 
-### Uffici, piante organiche, mobilita' e accessi
-
-###### Art. 48
+#### Art. 48
 
 Mobilita' intercompartimentale
 
@@ -1322,7 +1288,7 @@ Mobilita' intercompartimentale
 
 «Art. 29-bis (Mobilita' intercompartimentale). - 1. Al fine di favorire i processi di mobilita' fra i comparti di contrattazione del personale delle pubbliche amministrazioni, con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro per la pubblica amministrazione e l'innovazione, di concerto con il Ministro dell'economia e delle finanze, previo parere della Conferenza unificata di cui all'articolo 8 del decreto legislativo n. 281 del 1997, sentite le Organizzazioni sindacali e' definita, senza nuovi o maggiori oneri per la finanza pubblica, una tabella di equiparazione fra i livelli di inquadramento previsti dai contratti collettivi relativi ai diversi comparti di contrattazione.».
 
-###### Art. 49
+#### Art. 49
 
 Modifiche all'articolo 30 del decreto legislativo 30 marzo 2001, n. 165.
 
@@ -1356,7 +1322,7 @@ E' possibile visualizzare il testo originario accedendo alla versione pdf della 
 
 > 2-quinquies. Salvo diversa previsione, a seguito dell'iscrizione nel ruolo dell'amministrazione di destinazione, al dipendente trasferito per mobilita' si applica esclusivamente il trattamento giuridico ed economico, compreso quello accessorio, previsto nei contratti collettivi vigenti nel comparto della stessa amministrazione.».
 
-###### Art. 50
+#### Art. 50
 
 Modifica all'articolo 33 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1386,7 +1352,7 @@ Modifica all'articolo 33 del decreto legislativo 30 marzo 2001, n. 165
 
 > 8\. Dalla data di collocamento in disponibilita' restano sospese tutte le obbligazioni inerenti al rapporto di lavoro e il lavoratore ha diritto ad un'indennita' pari all'80 per cento dello stipendio e dell'indennita' integrativa speciale, con esclusione di qualsiasi altro emolumento retributivo comunque denominato, per la durata massima di ventiquattro mesi. I periodi di godimento dell'indennita' sono riconosciuti ai fini della determinazione dei requisiti di accesso alla pensione e della misura della stessa. E' riconosciuto altresi' il diritto all'assegno per il nucleo familiare di cui all'art. 2 del decreto-legge 13 marzo 1988, n. 69, convertito, con modificazioni, dalla legge 13 maggio 1988, n. 153, e successive modificazioni ed integrazioni.».
 
-###### Art. 51
+#### Art. 51
 
 Territorializzazione delle procedure concorsuali
 
@@ -1398,7 +1364,7 @@ Territorializzazione delle procedure concorsuali
 
 > «5-ter. Le graduatorie dei concorsi per il reclutamento del personale presso le amministrazioni pubbliche rimangono vigenti per un termine di tre anni dalla data di pubblicazione. Sono fatti salvi i periodi di vigenza inferiori previsti da leggi regionali. Il principio della parita' di condizioni per l'accesso ai pubblici uffici e' garantito, mediante specifiche disposizioni del bando, con riferimento al luogo di residenza dei concorrenti, quando tale requisito sia strumentale all'assolvimento di servizi altrimenti non attuabili o almeno non attuabili con identico risultato.».
 
-###### Art. 52
+#### Art. 52
 
 Modifiche all'articolo 53 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1490,17 +1456,15 @@ E' possibile visualizzare il testo originario accedendo alla versione pdf della 
 
 > 16-bis. La Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica puo' disporre verifiche del rispetto delle disposizioni del presente articolo e art. 1, commi 56 e seguenti, della legge 23 dicembre 1996, n. 662, per il tramite dell'Ispettorato per la funzione pubblica. A tale fine quest'ultimo opera d'intesa con i Servizi ispettivi di finanza pubblica del Dipartimento della Ragioneria generale dello Stato.».
 
-## CAPO IV
+### CAPO IV - Contrattazione collettiva nazionale e integrativa
 
-### Contrattazione collettiva nazionale e integrativa
-
-###### Art. 53
+#### Art. 53
 
 Oggetto, ambito di applicazione e finalita'
 
 1\. Il presente capo reca disposizioni in materia di contrattazione collettiva e integrativa e di funzionalita' delle amministrazioni pubbliche, al fine di conseguire, in coerenza con il modello contrattuale sottoscritto dalle parti sociali, una migliore organizzazione del lavoro e di assicurare il rispetto della ripartizione tra le materie sottoposte alla legge, nonche', sulla base di questa, ad atti organizzativi e all'autonoma determinazione dei dirigenti, e quelle sottoposte alla contrattazione collettiva.
 
-###### Art. 54
+#### Art. 54
 
 Modifiche all'articolo 40 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1530,7 +1494,7 @@ Alla scadenza del termine le parti riassumono le rispettive prerogative e libert
 
 > \- Per il riferimento all'art. 40 del gia' citato decreto legislativo n. 165 del 2001, cosi' come modificato dal presente decreto legislativo, vedasi in note all'art. 13.
 
-###### Art. 55
+#### Art. 55
 
 Modifica all'articolo 40-bis del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1554,7 +1518,7 @@ Il Dipartimento per la funzione pubblica di intesa con il Ministero dell'economi
 
 Gli organi di controllo previsti dal comma 1 vigilano sulla corretta applicazione delle disposizioni del presente articolo.».
 
-###### Art. 56
+#### Art. 56
 
 Modifica all'articolo 41 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1570,7 +1534,7 @@ Modifica all'articolo 41 del decreto legislativo 30 marzo 2001, n. 165
 
 5\. Per la stipulazione degli accordi che definiscono o modificano i comparti o le aree di contrattazione collettiva di cui all'articolo 40, comma 2, o che regolano istituti comuni a piu' comparti le funzioni di indirizzo e le altre competenze inerenti alla contrattazione collettiva sono esercitate collegialmente dai comitati di settore.».
 
-###### Art. 57
+#### Art. 57
 
 Modifica all'articolo 45 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1596,7 +1560,7 @@ c) dopo il comma 3 e' inserito il seguente:
 
 > \- Per il riferimento all'art. 45 del gia' citato decreto legislativo n. 165 del 2001, cosi' come modificato dal presente decreto legislativo, vedasi in note all'art. 21.
 
-###### Art. 58
+#### Art. 58
 
 Modifiche all'articolo 46 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1700,7 +1664,7 @@ g) al comma 12:
 
 > 13\. Le regioni a statuto speciale e le province autonome possono avvalersi, per la contrattazione collettiva di loro competenza, di agenzie tecniche istituite con legge regionale o provinciale ovvero dell'assistenza dell'ARAN ai sensi del comma 2.».
 
-###### Art. 59
+#### Art. 59
 
 Modifiche all'articolo 47 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1734,7 +1698,7 @@ Decorsi sessanta giorni dalla data di entrata in vigore della legge finanziaria 
 
 2\. In ogni caso a decorrere dal mese di aprile dell'anno successivo alla scadenza del contratto collettivo nazionale di lavoro, qualora lo stesso non sia ancora stato rinnovato e non sia stata disposta l'erogazione di cui al comma 1, e' riconosciuta ai dipendenti dei rispettivi comparti di contrattazione, nella misura e con le modalita' stabilite dai contratti nazionali, e comunque entro i limiti previsti dalla legge finanziaria in sede di definizione delle risorse contrattuali,una copertura economica che costituisce un'anticipazione dei benefici complessivi che saranno attribuiti all'atto del rinnovo contrattuale.».
 
-###### Art. 60
+#### Art. 60
 
 Modifiche all'articolo 48 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1766,7 +1730,7 @@ c) il comma 6 e' abrogato.
 
 > 7\. Ferme restando le disposizioni di cui al titolo V del presente decreto, la Corte dei conti, anche nelle sue articolazioni regionali di controllo, verifica periodicamente gli andamenti della spesa per il personale delle pubbliche amministrazioni, utilizzando, per ciascun comparto, insiemi significativi di amministrazioni. A tal fine, la Corte dei conti puo' avvalersi, oltre che dei servizi di controllo interno o nuclei di valutazione, di esperti designati a sua richiesta da amministrazioni ed enti pubblici.».
 
-###### Art. 61
+#### Art. 61
 
 Modifica all'articolo 49 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1778,7 +1742,7 @@ Quando insorgano controversie sull'interpretazione dei contratti collettivi, le 
 
 2\. L'eventuale accordo di interpretazione autentica, stipulato con le procedure di cui all'articolo 47, sostituisce la clausola in questione sin dall'inizio della vigenza del contratto. Qualora tale accordo non comporti oneri aggiuntivi e non vi sia divergenza sulla valutazione degli stessi, il parere del Presidente del Consiglio dei Ministri e' espresso tramite il Ministro per la pubblica amministrazione e l'innovazione, di concerto con il Ministro dell'economia e delle finanze.».
 
-###### Art. 62
+#### Art. 62
 
 Modifiche all'articolo 52 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1812,7 +1776,7 @@ Modifiche all'articolo 52 del decreto legislativo 30 marzo 2001, n. 165
 
 > 6\. Le disposizioni del presente articolo si applicano in sede di attuazioni della nuova disciplina degli ordinamenti professionali prevista dai contratti collettivi e con la decorrenza da questi stabilita. I medesimi contratti collettivi possono regolare diversamente gli effetti di cui ai commi 2, 3 e 4. Fino a tale data, in nessun caso lo svolgimento di mansioni superiori rispetto alla qualifica di appartenenza, puo' comportare il diritto ad avanzamenti automatici nell'inquadramento professionale del lavoratore.».
 
-###### Art. 63
+#### Art. 63
 
 Procedimenti negoziali per il personale ad ordinamento pubblicistico
 
@@ -1924,7 +1888,7 @@ Procedimenti negoziali per il personale ad ordinamento pubblicistico
 
 > 4\. Nei casi in cui le disposizioni generali sul pubblico impiego rinviano per il personale del comparto dei Ministeri alla contrattazione collettiva e si verte in materie diverse da quelle indicate nell'art. 22 e non disciplinate per i funzionari da particolari disposizioni di legge, per lo stesso personale si provvede, sentite le organizzazioni sindacali rappresentative con decreto del Presidente della Repubblica, su proposta del Ministro, di concerto con il Ministro per la funzione pubblica, adottato ai sensi dell'art. 17, comma 1, della legge 23 agosto 1988, n. 400.».
 
-###### Art. 64
+#### Art. 64
 
 Modifiche all'articolo 43 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -1936,7 +1900,7 @@ Modifiche all'articolo 43 del decreto legislativo 30 marzo 2001, n. 165
 
 > «5. I soggetti e le procedure della contrattazione collettiva integrativa sono disciplinati, in conformita' all'art. 40, commi 3-bis e seguenti, dai contratti collettivi nazionali, fermo restando quanto previsto dall'art. 42, comma 7, per gli organismi di rappresentanza unitaria del personale.».
 
-###### Art. 65
+#### Art. 65
 
 Adeguamento ed efficacia dei contratti collettivi vigenti
 
@@ -1958,7 +1922,7 @@ Il D.Lgs. 1 agosto 2011, n. 141 ha disposto (con l'art. 5, comma 1) che "L'artic
 
 Ha inoltre disposto (con l'art. 5, comma 2) che "L'articolo 65, comma 5, del decreto legislativo 27 ottobre 2009, n. 150, si interpreta nel senso che le disposizioni che si applicano dalla tornata contrattuale successiva a quella in corso al momento dell'entrata in vigore dello stesso decreto legislativo 27 ottobre 2009, n. 150, sono esclusivamente quelle relative al procedimento negoziale di approvazione dei contratti collettivi nazionali e, in particolare, quelle contenute negli articoli 41, commi da 1 a 4, 46, commi da 3 a 7, e 47 del decreto legislativo 30 marzo 2001, n. 165, come modificati rispettivamente dagli articoli 56, 58, 59, comma 1, del citato decreto legislativo n. 150 del 2009, nonche' quella dell'articolo 66, comma 3, del decreto legislativo n. 150 del 2009".
 
-###### Art. 66
+#### Art. 66
 
 Abrogazioni
 
@@ -1988,13 +1952,9 @@ L'Ente nazionale aviazione civile (ENAC), l'Agenzia spaziale italiana - (ASI), i
 
 > \- Per il riferimento al comma 2 dell'art. 40, del gia' citato decreto legislativo n. 165 del 2001, cosi' come modificato dal presente decreto legislativo, vedasi in note all'art. 13.
 
-## CAPO V
+### CAPO V - Sanzioni disciplinari e responsabilita' dei dipendenti pubblici
 
-### Sanzioni disciplinari e responsabilita'
-
-#### dei dipendenti pubblici
-
-###### Art. 67
+#### Art. 67
 
 Oggetto e finalita'
 
@@ -2022,7 +1982,7 @@ Oggetto e finalita'
 
 > 5\. Nelle controversie di cui ai commi 1 e 3 e nel caso di cui all'art. 64, comma 3, il ricorso per cassazione puo' essere proposto anche per violazione o falsa applicazione dei contratti e accordi collettivi nazionali di cui all'art. 40.».
 
-###### Art. 68
+#### Art. 68
 
 Ambito di applicazione, codice disciplinare, procedure di conciliazione
 
@@ -2036,7 +1996,7 @@ Ambito di applicazione, codice disciplinare, procedure di conciliazione
 
 4\. Fermo quanto previsto nell'articolo 21, per le infrazioni disciplinari ascrivibili al dirigente ai sensi degli articoli 55-bis, comma 7, e 55-sexies, comma 3, si applicano, ove non diversamente stabilito dal contratto collettivo, le disposizioni di cui al comma 4 del predetto articolo 55-bis, ma le determinazioni conclusive del procedimento sono adottate dal dirigente generale o titolare di incarico conferito ai sensi dell'articolo 19, comma 3.».
 
-###### Art. 69
+#### Art. 69
 
 Disposizioni relative al procedimento disciplinare
 
@@ -2134,13 +2094,13 @@ Art. 55-novies (Identificazione del personale a contatto con il pubblico). - 1. 
 
 2\. Dall'obbligo di cui al comma 1 e' escluso il personale individuato da ciascuna amministrazione sulla base di categorie determinate, in relazione ai compiti ad esse attribuiti, mediante uno o piu' decreti del Presidente del Consiglio dei Ministri o del Ministro per la pubblica amministrazione e l'innovazione, su proposta del Ministro competente ovvero, in relazione al personale delle amministrazioni pubbliche non statali, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano o di Conferenza Stato-citta' ed autonomie locali.».
 
-###### Art. 70
+#### Art. 70
 
 Comunicazione della sentenza
 
 1\. Dopo l'articolo 154-bis del decreto legislativo 28 luglio 1989, n. 271, e' inserito il seguente: «Art. 154-ter (Comunicazione della sentenza). - 1. La cancelleria del giudice che ha pronunciato sentenza penale nei confronti di un lavoratore dipendente di un'amministrazione pubblica ne comunica il dispositivo all'amministrazione di appartenenza e, su richiesta di questa, trasmette copia integrale del provvedimento. La comunicazione e la trasmissione sono effettuate con modalita' telematiche, ai sensi del decreto legislativo 7 marzo 2005, n. 82, entro trenta giorni dalla data del deposito.».
 
-###### Art. 71
+#### Art. 71
 
 Ampliamento dei poteri ispettivi
 
@@ -2172,7 +2132,7 @@ Gli ispettori, nell'esercizio delle loro funzioni, hanno piena autonomia funzion
 
 > 6\. Presso la Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica e' istituito l'Ispettorato per la funzione pubblica, che opera alle dirette dipendenze del Ministro delegato. L'Ispettorato vigila e svolge verifiche sulla conformita' dell'azione amministrativa ai principi di imparzialita' e buon andamento, sull'efficacia della sua attivita' con particolare riferimento alle riforme volte alla semplificazione delle procedure, sul corretto conferimento degli incarichi, sull'esercizio dei poteri disciplinari, sull'osservanza delle disposizioni vigenti in materia di controllo dei costi, dei rendimenti, dei risultati, di verifica dei carichi di lavoro. Collabora alle verifiche ispettive di cui al comma 5. Nell'ambito delle proprie verifiche, l'Ispettorato puo' avvalersi della Guardia di Finanza che opera nell'esercizio dei poteri ad essa attribuiti dalle leggi vigenti. Per le predette finalita' l'Ispettorato si avvale altresi' di un numero complessivo di dieci funzionari scelti tra esperti del Ministero dell'economia e delle finanze, del Ministero dell'interno, o comunque tra il personale di altre amministrazioni pubbliche, in posizione di comando o fuori ruolo, per il quale si applicano l'art. 17, comma 14, della legge 15 maggio 1997, n. 127, e l'art. 56, comma 7, del Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato di cui al decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, e successive modificazioni. Per l'esercizio delle funzioni ispettive connesse, in particolare, al corretto conferimento degli incarichi e ai rapporti di collaborazione, svolte anche d'intesa con il Ministero dell'economia e delle finanze, l'Ispettorato si avvale dei dati comunicati dalle amministrazioni al Dipartimento della funzione pubblica ai sensi dell'art. 53. L'Ispettorato, inoltre, al fine di corrispondere a segnalazioni da parte di cittadini o pubblici dipendenti circa presunte irregolarita', ritardi o inadempienze delle amministrazioni di cui all'art. 1, comma 2, puo' richiedere chiarimenti e riscontri in relazione ai quali l'amministrazione interessata ha l'obbligo di rispondere, anche per via telematica, entro quindici giorni. A conclusione degli accertamenti, gli esiti delle verifiche svolte dall'ispettorato costituiscono obbligo di valutazione, ai fini dell'individuazione delle responsabilita' e delle eventuali sanzioni disciplinari di cui all'art. 55, per l'amministrazione medesima. Gli ispettori, nell'esercizio delle loro funzioni, hanno piena autonomia funzionale ed hanno l'obbligo, ove ne ricorrano le condizioni, di denunciare alla Procura generale della Corte dei conti le irregolarita' riscontrate.».
 
-###### Art. 72
+#### Art. 72
 
 Abrogazioni
 
@@ -2192,7 +2152,7 @@ c) l'articolo 56 del decreto legislativo 30 marzo 2001, n. 165.
 
 > «4. Salvo quanto disposto dall'art. 32-quinquies del codice penale, nel caso sia pronunciata sentenza penale irrevocabile di condanna nei confronti dei dipendenti indicati nel comma 1 dell'art. 3, ancorche' a pena condizionalmente sospesa, l'estinzione del rapporto di lavoro o di impiego puo' essere pronunciata a seguito di procedimento disciplinare. Il procedimento disciplinare deve avere inizio o, in caso di intervenuta sospensione, proseguire entro il termine di novanta giorni dalla comunicazione della sentenza all'amministrazione o all'ente competente per il procedimento disciplinare. Il procedimento disciplinare deve concludersi, [salvi termini diversi previsti dai contratti collettivi nazionali di lavoro,] entro centottanta giorni decorrenti dal termine di inizio o di proseguimento, fermo quanto disposto dall'art. 653 del codice di procedura penale.».
 
-###### Art. 73
+#### Art. 73
 
 Norme transitorie
 
@@ -2206,11 +2166,9 @@ Norme transitorie
 
 > \- Per il riferimento all'art. 2, del gia' citato decreto legislativo n. 165 del 2001, vedasi in note all'art. 1.
 
-## TITOLO V
+## TITOLO V - NORME FINALI E TRANSITORIE
 
-### NORME FINALI E TRANSITORIE
-
-###### Art. 74
+#### Art. 74
 
 Ambito di applicazione
 

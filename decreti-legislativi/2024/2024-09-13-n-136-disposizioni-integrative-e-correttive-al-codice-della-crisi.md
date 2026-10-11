@@ -58,11 +58,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Modifiche al codice della crisi d'impresa e dell'insolvenza di cui al decreto legislativo 12 gennaio 2019, n. 14
 
-### Modifiche al codice della crisi d'impresa e dell'insolvenza di cui al - decreto legislativo 12 gennaio 2019, n. 14
-
-#### Art. 1
+### Art. 1
 
 Modifiche alla Parte prima, Titolo I, Capo I, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -200,7 +198,7 @@ f) alla lettera q), le parole: «il buon esito delle trattative e gli effetti de
 
 > u).».
 
-#### Art. 2
+### Art. 2
 
 Modifiche alla Parte prima, Titolo I, Capo II, Sezione I, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -254,7 +252,7 @@ b) al comma 4, dopo le parole: «I creditori» sono inserite le seguenti: «e tu
 
 > 4\. I creditori e tutti i soggetti interessati alla regolazione della crisi e dell'insolvenza hanno il dovere di collaborare lealmente con il debitore, con l'esperto nella composizione negoziata e con gli organi nominati dall'autorita' giudiziaria e amministrativa e di rispettare l'obbligo di riservatezza sulla situazione del debitore, sulle iniziative da questi assunte e sulle informazioni acquisite. Resta fermo quanto previsto dall'articolo 16, commi 5 e 6.».
 
-#### Art. 3
+### Art. 3
 
 Modifiche alla Parte prima, Titolo I, Capo II, Sezione II, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -298,7 +296,7 @@ b) il comma 2 e' sostituito dal seguente:
 
 > 2\. La prededuzione opera in caso di apertura del concorso e permane anche quando si susseguono piu' procedure.».
 
-#### Art. 4
+### Art. 4
 
 Modifiche alla Parte prima, Titolo I, Capo II, Sezione III, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -362,7 +360,7 @@ e) il comma 6 e' abrogato.
 
 > 6\. (abrogato).».
 
-#### Art. 5
+### Art. 5
 
 Modifiche alla Parte prima, Titolo II, Capo I del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -876,7 +874,7 @@ e) al comma 7, le parole: «dal responsabile dell'organismo di composizione dell
 
 > «Art. 25-quinquies (Limiti di accesso alla composizione negoziata). - 1. L'istanza di cui all'articolo 17 non puo' essere presentata dall'imprenditore in pendenza del procedimento introdotto con domanda di accesso agli strumenti di regolazione della crisi e dell'insolvenza anche nelle ipotesi di cui agli articoli 44, comma 1, lettera a), e 74 o con ricorso ai sensi dell'articolo 54, comma 3. L'istanza non puo' essere altresi' presentata nel caso in cui l'imprenditore, nei quattro mesi precedenti l'istanza medesima, abbia rinunciato alle domande indicate nel primo periodo.».
 
-#### Art. 6
+### Art. 6
 
 Modifiche alla Parte prima, Titolo II, Capo II del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -926,7 +924,7 @@ e) al comma 5, dopo le parole: «liquidazione giudiziale» sono inserite le segu
 
 > 3\. Quando il piano di liquidazione prevede che il trasferimento debba essere eseguito prima della omologazione, all'offerta da' esecuzione l'ausiliario, verificata l'assenza di soluzioni migliori sul mercato, con le modalita' di cui al comma 2, previa autorizzazione del tribunale.».
 
-#### Art. 7
+### Art. 7
 
 Modifiche alla Parte prima, Titolo II, Capo III del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -952,13 +950,13 @@ c) alla rubrica, dopo le parole: «Segnalazione dell'organo di controllo», sono
 
 > «Art. 25-decies (Obblighi di comunicazione per banche e intermediari finanziari). - 1. Le banche e gli altri intermediari finanziari di cui all'articolo 106 del testo unico bancario, nel momento in cui comunicano al cliente variazioni in senso peggiorativo, sospensioni o revoche degli affidamenti, ne danno notizia anche agli organi di controllo societari, se esistenti.».
 
-#### Art. 8
+### Art. 8
 
 Modifiche alla Parte prima, Titolo III del decreto legislativo 12 gennaio 2019, n. 14
 
 1\. Alla parte prima, del decreto legislativo 12 gennaio 2019, n. 14, la rubrica del titolo III e' sostituita dalla seguente: «Procedimento per la regolazione giudiziale della crisi e dell'insolvenza».
 
-#### Art. 9
+### Art. 9
 
 Modifiche alla Parte prima, Titolo III, Capo II del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -984,7 +982,7 @@ Modifiche alla Parte prima, Titolo III, Capo II del decreto legislativo 12 genna
 
 > «Art. 28 (Trasferimento del centro degli interessi principali). - 1. Il trasferimento del centro degli interessi principali non rileva ai fini della competenza quando e' intervenuto nell'anno antecedente al deposito della domanda di accesso a uno strumento di regolazione della crisi e dell'insolvenza o di apertura della liquidazione giudiziale o controllata.».
 
-#### Art. 10
+### Art. 10
 
 Modifiche alla Parte prima, Titolo III, Capo III del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1010,7 +1008,7 @@ b) dopo il comma 1, e' inserito il seguente:
 
 > 4\. La domanda di accesso alla procedura di concordato minore, di concordato preventivo o di omologazione degli accordi di ristrutturazione dei debiti presentata dall'imprenditore cancellato dal registro delle imprese e' inammissibile.».
 
-#### Art. 11
+### Art. 11
 
 Modifiche alla Parte prima, Titolo III, Capo IV, Sezione I, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1032,7 +1030,7 @@ Modifiche alla Parte prima, Titolo III, Capo IV, Sezione I, del decreto legislat
 
 > 3\. Quando la domanda e' presentata ai sensi dell'articolo 44, comma 1, lettera a), il debitore deposita unitamente alla domanda unicamente i bilanci relativi agli ultimi tre esercizi o, per le imprese non soggette all'obbligo di redazione del bilancio, le dichiarazioni dei redditi e le dichiarazioni IRAP concernenti i tre esercizi precedenti, l'elenco nominativo dei creditori con l'indicazione dei rispettivi crediti e delle cause di prelazione, oltre che con l'indicazione del loro domicilio digitale, se ne sono muniti. L'ulteriore documentazione prevista dai commi 1 e 2 deve essere depositata nel termine assegnato dal tribunale ai sensi dell'articolo 44, comma 1, lettera a).».
 
-#### Art. 12
+### Art. 12
 
 Modifiche alla Parte prima, Titolo III, Capo IV, Sezione II del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1336,7 +1334,7 @@ d) al comma 6, le parole «Nel caso previsto dal comma 5» sono sostituite dalle
 
 > 6\. Nei casi previsti dai commi 1 e 5, su istanza del debitore il tribunale, ove ricorrano gravi e giustificati motivi, puo' sospendere i termini per la proposizione delle impugnazioni dello stato passivo e l'attivita' di liquidazione fino al momento in cui la sentenza che pronuncia sulla revoca passa in giudicato.».
 
-#### Art. 13
+### Art. 13
 
 Modifiche alla Parte prima, Titolo III, Capo IV, Sezione III del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1400,13 +1398,13 @@ b) al comma 2, dopo il quinto periodo, e' aggiunto, in fine, il seguente: «In c
 
 > 7\. In caso di revoca o cessazione delle misure protettive, il divieto di acquisire diritti di prelazione, se non concordati con l'imprenditore, viene meno a far data dalla revoca o dalla cessazione delle misure protettive.».
 
-#### Art. 14
+### Art. 14
 
 Modifiche alla Parte prima, Titolo IV del decreto legislativo 12 gennaio 2019, n. 14
 
 1\. Alla parte prima, del decreto legislativo 12 gennaio 2019, n. 14, la rubrica del Titolo IV e' sostituita dalla seguente: «Strumenti di regolazione della crisi e dell'insolvenza».
 
-#### Art. 15
+### Art. 15
 
 Modifiche alla Parte prima, Titolo IV, Capo I, Sezione I del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1466,7 +1464,7 @@ c) al comma 4, le parole: «i creditori» sono sostituite dalle seguenti: «le p
 
 > 5\. Gli atti unilaterali e i contratti posti in essere in esecuzione del piano devono essere provati per iscritto e devono avere data certa.».
 
-#### Art. 16
+### Art. 16
 
 Modifiche alla Parte prima, Titolo IV, Capo I, Sezione II del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1640,7 +1638,7 @@ d) la rubrica e' sostituita dalla seguente: «Effetti degli accordi di ristruttu
 
 > 4\. Fermo quanto previsto dal comma 3, i creditori interessati dalle misure protettive non possono, unilateralmente, rifiutare l'adempimento dei contratti essenziali in corso di esecuzione o provocarne la risoluzione, ne' possono anticiparne la scadenza o modificarli in danno dell'imprenditore per il solo fatto di non essere stati pagati dal debitore. Sono essenziali i contratti necessari per la continuazione della gestione corrente dell'impresa, inclusi i contratti relativi alle forniture la cui interruzione impedisce la prosecuzione dell'attivita' del debitore.».
 
-#### Art. 17
+### Art. 17
 
 Modifiche alla Parte prima, Titolo IV, Capo I-bis del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1692,7 +1690,7 @@ e) dopo il comma 9, e' inserito il seguente:
 
 > 9-bis. Quando il piano prevede, anche prima dell'omologazione, il trasferimento a qualunque titolo dell'azienda o di uno o piu' rami su richiesta dell'imprenditore il tribunale, verificata la funzionalita' degli atti rispetto alla continuita' aziendale e alla migliore soddisfazione dei creditori, puo' autorizzare l'imprenditore a trasferire in qualunque forma l'azienda o uno o piu' suoi rami senza gli effetti di cui all'articolo 2560, secondo comma, del codice civile, dettando le misure ritenute opportune, tenuto conto delle istanze delle parti interessate al fine di tutelare gli interessi coinvolti; resta fermo l'articolo 2112 del codice civile. Il tribunale verifica altresi' il rispetto del principio di competitivita' nella selezione dell'acquirente.».
 
-#### Art. 18
+### Art. 18
 
 Modifiche alla Parte prima, Titolo IV, Capo II, Sezione I del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1740,7 +1738,7 @@ b) al comma 5, le parole: «dei debiti» sono sostituite dalle seguenti: «dell'
 
 > 5\. La liquidazione del compenso dovuto all'organismo di composizione della crisi e' ripartita tra i membri della famiglia in misura proporzionale all'entita' dell'attivo di ciascuno.».
 
-#### Art. 19
+### Art. 19
 
 Modifiche alla Parte prima, Titolo IV, Capo II, Sezione II del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1916,7 +1914,7 @@ d) la rubrica e' sostituita dalla seguente: «Apertura della liquidazione contro
 
 > 3\. Nell'ipotesi di cui al comma 1, il giudice concede termine al debitore per l'integrazione della documentazione e provvede ai sensi dell'articolo 270.».
 
-#### Art. 20
+### Art. 20
 
 Modifiche alla Parte prima, Titolo IV, Capo II, Sezione III del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2132,7 +2130,7 @@ d) la rubrica e' sostituita dalla seguente: «Apertura della liquidazione contro
 
 > 3\. Nell'ipotesi di cui al comma 1, il giudice concede termine al debitore per l'integrazione della documentazione e provvede ai sensi dell'articolo 270.».
 
-#### Art. 21
+### Art. 21
 
 Modifiche alla Parte prima, Titolo IV, Capo III, Sezione I del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2300,7 +2298,7 @@ e) il comma 8 e' abrogato.
 
 > 8\. (abrogato).».
 
-#### Art. 22
+### Art. 22
 
 Modifiche alla Parte prima, Titolo IV, Capo III, Sezione II del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2326,7 +2324,7 @@ Modifiche alla Parte prima, Titolo IV, Capo III, Sezione II del decreto legislat
 
 > 5\. Il commissario giudiziale comunica senza ritardo al pubblico ministero i fatti che possono interessare ai fini delle indagini preliminari in sede penale e dei quali viene a conoscenza nello svolgimento delle sue funzioni.».
 
-#### Art. 23
+### Art. 23
 
 Modifiche alla Parte prima, Titolo IV, Capo III, Sezione III del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2496,7 +2494,7 @@ c) la rubrica e' sostituita dalla seguente: «Finanziamenti prededucibili in ese
 
 > 2\. Il medesimo beneficio opera per l'intero ammontare dei finanziamenti qualora il finanziatore abbia acquisito la qualita' di socio in esecuzione del concordato preventivo.».
 
-#### Art. 24
+### Art. 24
 
 Modifiche alla Parte prima, Titolo IV, Capo III, Sezione IV del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2542,7 +2540,7 @@ b) al comma 3, le parole: «in cancelleria» sono soppresse.
 
 > 5\. Analoga relazione integrativa viene redatta qualora emergano informazioni che i creditori devono conoscere ai fini dell'espressione del voto. Essa e' comunicata ai creditori almeno quindici giorni prima della data iniziale stabilita per il voto ed e' trasmessa al pubblico ministero.».
 
-#### Art. 25
+### Art. 25
 
 Modifiche alla Parte prima, Titolo IV, Capo III, Sezione V del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2614,7 +2612,7 @@ b) dopo il comma 5, e' inserito il seguente:
 
 > Se nel termine stabilito non si raggiungono le maggioranze richieste, il giudice delegato ne riferisce al tribunale, che provvede a norma dell'articolo 49, comma 1, salvo che il debitore, nei sette giorni successivi alla comunicazione di cui all'articolo 110, comma 2, richieda l'omologazione o presti il consenso secondo quanto previsto dall'articolo 112, comma 2.».
 
-#### Art. 26
+### Art. 26
 
 Modifiche alla Parte prima, Titolo IV, Capo III, Sezione VI del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2782,7 +2780,7 @@ Entro trenta giorni dalla ricezione dell'avviso e' ammessa opposizione con ricor
 
 > 8\. In deroga all'articolo 2560 del codice civile, l'acquirente o cessionario dell'azienda non risponde dei debiti pregressi, salvo diversa previsione del piano di concordato.».
 
-#### Art. 27
+### Art. 27
 
 Modifiche alla Parte prima, Titolo IV, Capo III, Sezione VI-bis del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2846,13 +2844,13 @@ c) la rubrica e' sostituita dalla seguente: «Esecuzione delle operazioni societ
 
 > 3\. Le modificazioni della compagine sociale con-seguenti all'esecuzione di uno strumento di regolazione della crisi e dell'insolvenza non costituiscono causa di risoluzione o di modificazione di contratti stipulati dalla societa'. Sono inefficaci eventuali patti contrari.».
 
-#### Art. 28
+### Art. 28
 
 Modifiche alla Parte prima, Titolo V del decreto legislativo 12 gennaio 2019, n. 14
 
 1\. Alla parte prima, titolo V del decreto legislativo 12 gennaio 2019, n. 14, la rubrica e' sostituita dalla seguente: «Liquidazione giudiziale e liquidazione controllata».
 
-#### Art. 29
+### Art. 29
 
 Modifiche alla Parte prima, Titolo V, Capo I, Sezione I del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2964,7 +2962,7 @@ b) il comma 4 e' sostituito dal seguente:
 
 > 8\. L'azione di responsabilita' puo' essere proposta dal curatore durante lo svolgimento della procedura. Il giudice delegato provvede all'immediata sostituzione dei componenti del comitato dei creditori nei confronti dei quali ha autorizzato l'azione.».
 
-#### Art. 30
+### Art. 30
 
 Modifiche alla Parte prima, Titolo V, Capo I, Sezione II del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2982,7 +2980,7 @@ Modifiche alla Parte prima, Titolo V, Capo I, Sezione II del decreto legislativo
 
 > 3\. In caso di legittimo impedimento o di altro giustificato motivo, i medesimi soggetti possono essere autorizzati dal giudice delegato a comparire per mezzo di un procuratore.».
 
-#### Art. 31
+### Art. 31
 
 Modifiche alla Parte prima, Titolo V, Capo I, Sezione IV del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -3030,7 +3028,7 @@ Modifiche alla Parte prima, Titolo V, Capo I, Sezione IV del decreto legislativo
 
 > 2\. Quando alla domanda di accesso a uno strumento di regolazione della crisi e dell'insolvenza, anche con riserva di deposito della proposta, del piano e degli accordi, segue l'apertura della liquidazione giudiziale, i termini di cui agli articoli 163, 164, 166, commi 1 e 2, e 169 decorrono dalla data di pubblicazione della predetta domanda di accesso.».
 
-#### Art. 32
+### Art. 32
 
 Modifiche alla Parte prima, Titolo V, Capo I, Sezione V del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -3120,7 +3118,7 @@ Nei casi di cessazione dei rapporti ai sensi del presente articolo, il contribut
 
 > «Art. 191 (Effetti del trasferimento di azienda sui rapporti di lavoro). - 1. Al trasferimento di azienda disposto nell'ambito degli strumenti di regolazione della crisi e dell'insolvenza o della liquidazione giudiziale o controllata si applicano, in presenza dei relativi presupposti, l'articolo 47 della legge 29 dicembre 1990, n. 428, l'articolo 11 del decreto-legge 23 dicembre 2013, n. 145, convertito nella legge 21 febbraio 2014, n. 9 e le altre disposizioni vigenti in materia.».
 
-#### Art. 33
+### Art. 33
 
 Modifiche alla Parte prima, Titolo V, Capo II del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -3152,7 +3150,7 @@ b) al comma 2:
 
 > 4\. I creditori possono prendere visione ed estrarre copia, a proprie spese, degli atti, dei documenti e dei provvedimenti del procedimento di accertamento del passivo e dei diritti dei terzi sui beni compresi nella liquidazione giudiziale.».
 
-#### Art. 34
+### Art. 34
 
 Modifiche alla Parte prima, Titolo V, Capo III del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -3340,7 +3338,7 @@ b) al comma 3, le parole: «alla corte d'appello» sono sostituite dalle seguent
 
 > 3\. Il curatore comunica il decreto di cui al comma 1 trasmettendone copia ai creditori che abbiano presentato domanda di ammissione al passivo ai sensi degli articoli 201 e 208 i quali, nei quindici giorni successivi, possono presentare reclamo, a norma dell'articolo 124, al tribunale, che provvede sentiti il reclamante, il curatore, il comitato dei creditori e il debitore.».
 
-#### Art. 35
+### Art. 35
 
 Modifiche alla Parte prima, Titolo V, Capo IV, Sezione I del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -3386,7 +3384,7 @@ e) il comma 9 e' sostituito dal seguente:
 
 > 9\. Quando il curatore ha rispettato i termini, originari o differiti, di cui al comma 5, secondo periodo, nel calcolo dei termini di cui alla legge 24 marzo 2001, n. 89, non si tiene conto del tempo necessario per il completamento della liquidazione.».
 
-#### Art. 36
+### Art. 36
 
 Modifiche alla Parte prima, Titolo V, Capo IV, Sezione II del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -3442,7 +3440,7 @@ Modifiche alla Parte prima, Titolo V, Capo IV, Sezione II del decreto legislativ
 
 > 2\. Per i beni immobili e gli altri beni iscritti in pubblici registri, una volta eseguita la vendita e riscosso interamente il prezzo, il giudice delegato ordina, con decreto, la cancellazione delle iscrizioni relative ai diritti di prelazione, nonche' delle trascrizioni dei pignoramenti e dei sequestri conservativi e di ogni altro vincolo.».
 
-#### Art. 37
+### Art. 37
 
 Modifiche alla Parte prima, Titolo V, Capo V del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -3476,7 +3474,7 @@ Modifiche alla Parte prima, Titolo V, Capo V del decreto legislativo 12 gennaio 
 
 > 4\. Se all'udienza stabilita non sorgono contestazioni o su queste viene raggiunto un accordo, il giudice approva il conto con decreto; altrimenti, fissa l'udienza innanzi al collegio che, sentite le parti, provvede in camera di consiglio.».
 
-#### Art. 38
+### Art. 38
 
 Modifiche alla Parte prima, Titolo V, Capo VI del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -3534,7 +3532,7 @@ c) al comma 5, le parole: «Nell'ipotesi di chiusura in pendenza di giudizi ai s
 
 > 5\. Nelle ipotesi previste dall'articolo 234, il giudice delegato e il curatore restano in carica ai soli fini di quanto ivi previsto. In nessun caso i creditori possono agire su quanto e' oggetto dei giudizi medesimi.».
 
-#### Art. 39
+### Art. 39
 
 Modifiche alla Parte prima, Titolo V, Capo VII del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -3730,7 +3728,7 @@ b) al comma 3, dopo il primo periodo, e' inserito il seguente: «Nel caso di ces
 
 > 4\. Il provvedimento e' pubblicato ed affisso ai sensi dell'articolo 45. Le spese sono a carico del debitore.».
 
-#### Art. 40
+### Art. 40
 
 Modifiche alla Parte prima, Titolo V, Capo VIII del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -3766,7 +3764,7 @@ Modifiche alla Parte prima, Titolo V, Capo VIII del decreto legislativo 12 genna
 
 > 3\. Il corrispettivo della cessione al netto dei debiti del patrimonio o il residuo attivo della liquidazione sono acquisiti dal curatore nell'attivo della liquidazione giudiziale, detratto quanto spettante ai terzi che vi abbiano effettuato apporti, ai sensi dell'articolo 2447-ter, primo comma, lettera d) del codice civile.»
 
-#### Art. 41
+### Art. 41
 
 Modifiche alla Parte prima, Titolo V, Capo IX del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -3942,7 +3940,7 @@ c) dopo il comma 6, e' inserito il seguente:
 
 > 2\. (abrogato).»
 
-#### Art. 42
+### Art. 42
 
 Modifiche alla Parte prima, Titolo V, Capo X, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -4004,7 +4002,7 @@ d) al comma 4, le parole: «; il termine per proporre reclamo e' di trenta giorn
 
 > 6\. Quando dall'esito dei predetti giudizi e operazioni deriva un maggior riparto a favore dei creditori, l'esdebitazione ha effetto solo per la parte definitivamente non soddisfatta.».
 
-#### Art. 43
+### Art. 43
 
 Modifiche alla Parte prima, Titolo V, Capo X, Sezione II del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -4108,7 +4106,7 @@ f) il comma 9 e' sostituito dal seguente:
 
 > 9\. L'OCC, nei tre anni successivi al deposito del decreto che concede l'esdebitazione, vigila sulla tempestivita' del deposito della dichiarazione di cui al comma 7 e compie le verifiche necessarie per accertare l'esistenza di utilita' ulteriori secondo quanto previsto dal comma 1. Se l'OCC verifica l'esistenza o il sopraggiungere di utilita' ulteriori, previa autorizzazione del giudice, lo comunica ai creditori i quali possono iniziare azioni esecutive e cautelari sulle predette utilita'.».
 
-#### Art. 44
+### Art. 44
 
 Modifiche alla Parte prima, Titolo VI, Capo I
 
@@ -4206,7 +4204,7 @@ d) al comma 8:
 
 > 8\. Il concordato di gruppo omologato non puo' essere revocato, risolto o annullato quando i presupposti per la revoca, risoluzione o l'annullamento si verificano soltanto rispetto a una o ad alcune imprese del gruppo, a meno che ne risulti significativamente compromessa l'attuazione del piano anche da parte delle altre imprese.».
 
-#### Art. 45
+### Art. 45
 
 Modifiche alla Parte prima, Titolo VI, Capo II
 
@@ -4230,7 +4228,7 @@ del decreto legislativo 12 gennaio 2019, n. 14
 
 > 5\. Quando ravvisa l'insolvenza di un'impresa del gruppo non ancora assoggettata alla procedura di liquidazione giudiziale, il curatore designato ai sensi del comma 2, segnala tale circostanza agli organi di amministrazione e controllo ovvero promuove direttamente l'accertamento dello stato di insolvenza di detta impresa.».
 
-#### Art. 46
+### Art. 46
 
 Modifiche alla Parte prima, Titolo VI, Capo IV
 
@@ -4252,7 +4250,7 @@ del decreto legislativo 12 gennaio 2019, n. 14
 
 > 2\. La disposizione di cui al comma 1, primo periodo, non si applica ai finanziamenti previsti dall'articolo 102.».
 
-#### Art. 47
+### Art. 47
 
 Modifiche alla Parte prima, Titolo VII, Capo II
 
@@ -4330,7 +4328,7 @@ c) il comma 2 e' sostituito dal seguente:
 
 > 3\. Restano salve le disposizioni delle leggi speciali relative all'accertamento dei crediti chirografari nella liquidazione delle imprese che esercitano il credito.».
 
-#### Art. 48
+### Art. 48
 
 Modifiche alla Parte prima, Titolo IX, Capo III
 
@@ -4356,7 +4354,7 @@ del decreto legislativo 12 gennaio 2019, n. 14
 
 > 3\. Nel caso di accordi di ristrutturazione ad efficacia estesa o di convenzione di moratoria, nonche' nel caso di omologa di accordi di ristrutturazione ai sensi dell'articolo 63, commi 4 e 5, si applicano le disposizioni previste al comma 2, lettere a), b) e d).».
 
-#### Art. 49
+### Art. 49
 
 Modifiche alla Parte prima, Titolo X, Capo I
 
@@ -4372,7 +4370,7 @@ del decreto legislativo 12 gennaio 2019, n. 14
 
 > 2\. Ai componenti dell'osservatorio non sono corrisposti compensi e gettoni di presenza, rimborsi spese ed altri emolumenti comunque denominati.».
 
-#### Art. 50
+### Art. 50
 
 Modifiche alla Parte prima, Titolo X, Capo II
 
@@ -4482,7 +4480,7 @@ c) al comma 3:
 
 > e) in caso di procedura che presenta elementi transfrontalieri, delle correlate esperienze e competenze acquisite e, in particolare, della capacita' di rispettare gli obblighi di cui al regolamento (UE) 2015/848, di comunicare e cooperare con i professionisti che gestiscono le procedure di insolvenza e con le autorita' giudiziarie o amministrative di un altro Stato membro, nonche' delle risorse umane e amministrative necessarie per far fronte a casi potenzialmente complessi.».
 
-#### Art. 51
+### Art. 51
 
 Modifiche alla Parte prima, Titolo X, Capo III
 
@@ -4492,11 +4490,9 @@ del decreto legislativo 12 gennaio 2019, n. 14
 
 2\. L'articolo 361 del decreto legislativo 12 gennaio 2019, n. 14, e' abrogato.
 
-## Capo II
+## Capo II - Disposizioni di coordinamento e abrogazioni e disposizioni transitorie e finanziarie
 
-### Disposizioni di coordinamento e abrogazioni e disposizioni - transitorie e finanziarie
-
-#### Art. 52
+### Art. 52
 
 Modifiche alla legge 30 dicembre 2021, n. 234
 
@@ -4504,7 +4500,7 @@ Modifiche alla legge 30 dicembre 2021, n. 234
 
 «226. Sono esclusi dall'ambito di applicazione dei commi da 224 a 238 i datori di lavoro che si trovano nelle condizioni di cui agli articoli 2, comma 1, lettere a) e b), e 12 del decreto legislativo 12 gennaio 2019, n. 14».
 
-#### Art. 53
+### Art. 53
 
 Modifiche al decreto legislativo 8 luglio 1999, n. 270
 
@@ -4522,7 +4518,7 @@ Modifiche al decreto legislativo 8 luglio 1999, n. 270
 
 > 4\. Al termine del proprio ufficio, il commissario giudiziale cui e' affidata la gestione dell'impresa deve rendere il conto a norma dell'articolo 231 del codice della crisi e dell'insolvenza.».
 
-#### Art. 54
+### Art. 54
 
 Modifiche al decreto-legge 24 febbraio 2023, n. 13, convertito, con modificazioni, dalla legge 21 aprile 2023, n. 41
 
@@ -4540,7 +4536,7 @@ Modifiche al decreto-legge 24 febbraio 2023, n. 13, convertito, con modificazion
 
 > 4\. L'assegnazione del domicilio digitale da parte della cancelleria prevista dall'articolo 199, comma 1, del decreto legislativo 12 gennaio 2019, n. 14, e' rinviata di diciotto mesi a partire dalla data di entrata in vigore del presente decreto.».
 
-#### Art. 55
+### Art. 55
 
 Modifiche alla legge 29 dicembre 1990, n. 428
 
@@ -4592,7 +4588,7 @@ b) il comma 5-ter e' sostituito dal seguente:
 
 > 6\. I lavoratori che comunque non passano alle dipendenze dell'acquirente, dell'affittuario o del subentrante hanno diritto di precedenza nelle assunzioni che questi ultimi effettuino entro un anno dalla data del trasferimento, ovvero entro il periodo maggiore stabilito dagli accordi collettivi. Nei confronti dei lavoratori predetti, che vengano assunti dall'acquirente, dall'affittuario o dal subentrante in un momento successivo al trasferimento d'azienda, non trova applicazione l'articolo 2112 del codice civile.».
 
-#### Art. 56
+### Art. 56
 
 Entrata in vigore e disciplina transitoria
 
@@ -4610,7 +4606,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 29 novembre 2024, n. 178, ha disposto (con l'art. 8, comma 1) che "L'articolo 56, comma 4, del decreto legislativo 13 settembre 2024, n. 136, si interpreta nel senso che l'applicabilita' delle disposizioni introdotte dallo stesso decreto legislativo n. 136 del 2024 alle composizioni negoziate, ai procedimenti di cui all'articolo 40 del codice della crisi d'impresa e dell'insolvenza, di cui al decreto legislativo 12 gennaio 2019, n. 14, agli strumenti di regolazione della crisi e dell'insolvenza, ai procedimenti di esdebitazione e alle procedure pendenti non richiede il rinnovo, la modifica o l'integrazione degli atti compiuti prima della data di entrata in vigore del decreto legislativo n. 136 del 2024 e sono fatti salvi i provvedimenti adottati".
 
-#### Art. 57
+### Art. 57
 
 Clausola d'invarianza finanziaria
 

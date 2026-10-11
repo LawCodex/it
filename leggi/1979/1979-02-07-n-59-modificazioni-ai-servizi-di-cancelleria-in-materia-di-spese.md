@@ -25,11 +25,9 @@ PROMULGA
 
 la seguente legge:
 
-## Capo I - DELLA REDAZIONE DEGLI ATTI DI UFFICIO
+## Capo I - DELLA REDAZIONE DEGLI ATTI DI UFFICIO E DELLE ATTIVITA' DELLE PARTI
 
-### E DELLE ATTIVITA' DELLE PARTI
-
-#### Art. 1
+### Art. 1
 
 La parte che per prima si costituisce in giudizio, che deposita in cancelleria il ricorso o il controricorso o che fa istanza per l'assegnazione o la vendita dei beni pignorati, e' tenuta al pagamento dell'imposta di bollo nella misura e con le modalita' stabilite dall'articolo 2.
 
@@ -45,7 +43,7 @@ Il cancelliere rifiuta di ricevere gli atti, se le marche o le ricevute dei vers
 
 Nulla e' innovato per i procedimenti davanti al giudice conciliatore.
 
-#### Art. 2
+### Art. 2
 
 L'articolo 31 della tariffa, di cui all'allegato A, annessa al decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, e' sostituito dal seguente:
 
@@ -188,7 +186,7 @@ riffa|             |Fis-|zio-|                   |
 ---------------------------------------------------------------------
 ```
 
-#### Art. 3
+### Art. 3
 
 L'articolo 134 delle disposizioni per l'attuazione del codice di procedura civile, approvate con regio decreto 18 dicembre 1941, n. 1368, e' sostituito dal seguente:
 
@@ -214,13 +212,13 @@ Nel fascicolo di ufficio il cancelliere allega la busta utilizzata per l'invio d
 
 L'inosservanza delle prescrizioni di cui al secondo comma, numero 1), e del termine stabilito dal quarto comma, comporta la sanzione del raddoppio delle imposte, delle tasse, dei diritti, delle indennita' e delle spese ivi previste. In tale caso il dirigente della cancelleria ingiunge alla parte ed al difensore di pagare, in solido, l'importo dovuto nelle forme indicate dallo articolo 137 ".
 
-#### Art. 4
+### Art. 4
 
 L'articolo 135 delle disposizioni per l'attuazione del codice di procedura civile, approvate con regio decreto 18 dicembre 1941, n. 1368, e' sostituito dal seguente:
 
 " Art. 135 - (Invio di copie alle parti'). - Agli avvocati non residenti in Roma, i quali ne abbiano fatto richiesta all'atto del deposito del ricorso o del controricorso, sono inviati in copia, mediante lettera raccomandata con tassa a carico del destinatario, l'avviso dell'udienza di discussione e il dispositivo della sentenza della Corte ".
 
-#### Art. 5
+### Art. 5
 
 Il secondo comma dell'articolo 137 delle disposizioni di attuazione del codice di procedura civile, approvate con regio decreto 18 dicembre 1941, n. 1368, e' sostituito dai seguenti:
 
@@ -228,7 +226,7 @@ Il secondo comma dell'articolo 137 delle disposizioni di attuazione del codice d
 
 Si applicano, in quanto compatibili, gli articoli da 2 a 28 del testo unico delle norme per la riscossione delle entrate patrimoniali dello Stato, approvato con regio decreto 14 aprile 1910, n. 639 ".
 
-#### Art. 6
+### Art. 6
 
 Per la notificazione dei biglietti di cancelleria e degli altri atti del procedimento su richiesta del cancelliere sono dovuti all'ufficiale giudiziario il rimborso delle spese postali eventualmente sostenute ed il pagamento delle indennita' di trasferta.
 
@@ -238,13 +236,13 @@ Di tale elenco un esemplare deve essere allegato all'ordine di pagamento, l'altr
 
 ## Capo II - Delle comunicazioni
 
-#### Art. 7
+### Art. 7
 
 Il secondo comma dell'articolo 136 del codice di procedura civile e' sostituito dal seguente:
 
 " Il biglietto e' consegnato dal cancelliere al destinatario, che ne rilascia ricevuta, o e' notificato dall'ufficiale giudiziario ".
 
-#### Art. 8
+### Art. 8
 
 L'ultimo comma dell'articolo 45 delle disposizioni per l'attuazione del codice di procedura civile, approvate con regio decreto 18 dicembre 1941, n. 1368, e' sostituito dal seguente:
 
@@ -252,13 +250,13 @@ L'ultimo comma dell'articolo 45 delle disposizioni per l'attuazione del codice d
 
 ## Capo III - Vendita di valori bollati e marche di previdenza
 
-#### Art. 9
+### Art. 9
 
 E' vietato al personale delle cancellerie e segreterie giudiziarie vendere valori bollati e marche di qualunque genere emesse da ordini professionali, enti e casse di previdenza o assistenza.
 
 ## Capo IV - Disposizioni transitorie e finali
 
-#### Art. 10
+### Art. 10
 
 Il diritto alla restituzione dei depositi relativi ai procedimenti definiti, per i quali non sia gia' maturato il termine di tre anni di cui all'articolo 1 della legge 11 dicembre 1939, n. 1969, ed all'articolo 1 della legge 7 febbraio 1956, n. 65, si prescrive in ogni caso decorsi sei mesi dalla data di entrata in vigore della presente legge.
 
@@ -270,7 +268,7 @@ Per tutti gli atti compiuti dal giudice e dal cancelliere e per gli originali de
 
 Di tale elenco un esemplare deve essere allegato all'ordine di pagamento, l'altro custodito in cancelleria per gli eventuali controlli.
 
-#### Art. 11
+### Art. 11
 
 Sono abrogate le disposizioni incompatibili con quelle della presente legge.
 
@@ -288,7 +286,7 @@ Visto, il Guardasigilli: Bonifacio
 
 ## Capo IV - Disposizioni transitorie e finali
 
-#### Allegato 1
+### Allegato 1
 
 Allegato 1
 
@@ -296,7 +294,7 @@ TABELLA DEGLI IMPORTI PREVISTI NEGLI ARTICOLI 1 E 2
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 2
+### Allegato 2
 
 Allegato 2
 

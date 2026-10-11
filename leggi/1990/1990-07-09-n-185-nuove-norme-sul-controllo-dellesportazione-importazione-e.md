@@ -216,9 +216,7 @@ Relazione al Parlamento
 
 3-bis. I titolari di licenza globale di progetto (( e di autorizzazione globale e generale di trasferimento)) forniscono annualmente al Ministero degli affari esteri una relazione analitica sulle attivita' espletate sulla base della licenza ottenuta, corredata dai dati su tutte le operazioni effettuate. Tale documentazione e' parte integrante della relazione di cui al comma 1.
 
-## Capo II - ORGANISMI DI COORDINAMENTO E CONTROLLO ((E AUTORITA'
-
-### NAZIONALE COMPETENTE))
+## Capo II - ORGANISMI DI COORDINAMENTO E CONTROLLO ((E AUTORITA' NAZIONALE COMPETENTE))
 
 #### Art. 6 - Comitato interministeriale per gli scambi di materiali di armamento per la difesa
 
@@ -482,7 +480,7 @@ a) informazioni pertinenti non sono state prese in considerazione all'atto del r
 
 b) le circostanze sono sostanzialmente cambiate dal rilascio dell'autorizzazione di esportazione.))
 
-## ((SEZIONE II - OPERAZIONI PER I PAESI NON APPARTENENTI ALL'UNIONE EUROPEA))
+### ((SEZIONE II - OPERAZIONI PER I PAESI NON APPARTENENTI ALL'UNIONE EUROPEA))
 
 #### Art. 11
 
@@ -586,7 +584,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 22 giugno 2012, n. 105 ha disposto (con l'art. 4, comma 1, lettera c)) l'introduzione, dopo la sezione I, e prima dell'articolo 11, della seguente: "Sezione II - Operazioni per i Paesi non appartenenti all'Unione europea".
 
-## ((SEZIONE III - DISPOSIZIONI COMUNI))
+### ((SEZIONE III - DISPOSIZIONI COMUNI))
 
 #### Art. 15 - Sospensione o revoca delle autorizzazioni
 

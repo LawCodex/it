@@ -32,11 +32,11 @@ PROMULGA
 
 il seguente decreto legislativo, approvato dal Consiglio dei Ministri con deliberazione dell'8 aprile 1948:
 
-### Art. 1
+## Art. 1
 
 ((ARTICOLO ABROGATO DALLA L. 2 MARZO 1963, N. 283))
 
-### Art. 2
+## Art. 2
 
 Il personale non statale a carico del bilancio del Consiglio nazionale delle ricerche comprende:
 
@@ -48,7 +48,7 @@ I ruoli organici del personale di cui al n. 1 sono determinati dalle tabelle ann
 
 La ripartizione fra i vari istituti e centri di studio di cui all'art. 1 dei posti previsti dalle tabelle annesse al presente decreto e' fatta dal presidente del Consiglio nazionale delle ricerche, sentiti il Consiglio di presidenza e la Giunta amministrativa.
 
-### Art. 3
+## Art. 3
 
 Per il direttore di ricerca e i ricercatori di cui alla allegata tabella n. 1, valgono, in quanto applicabili e compatibili con le disposizioni del presente decreto, le norme concernenti la nomina, lo stato giuridico, il trattamento economico di attivita' a qualsiasi titolo, e il collocamento a riposo dei professori universitari e rispettivamente del personale direttivo ed insegnante delle scuole medie di secondo grado.
 
@@ -56,7 +56,7 @@ Per tutto il restante personale di cui all'art. 2 valgono, in quanto applicabili
 
 Le disposizioni degli ultimi cinque comma dell'art. 2 e quelle degli articoli 3, 4 e 5 del decreto del Presidente del Consiglio dei Ministri 8 giugno 1946, relative al trattamento di quiescenza del personale dell'amministrazione centrale del Consiglio nazionale delle ricerche, sono estese al personale indicato al n. 1 dell'art. 2.
 
-### Art. 4
+## Art. 4
 
 I posti vacanti nei gradi iniziali in ciascuno dei ruoli del personale di cui all'art. 2 sono conferiti in seguito a concorso pubblico, per esame o per titoli, o per titoli ed esame, secondo quanto e' stabilito dalle norme sullo stato giuridico proprio di ciascuna categoria di personale.
 
@@ -70,7 +70,7 @@ La Commissione giudicatrice puo' stabilire che i candidati siano sottoposti a pr
 
 Previo parere favorevole dei competenti Comitati nazionali di consulenza e del Consiglio di presidenza, il posto di direttore di ricerca puo' essere conferito anche ad un vincitore di concorso per posti di professore universitario; la nomina puo' aver luogo entro un biennio dalla data di approvazione degli atti del concorso stesso da parte del Ministro per la pubblica istruzione.
 
-### Art. 5
+## Art. 5
 
 Le Commissioni giudicatrici dei concorsi sono nominate con decreto del presidente del Consiglio nazionale delle ricerche e sono composte come segue:
 
@@ -94,7 +94,7 @@ posti di subalterno: il capo ufficio del personale del Consiglio nazionale delle
 
 La Commissione per la promozione a ordinario del direttore di ricerca e' anch'essa costituita con decreto del presidente del Consiglio nazionale delle ricerche ed e' composta di tre membri eletti dai competenti comitati nazionali del Consiglio stesso.
 
-### Art. 6
+## Art. 6
 
 Le funzioni del Consiglio di amministrazione per il personale indicato nell'art. 2, escluso il direttore di ricerca, sono esercitate dalla Giunta amministrativa, alla quale sono, a tale effetto, aggregati il capo dell'ufficio del personale e, per quanto riguarda il personale di cui al n. dell'art. 2, il direttore di ricerca o uno dei professori universitari di ruolo incaricati della direzione di un istituto o centro, nominato dal presidente del Consiglio nazionale delle ricerche.
 
@@ -106,15 +106,15 @@ Le funzioni della Commissione di disciplina di cui all'art. 68 del regio decreto
 
 Le norme per l'elezione dei membri indicati al terzo e quarto comma sono stabilite con ordinanza del presidente del Consiglio nazionale delle ricerche.
 
-### Art. 7
+## Art. 7
 
 L'ufficio di primo ricercatore e di ricercatore e' incompatibile con quello di aiuto e di assistente presso le universita' e gli istituti superiori.
 
-### Art. 8
+## Art. 8
 
 Sono abrogati gli articoli 12 ed i commi primo, secondo e sesto dell'art. 17 del decreto legislativo 1 marzo 1945, n. 82.
 
-### Art. 9
+## Art. 9
 
 Nella prima attuazione del presente decreto i posti previsti dalle tabelle annesse, escluso quello di direttore di ricerca, sono conferiti, previe le ripartizioni indicate nell'ultimo comma dell'art. 2 e nel primo comma dell'art. 14, mediante concorsi riservati al personale non statale di cui all'art. 29, comma terzo, del decreto legislativo 1 marzo 1945, n. 82, che, alla data del bando di concorso si trovi in servizio presso universita' o istituti superiori ed abbia un'anzianita' non inferiore a tre anni, compreso il servizio prestato alle dipendenze del Consiglio nazionale delle ricerche.
 
@@ -122,7 +122,7 @@ I concorsi di cui al precedente comma sono banditi entro sei mesi dalla data di 
 
 Le Commissioni giudicatrici sono nominate e costituite in conformita' delle disposizioni contenute nell'art. 5. Qualora fra i concorrenti a posti di primo ricercatore vi siano persone che esercitino le funzioni di direttore di centro, fara' parte della relativa Commissione giudicatrice, in luogo del direttore stesso, un membro eletto dai comitati nazionali competenti.
 
-### Art. 10
+## Art. 10
 
 Ai concorsi, di cui al precedente art. 9, da indire per i posti di primo ricercatore (grado 6°) sono ammessi coloro che abbiano conseguito l'abilitazione alla libera docenza in materia attinente alla specializzazione del posto messo, a concorso sempreche' abbiano un'anzianita' complessiva di servizio non inferiore a dieci anni, compreso il servizio prestato presso il Consiglio nazionale delle ricerche ed eventualmente il servizio di assistente di ruolo presso universita' o istituti superiori.
 
@@ -130,7 +130,7 @@ I concorsi di cui al precedente art. 9, per i posti di ricercatore sono indetti 
 
 Ai concorsi indetti per i gradi 9°, 8° e 7° possono partecipare coloro che, oltre al titolo di studio ed agli altri requisiti richiesti, abbiano un'anzianita' complessiva, di servizio non inferiore, rispettivamente, ad anni cinque, otto e dodici.
 
-### Art. 11
+## Art. 11
 
 I concorsi di cui all'art. 9 per i posti di addetto di laboratorio (gruppo B) e di tecnico (gruppo C) sono indetti separatamente per i vari gradi di ciascun gruppo.
 
@@ -138,7 +138,7 @@ Ai concorsi per i gradi 8°, 9° e 10° degli addetti di laboratorio (gruppo B) 
 
 Ai concorsi per i gradi 9°, 10° e 11° dei tecnici (gruppo C) sono ammessi coloro che abbiano compiuto rispettivamente dodici, dieci e sette anni di effettivo ed ininterrotto servizio.
 
-### Art. 12
+## Art. 12
 
 I concorsi di cui all'art. 9 per i posti di primo ricercatore sono per titoli, salva la facolta' della Commissione giudicatrice, prevista dal terzo comma dell'art. 4.
 
@@ -148,11 +148,11 @@ Nella valutazione dei titoli si avra' principalmente riguardo alla capacita', di
 
 Le prove di esame avranno carattere teorico-pratico e verteranno anche sui compiti di istituto.
 
-### Art. 13
+## Art. 13
 
 Per i concorsi di cui all'art. 9 ai posti di ragioneria, di archivio, di copia e di subalterno nonche' per il collocamento in ruolo dei vincitori si osservano, in quanto applicabili e compatibili con le disposizioni del presente decreto, le norme relative all'inquadramento del personale corrispondente dell'amministrazione centrale del Consiglio nazionale delle ricerche, stabilite con decreto del Presidente del Consiglio dei Ministri 8 giugno 1946, salvo per quanto concerne le Commissioni giudicatrici che sono costituite in conformita' delle disposizioni contenute nell'art. 5, con l'aggiunta del direttore dell'istituto o centro cui appartiene il personale che partecipa al concorso, e salvo per quanto concerne i limiti massimi di eta', per i quali valgono le disposizioni del terzo comma dell'art. 14.
 
-### Art. 14
+## Art. 14
 
 La ripartizione dei posti da mettere a concorso, secondo le specializzazioni, e' determinata, su proposta dei direttori degli istituti e dei centri, con provvedimento insindacabile del presidente del Consiglio nazionale delle ricerche, su conforme parere del consiglio di presidenza e della Giunta amministrativa del Consiglio stesso, in relazione alle effettive esigenze di funzionamento degli istituti e dei centri medesimi. Nello stesso modo sono determinati i titoli di studio occorrenti per l'ammissione ai concorsi, osservate le disposizioni del secondo comma dell'art. 16 del regio decreto 11 novembre 1923, n. 2395, sull'ordinamento gerarchico delle amministrazioni dello Stato. Per l'ammissione ai concorsi per i posti di grado iniziale di gruppo C, potra' prescindersi dal titolo di studio, nei confronti degli aspiranti che abbiano esercitato per almeno cinque anni funzioni non inferiori a quelle proprie dei posti messi a concorso.
 
@@ -166,17 +166,17 @@ I concorsi sono banditi con ordinanza del presidente del Consiglio nazionale del
 
 Non potranno prendere parte ai concorsi coloro che, durante il servizio prestato presso il Consiglio, siano incorsi in sanzioni disciplinari piu' gravi della censura.
 
-### Art. 15
+## Art. 15
 
 Ai fini della determinazione dei limiti di eta' e della anzianita' di servizio previsti dagli articoli 10, primo e terzo comma, 11 e 14 e dalle disposizioni richiamate nell'art. 13, si applica l'art. 1, comma primo, del regio decreto 28 settembre 1934, n. 1587.
 
-### Art. 16
+## Art. 16
 
 Fino al momento della effettiva immissione nei ruoli di cui alla annessa tabella, il personale indicato nel terzo comma dell'art. 29 del decreto legislativo 1 marzo 1945, n. 82, rimarra' alle dipendenze ed a carico delle amministrazioni alle quali ha fatto passaggio ai sensi del comma stesso. Detta immissione dovra' essere completata entro l'esercizio finanziario 1948-49.
 
 Il personale di cui all'anzidetto terzo comma dell'art. 29, il quale non partecipi ai concorsi indicati nell'art. 9 del presente decreto o non ottenga la nomina, sara' licenziato. A tale personale sara' corrisposta l'indennita' di licenziamento stabilita dall'art. 9 del decreto legislativo 4 aprile 1947, n. 207.
 
-### Art. 17
+## Art. 17
 
 Coloro che abbiano conseguito la nomina ai sensi dei precedenti articoli conserveranno, a titolo di assegno personale non computabile ai fini del trattamento di quiescenza e da riassorbire nei successivi aumenti, la eventuale eccedenza dell'importo complessivo degli emolumenti di cui siano provvisti all'atto della nomina rispetto all'importo complessivo degli emolumenti inerenti al posto di ruolo conferito. La misura di tale assegno personale dovra' tuttavia essere contenuta in maniera da non eccedere, cumulativamente alla retribuzione inerente al grado conseguito, l'importo del trattamento massimo annesso al grado medesimo.
 
@@ -184,7 +184,7 @@ Ai fini del trattamento di quiescenza spettante, a norma del terzo comma dell'ar
 
 Ai fini del computo del periodo di servizio valevole per il collocamento a riposo, si tiene conto anche del servizio prestato precedentemente alla nomina, presso l'amministrazione del Consiglio nazionale delle ricerche o comunque presso istituti o centri di studio da esso dipendenti e del servizio prestato in qualita' di assistente di ruolo presso universita' od istituti superiori.
 
-### Art. 18
+## Art. 18
 
 L'ultimo comma dell'art. 29 del decreto legislativo 1 marzo 1945, n. 82, e' abrogato.
 
@@ -194,7 +194,7 @@ L'ultimo comma dell'art. 31 del medesimo decreto legislativo e' sostituito con i
 
 ## Disposizioni generali e finali
 
-### Art. 19
+## Art. 19
 
 Nello stato di previsione della spesa del Ministero del tesoro saranno stanziati i fondi occorrenti per il pagamento del personale di cui al n. 1 del primo comma dell'art. 2. Detti fondi saranno portati in aumento al contributo ordinario annuo assegnato al Consiglio nazionale delle ricerche.
 
@@ -202,7 +202,7 @@ Fino a tutto l'esercizio finanziario 1948-49, saranno altresi' stanziati nello s
 
 Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, alle necessarie variazioni di bilancio.
 
-### Art. 20
+## Art. 20
 
 Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -222,7 +222,7 @@ Atti del Governo, registro n. 24, foglio n. 18. - FRASCA
 
 ## Disposizioni generali e finali
 
-### Tabelle
+## Tabelle
 
 TABELLA N. 1
 

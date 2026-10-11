@@ -26,15 +26,13 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - PROFESSORI UNIVERSITARI
+## TITOLO I - PROFESSORI UNIVERSITARI DI RUOLO E INCARICATI
 
-### DI RUOLO E INCARICATI
-
-#### Art. 1
+### Art. 1
 
 La tabella B, annessa alla legge 18 marzo 1958, numero 311, concernente i coefficienti di retribuzione e le misure lorde iniziali degli stipendi spettanti ai professori universitari di ruolo in corrispondenza della loro anzianita', e' sostituita, a decorrere dal 1 novembre 1961, con la tabella A allegata alla presente legge.
 
-#### Art. 2
+### Art. 2
 
 ((Il primo e il secondo comma dell'articolo 21 della legge 18 marzo 1958, n. 311, sono sostituiti dai seguenti:
 
@@ -48,7 +46,7 @@ AGGIORNAMENTO (1)
 
 La L. 18 febbraio 1963, n. 377, ha disposto (con l'art. 3) che la modifica ha effetto dalle date indicate nel primo comma dell'articolo 24 della legge 26 gennaio 1962, n. 1.
 
-#### Art. 3
+### Art. 3
 
 Gli stipendi spettanti ai professori incaricati esterni d'insegnamento universitario sono suscettibili di aumenti periodici costanti in ragione del 2,50 per cento della misura iniziale, per ogni biennio di insegnamento.
 
@@ -58,7 +56,7 @@ Ai fini dell'applicazione dei precedenti commi e' valutato l'insegnamento impart
 
 L'attribuzione degli aumenti periodici e' subordinata alla attestazione da parte del preside della Facolta' o Scuola che l'incaricato ha adempiuto ai doveri di cui all'articolo 84 del testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592.
 
-#### Art. 4
+### Art. 4
 
 Ai professori incaricati esterni di insegnamento universitario, nonche' ai loro familiari in caso di morte, e' riconosciuto il diritto al trattamento di quiescenza e di previdenza previsto dalle norme vigenti per gli impiegati civili dello Stato.
 
@@ -90,7 +88,7 @@ AGGIORANEMENTO (2)
 
 La L. 6 dicembre 1966, n.1077, ha disposto (con l'art.5, comma 2) che le modifiche introdotte avranno efficacia dal 1 novembre 1961.
 
-#### Art. 5
+### Art. 5
 
 Le deliberazioni sulle proposte relative agli incarichi d'insegnamento debbono essere adottate dai competenti Organi accademici entro il 15 luglio, per l'anno accademico successivo.
 
@@ -108,7 +106,7 @@ AGGIORNAMENTO (1)
 
 La L. 18 febbraio 1963, n. 377, ha disposto (con l'art. 3) che la modifica ha effetto dalle date indicate nel primo comma dell'articolo 24 della legge 26 gennaio 1962, n. 1.
 
-#### Art. 6
+### Art. 6
 
 Coloro che, per almeno cinque anni, abbiano lodevolmente tenuto un incarico d'insegnamento universitario e siano abilitati alla libera docenza, ovvero siano stati compresi nella terna di un concorso per assistente universitario di ruolo, possono, a domanda, e su conforme parere della Prima sezione del Consiglio superiore della pubblica istruzione, essere assunti nei ruoli dei professori delle scuole secondarie, subordinatamente alla disponibilita' dei posti nei ruoli medesimi.
 
@@ -124,7 +122,7 @@ La valutazione di cui al comma quarto dell'articolo 17 della legge 18 marzo 1958
 
 Nei confronti dei professori degli Istituti d'istruzione secondaria pervenuti nei relativi ruoli ai sensi del presente articolo e dell'articolo 132 del testo unico approvato con regio decreto 31 agosto 1933, n. 1592, e successive modificazioni, il servizio prestato quali incaricati di insegnamento universitario o di assistente ordinario e' considerato, ai fini dell'attribuzione del punteggio relativo ai trasferimenti, come servizio prestato nelle Scuole secondarie con piena qualifica.
 
-#### Art. 7
+### Art. 7
 
 L'ultimo comma dell'articolo 22 della legge 18 marzo 1958, n. 311, e' sostituito dal seguente:
 
@@ -132,7 +130,7 @@ L'ultimo comma dell'articolo 22 della legge 18 marzo 1958, n. 311, e' sostituito
 
 ## TITOLO II - ASSISTENTI UNIVERSITARI
 
-#### Art. 8
+### Art. 8
 
 L'articolo 4 della legge 18 marzo 1958, n. 349, e la tabella A annessa alla legge stessa sono sostituiti dal seguente articolo e dalla tabella B allegati alla presente legge.
 
@@ -148,17 +146,17 @@ La seconda classe di stipendio viene attribuita al termine del primo anno di ser
 
 Agli assistenti ordinari spettano, per ogni biennio di appartenenza ad una stessa classe di stipendio, gli aumenti periodici previsti dall'articolo 1, comma terzo, del decreto del Presidente della Repubblica 11 gennaio 1956, n. 19".
 
-#### Art. 9
+### Art. 9
 
 Fermo restando l'articolo 39 del regolamento generale universitario di cui al regio decreto 6 aprile 1924, n. 674, gli assistenti, di ruolo e non di ruolo, devono tenere aggiornato un registro nel quale vanno annotate sommariamente le ricerche, gli studi, le attivita' didattiche e le altre attivita' di istituto compiuti nel corso di ogni bimestre, secondo le modalita' stabilite dal Senato accademico.
 
-#### Art. 10
+### Art. 10
 
 Il primo comma dell'articolo 8 della legge 18 marzo 1958, n. 349, e' sostituito dal seguente:
 
 L'assistente, al quale sia conferito un incarico retribuito d'insegnamento presso altra Universita' o Istituto di istruzione superiore, e' collocato in congedo senza assegni. In tale posizione egli puo' essere collocato, a sua richiesta, anche nel caso in cui l'incarico sia conferito nella stessa Universita' ed Istituto, qualora il Ministro per la pubblica istruzione, sentito il Senato accademico, ne ravvisi l'opportunita', in rapporto alle esigenze di servizio. In entrambi i casi il congedo non puo' protrarsi oltre tre anni accademici; ed all'interessato vengono corrisposti gli assegni previsti per gli incaricati nella misura e con le norme di cui all'articolo 1, comma primo, del regio decreto legislativo 27 maggio 1946, n. 534, e successive modificazioni, salva l'attribuzione di un assegno differenziale, utile ai fini del trattamento di quiescenza qualora gli assegni medesimi dovessero risultare inferiori a quelli spettanti per l'ufficio di assistente".
 
-#### Art. 11
+### Art. 11
 
 L'articolo 10 della legge 18 marzo 1958, n. 349, e' sostituito dal seguente:
 
@@ -178,11 +176,11 @@ AGGIORNAMENTO (2)
 
 La L. 13 giugno 1964, n. 445 ha disposto (con l'art. 1) che "Il secondo comma dell'articolo 11 della legge 26 gennaio 1962, n. 16, sostitutivo dell'articolo 10 della legge 18 marzo 1958, n. 349, deve interpretarsi nel senso che per sessione di esami di abilitazione alla libera docenza, corrispondente al decimo anno dalla nomina in ruolo, deve intendersi quella che e' indetta nell'anno accademico in corso alla data di scadenza del decennio."
 
-#### Art. 12
+### Art. 12
 
 Il coefficiente 229, previsto dal quinto comma dell'articolo 13 della legge 18 marzo 1958, n. 349, per determinare la misura della retribuzione spettante all'assistente incaricato, e' elevato al coefficiente 271.
 
-#### Art. 13
+### Art. 13
 
 L'articolo 15 della legge 18 marzo 1958, n. 349, e' sostituito dal seguente:
 
@@ -192,11 +190,11 @@ Il servizio di assistente ordinario presso Universita' o Istituto di istruzione 
 
 La valutazione ai fini della carriera, di cui al primo comma del presente articolo, e' disposta alla data di conseguimento della libera docenza; quella ai fini della progressione economica e' disposta in ogni classe di stipendio".
 
-#### Art. 14
+### Art. 14
 
 Il periodo trascorso in congedo per motivi di studio senza assegni e' utile ai fini della pensione, previo versamento allo Stato della ritenuta in conto entrate del Tesoro, da calcolarsi sullo stipendio che l'assistente avrebbe percepito se avesse prestato effettivo servizio nel periodo medesimo.
 
-#### Art. 15
+### Art. 15
 
 L'articolo 19 della legge 18 marzo 1958, n. 349, e' sostituito dal seguente:
 
@@ -210,27 +208,27 @@ Ove la situazione delle singole cattedre non consenta di affidare, in tutto o in
 
 I criteri di massima, per l'applicazione del presente articolo saranno fissati, entro un anno dalla data di entrata in vigore della presente legge, dal Ministro per la pubblica istruzione di concerto con quello per il tesoro".
 
-#### Art. 16
+### Art. 16
 
 I contributi dovuti dallo Stato per ogni esercizio finanziario alle Universita' e agli Istituti di istruzione universitaria, ai sensi dell'articolo 20 della legge 18 marzo 1958, n. 349, sono elevati alla misura complessiva di lire 800 milioni.
 
 Per l'esercizio finanziario 1961-62, la misura complessiva dei contributi e' fissata in lire 700 milioni.
 
-#### Art. 17
+### Art. 17
 
 Agli assistenti non di ruolo degli Istituti superiori navale ed orientale di Napoli e dell'Universita' di Camerino, inquadrati, come dipendenti statali non di ruolo, ai sensi delle leggi 3 dicembre 1957, n. 1210, e 13 marzo 1958, n. 254, compete, dalla data di applicazione delle leggi medesime, un assegno personale pari alla differenza fra il trattamento attribuito a norma delle citate leggi e quello spettante all'assistente incaricato ai sensi del decreto del Presidente della Repubblica 11 gennaio 1956, n. 19, e della presente legge.
 
-#### Art. 18
+### Art. 18
 
 Il secondo comma dell'articolo 1 della legge 23 novembre 1951, n. 1340, che sostituisce l'articolo 14 del decreto legislativo 7 maggio 1948, n. 1172, e' modificato come segue:
 
 "Gli assistenti volontari non possono superare, per ciascuna cattedra, il doppio del numero degli assistenti di ruolo previsti in organico per la cattedra stessa. Per le cattedre cui non trovansi assegnati assistenti ordinari, non potra' essere superato il numero di due volontari. In via, eccezionale, in relazione a particolari esigenze delle singole cattedre, il rettore, previo parere favorevole del Consiglio della Facolta' o Scuola interessata, puo' richiedere al Ministro per la pubblica istruzione di essere autorizzato a nominare un numero maggiore di assistenti volontari. L'autorizzazione e' concessa, sentito il parere della Prima sezione del Consiglio superiore della pubblica istruzione".
 
-#### Art. 19
+### Art. 19
 
 Gli assistenti volontari che, alla data del 31 ottobre 1961, risultino presso ciascuna, cattedra in eccedenza rispetto al contingente fissato dal precedente articolo 18, rimangono in servizio, alle condizioni previste dalle vigenti norme, fino al riassorbimento con le prime vacanze presso la cattedra stessa.
 
-#### Art. 20
+### Art. 20
 
 A decorrere dal 1 novembre 1961, gli assistenti ordinari in servizio presso le Universita' e gli Istituti di istruzione superiore sono inquadrati nelle classi di stipendio di cui alla tabella B allegata alla presente legge con l'osservanza delle seguenti norme:
 
@@ -248,11 +246,9 @@ L'anzianita' nel coefficiente medesimo decorre dal primo giorno del mese success
 
 Qualora l'anzianita' nel coefficiente 500 risulti di almeno 4 anni (ivi compresi quelli derivati dagli eventuali riconoscimenti di servizi) agli assistenti e' attribuito il coefficiente 580 (prima classe di stipendio).
 
-## TITOLO III - PERSONALE SCIENTIFICO DEGLI OSSERVATORI
+## TITOLO III - PERSONALE SCIENTIFICO DEGLI OSSERVATORI ASTRONOMICO E DELL'OSSERVATORIO VESUVIANO
 
-### ASTRONOMICO E DELL'OSSERVATORIO - VESUVIANO
-
-#### Art. 21
+### Art. 21
 
 ((Le tabelle A e B, concernenti i ruoli della carriera direttiva del personale scientifico degli Osservatori astronomici e dell'Osservatorio vesuviano, annesse alla legge 18 marzo 1958, n. 276, sono sostituite rispettivamente dalle tabelle C e D allegate alla presente legge, nelle quali e' previsto anche il nuovo sviluppo di carriera, in sostituzione di quello di cui alla legge 18 marzo 1958, n. 276.
 
@@ -268,7 +264,7 @@ La L. 18 febbraio 1963, n. 377, ha disposto (con l'art. 3) che la modifica ha ef
 
 ## TITOLO IV - DISPOSIZIONI COMUNI
 
-#### Art. 22
+### Art. 22
 
 L'indennita' di ricerca scientifica e' fissata, a decorrere dal 1 novembre 1961, nelle seguenti misure mensili lorde:
 
@@ -428,11 +424,11 @@ Il D.L. 1 ottobre 1973, n. 580, convertito con modificazioni dalla L. 30 novembr
 
 Successivamente la Corte Costituzionale, con sentenza 8 - 17 luglio 1975, n. 219 (in G.U. 1a s.s. 23.07.1975 n. 195),ha dichiarato " l'illegittimita' derivata dell'art. 12, commi primo, secondo e terzo del d.l. 1 ottobre 1973, n. 580 (convertito in legge 1973, n. 766) (che ha modificato l'art. 22), per la parte che riguarda i docenti universitari con parametro 825."
 
-#### Art. 23
+### Art. 23
 
 Al personale di ruolo di cui alla presente legge che cessi dal servizio con il 31 ottobre 1961, il trattamento di quiescienza e' liquidato sulla base del trattamento economico stabilito dalla presente legge.
 
-#### Art. 24
+### Art. 24
 
 La presente legge ha effetto dal 1 novembre 1961, salvo per quanto concerne le disposizioni contenute nei commi terzo e quarto dell'articolo 5, che avranno effetto dal 1 novembre 1962.
 
@@ -452,7 +448,7 @@ Visto, il Guardasigilli: GONELLA
 
 ## TITOLO IV - DISPOSIZIONI COMUNI
 
-#### Tabelle
+### Tabelle
 
 CARRIERA DEI PROFESSORI
 

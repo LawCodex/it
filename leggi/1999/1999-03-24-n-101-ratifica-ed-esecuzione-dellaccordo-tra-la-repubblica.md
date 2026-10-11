@@ -27,21 +27,21 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo fra la Repubblica italiana e l'Australia in materia di sicurezza sociale, fatto a Roma il 13 settembre 1993.
 
-#### Art. 2
+### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 23 dell'accordo stesso.
 
-#### Art. 3
+### Art. 3
 
 1\. All'onere derivante dall'applicazione della presente legge, valutato in lire 4.440 milioni annue a decorrere dal 1998, si provvede, per l'anno 1998, mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1998-2000, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della, programmazione economica per l'anno finanziario 1998, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri e, per gli anni 1999, 2000 e 2001, mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1999-2001, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno finanziario 1999, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 4
+### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -63,7 +63,7 @@ IN MATERIA DI SICUREZZA SOCIALE
 
 La Repubblica Italiana e l'Australia, intendendo rafforzare 1e relazioni amichevoli esistenti tra i due Paesi, e desiderando rivedere l'Accordo in materia di Sicurezza Sociale, firmato il ventitre' aprile 1986, e riconoscendo l'esigenza di coordinare ulteriormente il funzionamento dei rispettivi sistemi di sicurezza sociale e di favorire, a condizioni di equita', l'ammissione delle persone che si trasferiscono dall'uno all'altro dei due Paesi alle prestazioni di sicurezza sociale previste dai rispettivi ordinamenti, hanno convenuto quanto segue:
 
-#### ARTICOLO 1
+### ARTICOLO 1
 
 Definizioni
 
@@ -101,7 +101,7 @@ Definizioni
 
 applicazione del presente Accordo in virtu' dell'articolo 2.
 
-#### ARTICOLO 2
+### ARTICOLO 2
 
 Ambito di applicazione normativo
 
@@ -159,7 +159,7 @@ xi) le indennita' di disoccupazione.
 
 3\. Le Autorita' competenti delle Parti si notificheranno le leggi che modifichino, integrino o sostituiscano le norme incluse nell'ambito di applicazione del presente Accordo, non appena dette leggi siano state emanate.
 
-#### ARTICOLO 3
+### ARTICOLO 3
 
 Ambito di applicazione personale
 
@@ -169,7 +169,7 @@ a) siano, o siano state, residenti australiani, e/o
 
 b) possano far valere periodi di contribuzione accreditata in base alla legislazione italiana e, quando previsto, ai familiari a carico ed ai superstiti in relazione a diritti che a questi ultimi possano derivare dalle persone menzionate nel presente Articolo.
 
-#### ARTICOLO 4
+### ARTICOLO 4
 
 Parita' di trattamento
 
@@ -179,11 +179,9 @@ I cittadini di ciascuna Parte godranno della parita' di trattamento nell'applica
 
 3\. Una Parte non sara' tenuta ad applicare i paragrafi 1 e 2 di questo Articolo ad una persona che non sia legalmente autorizzata a risiedere nel territorio di detta Parte.
 
-## PARTE II - DISPOSIZIONI RIGUARDANTI LE PRESTAZIONI
+## PARTE II - DISPOSIZIONI RIGUARDANTI LE PRESTAZIONI PRESTAZIONI AUSTRALIANE
 
-### PRESTAZIONI AUSTRALIANE
-
-#### ARTICOLO 5
+### ARTICOLO 5
 
 Residenza o presenza in Italia o in uno stato terzo
 
@@ -195,11 +193,11 @@ b) sia fisicamente presente in Australia, o sul territorio italiano o dello Stat
 
 2\. Il requisito che una persona sia stata un residente australiano per certo periodo, non si applichera' alla persona che richieda la pensione destinata all'orfano di entrambi i genitori, in conformita' all'Articolo 9.
 
-#### ARTICOLO 6
+### ARTICOLO 6
 
 Prestazioni australiane riguardanti il coniuge de jure o de facto Una persona che riceva, o abbia diritto a ricevere, una prestazione in virtu' della legislazione australiana in quanto il coniuge, de jure o de facto, di tale persona riceva o abbia diritto a ricevere un a prestazione in virtu' del presente Accordo, ricevera' un importo calcolato in base al presente Accordo.
 
-#### ARTICOLO 7
+### ARTICOLO 7
 
 Totalizzazione dei periodi di residenza e dei periodi di contribuzione Totalizzazione per l'Australia
 
@@ -235,7 +233,7 @@ a) ai fini di una prestazione australiana pagabile ad una persona fuori dall'Aus
 
 5\. Ai fini dei paragrafi 1 e 2, ed al fine di una domanda presentata da una donna per una pensione alle vedove, a tale donna saranno attribuiti i periodi di contribuzione accreditata corrispondenti a quelli accumulati dal defunto marito; tuttavia ogni periodo durante il quale la donna ed il defunto marito abbiano entrambi accumulato periodi di contribuzione accreditata verra' preso in considerazione una sola volta.
 
-#### ARTICOLO 8
+### ARTICOLO 8
 
 Calcolo delle prestazioni australiane
 
@@ -261,7 +259,7 @@ c) alla parte della prestazione australiana, calcolata in base alla precedente l
 
 4\. Ai fini del presente Articolo e dell'applicazione delle leggi australiane, qualora un coniuge, de jure o de facto, oppure entrambi, abbiano diritto a ricevere una prestazione, o prestazioni italiane, l'importo di tale prestazione, o il totale delle prestazioni, dovra' essere suddiviso in parti uguali tra i coniugi.
 
-#### ARTICOLO 9
+### ARTICOLO 9
 
 Pensione all'orfano di entrambi i genitori e pensione per l'assistenza personale al coniuge inabile
 
@@ -269,7 +267,7 @@ Pensione all'orfano di entrambi i genitori e pensione per l'assistenza personale
 
 2\. Al fine di stabilire un diritto ad una pensione, per l'assistenza personale al coniuge inabile in base al presente Accordo, una persona che si trova in Italia sara' considerata, come se fosse fisicamente presente in Australia.
 
-#### ARTICOLO 10
+### ARTICOLO 10
 
 Esclusione di specifici pagamenti italiani dall'accertamento dei redditi da parte dell'Australia
 
@@ -279,7 +277,7 @@ Esclusione di specifici pagamenti italiani dall'accertamento dei redditi da part
 
 ## PRESTAZIONI ITALIANE
 
-#### ARTICOLO 11
+### ARTICOLO 11
 
 Totalizzazione dei periodi di contribuzione e dei periodi di residenza
 
@@ -317,7 +315,7 @@ h) per la pensione ai superstiti: 1 anno.
 
 4\. Al fini del presente Articolo, qualora un periodo di contribuzione accreditata in Italia ed un periodo di residenza in Australia nell'arco della vita lavorativa coincidano, i periodi che si sovrappongono saranno presi in considerazione dall'Italia una sola volta come periodo di contribuzione accreditata.
 
-#### ARTICOLO 12
+### ARTICOLO 12
 
 Prestazioni italiane in pro-rata
 
@@ -331,19 +329,19 @@ a) l'ammontare della prestazione teorica cui tale persona avrebbe diritto sara' 
 
 4\. Qualora una persona che risiede in Italia abbia diritto a prestazioni ai sensi delle legislazioni di entrambe le Parti e se la somma di queste prestazioni non raggiunga l'importo del trattamento minimo di pensione stabilito dalla legislazione italiana l'istituzione italiana, concede, in aggiunta alla propria prestazione, un'integrazione italiana necessaria per raggiungere l'importo di detto trattamento minimo di pensione.
 
-#### ARTICOLO 13
+### ARTICOLO 13
 
 Esclusione di specifici pagamenti australiani dall'accertamento dei redditi da parte dell'Italia
 
 Qualora una persona riceva o abbia diritto a ricevere una prestazione prevista dalla legislazione italiana in base al presente Accordo, o ad altro titolo, e tale prestazione includa una integrazione italiana e/o una maggiorazione sociale italiana e/o prestazioni familiari per le persone a carico, ogni maggiorazione per minori a carico corrisposta dall'Australia a tale persona e/o al suo coniuge, ai sensi della legislazione australiana di sicurezza sociale, non sara' inclusa nell'accertamento dei redditi effettuato dall'Italia ai fini della determinazione all'ammontare dell'integrazione italiana e/o della maggiorazione sociale italiana e/o delle prestazioni familiari.
 
-#### ARTICOLO 14
+### ARTICOLO 14
 
 Indennita' di disoccupazione
 
 Ai fini del conseguimento del diritto all'indennita' di disoccupazione da parte di un cittadino australiano, o italiano, in base alla legislazione italiana, i periodi di lavoro svolti in Australia, ad esclusione del periodo di lavoro autonomo, saranno totalizzati con i periodi di contribuzione accreditata in Italia, a condizione che questi ultimi periodi siano complessivamente non inferiori ad un anno.
 
-#### ARTICOLO 15
+### ARTICOLO 15
 
 Prestazioni familiari
 
@@ -367,7 +365,7 @@ e) maggiorazioni per minori a carico.
 
 ## PARTE III - DISPOSIZIONI VARIE
 
-#### ARTICOLO 16
+### ARTICOLO 16
 
 Presentazione delle domande
 
@@ -383,7 +381,7 @@ in qualsiasi momento, dopo l'entrata in vigore del presente Accordo.
 
 2\. Qualora una domanda di prestazione ad una Parte venga presentata nel territorio dell'altra Parte, oppure in uno Stato terzo di cui al paragrafo 1, la data di presentazione sara' considerata come data utile a tutti i fini riguardanti tale domanda.
 
-#### ARTICOLO 17
+### ARTICOLO 17
 
 Istruttoria delle domande
 
@@ -425,7 +423,7 @@ l'ammontare di tali arretrati alla prima Parte; e
 
 e) quest'ultima Parte potra' dedurre dall'ammontare di tali arretrati la somma da essa corrisposta in eccesso, versando il saldo all'interessato.
 
-#### ARTICOLO 18
+### ARTICOLO 18
 
 Trasferibilita' delle prestazioni
 
@@ -437,13 +435,13 @@ Trasferibilita' delle prestazioni
 
 4\. Una prestazione dovuta da una Parte in virtu' del presente Accordo, sara' corrisposta da tale Parte al beneficiario, sia nel territorio dell'altra Parte sia in un territorio diverso da quello di entrambe le Parti senza decurtazioni per spese ed oneri amministrativi.
 
-#### ARTICOLO 19
+### ARTICOLO 19
 
 Disposizioni amministrative
 
 Le autorita' competenti delle Parti adotteranno le disposizioni amministrative necessarie per dare attuazione al presente Accordo.
 
-#### ARTICOLO 20
+### ARTICOLO 20
 
 Scambio di informazioni e assistenza reciproca
 
@@ -471,7 +469,7 @@ b) fornire particolari che non siano ottenibili in base alle leggi o seguendo la
 
 5\. Nell'applicare il presente Accordo le autorita' competenti e le istituzioni di una Parte potranno comunicare con l'altra Parte nella loro lingua ufficiale.
 
-#### ARTICOLO 21
+### ARTICOLO 21
 
 Ricorsi
 
@@ -483,7 +481,7 @@ Ricorsi
 
 4\. Nel presente Articolo, per quanto riguarda l'Australia, ogni riferimento ad un ricorso costituisce un riferimento ad un documento riguardante un ricorso che puo' essere presentato ad un organo amministrativo istruito in base alla legislazione australiana.
 
-#### ARTICOLO 22
+### ARTICOLO 22
 
 Revisione dell'Accordo
 
@@ -495,7 +493,7 @@ Revisione dell'Accordo
 
 ## PARTE IV - DISPOSIZIONI FINALI
 
-#### ARTICOLO 23
+### ARTICOLO 23
 
 Entrata in vigore e disposizioni transitorie
 
@@ -525,7 +523,7 @@ b) che aveva fatto domanda per una pensione per vedove di tipo B entro il 30 giu
 
 la pensione soppressa sara' ripristinata a partire dalla data della soppressione oppure la domanda sara' definita come se detta sezione 1215 non fosse entrata in vigore. L'ammontare della pensione per vedove di tipo B cosi' ripristinata o della pensione per vedove di tipo B dovuta a seguito dell'accoglimento della domanda, sara' calcolato ai sensi delle disposizioni dell'Accordo menzionato nel paragrafo 2 del presente Articolo, fino a quando tale Accordo sara' in vigore e, successivamente, ai sensi del presente Accordo.
 
-#### ARTICOLO 24
+### ARTICOLO 24
 
 Cessazione
 

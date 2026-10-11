@@ -28,7 +28,7 @@ la seguente legge:
 
 ## CAMPO DI APPLICAZIONE
 
-### Art. 1
+## Art. 1
 
 ((1. La presente legge si applica ai minori dei diciotto anni, di seguito indicati ''minori'', che hanno un contratto o un rapporto di lavoro, anche speciale, disciplinato dalle norme vigenti.
 
@@ -42,7 +42,7 @@ c) orario di lavoro: qualsiasi periodo in cui il minore e' al lavoro, a disposiz
 
 d) periodo di riposo: qualsiasi periodo che non rientra nell'orario di lavoro)).
 
-### Art. 2
+## Art. 2
 
 ((1. Le norme della presente legge non si applicano agli adolescenti addetti a lavori occasionali o di breve durata concernenti:
 
@@ -56,11 +56,11 @@ b) prestazioni di lavoro non nocivo, ne' pregiudizievole, ne' pericoloso, nelle 
 
 ## REQUISITI DI ETA' E DI ISTRUZIONE
 
-### Art. 3
+## Art. 3
 
 ((1. L'eta' minima per l'ammissione al lavoro e' fissata al momento in cui il minore ha concluso il periodo di istruzione obbligatoria e comunque non puo' essere inferiore ai 15 anni compiuti)).
 
-### Art. 4
+## Art. 4
 
 1\. E' vietato adibire al lavoro i bambini, salvo quanto disposto dal comma 2.
 
@@ -74,7 +74,7 @@ AGGIORNAMENTO (5)
 
 Il decreto 27 aprile 2006, n. 218 ha disposto (con l'art. 4, comma 2) che "Fatte salve le sanzioni di cui all'articolo 3, le autorizzazioni di cui all'articolo 4, comma 2 della legge 17 ottobre 1967, n. 977 e successive modificazioni per l'impiego di minori di anni quattordici in programmi televisivi e radiofonici sono revocate di diritto in caso di accertata violazione del presente regolamento ai danni del minore autorizzato".
 
-### Art. 5
+## Art. 5
 
 ARTICOLO ABROGATO DAL D.LGS. 4 AGOSTO 1999, N. 345 ((3))
 
@@ -84,7 +84,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 4 agosto 1999, n. 345 come modificato dal D.Lgs. 18 agosto 2000, n. 262 ha disposto (con l'at. 16) che "fino alla data del 20 ottobre 2000 non trovano applicazione le disposizioni dell'articolo 7, nella parte in cui sostituisce i commi 1 e 2 dell'articolo 6 della legge 17 ottobre 1967, n. 977, nonche' del comma 2, lettera a), limitatamente all'abrogazione dell'articolo 5 della legge n. 977 del 1967, e della lettera c)".
 
-### Art. 6
+## Art. 6
 
 ((1. E' vietato adibire gli adolescenti alle lavorazioni, ai processi e ai lavori indicati nell'Allegato I. ((3))
 
@@ -104,7 +104,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 4 agosto 1999, n. 345 come modificato dal D.Lgs. 18 agosto 2000, n. 262 ha disposto (con l'art. 16) che "fino alla data del 20 ottobre 2000 non trovano applicazione le disposizioni dell'articolo 7, nella parte in cui sostituisce i commi 1 e 2 dell'articolo 6 della legge 17 ottobre 1967, n. 977, nonche' del comma 2, lettera a), limitatamente all'abrogazione dell'articolo 5 della legge n. 977 del 1967, e della lettera c)".
 
-### Art. 7
+## Art. 7
 
 ((1. Il datore di lavoro, prima di adibire i minori al lavoro e a ogni modifica rilevante delle condizioni di lavoro, effettua la valutazione dei rischi prevista dall'articolo 4 del decreto legislativo 19 settembre 1994, n. 626, con particolare riguardo a:
 
@@ -126,7 +126,7 @@ g) situazione della formazione e dell'informazione dei minori.
 
 ## VISITA MEDICA PREVENTIVA E PERIODICA
 
-### Art. 8
+## Art. 8
 
 1\. I bambini nei casi di cui all'articolo 4, comma 2, e gli adolescenti, possono essere ammessi al lavoro purche' siano riconosciuti idonei all'attivita' lavorativa cui saranno adibiti a seguito di visita medica.
 
@@ -158,45 +158,45 @@ AGGIORNAMENTO (6)
 
 Il D.L. 21 giugno 2013, n. 69 convertito con modificazione dalla L. 9 agosto 2013, n. 98 ha disposto (con l'art. 42, comma 1, lettera b)) che, fermi restando gli obblighi di certificazione previsti dal decreto legislativo 9 aprile 2008, n. 81 per i lavoratori soggetti a sorveglianza sanitaria, e' abrogata, limitatamente alle lavorazioni non a rischio, la disposizione concernente l'obbligo del certificato di idoneita' per l'assunzione di cui al presente articolo.
 
-### Art. 9
+## Art. 9
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 AGOSTO 1999, N. 345))
 
-### Art. 10
+## Art. 10
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 AGOSTO 1999, N. 345))
 
-### Art. 11
+## Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 AGOSTO 1999, N. 345))
 
-### Art. 12
+## Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 AGOSTO 1999, N. 345))
 
-### Art. 13
+## Art. 13
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 AGOSTO 1999, N. 345))
 
 ## TRASPORTO E SOLLEVAMENTO PESI
 
-### Art. 14
+## Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 AGOSTO 1999, N. 345))
 
 ## LAVORO NOTTURNO
 
-### Art. 15
+## Art. 15
 
 ((1. E' vietato adibire i minori al lavoro notturno, salvo quanto disposto dall'articolo 17.
 
 2\. Con il termine ''notte'' si intende un periodo di almeno 12 ore consecutive comprendente l'intervallo tra le ore 22 e le ore 6, o tra le ore 23 e le ore 7. Tali periodi possono essere interrotti nei casi di attivita' caratterizzate da periodi di lavoro frazionati o di breve durata nella giornata)).
 
-### Art. 16
+## Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 AGOSTO 1999, N. 345))
 
-### Art. 17
+## Art. 17
 
 ((1. In deroga a quanto stabilito dall'articolo 15, la prestazione lavorativa del minore impiegato nelle attivita' di cui all'articolo 4, comma 2, puo' protrarsi non oltre le ore 24. In tale caso il minore deve godere, a prestazione compiuta, di un periodo di riposo di almeno 14 ore consecutive.
 
@@ -204,13 +204,13 @@ Il D.L. 21 giugno 2013, n. 69 convertito con modificazione dalla L. 9 agosto 201
 
 ## ORARIO DI LAVORO
 
-### Art. 18
+## Art. 18
 
 Per i ((bambini)), liberi da obblighi scolastici, l'orario di lavoro non puo' superare le 7 ore giornaliere e le 35 settimanali.
 
 Per gli adolescenti l'orario di lavoro non puo' superare le 8 ore giornaliere e le 40 settimanali.
 
-### Art. 19
+## Art. 19
 
 ((. . . )) gli adolescenti non possono essere adibiti al trasporto di pesi per piu' di 4 ore durante la giornata, compresi i ritorni a vuoto.
 
@@ -218,7 +218,7 @@ Per gli adolescenti l'orario di lavoro non puo' superare le 8 ore giornaliere e 
 
 ## RIPOSI INTERMEDI
 
-### Art. 20
+## Art. 20
 
 L'orario di lavoro dei ((bambini)) e degli adolescenti non puo' durare senza interruzione piu' di 4 ore e mezza Qualora l'orario di lavoro giornaliero superi le 4 ore e mezza, deve essere interrotto da un riposo intermedio della durata di un'ora almeno.
 
@@ -228,13 +228,13 @@ La riduzione di cui al comma precedente, in difetto di disposizioni di contratti
 
 La ((Direzione provinciale del lavoro)) puo' proibire la permanenza nei locali di lavoro dei ((bambini)) e degli adolescenti durante i riposi intermedi.
 
-### Art. 21
+## Art. 21
 
 In deroga a quanto disposto dall'articolo 20, la ((Direzione provinciale del lavoro)) puo', nei casi in cui il lavoro presenti carattere di pericolosita' o gravosita', prescrivere che il lavoro dei ((bambini)) e degli adolescenti non duri senza interruzione piu' di 3 ore, stabilendo anche la durata del riposo intermedio.
 
 ## RIPOSO SETTIMANALE
 
-### Art. 22
+## Art. 22
 
 Il riposo domenicale e settimanale dei minori e disciplinato dalle disposizioni vigenti in materia.
 
@@ -244,7 +244,7 @@ Ai minori impiegati in attivita' lavorative di carattere culturale, artistico, s
 
 ## FERIE ANNUALI
 
-### Art. 23
+## Art. 23
 
 I ((bambini)) e gli adolescenti hanno diritto ad un periodo annuale di ferie retribuite che non puo' essere inferiore a giorni 30 per coloro che non hanno compiuto i 16 anni e a giorni 20 per coloro che hanno superato i 16 anni di eta'.
 
@@ -252,7 +252,7 @@ I contratti collettivi di lavoro possono regolare le modalita' di godimento dell
 
 ## TUTELA PREVIDENZIALE
 
-### Art. 24
+## Art. 24
 
 I ((bambini)) di qualsiasi eta', anche se adibiti al lavoro in violazione delle norme sull'eta' minima di ammissione di cui alla presente legge, hanno diritto alle prestazioni assicurative previste dalle vigenti norme in materia di assicurazioni sociali obbligatorie.
 
@@ -262,7 +262,7 @@ rivalsa nei confronti del datore di lavoro per l'importo complessivo delle prest
 
 ## FORMAZIONE PROFESSIONALE DEI FANCIULLI
 
-### Art. 25
+## Art. 25
 
 I ((bambini)) di 14 anni compiuti possono essere ammessi dagli Uffici del lavoro a frequentare corsi di formazione professionale per il primo avviamento al lavoro, riconosciuti idonei a fornire ai ((bambini)) stessi un'adeguata formazione professionale.
 
@@ -270,7 +270,7 @@ Gli Uffici del lavoro dovranno sollecitare i ((bambini)) che hanno superato i 14
 
 ## SANZIONI
 
-### Art. 26
+## Art. 26
 
 ((1. L'inosservanza delle disposizioni contenute negli articoli 4, comma 1; 6, comma 1; 8, comma 7, e' punita con l'arresto fino a sei mesi.
 
@@ -296,17 +296,17 @@ Il D. Lgs 9 settembre 1994, n. 566 ha disposto (con l' art. 1, comma 2) che "Per
 
 ## DISPOSIZIONI. FINALI
 
-### Art. 27
+## Art. 27
 
 Sono abrogate le norme della legge 29 novembre 1961, n. 1325, nonche' le norme della legge 26 aprile 1934, n. 653, per la parte relativa alla tutela del lavoro dei ((bambini)) e degli adolescenti.
 
 E' abrogata altresi' ogni disposizione in contrasto con la presente legge.
 
-### Art. 28
+## Art. 28
 
 Fino all'emanazione del decreto del Presidente della Repubblica previsto all'articolo 6, mentre per le attivita' industriali restano ferme le tabelle allegate al regio decreto 7 agosto 1936, n. 1720, per le altre attivita' la valutazione della pericolosita', faticosita' e gravosita' dei lavori e' rimessa temporaneamente alla ((Direzione provinciale del lavoro)).
 
-### Art. 29
+## Art. 29
 
 La vigilanza sull'applicazione della presente legge e' affidata al Ministero del lavoro e della previdenza sociale che la esercita attraverso l'Ispettorato del lavoro, salve le attribuzioni degli organi di polizia.
 
@@ -324,7 +324,7 @@ Visto, il Guardasigilli: REALE
 
 ## DISPOSIZIONI. FINALI
 
-### Allegato I
+## Allegato I
 
 Allegato I.
 

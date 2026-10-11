@@ -22,15 +22,15 @@ retrieved: 2026-10-11
 
 ## CAPO I - PRINCIPI GENERALI
 
-##### Art. 1
+#### Art. 1
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 2
+#### Art. 2
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 3
+#### Art. 3
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -38,35 +38,35 @@ retrieved: 2026-10-11
 
 ### SEZIONE I - IL BILANCIO ANNUALE DI PREVISIONE
 
-##### Art. 4
+#### Art. 4
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 5
+#### Art. 5
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 6
+#### Art. 6
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 7
+#### Art. 7
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 8
+#### Art. 8
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 9
+#### Art. 9
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 10
+#### Art. 10
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 11
+#### Art. 11
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -74,19 +74,19 @@ retrieved: 2026-10-11
 
 ### SEZIONE II - ALLEGATI AL BILANCIO DI PREVISIONE ANNUALE
 
-##### Art. 12
+#### Art. 12
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 13
+#### Art. 13
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 14
+#### Art. 14
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 15
+#### Art. 15
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -94,19 +94,19 @@ retrieved: 2026-10-11
 
 ### SEZIONE III - COMPETENZE DEGLI ORGANI IN MATERIA DI BILANCI
 
-##### Art. 16
+#### Art. 16
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 17
+#### Art. 17
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 18
+#### Art. 18
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 19
+#### Art. 19
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -114,27 +114,27 @@ retrieved: 2026-10-11
 
 ### SEZIONE I - LE ENTRATE
 
-##### Art. 20
+#### Art. 20
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 21
+#### Art. 21
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 22
+#### Art. 22
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 23
+#### Art. 23
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 24
+#### Art. 24
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 25
+#### Art. 25
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -142,19 +142,19 @@ retrieved: 2026-10-11
 
 ### SEZIONE II - LE SPESE
 
-##### Art. 26
+#### Art. 26
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 27
+#### Art. 27
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 28
+#### Art. 28
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 29
+#### Art. 29
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -162,15 +162,15 @@ retrieved: 2026-10-11
 
 ### SEZIONE III - IL RISULTATO DI AMMINISTRAZIONE
 
-##### Art. 30
+#### Art. 30
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 31
+#### Art. 31
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 32
+#### Art. 32
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -178,11 +178,11 @@ retrieved: 2026-10-11
 
 ### SEZIONE IV - RESIDUI
 
-##### Art. 33
+#### Art. 33
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 34
+#### Art. 34
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -190,31 +190,31 @@ retrieved: 2026-10-11
 
 ### SEZIONE V - PRINCIPI CONTABILI DI GESTIONE
 
-##### Art. 35
+#### Art. 35
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 36
+#### Art. 36
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 37
+#### Art. 37
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 38
+#### Art. 38
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 39
+#### Art. 39
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 40
+#### Art. 40
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 41
+#### Art. 41
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -222,33 +222,31 @@ retrieved: 2026-10-11
 
 ### SEZIONE I - PRINCIPI GENERALI
 
-##### Art. 42
+#### Art. 42
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 43
+#### Art. 43
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
 ## CAPO IV - INVESTIMENTI
 
-### SEZIONE II - DISCIPLINA DELLE FONTI DI FINANZIAMENTO DERIVANTI DAL RICORSO
+### SEZIONE II - DISCIPLINA DELLE FONTI DI FINANZIAMENTO DERIVANTI DAL RICORSO ALL'INDEBITAMENTO
 
-#### ALL'INDEBITAMENTO
-
-##### Art. 44
+#### Art. 44
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 45
+#### Art. 45
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 46
+#### Art. 46
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 47
+#### Art. 47
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -256,11 +254,11 @@ retrieved: 2026-10-11
 
 ### SEZIONE III - GARANZIE DELL'AMMORTAMENTO DEI MUTUI E DEI PRESTITI
 
-##### Art. 48
+#### Art. 48
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 49
+#### Art. 49
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -268,27 +266,27 @@ retrieved: 2026-10-11
 
 ### SEZIONE I - PRINCIPI GENERALI
 
-##### Art. 50
+#### Art. 50
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 51
+#### Art. 51
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 52
+#### Art. 52
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 53
+#### Art. 53
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 54
+#### Art. 54
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 55
+#### Art. 55
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -296,11 +294,11 @@ retrieved: 2026-10-11
 
 ### SEZIONE II - ATTIVITA' CONNESSE ALLA RISCOSSIONE DELLE ENTRATE
 
-##### Art. 56
+#### Art. 56
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 57
+#### Art. 57
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -308,23 +306,23 @@ retrieved: 2026-10-11
 
 ### SEZIONE III - ATTIVITA' CONNESSE AL PAGAMENTO DELLE SPESE
 
-##### Art. 58
+#### Art. 58
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 59
+#### Art. 59
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 60
+#### Art. 60
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 61
+#### Art. 61
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 62
+#### Art. 62
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -332,7 +330,7 @@ retrieved: 2026-10-11
 
 ### SEZIONE IV - DELLE ATTIVITA' CONNESSE ALLA CUSTODIA DI TITOLI E VALORI
 
-##### Art. 63
+#### Art. 63
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -340,19 +338,19 @@ retrieved: 2026-10-11
 
 ### SEZIONE V - ADEMPIMENTI E VERIFICHE CONTABILI
 
-##### Art. 64
+#### Art. 64
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 65
+#### Art. 65
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 66
+#### Art. 66
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 67
+#### Art. 67
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -360,37 +358,37 @@ retrieved: 2026-10-11
 
 ### SEZIONE VI - ANTICIPAZIONI DI TESORERIA
 
-##### Art. 68
+#### Art. 68
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
 ## CAPO VI - RILEVAZIONE E DIMOSTRAZIONE DEI RISULTATI DI GESTIONE
 
-##### Art. 69
+#### Art. 69
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 70
+#### Art. 70
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 71
+#### Art. 71
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 72
+#### Art. 72
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 73
+#### Art. 73
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 74
+#### Art. 74
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 75
+#### Art. 75
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -398,39 +396,39 @@ retrieved: 2026-10-11
 
 ### SEZIONE I - PRINCIPI GENERALI
 
-##### Art. 76
+#### Art. 76
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 77
+#### Art. 77
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 78
+#### Art. 78
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 79
+#### Art. 79
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 80
+#### Art. 80
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 81
+#### Art. 81
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 82
+#### Art. 82
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 83
+#### Art. 83
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 84
+#### Art. 84
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -438,31 +436,31 @@ retrieved: 2026-10-11
 
 ### SEZIONE II - ATTIVITA' DELL'ORGANO STRAORDINARIO DI LIQUIDAZIONE
 
-##### Art. 85
+#### Art. 85
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 86
+#### Art. 86
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 87
+#### Art. 87
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 88
+#### Art. 88
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 89
+#### Art. 89
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 90
+#### Art. 90
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 90-bis
+#### Art. 90-bis
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -470,79 +468,77 @@ retrieved: 2026-10-11
 
 ### SEZIONE III - IPOTESI DI BILANCIO STABILMENTE RIEQUILIBRATO
 
-##### Art. 91
+#### Art. 91
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 92
+#### Art. 92
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 93
+#### Art. 93
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
 ## CAPO VII - RISANAMENTO FINANZIARIO
 
-### SEZIONE IV - PRESCRIZIONI E LIMITI CONSEGUENTI AL RISANAMENTO DELL'ENTE
+### SEZIONE IV - PRESCRIZIONI E LIMITI CONSEGUENTI AL RISANAMENTO DELL'ENTE LOCALE
 
-#### LOCALE
-
-##### Art. 94
+#### Art. 94
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 95
+#### Art. 95
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 96
+#### Art. 96
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 97
+#### Art. 97
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 98
+#### Art. 98
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 99
+#### Art. 99
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
 ## CAPO VIII - REVISIONE ECONOMICO FINANZIARIA
 
-##### Art. 100
+#### Art. 100
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 101
+#### Art. 101
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 102
+#### Art. 102
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 103
+#### Art. 103
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 104
+#### Art. 104
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 105
+#### Art. 105
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 106
+#### Art. 106
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 107
+#### Art. 107
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -550,27 +546,27 @@ retrieved: 2026-10-11
 
 ### SEZIONE I - NORME DI CARATTERE GENERALE
 
-##### Art. 108
+#### Art. 108
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 109
+#### Art. 109
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 110
+#### Art. 110
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 111
+#### Art. 111
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 112
+#### Art. 112
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 113
+#### Art. 113
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
@@ -578,11 +574,11 @@ retrieved: 2026-10-11
 
 ### SEZIONE II - NORME DI CONTABILITA'
 
-##### Art. 114
+#### Art. 114
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 115 - Tempi di applicazione
+#### Art. 115 - Tempi di applicazione
 
 1\. Le disposizioni relative alla struttura del bilancio di previsione contenute nel capo secondo si applicano a partire dall'esercizio finanziario 1996.
 
@@ -654,7 +650,7 @@ AGGIORNAMENTO (20)
 
 La L. 30 dicembre 2004, n. 311 ha disposto (con l'art. 1, comma 539) che "I termini previsti per l'applicazione della disciplina del conto economico, di cui al comma 2 dell'articolo 115 del decreto legislativo 25 febbraio 1995, n. 77, sono differiti all'anno 2004 e all'anno 2006, rispettivamente per i comuni di cui ai numeri 4) e 4-bis) del comma 1, lettera d), dell'articolo 8 del decreto-legge 27 ottobre 1995, n. 444, convertito, con modificazioni, dalla legge 20 dicembre 1995, n. 539."
 
-##### Art. 116 - Completamento degli inventari e ricostruzione dello stato patrimoniale
+#### Art. 116 - Completamento degli inventari e ricostruzione dello stato patrimoniale
 
 1\. Gli enti locali provvedono al completamento degli inventari ed alla ricostruzione degli stati patrimoniali entro il 31 dicembre del 1995, con esclusione dei beni mobili non registrati per i quali il termine e' fissato al 31 dicembre 1996. ((2))
 
@@ -666,7 +662,7 @@ Il D.L. 27 ottobre 1995, n. 444 convertito con modificazioni dalla L. 20 dicembr
 
 patrimoniali, e' prorogato al 31 maggio 1996."
 
-##### Art. 117 - Gradualita' di ammortamento dei beni
+#### Art. 117 - Gradualita' di ammortamento dei beni
 
 ((1. L'applicazione delle prescrizioni di cui all'articolo 9
 
@@ -696,7 +692,7 @@ Il D.L. 27 ottobre 1995, n. 444 convertito con modificazioni dalla L. 20 dicembr
 
 ### SEZIONE III - NORME SUL SERVIZIO DI TESORERIA
 
-##### Art. 118 - Servizi di tesoreria affidati a soggetti non abilitati
+#### Art. 118 - Servizi di tesoreria affidati a soggetti non abilitati
 
 1\. I soggetti diversi da quelli abilitati a norma dell'articolo 50 a gestire il servizio di tesoreria conservano l'incarico sino alla prima scadenza dello stesso senza possibilita' di rinnovo.
 
@@ -704,7 +700,7 @@ Il D.L. 27 ottobre 1995, n. 444 convertito con modificazioni dalla L. 20 dicembr
 
 ### SEZIONE IV - NORME SUL RISANAMENTO FINANZIARIO DEGLI ENTI LOCALI
 
-##### Art. 119
+#### Art. 119
 
 (( (Determinazione delle medie nazionali per classi demografiche delle risorse di parte corrente e della consistenza delle piante organiche).
 
@@ -758,7 +754,7 @@ inferiore a quello spettante agli enti di maggiore dimensione della fascia demog
 
 5\. I rapporti medi dipendenti-popolazione di cui al comma 3 si applicano anche agli enti locali che hanno dichiarato in precedenza il dissesto finanziario e non hanno ottenuto alla data di entrata in vigore del presente decreto legislativo l'approvazione da parte del Ministro dell'interno dell'ipotesi di bilancio riequilibrato. ))
 
-##### Art. 120 - Modifiche al decreto del Presidente della Repubblica 24 agosto 1993, n. 378
+#### Art. 120 - Modifiche al decreto del Presidente della Repubblica 24 agosto 1993, n. 378
 
 1\. Ove nel decreto del Presidente della Repubblica 24 agosto 1993, n.
 
@@ -906,7 +902,7 @@ p) l'art. 15 e' sostituito dal seguente:
 
 L'ente locale e' tenuto al pagamento degli emolumenti spettanti ai dipendenti posti in disponibilita' dalla data della deliberazione e per tutta la durata della disponibilita', fermo restando il diritto al rimborso da parte dello Stato, su richiesta dell'ente da presentarsi entro 60 giorni dalla cessazione dello stato di disponibilita'.". ))
 
-##### Art. 121
+#### Art. 121
 
 (( (Procedure di risanamento finanziario in corso).
 
@@ -926,7 +922,7 @@ L'ente locale e' tenuto al pagamento degli emolumenti spettanti ai dipendenti po
 
 ### SEZIONE V - NORME SULLA REVISIONE ECONOMICO CONTABILE
 
-##### Art. 122 - Prima applicazione delle norme recate dall'articolo 107
+#### Art. 122 - Prima applicazione delle norme recate dall'articolo 107
 
 1\. Sino alla emanazione del decreto del Ministro dell'interno di cui all'articolo 107, comma 1, valgono quali limiti massimi del compenso base quelli fissati dall'articolo 2 del decreto del Ministro dell'interno del 4 ottobre 1991 recante determinazione del trattamento economico massimo attribuibile ai revisori dei conti nominati dai consigli degli enti locali, pubblicato nella G.U. n. 245 del 18 ottobre 1991.
 
@@ -948,7 +944,7 @@ L'ente locale e' tenuto al pagamento degli emolumenti spettanti ai dipendenti po
 
 ### SEZIONE VI - NORME FINALI
 
-##### Art. 123 - Abrogazione di norme
+#### Art. 123 - Abrogazione di norme
 
 1\. Sono abrogate le seguenti norme:
 
@@ -1010,7 +1006,7 @@ decreto-legge 12 gennaio 1991, n. 6, convertito, con modificazioni, dalla legge 
 
 2\. Sono da intendersi abrogate tutte le disposizioni non compatibili con i principi e le norme contenute nel presente decreto legislativo.
 
-##### Art. 124 - Entrata in vigore
+#### Art. 124 - Entrata in vigore
 
 1\. Le norme contenute nel presente decreto legislativo entrano in vigore il sessantesimo giorno successivo alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 

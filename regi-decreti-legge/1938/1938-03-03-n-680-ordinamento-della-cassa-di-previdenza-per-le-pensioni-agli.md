@@ -238,7 +238,7 @@ g) dai lasciti, dalle donazioni e da qualsiasi altro provento straordinario;
 
 h) dagli interessi sulle attivita' della Cassa.
 
-## CAPO II. - Iscrizioni obbligatorie e facoltative.
+### CAPO II. - Iscrizioni obbligatorie e facoltative.
 
 #### Art. 5
 
@@ -450,7 +450,7 @@ L'iscrizione facoltativa a carico dell'Ente e dell'impiegato e' irrevocabile.
 
 Salvo disposizioni speciali, l'iscrizione facoltativa ha effetto dal primo del mese successivo alla presentazione della relativa domanda alla Prefettura o alla Cassa di previdenza.
 
-## CAPO III. - Contributi.
+### CAPO III. - Contributi.
 
 #### Art. 23
 
@@ -558,7 +558,7 @@ La L. 11 aprile 1955, n. 379 ha disposto (con l'art. 32, comma 2) che "La ritenu
 
 Ha inoltre disposto (con l'art. 50, comma 1) che la presente modifica ha effetto dal 31 dicembre 1953.
 
-## CAPO IV. - Impiego dei fondi della Cassa di previdenza.
+### CAPO IV. - Impiego dei fondi della Cassa di previdenza.
 
 #### Art. 31
 
@@ -786,7 +786,7 @@ La norma di cui al comma precedente si applica anche nel caso di riscatto di ser
 
 Sono pure computabili per il decennio predetto i periodi di servizio prestati con iscrizione ai regolamenti o convenzioni speciali per le pensioni o alle Casse, Istituti o Fondi speciali contemplati dai precedenti articoli 7 ultimo comma, 10, 11 e 13, quelli resi allo Stato, che siano cumulabili ai termini del presente Ordinamento, e quelli cumulabili a norma del successivo art. 55.
 
-## Capo II. - Servizi utili a indennita' o pensione.
+### Capo II. - Servizi utili a indennita' o pensione.
 
 #### Art. 47
 
@@ -932,7 +932,7 @@ Il pagamento e' integralmente effettuato dalla Cassa di previdenza per gli asseg
 
 Per il personale gia' iscritto alla Cassa di previdenza, addetto alle Aziende municipalizzate che esercitano pubblici servizi di trasporto, la quota di indennita' o di pensione a carico della Cassa di previdenza ai sensi dell'art. 34 del R. decreto 30 settembre 1920, n. 1538, e' determinata in base alle disposizioni del presente ordinamento e ripartita con le norme stabilite dall'art. 3 del R. decreto 15 febbraio 1923, n. 574.
 
-## Capo III. - Procedimento di liquidazione e pagamento degli assegni.
+### Capo III. - Procedimento di liquidazione e pagamento degli assegni.
 
 #### Art. 59
 
@@ -1010,9 +1010,7 @@ La corresponsione dell'acconto non e' soggetta a riscontro preventivo della Cort
 
 Gli Enti hanno facolta' di concedere direttamente gli acconti di pensione dandone notizia alla Cassa di previdenza, la quale, in sede di pagamento dell'assegno, provvede al rimborso sino alla concorrenza degli arretrati della pensione o della indennita' dovute. Sugli arretrati disponibili della pensione puo' anche essere ricuperato, a favore dello Istituto nazionale fascista per l'assistenza dei dipendenti degli enti locali l'importo dell'assegno vitalizio eventualmente concesso da detto Istituto; l'eccedenza che risultasse ancora scoperta a favore dell'Istituto medesimo e' ricuperata con ritenuta del quinto sulle ulteriori rate della pensione.
 
-## Capo IV. - Riassunzione in servizio dell'iscritto che abbia gia' conseguito
-
-### indennita' o pensione.
+### Capo IV. - Riassunzione in servizio dell'iscritto che abbia gia' conseguito indennita' o pensione.
 
 #### Art. 63
 
@@ -1050,7 +1048,7 @@ La Direzione generale della Cassa depositi e prestiti e degli Istituti di previd
 
 Esercita inoltre, a mezzo dei funzionari all'uopo adibiti, un'assidua vigilanze presso gli Enti locali e gli uffici provinciali per assicurare la regolare imposizione e riscossione dei contributi a favore della Cassa, e la documentazione dei servizi resi dagli iscritti.
 
-## Capo II. - Riscatti.
+### Capo II. - Riscatti.
 
 #### Art. 67
 

@@ -43,11 +43,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Disposizioni di principio e ambito di applicazione
 
@@ -109,7 +107,7 @@ Disposizioni di principio e ambito di applicazione
 
 > \- Per i riferimenti normativi alla decisione quadro 2009/829GAI si veda nelle note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -129,7 +127,7 @@ e) «Stato di esecuzione»: lo Stato membro a cui e' trasmessa la decisione sull
 
 > \- Per i riferimenti normativi alla decisione quadro 2009/829GAI si veda nelle note alle premesse.
 
-#### Art. 3
+### Art. 3
 
 Autorita' competenti
 
@@ -139,7 +137,7 @@ Autorita' competenti
 
 3\. Nei limiti indicati dal presente decreto, e' consentita la corrispondenza diretta tra le autorita' giudiziarie. In tale caso, l'autorita' giudiziaria italiana informa immediatamente il Ministero della giustizia della trasmissione o della ricezione di una decisione sulle misure cautelari.
 
-#### Art. 4
+### Art. 4
 
 Obblighi e prescrizioni impartiti con la decisione
 
@@ -165,17 +163,15 @@ g) divieto temporaneo di esercitare determinate attivita' professionali.
 
 > \- Il decreto legislativo 11 febbraio 2015, n. 9 (Attuazione della direttiva 2011/99/UE del Parlamento europeo e del Consiglio, del 13 dicembre 2011 sull'ordine di protezione europeo) e' pubblicato nella Gazzetta Ufficiale 23 febbraio 2015, n. 44.
 
-## Capo II
+## Capo II - Trasmissione all'estero
 
-### Trasmissione all'estero
-
-#### Art. 5
+### Art. 5
 
 Competenza
 
 1\. Il pubblico ministero presso il giudice che ha emesso la decisione sulle misure cautelari provvede, osservate le condizioni di cui all'articolo 6, alla trasmissione della decisione sulle misure cautelari all'autorita' competente dello Stato membro in cui l'interessato ha la propria residenza legale e abituale, quando l'interessato abbia manifestato la volonta' di fare rientro in quello Stato. Su richiesta dell'interessato, la trasmissione e' disposta in favore dell'autorita' competente di uno Stato membro diverso da quello della residenza legale e abituale, in cui voglia trasferirsi, e sempre che detta autorita' abbia prestato il consenso.
 
-#### Art. 6
+### Art. 6
 
 Condizioni di trasmissione
 
@@ -189,7 +185,7 @@ Condizioni di trasmissione
 
 5\. Se e' ignota l'autorita' competente dello Stato di esecuzione, l'autorita' giudiziaria procedente compie gli accertamenti necessari, anche tramite i punti di contatto della rete giudiziaria europea.
 
-#### Art. 7
+### Art. 7
 
 Procedimento
 
@@ -203,7 +199,7 @@ Procedimento
 
 5\. In caso di mancato riconoscimento della decisione sulle misure cautelari, il Ministero della giustizia, quando ne e' direttamente informato, ne da' comunicazione all'autorita' giudiziaria che ha emesso il provvedimento di trasmissione all'estero.
 
-#### Art. 8
+### Art. 8
 
 Effetti del riconoscimento
 
@@ -219,11 +215,9 @@ c) che e' scaduto il termine massimo di sorveglianza delle misure cautelari stab
 
 3\. Spetta all'autorita' giudiziaria italiana la competenza a decidere in ordine alla proroga, alla revoca della decisione sulle misure cautelari, alla modifica degli obblighi e delle prescrizioni imposti e all'emissione di un mandato di arresto o di qualsiasi altra decisione giudiziaria esecutiva avente medesima forza.
 
-## Capo III
+## Capo III - Trasmissione dall'estero
 
-### Trasmissione dall'estero
-
-#### Art. 9
+### Art. 9
 
 Competenza
 
@@ -231,7 +225,7 @@ Competenza
 
 2\. Quando la corte di appello rileva la propria incompetenza, la dichiara con ordinanza e dispone la trasmissione degli atti alla corte di appello competente, dandone tempestiva informazione, anche tramite il Ministero della giustizia, all'autorita' competente dello Stato di emissione.
 
-#### Art. 10
+### Art. 10
 
 Condizioni per il riconoscimento
 
@@ -245,7 +239,7 @@ c) la durata e la natura degli obblighi e prescrizioni impartiti sono compatibil
 
 2\. Se la natura o la durata degli obblighi e delle prescrizioni impartiti con le misure cautelari sono incompatibili con la disciplina prevista dall'ordinamento italiano per corrispondenti reati, la corte di appello, dandone informazione all'autorita' competente dello Stato di emissione, procede ai necessari adeguamenti, con le minime deroghe necessarie rispetto a quanto previsto dallo Stato di emissione. In ogni caso l'adeguamento non puo' comportare l'aggravamento, per contenuto o durata, degli obblighi e delle prescrizioni originariamente imposti.
 
-#### Art. 11
+### Art. 11
 
 Deroghe alla doppia punibilita'
 
@@ -321,7 +315,7 @@ mm) sabotaggio.
 
 > \- La convenzione 26 luglio 1995 (Convenzione elaborata in base all'articolo K.3 del trattato sull'Unione europea relativa alla tutela degli interessi finanziari delle Comunita' europee) e' pubblicata nella G.U.C.E. 27 novembre 1995, n. C 316.
 
-#### Art. 12
+### Art. 12
 
 Procedimento e decisione di riconoscimento
 
@@ -357,7 +351,7 @@ Procedimento e decisione di riconoscimento
 
 > 6\. Quando la Corte di cassazione annulla con rinvio, gli atti vengono trasmessi al giudice di rinvio, il quale decide entro venti giorni dalla ricezione.».
 
-#### Art. 13
+### Art. 13
 
 Motivi di rifiuto del riconoscimento
 
@@ -379,7 +373,7 @@ g) se la misura e' stata irrogata nei confronti di una persona che, alla data di
 
 2\. Nei casi di cui al comma 1, lettere a), b) e c), la corte di appello, prima di decidere di rifiutare il riconoscimento e la sorveglianza, consulta, anche tramite il Ministero della giustizia, con qualsiasi mezzo che lasci una traccia scritta, l'autorita' competente dello Stato di emissione e richiede ogni informazione utile alla decisione.
 
-#### Art. 14
+### Art. 14
 
 Effetti del riconoscimento
 
@@ -389,7 +383,7 @@ Effetti del riconoscimento
 
 3\. Il procuratore generale informa, anche tramite il Ministero della giustizia, l'autorita' competente dello Stato di emissione di qualsiasi inosservanza degli obblighi e delle prescrizioni imposti con la decisione sulla misura cautelare e di qualsiasi altro elemento tale da comportare l'adozione di un provvedimento di revoca della decisione o di modifica degli obblighi e delle prescrizioni imposti, tramite il modulo di cui all'allegato II al presente decreto.
 
-#### Art. 15
+### Art. 15
 
 Cessazione della competenza
 
@@ -405,17 +399,15 @@ d) quando sono scaduti i termini massimi, previsti dalla legge italiana, per la 
 
 e) se l'autorita' italiana procedente ha deciso di porre fine alla sorveglianza, in caso di mancato riscontro alla comunicazione, nonostante la fissazione di un termine ragionevole, dell'inosservanza degli obblighi e delle prescrizioni tale da comportare il riesame, la revoca della decisione sulle misure cautelari o la modifica degli obblighi e delle prescrizioni impartiti.
 
-#### Art. 16
+### Art. 16
 
 Spese
 
 1\. Sono a carico dello Stato italiano le spese sostenute nel territorio nazionale per la sorveglianza sull'osservanza degli obblighi e delle prescrizione imposti con la decisione sulle misure cautelari.
 
-## Capo IV
+## Capo IV - Disposizioni transitorie e finali
 
-### Disposizioni transitorie e finali
-
-#### Art. 17
+### Art. 17
 
 Disposizioni finanziarie
 
@@ -423,7 +415,7 @@ Disposizioni finanziarie
 
 2\. Le Amministrazioni interessate provvedono agli adempimenti previsti dal presente decreto con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-#### Art. 18
+### Art. 18
 
 Norme applicabili
 
@@ -447,7 +439,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -697,7 +689,7 @@ Timbro ufficiale (se disponibile):
 
 Parte di provvedimento in formato grafico
 
-#### Allegato II
+### Allegato II
 
 Allegato II
 

@@ -52,7 +52,7 @@ il seguente decreto legislativo:
 
 ## TITOLO I - DEFINIZIONI
 
-##### Articolo 1 - Definizioni
+#### Articolo 1 - Definizioni
 
 1\. Nel presente decreto si intendono per:
 
@@ -188,11 +188,9 @@ u) "fondi pensione": le forme pensionistiche di cui al decreto legislativo 21 ap
 
 > v), della legge 23 ottobre 1992, n. 421."
 
-## TITOLO II - PARAMETRI DI INDICIZZAZIONE, CALCOLI INTERMEDI E IMPORTI IN LIRE
+## TITOLO II - PARAMETRI DI INDICIZZAZIONE, CALCOLI INTERMEDI E IMPORTI IN LIRE CONTENUTI IN NORME VIGENTI
 
-### CONTENUTI IN NORME VIGENTI
-
-##### Articolo 2 - Parametri di indicizzazione
+#### Articolo 2 - Parametri di indicizzazione
 
 1\. A decorrere dal 1 gennaio 1999 e per un periodo massimo di cinque anni la Banca d'Italia determina periodicamente un tasso la cui misura sostituisce quella della cessata ragione normale dello sconto (tasso ufficiale di sconto), di cui all'articolo 1 della legge 7 febbraio 1992, n. 82, al fine dell'applicazione agli strumenti giuridici che vi facciano rinvio quale parametro di riferimento.
 
@@ -220,7 +218,7 @@ Detto tasso e' inizialmente determinato nella misura dell'ultimo tasso di sconto
 
 > 3\. Nel determinare la prestazione il terzo deve tener conto anche delle condizioni generali della produzione a cui il contratto eventualmente abbia riferimento."
 
-##### Articolo 3 - Calcoli intermedi
+#### Articolo 3 - Calcoli intermedi
 
 1\. Quando un importo in lire contenuto in strumenti giuridici diversi dalle norme vigenti non costituisce autonomo importo monetario da contabilizzare o da pagare ed occorre convertirlo in euro, l'importo convertito, salvo diverso accordo, va utilizzato con almeno:
 
@@ -240,7 +238,7 @@ d) due cifre decimali per gli importi originariamente espressi in migliaia di li
 
 > "4. Gli importi monetari da convertire da un'unita' monetaria nazionale in un'altra vengono prima convertiti in un importo monetario espresso in unita' euro, arrotondato almeno fino alla terza cifra decimale, importo che viene successivamente convertito nell'altra unita' monetaria nazionale. Non possono essere utilizzati metodi alternativi di calcolo, salvo se producono gli stessi risultati."
 
-##### Articolo 4 - Importi in lire contenuti in norme vigenti
+#### Articolo 4 - Importi in lire contenuti in norme vigenti
 
 1\. A decorrere dal 1 gennaio 1999, quando un importo in lire contenuto in (( norme vigenti, ivi comprese quelle che stabiliscono tariffe, prezzi amministrati o comunque imposti )) non costituisce autonomo importo monetario da pagare o contabilizzare ed occorre convertirlo in euro, l'importo convertito va utilizzato con almeno:
 
@@ -324,13 +322,13 @@ h-ter) l'articolo 2485 del codice civile e' sostituito dal seguente:
 
 ### Sezione I - Titoli di Stato
 
-##### Articolo 5 - Ridenominazione dei titoli di Stato in lire
+#### Articolo 5 - Ridenominazione dei titoli di Stato in lire
 
 1\. Il 1 gennaio 1999 sono ridenominati in euro i titoli di Stato denominati in lire, emessi a norma del diritto italiano e negoziabili sui mercati regolamentati.
 
 2\. Il Ministro del tesoro, del bilancio e della programmazione economica puo' rideterminare con proprio decreto le caratteristiche tecniche dei Certificati di Credito del Tesoro (CCT) da emettere per il rimborso dei crediti di imposta, in coerenza con la loro denominazione in euro a decorrere dal 1 gennaio 1999.
 
-##### Articolo 6
+#### Articolo 6
 
 (Ridenominazione dei prestiti internazionali denominati nella
 
@@ -338,7 +336,7 @@ valuta di uno Stato partecipante)
 
 1\. Il Tesoro puo' ridenominare i propri prestiti internazionali, emessi a norma del diritto italiano, denominati nelle altre valute aderenti, qualora gli Stati emittenti le valute medesime abbiano ridenominato in euro il loro debito pubblico, gia' denominato nella rispettiva moneta ed emesso a norma del proprio diritto nazionale.
 
-##### Articolo 7 - Modalita' di ridenominazione
+#### Articolo 7 - Modalita' di ridenominazione
 
 1\. La ridenominazione dei titoli di cui agli articoli 5 e 6 avviene calcolando, in base ai rispettivi tassi di conversione, il valore in euro del taglio minimo di ciascun prestito e moltiplicando il risultato ottenuto, arrotondato al secondo decimale per difetto o per eccesso a seconda che sia inferiore o non inferiore a 0,005 euro, per il numero di tagli minimi di cui e' composto il prestito.
 
@@ -356,7 +354,7 @@ valuta di uno Stato partecipante)
 
 > \- Per quanto concerne il testo dell'art. 2, comma 12, della citata legge n. 662/1996, si veda in nota all'art. 1.
 
-##### Articolo 8 - Pagamenti e negoziazioni riguardanti i titoli ridenominati
+#### Articolo 8 - Pagamenti e negoziazioni riguardanti i titoli ridenominati
 
 1\. Durante il periodo transitorio, i pagamenti connessi al
 
@@ -374,13 +372,13 @@ servizio finanziario sui prestiti ridenominati in euro da regolare in contanti s
 
 ### Sezione II - Strumenti di debito emessi da altri soggetti pubblici
 
-##### Articolo 9 - Disposizioni sul debito pubblico non negoziabile
+#### Articolo 9 - Disposizioni sul debito pubblico non negoziabile
 
 1\. La conversione in euro del debito pubblico non negoziabile sui mercati regolamentati sara' effettuata il 1 gennaio 2002.
 
 2\. A partire dal 1 gennaio 1999 sono emessi Buoni Postali Fruttiferi e libretti di risparmio postale denominati in euro. Fino ad esaurimento delle scorte, e non oltre il 31 dicembre 2001, possono essere acquistati presso gli sportelli postali Buoni Postali Fruttiferi in lire.
 
-##### Articolo 10
+#### Articolo 10
 
 (Disposizioni sui titoli obbligazionari emessi
 
@@ -438,7 +436,7 @@ Per quanto riguarda la ridenominazione dei titoli obbligazionari emessi dagli en
 
 ### Sezione III - Strumenti di debito privati
 
-##### Articolo 11 - Ridenominazione degli strumenti finanziari privati
+#### Articolo 11 - Ridenominazione degli strumenti finanziari privati
 
 1\. Durante il periodo transitorio, gli emittenti privati hanno facolta' di ridenominare unilateralmente i propri strumenti finanziari di cui all'articolo 1, comma 2, lettere b) e d) del decreto legislativo 24 febbraio 1998, n. 58, esclusivamente nei casi e con le modalita' di cui ai successivi articoli 12 e 13.
 
@@ -446,13 +444,13 @@ Per quanto riguarda la ridenominazione dei titoli obbligazionari emessi dagli en
 
 > \- Gli strumenti finanziari indicati nell'art. 1, comma 2, lettere b) e d) del citato decreto legislativo n. 58/1998, sono le obbligazioni, i titoli di Stato e gli altri titoli di debito negoziabili sul mercato dei capitali e i titoli normalmente negoziati sul mercato monetario.
 
-##### Articolo 12 - Modalita' di ridenominazione degli strumenti finanziari privati
+#### Articolo 12 - Modalita' di ridenominazione degli strumenti finanziari privati
 
 1\. Gli strumenti finanziari in lire di cui all'articolo 11 emessi a norma del diritto italiano, caratterizzati da taglio minimo non inferiore a un milione di lire, dalla fungibilita' e dalla possibilita' di rimborso in unica soluzione alla scadenza, seguono le regole di ridenominazione di cui all'articolo 7, comma 1, che si applicano ai soli fini dei diritti patrimoniali.
 
 2\. La ridenominazione degli strumenti di cui all'articolo 11 e' effettuata secondo i tempi e i modi indicati nell'apposito regolamento da emanarsi da parte della Consob, sentita la Banca d'Italia.
 
-##### Articolo 13
+#### Articolo 13
 
 (Ridenominazione degli strumenti finanziari privati denominati
 
@@ -466,7 +464,7 @@ nella valuta di uno Stato partecipante)
 
 ### Sezione IV - Disposizioni generali
 
-##### Articolo 14
+#### Articolo 14
 
 (Trattamento dei riferimenti alla lira degli strumenti
 
@@ -476,17 +474,15 @@ non ridenominati)
 
 L'arrotondamento al centesimo di euro dovra' essere applicato, se necessario, al momento della determinazione dei corrispettivi.
 
-##### Articolo 15 - Unita' di conto per le negoziazioni sui mercati regolamentati
+#### Articolo 15 - Unita' di conto per le negoziazioni sui mercati regolamentati
 
 1\. A partire dal 1 gennaio 1999, l'euro puo' essere utilizzato come unica unita' di conto per la negoziazione, la compensazione e la liquidazione sui mercati regolamentati, fermo restando che, nel periodo transitorio, la clientela, pur conferendo ordini in euro, puo' intrattenere rapporti con gli intermediari in lire o in euro.
 
-## TITOLO IV - L'EURO, LA MONETA DI CONTO E I DOCUMENTI CONTABILI OBBLIGATORI
+## TITOLO IV - L'EURO, LA MONETA DI CONTO E I DOCUMENTI CONTABILI OBBLIGATORI A RILEVANZA ESTERNA
 
-### A RILEVANZA ESTERNA - Sezione I
+### Sezione I - Disposizioni per le imprese in genere
 
-#### Disposizioni per le imprese in genere
-
-##### Articolo 16 - Adozione dell'euro quale moneta di conto
+#### Articolo 16 - Adozione dell'euro quale moneta di conto
 
 1\. A decorrere dal 1 gennaio 1999 le imprese possono ad ogni effetto adottare l'euro quale moneta di conto al posto della lira. A decorrere dal 1 gennaio 2002 l'adozione dell'euro e' obbligatoria.
 
@@ -574,7 +570,7 @@ g) alle societa' quotate, diverse da quelle soggette alle norme di cui alle lett
 
 > 5\. Le modalita' di redazione del bilancio consolidato e i criteri di valutazione non possono essere modificati da un esercizio all'altro, se non in casi eccezionali. Nella nota integrativa e' motivata la deroga e indicata l'influenza sulla rappresentazione della situazione patrimoniale e finanziaria e del risultato economico."
 
-##### Art. 17
+#### Art. 17
 
 Conversione in euro del capitale sociale
 
@@ -604,7 +600,7 @@ Nei casi indicati ai commi 3 e 4 non si applica il terzo comma dell'articolo 244
 
 10-bis. In presenza di obbligazioni convertibili in azioni, il comma 6 dell'articolo 2420-bis del codice civile si applica anche nei casi previsti dai commi 3 e 4, nonche' quando si modifica il valore nominale delle obbligazioni convertibili a seguito della ridenominazione di cui agli articoli 11, 12 e 13 del presente decreto.
 
-##### Articolo 18
+#### Articolo 18
 
 (Criteri di rilevazione delle operazioni e di trattamento delle
 
@@ -686,23 +682,21 @@ relative differenze cambio)
 
 > "La conversione in lire dei saldi di conto delle stabili organizzazioni all'estero si effettua secondo il cambio alla data di chiusura dell'esercizio e le differenze rispetto ai saldi di conto dell'esercizio precedente non concorrono alla formazione del reddito."
 
-##### Articolo 19 - Bilancio consolidato
+#### Articolo 19 - Bilancio consolidato
 
 1\. Al bilancio consolidato si applicano le disposizioni di cui all'articolo 18.
 
-##### Articolo 20 - Operatori economici diversi dalle imprese
+#### Articolo 20 - Operatori economici diversi dalle imprese
 
 1\. Agli operatori economici diversi dalle imprese si applicano, in quanto compatibili, anche ai fini delle imposte sui redditi, le regole stabilite ai commi 1, 2, 4, 5 e 6 dell'articolo 16.
 
 L'amministrazione finanziaria, entro centoventi giorni dall'entrata in vigore del presente decreto, emana le disposizioni applicative di propria competenza.
 
-## TITOLO IV - L'EURO, LA MONETA DI CONTO E I DOCUMENTI CONTABILI OBBLIGATORI
+## TITOLO IV - L'EURO, LA MONETA DI CONTO E I DOCUMENTI CONTABILI OBBLIGATORI A RILEVANZA ESTERNA
 
-### A RILEVANZA ESTERNA - Sezione II
+### Sezione II - Disposizioni speciali per le banche e le societa' finanziarie
 
-#### Disposizioni speciali per le banche e le societa' finanziarie
-
-##### Articolo 21
+#### Articolo 21
 
 (Criteri d'integrazione delle operazioni e di trattamento
 
@@ -732,7 +726,7 @@ b) le differenze cambio relative alle partecipazioni, alle immobilizzazioni mate
 
 > "3. Fatto salvo quanto previsto dall'art. 13, comma 2, lettera e), la differenza tra il valore corrente, determinato ai sensi dei commi precedenti, degli elementi dell'attivo e del passivo e delle operazioni "fuori bilancio,, e il valore contabile degli stessi elementi e operazioni e' inclusa nel conto economico a norma dell'art. 14, comma 1, lettera b)."
 
-##### Articolo 22 - Organismi di investimento collettivo del risparmio
+#### Articolo 22 - Organismi di investimento collettivo del risparmio
 
 1\. Ai documenti contabili obbligatori a rilevanza esterna degli OICR si applicano le disposizioni contenute:
 
@@ -740,19 +734,17 @@ a) nell'articolo 16, commi da 1 a 6, inclusa la facolta' di cui al comma 3; limi
 
 b) nell'articolo 21, comma 2, primo periodo, dal 1 gennaio 1999; nella relazione degli amministratori che accompagna il rendiconto di gestione o il bilancio sono fornite le informazioni di cui al comma 6 dell'articolo 21.
 
-##### Articolo 23 - Bilancio consolidato
+#### Articolo 23 - Bilancio consolidato
 
 1\. Al bilancio consolidato si applicano le disposizioni di cui all'articolo 21.
 
 2\. Le differenze derivanti dalla conversione del patrimonio netto, denominato in valute aderenti, delle imprese controllate incluse nel consolidamento sono ricomprese nelle riserve consolidate.
 
-## TITOLO IV - L'EURO, LA MONETA DI CONTO E I DOCUMENTI CONTABILI OBBLIGATORI
+## TITOLO IV - L'EURO, LA MONETA DI CONTO E I DOCUMENTI CONTABILI OBBLIGATORI A RILEVANZA ESTERNA
 
-### A RILEVANZA ESTERNA - Sezione III
+### Sezione III - Disposizioni speciali per le imprese di assicurazione
 
-#### Disposizioni speciali per le imprese di assicurazione
-
-##### Articolo 24
+#### Articolo 24
 
 (Criteri di rilevazione delle operazioni e di trattamento
 
@@ -788,23 +780,21 @@ delle relative differenze cambio)
 
 > "Art. 16 - 7. Il valore corrente degli investimenti di cui alla classe C "investimenti" dell'attivo, determinato ai sensi dei successivi articoli 17, 18 e 19, deve essere indicato nella nota integrativa a decorrere dal bilancio relativo all'esercizio 1998 salvo che per i terreni ed i fabbricati, per i quali va indicato a decorrere dall'esercizio 2000. Detto obbligo e' imposto esclusivamente a fini di comparabilita' e trasparenza e non mira a modificare il trattamento fiscale delle imprese di assicurazione."
 
-##### Articolo 25 - Bilancio consolidato
+#### Articolo 25 - Bilancio consolidato
 
 1\. Al bilancio consolidato si applicano le disposizioni di cui all'articolo 24.
 
 2\. Le differenze derivanti dalla conversione del patrimonio netto, denominato in valute aderenti, delle imprese controllate incluse nel consolidamento sono ricomprese nel patrimonio netto alla voce "Riserva di conversione".
 
-## TITOLO IV - L'EURO, LA MONETA DI CONTO E I DOCUMENTI CONTABILI OBBLIGATORI
+## TITOLO IV - L'EURO, LA MONETA DI CONTO E I DOCUMENTI CONTABILI OBBLIGATORI A RILEVANZA ESTERNA
 
-### A RILEVANZA ESTERNA - Sezione IV
+### Sezione IV - Disposizioni speciali per i fondi pensione
 
-#### Disposizioni speciali per i fondi pensione
-
-##### Articolo 26 - Adozione dell'euro quale moneta di conto
+#### Articolo 26 - Adozione dell'euro quale moneta di conto
 
 1\. Ai fondi pensione si applicano, in quanto compatibili, le disposizioni contenute nell'articolo 16, inclusa la facolta' di cui al comma 3.
 
-##### Articolo 27 - Criteri di rilevazione delle operazioni
+#### Articolo 27 - Criteri di rilevazione delle operazioni
 
 1\. Nei documenti contabili obbligatori a rilevanza esterna dei fondi pensione, riferiti a una data pari o successiva al 31 dicembre 1998, le attivita', le passivita' e le operazioni fuori bilancio denominate in valute aderenti o comunque variabili in funzione dell'andamento dei tassi di cambio delle valute aderenti sono tradotte nella moneta di conto applicando i rispettivi tassi di conversione e nel rispetto degli articoli 4 e 5 del Regolamento (CE) n. 1103/97.
 
@@ -834,47 +824,47 @@ delle relative differenze cambio)
 
 ### Sezione I - Disposizioni generali
 
-##### Art. 28
+#### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 27))
 
-##### Art. 29
+#### Art. 29
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 27))
 
-##### Art. 30
+#### Art. 30
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 27))
 
-##### Art. 31
+#### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 27))
 
-##### Art. 32
+#### Art. 32
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 27))
 
-##### Art. 33
+#### Art. 33
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 27))
 
-##### Art. 34
+#### Art. 34
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 27))
 
-##### Art. 35
+#### Art. 35
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 27))
 
-##### Art. 36
+#### Art. 36
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 27))
 
-##### Art. 37
+#### Art. 37
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 27))
 
-##### Articolo 38 - Disciplina transitoria
+#### Articolo 38 - Disciplina transitoria
 
 1\. I diritti relativi ai titoli ed ai certificati assoggettati alla disciplina del ((decreto legislativo 24 febbraio 1998, n. 58, titolo II, capo II, sezione I)) sono esercitati previa consegna ad un intermediario ((di cui all'articolo 79-quater del decreto legislativo 24 febbraio 1998, n. 58)), che provvede all'apertura del conto, all'annullamento dei titoli o certificati, trasmettendo i relativi documenti all'emittente per l'immissione nel sistema di gestione accentrata, mediante segnalazione alla societa' di gestione accentrata.
 
@@ -884,7 +874,7 @@ delle relative differenze cambio)
 
 ### Sezione II - Disposizioni speciali per i titoli di Stato
 
-##### Articolo 39 - Dematerializzazione dei titoli di Stato
+#### Articolo 39 - Dematerializzazione dei titoli di Stato
 
 1\. ((COMMA ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 27)).
 
@@ -894,7 +884,7 @@ delle relative differenze cambio)
 
 4\. Le iscrizioni contabili ((presso la societa' di gestione accentrata)) continuano a godere dello stesso trattamento fiscale, comprese le agevolazioni e le esenzioni, che la vigente normativa riconosce ai titoli di Stato.
 
-##### Articolo 40 - Ritiro delle materialita' e immissione in gestione accentrata
+#### Articolo 40 - Ritiro delle materialita' e immissione in gestione accentrata
 
 1\. Entro trenta giorni dalla data di entrata in vigore del presente decreto, con decreto del Ministro del tesoro, del bilancio e della programmazione economica sono stabilite le ulteriori modalita' di abdicazione delle disposizioni di cui alla presente Sezione.
 
@@ -910,7 +900,7 @@ delle relative differenze cambio)
 
 7\. Le disposizioni di cui al comma 2 del presente articolo sono applicate ai titoli emessi dagli enti pubblici indicati dal decreto ministeriale di cui al comma 1, anche limitatamente a singoli prestiti.
 
-##### Articolo 41
+#### Articolo 41
 
 (Rimborso dei titoli con taglio inferiore a cinque milioni di lire) 1. E' disposto il rimborso anticipato, al prezzo di mercato, di titoli al portatore e nominativi, appartenenti a prestiti vigenti emessi dal Tesoro, di importo inferiore a cinque milioni di capitale nominale. Il rimborso avviene mediante l'utilizzo delle disponibilita' del Fondo per l'ammortamento dei titoli di Stato di cui alla legge 27 ottobre 1993, n. 432 e successive modifiche e integrazioni. Con decreto del Ministro del tesoro, del bilancio e della programmazione economica sono stabilite le date e le modalita' del rimborso, nonche' le date di riferimento per la determinazione dei prezzi di mercato.
 
@@ -924,31 +914,31 @@ Contestualmente i relativi tagli di importo inferiore a cinque milioni di capita
 
 5\. Con le modalita' di cui al comma 1 si provvede altresi' al rimborso anticipato delle frazioni di capitale inferiori a cinque milioni.
 
-##### Articolo 42 - Adempimenti amministrativo-contabili del Tesoro
+#### Articolo 42 - Adempimenti amministrativo-contabili del Tesoro
 
 1\. Il decreto di cui all'articolo 40, comma 1, prevede, ai fini dell'incameramento nel bilancio dello Stato, che le Sezioni di tesoreria provvedano a restituire al Tesoro le contromatrici dei Buoni ordinari del tesoro (BOT) che risultino scaduti, non pagati e non prescritti.
 
 2\. Al rimborso dei BOT, entro i termini di prescrizione, si provvede a carico di apposita unita' previsionale di spesa del bilancio dello Stato.
 
-##### Articolo 43 - Disposizioni riguardanti la Cassa Depositi e Prestiti
+#### Articolo 43 - Disposizioni riguardanti la Cassa Depositi e Prestiti
 
 1\. Il Ministro del tesoro, del bilancio e della programmazione economica, con proprio decreto da emanare entro due mesi dalla data di entrata in vigore del presente decreto, individua i valori che possono essere ricevuti in deposito dalla Cassa Depositi e Prestiti, stabilendo il corrispettivo da riconoscere alla Cassa medesima per la gestione di depositi in titoli pubblici.
 
-##### Articolo 44 - Commissioni di gestione dei titoli dematerializzati
+#### Articolo 44 - Commissioni di gestione dei titoli dematerializzati
 
 1\. Alle operazioni di dematerializzazione dei titoli di Stato si applica la disposizione dell'articolo 38, comma 2.
 
-##### Articolo 45
+#### Articolo 45
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 27))
 
-##### Articolo 46 - Rendicontazione sui pagamenti dei titoli di Stato
+#### Articolo 46 - Rendicontazione sui pagamenti dei titoli di Stato
 
 1\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad emanare, con propri decreti, le disposizioni necessarie ad adeguare la regolamentazione in materia di modalita' dei pagamenti sui titoli di Stato e di rendicontazione dei pagamenti stessi a quanto previsto dal presente decreto.
 
 ## TITOLO VI - ATTIVITA' DELLA PUBBLICA AMMINISTRAZIONE
 
-##### Articolo 47
+#### Articolo 47
 
 (Dichiarazioni, attestazioni e regolamenti in euro con le
 
@@ -970,7 +960,7 @@ pubbliche amministrazioni)
 
 > \- Il decreto legislativo 3 febbraio 1993, n. 29 reca "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'articolo 2 della legge 23 ottobre 1992, n. 421".
 
-##### Articolo 48
+#### Articolo 48
 
 (Pagamenti e versamenti in euro nei rapporti con
 
@@ -988,7 +978,7 @@ le pubbliche amministrazioni)
 
 > "12 - 2. Ai creditori e ai debitori delle amministrazioni pubbliche e' assicurata, nel periodo transitorio, la possibilita' di ottenere il pagamento o di effettuare il versamento in EURO, qualora l'adempimento non avvenga in contanti."
 
-##### Articolo 49 - Attivita' contrattuale delle pubbliche amministrazioni
+#### Articolo 49 - Attivita' contrattuale delle pubbliche amministrazioni
 
 1\. In applicazione di quanto previsto dall'articolo 2, comma 1, lettera f), della legge 17 dicembre 1997, n. 433, con regolamento adottato ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, sono emanate, per il periodo transitorio, disposizioni intese ad adeguare la disciplina in materia di stipula e di esecuzione dei contratti delle pubbliche amministrazioni per appalti di lavori, forniture e servizi alle esigenze derivanti dall'introduzione dell'euro, prevedendo in particolare che i bandi di gara, gli avvisi, le lettere di invito e, comunque, gli altri atti preliminari dichiarativi dell'oggetto e delle condizioni del contratto, predisposti dalla pubblica amministrazione nei casi di procedure di gara comunitarie, contengano l'indicazione del valore della prestazione espresso in lire e in euro, ed assicurando altresi' la facolta' del privato contraente di esprimere in lire o in euro la propria offerta.
 
@@ -1008,7 +998,7 @@ le pubbliche amministrazioni)
 
 > "2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari."
 
-##### Articolo 50 - Documenti contabili delle pubbliche amministrazioni
+#### Articolo 50 - Documenti contabili delle pubbliche amministrazioni
 
 1\. Il Ministro del tesoro, del bilancio e della programmazione economica ai fini dell'attuazione dell'articolo 13 della legge 17 dicembre 1997, n. 433, determina con proprio decreto i documenti contabili dell'amministrazione dello Stato, ivi compresi in ogni caso il bilancio di previsione e il rendiconto generale dello Stato, per i quali, relativamente agli esercizi finanziari dal 1999 al 2001, sono esposti in appositi allegati i dati riassuntivi in euro.
 
@@ -1022,7 +1012,7 @@ le pubbliche amministrazioni)
 
 ## TITOLO VII - CONVERSIONE IN EURO DELLE SANZIONI PECUNIARIE ESPRESSE IN LIRE
 
-##### Articolo 51 - Conversione delle sanzioni pecuniarie penali o amministrative
+#### Articolo 51 - Conversione delle sanzioni pecuniarie penali o amministrative
 
 1\. A decorrere dal 1 gennaio 1999 ogni sanzione pecuniaria penale o amministrativa espressa in lire nelle vigenti disposizioni normative si intende espressa anche in Euro secondo il tasso di conversione irrevocabilmente fissato ai sensi del Trattato.
 
@@ -1030,7 +1020,7 @@ le pubbliche amministrazioni)
 
 3\. Se l'operazione di conversione prevista dal comma 2 produce un risultato espresso anche con decimali, la cifra e' arrotondata eliminando i decimali.
 
-##### Articolo 52 - Modifica dell'articolo 16 della legge 24 novembre 1981, n. 689
+#### Articolo 52 - Modifica dell'articolo 16 della legge 24 novembre 1981, n. 689
 
 1\. Nell'articolo 16, primo comma, della legge 24 novembre 1981, n. 689, le parole: "...o, se piu favorevole, al doppio del minimo della sanzione edittale" sono sostituite dalle seguenti: "... o, se piu favorevole e qualora sia stabilito il minimo della sanzione edittale, pari al doppio del relativo importo".
 
@@ -1042,7 +1032,7 @@ le pubbliche amministrazioni)
 
 ## ((TITOLO VIII - MONETAZIONE METALLICA))
 
-##### Art. 52-bis
+#### Art. 52-bis
 
 (( Medaglie e gettoni in euro ))
 
@@ -1054,7 +1044,7 @@ le pubbliche amministrazioni)
 
 4\. Per l'accertamento delle violazioni previste dal presente articolo e per l'irrogazione delle relative sanzioni si applicano le disposizioni del testo unico delle norme in materia valutaria, approvato con decreto del Presidente della Repubblica 31 marzo 1988, n. 148, nonche', in quanto compatibili, quelle di cui alla legge 24 novembre 1981, n. 689. Non e' ammesso il pagamento in misura ridotta previsto dall'articolo 16 della stessa legge.))
 
-##### Art. 52-ter
+#### Art. 52-ter
 
 Prescrizione delle monete metalliche
 
@@ -1076,7 +1066,7 @@ Successivamente la Corte Costituzionale, con sentenza 7 ottobre - 5 novembre 201
 
 ## ((TITOLO IX - DISPOSIZIONI A TUTELA DELLE BANCONOTE E MONETE METALLICHE IN EURO NON AVENTI CORSO LEGALE))
 
-##### Art. 52-quater
+#### Art. 52-quater
 
 (( Falsificazione di banconote e monete
 
@@ -1088,7 +1078,7 @@ in euro non aventi corso legale ))
 
 3\. Per i delitti previsti dagli articoli 453, 454, 455, 456, 457, 459, 460, 461 e 464 del codice penale commessi entro la data di cui al comma 2, le pene rispettivamente stabilite sono diminuite di un terzo, salvo che, nei casi di falsificazione, il colpevole abbia posto in circolazione le monete o i valori di bollo successivamente a tale data.))
 
-##### Art. 52-quinquies
+#### Art. 52-quinquies
 
 (( Responsabilita' amministrativa degli enti
 
@@ -1096,7 +1086,7 @@ per falsita' in monete euro non aventi corso legale ))
 
 ((1. Per i delitti indicati nell'articolo 25-bis del decreto legislativo 8 giugno 2001, n. 231, che hanno ad oggetto banconote o monete metalliche in euro che ancora non hanno corso legale ovvero valori di bollo espressi in moneta euro che ancora non ha corso legale, si applicano all'ente le sanzioni pecuniarie previste dal citato articolo 25-bis, diminuite di un terzo. La diminuzione non opera nei casi di falsificazione quando il colpevole ha posto in circolazione le monete o i valori di bollo successivamente al 31 dicembre 2001.))
 
-##### Articolo 53 - Entrata in vigore
+#### Articolo 53 - Entrata in vigore
 
 1\. Il presente decreto legislativo entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -1144,7 +1134,7 @@ RELAZIONE ILLUSTRATIVA
 
 TITOLO I - DEFINIZIONI
 
-##### Articolo 1 (Definizioni)
+#### Articolo 1 (Definizioni)
 
 Contiene le definizioni dei principali riferimenti adoperati nel decreto.
 

@@ -138,7 +138,7 @@ Il servizio di Cassa sara' fatto dalla tesoreria della Provincia.
 
 Il bilancio annuale della Cassa col resoconto delle operazioni compiute e l'elenco dei mutui sara' pubblicato gratuitamente nel foglio degli annunzi legali della rispettiva Provincia.
 
-## Capitolo II. - Monti frumentari e nummari.
+### Capitolo II. - Monti frumentari e nummari.
 
 #### Art. 6
 
@@ -238,7 +238,7 @@ La violazione di queste disposizioni produce l'immediata decadenza dall'Amminist
 
 L'ammenda, inflitta per decreto prefettizio, e' esigibile coi privilegi fiscali e va ad incremento del patrimonio del Monte.
 
-## Capitolo III. - Casse agrarie.
+### Capitolo III. - Casse agrarie.
 
 #### Art. 16
 
@@ -290,7 +290,7 @@ Gli agricoltori residenti nel Comune nel quale opera la Cassa agraria non costit
 
 Le norme per la inscrizione degli agricoltori alla Cassa, per la cancellazione di essi, per la responsabilita' solidale degli inscritti, nei casi in cui sia contemplata nello statuto della Cassa, per la pubblicita' delle inscrizioni, per la partecipazione degli inscritti all'Amministrazione ed al sindacato dell'Istituto, saranno stabilite nel regolamento.
 
-## Capitolo IV. - Consorzi agrari.
+### Capitolo IV. - Consorzi agrari.
 
 #### Art. 21
 
@@ -330,9 +330,9 @@ Il fondo del soppresso Censorato sui Monti frumentari concorrera' nelle spese oc
 
 E' soppresso l'ufficio d'ispezione di cui nella lettera c dell'art. 3 della legge 2 agosto 1897, n. 382.
 
-## TITOLO II. - Capitolo I.
+## TITOLO II.
 
-### Miglioramento agrario.
+### Capitolo I. - Miglioramento agrario.
 
 #### Art. 25
 
@@ -484,7 +484,7 @@ Le somme indicate rappresentano la misura massima alla quale potra' giungere il 
 
 Le operazioni delle Associazioni mutue per l'assicurazione del bestiame in Sardegna sono esenti dalle tasse di bollo e di registro e da quelle stabilite dalla legge 26 gennaio 1906, n. 44 (testo unico).
 
-## Capitolo II. - Bacini di irrigazione.
+### Capitolo II. - Bacini di irrigazione.
 
 #### Art. 42
 

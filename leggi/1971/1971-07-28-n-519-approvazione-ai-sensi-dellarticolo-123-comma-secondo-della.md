@@ -25,7 +25,7 @@ PROMULGA
 
 la seguente legge:
 
-### Articolo unico
+##### Articolo unico
 
 E' approvato, ai sensi dell'articolo 123, comma secondo, della Costituzione, lo Statuto della regione Calabria nel testo allegato alla presente legge.
 
@@ -39,15 +39,15 @@ COLOMBO
 
 Visto, il Guardasigilli: COLOMBO
 
-## TITOLO I - DISPOSIZIONI GENERALI
+### TITOLO I - DISPOSIZIONI GENERALI
 
-### Art. 1
+##### Art. 1
 
 La regione Calabria e' autonoma, nell'unita' della Repubblica italiana.
 
 Esercita propri poteri e funzioni a norma del presente Statuto, secondo i principi e nei limiti della Costituzione, nel rispetto dei valori della Resistenza e dei valori dell'antifascismo che la ispirano.
 
-### Art. 2
+##### Art. 2
 
 La Regione comprende i territori delle province di Catanzaro, Cosenza e Reggio Calabria.
 
@@ -57,7 +57,7 @@ Il Consiglio ha sede nella citta' di Reggio Calabria con convocazioni anche nell
 
 La Regione ha un proprio gonfalone ed uno stemma stabiliti con legge regionale.
 
-### Art. 3
+##### Art. 3
 
 La Regione si ispira ai principi della democrazia e della uguaglianza dei cittadini, nel rispetto della dignita' della persona umana. Favorisce il piu' ampio decentramento politico e amministrativo, le autonomie locali e in armonia con l'articolo 3 della Costituzione, la effettiva partecipazione dei lavoratori all'attivita' politica, sociale ed economica.
 
@@ -65,21 +65,21 @@ Promuove lo sviluppo culturale, sociale ed economico delle popolazioni, nel quad
 
 Assume come suo obiettivo primario la piena occupazione per bloccare l'esodo dei lavoratori, predisponendo idonee iniziative per rendere effettivo il diritto al lavoro di tutti i cittadini.
 
-## TITOLO II - ORGANI DELLA REGIONE
+### TITOLO II - ORGANI DELLA REGIONE
 
-### Art. 4
+##### Art. 4
 
 Sono organi della Regione: il Consiglio regionale, la Giunta regionale e il suo Presidente.
 
-## CAPO I - IL CONSIGLIO REGIONALE
+#### CAPO I - IL CONSIGLIO REGIONALE
 
-### Art. 5
+##### Art. 5
 
 I consiglieri regionali entrano nell'esercizio delle loro funzioni all'atto della proclamazione.
 
 La convalida dell'elezione dei consiglieri deve essere effettuata entro tre mesi dalla data della prima riunione del Consiglio con le modalita' stabilite dal regolamento interno.
 
-### Art. 6
+##### Art. 6
 
 Il Consiglio regionale tiene di diritto la sua prima adunanza il primo giorno non festivo della terza settimana successiva alla proclamazione degli eletti, su convocazione del Presidente della Giunta uscente.
 
@@ -89,7 +89,7 @@ Gli avvisi sono fatti pervenire ai consiglieri almeno cinque giorni prima della 
 
 La presidenza provvisoria del Consiglio e' assunta dal consigliere che, tra i presenti, e' stato eletto col maggior numero di voti. I due consiglieri piu' giovani svolgono le funzioni di segretari.
 
-### Art. 7
+##### Art. 7
 
 Il Consiglio regionale, prima di ogni altro atto, procede alla costituzione dell'Ufficio di presidenza con la elezione del Presidente, di due Vice Presidenti e di due segretari.
 
@@ -103,7 +103,7 @@ Il Consiglio elegge inoltre nel proprio seno, all'infuori dei membri della Giunt
 
 Ciascun consigliere vota due soli nomi.
 
-### Art. 8
+##### Art. 8
 
 I consiglieri rappresentano l'intera Regione senza vincolo di mandato. Essi non possono essere chiamati a rispondere per le opinioni espresse e per i voti dati nell'esercizio ed a causa delle loro funzioni.
 
@@ -115,11 +115,11 @@ I diritti stabiliti nel presente articolo si esercitano con le modalita' ed i li
 
 Il regolamento, inoltre, prevede termini perentori per la risposta ad interrogazioni ed interpellanze.
 
-### Art. 9
+##### Art. 9
 
 Ai consiglieri sono attribuiti, con legge regionale, il rimborso delle spese ed indennita', il cui ammontare e' determinato in relazione alle funzioni e alle attivita' svolte in Consiglio.
 
-### Art. 10
+##### Art. 10
 
 Il Consiglio regionale e convocato dal suo Presidente.
 
@@ -129,23 +129,23 @@ Il Consiglio si riunisce inoltre ogni qualvolta il suo Presidente, sentito l'Uff
 
 In casi di necessita' il Consiglio puo' essere convocato con preavviso di almeno 24 ore.
 
-### Art. 11
+##### Art. 11
 
 Il Consiglio regionale approva, a maggioranza assoluta dei suoi componenti, il proprio regolamento interno.
 
 Il Consiglio, per l'esercizio delle sue funzioni e in particolare per assicurare il regolare funzionamento degli uffici, delle commissioni e dei gruppi consiliari, ha, nei limiti dello stanziamento previsto nel bilancio, piena autonomia funzionale, organizzativa e contabile, che esercita sulla base del proprio regolamento interno. Nell'ambito di tale autonomia funzionale, organizzativa e contabile, l'Ufficio di presidenza provvede per la destinazione dei locali e del personale necessario per lo espletamento dell'attivita' consiliare.
 
-### Art. 12
+##### Art. 12
 
 I consiglieri si costituiscono in gruppi i quali, a norma del regolamento, sono composti da uno o piu' membri.
 
 L'Ufficio di presidenza, sentiti i Presidenti dei gruppi, assicura ai gruppi consiliari, per l'esplicazione dello loro funzioni, la disponibilita' di locali ed attrezzature, ed iscrive contributi, sui fondi del Consiglio, tenendo presenti le esigenze comuni ad ogni gruppo e la consistenza numerica di ciascuno di essi.
 
-### Art. 13
+##### Art. 13
 
 Il Presidente e l'Ufficio di presidenza garantiscono e tutelano le prerogative ed i diritti dei consiglieri, assicurano il rispetto dei diritti delle minoranze, mantengono i rapporti con i capi gruppi consiliari.
 
-### Art. 14
+##### Art. 14
 
 Il regolamento del Consiglio disciplina l'istituzione o la composizione delle Commissioni consiliari permanenti.
 
@@ -171,11 +171,11 @@ Commissioni speciali possono essere altresi' costituite, con deliberazione adott
 
 Il regolamento del Consiglio determina le modalita' della audizione di rappresentanze di enti locali, di sindacati, di gruppi, di associazioni, di singoli cittadini.
 
-### Art. 15
+##### Art. 15
 
 Il Consiglio delibera con l'intervento della maggioranza dei consiglieri in carica ed a maggioranza dei presenti, salvi i casi per i quali sia prevista una maggioranza speciale.
 
-### Art. 16
+##### Art. 16
 
 Il Consiglio determina l'indirizzo politico, sociale ed economico della Regione ed esercita le potesta' legislative e regolamentari attribuite alla Regione e le altre funzioni conferitegli dalla Costituzione, dalle leggi e dal presente Statuto.
 
@@ -219,15 +219,15 @@ t) riesamina le deliberazioni inviate al Consiglio ai sensi dell'articolo 125 de
 
 u) delibera in generale sopra tutti gli oggetti che sono propri della Regione e che non sono attribuiti alla Giunta o al Presidente.
 
-## CAPO II - LA GIUNTA REGIONALE
+#### CAPO II - LA GIUNTA REGIONALE
 
-### Art. 17
+##### Art. 17
 
 La Giunta e' l'organo esecutivo della Regione: essa e' composta dal Presidente, che ne assicura l'unita' di indirizzo, e da un numero di assessori non inferiori ad otto e non superiore a dodici. La Giunta opera collegialmente e il Presidente ripartisce fra i suoi componenti gli incarichi, raggruppandoli in dipartimenti per settori omogenei.
 
 Il Presidente della Giunta designa l'assessore Vice Presidente che lo sostituisce in caso di assenza o di impedimento.
 
-### Art. 18
+##### Art. 18
 
 Il Presidente e i membri della Giunta sono eletti dal Consiglio con votazione palese. La votazione e' preceduta:
 
@@ -249,11 +249,11 @@ La elezione del Presidente e della Giunta avviene a scrutinio segreto allorche' 
 
 Il Consiglio e' convocato entro venti giorni per l'elezione del Presidente e della Giunta.
 
-### Art. 19
+##### Art. 19
 
 La Giunta ed il suo Presidente rimangono in carica fino all'elezione del nuovo Presidente e della nuova Giunta. Dopo la scadenza del Consiglio o l'approvazione della proposta di revoca o il voto del Consiglio sulle dimissioni, la Giunta ed il suo Presidente provvedono solo agli affari di ordinaria amministrazione fino alla elezione del nuovo Presidente e della nuova Giunta.
 
-### Art. 20
+##### Art. 20
 
 Il Presidente della Giunta e la Giunta cessano dalla carica in seguito a proposta di revoca approvata per appello nominale a maggioranza dei consiglieri assegnati alla Regione.
 
@@ -261,29 +261,29 @@ La proposta di revoca deve essere motivata e sottoscritta da almeno un quinto de
 
 La revoca puo' riguardare anche solo uno o piu' componenti la Giunta.
 
-### Art. 21
+##### Art. 21
 
 Le dimissioni del Presidente della Giunta sono indirizzate al Consiglio e presentate al Presidente del Consiglio. Le dimissioni dei singoli assessori sono trasmesse dal Presidente della Giunta al Presidente del Consiglio.
 
 Le dimissioni del Presidente della Giunta, della Giunta o di singoli assessori hanno effetto solo dopo che il Consiglio ne ha preso atto.
 
-### Art. 22
+##### Art. 22
 
 In capo di cessazione, per qualsiasi causa, dalla carica del Presidente della Giunta, le relative funzioni sono temporaneamente esercitate dal Vice Presidente limitatamente agli affari di ordinaria amministrazione.
 
 Il Presidente del Consiglio convoca l'assemblea entro 15 giorni per l'elezione del nuovo Presidente.
 
-### Art. 23
+##### Art. 23
 
 In caso di cessazione dalla carica di un assessore, il Presidente della Giunta ne informa subito il Presidente del Consiglio, il quale convoca l'Assemblea per la sostituzione.
 
 In caso di impedimento temporaneo di un assessore, il Presidente incarica altro componente della Giunta di svolgere le funzioni.
 
-### Art. 24
+##### Art. 24
 
 Se la Giunta si riduce almeno della meta' dei propri membri, il Consiglio la rinnova per intero con le modalita' di cui all'articolo 19.
 
-### Art. 25
+##### Art. 25
 
 La Giunta delibera con l'intervento della maggioranza dei componenti in carica e a maggioranza di voti.
 
@@ -291,11 +291,11 @@ In caso di parita' di voti prevale quello del Presidente.
 
 Le sedute della Giunta non sono pubbliche salvo diversa decisione della Giunta stessa.
 
-### Art. 26
+##### Art. 26
 
 Le indennita' del Presidente della Giunta e degli assessori sono stabilite con legge regionale.
 
-### Art. 27
+##### Art. 27
 
 La Giunta regionale:
 
@@ -321,7 +321,7 @@ l) sovrintende, in esecuzione degli indirizzi e delle direttive determinate dal 
 
 m) esercita le altre attribuzioni ad essa demandate dalla Costituzione, dalle leggi dello Stato e dal presente Statuto.
 
-### Art. 28
+##### Art. 28
 
 Le funzioni di competenza del Consiglio non possono essere esercitate per delega dalla Giunta.
 
@@ -329,7 +329,7 @@ La Giunta, salvo casi di eccezionale gravita', non puo' esercitare le funzioni d
 
 I provvedimenti adottati ai sensi del comma precedente debbono essere ratificati dal Consiglio, pena la decadenza, entro trenta giorni.
 
-### Art. 29
+##### Art. 29
 
 Il Presidente della Giunta:
 
@@ -351,13 +351,13 @@ h) presenta al Consiglio il bilancio ed il conto consuntivo predisposti dalla Gi
 
 i) esercita le altre attribuzioni conferitegli, dalla Costituzione, dal presente Statuto e dalle leggi.
 
-## TITOLO III - PROCEDIMENTO DI FORMAZIONE DELLE LEGGI DEI REGOLAMENTI REGIONALI E DEGLI ATTI AMMINISTRATIVI DI INTERESSE GENERALE
+### TITOLO III - PROCEDIMENTO DI FORMAZIONE DELLE LEGGI DEI REGOLAMENTI REGIONALI E DEGLI ATTI AMMINISTRATIVI DI INTERESSE GENERALE
 
-### Art. 30
+##### Art. 30
 
 Le potesta' legislative e regolamentari attribuite alla Regione sono esercitate esclusivamente dal Consiglio e non possono essere delegate.
 
-### Art. 31
+##### Art. 31
 
 L'iniziativa della legge regionale compete alla Giunta, a ciascun consigliere regionale, a ciascun Consiglio provinciale, a ciascun Consiglio comunale dei capoluoghi di Provincia a non meno di tre Consigli comunali, agli elettori della Regione in numero non inferiore a cinquemila.
 
@@ -365,7 +365,7 @@ Essa viene esercitata mediante la presentazione al Presidente del Consiglio di u
 
 Le ulteriori modalita' per l'esercizio del diritto di iniziativa da parte degli elettori e dei Consigli comunali e provinciali sono stabilite da apposita legge regionale.
 
-### Art. 32
+##### Art. 32
 
 Ogni progetto di legge e' esaminato dalla competente Commissione consiliare e poi dal Consiglio, che lo approva articolo per articolo e con votazione finale.
 
@@ -373,7 +373,7 @@ Il progetto di iniziativa popolare o di Consigli comunali o provinciali deve ess
 
 Il regolamento interno disciplina il procedimento redigente assicurando in ogni caso alla Giunta e a ciascun consigliere la facolta' di presentare e discutere emendamenti anche in aula.
 
-### Art. 33
+##### Art. 33
 
 Ogni legge e' comunicata entro cinque giorni dall'approvazione dal Presidente del Consiglio regionale al Commissario del Governo per il visto.
 
@@ -381,7 +381,7 @@ Il visto si ha per apposto se entro trenta giorni dalla comunicazione, il Govern
 
 Nel caso di rinvio della legge, ove il Consiglio regionale l'approvi di nuovo a maggioranza assoluta dei suoi componenti, la legge stessa viene promulgata, se entro quindici giorni dalla comunicazione della nuova delibera, il Governo della Repubblica non abbia promosso la questione di legittimita' davanti alla Corte costituzionale o quella di merito per contrasto di interessi, davanti alle Camere.
 
-### Art. 34
+##### Art. 34
 
 La legge regionale e' promulgata dal Presidente della Giunta regionale nei dieci giorni dalla apposizione del visto o dalla scadenza del termine di cui ai commi secondo e terzo dell'articolo precedente.
 
@@ -395,55 +395,57 @@ Al testo della legge segue la formula: "La presente legge sara' pubblicata nel B
 
 La legge regionale e' pubblicata nel Bollettino Ufficiale non oltre dieci giorni dalla sua promulgazione ed entra in vigore al 15° giorno successivo alla sua pubblicazione, salvi i casi di urgenza, previsti dal secondo comma dell'articolo 127 della Costituzione.
 
-### Art. 35
+##### Art. 35
 
 La promulgazione e l'entrata in vigore di una legge approvata dal Consiglio possono avvenire anche prima della scadenza dei termini di cui agli articoli precedenti, qualora la legge sia dichiarata urgente dal Consiglio a maggioranza dei componenti ed il Governo della Repubblica lo consenta.
 
 In tal caso il consenso e' implicito nel visto del Commissario del Governo.
 
-### Art. 36
+##### Art. 36
 
 Nel caso di annullamento, anche parziale, di una legge della Regione in forza di una sentenza della Corte costituzionale o di una deliberazione del Parlamento, ovvero di abrogazione in seguito a referendum, la questione relativa ai provvedimenti consequenziali da adottare viene iscritta all'ordine del giorno della prima seduta del Consiglio, successiva alla pubblicazione della sentenza della Corte o della deliberazione del Parlamento o alla proclamazione dei risultati del referendum.
 
-### Art. 37
+##### Art. 37
 
 Le proposte di legge presentate al Consiglio non decadono con la fine della legislatura.
 
 Il regolamento stabilisce le modalita' per il loro esame.
 
-### Art. 38
+##### Art. 38
 
 L'iniziativa dei provvedimenti amministrativi di competenza del Consiglio spetta alla Giunta e a ciascun consigliere regionale.
 
 I regolamenti deliberati dal Consiglio regionale vengono promulgati e pubblicati secondo le modalita' previste per le leggi regionali in quanto applicabili.
 
-## TITOLO IV - PARTECIPAZIONE POPOLARE
+### TITOLO IV
 
-### Art. 39
+## PARTECIPAZIONE POPOLARE
+
+##### Art. 39
 
 La Regione riconosce che la partecipazione dei cittadini alle scelte politiche, alla funzione legislativa e amministrativa ed al controllo dei poteri pubblici e' condizione essenziale per lo sviluppo della vita democratica. La Regione considera i partiti politici strumenti fondamentali per concorrere con metodo democratico a determinare la politica regionale; considera essenziale alla definizione degli indirizzi generali e alle scelte programmatiche il concorso degli enti locali, dei sindacati dei lavoratori dipendenti ed autonomi, del movimento cooperativo, delle altre categorie produttive, delle organizzazioni studentesche, delle rappresentanze delle comunita' degli emigrati all'estero o in altre regioni del paese nonche' di ogni altra significativa organizzazione sociale, culturale e professionale.
 
-### Art. 40
+##### Art. 40
 
 La Regione, ai fini di cui all'articolo precedente, consulta sulle principali questioni, anche a loro richiesta, i Comuni, le Province, gli enti comprensoriali, le organizzazioni regionali confederali dei lavoratori e delle altre categorie produttive, le rappresentanze di emigrati e delle loro famiglie e altre organizzazioni e formazioni sociali, culturali e professionali.
 
 Promuove indagini conoscitive ed incontri su particolari problemi, sollecitando la diretta partecipazione dei cittadini interessati.
 
-### Art. 41
+##### Art. 41
 
 Tutti i cittadini possono rivolgere petizioni al Consiglio regionale, per richiederne l'intervento e per sollecitare l'adozione di provvedimenti di interesse generale.
 
-### Art. 42
+##### Art. 42
 
 La Regione riconosce il diritto delle organizzazioni sociali e dei cittadini all'informazione sull'attivita' regionale e predispone gli strumenti per il suo esercizio.
 
 Assicura la disponibilita' dei dati raccolti dai propri uffici o dagli enti e aziende dipendenti; nel rispetto dei diritti costituzionali dei cittadini e con il limite della riservatezza necessaria per il buon funzionamento dell'amministrazione.
 
-### Art. 43
+##### Art. 43
 
 Il popolo esercita l'iniziativa delle leggi e dei regolamenti regionali a norma dell'articolo 31 del presente Statuto.
 
-### Art. 44
+##### Art. 44
 
 E' indetto referendum popolare per l'abrogazione totale o parziale di una legge regionale quando ne facciano richiesta un ventesimo degli iscritti nelle liste elettorali dei Comuni della Regione ovvero due Consigli provinciali o venti Consigli comunali che rappresentino almeno un decimo della popolazione della Regione.
 
@@ -461,41 +463,41 @@ La proposta soggetta al referendum e' approvata se ha partecipato alla votazione
 
 Non puo' essere presentata domanda di referendum nell'anno anteriore alla scadenza del Consiglio regionale e nei sei mesi successivi alla convocazione dei comizi elettorali per l'elezione del Consiglio regionale.
 
-### Art. 45
+##### Art. 45
 
 I soggetti di cui all'articolo 44 del presente Statuto possono richiedere referendum abrogativo dei regolamenti ad eccezione di quelli riguardanti le materie di cui al secondo comma dell'articolo precedente.
 
-### Art. 46
+##### Art. 46
 
 Il Consiglio regionale puo' indire referendum consultivo delle popolazioni interessate a determinati provvedimenti.
 
 L'istituzione di nuovi Comuni ed i mutamenti delle circoscrizioni e delle denominazioni comunali hanno luogo con legge regionale, sentiti i consigli comunali e previa consultazione mediante referendum delle popolazioni interessate.
 
-### Art. 47
+##### Art. 47
 
 La legge regionale disciplina le modalita' dell'esercizio del potere di richiesta di referendum nonche' le ulteriori modalita' di attuazione di referendum.
 
-## TITOLO V - RAPPORTI CON GLI ENTI LOCALI
+### TITOLO V - RAPPORTI CON GLI ENTI LOCALI
 
-### Art. 48
+##### Art. 48
 
 La Regione riconosce nella partecipazione degli enti locali alla sua attivita', anche legislativa e politico-amministrativa, un momento essenziale dell'autonomia e del decentramento politico ed amministrativo.
 
 Favorisce il potenziamento effettivo della autonomia dei Comuni e delle Province e ne coordina l'azione con gli obiettivi della programmazione.
 
-### Art. 49
+##### Art. 49
 
 I Comuni e le Province possono rivolgere interrogazioni alla Regione.
 
 Il regolamento ne disciplina le modalita'.
 
-### Art. 50
+##### Art. 50
 
 La Regione, al fine di realizzare una organizzazione piu' adeguata in funzione della programmazione economica favorisce e promuove, sentiti i Consigli comunali e provinciali interessati, la formazione di comprensori, con la diretta partecipazione degli stessi Comuni interessati.
 
 La formazione e la competenza dei comprensori sono stabilite con legge regionale.
 
-### Art. 51
+##### Art. 51
 
 La Regione esercita normalmente le sue funzioni amministrative delegandole alle Province, ai Comuni, singoli o associati, e ad altri enti locali.
 
@@ -503,15 +505,15 @@ La delega di funzioni amministrative nonche' la sua eventuale revoca, sono dispo
 
 Gli enti locali devono essere consultati in ordine al contenuto della delega, alle modalita' del suo esercizio, agli aspetti organizzativi e finanziari ed alla revoca.
 
-### Art. 52
+##### Art. 52
 
 Le spese sostenute dalle Province, dai Comuni o da altri enti locali, per le funzioni delegate sono a totale carico della Regione, nei limiti previsti dalla legge di delega.
 
-### Art. 53
+##### Art. 53
 
 L'utilizzazione degli uffici degli enti locali avviene in base ad accordi fra la Regione e gli enti interessati.
 
-### Art. 54
+##### Art. 54
 
 Il controllo sugli atti degli enti locali e' esercitato dalla Regione nei modi fissati con legge regionale in armonia con i principi della Costituzione.
 
@@ -519,9 +521,9 @@ L'organo regionale di controllo svolge le sue funzioni in conformita' dell'artic
 
 La legge regionale potra' prevedere un ulteriore decentramento dell'organo regionale di controllo.
 
-## TITOLO VI - LA REGIONE E LA PROGRAMMAZIONE
+### TITOLO VI - LA REGIONE E LA PROGRAMMAZIONE
 
-### Art. 55
+##### Art. 55
 
 La Regione assume la programmazione come metodo e strumento volti a realizzare le riforme economiche e sociali e le finalita' indicate dalla Costituzione e dal presente Statuto.
 
@@ -529,7 +531,7 @@ La Regione, soggetto autonomo della programmazione, in collaborazione con gli en
 
 Esercita la funzione di coordinamento sugli enti locali e in concorso con gli organi dello Stato e nell'ambito delle proprie competenze sugli enti economici pubblici.
 
-### Art. 56
+##### Art. 56
 
 In relazione alle finalita' di cui all'articolo 3 del presente Statuto la Regione, nell'ambito delle proprie competenze ed in concorso con lo Stato:
 
@@ -583,29 +585,29 @@ v) promuove iniziative idonee a realizzare un collegamento con le comunita' degl
 
 z) assume iniziative per assicurare un'ampia e democratica informazione, anche in ordine all'organizzazione dei servizi pubblici relativi.
 
-### Art. 57
+##### Art. 57
 
 La Regione, d'intesa con gli enti locali interessati, attribuisce ai comprensori previsti nell'articolo 50 del presente Statuto funzioni e compiti di elaborazione e attuazione di programmi di sviluppo economico e sociale.
 
 La legge regionale definisce le competenze dei comprensori in relazione alla programmazione regionale.
 
-### Art. 58
+##### Art. 58
 
 La Regione indice una conferenza annuale dei sindaci e dei presidenti delle Amministrazioni provinciali per dibattere sullo stato della Regione in rapporto ai problemi dello sviluppo economico, sociale e civile.
 
-### Art. 59
+##### Art. 59
 
 Per gli studi preparatori e per le ricerche su problemi che interessano la programmazione regionale, la Regione puo' avvalersi di un organismo regionale, disciplinato nella formazione, organizzazione e compiti da legge regionale, ed eventualmente della collaborazione di esperti.
 
-## TITOLO VII - PATRIMONIO, DEMANIO E FINANZE
+### TITOLO VII - PATRIMONIO, DEMANIO E FINANZE
 
-### Art. 60
+##### Art. 60
 
 La Regione ha autonomia finanziaria e proprio demanio e patrimonio in conformita' alle norme costituzionali.
 
 Di tutti i beni della Regione e' redatto inventario.
 
-### Art. 61
+##### Art. 61
 
 Le entrate della Regione sono costituite:
 
@@ -621,7 +623,7 @@ e) dai contributi speciali previsti dal terzo comma dell'articolo 119 della Cost
 
 f) da ogni altro eventuale contributo, provento od entrata.
 
-### Art. 62
+##### Art. 62
 
 L'ordinamento contabile della Regione e' disciplinato con legge regionale.
 
@@ -641,7 +643,7 @@ b) un preventivo delle spese degli enti locali relative all'esercizio delle funz
 
 c) una relazione illustrativa sul rapporto tra previsioni di bilancio e attuazione del piano economico regionale.
 
-### Art. 63
+##### Art. 63
 
 Entro il 30 aprile di ogni anno la Giunta regionale presenta al Consiglio il conto consuntivo dell'esercizio precedente.
 
@@ -651,17 +653,17 @@ Con il conto consuntivo la Giunta presenta al Consiglio una relazione sullo stat
 
 La Giunta regionale trasmette al Consiglio al termine di ogni trimestre il consuntivo di cassa.
 
-### Art. 64
+##### Art. 64
 
 I programmi pluriennali di spesa per singoli settori e progetti hanno di norma la durata e la decorrenza del piano economico regionale.
 
-### Art. 65
+##### Art. 65
 
 Ogni legge regionale che importi nuove o maggiori spese ovvero minori entrate deve indicare i mezzi per farvi fronte.
 
-## TITOLO VIII - ORDINAMENTO AMMINISTRATIVO
+### TITOLO VIII - ORDINAMENTO AMMINISTRATIVO
 
-### Art. 66
+##### Art. 66
 
 L'attivita' amministrativa della Regione e' informata ai principi dell'autonomia e della democrazia, al piu' ampio snellimento ed alla pubblicita' delle procedure.
 
@@ -671,11 +673,11 @@ Gli atti amministrativi della Regione sono pubblici.
 
 La legge regionale disciplina termini e modi della pubblicazione degli atti e del rilascio di copie.
 
-### Art. 67
+##### Art. 67
 
 La struttura degli uffici e' articolata in funzione dei principi posti dall'articolo precedente, nonche' dei compiti prevalentemente direzionali, programmatori e di coordinamento spettanti alla Regione e della piu' ampia delega agli enti locali.
 
-### Art. 68
+##### Art. 68
 
 La legge regionale determina la costituzione degli uffici regionali, lo stato giuridico, il trattamento economico, il ruolo organico del personale.
 
@@ -685,9 +687,9 @@ Il personale della Regione, salvo i casi previsti dalla legge, e' assunto median
 
 Con delibera del Consiglio possono essere conferiti incarichi a tempo determinato per l'assolvimento di funzioni direttive dei servizi della Regione o per lo svolgimento di compiti particolari.
 
-## TITOLO IX - ENTI, AZIENDE, SOCIETA' REGIONALI
+### TITOLO IX - ENTI, AZIENDE, SOCIETA' REGIONALI
 
-### Art. 69
+##### Art. 69
 
 Per attivita' inerenti allo sviluppo economico, sociale e culturale o a servizi di interesse della Regione o comune ad altre regioni che, per la loro speciale natura e dimensione, non possono essere esercitate direttamente o delegate agli enti locali interessati, la Regione puo' con legge:
 
@@ -701,7 +703,7 @@ In caso di societa' finanziarie promosse dalla Regione, a questa ultima deve ess
 
 La legge regionale regola le finalita', l'organizzazione ed il finanziamento degli enti, aziende e societa' regionali provvedendo ad assicurare che la loro attivita' si svolga conformemente agli indirizzi fissati.
 
-### Art. 70
+##### Art. 70
 
 La Regione esercita poteri di indirizzo e di controllo sugli enti ed aziende di cui alle lettere a) e b) dell'articolo precedente, anche attraverso l'esame e l'approvazione dei loro atti fondamentali.
 
@@ -721,9 +723,9 @@ Con il bilancio regionale sono approvati gli impegni relativi ai bilanci degli e
 
 I consuntivi degli enti ed aziende dipendenti dalla Regione sono allegati al conto consuntivo della Regione stessa.
 
-## TITOLO X - REVISIONE DELLO STATUTO
+### TITOLO X - REVISIONE DELLO STATUTO
 
-### Art. 71
+##### Art. 71
 
 Le leggi di revisione dello Statuto sono adottate con il procedimento previsto dal secondo comma dell'articolo 123 della Costituzione.
 

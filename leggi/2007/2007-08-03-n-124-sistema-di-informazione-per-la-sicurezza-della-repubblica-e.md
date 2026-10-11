@@ -30,11 +30,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - STRUTTURA DEL SISTEMA DI INFORMAZIONE PER LA SICUREZZA DELLA
+## Capo I - STRUTTURA DEL SISTEMA DI INFORMAZIONE PER LA SICUREZZA DELLA REPUBBLICA
 
-### REPUBBLICA
-
-#### Art. 1 - Competenze del Presidente del Consiglio dei ministri
+### Art. 1 - Competenze del Presidente del Consiglio dei ministri
 
 1\. Al Presidente del Consiglio dei ministri sono attribuiti, in via esclusiva:
 
@@ -56,13 +54,13 @@ f) la determinazione dell'ammontare annuo delle risorse finanziarie per i serviz
 
 ((3-bis. Il Presidente del Consiglio dei Ministri, sentito il Comitato interministeriale per la sicurezza della Repubblica, impartisce al Dipartimento delle informazioni per la sicurezza e ai servizi di informazione per la sicurezza direttive per rafforzare le attivita' di informazione per la protezione delle infrastrutture critiche materiali e immateriali, con particolare riguardo alla protezione cibernetica e alla sicurezza informatica nazionali)).
 
-#### Art. 2 - Sistema di informazione per la sicurezza della Repubblica
+### Art. 2 - Sistema di informazione per la sicurezza della Repubblica
 
 1\. Il Sistema di informazione per la sicurezza della Repubblica e' composto dal Presidente del Consiglio dei ministri, dal Comitato interministeriale per la sicurezza della Repubblica (CISR), dall'Autorita' delegata di cui all'articolo 3, ove istituita, dal Dipartimento delle informazioni per la sicurezza (DIS), dall'Agenzia informazioni e sicurezza esterna (AISE) e dall'Agenzia informazioni e sicurezza interna (AISI).
 
 2\. Ai fini della presente legge, per "servizi di informazione per la sicurezza" si intendono l'AISE e l'AISI.
 
-#### Art. 3
+### Art. 3
 
 Autorita' delegata
 
@@ -76,7 +74,7 @@ Autorita' delegata
 
 4\. In deroga a quanto previsto dal comma 1 dell'articolo 9 della legge 23 agosto 1988, n. 400, e successive modificazioni, non e' richiesto il parere del Consiglio dei ministri per il conferimento delle deleghe di cui al presente articolo al Ministro senza portafoglio.
 
-#### Art. 4 - Dipartimento delle informazioni per la sicurezza
+### Art. 4 - Dipartimento delle informazioni per la sicurezza
 
 1\. Per lo svolgimento dei compiti di cui al comma 3 e' istituito, presso la Presidenza del Consiglio dei ministri, il Dipartimento delle informazioni per la sicurezza (DIS).
 
@@ -132,7 +130,7 @@ d) non e' consentito il passaggio di personale dall'ufficio ispettivo ai servizi
 
 e) gli ispettori, previa autorizzazione del Presidente del Consiglio dei ministri o dell'Autorita' delegata, ove istituita, possono accedere a tutti gli atti conservati presso i servizi di informazione per la sicurezza e presso il DIS; possono altresi' acquisire, tramite il direttore generale del DIS, altre informazioni da enti pubblici e privati.
 
-#### Art. 5
+### Art. 5
 
 Comitato interministeriale per la sicurezza della Repubblica
 
@@ -146,7 +144,7 @@ Comitato interministeriale per la sicurezza della Repubblica
 
 5\. Il Presidente del Consiglio dei ministri puo' chiamare a partecipare alle sedute del Comitato, anche a seguito di loro richiesta, senza diritto di voto, altri componenti del Consiglio dei ministri, i direttori dell'AISE e dell'AISI, nonche' altre autorita' civili e militari di cui di volta in volta sia ritenuta necessaria la presenza in relazione alle questioni da trattare.
 
-#### Art. 6 - Agenzia informazioni e sicurezza esterna
+### Art. 6 - Agenzia informazioni e sicurezza esterna
 
 1\. E' istituita l'Agenzia informazioni e sicurezza esterna (AISE), alla quale e' affidato il compito di ricercare ed elaborare nei settori di competenza tutte le informazioni utili alla difesa dell'indipendenza, dell'integrita' e della sicurezza della Repubblica, anche in attuazione di accordi internazionali, dalle minacce provenienti dall'estero.
 
@@ -168,7 +166,7 @@ Comitato interministeriale per la sicurezza della Repubblica
 
 10\. L'organizzazione e il funzionamento dell'AISE sono disciplinati con apposito regolamento.
 
-#### Art. 7 - Agenzia informazioni e sicurezza interna
+### Art. 7 - Agenzia informazioni e sicurezza interna
 
 1\. E' istituita l'Agenzia informazioni e sicurezza interna (AISI), alla quale e' affidato il compito di ricercare ed elaborare nei settori di competenza tutte le informazioni utili a difendere, anche in attuazione di accordi internazionali, la sicurezza interna della Repubblica e le istituzioni democratiche poste dalla Costituzione a suo fondamento da ogni minaccia, da ogni attivita' eversiva e da ogni forma di aggressione criminale o terroristica.
 
@@ -190,7 +188,7 @@ Comitato interministeriale per la sicurezza della Repubblica
 
 10\. L'organizzazione e il funzionamento dell'AISI sono disciplinati con apposito regolamento.
 
-#### Art. 8 - Esclusivita' delle funzioni attribuite al DIS, all'AISE e all'AISI
+### Art. 8 - Esclusivita' delle funzioni attribuite al DIS, all'AISE e all'AISI
 
 1\. Le funzioni attribuite dalla presente legge al DIS, all'AISE e all'AISI non possono essere svolte da nessun altro ente, organismo o ufficio.
 
@@ -198,7 +196,7 @@ Comitato interministeriale per la sicurezza della Repubblica
 
 ## Capo II - DISPOSIZIONI ORGANIZZATIVE
 
-#### Art. 9 - Tutela amministrativa del segreto e nulla osta di sicurezza
+### Art. 9 - Tutela amministrativa del segreto e nulla osta di sicurezza
 
 1\. E' istituito nell'ambito del DIS, ai sensi dell'articolo 4, comma 7, l'Ufficio centrale per la segretezza (UCSe), che svolge funzioni direttive e di coordinamento, di consulenza e di controllo sull'applicazione delle norme di legge, dei regolamenti e di ogni altra disposizione in ordine alla tutela amministrativa del segreto di Stato e alle classifiche di segretezza di cui all'articolo 42.
 
@@ -230,7 +228,7 @@ d) la conservazione e l'aggiornamento di un elenco completo di tutti i soggetti 
 
 11\. Il dirigente preposto all'UCSe e' nominato e revocato dal Presidente del Consiglio dei ministri, su proposta dell'Autorita' delegata, ove istituita, sentito il direttore generale del DIS. Il dirigente presenta annualmente al direttore generale del DIS, che informa il Presidente del Consiglio dei ministri, una relazione sull'attivita' svolta e sui problemi affrontati, nonche' sulla rispondenza dell'organizzazione e delle procedure adottate dall'Ufficio ai compiti assegnati e sulle misure da adottare per garantirne la correttezza e l'efficienza. La relazione e' portata a conoscenza del CISR.
 
-#### Art. 10 - Ufficio centrale degli archivi
+### Art. 10 - Ufficio centrale degli archivi
 
 1\. E' istituito nell'ambito del DIS, ai sensi dell'articolo 4, comma 7, l'Ufficio centrale degli archivi, al quale sono demandate:
 
@@ -244,7 +242,7 @@ d) la conservazione, in via esclusiva, presso appositi archivi storici, della do
 
 2\. Il regolamento di cui all'articolo 4, comma 7, definisce le modalita' di organizzazione e di funzionamento dell'Ufficio centrale degli archivi, le procedure di informatizzazione dei documenti e degli archivi cartacei, nonche' le modalita' di conservazione e di accesso e i criteri per l'invio di documentazione all'Archivio centrale dello Stato.
 
-#### Art. 11 - Formazione e addestramento
+### Art. 11 - Formazione e addestramento
 
 1\. E' istituita nell'ambito del DIS, ai sensi dell'articolo 4, comma 7, la Scuola di formazione con il compito di assicurare l'addestramento, la formazione di base e continuativa e l'aggiornamento del personale del DIS e dei servizi di informazione per la sicurezza.
 
@@ -254,7 +252,7 @@ d) la conservazione, in via esclusiva, presso appositi archivi storici, della do
 
 4\. Il regolamento della Scuola definisce modalita' e periodi di frequenza della Scuola medesima, in relazione agli impieghi nell'ambito del Sistema di informazione per la sicurezza della Repubblica e alle esperienze di lavoro svolto in precedenza.
 
-#### Art. 12 - Collaborazione delle Forze armate e delle Forze di polizia
+### Art. 12 - Collaborazione delle Forze armate e delle Forze di polizia
 
 1\. Nell'ambito delle rispettive attribuzioni, le Forze armate, le Forze di polizia, gli ufficiali e gli agenti di polizia giudiziaria e di pubblica sicurezza forniscono ogni possibile cooperazione, anche di tipo tecnico-operativo, al personale addetto ai servizi di informazione per la sicurezza, per lo svolgimento dei compiti a questi affidati.
 
@@ -266,7 +264,7 @@ d) la conservazione, in via esclusiva, presso appositi archivi storici, della do
 
 > \- Per il testo dell'art. 329 del codice di procedura penale, vedasi nella nota all'art. 4.
 
-#### Art. 13
+### Art. 13
 
 (Collaborazione richiesta a pubbliche amministrazioni
 
@@ -288,7 +286,7 @@ e a soggetti erogatori di servizi di pubblica utilita)
 
 > 2\. L'autorizzazione di cui al comma 1 e' richiesta al procuratore generale presso la corte di appello del distretto in cui si trova il soggetto da sottoporre a controllo ovvero, nel caso in cui non sia determinabile, del distretto in cui sono emerse le esigenze di prevenzione. Si applicano, in quanto compatibili, le disposizioni di cui ai commi 2, 3, 4 e 5 dell'art. 226 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, di cui al decreto legislativo 28 luglio 1989, n. 271.
 
-#### Art. 14 - Introduzione dell'articolo 118-bis del codice di procedura penale
+### Art. 14 - Introduzione dell'articolo 118-bis del codice di procedura penale
 
 1\. Dopo l'articolo 118 del codice di procedura penale e' inserito il seguente:
 
@@ -302,7 +300,7 @@ e a soggetti erogatori di servizi di pubblica utilita)
 
 > \- Per il testo dell'art. 329 del codice di procedura penale, vedasi nella nota all'art. 4.
 
-#### Art. 15 - Introduzione dell'articolo 256-bis del codice di procedura penale
+### Art. 15 - Introduzione dell'articolo 256-bis del codice di procedura penale
 
 1\. Dopo l'articolo 256 del codice di procedura penale e' inserito il seguente:
 
@@ -318,7 +316,7 @@ e a soggetti erogatori di servizi di pubblica utilita)
 
 6\. Se il Presidente del Consiglio dei ministri non si pronuncia nel termine di cui al comma 5, l'autorita' giudiziaria acquisisce il documento, l'atto o la cosa".
 
-#### Art. 16 - Introduzione dell'articolo 256-ter del codice di procedura penale
+### Art. 16 - Introduzione dell'articolo 256-ter del codice di procedura penale
 
 1\. Dopo l'articolo 256-bis del codice di procedura penale, introdotto dall'articolo 15 della presente legge, e' inserito il seguente:
 
@@ -328,11 +326,9 @@ e a soggetti erogatori di servizi di pubblica utilita)
 
 3\. Se il Presidente del Consiglio dei ministri non si pronuncia nel termine di cui al comma 2, l'autorita' giudiziaria acquisisce il documento, l'atto o la cosa".
 
-## Capo III - GARANZIE FUNZIONALI, STATO GIURIDICO DEL PERSONALE E NORME
+## Capo III - GARANZIE FUNZIONALI, STATO GIURIDICO DEL PERSONALE E NORME DI CONTABILITA'
 
-### DI CONTABILITA'
-
-#### Art. 17 - Ambito di applicazione delle garanzie funzionali
+### Art. 17 - Ambito di applicazione delle garanzie funzionali
 
 1\. Fermo quanto disposto dall'articolo 51 del codice penale, non e' punibile il personale dei servizi di informazione per la sicurezza che ponga in essere condotte previste dalla legge come reato, legittimamente autorizzate di volta in volta in quanto indispensabili alle finalita' istituzionali di tali servizi, nel rispetto rigoroso dei limiti di cui ai commi 2, 3, 4 e 5 del presente articolo e delle procedure fissate dall'articolo 18.
 
@@ -356,7 +352,7 @@ d) sono effettuate in modo tale da comportare il minor danno possibile per gli i
 
 7\. Quando, per particolari condizioni di fatto e per eccezionali necessita', le attivita' indicate nel presente articolo sono state svolte da persone non addette ai servizi di informazione per la sicurezza, in concorso con uno o piu' dipendenti dei servizi di informazione per la sicurezza, e risulta che il ricorso alla loro opera da parte dei servizi di informazione per la sicurezza era indispensabile ed era stato autorizzato secondo le procedure fissate dall'articolo 18, tali persone sono equiparate, ai fini dell'applicazione della speciale causa di giustificazione, al personale dei servizi di informazione per la sicurezza.
 
-#### Art. 18 - Procedure di autorizzazione delle condotte previste dalla legge come reato
+### Art. 18 - Procedure di autorizzazione delle condotte previste dalla legge come reato
 
 1\. In presenza dei presupposti di cui all'articolo 17 e nel rispetto rigoroso dei limiti da esso stabiliti, il Presidente del Consiglio dei ministri, o l'Autorita' delegata, ove istituita, autorizza le condotte previste dalla legge come reato e le operazioni di cui esse sono parte.
 
@@ -372,7 +368,7 @@ d) sono effettuate in modo tale da comportare il minor danno possibile per gli i
 
 7\. La documentazione relativa alle richieste di autorizzazione previste nel presente articolo e' conservata presso il DIS in apposito schedario segreto, unitamente alla documentazione circa le relative spese, secondo le norme emanate con il regolamento di cui all'articolo 4, comma 7. La rendicontazione di tali spese e' sottoposta a specifica verifica da parte dell'ufficio ispettivo del DIS, di cui all'articolo 4, comma 3, lettera i).
 
-#### Art. 19 - Opposizione della speciale causa di giustificazione all'autorita' giudiziaria
+### Art. 19 - Opposizione della speciale causa di giustificazione all'autorita' giudiziaria
 
 1\. Quando risulta che per taluna delle condotte indicate all'articolo 17 e autorizzate ai sensi dell'articolo 18 sono iniziate indagini preliminari, il direttore del servizio di informazione per la sicurezza interessato, tramite il DIS, oppone all'autorita' giudiziaria che procede l'esistenza della speciale causa di giustificazione.
 
@@ -400,11 +396,11 @@ d) sono effettuate in modo tale da comportare il minor danno possibile per gli i
 
 > \- Gli articoli 390 e seguenti del codice di procedura penale fanno parte del Titolo VI del citato codice concernete l'arresto in flagranza e il fermo.
 
-#### Art. 20 - Sanzioni penali
+### Art. 20 - Sanzioni penali
 
 1\. Gli appartenenti ai servizi di informazione per la sicurezza e i soggetti di cui all'articolo 17, comma 7, che preordinano illegittimamente le condizioni per il rilascio dell'autorizzazione di cui all'articolo 18 sono puniti con la reclusione da tre a dieci anni.
 
-#### Art. 21 - Contingente speciale del personale
+### Art. 21 - Contingente speciale del personale
 
 1\. Con apposito regolamento e' determinato il contingente speciale del personale addetto al DIS e ai servizi di informazione per la sicurezza, istituito presso la Presidenza del Consiglio dei ministri.
 
@@ -478,13 +474,13 @@ n) i criteri e le modalita' per il trasferimento del personale del ruolo di cui 
 
 > 8\. Sono escluse dalla disciplina del presente articolo le assunzioni presso le Forze armate e i corpi civili militarmente ordinati.».
 
-#### Art. 22
+### Art. 22
 
 ((Tutela giurisdizionale
 
 1\. La tutela giurisdizionale davanti al giudice amministrativo, avente ad oggetto controversie relative al rapporto di lavoro, e' disciplinata dal codice del processo amministrativo.))
 
-#### Art. 23 - Esclusione della qualifica di ufficiale o di agente di polizia giudiziaria e di pubblica sicurezza
+### Art. 23 - Esclusione della qualifica di ufficiale o di agente di polizia giudiziaria e di pubblica sicurezza
 
 1\. Il personale di cui all'articolo 21 non riveste la qualifica di ufficiale o di agente di polizia giudiziaria ne', salvo quanto previsto al comma 2, quella di ufficiale o di agente di pubblica sicurezza. Tali qualita' sono sospese durante il periodo di appartenenza al contingente speciale di cui all'articolo 21 per coloro che le rivestono in base agli ordinamenti dell'amministrazione di provenienza.
 
@@ -502,7 +498,7 @@ n) i criteri e le modalita' per il trasferimento del personale del ruolo di cui 
 
 8\. L'adempimento dell'obbligo di cui al comma 7 puo' essere ritardato, su autorizzazione del Presidente del Consiglio dei ministri, quando cio' sia strettamente necessario al perseguimento delle finalita' istituzionali del Sistema di informazione per la sicurezza.
 
-#### Art. 24 - Identita' di copertura
+### Art. 24 - Identita' di copertura
 
 1\. Il direttore generale del DIS, previa comunicazione al Presidente del Consiglio dei ministri o all'Autorita' delegata, ove istituita, puo' autorizzare, su proposta dei direttori dell'AISE e dell'AISI, l'uso, da parte degli addetti ai servizi di informazione per la sicurezza, di documenti di identificazione contenenti indicazioni di qualita' personali diverse da quelle reali. Con la medesima procedura puo' essere disposta o autorizzata l'utilizzazione temporanea di documenti e certificati di copertura.
 
@@ -510,7 +506,7 @@ n) i criteri e le modalita' per il trasferimento del personale del ruolo di cui 
 
 3\. Con apposito regolamento sono definite le modalita' di rilascio e conservazione nonche' la durata della validita' dei documenti e dei certificati di cui al comma 1. Presso il DIS e' tenuto un registro riservato attestante i tempi e le procedure seguite per il rilascio dei documenti e dei certificati di cui al comma 1. Al termine dell'operazione, il documento o il certificato e' conservato in apposito archivio istituito presso il DIS.
 
-#### Art. 25 - Attivita' simulate
+### Art. 25 - Attivita' simulate
 
 1\. Il direttore generale del DIS, previa comunicazione al Presidente del Consiglio dei ministri o all'Autorita' delegata, ove istituita, puo' autorizzare, su proposta dei direttori dell'AISE e dell'AISI, l'esercizio di attivita' economiche simulate, sia nella forma di imprese individuali sia nella forma di societa' di qualunque natura.
 
@@ -518,7 +514,7 @@ n) i criteri e le modalita' per il trasferimento del personale del ruolo di cui 
 
 3\. Con apposito regolamento sono stabilite le modalita' di svolgimento delle attivita' di cui al comma 1.
 
-#### Art. 26 - Trattamento delle notizie personali
+### Art. 26 - Trattamento delle notizie personali
 
 1\. La raccolta e il trattamento delle notizie e delle informazioni sono finalizzati esclusivamente al perseguimento degli scopi istituzionali del Sistema di informazione per la sicurezza.
 
@@ -528,7 +524,7 @@ n) i criteri e le modalita' per il trasferimento del personale del ruolo di cui 
 
 4\. Il DIS, l'AISE e l'AISI non possono istituire archivi al di fuori di quelli la cui esistenza e' stata ufficialmente comunicata al Comitato parlamentare di cui all'articolo 30, ai sensi dell'articolo 33, comma 6.
 
-#### Art. 27 - Tutela del personale nel corso di procedimenti giudiziari
+### Art. 27 - Tutela del personale nel corso di procedimenti giudiziari
 
 1\. Quando, nel corso di un procedimento giudiziario, devono essere assunte le dichiarazioni di un addetto ai servizi di informazione per la sicurezza o al DIS, l'autorita' giudiziaria procedente adotta ogni possibile tutela della persona che deve essere esaminata.
 
@@ -604,7 +600,7 @@ n) i criteri e le modalita' per il trasferimento del personale del ruolo di cui 
 
 > 3\. I testimoni, i periti e i consulenti tecnici sono assunti secondo l'ordine in cui vengono chiamati e, fatta eccezione di quelli che sia necessario trattenere nell'aula di udienza, vi rimangono per il tempo strettamente necessario.».
 
-#### Art. 28 - Introduzione dell'articolo 270-bis del codice di procedura penale
+### Art. 28 - Introduzione dell'articolo 270-bis del codice di procedura penale
 
 1\. Dopo l'articolo 270 del codice di procedura penale e' inserito il seguente:
 
@@ -624,7 +620,7 @@ n) i criteri e le modalita' per il trasferimento del personale del ruolo di cui 
 
 8\. In nessun caso il segreto di Stato e' opponibile alla Corte costituzionale. La Corte adotta le necessarie garanzie per la segretezza del procedimento".
 
-#### Art. 29
+### Art. 29
 
 Norme di contabilita' e disposizioni finanziarie
 
@@ -656,7 +652,7 @@ g) il consuntivo della gestione finanziaria delle spese ordinarie e' trasmesso, 
 
 ## Capo IV - CONTROLLO PARLAMENTARE
 
-#### Art. 30 - Comitato parlamentare per la sicurezza della Repubblica
+### Art. 30 - Comitato parlamentare per la sicurezza della Repubblica
 
 1\. E' istituito il Comitato parlamentare per la sicurezza della Repubblica, composto da cinque deputati e cinque senatori, ((nominati, all'inizio di ogni legislatura, entro venti giorni dalla votazione della fiducia al Governo,)) dai Presidenti dei due rami del Parlamento in proporzione al numero dei componenti dei gruppi parlamentari, garantendo comunque la rappresentanza paritaria della maggioranza e delle opposizioni e tenendo conto della specificita' dei compiti del Comitato. (7)
 
@@ -678,7 +674,7 @@ AGGIORNAMENTO (7)
 
 La L. 21 luglio 2016, n. 145 ha disposto (con l'art. 20, comma 1) che "Limitatamente al prosieguo della XVII legislatura, il Comitato parlamentare per la sicurezza della Repubblica di cui all'articolo 30, comma 1, della legge 3 agosto 2007, n. 124, e' integrato di un ulteriore deputato e di un ulteriore senatore, ferma restando l'attuale composizione dell'organo e dell'ufficio di presidenza".
 
-#### Art. 30-bis
+### Art. 30-bis
 
 (( (Comitato parlamentare provvisorio per la sicurezza della Repubblica). ))
 
@@ -688,7 +684,7 @@ La L. 21 luglio 2016, n. 145 ha disposto (con l'art. 20, comma 1) che "Limitatam
 
 3\. Il Comitato provvisorio cessa in ogni caso di esercitare le proprie funzioni decorsi venti giorni dalla votazione della fiducia al Governo)).
 
-#### Art. 31 - Funzioni di controllo del Comitato parlamentare per la sicurezza della Repubblica
+### Art. 31 - Funzioni di controllo del Comitato parlamentare per la sicurezza della Repubblica
 
 1\. Nell'espletamento delle proprie funzioni, il Comitato parlamentare per la sicurezza della Repubblica procede al periodico svolgimento di audizioni del Presidente del Consiglio dei ministri e dell'Autorita' delegata, ove istituita, dei Ministri facenti parte del CISR, del direttore generale del DIS e dei direttori dell'AISE e dell'AISI.
 
@@ -724,7 +720,7 @@ In nessun caso l'esigenza di riservatezza di cui al comma 8 o il segreto di Stat
 
 15\. Nei casi previsti al comma 14, il Presidente del Consiglio dei ministri puo' differire l'accesso qualora vi sia il pericolo di interferenza con operazioni in corso.
 
-#### Art. 32 - Funzioni consultive del Comitato parlamentare per la sicurezza della Repubblica
+### Art. 32 - Funzioni consultive del Comitato parlamentare per la sicurezza della Repubblica
 
 1\. Il Comitato parlamentare per la sicurezza della Repubblica esprime il proprio parere sugli schemi dei regolamenti previsti dalla presente legge, nonche' su ogni altro schema di decreto o regolamento concernente l'organizzazione e lo stato del contingente speciale di cui all'articolo 21. ((Il Comitato esprime, altresi', il proprio parere sulle delibere assunte dal Comitato interministeriale per la sicurezza della Repubblica sulla ripartizione delle risorse finanziarie tra il DIS e i servizi di informazione per la sicurezza e sui relativi bilanci preventivi e consuntivi, nonche' sul piano annuale delle attivita' dell'ufficio ispettivo di cui all'articolo 4, comma 3, lettera i))).
 
@@ -734,7 +730,7 @@ In nessun caso l'esigenza di riservatezza di cui al comma 8 o il segreto di Stat
 
 4\. I pareri di cui al comma 1 sono espressi dal Comitato nel termine di un mese ((dalla ricezione dell'atto)); tale termine e' prorogabile una sola volta, per non piu' di quindici giorni.
 
-#### Art. 33
+### Art. 33
 
 (Obblighi di comunicazione al Comitato parlamentare
 
@@ -770,13 +766,13 @@ per la sicurezza della Repubblica)
 
 > \- Per il testo dell'art. 270-bis del codice di procedura penale, vedasi l'art. 28 della presente legge.
 
-#### Art. 34
+### Art. 34
 
 (( (Accertamento di condotte illegittime o irregolari) ))
 
 ((1. Il Comitato parlamentare per la sicurezza della Repubblica, qualora, sulla base degli elementi acquisiti nell'esercizio delle proprie funzioni, deliberi di procedere all'accertamento della correttezza delle condotte poste in essere da appartenenti o da ex appartenenti agli organismi di informazione e sicurezza, puo' richiedere al Presidente del Consiglio dei Ministri di disporre lo svolgimento di inchieste interne ai sensi dell'articolo 4, comma 3, lettera i). Le relazioni conclusive delle inchieste interne sono trasmesse integralmente al medesimo Comitato parlamentare)).
 
-#### Art. 35
+### Art. 35
 
 (Relazioni del Comitato parlamentare
 
@@ -786,7 +782,7 @@ per la sicurezza della Repubblica)
 
 2\. Il Comitato parlamentare per la sicurezza della Repubblica puo', altresi', trasmettere al Parlamento nel corso dell'anno informative o relazioni urgenti.
 
-#### Art. 36 - Obbligo del segreto
+### Art. 36 - Obbligo del segreto
 
 1\. I componenti del Comitato parlamentare per la sicurezza della Repubblica, i funzionari e il personale di qualsiasi ordine e grado addetti al Comitato stesso e tutte le persone che collaborano con il Comitato oppure che vengono a conoscenza, per ragioni d'ufficio o di servizio, dell'attivita' del Comitato sono tenuti al segreto relativamente alle informazioni acquisite, anche dopo la cessazione dell'incarico.
 
@@ -812,7 +808,7 @@ per la sicurezza della Repubblica)
 
 > Il pubblico ufficiale o la persona incaricata di un pubblico servizio, che, per procurare a se' o ad altri un indebito profitto patrimoniale, si avvale illegittimamente di notizie d'ufficio, le quali debbano rimanere segrete, e' punito con la reclusione da due a cinque anni. Se il fatto e' commesso al fine di procurare a se' o ad altri un ingiusto profitto non patrimoniale o di cagionare ad altri un danno ingiusto, si applica la pena della reclusione fino a due anni.».
 
-#### Art. 37 - Organizzazione interna
+### Art. 37 - Organizzazione interna
 
 1\. L'attivita' e il funzionamento del Comitato parlamentare per la sicurezza della Repubblica sono disciplinati da un regolamento interno approvato dal Comitato stesso a maggioranza assoluta dei propri componenti. Ciascun componente puo' proporre la modifica delle disposizioni regolamentari.
 
@@ -842,7 +838,7 @@ per la sicurezza della Repubblica)
 
 > Gli atti del Comitato sono coperti dal segreto.».
 
-#### Art. 38 - Relazione al Parlamento
+### Art. 38 - Relazione al Parlamento
 
 1\. Entro il mese di febbraio di ogni anno il Governo trasmette al Parlamento una relazione scritta, riferita all'anno precedente, sulla politica dell'informazione per la sicurezza e sui risultati ottenuti.
 
@@ -856,7 +852,7 @@ Il D.L. 14 giugno 2021, n. 82, aveva disposto (con l'art. 16, comma 2) l'abrogaz
 
 ## Capo V - DISCIPLINA DEL SEGRETO
 
-#### Art. 39 - Segreto di Stato
+### Art. 39 - Segreto di Stato
 
 1\. Sono coperti dal segreto di Stato gli atti, i documenti, le notizie, le attivita' e ogni altra cosa la cui diffusione sia idonea a recare danno all'integrita' della Repubblica, anche in relazione ad accordi internazionali, alla difesa delle istituzioni poste dalla Costituzione a suo fondamento, all'indipendenza dello Stato rispetto agli altri Stati e alle relazioni con essi, alla preparazione e alla difesa militare dello Stato.
 
@@ -894,7 +890,7 @@ Il D.L. 14 giugno 2021, n. 82, aveva disposto (con l'art. 16, comma 2) l'abrogaz
 
 > Se e' cagionata la morte di una sola persona, si applica l'ergastolo. In ogni altro caso si applica la reclusione non inferiore a quindici anni.».
 
-#### Art. 40 - Tutela del segreto di Stato
+### Art. 40 - Tutela del segreto di Stato
 
 1\. L'articolo 202 del codice di procedura penale e' sostituito dal seguente:
 
@@ -936,7 +932,7 @@ b) il comma 3 e' abrogato.
 
 5\. Di ogni caso di conferma dell'opposizione del segreto di Stato, ai sensi dell'articolo 202 del codice di procedura penale, come sostituito dal comma 1 del presente articolo, o dell'articolo 66, comma 2, delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, di cui al decreto legislativo 28 luglio 1989, n. 271, il Presidente del Consiglio dei ministri e' tenuto a dare comunicazione, indicandone le ragioni essenziali , al Comitato parlamentare di cui all'articolo 30 della presente legge. ((Il Presidente del Consiglio dei Ministri, su richiesta del Presidente del Comitato parlamentare, espone, in una seduta segreta appositamente convocata, il quadro informativo idoneo a consentire l'esame nel merito della conferma dell'opposizione del segreto di Stato)). Il Comitato, se ritiene infondata l'opposizione del segreto, ne riferisce a ciascuna delle Camere per le conseguenti valutazioni.
 
-#### Art. 41 - Divieto di riferire riguardo a fatti coperti dal segreto di Stato
+### Art. 41 - Divieto di riferire riguardo a fatti coperti dal segreto di Stato
 
 1\. Ai pubblici ufficiali, ai pubblici impiegati e agli incaricati di pubblico servizio e' fatto divieto di riferire riguardo a fatti coperti dal segreto di Stato. Nel processo penale, in ogni stato e grado del procedimento, salvo quanto disposto dall'articolo 202 del codice di procedura penale, come sostituito dall'articolo 40 della presente legge, se e' stato opposto il segreto di Stato, l'autorita' giudiziaria ne informa il Presidente del Consiglio dei ministri, nella sua qualita' di Autorita' nazionale per la sicurezza, per le eventuali deliberazioni di sua competenza.
 
@@ -956,7 +952,7 @@ b) il comma 3 e' abrogato.
 
 9\. Il Presidente del Consiglio dei ministri e' tenuto a dare comunicazione di ogni caso di conferma dell'opposizione del segreto di Stato ai sensi del presente articolo al Comitato parlamentare di cui all'articolo 30, indicandone le ragioni essenziali. ((Il Presidente del Consiglio dei Ministri, su richiesta del Presidente del Comitato parlamentare, espone, in una seduta segreta appositamente convocata, il quadro informativo idoneo a consentire l'esame nel merito della conferma dell'opposizione del segreto di Stato)). Il Comitato parlamentare, se ritiene infondata l'opposizione del segreto di Stato, ne riferisce a ciascuna delle Camere per le conseguenti valutazioni.
 
-#### Art. 42 - Classifiche di segretezza
+### Art. 42 - Classifiche di segretezza
 
 1\. Le classifiche di segretezza sono attribuite per circoscrivere la conoscenza di informazioni, documenti, atti, attivita' o cose ai soli soggetti che abbiano necessita' di accedervi in ragione delle proprie funzioni istituzionali.
 
@@ -986,7 +982,7 @@ Il D.L. 22 giugno 2023, n. 75 ha disposto (con l'art. 1, comma 4) che "Ai fini d
 
 ## Capo VI - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Art. 43 - Procedura per l'adozione dei regolamenti
+### Art. 43 - Procedura per l'adozione dei regolamenti
 
 1\. Salvo che non sia diversamente stabilito, le disposizioni regolamentari previste dalla presente legge sono emanate entro centottanta giorni dalla data della sua entrata in vigore, con uno o piu' decreti del Presidente del Consiglio dei ministri adottati anche in deroga all'articolo 17 della legge 23 agosto 1988, n. 400, e successive modificazioni, previo parere del Comitato parlamentare di cui all'articolo 30 e sentito il CISR.
 
@@ -1026,7 +1022,7 @@ Il D.L. 22 giugno 2023, n. 75 ha disposto (con l'art. 1, comma 4) che "Ai fini d
 
 > e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali.».
 
-#### Art. 44 - Abrogazioni
+### Art. 44 - Abrogazioni
 
 1\. La legge 24 ottobre 1977, n. 801, e' abrogata, salvo quanto previsto al comma 2. Sono altresi' abrogate tutte le disposizioni interne e regolamentari in contrasto o comunque non compatibili con la presente legge, tranne le norme dei decreti attuativi che interessano il contenzioso del personale in quiescenza dei servizi di informazione per la sicurezza ai fini della tutela giurisdizionale di diritti e interessi.
 
@@ -1040,7 +1036,7 @@ Il D.L. 22 giugno 2023, n. 75 ha disposto (con l'art. 1, comma 4) che "Ai fini d
 
 > \- Per l'argomento della legge 24 ottobre 1977, n. 801, vedasi nella nota all'art. 37.
 
-#### Art. 45 - Disposizioni transitorie
+### Art. 45 - Disposizioni transitorie
 
 1\. Entro dieci giorni dalla data di entrata in vigore della presente legge e' costituito il Comitato interministeriale per la sicurezza della Repubblica e il Comitato parlamentare di cui all'articolo 11 della legge 24 ottobre 1977, n. 801, costituito nella XV legislatura e' integrato nella sua composizione ai sensi dell'articolo 30, comma 1, della presente legge. A decorrere dallo stesso termine cessa dalle proprie funzioni il Comitato interministeriale per le informazioni e la sicurezza di cui all'articolo 2 della legge 24 ottobre 1977, n. 801.
 
@@ -1060,7 +1056,7 @@ Il D.L. 22 giugno 2023, n. 75 ha disposto (con l'art. 1, comma 4) che "Ai fini d
 
 > \- Per il testo dell'art. 11 della legge 24 ottobre 1977, n. 801, vedasi nella nota all'art. 37.
 
-#### Art. 46 - Entrata in vigore
+### Art. 46 - Entrata in vigore
 
 1\. La presente legge entra in vigore il sessantesimo giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
